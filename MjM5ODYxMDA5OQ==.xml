@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T14:22:09+08:00</updated>
+  <updated>2020-09-22T01:17:16+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最近在看完的6本书</title>
+    <updated>2020-09-20T17:40:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-20:/s/C-jp7M3c9R5LhkLh8Vxxgg</id>
+    <link href="https://mp.weixin.qq.com/s/C-jp7M3c9R5LhkLh8Vxxgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多机房多活架构，究竟如何落地？</title>
     <updated>2020-09-20T16:27:30+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-08-28T11:56:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-28:/s/P-rut25PDpU3fjGL_vkrUQ</id>
     <link href="https://mp.weixin.qq.com/s/P-rut25PDpU3fjGL_vkrUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>订单中心，1亿数据架构，这次服了</title>
-    <updated>2020-08-27T07:54:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-27:/s/AVGc7JskhKxG0iPQBX5J1w</id>
-    <link href="https://mp.weixin.qq.com/s/AVGc7JskhKxG0iPQBX5J1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
