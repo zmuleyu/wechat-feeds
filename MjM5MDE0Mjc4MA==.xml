@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T14:22:08+08:00</updated>
+  <updated>2020-09-21T18:20:10+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么Java、Python会成为程序员最害怕的编程语言？</title>
+    <updated>2020-09-21T16:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/2sdh4fEz4ZTKUO1tmOezdw</id>
+    <link href="https://mp.weixin.qq.com/s/2sdh4fEz4ZTKUO1tmOezdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>报告下载 | 数字化转型中的人才紧缺问题，有救吗？</title>
+    <updated>2020-09-21T16:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/uDHaXVmVU-84aFnvZPI3mA</id>
+    <link href="https://mp.weixin.qq.com/s/uDHaXVmVU-84aFnvZPI3mA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>实践人工智能需要哪些新思维？｜ QCon+</title>
+    <updated>2020-09-21T16:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/ZRkbpbyps1rq2ivQgILFCQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZRkbpbyps1rq2ivQgILFCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软免费福利来了，送你一位全能“数字化COO”｜ Q推荐</title>
+    <updated>2020-09-21T16:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/kGm5_htQY_JvEKmSnsICWA</id>
+    <link href="https://mp.weixin.qq.com/s/kGm5_htQY_JvEKmSnsICWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Node.js开发人员都应该知道的12个有用的包</title>
+    <updated>2020-09-21T16:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/1y_t3ToYHAHC3-23edeMdQ</id>
+    <link href="https://mp.weixin.qq.com/s/1y_t3ToYHAHC3-23edeMdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub为什么托管不了Linux内核社区？</title>
+    <updated>2020-09-21T16:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/aQOFoSfpHX8U08v5NboLKg</id>
+    <link href="https://mp.weixin.qq.com/s/aQOFoSfpHX8U08v5NboLKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>比尔·盖茨：芯片不卖给中国，将来美国高薪工作就没了</title>
     <updated>2020-09-19T20:20:27+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2020-09-18T14:37:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/8gUsKBTogwbTnvxy3UK83w</id>
     <link href="https://mp.weixin.qq.com/s/8gUsKBTogwbTnvxy3UK83w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入浅出 Spark：内存计算的由来</title>
-    <updated>2020-09-18T14:37:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/uke6jspsuTwpgD-UtiGz3g</id>
-    <link href="https://mp.weixin.qq.com/s/uke6jspsuTwpgD-UtiGz3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flash 终将谢幕：微软将于年底停止对 Flash 的支持</title>
-    <updated>2020-09-18T14:37:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/iAx6quF0dgt__mV70FXuag</id>
-    <link href="https://mp.weixin.qq.com/s/iAx6quF0dgt__mV70FXuag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软引入 Rust，这门语言终于要火了吗？| 极客时间</title>
-    <updated>2020-09-16T23:25:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/j7av__pfZ7PArY-kitvhnQ</id>
-    <link href="https://mp.weixin.qq.com/s/j7av__pfZ7PArY-kitvhnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在云原生时代，就一定要用微服务吗？</title>
-    <updated>2020-09-16T23:25:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/gDIMrxt6V4vMkHX5dpeCSw</id>
-    <link href="https://mp.weixin.qq.com/s/gDIMrxt6V4vMkHX5dpeCSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硬核科技炸场，Ignite 2020重磅回归 | Q推荐</title>
-    <updated>2020-09-16T23:25:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/KJc5Mvh2Fe3Rd0lRv4-S5w</id>
-    <link href="https://mp.weixin.qq.com/s/KJc5Mvh2Fe3Rd0lRv4-S5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从 0 到 1 搭建技术中台之 iOS 可视化埋点实践</title>
-    <updated>2020-09-16T23:25:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/X1GCbscflbd_hp0R5SoCBg</id>
-    <link href="https://mp.weixin.qq.com/s/X1GCbscflbd_hp0R5SoCBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
