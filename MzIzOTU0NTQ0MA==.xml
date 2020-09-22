@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T16:21:50+08:00</updated>
+  <updated>2020-09-22T11:17:35+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java如何支持函数式编程？</title>
+    <updated>2020-09-21T18:19:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/Ko41OG9yFAZZMEi6-C9kBQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ko41OG9yFAZZMEi6-C9kBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>源码解析：Git的第一个提交是什么样的？</title>
     <updated>2020-09-20T23:42:21+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-09-08T21:41:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-08:/s/eiN8KTTaUZNAlGTYoYbQXA</id>
     <link href="https://mp.weixin.qq.com/s/eiN8KTTaUZNAlGTYoYbQXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何实现一个跨库连表SQL生成器？</title>
-    <updated>2020-09-07T22:28:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-07:/s/UZsiEFzSGX53vtiR42rqyA</id>
-    <link href="https://mp.weixin.qq.com/s/UZsiEFzSGX53vtiR42rqyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云栖大会特享，热营抢先开！</title>
-    <updated>2020-09-07T22:28:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-07:/s/xFk42Q-HRITVNpyM_tugHQ</id>
-    <link href="https://mp.weixin.qq.com/s/xFk42Q-HRITVNpyM_tugHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
