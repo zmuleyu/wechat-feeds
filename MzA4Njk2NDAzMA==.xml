@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:05:55+08:00</updated>
+  <updated>2020-09-22T20:23:26+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 新玩法：在 yaml 中编程</title>
+    <updated>2020-09-22T17:15:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/eUbk7bynMoAwYvVtXs46qg</id>
+    <link href="https://mp.weixin.qq.com/s/eUbk7bynMoAwYvVtXs46qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 一款功能强大，开源免费的 H5 可视化页面配置解决方案</title>
+    <updated>2020-09-22T17:15:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/68ck3bDCF62fyy3wRDWFiA</id>
+    <link href="https://mp.weixin.qq.com/s/68ck3bDCF62fyy3wRDWFiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 Docker 快速上手鸿蒙</title>
     <updated>2020-09-21T17:20:53+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-10T19:20:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-10:/s/XOhNoTLQHgxWv_RiwH-uaQ</id>
     <link href="https://mp.weixin.qq.com/s/XOhNoTLQHgxWv_RiwH-uaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运维自动化工具 Ansible，了解一下？</title>
-    <updated>2020-09-09T19:00:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/TDXYGpL_g6ESEpa2-aaEBw</id>
-    <link href="https://mp.weixin.qq.com/s/TDXYGpL_g6ESEpa2-aaEBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 一套网页录屏的解决方案</title>
-    <updated>2020-09-09T19:00:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/ovXejbfMd-h0XlrbgtgPXQ</id>
-    <link href="https://mp.weixin.qq.com/s/ovXejbfMd-h0XlrbgtgPXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

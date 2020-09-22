@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:22+08:00</updated>
+  <updated>2020-09-22T20:23:57+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>0基础至进阶 - Kubernetes CKA线上直播班</title>
+    <updated>2020-09-22T18:31:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/HUsxU-je8ferox3GsO51uw</id>
+    <link href="https://mp.weixin.qq.com/s/HUsxU-je8ferox3GsO51uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>运维狗，工作三年，转行AI应该怎样规划？</title>
     <updated>2020-09-21T11:28:58+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-09-13T10:24:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/4NosgYzJCfYUhQxS8uPONA</id>
     <link href="https://mp.weixin.qq.com/s/4NosgYzJCfYUhQxS8uPONA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Service Mesh 在超大规模场景下的落地挑战</title>
-    <updated>2020-09-11T22:27:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/3JuIO9_8SzPXEsuXqagPsg</id>
-    <link href="https://mp.weixin.qq.com/s/3JuIO9_8SzPXEsuXqagPsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>以云原生技术管理边缘原生应用</title>
-    <updated>2020-09-11T22:27:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/QRnoMOhULfHRwvz-Q7s3Ag</id>
-    <link href="https://mp.weixin.qq.com/s/QRnoMOhULfHRwvz-Q7s3Ag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
