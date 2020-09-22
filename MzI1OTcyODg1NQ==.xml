@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:05:44+08:00</updated>
+  <updated>2020-09-22T23:18:18+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入理解Redis事务</title>
+    <updated>2020-09-22T17:46:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/YTdiMNaX-GbiRWQP3cfylA</id>
+    <link href="https://mp.weixin.qq.com/s/YTdiMNaX-GbiRWQP3cfylA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Linux+Python+Go】免费公开课合集</title>
+    <updated>2020-09-22T17:46:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/OWYurspBepE-FUGUmdsZIQ</id>
+    <link href="https://mp.weixin.qq.com/s/OWYurspBepE-FUGUmdsZIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文详解Linux 系统结构</title>
     <updated>2020-09-21T20:24:33+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-15T18:43:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/Grfsi-L_ZkM3J1SnCFhu_A</id>
     <link href="https://mp.weixin.qq.com/s/Grfsi-L_ZkM3J1SnCFhu_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>系统管理员必备，服务器监控的轻量级工具</title>
-    <updated>2020-09-14T21:15:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/nAm5IxgNyf_VMBKD_iGiLA</id>
-    <link href="https://mp.weixin.qq.com/s/nAm5IxgNyf_VMBKD_iGiLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nginx入门级教程 | 知识点详解（内附视频）</title>
-    <updated>2020-09-14T21:15:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/tbMOjmPDjN0PyGnPGgyxyQ</id>
-    <link href="https://mp.weixin.qq.com/s/tbMOjmPDjN0PyGnPGgyxyQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
