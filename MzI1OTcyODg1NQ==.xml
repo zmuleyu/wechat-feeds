@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T23:18:18+08:00</updated>
+  <updated>2020-09-23T23:17:27+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux fsck命令：检测和修复文件系统</title>
+    <updated>2020-09-23T18:41:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/bL9IiWg1AU2OEooOi9PWwg</id>
+    <link href="https://mp.weixin.qq.com/s/bL9IiWg1AU2OEooOi9PWwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>运维必知必会的监控知识体系全梳理</title>
+    <updated>2020-09-23T18:41:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/jvWLQTizQ1m28Vs2565TCw</id>
+    <link href="https://mp.weixin.qq.com/s/jvWLQTizQ1m28Vs2565TCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>现金直减8800！错过再等10年！加赠新版马哥亲笔寄语签名k8s</title>
+    <updated>2020-09-23T18:41:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/5KqvwKH6MjW5yUQ81-sdaw</id>
+    <link href="https://mp.weixin.qq.com/s/5KqvwKH6MjW5yUQ81-sdaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入理解Redis事务</title>
     <updated>2020-09-22T17:46:55+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-16T18:09:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/hZ4VGzWCtiW_fxb7PKFgZg</id>
     <link href="https://mp.weixin.qq.com/s/hZ4VGzWCtiW_fxb7PKFgZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-09-16T18:09:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/4sEZmQ9EqNTGAOAo2BscLg</id>
-    <link href="https://mp.weixin.qq.com/s/4sEZmQ9EqNTGAOAo2BscLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运维人员常用的Linux命令汇总</title>
-    <updated>2020-09-15T18:43:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/Vu6LN1Io-t_KFdRk_FBqow</id>
-    <link href="https://mp.weixin.qq.com/s/Vu6LN1Io-t_KFdRk_FBqow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>8分钟带你深入浅出搞懂Nginx</title>
-    <updated>2020-09-15T18:43:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/Grfsi-L_ZkM3J1SnCFhu_A</id>
-    <link href="https://mp.weixin.qq.com/s/Grfsi-L_ZkM3J1SnCFhu_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
