@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:45+08:00</updated>
+  <updated>2020-09-23T20:23:46+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯AI Lab联合清华，港中文长文解析图深度学习的历史、最新进展到应用</title>
+    <updated>2020-09-23T17:50:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/IlgvzuAFaJs2SxU42AFkyQ</id>
+    <link href="https://mp.weixin.qq.com/s/IlgvzuAFaJs2SxU42AFkyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C语言发展史的点点滴滴</title>
     <updated>2020-09-21T17:18:15+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-09-07T17:18:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-07:/s/3zO1ohGnGDGHnxvxrIZZhw</id>
     <link href="https://mp.weixin.qq.com/s/3zO1ohGnGDGHnxvxrIZZhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang 汇编入门知识总结</title>
-    <updated>2020-09-04T15:52:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-04:/s/tN27osC6K0NM-Laj9MbtsA</id>
-    <link href="https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯TAPD上云三周年，敏捷助力数字化战“疫”</title>
-    <updated>2020-09-04T15:52:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-04:/s/oITLj5YlDiTWTdiWHFcpgg</id>
-    <link href="https://mp.weixin.qq.com/s/oITLj5YlDiTWTdiWHFcpgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

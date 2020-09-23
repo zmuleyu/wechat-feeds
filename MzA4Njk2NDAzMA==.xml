@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T20:23:26+08:00</updated>
+  <updated>2020-09-23T20:22:24+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端插件化架构的探索和实践</title>
+    <updated>2020-09-23T20:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/Gra8JOmjoEGTxj0NUOlrWQ</id>
+    <link href="https://mp.weixin.qq.com/s/Gra8JOmjoEGTxj0NUOlrWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 |《JavaScript 20 年》</title>
+    <updated>2020-09-23T20:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/XVQLVK0xPVx0aK9KpXZHOA</id>
+    <link href="https://mp.weixin.qq.com/s/XVQLVK0xPVx0aK9KpXZHOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 新玩法：在 yaml 中编程</title>
     <updated>2020-09-22T17:15:22+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-11T21:00:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/eLl8q_ZfyeBMcYsHIIol4A</id>
     <link href="https://mp.weixin.qq.com/s/eLl8q_ZfyeBMcYsHIIol4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个面试官的面试思路</title>
-    <updated>2020-09-10T19:20:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/kWmoJryhFRMxvpsq7ciCzQ</id>
-    <link href="https://mp.weixin.qq.com/s/kWmoJryhFRMxvpsq7ciCzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「码农周刊 VIP 会员专属邮件周报」明晚发送，赶紧上车吧！</title>
-    <updated>2020-09-10T19:20:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/XOhNoTLQHgxWv_RiwH-uaQ</id>
-    <link href="https://mp.weixin.qq.com/s/XOhNoTLQHgxWv_RiwH-uaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

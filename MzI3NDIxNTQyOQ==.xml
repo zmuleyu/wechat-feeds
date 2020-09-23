@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:07:16+08:00</updated>
+  <updated>2020-09-23T20:24:00+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CNCF 发布秋季 CommunityBridge 计划，Chaos Mesh® 和 TiKV 项目入选</title>
+    <updated>2020-09-23T18:06:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/HYv-hFEJ3s49M9mjvxOHlA</id>
+    <link href="https://mp.weixin.qq.com/s/HYv-hFEJ3s49M9mjvxOHlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>High Performance TiDB 课程第七期上线 | 事务层性能优化</title>
+    <updated>2020-09-23T18:06:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/ZjZvWW-ubTvjoBNnJEQvVw</id>
+    <link href="https://mp.weixin.qq.com/s/ZjZvWW-ubTvjoBNnJEQvVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>当我们在谈论 HTAP 时我们在谈论什么 | Meetup No.130 回顾</title>
     <updated>2020-09-18T14:28:36+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-09-07T15:36:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-07:/s/mIkZJM9jkLw5eTCNCv5LBA</id>
     <link href="https://mp.weixin.qq.com/s/mIkZJM9jkLw5eTCNCv5LBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PingCAP 论文《TiDB: A Raft-based HTAP Database》入选 VLDB 2020</title>
-    <updated>2020-09-03T15:58:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-03:/s/AmiZHLo5a01W6JYKWeBCVA</id>
-    <link href="https://mp.weixin.qq.com/s/AmiZHLo5a01W6JYKWeBCVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
