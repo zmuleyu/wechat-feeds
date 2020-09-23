@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T11:17:34+08:00</updated>
+  <updated>2020-09-23T11:17:03+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我们离得开 Spring 框架吗？</title>
+    <updated>2020-09-22T22:17:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/rpoGRJ5KlZH6wbB8OncbbA</id>
+    <link href="https://mp.weixin.qq.com/s/rpoGRJ5KlZH6wbB8OncbbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JAVA 线上故障排查套路，从 CPU、磁盘、内存、网络到GC 一条龙！</title>
+    <updated>2020-09-22T22:17:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/UolWzSWEbtKFBVnqKWYKSQ</id>
+    <link href="https://mp.weixin.qq.com/s/UolWzSWEbtKFBVnqKWYKSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>祖传技术栈改造，从照抄大公司作业开始</title>
     <updated>2020-09-22T01:27:13+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-09-13T22:50:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/d5UhCIZ44LDaeP7euUlu4g</id>
     <link href="https://mp.weixin.qq.com/s/d5UhCIZ44LDaeP7euUlu4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>因为BitMap，白白搭进去8台服务器...</title>
-    <updated>2020-09-12T21:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-12:/s/kYerA-l0_hyAi3zB9bRo8A</id>
-    <link href="https://mp.weixin.qq.com/s/kYerA-l0_hyAi3zB9bRo8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

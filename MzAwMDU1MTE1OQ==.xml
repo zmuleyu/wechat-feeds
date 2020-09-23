@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T16:22:22+08:00</updated>
+  <updated>2020-09-23T11:19:09+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 三年 26 K，还是被平均了！</title>
+    <updated>2020-09-23T09:49:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/DzZt1A-po8c9nbLLSrQ_oA</id>
+    <link href="https://mp.weixin.qq.com/s/DzZt1A-po8c9nbLLSrQ_oA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个每秒超过3万请求的微服务开发经历</title>
     <updated>2020-09-22T14:14:22+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-04T12:10:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-04:/s/O6bMThTusjq4VmdeQZaDEw</id>
     <link href="https://mp.weixin.qq.com/s/O6bMThTusjq4VmdeQZaDEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生网络代理 MOSN 的进化之路</title>
-    <updated>2020-09-01T09:16:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-01:/s/6ZArZ2zuVy1N006JOc7f3Q</id>
-    <link href="https://mp.weixin.qq.com/s/6ZArZ2zuVy1N006JOc7f3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

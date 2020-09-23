@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T11:17:35+08:00</updated>
+  <updated>2020-09-23T11:17:51+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何度量研发效能？</title>
+    <updated>2020-09-22T22:17:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/ADr-xCPLUS0iUplYu_8Cig</id>
+    <link href="https://mp.weixin.qq.com/s/ADr-xCPLUS0iUplYu_8Cig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java如何支持函数式编程？</title>
     <updated>2020-09-21T18:19:14+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-09-09T19:42:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-09:/s/qqX6HkV_GGkcCS-OHw-lqQ</id>
     <link href="https://mp.weixin.qq.com/s/qqX6HkV_GGkcCS-OHw-lqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ZIP 也能边下载边解压？流式解压技术揭秘！</title>
-    <updated>2020-09-08T21:41:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-08:/s/NB12KQOHjso9wH8Ju1ueSA</id>
-    <link href="https://mp.weixin.qq.com/s/NB12KQOHjso9wH8Ju1ueSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线下 | 云栖百城汇来了！相约五城，共同探讨数智中国</title>
-    <updated>2020-09-08T21:41:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-08:/s/eiN8KTTaUZNAlGTYoYbQXA</id>
-    <link href="https://mp.weixin.qq.com/s/eiN8KTTaUZNAlGTYoYbQXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

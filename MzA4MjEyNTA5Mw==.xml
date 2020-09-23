@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T23:18:58+08:00</updated>
+  <updated>2020-09-23T11:17:46+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>学 AI 的，为何对论文十分重视？</title>
+    <updated>2020-09-23T00:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/OE1twIjRWB4B-TzwsbQZdQ</id>
+    <link href="https://mp.weixin.qq.com/s/OE1twIjRWB4B-TzwsbQZdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pytorch 中的 5 个非常有用的张量操作</title>
+    <updated>2020-09-23T00:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/5paU17PT6gOM_D6BbrtzqA</id>
+    <link href="https://mp.weixin.qq.com/s/5paU17PT6gOM_D6BbrtzqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python 之父为什么嫌弃 lambda 匿名函数？</title>
     <updated>2020-09-22T21:20:33+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-09-10T23:29:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-10:/s/48kG6eP9jJo_AfnV6j_RGg</id>
     <link href="https://mp.weixin.qq.com/s/48kG6eP9jJo_AfnV6j_RGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 工匠：写好面向对象代码的原则（中）</title>
-    <updated>2020-09-10T22:51:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/tF5Vo_TCZ4UrBa-3fOs5Fg</id>
-    <link href="https://mp.weixin.qq.com/s/tF5Vo_TCZ4UrBa-3fOs5Fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

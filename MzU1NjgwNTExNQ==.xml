@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-22T13:18:20+08:00</updated>
+  <updated>2020-09-23T11:18:50+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GitHub 超 3W Star，最受欢迎的 VS Code IDE 是如何炼成的？</title>
+    <updated>2020-09-22T21:26:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-22:/s/gwyWzEduxPvVe0jbBDLtOw</id>
+    <link href="https://mp.weixin.qq.com/s/gwyWzEduxPvVe0jbBDLtOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 VS Code 中，也能玩转 IoT 开发！</title>
     <updated>2020-09-22T11:59:15+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-09-13T21:43:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/JEUZ5ZL_iUKp6nvJCBXt9w</id>
     <link href="https://mp.weixin.qq.com/s/JEUZ5ZL_iUKp6nvJCBXt9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VS Code Java 八月更新！IntelliSense 性能大幅提升！</title>
-    <updated>2020-09-13T10:34:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-13:/s/fbY992sYF8lRRC-LpmlrHg</id>
-    <link href="https://mp.weixin.qq.com/s/fbY992sYF8lRRC-LpmlrHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
