@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T20:24:24+08:00</updated>
+  <updated>2020-09-24T20:24:02+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Swift开始支持Windows</title>
+    <updated>2020-09-24T18:36:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/aPIkYAZlsXUoEwiwTuMB8w</id>
+    <link href="https://mp.weixin.qq.com/s/aPIkYAZlsXUoEwiwTuMB8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>专访PMC，Apache Pulsar如何挑战Kafka？</title>
+    <updated>2020-09-24T18:36:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/kgQTnC5DL2UoOxbGl4a5uA</id>
+    <link href="https://mp.weixin.qq.com/s/kgQTnC5DL2UoOxbGl4a5uA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>当你上班摸鱼，又不想被老板发现怎么办？</title>
     <updated>2020-09-23T18:02:49+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-15T17:35:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/pLAErpEt5VK5oVfF17_8NQ</id>
     <link href="https://mp.weixin.qq.com/s/pLAErpEt5VK5oVfF17_8NQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 5.10或支持联想PC键盘快捷键</title>
-    <updated>2020-09-15T17:35:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/O9vxm4JBMTX5nKGidvHKbQ</id>
-    <link href="https://mp.weixin.qq.com/s/O9vxm4JBMTX5nKGidvHKbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>鸿蒙的源码里藏着哪些小秘密？</title>
-    <updated>2020-09-14T13:35:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/VubvdO2zFbm5Qm2_zkTDLQ</id>
-    <link href="https://mp.weixin.qq.com/s/VubvdO2zFbm5Qm2_zkTDLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

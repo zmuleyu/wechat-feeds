@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T20:22:24+08:00</updated>
+  <updated>2020-09-24T20:22:25+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>爬虫自我修养：有哪些屡试不爽的反反爬技巧</title>
+    <updated>2020-09-24T20:00:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/ib0O8HVfyeew0jGtGZHO_A</id>
+    <link href="https://mp.weixin.qq.com/s/ib0O8HVfyeew0jGtGZHO_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 一款用于在网页端播放视频的软件</title>
+    <updated>2020-09-24T20:00:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/i-27pZRHoats2C2g4tixQA</id>
+    <link href="https://mp.weixin.qq.com/s/i-27pZRHoats2C2g4tixQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端插件化架构的探索和实践</title>
     <updated>2020-09-23T20:00:21+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-13T20:20:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/zqGMVvaWSEIvLF04LGnG2A</id>
     <link href="https://mp.weixin.qq.com/s/zqGMVvaWSEIvLF04LGnG2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>24 张图带你彻底理解 Java 中的 21 种锁</title>
-    <updated>2020-09-11T21:00:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/wUUPy_9mBRaV4NIRE71uAg</id>
-    <link href="https://mp.weixin.qq.com/s/wUUPy_9mBRaV4NIRE71uAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，赶紧上车吧！</title>
-    <updated>2020-09-11T21:00:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/eLl8q_ZfyeBMcYsHIIol4A</id>
-    <link href="https://mp.weixin.qq.com/s/eLl8q_ZfyeBMcYsHIIol4A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

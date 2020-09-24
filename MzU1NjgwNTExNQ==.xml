@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T11:18:50+08:00</updated>
+  <updated>2020-09-24T20:23:52+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动 2-2 级别的 Go 工程师究竟有多强？</title>
+    <updated>2020-09-24T17:36:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/HMrmsjMk89s9r2qga0lmKw</id>
+    <link href="https://mp.weixin.qq.com/s/HMrmsjMk89s9r2qga0lmKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GitHub 超 3W Star，最受欢迎的 VS Code IDE 是如何炼成的？</title>
     <updated>2020-09-22T21:26:55+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-09-15T10:20:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/7xfgDGNNPfs5nduSdLMxQw</id>
     <link href="https://mp.weixin.qq.com/s/7xfgDGNNPfs5nduSdLMxQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来呀，一起造一个简易 React！</title>
-    <updated>2020-09-13T21:43:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-13:/s/bZe4gJ0Rrh0KukSpaUImHw</id>
-    <link href="https://mp.weixin.qq.com/s/bZe4gJ0Rrh0KukSpaUImHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C++20 标准草案全票批准通过，越来越臃肿？</title>
-    <updated>2020-09-13T21:43:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-13:/s/JEUZ5ZL_iUKp6nvJCBXt9w</id>
-    <link href="https://mp.weixin.qq.com/s/JEUZ5ZL_iUKp6nvJCBXt9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
