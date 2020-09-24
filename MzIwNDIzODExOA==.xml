@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:14+08:00</updated>
+  <updated>2020-09-24T11:17:21+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>直播预告 | 服务网格下的东西向与南北向流量管理实践</title>
+    <updated>2020-09-24T10:03:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/3H1uA_OntpDUxoiAGR-U0g</id>
+    <link href="https://mp.weixin.qq.com/s/3H1uA_OntpDUxoiAGR-U0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>直播预告 | 基于 Apache APISIX 的全流量 API 网关</title>
     <updated>2020-09-16T16:13:37+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-07-22T11:42:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-22:/s/9iphTQkWY5URpDgvowWKUg</id>
     <link href="https://mp.weixin.qq.com/s/9iphTQkWY5URpDgvowWKUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>火了 2 年的服务网格究竟给微服务带来了什么？</title>
-    <updated>2020-07-15T11:02:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-15:/s/VPYPdD35rqj-z985xWiplA</id>
-    <link href="https://mp.weixin.qq.com/s/VPYPdD35rqj-z985xWiplA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

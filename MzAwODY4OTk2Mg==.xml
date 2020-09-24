@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T11:18:29+08:00</updated>
+  <updated>2020-09-24T11:17:58+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>游戏优化利器 | Android GPU Inspector 开放 Beta 测试版</title>
+    <updated>2020-09-23T13:10:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/FAQtfoR2iRwefvjlsQ8JjQ</id>
+    <link href="https://mp.weixin.qq.com/s/FAQtfoR2iRwefvjlsQ8JjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Paging 3 实现分页加载</title>
+    <updated>2020-09-23T13:10:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/_eUYkmjIQKRugd29wE2w0g</id>
+    <link href="https://mp.weixin.qq.com/s/_eUYkmjIQKRugd29wE2w0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有奖抢答 | Android 11 新功能您知道多少？</title>
     <updated>2020-09-22T18:21:23+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-09-15T17:09:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/Q2Tquo5XU5fBy7Zgk6c0Kw</id>
     <link href="https://mp.weixin.qq.com/s/Q2Tquo5XU5fBy7Zgk6c0Kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推出 BlazePose：实现设备端实时人体姿态追踪</title>
-    <updated>2020-09-14T17:26:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/GV1F9b598MFArrGPSSL_5g</id>
-    <link href="https://mp.weixin.qq.com/s/GV1F9b598MFArrGPSSL_5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

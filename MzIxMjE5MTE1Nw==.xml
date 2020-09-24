@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小灰 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T11:18:14+08:00</updated>
+  <updated>2020-09-24T11:17:45+08:00</updated>
   <subtitle>一群喜爱编程技术和算法的小仓鼠。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>遇上这样的新同事，也算是幸运吧</title>
+    <updated>2020-09-23T21:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/IIjYKcu46W6fjEnyUu30cw</id>
+    <link href="https://mp.weixin.qq.com/s/IIjYKcu46W6fjEnyUu30cw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Cloud Alibaba 到底坑不坑？</title>
+    <updated>2020-09-23T21:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/a1cLettsIThNW-CGqpoB0Q</id>
+    <link href="https://mp.weixin.qq.com/s/a1cLettsIThNW-CGqpoB0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>走肾推荐 | 资源随意看，8h删！</title>
     <updated>2020-09-23T00:31:52+08:00</updated>
@@ -64,20 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>字节跳动 2-2 级别的 Go 工程师究竟有多强？</title>
-    <updated>2020-09-19T11:14:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/kGm5y6wlTbVYDmMXIIjH_g</id>
-    <link href="https://mp.weixin.qq.com/s/kGm5y6wlTbVYDmMXIIjH_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刚看完zookeeper源码，各位随便问！</title>
-    <updated>2020-09-18T10:54:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/vs2R57a9umjF363djmhNNw</id>
-    <link href="https://mp.weixin.qq.com/s/vs2R57a9umjF363djmhNNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>给大家讲个笑话：公司空降了一名 “项目管理专家”</title>
     <updated>2020-09-18T10:54:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/aGs7s1shxFFUj7pu7wcRTg</id>
@@ -103,13 +103,6 @@
     <updated>2020-09-13T22:08:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/K_E9pI5rnkjHU0eizg9lqg</id>
     <link href="https://mp.weixin.qq.com/s/K_E9pI5rnkjHU0eizg9lqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为鸿蒙，告别 PPT，代码全部开源！</title>
-    <updated>2020-09-12T23:06:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-12:/s/zDsfipEC7NqRt97F8S5phQ</id>
-    <link href="https://mp.weixin.qq.com/s/zDsfipEC7NqRt97F8S5phQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

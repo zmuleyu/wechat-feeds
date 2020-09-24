@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>利维坦 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T11:17:17+08:00</updated>
+  <updated>2020-09-24T11:17:18+08:00</updated>
   <subtitle>乱七八糟，什么都有，微博：利维坦行星。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这是一条有味儿的推送</title>
+    <updated>2020-09-23T17:10:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-23:/s/H7p3Z8sgdf_cegmsV4rcBg</id>
+    <link href="https://mp.weixin.qq.com/s/H7p3Z8sgdf_cegmsV4rcBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我们合二为一（下）</title>
     <updated>2020-09-22T16:48:29+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-09-10T16:58:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-10:/s/QQ5PQ9Jdv6JgPB5R9PtloA</id>
     <link href="https://mp.weixin.qq.com/s/QQ5PQ9Jdv6JgPB5R9PtloA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>寻找耶稣的包皮</title>
-    <updated>2020-09-08T21:08:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-08:/s/LzOHC94tA9FM96bLFcU8aQ</id>
-    <link href="https://mp.weixin.qq.com/s/LzOHC94tA9FM96bLFcU8aQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>黑洞与气泡的神奇关联</title>
-    <updated>2020-09-08T21:08:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-08:/s/O7Dkz9kkmj2oYAofe-v9IQ</id>
-    <link href="https://mp.weixin.qq.com/s/O7Dkz9kkmj2oYAofe-v9IQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
