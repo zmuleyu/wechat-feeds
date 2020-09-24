@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T20:23:35+08:00</updated>
+  <updated>2020-09-24T16:20:54+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这门中文NLP课程，值得期待：12位大咖联手，孙茂松、万小军、刘洋、刘知远等老师主讲，限时只需199</title>
+    <updated>2020-09-24T13:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/hrs8Q0Nce7QW3nBPMJ3_Mg</id>
+    <link href="https://mp.weixin.qq.com/s/hrs8Q0Nce7QW3nBPMJ3_Mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新闻上的文本分类：机器学习大乱斗</title>
+    <updated>2020-09-24T13:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/jPKMTqzEflzy8AdYblI-oQ</id>
+    <link href="https://mp.weixin.qq.com/s/jPKMTqzEflzy8AdYblI-oQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>生成对抗网络(Generative Adversarial Net, GAN)</title>
+    <updated>2020-09-24T13:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/XhTB13CVsMA8UzMvzLH4Xg</id>
+    <link href="https://mp.weixin.qq.com/s/XhTB13CVsMA8UzMvzLH4Xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>打包带走，竞赛必备的NLP库</title>
+    <updated>2020-09-24T13:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/C0J_CZ9Tx5QVulvNSO4ByQ</id>
+    <link href="https://mp.weixin.qq.com/s/C0J_CZ9Tx5QVulvNSO4ByQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐系统粗排&amp;召回相关性优化的最新进展</title>
+    <updated>2020-09-24T13:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/vmqM5EFvYg1FzcicDfontQ</id>
+    <link href="https://mp.weixin.qq.com/s/vmqM5EFvYg1FzcicDfontQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>抖音日活用户破 6 亿，推荐系统是怎么做到的？</title>
     <updated>2020-09-23T19:23:04+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-09-21T19:26:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/Le9xmAq5PZ_6xCJBq4UX4Q</id>
     <link href="https://mp.weixin.qq.com/s/Le9xmAq5PZ_6xCJBq4UX4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>算法工程师当前选哪个方向好？1，计算机视觉；2,自然语言处理；3，风控；4，推荐系统？</title>
-    <updated>2020-09-20T20:50:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/SozovaRpxYq4G_S_xUtePQ</id>
-    <link href="https://mp.weixin.qq.com/s/SozovaRpxYq4G_S_xUtePQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CLUE、美团闪购、腾讯PCG、腾讯WeChatAI、京东招聘</title>
-    <updated>2020-09-20T20:50:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/JNRsyjabwFoDi9Ed6WOLqQ</id>
-    <link href="https://mp.weixin.qq.com/s/JNRsyjabwFoDi9Ed6WOLqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Federated Learning: 架构</title>
-    <updated>2020-09-20T20:50:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/bwguSX8rfGCHti0qOlyz4g</id>
-    <link href="https://mp.weixin.qq.com/s/bwguSX8rfGCHti0qOlyz4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解推荐系统：Fairness、Bias和Debias</title>
-    <updated>2020-09-20T20:50:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/YmCv9ZPGrOtc9EmlDI1Wsg</id>
-    <link href="https://mp.weixin.qq.com/s/YmCv9ZPGrOtc9EmlDI1Wsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊天机器人技术的研究进展</title>
-    <updated>2020-09-20T20:50:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/Xv9c5D3sEBVHhcBcbg5SEg</id>
-    <link href="https://mp.weixin.qq.com/s/Xv9c5D3sEBVHhcBcbg5SEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

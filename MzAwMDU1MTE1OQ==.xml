@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T11:19:09+08:00</updated>
+  <updated>2020-09-24T16:22:13+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么不用Rust?</title>
+    <updated>2020-09-24T13:44:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/JPqBCTEj25yii5CoJ9wzjQ</id>
+    <link href="https://mp.weixin.qq.com/s/JPqBCTEj25yii5CoJ9wzjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java 三年 26 K，还是被平均了！</title>
     <updated>2020-09-23T09:49:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-08T19:49:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-08:/s/brIBtqltyS3-hihy47Wzmw</id>
     <link href="https://mp.weixin.qq.com/s/brIBtqltyS3-hihy47Wzmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>活动预告：由“流量洪峰”引发的互联网架构中的热点应对</title>
-    <updated>2020-09-04T12:10:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-04:/s/O6bMThTusjq4VmdeQZaDEw</id>
-    <link href="https://mp.weixin.qq.com/s/O6bMThTusjq4VmdeQZaDEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
