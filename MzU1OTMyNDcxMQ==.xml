@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T13:16:17+08:00</updated>
+  <updated>2020-09-24T13:16:45+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推出 TF Lite Task Library 接口，简化 ML移动端开发流程</title>
+    <updated>2020-09-24T11:29:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/YCDd8ZG057hRBggDQrCC0g</id>
+    <link href="https://mp.weixin.qq.com/s/YCDd8ZG057hRBggDQrCC0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SIMD 和多线程大幅增强 TFJS WebAssembly 后端</title>
     <updated>2020-09-23T12:29:04+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-09-13T08:30:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/lT5t-1kxdVlXqt4tfigVZg</id>
     <link href="https://mp.weixin.qq.com/s/lT5t-1kxdVlXqt4tfigVZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>张量操作太繁琐？新工具 TF-Coder 来帮你！</title>
-    <updated>2020-09-11T18:25:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/pvm2QhQPXt9HKTURG6o5Rg</id>
-    <link href="https://mp.weixin.qq.com/s/pvm2QhQPXt9HKTURG6o5Rg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>活动预告 | GDG AI 嘉年华之​机器学习实践：模型加速与数据安全</title>
-    <updated>2020-09-11T18:25:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/lL5KbSMEM69m5F98hWNSRQ</id>
-    <link href="https://mp.weixin.qq.com/s/lL5KbSMEM69m5F98hWNSRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>纯洁的微笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T13:16:36+08:00</updated>
+  <updated>2020-09-24T13:17:07+08:00</updated>
   <subtitle>一个有故事的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无锁缓存，每秒10万并发，究竟如何实现？</title>
+    <updated>2020-09-24T10:15:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/JoRHzo_kaoJ-vkhHnO-7IQ</id>
+    <link href="https://mp.weixin.qq.com/s/JoRHzo_kaoJ-vkhHnO-7IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>“科班出身”的程序员和“培训出身”的程序员的大型辩论(甩锅)现场</title>
+    <updated>2020-09-24T10:15:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/VtRhy-yoPHkZF8RgYhNOoQ</id>
+    <link href="https://mp.weixin.qq.com/s/VtRhy-yoPHkZF8RgYhNOoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微盟程序员删库跑路，被判刑六年！</title>
     <updated>2020-09-22T17:45:17+08:00</updated>
@@ -40,13 +54,6 @@
     <updated>2020-09-21T12:17:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/aMtGSKB_zPtARQM7ePAXFw</id>
     <link href="https://mp.weixin.qq.com/s/aMtGSKB_zPtARQM7ePAXFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Cloud Alibaba 到底坑不坑？</title>
-    <updated>2020-09-21T12:17:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/a3YMKNLh97jnTISqvAO6iQ</id>
-    <link href="https://mp.weixin.qq.com/s/a3YMKNLh97jnTISqvAO6iQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +96,6 @@
     <updated>2020-09-14T18:19:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-14:/s/w9csalo5ZV_8NM5LYOJZhg</id>
     <link href="https://mp.weixin.qq.com/s/w9csalo5ZV_8NM5LYOJZhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>感觉身边都是一群没理想的人，如同废柴一般...</title>
-    <updated>2020-09-13T11:59:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-13:/s/xV5rchTV27Xuo9KT_-ADDg</id>
-    <link href="https://mp.weixin.qq.com/s/xV5rchTV27Xuo9KT_-ADDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
