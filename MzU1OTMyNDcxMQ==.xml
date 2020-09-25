@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-24T13:16:45+08:00</updated>
+  <updated>2020-09-25T13:16:55+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>经验总结：使用 TensorFlow 2 识别验证码过程中踩过的坑</title>
+    <updated>2020-09-25T11:47:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/6VOkAifgAPoP4_5tUqV5fQ</id>
+    <link href="https://mp.weixin.qq.com/s/6VOkAifgAPoP4_5tUqV5fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推出 TF Lite Task Library 接口，简化 ML移动端开发流程</title>
     <updated>2020-09-24T11:29:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-14T19:20:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-14:/s/y6l-IFpnOJ925vH6ndv0fA</id>
     <link href="https://mp.weixin.qq.com/s/y6l-IFpnOJ925vH6ndv0fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>是谁的小眼睛👀，还没看老师？&#xA;&#xA;本周“上新”有点多：Semantic Reactor插件、更兼容的TFLite Micro、开源的 TensorFlow Recorder ，哪一款最激发你的 AI 灵感？&#xA;&#xA;紧跟热点的你，快查收一周精华速报👉&#xA;①推出 Semantic Reactor: 让电子表格理解自然语言&#xA;②发布支持 ESP32 的 TensorFlow Lite Micro，助力更智能的家居互联！&#xA;③创建 TFRecords 的救星—TensorFlow Recorder 现已开源！&#xA;④通过自监督学习对语音表征与个性化模型进行改善&#xA;⑤张量操作太繁琐？新工具 TF-Coder 来帮你！</title>
-    <updated>2020-09-13T08:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-13:/s/lT5t-1kxdVlXqt4tfigVZg</id>
-    <link href="https://mp.weixin.qq.com/s/lT5t-1kxdVlXqt4tfigVZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
