@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-24T11:18:44+08:00</updated>
+  <updated>2020-09-25T11:19:32+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何系统学习领域驱动设计（DDD）？</title>
+    <updated>2020-09-25T07:31:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/lsxs2XWf2P0Pe9up6Hn0JQ</id>
+    <link href="https://mp.weixin.qq.com/s/lsxs2XWf2P0Pe9up6Hn0JQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Traefik 2.3正式发布</title>
+    <updated>2020-09-25T07:31:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/zpaXyccHdUWH8AySnKK7vg</id>
+    <link href="https://mp.weixin.qq.com/s/zpaXyccHdUWH8AySnKK7vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大规模微服务利器：eBPF 与 Kubernetes</title>
     <updated>2020-09-24T07:38:52+08:00</updated>
@@ -131,13 +145,6 @@
     <updated>2020-09-16T07:25:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/vsRFUl_ggAoNE9QbVytYJg</id>
     <link href="https://mp.weixin.qq.com/s/vsRFUl_ggAoNE9QbVytYJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux超能力BPF技术介绍及学习分享</title>
-    <updated>2020-09-15T07:20:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/Nmpxf-sCVnKcEr4eGojyfw</id>
-    <link href="https://mp.weixin.qq.com/s/Nmpxf-sCVnKcEr4eGojyfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:13+08:00</updated>
+  <updated>2020-09-25T11:18:24+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节研发设施下的 Git 工作流</title>
+    <updated>2020-09-24T23:39:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-24:/s/fKb6not7Ok7FoJ8UXrJG3g</id>
+    <link href="https://mp.weixin.qq.com/s/fKb6not7Ok7FoJ8UXrJG3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微前端实战：qiankun+Vue 掘金重构计划| 技术专题第四期征文</title>
     <updated>2020-09-21T00:13:40+08:00</updated>
@@ -103,27 +110,6 @@
     <updated>2020-07-21T00:32:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-21:/s/GcoY5mzEXLzsno5--GN7mQ</id>
     <link href="https://mp.weixin.qq.com/s/GcoY5mzEXLzsno5--GN7mQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>总结我对Vue项目上线做的一些基本优化</title>
-    <updated>2020-07-20T00:53:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/2HaCjnCsrRmekBNPelecLw</id>
-    <link href="https://mp.weixin.qq.com/s/2HaCjnCsrRmekBNPelecLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>史上最全js 对象、原型、继承 讲解，面试全靠它</title>
-    <updated>2020-07-20T00:53:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/mr65wcibPoW_E-BWCtRxlw</id>
-    <link href="https://mp.weixin.qq.com/s/mr65wcibPoW_E-BWCtRxlw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手和你一起学习Koa源码（一）——目录结构</title>
-    <updated>2020-07-20T00:53:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/Q2hOozyMWuXHcXV39W4QWg</id>
-    <link href="https://mp.weixin.qq.com/s/Q2hOozyMWuXHcXV39W4QWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
