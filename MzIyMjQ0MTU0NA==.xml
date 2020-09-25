@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T23:19:24+08:00</updated>
+  <updated>2020-09-25T16:21:20+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>12306 如何支撑十一假期高峰每秒 100 W请求抢票的？</title>
+    <updated>2020-09-25T13:24:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/_u4pHy39mT0DzG8wqENW-Q</id>
+    <link href="https://mp.weixin.qq.com/s/_u4pHy39mT0DzG8wqENW-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>华为提出十大数学挑战！解出一个就是年薪百万！</title>
+    <updated>2020-09-25T13:24:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/oTFC3n1KVKrV8IYbnqgyFQ</id>
+    <link href="https://mp.weixin.qq.com/s/oTFC3n1KVKrV8IYbnqgyFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub 官方发布 GitHub 命令行客户端 1.0 ！</title>
+    <updated>2020-09-25T13:24:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/DURvhCz2tQsyySjFXdSJlg</id>
+    <link href="https://mp.weixin.qq.com/s/DURvhCz2tQsyySjFXdSJlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>10个实用但非常偏执的Java编程技巧</title>
+    <updated>2020-09-25T13:24:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/BcHKb_RQOxTOfAmnTXjdWw</id>
+    <link href="https://mp.weixin.qq.com/s/BcHKb_RQOxTOfAmnTXjdWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020 年 9 月程序员工资统计，我扯后腿了~</title>
+    <updated>2020-09-25T13:24:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/DnHbsvx54lrURVO057jD1Q</id>
+    <link href="https://mp.weixin.qq.com/s/DnHbsvx54lrURVO057jD1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PanDownload复活了！60MB/s！</title>
     <updated>2020-09-23T22:04:09+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-09-21T13:12:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/VkntemQQmW2D35F3zizS_A</id>
     <link href="https://mp.weixin.qq.com/s/VkntemQQmW2D35F3zizS_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue 3.0 重磅发布！为什么开发者依旧偏爱 React?</title>
-    <updated>2020-09-20T18:54:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/5-79cRIPi5eQQGq-zbg1LA</id>
-    <link href="https://mp.weixin.qq.com/s/5-79cRIPi5eQQGq-zbg1LA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>特朗普变卦: TikTok禁令生效前几小时，突然同意字节跳动与甲骨文交易...</title>
-    <updated>2020-09-20T18:54:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/FLSTzLHSPP55vgnaRoSU_g</id>
-    <link href="https://mp.weixin.qq.com/s/FLSTzLHSPP55vgnaRoSU_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>充气WaWa什么感觉？Python 告诉你！</title>
-    <updated>2020-09-20T18:54:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/fBXga3Kw756Hwx4MGOKARA</id>
-    <link href="https://mp.weixin.qq.com/s/fBXga3Kw756Hwx4MGOKARA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>张一鸣：我这7年来的人生感悟</title>
-    <updated>2020-09-20T18:54:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/R3wUUx4C3ZT2iM3vZixWew</id>
-    <link href="https://mp.weixin.qq.com/s/R3wUUx4C3ZT2iM3vZixWew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工作10年的资深老码农，从大公司离职去小公司当CTO，被同事鄙视竟然不会netty</title>
-    <updated>2020-09-19T17:13:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/HnqFfI67kqRZtY46hQoYJg</id>
-    <link href="https://mp.weixin.qq.com/s/HnqFfI67kqRZtY46hQoYJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

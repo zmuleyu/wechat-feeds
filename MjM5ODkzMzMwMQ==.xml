@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-24T16:20:54+08:00</updated>
+  <updated>2020-09-25T16:20:01+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ALBERT一作解读：新兴模型如何超越ALBERT</title>
+    <updated>2020-09-25T11:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/0jj_IG6b2UMr-FMwU0Z6vA</id>
+    <link href="https://mp.weixin.qq.com/s/0jj_IG6b2UMr-FMwU0Z6vA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>按照时间线帮你梳理10种预训练模型</title>
+    <updated>2020-09-25T11:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/vQ0LVG6X0Zqy19yC1lqxoQ</id>
+    <link href="https://mp.weixin.qq.com/s/vQ0LVG6X0Zqy19yC1lqxoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Delaunay图的快速最大内积搜索算法</title>
+    <updated>2020-09-25T11:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/n6H2Y9Q8ybt2mizY1TZcew</id>
+    <link href="https://mp.weixin.qq.com/s/n6H2Y9Q8ybt2mizY1TZcew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新瓶装旧酒：实践篇（四）Apache jena SPARQL endpoint及推理</title>
+    <updated>2020-09-25T11:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/jYPdeByVNo3SKUuO-kpX_Q</id>
+    <link href="https://mp.weixin.qq.com/s/jYPdeByVNo3SKUuO-kpX_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新瓶装旧酒：实践篇（五）KBQA Demo</title>
+    <updated>2020-09-25T11:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/wa9qrvCmfMmpvBtV1gpzBg</id>
+    <link href="https://mp.weixin.qq.com/s/wa9qrvCmfMmpvBtV1gpzBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这门中文NLP课程，值得期待：12位大咖联手，孙茂松、万小军、刘洋、刘知远等老师主讲，限时只需199</title>
     <updated>2020-09-24T13:22:15+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-09-22T19:13:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/tpfMetR2WKIUGjOe8A03pQ</id>
     <link href="https://mp.weixin.qq.com/s/tpfMetR2WKIUGjOe8A03pQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万物皆可文本时代来临？如何搞定NLP最强模型GPT</title>
-    <updated>2020-09-21T19:26:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/GeaOhMfhyTBOVtURLgOUiA</id>
-    <link href="https://mp.weixin.qq.com/s/GeaOhMfhyTBOVtURLgOUiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>预训练模型系列-通用预训练MASS</title>
-    <updated>2020-09-21T19:26:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/3gl2413FVo00BLPBVfndMg</id>
-    <link href="https://mp.weixin.qq.com/s/3gl2413FVo00BLPBVfndMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>理解dropout: 组合 or 噪声？</title>
-    <updated>2020-09-21T19:26:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/9S9P_2bRzns_1xGIh6pJbw</id>
-    <link href="https://mp.weixin.qq.com/s/9S9P_2bRzns_1xGIh6pJbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从上到下｜图网络开放数据集</title>
-    <updated>2020-09-21T19:26:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/zCUphGndaQOYJDMPPAN5jA</id>
-    <link href="https://mp.weixin.qq.com/s/zCUphGndaQOYJDMPPAN5jA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无问西东 | 计算机科班小硕的秋招之路</title>
-    <updated>2020-09-21T19:26:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/Le9xmAq5PZ_6xCJBq4UX4Q</id>
-    <link href="https://mp.weixin.qq.com/s/Le9xmAq5PZ_6xCJBq4UX4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

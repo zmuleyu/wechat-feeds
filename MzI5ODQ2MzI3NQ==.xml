@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-24T20:22:48+08:00</updated>
+  <updated>2020-09-25T16:19:40+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -71,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>限时下载！阿里云内部超全K8s实战手册</title>
-    <updated>2020-09-19T16:42:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/QFU2B-oBfU0yuSMXm5ct6A</id>
-    <link href="https://mp.weixin.qq.com/s/QFU2B-oBfU0yuSMXm5ct6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Java面试三件套：基础+多线程+___?</title>
     <updated>2020-09-18T10:40:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/yKWxtdyn9sMhxFLzJI6lvw</id>
@@ -131,6 +124,13 @@
     <updated>2020-09-15T17:35:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/5f-t9S3yfOybV0lNFdlBfw</id>
     <link href="https://mp.weixin.qq.com/s/5f-t9S3yfOybV0lNFdlBfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于CNI保护Kubernetes集群中的主机</title>
+    <updated>2020-09-14T14:02:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-14:/s/mXm8H5n28xuORlqo31fscA</id>
+    <link href="https://mp.weixin.qq.com/s/mXm8H5n28xuORlqo31fscA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
