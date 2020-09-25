@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-24T23:40:52+08:00</updated>
+  <updated>2020-09-25T23:17:13+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文详解 FTP、FTPS 与 SFTP 的原理</title>
+    <updated>2020-09-25T18:05:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/qwc_VmHmdSkqAUt9pPlsFg</id>
+    <link href="https://mp.weixin.qq.com/s/qwc_VmHmdSkqAUt9pPlsFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>十个你可能不曾用过的Linux命令</title>
+    <updated>2020-09-25T18:05:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/YjQWf19Ezc5EefG6kfD7bQ</id>
+    <link href="https://mp.weixin.qq.com/s/YjQWf19Ezc5EefG6kfD7bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-09-25T18:05:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/kDjizr8RNxYZy6HVyazhPQ</id>
+    <link href="https://mp.weixin.qq.com/s/kDjizr8RNxYZy6HVyazhPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>IT 运维中的事件、故障排查处理思路</title>
     <updated>2020-09-24T17:53:32+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-18T19:04:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/YXd3HZEzfvhKQYtCqupHlw</id>
     <link href="https://mp.weixin.qq.com/s/YXd3HZEzfvhKQYtCqupHlw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-09-18T19:04:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/-ashHj6H7ORWVumRtPpNtA</id>
-    <link href="https://mp.weixin.qq.com/s/-ashHj6H7ORWVumRtPpNtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat牵头推进NVFS文件系统</title>
-    <updated>2020-09-17T18:28:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/Zj0urao8E4yDl4F-07vw8g</id>
-    <link href="https://mp.weixin.qq.com/s/Zj0urao8E4yDl4F-07vw8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Zabbix监控Redis状态</title>
-    <updated>2020-09-17T18:28:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/6dSev9GaLhE0C593cfGTWQ</id>
-    <link href="https://mp.weixin.qq.com/s/6dSev9GaLhE0C593cfGTWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
