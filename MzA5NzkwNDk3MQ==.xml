@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T20:24:54+08:00</updated>
+  <updated>2020-09-25T20:35:53+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 365 期：Vue 3.0 正式版本发布</title>
+    <updated>2020-09-25T17:57:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/eYi1TXpHYS2jarZMc4WYZQ</id>
+    <link href="https://mp.weixin.qq.com/s/eYi1TXpHYS2jarZMc4WYZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>或许这就是下一代组件库</title>
     <updated>2020-09-23T16:43:04+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-09-15T17:47:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/MJgGr1hsCQmpLMChUQeRpA</id>
     <link href="https://mp.weixin.qq.com/s/MJgGr1hsCQmpLMChUQeRpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谈谈 MySQL 的 JSON 数据类型操作</title>
-    <updated>2020-09-14T16:31:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/13BVGKEukFtDsDnKCQrP6Q</id>
-    <link href="https://mp.weixin.qq.com/s/13BVGKEukFtDsDnKCQrP6Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T16:19:40+08:00</updated>
+  <updated>2020-09-25T20:33:56+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>多集群加持，打通容器混合云最后一公里</title>
+    <updated>2020-09-25T15:08:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/FRnk0691ZpydFvAjLRTyhw</id>
+    <link href="https://mp.weixin.qq.com/s/FRnk0691ZpydFvAjLRTyhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>每秒10万次高并发订单业务，你怎么实现？</title>
     <updated>2020-09-24T15:56:49+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-09-15T17:35:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/5f-t9S3yfOybV0lNFdlBfw</id>
     <link href="https://mp.weixin.qq.com/s/5f-t9S3yfOybV0lNFdlBfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于CNI保护Kubernetes集群中的主机</title>
-    <updated>2020-09-14T14:02:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/mXm8H5n28xuORlqo31fscA</id>
-    <link href="https://mp.weixin.qq.com/s/mXm8H5n28xuORlqo31fscA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
