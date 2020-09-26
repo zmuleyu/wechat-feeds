@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T11:19:28+08:00</updated>
+  <updated>2020-09-26T11:20:27+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Swift、Flutter 共同瞄准 Windows！</title>
+    <updated>2020-09-26T10:45:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-26:/s/_4XegqB_khhKSFthVeGqNQ</id>
+    <link href="https://mp.weixin.qq.com/s/_4XegqB_khhKSFthVeGqNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>每秒100W请求，携程如何支撑十一假期抢票系统的？</title>
     <updated>2020-09-24T22:06:40+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-09-16T22:43:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/maGTDJ2Di6l2r_xtTHFFzQ</id>
     <link href="https://mp.weixin.qq.com/s/maGTDJ2Di6l2r_xtTHFFzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5 款冷门却超级好用的 VS Code 插件</title>
-    <updated>2020-09-15T20:35:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/I6l59xegOHp3jLM0GbOs9Q</id>
-    <link href="https://mp.weixin.qq.com/s/I6l59xegOHp3jLM0GbOs9Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
