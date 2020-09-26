@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T20:33:53+08:00</updated>
+  <updated>2020-09-26T20:22:25+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>中文NER的正确打开方式: 词汇增强方法总结 (从Lattice LSTM到FLAT)</title>
+    <updated>2020-09-26T18:06:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-26:/s/jHxq5GxlvKcD3leXOd7AHw</id>
+    <link href="https://mp.weixin.qq.com/s/jHxq5GxlvKcD3leXOd7AHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Attention 扫盲：注意力机制及其 PyTorch 应用实现</title>
+    <updated>2020-09-26T18:06:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-26:/s/eTs3VmI9nG7k7-6BmzDYEg</id>
+    <link href="https://mp.weixin.qq.com/s/eTs3VmI9nG7k7-6BmzDYEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SFFAI 81 @ ICT报名通知 | 机器学习硬件专题</title>
+    <updated>2020-09-26T18:06:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-26:/s/5FYOoUJkiP7RpNyvJTBpNQ</id>
+    <link href="https://mp.weixin.qq.com/s/5FYOoUJkiP7RpNyvJTBpNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分享一个自己做的英文科学写作检查器</title>
     <updated>2020-09-25T18:04:18+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-20T19:22:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/bH8HmzkgCFW1z4J9DJPjKQ</id>
     <link href="https://mp.weixin.qq.com/s/bH8HmzkgCFW1z4J9DJPjKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度了解特征工程</title>
-    <updated>2020-09-19T18:10:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/agC2STQzqnpGBijWBvNwsQ</id>
-    <link href="https://mp.weixin.qq.com/s/agC2STQzqnpGBijWBvNwsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>8步文献综述指南(英文).pdf</title>
-    <updated>2020-09-19T18:10:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/saQflp34XRGr0Ftr_jF7Aw</id>
-    <link href="https://mp.weixin.qq.com/s/saQflp34XRGr0Ftr_jF7Aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SFFAI 80 X CRIPAC报名通知 | 文本表示专题</title>
-    <updated>2020-09-19T18:10:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/XJDfDu5gJLwdmFS8GPZMvg</id>
-    <link href="https://mp.weixin.qq.com/s/XJDfDu5gJLwdmFS8GPZMvg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
