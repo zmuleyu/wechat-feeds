@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-26T11:17:13+08:00</updated>
+  <updated>2020-09-27T23:19:22+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>拒绝接口裸奔！开放API接口签名验证！</title>
+    <updated>2020-09-27T19:14:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/x6J0osoPRLI0CpGWJTxBEw</id>
+    <link href="https://mp.weixin.qq.com/s/x6J0osoPRLI0CpGWJTxBEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>到底多大并发才算“高并发”？一文带你全面认识高并发！</title>
     <updated>2020-09-26T00:04:47+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-09-17T22:01:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-17:/s/YopoGUnq9Cyjx2fHcMOYyw</id>
     <link href="https://mp.weixin.qq.com/s/YopoGUnq9Cyjx2fHcMOYyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最精美详尽的 HTTPS 原理图</title>
-    <updated>2020-09-17T01:31:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/mjvwdhHyIcByo8hFKDd-lg</id>
-    <link href="https://mp.weixin.qq.com/s/mjvwdhHyIcByo8hFKDd-lg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
