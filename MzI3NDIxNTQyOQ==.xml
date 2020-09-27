@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T20:35:01+08:00</updated>
+  <updated>2020-09-27T20:24:44+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「分布式系统之美」知乎圆桌精选收官篇 | 圆桌直播精彩实录放送</title>
+    <updated>2020-09-27T16:32:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/mXzzJvXYVkvJywvGuRda9w</id>
+    <link href="https://mp.weixin.qq.com/s/mXzzJvXYVkvJywvGuRda9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chaos Mesh® 1.0 GA，让混沌工程变得简单！</title>
     <updated>2020-09-25T18:56:33+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-09-10T17:19:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-10:/s/EQ2dS8zOVzCBGINEXXx9RA</id>
     <link href="https://mp.weixin.qq.com/s/EQ2dS8zOVzCBGINEXXx9RA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>读 TiDB 论文有感 | 数据强一致性且资源隔离的 HTAP 数据库</title>
-    <updated>2020-09-09T18:28:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/OkgR0Uc4NhD7IETM5spZGw</id>
-    <link href="https://mp.weixin.qq.com/s/OkgR0Uc4NhD7IETM5spZGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>High Performance TiDB 课程第五期上线 | DDL 性能优化</title>
-    <updated>2020-09-09T18:28:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/DgKHQ5qM2uvK8u5tzkomZQ</id>
-    <link href="https://mp.weixin.qq.com/s/DgKHQ5qM2uvK8u5tzkomZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

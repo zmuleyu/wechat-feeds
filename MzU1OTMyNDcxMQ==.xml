@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T13:16:55+08:00</updated>
+  <updated>2020-09-27T20:26:08+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>机器学习替代传统实验，聚合物设计的新思路！</title>
+    <updated>2020-09-27T17:01:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/JabnwkT4oKqPI8xytMDO5Q</id>
+    <link href="https://mp.weixin.qq.com/s/JabnwkT4oKqPI8xytMDO5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>经验总结：使用 TensorFlow 2 识别验证码过程中踩过的坑</title>
     <updated>2020-09-25T11:47:12+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-15T19:09:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/sIih5eUx7L7CbLshEVB5FQ</id>
     <link href="https://mp.weixin.qq.com/s/sIih5eUx7L7CbLshEVB5FQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>REALM：将检索集成到语言表征模型，搞定知识密集型任务！</title>
-    <updated>2020-09-14T19:20:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/y6l-IFpnOJ925vH6ndv0fA</id>
-    <link href="https://mp.weixin.qq.com/s/y6l-IFpnOJ925vH6ndv0fA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
