@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>LiveVideoStack | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T11:19:53+08:00</updated>
+  <updated>2020-09-27T11:20:14+08:00</updated>
   <subtitle>LiveVideoStack直播技术社区官方账号，分享音视频直播相关技术干货，产品研究与行业趋势。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>音视频技术开发周刊 | 163</title>
+    <updated>2020-09-26T22:10:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-26:/s/owPBys_4fml-3GNeFGSKtQ</id>
+    <link href="https://mp.weixin.qq.com/s/owPBys_4fml-3GNeFGSKtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>构建现场直播活动需要考虑的14个关键功能</title>
     <updated>2020-09-24T22:51:29+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-09-16T10:11:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/gXRXl5WYUXoud4g8rEg7fg</id>
     <link href="https://mp.weixin.qq.com/s/gXRXl5WYUXoud4g8rEg7fg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HEVC流媒体服务器被过度炒作的5个原因</title>
-    <updated>2020-09-15T17:30:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/1EBplFMA-kKYgwJxE877JA</id>
-    <link href="https://mp.weixin.qq.com/s/1EBplFMA-kKYgwJxE877JA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LiveVideoStack调查问卷</title>
-    <updated>2020-09-15T17:30:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/FGi3KUpt_nekMKsG3VDbBg</id>
-    <link href="https://mp.weixin.qq.com/s/FGi3KUpt_nekMKsG3VDbBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

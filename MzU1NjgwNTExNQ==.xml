@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-26T11:20:27+08:00</updated>
+  <updated>2020-09-27T11:19:49+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VS Code Python 插件 9 月更新来了！</title>
+    <updated>2020-09-26T21:37:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-26:/s/fxGjlUL36Z4wK1fVC6oZjQ</id>
+    <link href="https://mp.weixin.qq.com/s/fxGjlUL36Z4wK1fVC6oZjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Swift、Flutter 共同瞄准 Windows！</title>
     <updated>2020-09-26T10:45:52+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-09-17T21:08:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-17:/s/Qiw6BcibYfasttlbcigqXg</id>
     <link href="https://mp.weixin.qq.com/s/Qiw6BcibYfasttlbcigqXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手推公式+项目实操复现！《机器学习》完整详解</title>
-    <updated>2020-09-16T22:43:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/NWdPujeok1QClWLg4i6cZA</id>
-    <link href="https://mp.weixin.qq.com/s/NWdPujeok1QClWLg4i6cZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>出乎意料？GCC 编译 Linux 内核速度比 LLVM 更快！</title>
-    <updated>2020-09-16T22:43:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/maGTDJ2Di6l2r_xtTHFFzQ</id>
-    <link href="https://mp.weixin.qq.com/s/maGTDJ2Di6l2r_xtTHFFzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

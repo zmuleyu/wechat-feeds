@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-26T11:21:26+08:00</updated>
+  <updated>2020-09-27T11:19:50+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>利用Makisu构建容器镜像</title>
+    <updated>2020-09-27T07:26:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/avUG1v9XHCGWAkNg3qG_Dw</id>
+    <link href="https://mp.weixin.qq.com/s/avUG1v9XHCGWAkNg3qG_Dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>系统学习领域驱动设计（DDD）</title>
+    <updated>2020-09-27T07:26:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/4Q6R9znV_xlo9d9DAqLhxw</id>
+    <link href="https://mp.weixin.qq.com/s/4Q6R9znV_xlo9d9DAqLhxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在Kubernetes中部署网站的综合指南</title>
     <updated>2020-09-26T07:59:34+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-18T07:29:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/Kh911of8j-mESW93bR2LiQ</id>
     <link href="https://mp.weixin.qq.com/s/Kh911of8j-mESW93bR2LiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大白话带你认识Kafka</title>
-    <updated>2020-09-17T07:12:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/jd5_lOhVppamPHuyvtmT6w</id>
-    <link href="https://mp.weixin.qq.com/s/jd5_lOhVppamPHuyvtmT6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes实战培训 | 明天开课</title>
-    <updated>2020-09-17T07:12:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/1E4zdcNG-CZBvK2vTgWkng</id>
-    <link href="https://mp.weixin.qq.com/s/1E4zdcNG-CZBvK2vTgWkng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
