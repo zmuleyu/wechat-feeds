@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-26T13:21:01+08:00</updated>
+  <updated>2020-09-27T16:21:58+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>爱奇艺微服务监控的探索与实践</title>
+    <updated>2020-09-27T14:38:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/RKvV4o_cBhAEl7oJs0DbkA</id>
+    <link href="https://mp.weixin.qq.com/s/RKvV4o_cBhAEl7oJs0DbkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「有生之年」官方 Go Team leader 和 Go 作者邀请你加入群聊！</title>
     <updated>2020-09-26T11:57:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-11T10:21:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/XAEzZAUYuOhuqMOszNFe2A</id>
     <link href="https://mp.weixin.qq.com/s/XAEzZAUYuOhuqMOszNFe2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Graal VM：云原生时代的Java</title>
-    <updated>2020-09-10T10:06:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/8Btb_yl_axiVVaGo8EvvWQ</id>
-    <link href="https://mp.weixin.qq.com/s/8Btb_yl_axiVVaGo8EvvWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
