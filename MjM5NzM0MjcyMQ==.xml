@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T23:18:09+08:00</updated>
+  <updated>2020-09-28T20:25:59+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>吃掉Linux开发者，WSL支持GUI应用</title>
+    <updated>2020-09-28T16:31:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Lx4R4LA1L_FlnGEFqcz_Sg</id>
+    <link href="https://mp.weixin.qq.com/s/Lx4R4LA1L_FlnGEFqcz_Sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Calibre 5.0：高亮、Python 3、竖排文字</title>
+    <updated>2020-09-28T16:31:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/ErdEduVxbliv1ZWqFryPnQ</id>
+    <link href="https://mp.weixin.qq.com/s/ErdEduVxbliv1ZWqFryPnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java 2020：使用者近 680 万，中国开发者占比最高</title>
     <updated>2020-09-27T21:05:05+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-19T20:46:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/uHSx_XNE0yfhotN8bihd3w</id>
     <link href="https://mp.weixin.qq.com/s/uHSx_XNE0yfhotN8bihd3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>封闭的NVIDIA收购Arm，开放的RISC-V机会来了？</title>
-    <updated>2020-09-18T22:13:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/s7C60u_8Xp8iEL7ydVBIkQ</id>
-    <link href="https://mp.weixin.qq.com/s/s7C60u_8Xp8iEL7ydVBIkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软停止更新.NET Standard，.NET 5取而代之</title>
-    <updated>2020-09-18T22:13:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/uInAMyy62iXZpc2J2wIn3w</id>
-    <link href="https://mp.weixin.qq.com/s/uInAMyy62iXZpc2J2wIn3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

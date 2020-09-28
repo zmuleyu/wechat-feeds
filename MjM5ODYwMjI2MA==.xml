@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-25T20:34:32+08:00</updated>
+  <updated>2020-09-28T20:23:32+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>常说的手机刷新率60Hz、120Hz有什么不同？</title>
+    <updated>2020-09-28T16:31:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/tAcJpBGCg4sR5_bA9U0aDw</id>
+    <link href="https://mp.weixin.qq.com/s/tAcJpBGCg4sR5_bA9U0aDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大牛书单 | 迎金秋，与腾讯技术大咖共读好书</title>
     <updated>2020-09-25T15:00:13+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-09-11T16:54:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/OV2EmoR5uy_KtSJVJOwjaQ</id>
     <link href="https://mp.weixin.qq.com/s/OV2EmoR5uy_KtSJVJOwjaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 如何实现热重启</title>
-    <updated>2020-09-09T16:02:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/UVZKFmv8p4ghm8ICdz85wQ</id>
-    <link href="https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>未来经济 数字优先 | 大数据专场</title>
-    <updated>2020-09-09T16:02:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/jB-CLigC1Lc-qOUtpFBt_g</id>
-    <link href="https://mp.weixin.qq.com/s/jB-CLigC1Lc-qOUtpFBt_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

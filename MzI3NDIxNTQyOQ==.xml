@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T20:24:44+08:00</updated>
+  <updated>2020-09-28T20:25:16+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>线上环境 Linux 系统调用追踪</title>
+    <updated>2020-09-28T15:49:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/8W0u1fL9zpXVg8Km1JRNUg</id>
+    <link href="https://mp.weixin.qq.com/s/8W0u1fL9zpXVg8Km1JRNUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TiDB 性能竞赛火热报名中，TUG MVA 为比赛助力</title>
+    <updated>2020-09-28T15:49:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/y6oHIdMZMW2KREaxvMJPzQ</id>
+    <link href="https://mp.weixin.qq.com/s/y6oHIdMZMW2KREaxvMJPzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「分布式系统之美」知乎圆桌精选收官篇 | 圆桌直播精彩实录放送</title>
     <updated>2020-09-27T16:32:40+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-09-11T15:31:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/hc2QqogzOyTOoQXTQW8Fgw</id>
     <link href="https://mp.weixin.qq.com/s/hc2QqogzOyTOoQXTQW8Fgw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>伴鱼与 PingCAP 达成战略合作 推动开源社区生态共建</title>
-    <updated>2020-09-10T17:19:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/VOMnO4U0k19aqQ-zmDfd3A</id>
-    <link href="https://mp.weixin.qq.com/s/VOMnO4U0k19aqQ-zmDfd3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Meetup 预告 ｜当我们在谈论 HTAP 时我们在谈论什么</title>
-    <updated>2020-09-10T17:19:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/EQ2dS8zOVzCBGINEXXx9RA</id>
-    <link href="https://mp.weixin.qq.com/s/EQ2dS8zOVzCBGINEXXx9RA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
