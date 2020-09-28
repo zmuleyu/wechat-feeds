@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T20:25:49+08:00</updated>
+  <updated>2020-09-28T13:22:54+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>与后端分手，做独立自强的前端人！</title>
+    <updated>2020-09-27T22:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/YElwumg42im-byC8e6gITA</id>
+    <link href="https://mp.weixin.qq.com/s/YElwumg42im-byC8e6gITA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从 4 个面试题了解「浏览器的垃圾回收」</title>
+    <updated>2020-09-27T22:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/3RcC0cMPRNbtPvQwUDyZ2g</id>
+    <link href="https://mp.weixin.qq.com/s/3RcC0cMPRNbtPvQwUDyZ2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不用try catch，如何机智的捕获错误</title>
     <updated>2020-09-27T14:51:21+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-09-19T21:42:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/EwUM19cyLkgCn4efR26d7w</id>
     <link href="https://mp.weixin.qq.com/s/EwUM19cyLkgCn4efR26d7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>只会用 Vue 不够！还要知其所以然</title>
-    <updated>2020-09-17T23:19:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/jgNeuqw-H0iZaSOS-hwIJQ</id>
-    <link href="https://mp.weixin.qq.com/s/jgNeuqw-H0iZaSOS-hwIJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何搭建一个完美的组件库？</title>
-    <updated>2020-09-17T23:19:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/vfh6yx4EWhpKpkubHsWddw</id>
-    <link href="https://mp.weixin.qq.com/s/vfh6yx4EWhpKpkubHsWddw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
