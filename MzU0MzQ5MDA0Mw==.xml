@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T23:19:22+08:00</updated>
+  <updated>2020-09-28T11:23:02+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>连续 4 年最受欢迎：Rust，真香！</title>
+    <updated>2020-09-28T00:08:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Zdh0CeVhVLdzlwSjIqEK1w</id>
+    <link href="https://mp.weixin.qq.com/s/Zdh0CeVhVLdzlwSjIqEK1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你的登录接口真的安全吗？</title>
+    <updated>2020-09-28T00:08:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/q8p31W1G4XFHNnFoiNuLRQ</id>
+    <link href="https://mp.weixin.qq.com/s/q8p31W1G4XFHNnFoiNuLRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>拒绝接口裸奔！开放API接口签名验证！</title>
     <updated>2020-09-27T19:14:06+08:00</updated>
@@ -26,13 +40,6 @@
     <updated>2020-09-26T00:04:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-26:/s/viroHSKaTzMjMqUxRhHPiQ</id>
     <link href="https://mp.weixin.qq.com/s/viroHSKaTzMjMqUxRhHPiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>廖雪峰团队最新研磨的实战宝典终终终终终终于免费了！</title>
-    <updated>2020-09-24T22:09:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/h4I16cSoWn7OkYFuMBEGIQ</id>
-    <link href="https://mp.weixin.qq.com/s/h4I16cSoWn7OkYFuMBEGIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +89,6 @@
     <updated>2020-09-19T16:02:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/yANBwsXnoVFd2silrMCeCQ</id>
     <link href="https://mp.weixin.qq.com/s/yANBwsXnoVFd2silrMCeCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务的下一步，离不开服务网格</title>
-    <updated>2020-09-17T22:01:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/YopoGUnq9Cyjx2fHcMOYyw</id>
-    <link href="https://mp.weixin.qq.com/s/YopoGUnq9Cyjx2fHcMOYyw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

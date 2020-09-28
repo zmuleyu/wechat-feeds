@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T11:19:50+08:00</updated>
+  <updated>2020-09-28T11:20:38+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一篇文章全面了解监控知识体系</title>
+    <updated>2020-09-28T07:30:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/FGCZws3bQ9l9zOWDRTfdhg</id>
+    <link href="https://mp.weixin.qq.com/s/FGCZws3bQ9l9zOWDRTfdhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证CKA培训 | 上海站</title>
+    <updated>2020-09-28T07:30:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/esdVxmPqeNBlNsPfTxrb3g</id>
+    <link href="https://mp.weixin.qq.com/s/esdVxmPqeNBlNsPfTxrb3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>利用Makisu构建容器镜像</title>
     <updated>2020-09-27T07:26:48+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-19T07:32:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/T0saawVFf9rkgGsYePXCDw</id>
     <link href="https://mp.weixin.qq.com/s/T0saawVFf9rkgGsYePXCDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>领域驱动设计框架Axon实践</title>
-    <updated>2020-09-18T07:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/5VqQXKdGKY9shu_eihmUCA</id>
-    <link href="https://mp.weixin.qq.com/s/5VqQXKdGKY9shu_eihmUCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云计算PaaS及多云管理厂商BoCloud博云完成D轮融资</title>
-    <updated>2020-09-18T07:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/Kh911of8j-mESW93bR2LiQ</id>
-    <link href="https://mp.weixin.qq.com/s/Kh911of8j-mESW93bR2LiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:47+08:00</updated>
+  <updated>2020-09-28T11:19:32+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Fastbot：行进中的智能 Monkey</title>
+    <updated>2020-09-28T10:29:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/3t4H2bfDjei4vXkj_Cz2pg</id>
+    <link href="https://mp.weixin.qq.com/s/3t4H2bfDjei4vXkj_Cz2pg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动 Flink 单点恢复功能实践</title>
     <updated>2020-09-20T18:37:57+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-08-03T07:58:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-03:/s/ZjnRzI18plggKTv_nPBsEw</id>
     <link href="https://mp.weixin.qq.com/s/ZjnRzI18plggKTv_nPBsEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>💻字节跳动 ClickHouse专场沙龙直播，19:00 准时开始，等会直播间见哦！&#xA;🔗直播地址：&#xA;https://live.bytedance.com/8889/3241000&#xA;（复制到浏览器打开）&#xA;👉公众号后台回复“clickhouse”即可获得飞书交流群二维码</title>
-    <updated>2020-07-31T17:41:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-31:/s/26JL1ysrymbO7fx6WDQo6w</id>
-    <link href="https://mp.weixin.qq.com/s/26JL1ysrymbO7fx6WDQo6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

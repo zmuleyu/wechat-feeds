@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T20:22:16+08:00</updated>
+  <updated>2020-09-28T11:17:31+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动 2-2 级别的 Go 工程师究竟有多强？</title>
+    <updated>2020-09-27T22:48:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/e1k6QlLnFQAZI0-QSamWyw</id>
+    <link href="https://mp.weixin.qq.com/s/e1k6QlLnFQAZI0-QSamWyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深圳： Kubernetes CKA实战培训</title>
+    <updated>2020-09-27T22:48:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/U1LMxRorE9InwgIyxh672g</id>
+    <link href="https://mp.weixin.qq.com/s/U1LMxRorE9InwgIyxh672g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes是怎样席卷世界的？</title>
+    <updated>2020-09-27T22:48:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/TRQXrhE6iLsGxOIdoe380g</id>
+    <link href="https://mp.weixin.qq.com/s/TRQXrhE6iLsGxOIdoe380g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DevOps的7个误解</title>
     <updated>2020-09-27T17:33:54+08:00</updated>
@@ -117,13 +138,6 @@
     <updated>2020-09-18T10:40:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/05pnFo_-Vh658frlyMzUxw</id>
     <link href="https://mp.weixin.qq.com/s/05pnFo_-Vh658frlyMzUxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务的下一步，离不开服务网格</title>
-    <updated>2020-09-17T18:10:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/nkEgypKGLlLHzu4QUyQWdw</id>
-    <link href="https://mp.weixin.qq.com/s/nkEgypKGLlLHzu4QUyQWdw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
