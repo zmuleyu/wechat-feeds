@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T23:16:38+08:00</updated>
+  <updated>2020-09-28T23:19:15+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大量的 TIME_WAIT 状态 TCP 连接，对业务有什么影响？怎么处理？</title>
+    <updated>2020-09-28T20:50:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/PQyelLx2NUHngpVQVCZLgw</id>
+    <link href="https://mp.weixin.qq.com/s/PQyelLx2NUHngpVQVCZLgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux大文件重定向和管道的效率对比</title>
+    <updated>2020-09-28T20:50:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/sHZrfDMhHMl1sl6Nv35SSA</id>
+    <link href="https://mp.weixin.qq.com/s/sHZrfDMhHMl1sl6Nv35SSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-09-28T20:50:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/YIWxfKkKd-PGY290ZQysAA</id>
+    <link href="https://mp.weixin.qq.com/s/YIWxfKkKd-PGY290ZQysAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux shell 逻辑运算符、逻辑表达式详解</title>
     <updated>2020-09-27T21:26:25+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-21T20:24:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/44wE3su41IesoaOUtyNQpw</id>
     <link href="https://mp.weixin.qq.com/s/44wE3su41IesoaOUtyNQpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Linux+Python+Go】免费公开课合集</title>
-    <updated>2020-09-21T20:24:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/Mf0CRJqKA7hG7RLc8uciZQ</id>
-    <link href="https://mp.weixin.qq.com/s/Mf0CRJqKA7hG7RLc8uciZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>13款Linux运维比较实用的工具</title>
-    <updated>2020-09-20T19:50:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/plNsC5RHiHEvTBvuuC3Jug</id>
-    <link href="https://mp.weixin.qq.com/s/plNsC5RHiHEvTBvuuC3Jug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试题｜Docker的优缺点</title>
-    <updated>2020-09-20T19:50:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/kUxiua_xTIKX2VfKQAqVGA</id>
-    <link href="https://mp.weixin.qq.com/s/kUxiua_xTIKX2VfKQAqVGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

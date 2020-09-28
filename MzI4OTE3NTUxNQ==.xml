@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极客湾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T07:20:53+08:00</updated>
+  <updated>2020-09-28T23:20:10+08:00</updated>
   <subtitle>提供优质的科技资讯与评测</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>每周一荐 | 玄不救非、氪不改命</title>
+    <updated>2020-09-28T22:30:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/DxRGd8ZBCwLQA2tpDH1SKw</id>
+    <link href="https://mp.weixin.qq.com/s/DxRGd8ZBCwLQA2tpDH1SKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小科普 | 电视的门道，还真的不少</title>
     <updated>2020-09-25T20:51:36+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-09-08T23:00:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-08:/s/a-DJLotUA5DKyfEYe-t3gQ</id>
     <link href="https://mp.weixin.qq.com/s/a-DJLotUA5DKyfEYe-t3gQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每周一荐 | 便宜到贵，都很实惠</title>
-    <updated>2020-09-07T23:01:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-07:/s/uOTmXizJOFGqZBCxh4vvGA</id>
-    <link href="https://mp.weixin.qq.com/s/uOTmXizJOFGqZBCxh4vvGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
