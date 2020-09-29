@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T20:24:10+08:00</updated>
+  <updated>2020-09-29T20:26:01+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ZAO 背后的深度学习算法原理浅析</title>
+    <updated>2020-09-28T00:03:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/vCeMMiCILwAEbBPa8JA7HA</id>
+    <link href="https://mp.weixin.qq.com/s/vCeMMiCILwAEbBPa8JA7HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>写在 Dubbo go 的第五年</title>
     <updated>2020-09-27T23:56:08+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-18T17:13:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/CryC98BubZISWsf3cp6faQ</id>
     <link href="https://mp.weixin.qq.com/s/CryC98BubZISWsf3cp6faQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里CTO鲁肃：技术的想象力不应设限，未来所有应用的核心都离不开数据和智能</title>
-    <updated>2020-09-18T16:34:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/Z171am70RkLppCxTv-yBuw</id>
-    <link href="https://mp.weixin.qq.com/s/Z171am70RkLppCxTv-yBuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

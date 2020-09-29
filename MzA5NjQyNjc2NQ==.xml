@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TsinghuaJoking | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-27T13:19:31+08:00</updated>
+  <updated>2020-09-29T20:25:25+08:00</updated>
   <subtitle>卓晴，专注于信息科学与自动化控制研究领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>怎么DIY一个粒子检测器？</title>
+    <updated>2020-09-29T18:53:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/9hWOcoTWjSxRyPf1XQeCbA</id>
+    <link href="https://mp.weixin.qq.com/s/9hWOcoTWjSxRyPf1XQeCbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于投影仪定位技术</title>
     <updated>2020-09-27T12:32:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-16T08:05:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/PUhoz55T4kHLtvJt-miThA</id>
     <link href="https://mp.weixin.qq.com/s/PUhoz55T4kHLtvJt-miThA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>检测不到信号，是加点噪声？还是滤除噪声？</title>
-    <updated>2020-09-15T11:07:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/oTkvbPRRqPzz05sj8S2tfA</id>
-    <link href="https://mp.weixin.qq.com/s/oTkvbPRRqPzz05sj8S2tfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

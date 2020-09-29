@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T20:23:05+08:00</updated>
+  <updated>2020-09-29T20:25:37+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微前端qiankun从搭建到部署的实践</title>
+    <updated>2020-09-29T19:05:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/fugcfuPzk3B44n7ZQ9jjfQ</id>
+    <link href="https://mp.weixin.qq.com/s/fugcfuPzk3B44n7ZQ9jjfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端之路：道阻且长，行则将至</title>
+    <updated>2020-09-29T19:05:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/5VK4_iP71UzFMw4JxetIVA</id>
+    <link href="https://mp.weixin.qq.com/s/5VK4_iP71UzFMw4JxetIVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基础篇：深入解析JAVA反射机制</title>
     <updated>2020-09-28T18:28:32+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-07-26T19:22:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-26:/s/YgDYZ9P30lKs1DTWFYAa5Q</id>
     <link href="https://mp.weixin.qq.com/s/YgDYZ9P30lKs1DTWFYAa5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今日头条 Android &#39;秒&#39; 级编译速度优化</title>
-    <updated>2020-07-22T22:09:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-22:/s/Sypo_Ty-hW2KK2hfs05avQ</id>
-    <link href="https://mp.weixin.qq.com/s/Sypo_Ty-hW2KK2hfs05avQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
