@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T11:20:12+08:00</updated>
+  <updated>2020-09-29T11:22:40+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软新版 Microsoft Edge 浏览器将于 2020 年 10 月重磅登陆 Linux</title>
+    <updated>2020-09-28T20:24:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/KHTmhE134vD8gG8hnpiUUQ</id>
+    <link href="https://mp.weixin.qq.com/s/KHTmhE134vD8gG8hnpiUUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>步入AI领域2年连升3级，我只是找对了学习方法而已……</title>
     <updated>2020-09-27T23:04:13+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-09-20T12:45:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/8X4HeACJ3lzvlBFqJ9PgOw</id>
     <link href="https://mp.weixin.qq.com/s/8X4HeACJ3lzvlBFqJ9PgOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 面试三件套：基础+多线程+___?</title>
-    <updated>2020-09-18T22:39:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/Bd6ZRoLhvupxYZBhZxe9lg</id>
-    <link href="https://mp.weixin.qq.com/s/Bd6ZRoLhvupxYZBhZxe9lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软 exFAT 进入 Linux 内核后，这一商业公司也想将 NTFS 引入</title>
-    <updated>2020-09-18T22:39:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/vUWEpvw_0oiThaR9124Wbw</id>
-    <link href="https://mp.weixin.qq.com/s/vUWEpvw_0oiThaR9124Wbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

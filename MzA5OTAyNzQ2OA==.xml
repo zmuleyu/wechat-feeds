@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T11:20:38+08:00</updated>
+  <updated>2020-09-29T11:17:59+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>警惕分布式常见的这十大坑</title>
+    <updated>2020-09-29T07:21:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/jfyHnhPE1nimNVDawkZ4Ew</id>
+    <link href="https://mp.weixin.qq.com/s/jfyHnhPE1nimNVDawkZ4Ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DDD实战演练工作坊</title>
+    <updated>2020-09-29T07:21:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/6GqCIjBwQ8DF153wROIbmw</id>
+    <link href="https://mp.weixin.qq.com/s/6GqCIjBwQ8DF153wROIbmw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一篇文章全面了解监控知识体系</title>
     <updated>2020-09-28T07:30:13+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-20T07:25:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/t-iw8Qhi5xV-7k11tv1Qdw</id>
     <link href="https://mp.weixin.qq.com/s/t-iw8Qhi5xV-7k11tv1Qdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生应用实现规范：初识 Operator | 周末送书</title>
-    <updated>2020-09-19T07:32:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/3o7dBEU6raTrCdks6CH9aA</id>
-    <link href="https://mp.weixin.qq.com/s/3o7dBEU6raTrCdks6CH9aA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证CKA培训 | 上海站</title>
-    <updated>2020-09-19T07:32:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/T0saawVFf9rkgGsYePXCDw</id>
-    <link href="https://mp.weixin.qq.com/s/T0saawVFf9rkgGsYePXCDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

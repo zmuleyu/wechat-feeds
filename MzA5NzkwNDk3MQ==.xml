@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T20:27:20+08:00</updated>
+  <updated>2020-09-29T11:19:57+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>NPM 组件你应该知道的事</title>
+    <updated>2020-09-28T18:02:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Sx171hDbQS1yKQemJXxKbQ</id>
+    <link href="https://mp.weixin.qq.com/s/Sx171hDbQS1yKQemJXxKbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
+    <updated>2020-09-28T18:02:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/NHLMz0YuDWxDALh-DSZD7A</id>
+    <link href="https://mp.weixin.qq.com/s/NHLMz0YuDWxDALh-DSZD7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-09-28T18:02:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/QWMQqtVPtygvIZSRZIPXfQ</id>
+    <link href="https://mp.weixin.qq.com/s/QWMQqtVPtygvIZSRZIPXfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何使用 ThinkJS 优雅的编写 RESTful API</title>
     <updated>2020-09-28T16:39:04+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-21T15:18:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/y5rhwYGFH1wn5t8FOrNdFA</id>
     <link href="https://mp.weixin.qq.com/s/y5rhwYGFH1wn5t8FOrNdFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-09-21T15:18:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/dpkZ7-wZIEIfM_lOw30UMw</id>
-    <link href="https://mp.weixin.qq.com/s/dpkZ7-wZIEIfM_lOw30UMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-09-21T15:18:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/tm58pabPbxMZhSuiKe7VNw</id>
-    <link href="https://mp.weixin.qq.com/s/tm58pabPbxMZhSuiKe7VNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Promise 你可能真的还没用明白（续集进阶版）</title>
-    <updated>2020-09-20T22:16:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/7U5DTrSjhGuU4M7uw-QIgg</id>
-    <link href="https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

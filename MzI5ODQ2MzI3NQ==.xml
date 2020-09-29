@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T11:17:31+08:00</updated>
+  <updated>2020-09-29T11:22:03+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>还不会回答Spring Boot和Spring MVC的关系？大厂Java高级面试官告诉你答案！</title>
+    <updated>2020-09-28T22:49:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/yp7lFBXDHiI4eHtytuhQVw</id>
+    <link href="https://mp.weixin.qq.com/s/yp7lFBXDHiI4eHtytuhQVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不确定K8S YAML文件是否符合最佳实践？这6个工具可以帮你！</title>
+    <updated>2020-09-28T22:49:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/36DGkbws_wzhNRY2CrKUyw</id>
+    <link href="https://mp.weixin.qq.com/s/36DGkbws_wzhNRY2CrKUyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动 2-2 级别的 Go 工程师究竟有多强？</title>
     <updated>2020-09-27T22:48:16+08:00</updated>
@@ -106,13 +120,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>运维狗，工作三年，转行AI应该怎样规划？</title>
-    <updated>2020-09-21T11:28:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/_5UsJ7cdmMASlQC69NTOzQ</id>
-    <link href="https://mp.weixin.qq.com/s/_5UsJ7cdmMASlQC69NTOzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Kubernetes 新玩法：在 yaml 中编程</title>
     <updated>2020-09-21T11:28:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/U71KGJGLA4Y9TJLOrZUxTw</id>
@@ -131,13 +138,6 @@
     <updated>2020-09-20T18:54:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/o3-O-Q_QejKiWPiwYeRq5g</id>
     <link href="https://mp.weixin.qq.com/s/o3-O-Q_QejKiWPiwYeRq5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>闲鱼靠什么支撑起万亿的交易规模？| 云原生Talk</title>
-    <updated>2020-09-18T10:40:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/05pnFo_-Vh658frlyMzUxw</id>
-    <link href="https://mp.weixin.qq.com/s/05pnFo_-Vh658frlyMzUxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
