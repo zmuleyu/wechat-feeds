@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T13:22:54+08:00</updated>
+  <updated>2020-09-29T23:19:16+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>iframe 接班人-微前端框架 qiankun 在中后台系统实践</title>
+    <updated>2020-09-29T20:07:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/p98EkrxhNtAKb9ex0eY61w</id>
+    <link href="https://mp.weixin.qq.com/s/p98EkrxhNtAKb9ex0eY61w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>与后端分手，做独立自强的前端人！</title>
     <updated>2020-09-27T22:30:27+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-09-20T18:48:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/oYbDHq0tXSENwNtJLPK4vA</id>
     <link href="https://mp.weixin.qq.com/s/oYbDHq0tXSENwNtJLPK4vA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TypeScript之父：JS不是竞争对手</title>
-    <updated>2020-09-19T21:42:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/qAO_0MzLqyY8Gu2EX1Fcew</id>
-    <link href="https://mp.weixin.qq.com/s/qAO_0MzLqyY8Gu2EX1Fcew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员脱单记：领证回来的路上，我们约好写下这篇</title>
-    <updated>2020-09-19T21:42:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/EwUM19cyLkgCn4efR26d7w</id>
-    <link href="https://mp.weixin.qq.com/s/EwUM19cyLkgCn4efR26d7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
