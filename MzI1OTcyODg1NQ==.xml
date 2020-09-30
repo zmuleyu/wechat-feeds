@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T23:18:54+08:00</updated>
+  <updated>2020-09-30T23:19:21+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>kubeadm高可用master节点（三主两从）</title>
+    <updated>2020-09-30T20:44:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/w2cm6d6kd4XU2jkS0iJi9g</id>
+    <link href="https://mp.weixin.qq.com/s/w2cm6d6kd4XU2jkS0iJi9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>人人都在讨论的云计算是什么 ？</title>
+    <updated>2020-09-30T20:44:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/TdthTV95c0COvUuJom_2Xw</id>
+    <link href="https://mp.weixin.qq.com/s/TdthTV95c0COvUuJom_2Xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-09-30T20:44:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/lyrkcSCr6e3xLcYGrM0WdQ</id>
+    <link href="https://mp.weixin.qq.com/s/lyrkcSCr6e3xLcYGrM0WdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>日志切割方法小结 [Logrotate、python、shell脚本实现 ]</title>
     <updated>2020-09-29T21:30:27+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-24T17:53:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/kopO35NznClkmkQ7gLBIzQ</id>
     <link href="https://mp.weixin.qq.com/s/kopO35NznClkmkQ7gLBIzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux fsck命令：检测和修复文件系统</title>
-    <updated>2020-09-23T18:41:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/bL9IiWg1AU2OEooOi9PWwg</id>
-    <link href="https://mp.weixin.qq.com/s/bL9IiWg1AU2OEooOi9PWwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运维必知必会的监控知识体系全梳理</title>
-    <updated>2020-09-23T18:41:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/jvWLQTizQ1m28Vs2565TCw</id>
-    <link href="https://mp.weixin.qq.com/s/jvWLQTizQ1m28Vs2565TCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>现金直减8800！错过再等10年！加赠新版马哥亲笔寄语签名k8s</title>
-    <updated>2020-09-23T18:41:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/5KqvwKH6MjW5yUQ81-sdaw</id>
-    <link href="https://mp.weixin.qq.com/s/5KqvwKH6MjW5yUQ81-sdaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
