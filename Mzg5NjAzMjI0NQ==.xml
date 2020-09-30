@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T20:25:37+08:00</updated>
+  <updated>2020-09-30T11:20:43+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>小册上新 |  Go语言构建Web应用实践</title>
+    <updated>2020-09-29T23:06:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/IZZMAwj-WZbdEthi5pQNFA</id>
+    <link href="https://mp.weixin.qq.com/s/IZZMAwj-WZbdEthi5pQNFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微前端qiankun从搭建到部署的实践</title>
     <updated>2020-09-29T19:05:11+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-08-13T01:16:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-13:/s/e3_HVD4M56a9vrj73ONlEA</id>
     <link href="https://mp.weixin.qq.com/s/e3_HVD4M56a9vrj73ONlEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动基于Flink的MQ-Hive实时数据集成</title>
-    <updated>2020-07-26T19:22:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-26:/s/YgDYZ9P30lKs1DTWFYAa5Q</id>
-    <link href="https://mp.weixin.qq.com/s/YgDYZ9P30lKs1DTWFYAa5Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

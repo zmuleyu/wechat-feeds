@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T11:17:59+08:00</updated>
+  <updated>2020-09-30T11:17:53+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务架构与领域驱动设计应用实践</title>
+    <updated>2020-09-30T07:30:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/6_ikyM_wShzY8LpCrnV56Q</id>
+    <link href="https://mp.weixin.qq.com/s/6_ikyM_wShzY8LpCrnV56Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训</title>
+    <updated>2020-09-30T07:30:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/xzgZ_0PV26Df2abcbTn2Qw</id>
+    <link href="https://mp.weixin.qq.com/s/xzgZ_0PV26Df2abcbTn2Qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>警惕分布式常见的这十大坑</title>
     <updated>2020-09-29T07:21:04+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-21T08:00:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/2kdCL1GpAFPjeMlYGqft2g</id>
     <link href="https://mp.weixin.qq.com/s/2kdCL1GpAFPjeMlYGqft2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为了解决 Prometheus 大内存问题，我竟然强行将 Prometheus Operator 给肢解了</title>
-    <updated>2020-09-20T07:25:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/FWMrqW_9NPhoHWwtMVhTkg</id>
-    <link href="https://mp.weixin.qq.com/s/FWMrqW_9NPhoHWwtMVhTkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>领域驱动设计（DDD）实战演练工作坊</title>
-    <updated>2020-09-20T07:25:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/t-iw8Qhi5xV-7k11tv1Qdw</id>
-    <link href="https://mp.weixin.qq.com/s/t-iw8Qhi5xV-7k11tv1Qdw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T11:22:40+08:00</updated>
+  <updated>2020-09-30T11:21:43+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>吃掉Linux开发者，WSL支持GUI应用</title>
+    <updated>2020-09-30T08:36:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/7uSeMQANbnXaUT1Bp4NP-A</id>
+    <link href="https://mp.weixin.qq.com/s/7uSeMQANbnXaUT1Bp4NP-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软新版 Microsoft Edge 浏览器将于 2020 年 10 月重磅登陆 Linux</title>
     <updated>2020-09-28T20:24:42+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-09-20T21:13:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/UK-kHyEhTQnGr8ct-KMIRw</id>
     <link href="https://mp.weixin.qq.com/s/UK-kHyEhTQnGr8ct-KMIRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue.js 作者尤雨溪：TypeScript 与 JavaScript 并行才切合实际！</title>
-    <updated>2020-09-20T12:45:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/8X4HeACJ3lzvlBFqJ9PgOw</id>
-    <link href="https://mp.weixin.qq.com/s/8X4HeACJ3lzvlBFqJ9PgOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

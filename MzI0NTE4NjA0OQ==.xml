@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T20:26:01+08:00</updated>
+  <updated>2020-09-30T11:21:27+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Serverless 架构下的服务优雅下线实践</title>
+    <updated>2020-09-29T19:22:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-29:/s/dnwP20mvrdI6cLzLT77IkA</id>
+    <link href="https://mp.weixin.qq.com/s/dnwP20mvrdI6cLzLT77IkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ZAO 背后的深度学习算法原理浅析</title>
     <updated>2020-09-28T00:03:10+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-19T11:43:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/rALXO3PGfaN9vgxLryqkVA</id>
     <link href="https://mp.weixin.qq.com/s/rALXO3PGfaN9vgxLryqkVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从零入门 Serverless | 函数计算的可观测性</title>
-    <updated>2020-09-18T17:13:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/CryC98BubZISWsf3cp6faQ</id>
-    <link href="https://mp.weixin.qq.com/s/CryC98BubZISWsf3cp6faQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
