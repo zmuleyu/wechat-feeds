@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T16:24:19+08:00</updated>
+  <updated>2020-09-30T13:18:29+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C++虽不会过时，但是真的难啊！</title>
+    <updated>2020-09-30T12:59:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/mcVHLZkUoHSfKAxTMlLS4A</id>
+    <link href="https://mp.weixin.qq.com/s/mcVHLZkUoHSfKAxTMlLS4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你可能不需要固定词表：一种与词表无关的组合式词向量方法</title>
+    <updated>2020-09-30T12:59:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/T-illACabmfH16xOyCv-xg</id>
+    <link href="https://mp.weixin.qq.com/s/T-illACabmfH16xOyCv-xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>岗位内推 | 微软亚洲互联网工程院NLP组招聘AI算法研究实习生</title>
+    <updated>2020-09-30T12:59:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/YNeO8RszhBUZKCLh2nVjeg</id>
+    <link href="https://mp.weixin.qq.com/s/YNeO8RszhBUZKCLh2nVjeg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>无监督领域迁移及文本表示学习的相关进展</title>
     <updated>2020-09-29T13:16:49+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-22T13:08:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/ZuXZottKHO3qHcEijagZ0A</id>
     <link href="https://mp.weixin.qq.com/s/ZuXZottKHO3qHcEijagZ0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知识图谱理论与实践（以问答系统为例）</title>
-    <updated>2020-09-21T11:44:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/BKWATTOMxxYOrTvARSbPeA</id>
-    <link href="https://mp.weixin.qq.com/s/BKWATTOMxxYOrTvARSbPeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>思而后言：用点赞数据来帮助对话生成模型</title>
-    <updated>2020-09-21T11:44:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/NsJL85OXJ4BaAwwY6MVn2w</id>
-    <link href="https://mp.weixin.qq.com/s/NsJL85OXJ4BaAwwY6MVn2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最小熵原理系列：词向量的维度应该怎么选择？</title>
-    <updated>2020-09-20T18:20:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/AH0KiDMquDe9m5qNd5uAhA</id>
-    <link href="https://mp.weixin.qq.com/s/AH0KiDMquDe9m5qNd5uAhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
