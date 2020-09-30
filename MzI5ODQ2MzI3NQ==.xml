@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T11:22:03+08:00</updated>
+  <updated>2020-09-30T20:25:31+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里工程师总结《OSS运维基础实战手册》，限时下载！</title>
+    <updated>2020-09-30T18:20:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/NkFeyDmBM_AcLpW31XyNRw</id>
+    <link href="https://mp.weixin.qq.com/s/NkFeyDmBM_AcLpW31XyNRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>还不会回答Spring Boot和Spring MVC的关系？大厂Java高级面试官告诉你答案！</title>
     <updated>2020-09-28T22:49:53+08:00</updated>
@@ -131,13 +138,6 @@
     <updated>2020-09-21T11:28:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/0b3PRrHFxbwYhhsmaBPIqw</id>
     <link href="https://mp.weixin.qq.com/s/0b3PRrHFxbwYhhsmaBPIqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Istio 服务网格实现零信任网络</title>
-    <updated>2020-09-20T18:54:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/o3-O-Q_QejKiWPiwYeRq5g</id>
-    <link href="https://mp.weixin.qq.com/s/o3-O-Q_QejKiWPiwYeRq5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
