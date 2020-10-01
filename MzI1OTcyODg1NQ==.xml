@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T23:19:21+08:00</updated>
+  <updated>2020-10-01T23:19:48+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kafka 入门</title>
+    <updated>2020-10-01T21:15:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/wnshsMPAgzl1-j6Mu2Et9Q</id>
+    <link href="https://mp.weixin.qq.com/s/wnshsMPAgzl1-j6Mu2Et9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>nginx高效核心-IO复用模型</title>
+    <updated>2020-10-01T21:15:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/Ka_akp_6GQLxmiojBNTKMQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ka_akp_6GQLxmiojBNTKMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-10-01T21:15:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/ezIND8qzXnMglsXeF2DUuA</id>
+    <link href="https://mp.weixin.qq.com/s/ezIND8qzXnMglsXeF2DUuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>kubeadm高可用master节点（三主两从）</title>
     <updated>2020-09-30T20:44:40+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-25T18:05:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/kDjizr8RNxYZy6HVyazhPQ</id>
     <link href="https://mp.weixin.qq.com/s/kDjizr8RNxYZy6HVyazhPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IT 运维中的事件、故障排查处理思路</title>
-    <updated>2020-09-24T17:53:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/qwRBhFagiWJEU_fzQI7EYw</id>
-    <link href="https://mp.weixin.qq.com/s/qwRBhFagiWJEU_fzQI7EYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>企业实战｜基于Cobbler实现多版本系统批量部署</title>
-    <updated>2020-09-24T17:53:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/FtG1m-U2O8xvWACogzwldA</id>
-    <link href="https://mp.weixin.qq.com/s/FtG1m-U2O8xvWACogzwldA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Linux+Python+Go】免费公开课合集</title>
-    <updated>2020-09-24T17:53:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/kopO35NznClkmkQ7gLBIzQ</id>
-    <link href="https://mp.weixin.qq.com/s/kopO35NznClkmkQ7gLBIzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

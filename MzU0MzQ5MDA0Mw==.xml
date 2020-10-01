@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T11:19:11+08:00</updated>
+  <updated>2020-10-01T23:19:22+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>监控、链路追踪、日志这三者有何区别？</title>
+    <updated>2020-10-01T00:16:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/9RO3kQMUVKfHINS_YeNtwg</id>
+    <link href="https://mp.weixin.qq.com/s/9RO3kQMUVKfHINS_YeNtwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Alibaba开源好用吗？</title>
     <updated>2020-09-29T22:25:18+08:00</updated>
@@ -26,13 +33,6 @@
     <updated>2020-09-28T23:21:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/CT-dPtC6ytoXQsITT2w85g</id>
     <link href="https://mp.weixin.qq.com/s/CT-dPtC6ytoXQsITT2w85g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>连续 4 年最受欢迎：Rust，真香！</title>
-    <updated>2020-09-28T00:08:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Zdh0CeVhVLdzlwSjIqEK1w</id>
-    <link href="https://mp.weixin.qq.com/s/Zdh0CeVhVLdzlwSjIqEK1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2020-09-22T01:27:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/vQIQA4nWcwYsifoSxQ60IQ</id>
     <link href="https://mp.weixin.qq.com/s/vQIQA4nWcwYsifoSxQ60IQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink的处理背压​原理及问题-面试必备</title>
-    <updated>2020-09-20T19:49:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/0rrruAIVYRPNpynHbZF41g</id>
-    <link href="https://mp.weixin.qq.com/s/0rrruAIVYRPNpynHbZF41g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
