@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T11:17:53+08:00</updated>
+  <updated>2020-10-01T11:17:51+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入理解 Cilium 的 eBPF 收发包路径</title>
+    <updated>2020-10-01T07:15:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/jZ7-r6sP14_wlM48sReuog</id>
+    <link href="https://mp.weixin.qq.com/s/jZ7-r6sP14_wlM48sReuog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>系统学习领域驱动设计（DDD）</title>
+    <updated>2020-10-01T07:15:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/4YvJZgrsyDnsMWYpK_HBRg</id>
+    <link href="https://mp.weixin.qq.com/s/4YvJZgrsyDnsMWYpK_HBRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构与领域驱动设计应用实践</title>
     <updated>2020-09-30T07:30:57+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-22T07:29:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/sB5UGzeT-GqW6tKA8HOOZQ</id>
     <link href="https://mp.weixin.qq.com/s/sB5UGzeT-GqW6tKA8HOOZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器技术的前世今生</title>
-    <updated>2020-09-21T08:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/3bjEU9_KJecMqtfd1NhJTA</id>
-    <link href="https://mp.weixin.qq.com/s/3bjEU9_KJecMqtfd1NhJTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DDD实践培训</title>
-    <updated>2020-09-21T08:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/2kdCL1GpAFPjeMlYGqft2g</id>
-    <link href="https://mp.weixin.qq.com/s/2kdCL1GpAFPjeMlYGqft2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

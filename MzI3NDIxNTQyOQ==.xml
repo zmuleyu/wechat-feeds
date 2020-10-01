@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T20:26:25+08:00</updated>
+  <updated>2020-10-01T11:22:24+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PingCAP 祝大家中秋节快乐！</title>
+    <updated>2020-09-30T18:19:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-30:/s/SQPbKmyIA6L3Zi8fDnXU7w</id>
+    <link href="https://mp.weixin.qq.com/s/SQPbKmyIA6L3Zi8fDnXU7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ti 星球 9 月电台 | TiKV CNCF 毕业、PingCAP 论文入选 VLDB ...</title>
     <updated>2020-09-30T18:13:49+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-09-16T08:02:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/Yb_S1zNiVApYaCWqG1rJKQ</id>
     <link href="https://mp.weixin.qq.com/s/Yb_S1zNiVApYaCWqG1rJKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB on Kubernetes 最佳实践</title>
-    <updated>2020-09-14T17:36:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/yjMKEFsDRrJf99LbVL60TA</id>
-    <link href="https://mp.weixin.qq.com/s/yjMKEFsDRrJf99LbVL60TA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

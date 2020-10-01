@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>科普中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T23:21:50+08:00</updated>
+  <updated>2020-10-01T11:20:58+08:00</updated>
   <subtitle>公众科普，科学传播</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我爱你，中国！</title>
+    <updated>2020-10-01T08:13:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/mGtUWuNl6QcSyL_TJur6bw</id>
+    <link href="https://mp.weixin.qq.com/s/mGtUWuNl6QcSyL_TJur6bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>夜读丨那个被骂&#34;为老不尊&#34;的老人，暴露了一代人的窘境</title>
     <updated>2020-09-30T21:50:40+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-09-29T09:23:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/GBrXuqq4gF7hNUOxkYAvOA</id>
     <link href="https://mp.weixin.qq.com/s/GBrXuqq4gF7hNUOxkYAvOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一男子14天集中隔离解除后核酸检测阳性！官方通报</title>
-    <updated>2020-09-29T07:09:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/C85tUfGrrP1qvartgVsg-g</id>
-    <link href="https://mp.weixin.qq.com/s/C85tUfGrrP1qvartgVsg-g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
