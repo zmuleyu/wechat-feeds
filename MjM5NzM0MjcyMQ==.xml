@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T20:23:32+08:00</updated>
+  <updated>2020-10-01T20:24:05+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前有WSL，现在又有DSL</title>
+    <updated>2020-10-01T19:22:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/obqRoVSkSTpJvvVOmWArhA</id>
+    <link href="https://mp.weixin.qq.com/s/obqRoVSkSTpJvvVOmWArhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>研究显示，npm并没有那么危险</title>
+    <updated>2020-10-01T19:22:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/-b4IFyR1AQYMxPvZc3X3AA</id>
+    <link href="https://mp.weixin.qq.com/s/-b4IFyR1AQYMxPvZc3X3AA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于GraalVM的PHP JIT实现性能优于原生方案</title>
     <updated>2020-09-30T18:06:10+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-22T18:09:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/SZYRhPIxRPFlpnPJuQxovw</id>
     <link href="https://mp.weixin.qq.com/s/SZYRhPIxRPFlpnPJuQxovw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几天后，GitHub的“master”将更改为“main”</title>
-    <updated>2020-09-21T17:38:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/3I24_oVt5PSOkzTgeNfhsA</id>
-    <link href="https://mp.weixin.qq.com/s/3I24_oVt5PSOkzTgeNfhsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Oracle开源Java机器学习库Tribuo</title>
-    <updated>2020-09-21T17:38:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/tCqHB-pPk9i5GDEKN7vzDA</id>
-    <link href="https://mp.weixin.qq.com/s/tCqHB-pPk9i5GDEKN7vzDA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
