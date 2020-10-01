@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T11:21:43+08:00</updated>
+  <updated>2020-10-01T16:24:44+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>王的编辑器！VS Code 黑宝书繁体中文版蓄势待发！</title>
+    <updated>2020-10-01T14:41:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-01:/s/8ujyNZHo2BjZw5YUTUUrKw</id>
+    <link href="https://mp.weixin.qq.com/s/8ujyNZHo2BjZw5YUTUUrKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>吃掉Linux开发者，WSL支持GUI应用</title>
     <updated>2020-09-30T08:36:00+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-09-22T11:59:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/WFvZxiD9J1_ljhgKrc7jCA</id>
     <link href="https://mp.weixin.qq.com/s/WFvZxiD9J1_ljhgKrc7jCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何低成本，高效率的在AI行业升职加薪？</title>
-    <updated>2020-09-20T21:13:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/9Vr7e4OISvrwpuxf5QiQQw</id>
-    <link href="https://mp.weixin.qq.com/s/9Vr7e4OISvrwpuxf5QiQQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue 3.0 发布！</title>
-    <updated>2020-09-20T21:13:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/UK-kHyEhTQnGr8ct-KMIRw</id>
-    <link href="https://mp.weixin.qq.com/s/UK-kHyEhTQnGr8ct-KMIRw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
