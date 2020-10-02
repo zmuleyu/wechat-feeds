@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T23:19:22+08:00</updated>
+  <updated>2020-10-02T23:18:38+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GitHub：再见，master！</title>
+    <updated>2020-10-02T21:22:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/lbcYTJ7LWKtWLIUQSYDtyA</id>
+    <link href="https://mp.weixin.qq.com/s/lbcYTJ7LWKtWLIUQSYDtyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>监控、链路追踪、日志这三者有何区别？</title>
     <updated>2020-10-01T00:16:29+08:00</updated>
@@ -22,13 +29,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>昨天和一个字节跳动的朋友聊了聊他们团队对于Java工程师的能力要求</title>
-    <updated>2020-09-28T23:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Pl3US1iBnHQL4oaInAM9IQ</id>
-    <link href="https://mp.weixin.qq.com/s/Pl3US1iBnHQL4oaInAM9IQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>京东数科技术人员主导，Hmily分布式事务发布全新架构的2.1.1</title>
     <updated>2020-09-28T23:21:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/CT-dPtC6ytoXQsITT2w85g</id>
@@ -40,13 +40,6 @@
     <updated>2020-09-28T00:08:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/q8p31W1G4XFHNnFoiNuLRQ</id>
     <link href="https://mp.weixin.qq.com/s/q8p31W1G4XFHNnFoiNuLRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拒绝接口裸奔！开放API接口签名验证！</title>
-    <updated>2020-09-27T19:14:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/x6J0osoPRLI0CpGWJTxBEw</id>
-    <link href="https://mp.weixin.qq.com/s/x6J0osoPRLI0CpGWJTxBEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T23:21:29+08:00</updated>
+  <updated>2020-10-02T23:19:32+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谷歌最新模型pQRNN：效果接近BERT，参数量缩小300倍</title>
+    <updated>2020-10-02T22:10:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/iTCzA77EeIRnq3znrYyHNg</id>
+    <link href="https://mp.weixin.qq.com/s/iTCzA77EeIRnq3znrYyHNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工业级命名体识别经验+代码总结</title>
+    <updated>2020-10-02T22:10:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/xd9D24A21vs8fEVtL-ifNQ</id>
+    <link href="https://mp.weixin.qq.com/s/xd9D24A21vs8fEVtL-ifNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>祝大家双节愉快！今年国庆中秋同一天。天文专家表示，中秋节和国庆节同时出现在10月1日这一天，在21世纪仅发生4次，比较罕见。上一次是2001年，另外两次分别是2031年和2077年。</title>
     <updated>2020-10-01T20:00:12+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-27T22:17:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/w1Ga-khRjfhQwhkRK0KpiA</id>
     <link href="https://mp.weixin.qq.com/s/w1Ga-khRjfhQwhkRK0KpiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>总结｜谷歌用GNN提高ETAs准确率</title>
-    <updated>2020-09-27T22:17:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/-b9gkGE4piINjsZsjmUZCg</id>
-    <link href="https://mp.weixin.qq.com/s/-b9gkGE4piINjsZsjmUZCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【直播回放】最强大的GNN直播回放来咯！</title>
-    <updated>2020-09-27T22:17:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/W3t3l87iinc_s_nIKCoKsA</id>
-    <link href="https://mp.weixin.qq.com/s/W3t3l87iinc_s_nIKCoKsA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

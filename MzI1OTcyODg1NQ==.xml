@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T23:19:48+08:00</updated>
+  <updated>2020-10-02T23:18:54+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>linux系统服务(systemctl)的使用</title>
+    <updated>2020-10-02T20:36:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/W8PcCkNujR-4WKrukjE8CQ</id>
+    <link href="https://mp.weixin.qq.com/s/W8PcCkNujR-4WKrukjE8CQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【nginx企业级web服务实战】nginx基础配置和架构</title>
+    <updated>2020-10-02T20:36:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/d1t-gN-M2LEEFawuDUqQCQ</id>
+    <link href="https://mp.weixin.qq.com/s/d1t-gN-M2LEEFawuDUqQCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-10-02T20:36:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/85qQhN2nAlgR9v7HvXWa1A</id>
+    <link href="https://mp.weixin.qq.com/s/85qQhN2nAlgR9v7HvXWa1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kafka 入门</title>
     <updated>2020-10-01T21:15:34+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-26T21:13:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-26:/s/C0lftcCRxS-J-riDzGHq2g</id>
     <link href="https://mp.weixin.qq.com/s/C0lftcCRxS-J-riDzGHq2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文详解 FTP、FTPS 与 SFTP 的原理</title>
-    <updated>2020-09-25T18:05:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/qwc_VmHmdSkqAUt9pPlsFg</id>
-    <link href="https://mp.weixin.qq.com/s/qwc_VmHmdSkqAUt9pPlsFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>十个你可能不曾用过的Linux命令</title>
-    <updated>2020-09-25T18:05:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/YjQWf19Ezc5EefG6kfD7bQ</id>
-    <link href="https://mp.weixin.qq.com/s/YjQWf19Ezc5EefG6kfD7bQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-09-25T18:05:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/kDjizr8RNxYZy6HVyazhPQ</id>
-    <link href="https://mp.weixin.qq.com/s/kDjizr8RNxYZy6HVyazhPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
