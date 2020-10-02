@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T20:26:24+08:00</updated>
+  <updated>2020-10-02T20:37:13+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>企业安全建设之应急响应</title>
+    <updated>2020-10-02T17:30:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/dGPiqHnqGZiAosxTdf9-OA</id>
+    <link href="https://mp.weixin.qq.com/s/dGPiqHnqGZiAosxTdf9-OA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Suricata+ELK（Docker化部署）数据展示</title>
+    <updated>2020-10-02T17:30:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/FP8pBiUQBlZAuy_b5JqdxQ</id>
+    <link href="https://mp.weixin.qq.com/s/FP8pBiUQBlZAuy_b5JqdxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>挖洞经验 | 邮件验证劫持Shopify商店账户测试</title>
+    <updated>2020-10-02T17:30:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/GKFmrcyfT2zuB87P4WxkdA</id>
+    <link href="https://mp.weixin.qq.com/s/GKFmrcyfT2zuB87P4WxkdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BaseCrack：一款功能强大的Base编码解码工具</title>
+    <updated>2020-10-02T17:30:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/2lUBa1PW4Qbg6EOySeHASA</id>
+    <link href="https://mp.weixin.qq.com/s/2lUBa1PW4Qbg6EOySeHASA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>隐私保护之殇：数据匿名也有“bug”？</title>
     <updated>2020-10-01T17:54:49+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-09-28T16:39:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/aBlRWN4d78RDupkUbtDwew</id>
     <link href="https://mp.weixin.qq.com/s/aBlRWN4d78RDupkUbtDwew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>19年来首次，Windows XP源码在网上泄露</title>
-    <updated>2020-09-27T16:38:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/FiMj8axEC8sbr03Utx6m5A</id>
-    <link href="https://mp.weixin.qq.com/s/FiMj8axEC8sbr03Utx6m5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重磅消息！天威诚信联合阿里云平台助力vTrus 国产证书云上首发</title>
-    <updated>2020-09-27T16:38:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/wOsu7GAjC0X88vz71ETmOA</id>
-    <link href="https://mp.weixin.qq.com/s/wOsu7GAjC0X88vz71ETmOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BUF大事件丨动视数据账号泄漏超50万；日本多家电子支付现盗刷事件</title>
-    <updated>2020-09-27T16:38:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/un5MOsp8YJeRSZKIU-ZKhQ</id>
-    <link href="https://mp.weixin.qq.com/s/un5MOsp8YJeRSZKIU-ZKhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cnitch：一款Docker引擎运行进程权限检测工具</title>
-    <updated>2020-09-27T16:38:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/fVcCbbvaFuWXYcl_5mWUvA</id>
-    <link href="https://mp.weixin.qq.com/s/fVcCbbvaFuWXYcl_5mWUvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

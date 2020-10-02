@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T16:24:44+08:00</updated>
+  <updated>2020-10-02T20:39:14+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>做到阿里P7、考上985/211、精通Redis，哪个更难？</title>
+    <updated>2020-10-02T11:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/dA2FoWSWHy7PwwKyPx2xNw</id>
+    <link href="https://mp.weixin.qq.com/s/dA2FoWSWHy7PwwKyPx2xNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TypeScript 之父：”开源是赢得 JavaScript 开发人员的唯一途径“</title>
+    <updated>2020-10-02T11:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/WZJxGLQYDFJqI3pDRNbWlg</id>
+    <link href="https://mp.weixin.qq.com/s/WZJxGLQYDFJqI3pDRNbWlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>王的编辑器！VS Code 黑宝书繁体中文版蓄势待发！</title>
     <updated>2020-10-01T14:41:57+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2020-09-22T21:26:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/gwyWzEduxPvVe0jbBDLtOw</id>
     <link href="https://mp.weixin.qq.com/s/gwyWzEduxPvVe0jbBDLtOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 VS Code 中，也能玩转 IoT 开发！</title>
-    <updated>2020-09-22T11:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/IIvEEszLmS0q1jkjOFVmsg</id>
-    <link href="https://mp.weixin.qq.com/s/IIvEEszLmS0q1jkjOFVmsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | 978页BAT等大厂大数据、算法落地经验pdf下载！</title>
-    <updated>2020-09-22T11:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/WFvZxiD9J1_ljhgKrc7jCA</id>
-    <link href="https://mp.weixin.qq.com/s/WFvZxiD9J1_ljhgKrc7jCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

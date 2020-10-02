@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T13:21:37+08:00</updated>
+  <updated>2020-10-02T20:38:00+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>容器编排的优势与特点</title>
+    <updated>2020-10-02T16:56:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/p_ilGel0YP0VSp9A0FNOGA</id>
+    <link href="https://mp.weixin.qq.com/s/p_ilGel0YP0VSp9A0FNOGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 线上直播班，节后开课！</title>
+    <updated>2020-10-02T16:56:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/Gq9cH-K5WlDj3U9E35N4TQ</id>
+    <link href="https://mp.weixin.qq.com/s/Gq9cH-K5WlDj3U9E35N4TQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>随便几个Redis面试题，我都答不上来....</title>
     <updated>2020-09-30T23:59:08+08:00</updated>
@@ -92,13 +106,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>开源图书《Linux 命令行大全》.pdf 下载！！</title>
-    <updated>2020-09-26T15:15:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/5NkNc40yDA7lr08LJUb3Gw</id>
-    <link href="https://mp.weixin.qq.com/s/5NkNc40yDA7lr08LJUb3Gw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>多集群加持，打通容器混合云最后一公里</title>
     <updated>2020-09-25T15:08:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/FRnk0691ZpydFvAjLRTyhw</id>
@@ -117,13 +124,6 @@
     <updated>2020-09-23T11:45:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/Ar-EgGxb7jtoT2ntUOulww</id>
     <link href="https://mp.weixin.qq.com/s/Ar-EgGxb7jtoT2ntUOulww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>0基础至进阶 - Kubernetes CKA线上直播班</title>
-    <updated>2020-09-22T18:31:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/HUsxU-je8ferox3GsO51uw</id>
-    <link href="https://mp.weixin.qq.com/s/HUsxU-je8ferox3GsO51uw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
