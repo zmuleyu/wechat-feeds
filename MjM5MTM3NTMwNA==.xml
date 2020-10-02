@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>第一财经 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-02T13:17:27+08:00</updated>
+  <updated>2020-10-02T16:20:27+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>特朗普确诊新冠</title>
+    <updated>2020-10-02T13:14:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/AnSecxporhK1xkJzM6ah9A</id>
+    <link href="https://mp.weixin.qq.com/s/AnSecxporhK1xkJzM6ah9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>特朗普开始自我隔离</title>
     <updated>2020-10-02T12:15:23+08:00</updated>
@@ -137,13 +144,6 @@
     <updated>2020-09-30T17:27:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/Oa991KlVMaqM94LDh0GGoQ</id>
     <link href="https://mp.weixin.qq.com/s/Oa991KlVMaqM94LDh0GGoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国庆大数据：国内民航出行将创历史新高，票价却为近五年最低</title>
-    <updated>2020-09-30T13:35:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/bJOpiwon_Hxv-js6vQwBDw</id>
-    <link href="https://mp.weixin.qq.com/s/bJOpiwon_Hxv-js6vQwBDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
