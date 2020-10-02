@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T23:21:13+08:00</updated>
+  <updated>2020-10-02T11:20:12+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>国家预警信息发布中心权威发布2020年汛期预警大数据报告</title>
+    <updated>2020-10-02T09:43:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-02:/s/0vqLdXP6S-yuN6YhKzSOvA</id>
+    <link href="https://mp.weixin.qq.com/s/0vqLdXP6S-yuN6YhKzSOvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>夜听丨月到中秋分外明</title>
     <updated>2020-10-01T10:33:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-29T10:12:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/9O3XX36zljaFRnn6KQMszQ</id>
     <link href="https://mp.weixin.qq.com/s/9O3XX36zljaFRnn6KQMszQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>降水+降温+大雾来了！假期出行要防范~丨天气展望</title>
-    <updated>2020-09-28T09:43:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/IgD5P0NZgq4D5TPRLMKyQQ</id>
-    <link href="https://mp.weixin.qq.com/s/IgD5P0NZgq4D5TPRLMKyQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
