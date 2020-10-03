@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-02T20:38:00+08:00</updated>
+  <updated>2020-10-03T13:21:34+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>kubernetes调度器核心原理大揭秘</title>
+    <updated>2020-10-03T12:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-03:/s/kcYMdIogRU3rD9d5qtiy2Q</id>
+    <link href="https://mp.weixin.qq.com/s/kcYMdIogRU3rD9d5qtiy2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>感动哭了！《Java 编程思想》最新中文版开源！</title>
+    <updated>2020-10-03T12:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-03:/s/hv0Bw8qulW2m5OCw7td1Hg</id>
+    <link href="https://mp.weixin.qq.com/s/hv0Bw8qulW2m5OCw7td1Hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>容器编排的优势与特点</title>
     <updated>2020-10-02T16:56:18+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-09-24T15:56:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/2LU_jgUyXIw1WxBHMP0CmA</id>
     <link href="https://mp.weixin.qq.com/s/2LU_jgUyXIw1WxBHMP0CmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>K8S使用ceph-csi持久化存储之CephFS</title>
-    <updated>2020-09-23T11:45:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/Ar-EgGxb7jtoT2ntUOulww</id>
-    <link href="https://mp.weixin.qq.com/s/Ar-EgGxb7jtoT2ntUOulww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
