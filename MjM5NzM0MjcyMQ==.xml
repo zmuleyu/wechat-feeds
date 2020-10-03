@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-02T23:17:51+08:00</updated>
+  <updated>2020-10-03T20:22:59+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一人之力，毁掉一个开发者活动</title>
+    <updated>2020-10-03T18:01:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-03:/s/R8DrOTJa9pDvtNcmvejYbQ</id>
+    <link href="https://mp.weixin.qq.com/s/R8DrOTJa9pDvtNcmvejYbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>改进程架构，Edge优化浏览器内存问题</title>
+    <updated>2020-10-03T18:01:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-03:/s/Gurjzv_efBKrIQTnuPGdiA</id>
+    <link href="https://mp.weixin.qq.com/s/Gurjzv_efBKrIQTnuPGdiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为开源OpenJDK发行版“毕昇”</title>
     <updated>2020-10-02T22:26:14+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-24T18:36:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/kgQTnC5DL2UoOxbGl4a5uA</id>
     <link href="https://mp.weixin.qq.com/s/kgQTnC5DL2UoOxbGl4a5uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>当你上班摸鱼，又不想被老板发现怎么办？</title>
-    <updated>2020-09-23T18:02:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/GCmHPgjvtyDD6S8bSJ-Iew</id>
-    <link href="https://mp.weixin.qq.com/s/GCmHPgjvtyDD6S8bSJ-Iew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux基金会评微信和TikTok被封禁一事</title>
-    <updated>2020-09-23T18:02:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/4I2TI0WKCJ90_X7PF5pczA</id>
-    <link href="https://mp.weixin.qq.com/s/4I2TI0WKCJ90_X7PF5pczA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

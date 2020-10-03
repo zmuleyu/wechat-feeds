@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T20:24:34+08:00</updated>
+  <updated>2020-10-03T20:25:06+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 366 期：前端女生职业路</title>
+    <updated>2020-10-03T17:05:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-03:/s/nxSoj9xpbpV8dm_HWJ1QVw</id>
+    <link href="https://mp.weixin.qq.com/s/nxSoj9xpbpV8dm_HWJ1QVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你的Tree-Shaking真的起作用了吗</title>
     <updated>2020-09-30T15:30:57+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-09-23T16:43:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/0GO7cqSK40kHAX9uIQlkrw</id>
     <link href="https://mp.weixin.qq.com/s/0GO7cqSK40kHAX9uIQlkrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>摸金校尉聊浏览器渲染</title>
-    <updated>2020-09-22T17:14:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/9cJbRURyKK6f2h6UbLNUew</id>
-    <link href="https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
