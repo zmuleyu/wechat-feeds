@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T23:20:21+08:00</updated>
+  <updated>2020-10-05T01:11:59+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Ring All-reduce: 分布式深度学习的巧妙同步</title>
+    <updated>2020-10-04T22:25:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/0q4JsYATK8JVjGK0m_n7bQ</id>
+    <link href="https://mp.weixin.qq.com/s/0q4JsYATK8JVjGK0m_n7bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>400页《TensorFlow 2.0 深度学习算法实战》中文版教材免费下载（附随书代码+pdf）</title>
+    <updated>2020-10-04T22:25:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/xxBlgbAdNJxfofcba8Z5XA</id>
+    <link href="https://mp.weixin.qq.com/s/xxBlgbAdNJxfofcba8Z5XA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入理解推荐系统：特征交叉组合模型演化简史</title>
+    <updated>2020-10-04T22:25:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/PkoREw_nF-QLHdn7GLDfjw</id>
+    <link href="https://mp.weixin.qq.com/s/PkoREw_nF-QLHdn7GLDfjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GBDT与XGBOOST串讲</title>
+    <updated>2020-10-04T22:25:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/JVgAF2I85gFz62ESoSaIBw</id>
+    <link href="https://mp.weixin.qq.com/s/JVgAF2I85gFz62ESoSaIBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>五千字全面梳理文本匹配</title>
     <updated>2020-10-03T21:15:05+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-09-29T19:12:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/dRvs-mf5eiJ3OBPbiBdLXw</id>
     <link href="https://mp.weixin.qq.com/s/dRvs-mf5eiJ3OBPbiBdLXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂工程师岗位面试侧重什么？收好这份高薪就业4步走攻略！</title>
-    <updated>2020-09-28T17:31:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/TBh0-K-Yap9rJI2c9ncl2Q</id>
-    <link href="https://mp.weixin.qq.com/s/TBh0-K-Yap9rJI2c9ncl2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊工业界做机器学习的里程碑</title>
-    <updated>2020-09-28T17:31:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/aaMgMZIsEodSwxVBq1-m1Q</id>
-    <link href="https://mp.weixin.qq.com/s/aaMgMZIsEodSwxVBq1-m1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LaBSE: 支持 109 种语言的多语言 BERT 嵌入向量模型</title>
-    <updated>2020-09-28T17:31:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/lEYp_KtUcFIu6USKTNy89Q</id>
-    <link href="https://mp.weixin.qq.com/s/lEYp_KtUcFIu6USKTNy89Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于ELMo，面试官们都怎么问</title>
-    <updated>2020-09-28T17:31:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/G6YGUsvkxOn7BPhpl2y0ew</id>
-    <link href="https://mp.weixin.qq.com/s/G6YGUsvkxOn7BPhpl2y0ew" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
