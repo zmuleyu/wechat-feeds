@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T11:18:01+08:00</updated>
+  <updated>2020-10-04T11:06:50+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构制图：工具与方法论</title>
+    <updated>2020-10-04T08:39:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/3YjVyb2n4KLp6Xs8-a4Yjg</id>
+    <link href="https://mp.weixin.qq.com/s/3YjVyb2n4KLp6Xs8-a4Yjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训</title>
+    <updated>2020-10-04T08:39:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/fPn2Ao3QMekrw5JMdXYZTg</id>
+    <link href="https://mp.weixin.qq.com/s/fPn2Ao3QMekrw5JMdXYZTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用Prometheus和Grafana构建Redis实时监控平台</title>
     <updated>2020-10-03T07:39:31+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-25T07:31:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/zpaXyccHdUWH8AySnKK7vg</id>
     <link href="https://mp.weixin.qq.com/s/zpaXyccHdUWH8AySnKK7vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大规模微服务利器：eBPF 与 Kubernetes</title>
-    <updated>2020-09-24T07:38:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/6APF6ojGzxBAa7-by8-5jA</id>
-    <link href="https://mp.weixin.qq.com/s/6APF6ojGzxBAa7-by8-5jA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证CKA培训</title>
-    <updated>2020-09-24T07:38:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/ZYhJKHeqHKpXYupgN7U86g</id>
-    <link href="https://mp.weixin.qq.com/s/ZYhJKHeqHKpXYupgN7U86g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

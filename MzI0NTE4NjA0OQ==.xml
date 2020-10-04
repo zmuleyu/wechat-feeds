@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T11:20:55+08:00</updated>
+  <updated>2020-10-04T11:12:16+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink SQL 1.11 新功能与最佳实践</title>
+    <updated>2020-10-03T11:28:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-03:/s/v9_epRDUVkhMGlDadkX9OQ</id>
+    <link href="https://mp.weixin.qq.com/s/v9_epRDUVkhMGlDadkX9OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生计算引擎挑战与解决方案</title>
     <updated>2020-10-02T11:29:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-25T15:13:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/ucZcXHgQ3pYW82HIAhfYHw</id>
     <link href="https://mp.weixin.qq.com/s/ucZcXHgQ3pYW82HIAhfYHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>钉钉轻松顶住信息洪流的原因，竟然是它</title>
-    <updated>2020-09-23T17:50:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/cO5K_k56X9a99L4jUdNPbg</id>
-    <link href="https://mp.weixin.qq.com/s/cO5K_k56X9a99L4jUdNPbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
