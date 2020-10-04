@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T21:48:58+08:00</updated>
+  <updated>2020-10-04T23:12:00+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>5个酷毙的Python工具</title>
+    <updated>2020-10-04T20:01:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/2P0PiBvwOkZ6LHI5Uw4cCQ</id>
+    <link href="https://mp.weixin.qq.com/s/2P0PiBvwOkZ6LHI5Uw4cCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Nginx企业级应用配置高级用法</title>
+    <updated>2020-10-04T20:01:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/seJ6NVCWBd3FjzxJRC8Bqw</id>
+    <link href="https://mp.weixin.qq.com/s/seJ6NVCWBd3FjzxJRC8Bqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-10-04T20:01:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/4jfE-WrFy7pP7V0uf5ze6g</id>
+    <link href="https://mp.weixin.qq.com/s/4jfE-WrFy7pP7V0uf5ze6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于 Nginx+lua+Memcache 实现灰度发布</title>
     <updated>2020-10-03T18:52:14+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-28T20:50:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/sHZrfDMhHMl1sl6Nv35SSA</id>
     <link href="https://mp.weixin.qq.com/s/sHZrfDMhHMl1sl6Nv35SSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-09-28T20:50:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/YIWxfKkKd-PGY290ZQysAA</id>
-    <link href="https://mp.weixin.qq.com/s/YIWxfKkKd-PGY290ZQysAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux shell 逻辑运算符、逻辑表达式详解</title>
-    <updated>2020-09-27T21:26:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/usi2btcGcC6funAOSjg04w</id>
-    <link href="https://mp.weixin.qq.com/s/usi2btcGcC6funAOSjg04w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux容器技术原理和使用</title>
-    <updated>2020-09-27T21:26:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/zFQgKq2d0-90j_5nAC8LEg</id>
-    <link href="https://mp.weixin.qq.com/s/zFQgKq2d0-90j_5nAC8LEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

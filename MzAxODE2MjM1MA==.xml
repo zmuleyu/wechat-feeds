@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T23:18:54+08:00</updated>
+  <updated>2020-10-04T23:11:58+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>代数效应与 React</title>
+    <updated>2020-10-04T22:08:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/DP8zp5RsYkzyVaXiwvqqWw</id>
+    <link href="https://mp.weixin.qq.com/s/DP8zp5RsYkzyVaXiwvqqWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神</title>
     <updated>2020-10-03T21:55:29+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-09-24T19:09:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/Oyj8euN90knCp3OMXhJUnQ</id>
     <link href="https://mp.weixin.qq.com/s/Oyj8euN90knCp3OMXhJUnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>搞懂 JWT 这个知识点</title>
-    <updated>2020-09-22T21:59:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/ZD9u8Em8UHFmjag3CGd2tQ</id>
-    <link href="https://mp.weixin.qq.com/s/ZD9u8Em8UHFmjag3CGd2tQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

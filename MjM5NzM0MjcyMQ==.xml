@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T20:22:59+08:00</updated>
+  <updated>2020-10-04T23:10:14+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Firefox 18周岁</title>
+    <updated>2020-10-04T22:05:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/F8e954UNc_6jZ4id-ddeTA</id>
+    <link href="https://mp.weixin.qq.com/s/F8e954UNc_6jZ4id-ddeTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>苹果开源Swift System，增加Linux支持</title>
+    <updated>2020-10-04T22:05:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/Z8OR2v1d_4itsN-RUIgMig</id>
+    <link href="https://mp.weixin.qq.com/s/Z8OR2v1d_4itsN-RUIgMig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一人之力，毁掉一个开发者活动</title>
     <updated>2020-10-03T18:01:16+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-25T18:05:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/OOgogwHao_dOoCwJ9wvjJg</id>
     <link href="https://mp.weixin.qq.com/s/OOgogwHao_dOoCwJ9wvjJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Swift开始支持Windows</title>
-    <updated>2020-09-24T18:36:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/aPIkYAZlsXUoEwiwTuMB8w</id>
-    <link href="https://mp.weixin.qq.com/s/aPIkYAZlsXUoEwiwTuMB8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专访PMC，Apache Pulsar如何挑战Kafka？</title>
-    <updated>2020-09-24T18:36:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/kgQTnC5DL2UoOxbGl4a5uA</id>
-    <link href="https://mp.weixin.qq.com/s/kgQTnC5DL2UoOxbGl4a5uA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
