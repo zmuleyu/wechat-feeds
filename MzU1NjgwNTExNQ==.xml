@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-04T11:13:28+08:00</updated>
+  <updated>2020-10-05T11:14:47+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软获 OpenAI 独家 GPT-3 模型授权，是潘多拉还是聚宝盆？</title>
+    <updated>2020-10-04T19:17:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-04:/s/_fxc6Z_tqRqn6wKXOhDyTA</id>
+    <link href="https://mp.weixin.qq.com/s/_fxc6Z_tqRqn6wKXOhDyTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>955.WLB 不加班公司名单新增 6 家公司，移出 1 家公司！</title>
     <updated>2020-10-03T20:33:37+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-09-26T10:45:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-26:/s/_4XegqB_khhKSFthVeGqNQ</id>
     <link href="https://mp.weixin.qq.com/s/_4XegqB_khhKSFthVeGqNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每秒100W请求，携程如何支撑十一假期抢票系统的？</title>
-    <updated>2020-09-24T22:06:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/H3tir8_lluS-LPiBblS7Eg</id>
-    <link href="https://mp.weixin.qq.com/s/H3tir8_lluS-LPiBblS7Eg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几天后，GitHub的“master”将更改为“main”</title>
-    <updated>2020-09-24T22:06:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/WQXI5bAXdBqaQQ_psEtmSg</id>
-    <link href="https://mp.weixin.qq.com/s/WQXI5bAXdBqaQQ_psEtmSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
