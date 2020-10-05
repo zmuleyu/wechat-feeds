@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UEFI社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T16:22:32+08:00</updated>
+  <updated>2020-10-05T23:12:42+08:00</updated>
   <subtitle>UEFI关注者的家园</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>UEFI到底怎么读？</title>
+    <updated>2020-10-05T20:19:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/ldSyx6azYax-Izgeob3tMg</id>
+    <link href="https://mp.weixin.qq.com/s/ldSyx6azYax-Izgeob3tMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>手机中的LPDDR为什么不能替代电脑里的DDR？谁速度更快？</title>
     <updated>2020-09-30T15:26:46+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-06-17T19:00:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-06-17:/s/qt7Qz5EwhNbzDNlELZae0g</id>
     <link href="https://mp.weixin.qq.com/s/qt7Qz5EwhNbzDNlELZae0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何自制一个UEFI实用小工具：RomHover</title>
-    <updated>2020-06-09T18:09:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-09:/s/KuAOPFcGCWUFyVpZxfPj0A</id>
-    <link href="https://mp.weixin.qq.com/s/KuAOPFcGCWUFyVpZxfPj0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

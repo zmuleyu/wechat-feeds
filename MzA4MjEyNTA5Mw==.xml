@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-03T23:21:35+08:00</updated>
+  <updated>2020-10-05T23:13:19+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PyTorch 版 YOLOv4 更新了，不仅适用于自定义数据集，还集成了注意力和 MobileNet</title>
+    <updated>2020-10-05T22:06:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/koaLqy6iH9o3AGxxR0Vo5g</id>
+    <link href="https://mp.weixin.qq.com/s/koaLqy6iH9o3AGxxR0Vo5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>整理一套 pandas 详细教程，希望对你有帮助！</title>
     <updated>2020-10-03T21:44:48+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-09-19T14:28:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/XQDmdP1fueS3BxRefuLbHg</id>
     <link href="https://mp.weixin.qq.com/s/XQDmdP1fueS3BxRefuLbHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么招不到最好的程序员？StackOverflow 创始人有这些建议</title>
-    <updated>2020-09-17T23:10:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/FxSzGi5NVN4iVxp9rKbNgw</id>
-    <link href="https://mp.weixin.qq.com/s/FxSzGi5NVN4iVxp9rKbNgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

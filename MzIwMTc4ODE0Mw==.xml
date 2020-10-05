@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-04T20:14:59+08:00</updated>
+  <updated>2020-10-05T23:11:34+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>计算机视觉中的自监督表示学习近期进展</title>
+    <updated>2020-10-05T22:28:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/Tau5jzNbBd0NketdgytvAg</id>
+    <link href="https://mp.weixin.qq.com/s/Tau5jzNbBd0NketdgytvAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>生成对抗网络（GAN）的数学原理全解</title>
     <updated>2020-10-04T18:35:49+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-09-26T13:08:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-26:/s/tvcG8sZSCUrUqob8MA6Nvw</id>
     <link href="https://mp.weixin.qq.com/s/tvcG8sZSCUrUqob8MA6Nvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百度大脑开放日人像特效专场，诚邀你参加这场AI技术的盛宴！</title>
-    <updated>2020-09-25T10:15:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/Dp5pWOWH6XWbWVtynfcCAw</id>
-    <link href="https://mp.weixin.qq.com/s/Dp5pWOWH6XWbWVtynfcCAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FGPM：文本对抗样本生成新方法</title>
-    <updated>2020-09-25T10:15:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/xSJwfYSJccGeSRFNqxWnkA</id>
-    <link href="https://mp.weixin.qq.com/s/xSJwfYSJccGeSRFNqxWnkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
