@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T01:11:59+08:00</updated>
+  <updated>2020-10-06T01:11:59+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>中文版！学习TensorFlow、PyTorch、机器学习、深度学习四件套！（附免费下载）</title>
+    <updated>2020-10-05T22:33:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/YJ4ywo0tm6wY0VJAKYsazw</id>
+    <link href="https://mp.weixin.qq.com/s/YJ4ywo0tm6wY0VJAKYsazw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer (变形金刚，大雾) 三部曲：RNN 的继承者</title>
+    <updated>2020-10-05T22:33:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/y_gYE1DhzwyJBGQjttN1gw</id>
+    <link href="https://mp.weixin.qq.com/s/y_gYE1DhzwyJBGQjttN1gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>​文本挖掘从小白到精通（二十一）如何使用造好的轮子快速实现各项文本挖掘任务</title>
+    <updated>2020-10-05T22:33:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/e4sX0lyrZPDewThm3QeJTA</id>
+    <link href="https://mp.weixin.qq.com/s/e4sX0lyrZPDewThm3QeJTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>算法岗一年半的工作总结--聊聊什么才是核心竞争力</title>
+    <updated>2020-10-05T22:33:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/i-jeebIDSKZNMBgGGcDuIA</id>
+    <link href="https://mp.weixin.qq.com/s/i-jeebIDSKZNMBgGGcDuIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ring All-reduce: 分布式深度学习的巧妙同步</title>
     <updated>2020-10-04T22:25:43+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-09-29T19:12:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/4RZXHahBzZUfqHsS3r49Ow</id>
     <link href="https://mp.weixin.qq.com/s/4RZXHahBzZUfqHsS3r49Ow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在基于Aspect的情感分析中结合BERT和语法信息</title>
-    <updated>2020-09-29T19:12:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/ZxNPPyj51zxfrVb_hmsAQw</id>
-    <link href="https://mp.weixin.qq.com/s/ZxNPPyj51zxfrVb_hmsAQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KDD 2020 | Facebook搜索向量召回读后感</title>
-    <updated>2020-09-29T19:12:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/QpsXPVtTmo4-YMEK8bOwNg</id>
-    <link href="https://mp.weixin.qq.com/s/QpsXPVtTmo4-YMEK8bOwNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KDD2020最佳论文: 关于个性化排序任务评价指标的大讨论</title>
-    <updated>2020-09-29T19:12:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/aA9tBLeAvjND_m9ngvy7UQ</id>
-    <link href="https://mp.weixin.qq.com/s/aA9tBLeAvjND_m9ngvy7UQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Flink】基于 Flink 的流式数据实时去重</title>
-    <updated>2020-09-29T19:12:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/dRvs-mf5eiJ3OBPbiBdLXw</id>
-    <link href="https://mp.weixin.qq.com/s/dRvs-mf5eiJ3OBPbiBdLXw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
