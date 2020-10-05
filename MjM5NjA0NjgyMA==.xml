@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-04T20:16:45+08:00</updated>
+  <updated>2020-10-05T20:18:18+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>等保测评师角度浅谈等保2.0</title>
+    <updated>2020-10-05T17:27:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/2IdogKlHKfAMqX-_UiyiRA</id>
+    <link href="https://mp.weixin.qq.com/s/2IdogKlHKfAMqX-_UiyiRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google在Google Play中下架了17个恶意软件</title>
+    <updated>2020-10-05T17:27:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/2eQv5d3dzusyjtw0OUmANA</id>
+    <link href="https://mp.weixin.qq.com/s/2eQv5d3dzusyjtw0OUmANA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dofloo（AESDDoS）僵尸网络正批量扫描、攻击Docker容器</title>
+    <updated>2020-10-05T17:27:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/2uQTuTQAXV0X4XIQUe1Tcg</id>
+    <link href="https://mp.weixin.qq.com/s/2uQTuTQAXV0X4XIQUe1Tcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>透明部落：发展历程分析</title>
+    <updated>2020-10-05T17:27:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/H9uViLBl7lOr9Pxihjd1hw</id>
+    <link href="https://mp.weixin.qq.com/s/H9uViLBl7lOr9Pxihjd1hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>个人信息保护法草案本月将正式亮相</title>
     <updated>2020-10-04T15:59:53+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-01T17:54:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-01:/s/RPJc2kTWUBYMEdbUOD3R-g</id>
     <link href="https://mp.weixin.qq.com/s/RPJc2kTWUBYMEdbUOD3R-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在双因素身份认证领域混迹6年，聊聊我的见解</title>
-    <updated>2020-09-30T16:40:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/YdTdrmbL2Ab8syw7d2JK8w</id>
-    <link href="https://mp.weixin.qq.com/s/YdTdrmbL2Ab8syw7d2JK8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网络流量分析技术（NTA）你不知道的事</title>
-    <updated>2020-09-30T16:40:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/8u0Du9253CU81ifW-qoDWw</id>
-    <link href="https://mp.weixin.qq.com/s/8u0Du9253CU81ifW-qoDWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>100万美金的诱惑：REvil勒索软件运营商正在招募新会员</title>
-    <updated>2020-09-30T16:40:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/5xoZJJuwim_MU_c7zt7Fyw</id>
-    <link href="https://mp.weixin.qq.com/s/5xoZJJuwim_MU_c7zt7Fyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Permission-Manager：一款针对Kubernete的用户管理工具</title>
-    <updated>2020-09-30T16:40:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/Hh6bIrI6uqFNcqaQmBCAVg</id>
-    <link href="https://mp.weixin.qq.com/s/Hh6bIrI6uqFNcqaQmBCAVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
