@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T11:14:00+08:00</updated>
+  <updated>2020-10-06T11:13:33+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Hologres在阿里搜索推荐实时数据场景下即席多维分析的最佳实践</title>
+    <updated>2020-10-05T10:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-05:/s/I--OB4AhuHyHUfJWXbXUTQ</id>
+    <link href="https://mp.weixin.qq.com/s/I--OB4AhuHyHUfJWXbXUTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生计算引擎挑战与解决方案</title>
     <updated>2020-10-04T11:20:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-26T13:45:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-26:/s/YdbZfJh7GN9n7CrXzJ75ww</id>
     <link href="https://mp.weixin.qq.com/s/YdbZfJh7GN9n7CrXzJ75ww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据湖架构，为什么需要“湖加速”？</title>
-    <updated>2020-09-25T22:14:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/9-NbnLdgZrHlgI0Let4gmg</id>
-    <link href="https://mp.weixin.qq.com/s/9-NbnLdgZrHlgI0Let4gmg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
