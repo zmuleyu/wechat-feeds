@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T20:19:29+08:00</updated>
+  <updated>2020-10-06T20:16:43+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 分层命名空间</title>
+    <updated>2020-10-06T18:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/de6paBBbjxeM7L3t709CYw</id>
+    <link href="https://mp.weixin.qq.com/s/de6paBBbjxeM7L3t709CYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新版CKA认证，Kubernetes 线上直播班</title>
+    <updated>2020-10-06T18:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/sDkskkmp_vjV8V0HwX4c0g</id>
+    <link href="https://mp.weixin.qq.com/s/sDkskkmp_vjV8V0HwX4c0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>每秒10万次高并发订单业务，你怎么实现？</title>
     <updated>2020-10-05T15:06:29+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-09-27T17:33:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/g8GjlpdYRZaQXwzgeZFLNw</id>
     <link href="https://mp.weixin.qq.com/s/g8GjlpdYRZaQXwzgeZFLNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>0基础学习 Kubernetes</title>
-    <updated>2020-09-26T15:15:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/-bvL9u_ZAOPvFf3szFNX9Q</id>
-    <link href="https://mp.weixin.qq.com/s/-bvL9u_ZAOPvFf3szFNX9Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
