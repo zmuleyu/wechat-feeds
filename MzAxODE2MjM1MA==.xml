@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T13:11:18+08:00</updated>
+  <updated>2020-10-06T23:11:48+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>由浅入深，66条JavaScript面试知识点</title>
+    <updated>2020-10-06T20:12:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/XwUENqj9mFVM_d_fbHwZOw</id>
+    <link href="https://mp.weixin.qq.com/s/XwUENqj9mFVM_d_fbHwZOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你不知道的 React</title>
     <updated>2020-10-04T20:34:02+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-09-26T21:55:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-26:/s/FT8Z99ZkD41CsJV82JebRA</id>
     <link href="https://mp.weixin.qq.com/s/FT8Z99ZkD41CsJV82JebRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试最后一题是 CSS，答错后薪资降了 2k…</title>
-    <updated>2020-09-24T22:09:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/M7apbB9ormb6OptGFZVF5g</id>
-    <link href="https://mp.weixin.qq.com/s/M7apbB9ormb6OptGFZVF5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全面分析toString与valueOf，并随手解决掉几道大厂必备面试题</title>
-    <updated>2020-09-24T22:09:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/K6phtv3oqnSL0bGRCNbm1w</id>
-    <link href="https://mp.weixin.qq.com/s/K6phtv3oqnSL0bGRCNbm1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

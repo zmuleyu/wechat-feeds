@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T23:13:19+08:00</updated>
+  <updated>2020-10-06T23:13:05+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python 3.9 发布，3.10 系列开始释出</title>
+    <updated>2020-10-06T21:33:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/-rPBgzFqxWiXwpDzbC6wIQ</id>
+    <link href="https://mp.weixin.qq.com/s/-rPBgzFqxWiXwpDzbC6wIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PyTorch 版 YOLOv4 更新了，不仅适用于自定义数据集，还集成了注意力和 MobileNet</title>
     <updated>2020-10-05T22:06:00+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-09-20T20:19:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/vRWLMNk8rQrS4194n1DoJg</id>
     <link href="https://mp.weixin.qq.com/s/vRWLMNk8rQrS4194n1DoJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>15年！NumPy 论文终出炉，还登上了 Nature</title>
-    <updated>2020-09-19T14:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/6dzszTMNAdoFsokTIKlntQ</id>
-    <link href="https://mp.weixin.qq.com/s/6dzszTMNAdoFsokTIKlntQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面向对象：愿未来可期，有你相伴</title>
-    <updated>2020-09-19T14:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/XQDmdP1fueS3BxRefuLbHg</id>
-    <link href="https://mp.weixin.qq.com/s/XQDmdP1fueS3BxRefuLbHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

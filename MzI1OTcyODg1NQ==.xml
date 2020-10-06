@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T23:11:33+08:00</updated>
+  <updated>2020-10-06T23:11:54+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文说尽 MySQL 优化原理</title>
+    <updated>2020-10-06T18:45:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/QOIIRFFV1dWUHUvIYS1krg</id>
+    <link href="https://mp.weixin.qq.com/s/QOIIRFFV1dWUHUvIYS1krg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>带你揭秘上市公司的运维自动化基础架构建设</title>
+    <updated>2020-10-06T18:45:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/No9rtK-eBWt4xHrXHvrm7g</id>
+    <link href="https://mp.weixin.qq.com/s/No9rtK-eBWt4xHrXHvrm7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-10-06T18:45:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-06:/s/dEfeU1wE19hgOjC2n9zlhQ</id>
+    <link href="https://mp.weixin.qq.com/s/dEfeU1wE19hgOjC2n9zlhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开源，免费，跨平台的devops批量运维工具，《卡死你3000》简介</title>
     <updated>2020-10-05T22:05:33+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-30T20:44:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/TdthTV95c0COvUuJom_2Xw</id>
     <link href="https://mp.weixin.qq.com/s/TdthTV95c0COvUuJom_2Xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-09-30T20:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/lyrkcSCr6e3xLcYGrM0WdQ</id>
-    <link href="https://mp.weixin.qq.com/s/lyrkcSCr6e3xLcYGrM0WdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>日志切割方法小结 [Logrotate、python、shell脚本实现 ]</title>
-    <updated>2020-09-29T21:30:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/r8PD1iycSVE211WNl4AyqA</id>
-    <link href="https://mp.weixin.qq.com/s/r8PD1iycSVE211WNl4AyqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解实时查看网卡流量的几款工具</title>
-    <updated>2020-09-29T21:30:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/cSfahKWQGJuiPqfc18CDPg</id>
-    <link href="https://mp.weixin.qq.com/s/cSfahKWQGJuiPqfc18CDPg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
