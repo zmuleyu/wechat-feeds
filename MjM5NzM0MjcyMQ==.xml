@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-06T20:14:04+08:00</updated>
+  <updated>2020-10-07T23:10:33+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>恶意npm包收集用户IP等信息并在GitHub传播</title>
+    <updated>2020-10-07T21:17:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/ejV_pkc8DJbPo3shf62A-Q</id>
+    <link href="https://mp.weixin.qq.com/s/ejV_pkc8DJbPo3shf62A-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python有望第二？Rust出局前二十</title>
+    <updated>2020-10-07T21:17:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/dsQLTAHu6sZ9PnDFcGjWWw</id>
+    <link href="https://mp.weixin.qq.com/s/dsQLTAHu6sZ9PnDFcGjWWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kotlin路线图：将重写编译器</title>
     <updated>2020-10-06T17:38:02+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-28T16:31:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/ErdEduVxbliv1ZWqFryPnQ</id>
     <link href="https://mp.weixin.qq.com/s/ErdEduVxbliv1ZWqFryPnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 2020：使用者近 680 万，中国开发者占比最高</title>
-    <updated>2020-09-27T21:05:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/UETr4WFyf7ud_GLGwtQaFQ</id>
-    <link href="https://mp.weixin.qq.com/s/UETr4WFyf7ud_GLGwtQaFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>联想开始销售预装 Ubuntu 的台式电脑</title>
-    <updated>2020-09-27T21:05:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/g6MJ-CQyZNVKTMzT_D3sfQ</id>
-    <link href="https://mp.weixin.qq.com/s/g6MJ-CQyZNVKTMzT_D3sfQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-06T20:14:40+08:00</updated>
+  <updated>2020-10-07T23:11:19+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂KEGG数据库</title>
+    <updated>2020-10-07T15:34:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/UZRVF6eZnc7nTPZuBkujhg</id>
+    <link href="https://mp.weixin.qq.com/s/UZRVF6eZnc7nTPZuBkujhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于R语言的统计可视化视频课双十一大促销（打包价仅需11元）</title>
     <updated>2020-10-06T17:56:55+08:00</updated>
@@ -96,27 +103,6 @@
     <updated>2020-09-27T20:35:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/K1E8n3iAA81UnypuFsc8lA</id>
     <link href="https://mp.weixin.qq.com/s/K1E8n3iAA81UnypuFsc8lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几百年来全世界就一个人用了它</title>
-    <updated>2020-09-26T16:32:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/OgwyxCqxZ6DA0G-2FeaxPQ</id>
-    <link href="https://mp.weixin.qq.com/s/OgwyxCqxZ6DA0G-2FeaxPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>共享云服务器又来了（这次足足有65个名额）</title>
-    <updated>2020-09-26T16:32:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/XyfjOD7TiTjS7Uld3idzmg</id>
-    <link href="https://mp.weixin.qq.com/s/XyfjOD7TiTjS7Uld3idzmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Network在单细胞转录组数据分析中的应用</title>
-    <updated>2020-09-26T16:32:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/QQY2JSKYbZZ0YcSvs2Yx0A</id>
-    <link href="https://mp.weixin.qq.com/s/QQY2JSKYbZZ0YcSvs2Yx0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
