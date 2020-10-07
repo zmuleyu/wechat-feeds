@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>深网腾讯新闻 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T13:20:41+08:00</updated>
+  <updated>2020-10-07T16:12:47+08:00</updated>
   <subtitle>腾讯新闻出品栏目，《深网》是一档原创深度报道栏目，挖掘科技和TMT领域热门公司、事件和人物中的隐秘故事，探究背后的深层逻辑。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>戈壁上的中国顶级社交场</title>
+    <updated>2020-10-07T15:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/z6q-_stAqbXTcDjDWAJjog</id>
+    <link href="https://mp.weixin.qq.com/s/z6q-_stAqbXTcDjDWAJjog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对话“嫦娥之父”欧阳自远：中国何时能实现载人登月？</title>
     <updated>2020-10-01T10:25:35+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-09-10T10:34:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-10:/s/gOUlXuDmkfLCht3iDldATA</id>
     <link href="https://mp.weixin.qq.com/s/gOUlXuDmkfLCht3iDldATA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团外卖发布声明：调度系统给骑手留出8分钟弹性时间 | 深网</title>
-    <updated>2020-09-09T20:32:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/9WZ4mGzHgE2nyZyELeJkmg</id>
-    <link href="https://mp.weixin.qq.com/s/9WZ4mGzHgE2nyZyELeJkmg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
