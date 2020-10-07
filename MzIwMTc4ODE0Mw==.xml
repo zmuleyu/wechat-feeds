@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T23:11:34+08:00</updated>
+  <updated>2020-10-07T13:11:54+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>20年进入下半赛程，你变强了吗？</title>
+    <updated>2020-10-07T11:16:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/3Ba-jax8k_UJ2LElryXvWQ</id>
+    <link href="https://mp.weixin.qq.com/s/3Ba-jax8k_UJ2LElryXvWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>计算机视觉中的自监督表示学习近期进展</title>
     <updated>2020-10-05T22:28:54+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-09-27T13:39:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/_zwArKsZ5lNZaxHW-8EYxg</id>
     <link href="https://mp.weixin.qq.com/s/_zwArKsZ5lNZaxHW-8EYxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习、深度学习所需掌握的数学知识全都在这里了！</title>
-    <updated>2020-09-26T13:08:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/cODWB_Hn28A92XANRtdsJQ</id>
-    <link href="https://mp.weixin.qq.com/s/cODWB_Hn28A92XANRtdsJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解如何充分发挥先验信息优势，用MRC框架解决各类NLP任务</title>
-    <updated>2020-09-26T13:08:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/tvcG8sZSCUrUqob8MA6Nvw</id>
-    <link href="https://mp.weixin.qq.com/s/tvcG8sZSCUrUqob8MA6Nvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
