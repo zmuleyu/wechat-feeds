@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-06T20:16:33+08:00</updated>
+  <updated>2020-10-07T20:15:20+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据安全视角下的数据库审计技术进化</title>
+    <updated>2020-10-07T16:35:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/wMPni1QaY0gDsqvfo-E3ZA</id>
+    <link href="https://mp.weixin.qq.com/s/wMPni1QaY0gDsqvfo-E3ZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ESET披露自从2011年开始活跃的新APT组织XDSpy</title>
+    <updated>2020-10-07T16:35:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/m2afX5OI8W7eKcjo9OSoTA</id>
+    <link href="https://mp.weixin.qq.com/s/m2afX5OI8W7eKcjo9OSoTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手把手教你构建自定义的Mimikatz二进制文件</title>
+    <updated>2020-10-07T16:35:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/QPJYkmyRSVwJFszgzML_Hg</id>
+    <link href="https://mp.weixin.qq.com/s/QPJYkmyRSVwJFszgzML_Hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Bashtop：一款功能强大的LinuxOSXFreeBSD资源监控工具</title>
+    <updated>2020-10-07T16:35:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-07:/s/ry0Su70TX3KsK9QxRqasUA</id>
+    <link href="https://mp.weixin.qq.com/s/ry0Su70TX3KsK9QxRqasUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>苹果T2安全芯片“不安全”？目前尚无法修复</title>
     <updated>2020-10-06T15:39:18+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-03T17:47:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-03:/s/La5Qi8VDHYFgDsoY7dl8QQ</id>
     <link href="https://mp.weixin.qq.com/s/La5Qi8VDHYFgDsoY7dl8QQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>企业安全建设之应急响应</title>
-    <updated>2020-10-02T17:30:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/dGPiqHnqGZiAosxTdf9-OA</id>
-    <link href="https://mp.weixin.qq.com/s/dGPiqHnqGZiAosxTdf9-OA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Suricata+ELK（Docker化部署）数据展示</title>
-    <updated>2020-10-02T17:30:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/FP8pBiUQBlZAuy_b5JqdxQ</id>
-    <link href="https://mp.weixin.qq.com/s/FP8pBiUQBlZAuy_b5JqdxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>挖洞经验 | 邮件验证劫持Shopify商店账户测试</title>
-    <updated>2020-10-02T17:30:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/GKFmrcyfT2zuB87P4WxkdA</id>
-    <link href="https://mp.weixin.qq.com/s/GKFmrcyfT2zuB87P4WxkdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BaseCrack：一款功能强大的Base编码解码工具</title>
-    <updated>2020-10-02T17:30:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/2lUBa1PW4Qbg6EOySeHASA</id>
-    <link href="https://mp.weixin.qq.com/s/2lUBa1PW4Qbg6EOySeHASA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
