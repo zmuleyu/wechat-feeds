@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T13:12:58+08:00</updated>
+  <updated>2020-10-08T13:12:21+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>【附申请地址】阿里云网盘，开放申请啦！非会员下载 10MB/s！有图有真相！</title>
+    <updated>2020-10-08T10:55:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/MT1Lkcm-B8lwEMF81s-mVw</id>
+    <link href="https://mp.weixin.qq.com/s/MT1Lkcm-B8lwEMF81s-mVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>kubernetes中的api聚合机制设计</title>
+    <updated>2020-10-08T10:55:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/LmZnx0sCUCPg18KUn8TUlA</id>
+    <link href="https://mp.weixin.qq.com/s/LmZnx0sCUCPg18KUn8TUlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>云原生距离我们有多远</title>
     <updated>2020-10-07T12:30:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-07:/s/eOTE5Gq_zpExAFeEEzGhhg</id>
     <link href="https://mp.weixin.qq.com/s/eOTE5Gq_zpExAFeEEzGhhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货！一整套华为网络数据中心资料，提供下载</title>
-    <updated>2020-10-07T12:30:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/bQTOuHEQKJoNQPUbx8P1eg</id>
-    <link href="https://mp.weixin.qq.com/s/bQTOuHEQKJoNQPUbx8P1eg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -103,20 +110,6 @@
     <updated>2020-09-27T22:48:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/TRQXrhE6iLsGxOIdoe380g</id>
     <link href="https://mp.weixin.qq.com/s/TRQXrhE6iLsGxOIdoe380g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DevOps的7个误解</title>
-    <updated>2020-09-27T17:33:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/zt5BBDRRjxn_FtWpn5hb0g</id>
-    <link href="https://mp.weixin.qq.com/s/zt5BBDRRjxn_FtWpn5hb0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如果故障选择了你……</title>
-    <updated>2020-09-27T17:33:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/g8GjlpdYRZaQXwzgeZFLNw</id>
-    <link href="https://mp.weixin.qq.com/s/g8GjlpdYRZaQXwzgeZFLNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
