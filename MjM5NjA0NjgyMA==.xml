@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T20:15:20+08:00</updated>
+  <updated>2020-10-08T20:15:41+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WAF代码剖析之初识openresty</title>
+    <updated>2020-10-08T17:14:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/H3uPZ0VRxbetRd_ZTVq6CQ</id>
+    <link href="https://mp.weixin.qq.com/s/H3uPZ0VRxbetRd_ZTVq6CQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>苦象组织近期网络攻击活动及泄露武器分析</title>
+    <updated>2020-10-08T17:14:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/g3rmGLiZrdsic3Kvv_OeOw</id>
+    <link href="https://mp.weixin.qq.com/s/g3rmGLiZrdsic3Kvv_OeOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Intelspy：一款功能强大的自动化网络侦察扫描工具</title>
+    <updated>2020-10-08T17:14:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/kH_izY9TurmGF4yi2EMMRA</id>
+    <link href="https://mp.weixin.qq.com/s/kH_izY9TurmGF4yi2EMMRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>APACHE OFBIZ XMLRPC远程代码执行漏洞分析</title>
+    <updated>2020-10-08T17:14:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/_rTLN58MVDaj_AN0NAv5MQ</id>
+    <link href="https://mp.weixin.qq.com/s/_rTLN58MVDaj_AN0NAv5MQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据安全视角下的数据库审计技术进化</title>
     <updated>2020-10-07T16:35:28+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-04T15:59:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-04:/s/OfpZJLdMuT96i6LM_BYE-g</id>
     <link href="https://mp.weixin.qq.com/s/OfpZJLdMuT96i6LM_BYE-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>信息合规成长路径思考</title>
-    <updated>2020-10-03T17:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/hy6AYy4q-n5pjsQHX8tcgA</id>
-    <link href="https://mp.weixin.qq.com/s/hy6AYy4q-n5pjsQHX8tcgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>透明部落APT组织的木马分析</title>
-    <updated>2020-10-03T17:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/8TtkU-1dzXQIOHEYRiwEaQ</id>
-    <link href="https://mp.weixin.qq.com/s/8TtkU-1dzXQIOHEYRiwEaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重新思考风险分析与管理（三）</title>
-    <updated>2020-10-03T17:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/E2grbZ_e4coJfu0eoOO3-g</id>
-    <link href="https://mp.weixin.qq.com/s/E2grbZ_e4coJfu0eoOO3-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SharpChromium：一个针对浏览器数据的.NET 4.0 CLR项目</title>
-    <updated>2020-10-03T17:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/La5Qi8VDHYFgDsoY7dl8QQ</id>
-    <link href="https://mp.weixin.qq.com/s/La5Qi8VDHYFgDsoY7dl8QQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

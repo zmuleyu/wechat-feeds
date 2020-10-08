@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-06T23:13:05+08:00</updated>
+  <updated>2020-10-08T20:16:26+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于 Python3.9，看这张 16 岁高中生做的「新特性必知图」就够了</title>
+    <updated>2020-10-08T18:10:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/Nx0sKG8S74-Q78gV5ls4lg</id>
+    <link href="https://mp.weixin.qq.com/s/Nx0sKG8S74-Q78gV5ls4lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python 3.9 发布，3.10 系列开始释出</title>
     <updated>2020-10-06T21:33:57+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-09-20T20:26:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/RuhzaHOXXimQIC31DWMzvw</id>
     <link href="https://mp.weixin.qq.com/s/RuhzaHOXXimQIC31DWMzvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于 Python 3.9，那些你不知道的事</title>
-    <updated>2020-09-20T20:19:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/KjcnT7J9k2Nt3PLgjoxdHA</id>
-    <link href="https://mp.weixin.qq.com/s/KjcnT7J9k2Nt3PLgjoxdHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员脱单记：领证回来的路上，我们约好写下这篇</title>
-    <updated>2020-09-20T20:19:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/vRWLMNk8rQrS4194n1DoJg</id>
-    <link href="https://mp.weixin.qq.com/s/vRWLMNk8rQrS4194n1DoJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

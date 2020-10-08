@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T20:15:26+08:00</updated>
+  <updated>2020-10-08T20:15:49+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET Core vs Node.js：你应该选择哪个？</title>
+    <updated>2020-10-08T15:32:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/CENm3ysUTeWjei6n2D55qg</id>
+    <link href="https://mp.weixin.qq.com/s/CENm3ysUTeWjei6n2D55qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>反 996 有理：催程序员交代码，写不出好软件</title>
     <updated>2020-10-07T15:41:07+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-09-25T15:57:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/T27McYLCri2Yh6PbDQDmnA</id>
     <link href="https://mp.weixin.qq.com/s/T27McYLCri2Yh6PbDQDmnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flutter 完成全平台制霸：实现 Windows 应用支持</title>
-    <updated>2020-09-24T16:13:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/RUWLPpJBoibI9oDAZKccIw</id>
-    <link href="https://mp.weixin.qq.com/s/RUWLPpJBoibI9oDAZKccIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员最害怕的五种语言</title>
-    <updated>2020-09-24T16:13:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/RC_iccluhmjpjer8U4Qoig</id>
-    <link href="https://mp.weixin.qq.com/s/RC_iccluhmjpjer8U4Qoig" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
