@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T13:12:06+08:00</updated>
+  <updated>2020-10-08T23:12:33+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Facebook 新一代 React 状态管理库 Recoil</title>
+    <updated>2020-10-08T20:49:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/CK8jcN4tVrOw_lx5MHSr6Q</id>
+    <link href="https://mp.weixin.qq.com/s/CK8jcN4tVrOw_lx5MHSr6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>搞不懂为啥都要去字节跳动...</title>
     <updated>2020-10-06T21:19:12+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-09-27T22:30:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/3RcC0cMPRNbtPvQwUDyZ2g</id>
     <link href="https://mp.weixin.qq.com/s/3RcC0cMPRNbtPvQwUDyZ2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不用try catch，如何机智的捕获错误</title>
-    <updated>2020-09-27T14:51:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/yOxhzfCwmQZLVaN2kVTAoQ</id>
-    <link href="https://mp.weixin.qq.com/s/yOxhzfCwmQZLVaN2kVTAoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

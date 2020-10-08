@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T23:10:33+08:00</updated>
+  <updated>2020-10-08T23:11:05+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Chrome正在启用HTTP/3，支持IETF QUIC</title>
+    <updated>2020-10-08T22:05:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/GrlNVhhiCHIsvmu2CCPepw</id>
+    <link href="https://mp.weixin.qq.com/s/GrlNVhhiCHIsvmu2CCPepw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flutter 1.22发布，iOS 14与Android 11支持改进</title>
+    <updated>2020-10-08T22:05:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/bf4tHKzyD_Fp3gZMnZcuxA</id>
+    <link href="https://mp.weixin.qq.com/s/bf4tHKzyD_Fp3gZMnZcuxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>恶意npm包收集用户IP等信息并在GitHub传播</title>
     <updated>2020-10-07T21:17:49+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-29T17:48:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/TsVDSLuAKgfAZOQVZd0J8w</id>
     <link href="https://mp.weixin.qq.com/s/TsVDSLuAKgfAZOQVZd0J8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吃掉Linux开发者，WSL支持GUI应用</title>
-    <updated>2020-09-28T16:31:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Lx4R4LA1L_FlnGEFqcz_Sg</id>
-    <link href="https://mp.weixin.qq.com/s/Lx4R4LA1L_FlnGEFqcz_Sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Calibre 5.0：高亮、Python 3、竖排文字</title>
-    <updated>2020-09-28T16:31:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/ErdEduVxbliv1ZWqFryPnQ</id>
-    <link href="https://mp.weixin.qq.com/s/ErdEduVxbliv1ZWqFryPnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T23:11:51+08:00</updated>
+  <updated>2020-10-08T23:12:25+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文搞懂CDN加速原理</title>
+    <updated>2020-10-08T21:18:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/Mz17n4fXMYSAuX5yGFhbGA</id>
+    <link href="https://mp.weixin.qq.com/s/Mz17n4fXMYSAuX5yGFhbGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>马哥亲讲Linux运维发展与学习路线图</title>
+    <updated>2020-10-08T21:18:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/WJ9i0yCoSuV1DmafhG5f6Q</id>
+    <link href="https://mp.weixin.qq.com/s/WJ9i0yCoSuV1DmafhG5f6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
+    <updated>2020-10-08T21:18:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/lL5kiVFlgCWI9-xsMTQwuw</id>
+    <link href="https://mp.weixin.qq.com/s/lL5kiVFlgCWI9-xsMTQwuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>安装Powerline并配置Vim、Bash、tmux、IPython、pdb</title>
     <updated>2020-10-07T16:35:07+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-02T20:36:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/d1t-gN-M2LEEFawuDUqQCQ</id>
     <link href="https://mp.weixin.qq.com/s/d1t-gN-M2LEEFawuDUqQCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-10-02T20:36:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/85qQhN2nAlgR9v7HvXWa1A</id>
-    <link href="https://mp.weixin.qq.com/s/85qQhN2nAlgR9v7HvXWa1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kafka 入门</title>
-    <updated>2020-10-01T21:15:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/wnshsMPAgzl1-j6Mu2Et9Q</id>
-    <link href="https://mp.weixin.qq.com/s/wnshsMPAgzl1-j6Mu2Et9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>nginx高效核心-IO复用模型</title>
-    <updated>2020-10-01T21:15:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/Ka_akp_6GQLxmiojBNTKMQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ka_akp_6GQLxmiojBNTKMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

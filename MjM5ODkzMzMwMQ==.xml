@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-07T23:13:01+08:00</updated>
+  <updated>2020-10-08T23:13:45+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从入门到进阶，全方位提升你的 NLP 实战技能</title>
+    <updated>2020-10-08T21:35:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/gQG3sDZuDEL6K2bB8EPGxw</id>
+    <link href="https://mp.weixin.qq.com/s/gQG3sDZuDEL6K2bB8EPGxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>动手做个DialoGPT：生成式多轮对话模型</title>
+    <updated>2020-10-08T21:35:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/U_S5hKYnGcjYBRG2nr3_Gg</id>
+    <link href="https://mp.weixin.qq.com/s/U_S5hKYnGcjYBRG2nr3_Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LARS: 学习率层次自适应，超大批量32K</title>
+    <updated>2020-10-08T21:35:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/BgOfyhzN_ouwvH7HWnwINA</id>
+    <link href="https://mp.weixin.qq.com/s/BgOfyhzN_ouwvH7HWnwINA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中国方言一览</title>
+    <updated>2020-10-08T21:35:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/zcVp2L16nNAE6Jw1ooIxhQ</id>
+    <link href="https://mp.weixin.qq.com/s/zcVp2L16nNAE6Jw1ooIxhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>NLP集大成之文本分类</title>
     <updated>2020-10-07T22:02:20+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-03T21:15:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-03:/s/hhvDxXAPht30IX3vOoJICg</id>
     <link href="https://mp.weixin.qq.com/s/hhvDxXAPht30IX3vOoJICg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【代码+经验】阿里云tianchi新闻文本分类大赛rank4分享</title>
-    <updated>2020-10-03T21:15:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/0-3wdZ3WpQhNbQlq20F7Tw</id>
-    <link href="https://mp.weixin.qq.com/s/0-3wdZ3WpQhNbQlq20F7Tw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谷歌最新模型pQRNN：效果接近BERT，参数量缩小300倍</title>
-    <updated>2020-10-02T22:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/iTCzA77EeIRnq3znrYyHNg</id>
-    <link href="https://mp.weixin.qq.com/s/iTCzA77EeIRnq3znrYyHNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工业级命名体识别经验+代码总结</title>
-    <updated>2020-10-02T22:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/xd9D24A21vs8fEVtL-ifNQ</id>
-    <link href="https://mp.weixin.qq.com/s/xd9D24A21vs8fEVtL-ifNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>祝大家双节愉快！今年国庆中秋同一天。天文专家表示，中秋节和国庆节同时出现在10月1日这一天，在21世纪仅发生4次，比较罕见。上一次是2001年，另外两次分别是2031年和2077年。</title>
-    <updated>2020-10-01T20:00:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/-KQ-3WrNtFpjrGDz4Gj7BQ</id>
-    <link href="https://mp.weixin.qq.com/s/-KQ-3WrNtFpjrGDz4Gj7BQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
