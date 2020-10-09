@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T20:24:39+08:00</updated>
+  <updated>2020-10-09T20:21:40+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PWIL：不依赖对抗性的新型模拟学习</title>
+    <updated>2020-10-09T16:34:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-09:/s/JMroyQhzO0F4rjijVlfI6g</id>
+    <link href="https://mp.weixin.qq.com/s/JMroyQhzO0F4rjijVlfI6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一连串实用更新：TensorFlow Lite 针对自然语言处理的最新功能</title>
     <updated>2020-09-30T17:14:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-21T14:43:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/J-f7o0FsAFC44cT-OyL7PA</id>
     <link href="https://mp.weixin.qq.com/s/J-f7o0FsAFC44cT-OyL7PA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器人收集 + Keypose 算法：准确估计透明物体的 3D 姿态</title>
-    <updated>2020-09-18T18:35:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/lbVcpfL2ZgdW4PV28kTeIw</id>
-    <link href="https://mp.weixin.qq.com/s/lbVcpfL2ZgdW4PV28kTeIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

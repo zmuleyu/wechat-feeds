@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-08T13:12:21+08:00</updated>
+  <updated>2020-10-09T20:22:40+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
-    <title>【附申请地址】阿里云网盘，开放申请啦！非会员下载 10MB/s！有图有真相！</title>
-    <updated>2020-10-08T10:55:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/MT1Lkcm-B8lwEMF81s-mVw</id>
-    <link href="https://mp.weixin.qq.com/s/MT1Lkcm-B8lwEMF81s-mVw" rel="alternate"></link>
+    <title>面试必问：Spring循环依赖的三种方式</title>
+    <updated>2020-10-08T23:30:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/GVU7oVfMljYZns9GPHQK-w</id>
+    <link href="https://mp.weixin.qq.com/s/GVU7oVfMljYZns9GPHQK-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>即将开课：Kubernetes CKA线上直播班</title>
+    <updated>2020-10-08T23:30:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/vFKtExY5BeAnL99rOnKPDg</id>
+    <link href="https://mp.weixin.qq.com/s/vFKtExY5BeAnL99rOnKPDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中间件业务在网易轻舟容器平台的性能调优实践</title>
+    <updated>2020-10-08T23:30:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/Av2xff_cjs6EHGw1iLhCtw</id>
+    <link href="https://mp.weixin.qq.com/s/Av2xff_cjs6EHGw1iLhCtw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,20 +110,6 @@
     <updated>2020-09-28T22:49:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/36DGkbws_wzhNRY2CrKUyw</id>
     <link href="https://mp.weixin.qq.com/s/36DGkbws_wzhNRY2CrKUyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深圳： Kubernetes CKA实战培训</title>
-    <updated>2020-09-27T22:48:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/U1LMxRorE9InwgIyxh672g</id>
-    <link href="https://mp.weixin.qq.com/s/U1LMxRorE9InwgIyxh672g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes是怎样席卷世界的？</title>
-    <updated>2020-09-27T22:48:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/TRQXrhE6iLsGxOIdoe380g</id>
-    <link href="https://mp.weixin.qq.com/s/TRQXrhE6iLsGxOIdoe380g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
