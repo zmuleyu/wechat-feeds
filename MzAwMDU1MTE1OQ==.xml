@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-29T16:28:46+08:00</updated>
+  <updated>2020-10-09T23:14:46+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL索引前世今生</title>
+    <updated>2020-10-09T20:19:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-09:/s/1ZWOLPV4fCqi2EebU_C9YA</id>
+    <link href="https://mp.weixin.qq.com/s/1ZWOLPV4fCqi2EebU_C9YA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超详细丨完整的推荐系统架构设计</title>
     <updated>2020-09-29T14:58:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-21T18:26:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/CF5_eqOe20PIRbh0J5cPLw</id>
     <link href="https://mp.weixin.qq.com/s/CF5_eqOe20PIRbh0J5cPLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dropbox 开源自研的 protobuf 代码生成框架</title>
-    <updated>2020-09-17T14:00:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/jnrkc_zcDm-d_q_OXiWPsw</id>
-    <link href="https://mp.weixin.qq.com/s/jnrkc_zcDm-d_q_OXiWPsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
