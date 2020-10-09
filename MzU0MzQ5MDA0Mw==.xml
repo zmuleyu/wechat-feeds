@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-08T23:12:30+08:00</updated>
+  <updated>2020-10-09T11:11:52+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何正确、高效地阅读源代码？</title>
+    <updated>2020-10-08T19:40:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/ZKVjOme6ey9ma9bxlOJGfw</id>
+    <link href="https://mp.weixin.qq.com/s/ZKVjOme6ey9ma9bxlOJGfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>延时队列实现的几种姿势</title>
+    <updated>2020-10-08T19:40:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/AElHaWWbbUp1UMHxZZPMtQ</id>
+    <link href="https://mp.weixin.qq.com/s/AElHaWWbbUp1UMHxZZPMtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL死锁产生原因和解决方法</title>
     <updated>2020-10-08T18:21:42+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-09-27T19:14:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/x6J0osoPRLI0CpGWJTxBEw</id>
     <link href="https://mp.weixin.qq.com/s/x6J0osoPRLI0CpGWJTxBEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OLAP系统核心技术点，每一点都值得单独收藏</title>
-    <updated>2020-09-26T00:04:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/viroHSKaTzMjMqUxRhHPiQ</id>
-    <link href="https://mp.weixin.qq.com/s/viroHSKaTzMjMqUxRhHPiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

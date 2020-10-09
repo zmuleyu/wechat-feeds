@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-08T11:08:57+08:00</updated>
+  <updated>2020-10-09T11:10:34+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在Ifood开发一个每秒处理超过3万个请求的微服务</title>
+    <updated>2020-10-09T07:38:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-09:/s/p02u2p7QJyRR_F9Ehc53Tg</id>
+    <link href="https://mp.weixin.qq.com/s/p02u2p7QJyRR_F9Ehc53Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何系统学习领域驱动设计（DDD）？</title>
+    <updated>2020-10-09T07:38:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-09:/s/8UuutqMKkLK_hqsvnG9OKg</id>
+    <link href="https://mp.weixin.qq.com/s/8UuutqMKkLK_hqsvnG9OKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CNCF宣布Rook项目正式毕业</title>
     <updated>2020-10-08T09:45:43+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-30T07:30:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/xzgZ_0PV26Df2abcbTn2Qw</id>
     <link href="https://mp.weixin.qq.com/s/xzgZ_0PV26Df2abcbTn2Qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>警惕分布式常见的这十大坑</title>
-    <updated>2020-09-29T07:21:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/jfyHnhPE1nimNVDawkZ4Ew</id>
-    <link href="https://mp.weixin.qq.com/s/jfyHnhPE1nimNVDawkZ4Ew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DDD实战演练工作坊</title>
-    <updated>2020-09-29T07:21:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/6GqCIjBwQ8DF153wROIbmw</id>
-    <link href="https://mp.weixin.qq.com/s/6GqCIjBwQ8DF153wROIbmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

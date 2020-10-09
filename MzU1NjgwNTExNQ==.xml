@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-08T11:14:14+08:00</updated>
+  <updated>2020-10-09T11:14:06+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python 3.9发布，3.10系列开始释出</title>
+    <updated>2020-10-08T16:09:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/htV3Tjd737N9dI-wMaMnAw</id>
+    <link href="https://mp.weixin.qq.com/s/htV3Tjd737N9dI-wMaMnAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>B 站疯传！堪称最强！网络、算法知识总结电子书下载！</title>
     <updated>2020-10-07T22:52:41+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-09-30T08:36:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/7uSeMQANbnXaUT1Bp4NP-A</id>
     <link href="https://mp.weixin.qq.com/s/7uSeMQANbnXaUT1Bp4NP-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软新版 Microsoft Edge 浏览器将于 2020 年 10 月重磅登陆 Linux</title>
-    <updated>2020-09-28T20:24:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/KHTmhE134vD8gG8hnpiUUQ</id>
-    <link href="https://mp.weixin.qq.com/s/KHTmhE134vD8gG8hnpiUUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
