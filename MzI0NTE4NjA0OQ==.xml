@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-08T11:13:24+08:00</updated>
+  <updated>2020-10-09T16:15:43+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -26,13 +26,6 @@
     <updated>2020-10-05T10:28:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-05:/s/I--OB4AhuHyHUfJWXbXUTQ</id>
     <link href="https://mp.weixin.qq.com/s/I--OB4AhuHyHUfJWXbXUTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生计算引擎挑战与解决方案</title>
-    <updated>2020-10-04T11:20:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/zmSDwqot2WVwz5ukZtIIeg</id>
-    <link href="https://mp.weixin.qq.com/s/zmSDwqot2WVwz5ukZtIIeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,6 +68,13 @@
     <updated>2020-09-28T00:03:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/vCeMMiCILwAEbBPa8JA7HA</id>
     <link href="https://mp.weixin.qq.com/s/vCeMMiCILwAEbBPa8JA7HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>写在 Dubbo go 的第五年</title>
+    <updated>2020-09-27T23:56:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/QVVuPk6Bry48003zRAU_bQ</id>
+    <link href="https://mp.weixin.qq.com/s/QVVuPk6Bry48003zRAU_bQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
