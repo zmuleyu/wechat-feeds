@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:19:12+08:00</updated>
+  <updated>2020-10-10T20:14:01+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>中国首个芯片大学要来了</title>
+    <updated>2020-10-10T18:16:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/8bgJViT0Kpk7aWplPKMihg</id>
+    <link href="https://mp.weixin.qq.com/s/8bgJViT0Kpk7aWplPKMihg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Swift开源了强大通用的算法包</title>
+    <updated>2020-10-10T18:16:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/lxm3OOBd1P_8_pihyiAisw</id>
+    <link href="https://mp.weixin.qq.com/s/lxm3OOBd1P_8_pihyiAisw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>牛！AI大赛机器阅读理解任务冠军方案</title>
     <updated>2020-10-09T18:49:07+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-01T19:22:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-01:/s/-b4IFyR1AQYMxPvZc3X3AA</id>
     <link href="https://mp.weixin.qq.com/s/-b4IFyR1AQYMxPvZc3X3AA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于GraalVM的PHP JIT实现性能优于原生方案</title>
-    <updated>2020-09-30T18:06:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/sY3BILsJXtyrpT8oNur1WA</id>
-    <link href="https://mp.weixin.qq.com/s/sY3BILsJXtyrpT8oNur1WA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>蚂蚁宣布开源KubeTEE：云原生集群化机密计算框架</title>
-    <updated>2020-09-30T18:06:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/3Yua9up4Y5S_sQ_RRG_2gw</id>
-    <link href="https://mp.weixin.qq.com/s/3Yua9up4Y5S_sQ_RRG_2gw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

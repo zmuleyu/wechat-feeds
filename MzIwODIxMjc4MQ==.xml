@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>七夜安全博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-01T16:24:26+08:00</updated>
+  <updated>2020-10-10T20:20:28+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>黑客成长之路，如何入门渗透测试？</title>
+    <updated>2020-10-10T17:06:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/HBPp6-VccA97ltxg3Xb_dQ</id>
+    <link href="https://mp.weixin.qq.com/s/HBPp6-VccA97ltxg3Xb_dQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>信息收集之社工字典</title>
     <updated>2020-09-26T22:06:22+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-06-25T02:23:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-06-25:/s/f5Ra8BtCyEoJmH0gwuvGXg</id>
     <link href="https://mp.weixin.qq.com/s/f5Ra8BtCyEoJmH0gwuvGXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不一样的 &#34;反弹Shell&#34; 系统剖析</title>
-    <updated>2020-06-11T10:08:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-11:/s/VAHriOf4HVUna3FxhKg_OA</id>
-    <link href="https://mp.weixin.qq.com/s/VAHriOf4HVUna3FxhKg_OA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

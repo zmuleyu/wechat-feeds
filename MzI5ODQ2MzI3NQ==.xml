@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:22:40+08:00</updated>
+  <updated>2020-10-10T20:17:45+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫画：一分钟快速了解VPN</title>
+    <updated>2020-10-10T18:28:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/aK_gSGZPnk1Ao37wjjAZug</id>
+    <link href="https://mp.weixin.qq.com/s/aK_gSGZPnk1Ao37wjjAZug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试必问：Spring循环依赖的三种方式</title>
     <updated>2020-10-08T23:30:49+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-09-30T23:59:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/Pfj1GXM8vLxft3SoTkAFTQ</id>
     <link href="https://mp.weixin.qq.com/s/Pfj1GXM8vLxft3SoTkAFTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不确定K8S YAML文件是否符合最佳实践？这6个工具可以帮你！</title>
-    <updated>2020-09-28T22:49:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/36DGkbws_wzhNRY2CrKUyw</id>
-    <link href="https://mp.weixin.qq.com/s/36DGkbws_wzhNRY2CrKUyw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
