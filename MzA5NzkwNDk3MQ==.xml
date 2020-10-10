@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:21:40+08:00</updated>
+  <updated>2020-10-10T16:13:14+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>React官方状态管理库—— Recoil</title>
+    <updated>2020-10-10T15:47:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/EWcTOB08oU96OcQ-41FbPA</id>
+    <link href="https://mp.weixin.qq.com/s/EWcTOB08oU96OcQ-41FbPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
+    <updated>2020-10-10T15:47:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/JDOHetLWVlCFxNN2qCuXFA</id>
+    <link href="https://mp.weixin.qq.com/s/JDOHetLWVlCFxNN2qCuXFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-10-10T15:47:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/RUgZzeq8xf7-whDMZ4Vkhg</id>
+    <link href="https://mp.weixin.qq.com/s/RUgZzeq8xf7-whDMZ4Vkhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇舞周刊第 367 期：Node.js v14.13.0 发布</title>
     <updated>2020-10-09T17:29:54+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-25T18:10:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/Z8M_xE3XFQdPGWw6xsOVPw</id>
     <link href="https://mp.weixin.qq.com/s/Z8M_xE3XFQdPGWw6xsOVPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 365 期：Vue 3.0 正式版本发布</title>
-    <updated>2020-09-25T17:57:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/eYi1TXpHYS2jarZMc4WYZQ</id>
-    <link href="https://mp.weixin.qq.com/s/eYi1TXpHYS2jarZMc4WYZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>或许这就是下一代组件库</title>
-    <updated>2020-09-23T16:43:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/3vDiMStL_8FPN7rfboCW7A</id>
-    <link href="https://mp.weixin.qq.com/s/3vDiMStL_8FPN7rfboCW7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-09-23T16:43:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/5cKTGky0z2GK3V4EQLntlw</id>
-    <link href="https://mp.weixin.qq.com/s/5cKTGky0z2GK3V4EQLntlw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
