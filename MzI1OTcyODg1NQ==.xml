@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T23:12:24+08:00</updated>
+  <updated>2020-10-10T23:10:58+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从 lsof 开始，深入理解 Linux 虚拟文件系统</title>
+    <updated>2020-10-10T21:51:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/3Oq4qsDz11kwahfQXLJI2Q</id>
+    <link href="https://mp.weixin.qq.com/s/3Oq4qsDz11kwahfQXLJI2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>企业web实战-LNMP架构搭建</title>
+    <updated>2020-10-10T21:51:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/1kYof7tzA-XXrw46AKrRrQ</id>
+    <link href="https://mp.weixin.qq.com/s/1kYof7tzA-XXrw46AKrRrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Linux+Python+Go】免费公开课合集</title>
+    <updated>2020-10-10T21:51:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/zCXQLxiWwx-mbPco2fBlAw</id>
+    <link href="https://mp.weixin.qq.com/s/zCXQLxiWwx-mbPco2fBlAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>带你了解真正黑客入侵的常用手段及防护措施</title>
     <updated>2020-10-09T18:08:56+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-04T20:01:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-04:/s/seJ6NVCWBd3FjzxJRC8Bqw</id>
     <link href="https://mp.weixin.qq.com/s/seJ6NVCWBd3FjzxJRC8Bqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-10-04T20:01:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/4jfE-WrFy7pP7V0uf5ze6g</id>
-    <link href="https://mp.weixin.qq.com/s/4jfE-WrFy7pP7V0uf5ze6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 Nginx+lua+Memcache 实现灰度发布</title>
-    <updated>2020-10-03T18:52:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/Cdnp62TtY9Xep1O4WsW58Q</id>
-    <link href="https://mp.weixin.qq.com/s/Cdnp62TtY9Xep1O4WsW58Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【nginx企业级web服务实战】Nginx企业应用配置</title>
-    <updated>2020-10-03T18:52:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/49sUus5V-rADzISXxHEAdg</id>
-    <link href="https://mp.weixin.qq.com/s/49sUus5V-rADzISXxHEAdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
