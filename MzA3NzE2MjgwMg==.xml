@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bypass | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T23:20:34+08:00</updated>
+  <updated>2020-10-10T11:16:20+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Windows下登录凭证窃取技巧</title>
+    <updated>2020-10-10T08:00:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/3QwQCoaa45SECdLo7DZ8xQ</id>
+    <link href="https://mp.weixin.qq.com/s/3QwQCoaa45SECdLo7DZ8xQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux下登录凭证窃取技巧</title>
     <updated>2020-09-28T08:00:37+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-08-21T08:00:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-21:/s/pPdPWALR2F7iKSrsYf423g</id>
     <link href="https://mp.weixin.qq.com/s/pPdPWALR2F7iKSrsYf423g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过命令下载执行恶意代码的几种姿势</title>
-    <updated>2020-08-20T08:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-20:/s/pz6y8299gMUOgtZjZv5puw</id>
-    <link href="https://mp.weixin.qq.com/s/pz6y8299gMUOgtZjZv5puw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
