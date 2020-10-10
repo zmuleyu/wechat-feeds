@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-08T20:16:26+08:00</updated>
+  <updated>2020-10-11T01:11:03+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>骚操作！他居然同时给谷歌和 Facebook 上班干活</title>
+    <updated>2020-10-10T23:30:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/sRI0Q4BWoVDH8h03UYhljg</id>
+    <link href="https://mp.weixin.qq.com/s/sRI0Q4BWoVDH8h03UYhljg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于 Python3.9，看这张 16 岁高中生做的「新特性必知图」就够了</title>
     <updated>2020-10-08T18:10:27+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-09-22T21:20:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/56tPv9rMBDROoI0ufHzytg</id>
     <link href="https://mp.weixin.qq.com/s/56tPv9rMBDROoI0ufHzytg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>技能必备！get 这些数据“套路”，涨薪 2W+</title>
-    <updated>2020-09-20T20:26:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/hmYTG-XCoAAk4tbVcXJfow</id>
-    <link href="https://mp.weixin.qq.com/s/hmYTG-XCoAAk4tbVcXJfow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解 Python 的二元算术运算，为什么说减法只是语法糖？</title>
-    <updated>2020-09-20T20:26:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/RuhzaHOXXimQIC31DWMzvw</id>
-    <link href="https://mp.weixin.qq.com/s/RuhzaHOXXimQIC31DWMzvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

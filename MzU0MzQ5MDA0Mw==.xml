@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T11:11:52+08:00</updated>
+  <updated>2020-10-11T01:09:53+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>非常有必要了解的Springboot启动扩展点</title>
+    <updated>2020-10-10T19:56:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-10:/s/H9hcQHZUNhuRodEPiVOHfQ</id>
+    <link href="https://mp.weixin.qq.com/s/H9hcQHZUNhuRodEPiVOHfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何正确、高效地阅读源代码？</title>
     <updated>2020-10-08T19:40:05+08:00</updated>
@@ -26,13 +33,6 @@
     <updated>2020-10-08T18:21:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/F3IPSiKzabuDd8S5UKI-WQ</id>
     <link href="https://mp.weixin.qq.com/s/F3IPSiKzabuDd8S5UKI-WQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>互联网的架构“高并发”，该怎么玩？</title>
-    <updated>2020-10-06T20:43:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-06:/s/EsAuqRKCVAhVXGvDKYpkDw</id>
-    <link href="https://mp.weixin.qq.com/s/EsAuqRKCVAhVXGvDKYpkDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2020-09-28T00:08:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/q8p31W1G4XFHNnFoiNuLRQ</id>
     <link href="https://mp.weixin.qq.com/s/q8p31W1G4XFHNnFoiNuLRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拒绝接口裸奔！开放API接口签名验证！</title>
-    <updated>2020-09-27T19:14:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/x6J0osoPRLI0CpGWJTxBEw</id>
-    <link href="https://mp.weixin.qq.com/s/x6J0osoPRLI0CpGWJTxBEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
