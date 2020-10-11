@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>矽说 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:25+08:00</updated>
+  <updated>2020-10-11T13:11:42+08:00</updated>
   <subtitle>半导体行业深度解读</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AMD收购Xilinx背后的分析</title>
+    <updated>2020-10-11T11:57:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/LFjsuStGth_4VWOPreWJBQ</id>
+    <link href="https://mp.weixin.qq.com/s/LFjsuStGth_4VWOPreWJBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“多即是多”：靠数量取胜能否成为处理器设计新范式</title>
     <updated>2020-08-24T01:36:05+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-02-21T13:23:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-02-21:/s/rRi439-_rHHT5Bk4s2BMNg</id>
     <link href="https://mp.weixin.qq.com/s/rRi439-_rHHT5Bk4s2BMNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1963—1978：芯片设计源起</title>
-    <updated>2020-01-29T09:21:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-01-29:/s/WVwqrAMyduwPjsacMmxdmQ</id>
-    <link href="https://mp.weixin.qq.com/s/WVwqrAMyduwPjsacMmxdmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>特殊时期，宅家如何杀时间？</title>
-    <updated>2020-01-29T09:21:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-01-29:/s/rjMIMeTHB8kJ50d5EBdTyQ</id>
-    <link href="https://mp.weixin.qq.com/s/rjMIMeTHB8kJ50d5EBdTyQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
