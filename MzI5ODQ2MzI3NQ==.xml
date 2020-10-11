@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-10T20:17:45+08:00</updated>
+  <updated>2020-10-11T20:15:47+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes网络技术课程，一次搞懂网络！</title>
+    <updated>2020-10-11T17:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/lNxTW_MpCzj6RWADrpQEMg</id>
+    <link href="https://mp.weixin.qq.com/s/lNxTW_MpCzj6RWADrpQEMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：一分钟快速了解VPN</title>
     <updated>2020-10-10T18:28:10+08:00</updated>
@@ -64,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>每秒10万次高并发订单业务，你怎么实现？</title>
-    <updated>2020-10-05T15:06:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/ztiNZaEl7MEoPzP_g9iK1g</id>
-    <link href="https://mp.weixin.qq.com/s/ztiNZaEl7MEoPzP_g9iK1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>阿里大牛MySQL 学习笔记，今天开放下载！</title>
     <updated>2020-10-05T15:06:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-05:/s/UFNzOcwTSTlS4ZJqZHssEw</id>
@@ -103,13 +103,6 @@
     <updated>2020-10-02T16:56:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/Gq9cH-K5WlDj3U9E35N4TQ</id>
     <link href="https://mp.weixin.qq.com/s/Gq9cH-K5WlDj3U9E35N4TQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图解 kubernetes 容器实现容器健康检查？</title>
-    <updated>2020-09-30T23:59:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/Pfj1GXM8vLxft3SoTkAFTQ</id>
-    <link href="https://mp.weixin.qq.com/s/Pfj1GXM8vLxft3SoTkAFTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
