@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:22:30+08:00</updated>
+  <updated>2020-10-11T16:14:23+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据；微软允许员工永久在家办公</title>
+    <updated>2020-10-11T15:49:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/4yVuvP2NyObe6pSwyS4c7w</id>
+    <link href="https://mp.weixin.qq.com/s/4yVuvP2NyObe6pSwyS4c7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试造核弹：细数那些有毒的开发岗位描述</title>
     <updated>2020-10-09T15:27:08+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-09-28T16:06:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/kILqATU7wjKRB0j-YBRKsA</id>
     <link href="https://mp.weixin.qq.com/s/kILqATU7wjKRB0j-YBRKsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端周报：Flutter实现Windows支持；Windows XP源代码泄露，微软：正在调查；苹果开源Swift System</title>
-    <updated>2020-09-27T15:24:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/LWE55a-ApPairt9qbPASEg</id>
-    <link href="https://mp.weixin.qq.com/s/LWE55a-ApPairt9qbPASEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
