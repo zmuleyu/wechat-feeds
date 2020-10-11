@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-10T20:14:01+08:00</updated>
+  <updated>2020-10-11T23:14:12+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谷歌最终还是把Knative交了出来</title>
+    <updated>2020-10-11T20:32:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/E5bDwC80tH09HuQ4FQB1AQ</id>
+    <link href="https://mp.weixin.qq.com/s/E5bDwC80tH09HuQ4FQB1AQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>VS Code 1.50发布</title>
+    <updated>2020-10-11T20:32:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/3Q5qPMP1V5rsNW5exxqNww</id>
+    <link href="https://mp.weixin.qq.com/s/3Q5qPMP1V5rsNW5exxqNww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中国首个芯片大学要来了</title>
     <updated>2020-10-10T18:16:04+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-02T22:26:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/fRc2MINes1AorbXoMtz68w</id>
     <link href="https://mp.weixin.qq.com/s/fRc2MINes1AorbXoMtz68w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前有WSL，现在又有DSL</title>
-    <updated>2020-10-01T19:22:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/obqRoVSkSTpJvvVOmWArhA</id>
-    <link href="https://mp.weixin.qq.com/s/obqRoVSkSTpJvvVOmWArhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>研究显示，npm并没有那么危险</title>
-    <updated>2020-10-01T19:22:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/-b4IFyR1AQYMxPvZc3X3AA</id>
-    <link href="https://mp.weixin.qq.com/s/-b4IFyR1AQYMxPvZc3X3AA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-10T23:15:45+08:00</updated>
+  <updated>2020-10-11T23:10:15+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端装饰器模式快闪</title>
+    <updated>2020-10-11T21:34:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/0aXxEYhDx0fI5-1BAo4ZLw</id>
+    <link href="https://mp.weixin.qq.com/s/0aXxEYhDx0fI5-1BAo4ZLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谁说前端不用懂，手摸手 Docker 从入门到实践</title>
     <updated>2020-10-10T19:15:57+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-10-02T12:51:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/5bzzHeEP68SeC9FX6a-VlA</id>
     <link href="https://mp.weixin.qq.com/s/5bzzHeEP68SeC9FX6a-VlA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团 2021 届校园招聘前端岗位热招</title>
-    <updated>2020-09-29T23:49:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/T0SeLdg_S2JhMqKdfGJJQw</id>
-    <link href="https://mp.weixin.qq.com/s/T0SeLdg_S2JhMqKdfGJJQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何让你的 Express 飞起来？</title>
-    <updated>2020-09-29T23:49:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/2KpMQxfv6WNoroqvu009rg</id>
-    <link href="https://mp.weixin.qq.com/s/2KpMQxfv6WNoroqvu009rg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

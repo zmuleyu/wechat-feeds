@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T01:11:03+08:00</updated>
+  <updated>2020-10-11T23:11:41+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分析数万条旅游评论数据后，告诉你国庆“坑爹”景点背后的秘密...</title>
+    <updated>2020-10-11T20:33:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/pbvNUQG4-P4gsQDruttw8w</id>
+    <link href="https://mp.weixin.qq.com/s/pbvNUQG4-P4gsQDruttw8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>骚操作！他居然同时给谷歌和 Facebook 上班干活</title>
     <updated>2020-10-10T23:30:46+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-09-23T00:12:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/5paU17PT6gOM_D6BbrtzqA</id>
     <link href="https://mp.weixin.qq.com/s/5paU17PT6gOM_D6BbrtzqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 之父为什么嫌弃 lambda 匿名函数？</title>
-    <updated>2020-09-22T21:20:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/56tPv9rMBDROoI0ufHzytg</id>
-    <link href="https://mp.weixin.qq.com/s/56tPv9rMBDROoI0ufHzytg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

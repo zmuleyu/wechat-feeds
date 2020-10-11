@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-10T23:10:58+08:00</updated>
+  <updated>2020-10-11T23:11:05+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux系统安装Python3环境</title>
+    <updated>2020-10-11T21:47:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/5mV3mho4WoXaT1DHQmXWLQ</id>
+    <link href="https://mp.weixin.qq.com/s/5mV3mho4WoXaT1DHQmXWLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>企业web实战之OpenResty</title>
+    <updated>2020-10-11T21:47:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/L3n67ZJjdcnsrVNfWNY1Gw</id>
+    <link href="https://mp.weixin.qq.com/s/L3n67ZJjdcnsrVNfWNY1Gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Linux+Python+Go】免费公开课合集</title>
+    <updated>2020-10-11T21:47:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/tVRocgiU-dwx5qVdexfiMg</id>
+    <link href="https://mp.weixin.qq.com/s/tVRocgiU-dwx5qVdexfiMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从 lsof 开始，深入理解 Linux 虚拟文件系统</title>
     <updated>2020-10-10T21:51:55+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-05T22:05:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-05:/s/Bu-YH3cEusCcvQfqMHc0AA</id>
     <link href="https://mp.weixin.qq.com/s/Bu-YH3cEusCcvQfqMHc0AA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有偿招募 | 热爱分享也是一种人生态度！</title>
-    <updated>2020-10-05T22:05:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/ddAr44M0BMJnrlizOhPIgg</id>
-    <link href="https://mp.weixin.qq.com/s/ddAr44M0BMJnrlizOhPIgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5个酷毙的Python工具</title>
-    <updated>2020-10-04T20:01:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/2P0PiBvwOkZ6LHI5Uw4cCQ</id>
-    <link href="https://mp.weixin.qq.com/s/2P0PiBvwOkZ6LHI5Uw4cCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nginx企业级应用配置高级用法</title>
-    <updated>2020-10-04T20:01:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/seJ6NVCWBd3FjzxJRC8Bqw</id>
-    <link href="https://mp.weixin.qq.com/s/seJ6NVCWBd3FjzxJRC8Bqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
