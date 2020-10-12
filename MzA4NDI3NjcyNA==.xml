@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新华社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-13T01:14:37+08:00</updated>
+  <updated>2020-10-13T07:14:08+08:00</updated>
   <subtitle>新华通讯社官方账号。新华社是中国国家通讯社，现场新闻、原创新闻报道的大本营。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>早知天下事</title>
+    <updated>2020-10-12T23:44:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/J8UEuckAZyIc4YHntf2zXA</id>
+    <link href="https://mp.weixin.qq.com/s/J8UEuckAZyIc4YHntf2zXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>夜读 | 相遇不易，相守更难</title>
     <updated>2020-10-12T22:50:42+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-12T09:22:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/6A0QYfvYjsQLavHxL1D-Sw</id>
     <link href="https://mp.weixin.qq.com/s/6A0QYfvYjsQLavHxL1D-Sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最新！新增确诊病例21例</title>
-    <updated>2020-10-12T08:46:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/eMEdj9YqCkWhtj_W8XTKPA</id>
-    <link href="https://mp.weixin.qq.com/s/eMEdj9YqCkWhtj_W8XTKPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>青岛新增新冠肺炎确诊病例6例</title>
-    <updated>2020-10-12T08:46:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/-wNgXj2cmY_zdQZCxhvCSA</id>
-    <link href="https://mp.weixin.qq.com/s/-wNgXj2cmY_zdQZCxhvCSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
