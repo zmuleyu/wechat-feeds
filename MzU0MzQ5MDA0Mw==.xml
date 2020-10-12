@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T11:10:58+08:00</updated>
+  <updated>2020-10-12T23:11:04+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>主流NoSQL及应用场景详解</title>
+    <updated>2020-10-11T20:32:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/9WI8Hr-gjDjUJZDf-nHnaw</id>
+    <link href="https://mp.weixin.qq.com/s/9WI8Hr-gjDjUJZDf-nHnaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如果没有了Spring…</title>
     <updated>2020-10-10T21:44:23+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-10-01T00:16:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-01:/s/9RO3kQMUVKfHINS_YeNtwg</id>
     <link href="https://mp.weixin.qq.com/s/9RO3kQMUVKfHINS_YeNtwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>京东数科技术人员主导，Hmily分布式事务发布全新架构的2.1.1</title>
-    <updated>2020-09-28T23:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/CT-dPtC6ytoXQsITT2w85g</id>
-    <link href="https://mp.weixin.qq.com/s/CT-dPtC6ytoXQsITT2w85g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

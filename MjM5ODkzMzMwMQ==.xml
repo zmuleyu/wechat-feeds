@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T23:12:38+08:00</updated>
+  <updated>2020-10-12T23:12:36+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>想快速发表自然语言处理论文？推荐一个出论文的好方向！</title>
+    <updated>2020-10-12T18:23:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/Qh7nGfkq0FcnL_kvIjBm_w</id>
+    <link href="https://mp.weixin.qq.com/s/Qh7nGfkq0FcnL_kvIjBm_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer/CNN/RNN的对比（时间复杂度，序列操作数，最大路径长度）</title>
+    <updated>2020-10-12T18:23:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/FEUySC7_zVWmpThMm-Y_eQ</id>
+    <link href="https://mp.weixin.qq.com/s/FEUySC7_zVWmpThMm-Y_eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ICLR2021有什么值得关注的GNN论文？</title>
+    <updated>2020-10-12T18:23:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/dQDZeY8KyrLEy2oZatzSzw</id>
+    <link href="https://mp.weixin.qq.com/s/dQDZeY8KyrLEy2oZatzSzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LAMB: 76分钟训练Bert</title>
+    <updated>2020-10-12T18:23:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/MYkweJ_JXs50TwaT6Xl15Q</id>
+    <link href="https://mp.weixin.qq.com/s/MYkweJ_JXs50TwaT6Xl15Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>通过代码学Sutton强化学习第四章动态规划</title>
+    <updated>2020-10-12T18:23:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/ITsMVK8NldWOP9pVtibY2g</id>
+    <link href="https://mp.weixin.qq.com/s/ITsMVK8NldWOP9pVtibY2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社招：苹果、蔚来、小米、蚂蚁、滴滴、百度、易居、生命奇点</title>
     <updated>2020-10-11T22:14:12+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-08T21:35:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/gQG3sDZuDEL6K2bB8EPGxw</id>
     <link href="https://mp.weixin.qq.com/s/gQG3sDZuDEL6K2bB8EPGxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>动手做个DialoGPT：生成式多轮对话模型</title>
-    <updated>2020-10-08T21:35:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/U_S5hKYnGcjYBRG2nr3_Gg</id>
-    <link href="https://mp.weixin.qq.com/s/U_S5hKYnGcjYBRG2nr3_Gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LARS: 学习率层次自适应，超大批量32K</title>
-    <updated>2020-10-08T21:35:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/BgOfyhzN_ouwvH7HWnwINA</id>
-    <link href="https://mp.weixin.qq.com/s/BgOfyhzN_ouwvH7HWnwINA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国方言一览</title>
-    <updated>2020-10-08T21:35:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/zcVp2L16nNAE6Jw1ooIxhQ</id>
-    <link href="https://mp.weixin.qq.com/s/zcVp2L16nNAE6Jw1ooIxhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NLP集大成之文本分类</title>
-    <updated>2020-10-07T22:02:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/2Ylw8WVjsZ5WXw2H3_cFMg</id>
-    <link href="https://mp.weixin.qq.com/s/2Ylw8WVjsZ5WXw2H3_cFMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【深度度量学习系列】​Triplet-loss原理与应用</title>
-    <updated>2020-10-07T22:02:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/y6B9T1CIyZ9SuUu10kbO0g</id>
-    <link href="https://mp.weixin.qq.com/s/y6B9T1CIyZ9SuUu10kbO0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
