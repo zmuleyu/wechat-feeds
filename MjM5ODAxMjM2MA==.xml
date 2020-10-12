@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>京东 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-10T20:18:45+08:00</updated>
+  <updated>2020-10-12T20:16:18+08:00</updated>
   <subtitle>我们将第一时间为你带来京东最新的优惠信息、服务升级和新闻动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>唉，好想成为一只狗啊</title>
+    <updated>2020-10-12T18:40:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/KlalzSqFuVzQrJzUtYFMEw</id>
+    <link href="https://mp.weixin.qq.com/s/KlalzSqFuVzQrJzUtYFMEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最近，本号留言区总有一些奇怪的留言……</title>
     <updated>2020-10-10T18:35:15+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-09-30T16:59:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/lzd1VCsc3B8eAc8_jHDjNg</id>
     <link href="https://mp.weixin.qq.com/s/lzd1VCsc3B8eAc8_jHDjNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>其实你不懂我的心</title>
-    <updated>2020-09-29T18:04:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/AEeKIiGchwC9f8jQqeqpWA</id>
-    <link href="https://mp.weixin.qq.com/s/AEeKIiGchwC9f8jQqeqpWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>代表全国400多万从业者，他们获得全国“最美快递员”</title>
-    <updated>2020-09-29T18:04:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/VPNCn1s0m9voq0xKQaOi-Q</id>
-    <link href="https://mp.weixin.qq.com/s/VPNCn1s0m9voq0xKQaOi-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

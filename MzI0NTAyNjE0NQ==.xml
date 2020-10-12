@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>justjavac | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-28T11:22:42+08:00</updated>
+  <updated>2020-10-12T20:24:23+08:00</updated>
   <subtitle>专注时下最新的Web技术，分享原创及翻译文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最受大厂宠爱的 React，厉害在哪？</title>
+    <updated>2020-10-12T15:03:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/ZE9JvmRvxQ8SYt1Q_DGiBw</id>
+    <link href="https://mp.weixin.qq.com/s/ZE9JvmRvxQ8SYt1Q_DGiBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>winter 自述：打造 Toy React 背后的故事</title>
     <updated>2020-09-27T21:37:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-16T13:27:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-16:/s/nXGW-rdDE5DhMblsAWGw4Q</id>
     <link href="https://mp.weixin.qq.com/s/nXGW-rdDE5DhMblsAWGw4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>动态 | Deno v1.3.0 版本发布</title>
-    <updated>2020-08-14T16:01:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-14:/s/8acFJTUjFmyhTRlq1Kmfzw</id>
-    <link href="https://mp.weixin.qq.com/s/8acFJTUjFmyhTRlq1Kmfzw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

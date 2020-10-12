@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T20:15:47+08:00</updated>
+  <updated>2020-10-12T20:14:41+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Jenkins vs GitLab CI：CI/CD工具之战</title>
+    <updated>2020-10-12T20:09:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/7fQXM2vvO-ufBGDqzQWmzg</id>
+    <link href="https://mp.weixin.qq.com/s/7fQXM2vvO-ufBGDqzQWmzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes网络技术课程，一次搞懂网络！</title>
     <updated>2020-10-11T17:33:03+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-10-03T12:52:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-03:/s/kcYMdIogRU3rD9d5qtiy2Q</id>
     <link href="https://mp.weixin.qq.com/s/kcYMdIogRU3rD9d5qtiy2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器编排的优势与特点</title>
-    <updated>2020-10-02T16:56:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/p_ilGel0YP0VSp9A0FNOGA</id>
-    <link href="https://mp.weixin.qq.com/s/p_ilGel0YP0VSp9A0FNOGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 线上直播班，节后开课！</title>
-    <updated>2020-10-02T16:56:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/Gq9cH-K5WlDj3U9E35N4TQ</id>
-    <link href="https://mp.weixin.qq.com/s/Gq9cH-K5WlDj3U9E35N4TQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

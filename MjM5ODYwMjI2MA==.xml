@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:23:33+08:00</updated>
+  <updated>2020-10-12T20:16:58+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「递归」第9集 | 我在腾讯做研究</title>
+    <updated>2020-10-12T17:55:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/yTsUn3DYQ2q79yZCht7Rdg</id>
+    <link href="https://mp.weixin.qq.com/s/yTsUn3DYQ2q79yZCht7Rdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大型前端项目的断点调试共享化和复用化实践</title>
     <updated>2020-10-09T16:12:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-16T15:29:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/wkCHL_QzAJwWEg9JZaZnCQ</id>
     <link href="https://mp.weixin.qq.com/s/wkCHL_QzAJwWEg9JZaZnCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈如何搭建知识体系</title>
-    <updated>2020-09-14T19:06:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/E0u7LmT__x4R9mWNxfDDjA</id>
-    <link href="https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
