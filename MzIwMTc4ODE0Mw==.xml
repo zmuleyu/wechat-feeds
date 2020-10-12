@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T23:11:49+08:00</updated>
+  <updated>2020-10-12T16:13:58+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>BERT模型蒸馏有哪些方法？</title>
+    <updated>2020-10-12T13:42:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/Fe7xhruNDAl8N7SInXZK7Q</id>
+    <link href="https://mp.weixin.qq.com/s/Fe7xhruNDAl8N7SInXZK7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>别再用假任务做小样本学习实验了！来试试这个全新基准数据集</title>
+    <updated>2020-10-12T13:42:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/dSw-Bhg_FfrGziIsRzWGtQ</id>
+    <link href="https://mp.weixin.qq.com/s/dSw-Bhg_FfrGziIsRzWGtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>殊途同归的策略梯度与零阶优化</title>
     <updated>2020-10-11T20:43:57+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-10-02T19:56:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/p3KSjHYfuQy-Oan0Vz7kDQ</id>
     <link href="https://mp.weixin.qq.com/s/p3KSjHYfuQy-Oan0Vz7kDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>正则表达式与神经网络的深度融合</title>
-    <updated>2020-10-01T20:36:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/NCxKJELBGHvuIvi5j_xMKA</id>
-    <link href="https://mp.weixin.qq.com/s/NCxKJELBGHvuIvi5j_xMKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

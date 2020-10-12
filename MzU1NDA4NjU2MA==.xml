@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T16:11:58+08:00</updated>
+  <updated>2020-10-12T16:12:34+08:00</updated>
   <subtitle>面向AI爱好者、开发者和科学家，提供AI领域技术资讯、一线业界实践案例、搜罗整理业界技术分享干货、AI论文解读。每周一节技术分享公开课，助力你全面拥抱人工智能技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面向对象编程已死？</title>
+    <updated>2020-10-12T12:08:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/bwHOtHV-msmxnd3R3iMOkQ</id>
+    <link href="https://mp.weixin.qq.com/s/bwHOtHV-msmxnd3R3iMOkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何解决机器学习算法执行表现不佳的问题</title>
+    <updated>2020-10-12T12:08:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/FhZp4fQNb5iMJDAlQ2sY9w</id>
+    <link href="https://mp.weixin.qq.com/s/FhZp4fQNb5iMJDAlQ2sY9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对话式AI新方法：对话即数据流</title>
+    <updated>2020-10-12T12:08:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/PJ9JQyfRDnolS4qeI8ut5g</id>
+    <link href="https://mp.weixin.qq.com/s/PJ9JQyfRDnolS4qeI8ut5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>美团职级调整：不升职也能加薪；巴基斯坦禁用TikTok；台积电拒绝回应恢复向华为供货的市场传闻 | AI一周资讯</title>
     <updated>2020-10-11T09:22:52+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-04T09:16:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-04:/s/Moh4QgjmA1xc20IVLOMI_Q</id>
     <link href="https://mp.weixin.qq.com/s/Moh4QgjmA1xc20IVLOMI_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 fastai v2 在 15 行代码下构建深度学习图像分类器</title>
-    <updated>2020-10-04T09:16:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/81y6dYp0hLzQHWJhFrjBfA</id>
-    <link href="https://mp.weixin.qq.com/s/81y6dYp0hLzQHWJhFrjBfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>十年后将要凋零的五种编程语言</title>
-    <updated>2020-10-03T07:41:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/RHh3e2vjthC_aYdKYZkD_Q</id>
-    <link href="https://mp.weixin.qq.com/s/RHh3e2vjthC_aYdKYZkD_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么卷积神经网络优于传统机器学习算法?</title>
-    <updated>2020-10-03T07:41:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/w1mK-rN0eodgNx73SF2t_Q</id>
-    <link href="https://mp.weixin.qq.com/s/w1mK-rN0eodgNx73SF2t_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

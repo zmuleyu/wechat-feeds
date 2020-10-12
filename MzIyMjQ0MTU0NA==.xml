@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T20:19:17+08:00</updated>
+  <updated>2020-10-12T16:16:22+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>能读React源码的人，很吃香！</title>
+    <updated>2020-10-12T02:50:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/cxHD3pgiD__IeDvYzKzoEA</id>
+    <link href="https://mp.weixin.qq.com/s/cxHD3pgiD__IeDvYzKzoEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>又来？新增一门新的编程语言，真的学不动了</title>
+    <updated>2020-10-12T02:50:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/vyO9ILjdagp87uxOss1GJg</id>
+    <link href="https://mp.weixin.qq.com/s/vyO9ILjdagp87uxOss1GJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么我不建议你去外包？</title>
+    <updated>2020-10-12T02:50:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/zxC2A4HK9ThQcNPe4Qm2QQ</id>
+    <link href="https://mp.weixin.qq.com/s/zxC2A4HK9ThQcNPe4Qm2QQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>双十一假如有人把支付宝存储服务器炸了...</title>
+    <updated>2020-10-12T02:50:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/xWcQLI9mncMFxQe6FxpjHQ</id>
+    <link href="https://mp.weixin.qq.com/s/xWcQLI9mncMFxQe6FxpjHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 HTTPS 是安全的？</title>
+    <updated>2020-10-12T02:50:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/t6xhLf_1D_5RP_uN-8Jxtw</id>
+    <link href="https://mp.weixin.qq.com/s/t6xhLf_1D_5RP_uN-8Jxtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>尼玛！GitHub 上开源了一个很邪恶的项目！女生勿近，18香警告...</title>
     <updated>2020-10-11T18:10:18+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-08T17:33:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/gDlTCrarch1Qb1w9wZM8QA</id>
     <link href="https://mp.weixin.qq.com/s/gDlTCrarch1Qb1w9wZM8QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么我不建议你用 if-else ？</title>
-    <updated>2020-10-08T17:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/FBacpkwVq-nd1Es6UIPy4Q</id>
-    <link href="https://mp.weixin.qq.com/s/FBacpkwVq-nd1Es6UIPy4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>闲鱼靠什么支撑起万亿的交易规模？</title>
-    <updated>2020-10-08T17:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/8ORWEdx1HduDCfVXfvtTHw</id>
-    <link href="https://mp.weixin.qq.com/s/8ORWEdx1HduDCfVXfvtTHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：为什么 Java 的 main 方法必须是 public static void？</title>
-    <updated>2020-10-08T17:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/xg5EdHdiQrBSTFO9HxBzxw</id>
-    <link href="https://mp.weixin.qq.com/s/xg5EdHdiQrBSTFO9HxBzxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯新闻发布羞羞的报告：2020年轻人性爱数据报告！</title>
-    <updated>2020-10-07T16:24:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/0vPxKjfUnAqZpHkEGXICKQ</id>
-    <link href="https://mp.weixin.qq.com/s/0vPxKjfUnAqZpHkEGXICKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为鸿蒙操作系统入门到精通，官方教程来了！</title>
-    <updated>2020-10-07T16:24:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/Yu4NGkfSSJQzNaYGat-OTg</id>
-    <link href="https://mp.weixin.qq.com/s/Yu4NGkfSSJQzNaYGat-OTg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
