@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T11:11:38+08:00</updated>
+  <updated>2020-10-12T11:12:14+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云上的可观察性数据中台，如何构建？</title>
+    <updated>2020-10-11T18:58:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/FtlXYStlUVdyIZBuGTKjaQ</id>
+    <link href="https://mp.weixin.qq.com/s/FtlXYStlUVdyIZBuGTKjaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里云研究员叔同：Serverless 正当时！</title>
     <updated>2020-10-08T21:32:06+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-09-20T23:42:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/hW4uTFF-TzBOAzfoupXINg</id>
     <link href="https://mp.weixin.qq.com/s/hW4uTFF-TzBOAzfoupXINg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里巴巴集团CTO鲁肃：  数字时代，技术的想象力不应设限</title>
-    <updated>2020-09-18T12:08:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/he18XiGlcKkjfiL06RzcKQ</id>
-    <link href="https://mp.weixin.qq.com/s/he18XiGlcKkjfiL06RzcKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>喝酒撸串聊技术！来看云栖大会15位大咖真人秀</title>
-    <updated>2020-09-18T12:08:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/-hyBqTfa1QFxULAQgT6D5g</id>
-    <link href="https://mp.weixin.qq.com/s/-hyBqTfa1QFxULAQgT6D5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

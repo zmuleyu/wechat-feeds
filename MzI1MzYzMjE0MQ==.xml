@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-30T11:21:37+08:00</updated>
+  <updated>2020-10-12T11:13:43+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动全链路压测(Rhino)的实践</title>
+    <updated>2020-10-12T09:58:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/vofrpFGvnptj3MNAv1hQ-w</id>
+    <link href="https://mp.weixin.qq.com/s/vofrpFGvnptj3MNAv1hQ-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「字节跳动直播研发团队」是如何每天护航百万直播间的？</title>
     <updated>2020-09-30T10:22:35+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-08-11T12:00:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-11:/s/tN--5AH4wRFBY1Z1mBdnjA</id>
     <link href="https://mp.weixin.qq.com/s/tN--5AH4wRFBY1Z1mBdnjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动自研线上引流回放系统的架构演进</title>
-    <updated>2020-08-06T10:12:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-06:/s/3rxdiVDYqwllPRbF6gQ50Q</id>
-    <link href="https://mp.weixin.qq.com/s/3rxdiVDYqwllPRbF6gQ50Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

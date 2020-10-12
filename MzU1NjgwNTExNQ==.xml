@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-11T13:12:56+08:00</updated>
+  <updated>2020-10-12T11:14:39+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VS Code 1.50 发布！官方支持ARM架构，终于可以在树莓派和Chromebook上用啦！</title>
+    <updated>2020-10-11T22:14:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-11:/s/wn-GY5jAMlNIvkzmniA5YA</id>
+    <link href="https://mp.weixin.qq.com/s/wn-GY5jAMlNIvkzmniA5YA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【附申请地址】阿里云网盘，内测资格，开放申请了！非会员下载 10MB/s！有图有真相！</title>
     <updated>2020-10-10T14:13:37+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-10-02T18:04:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/Chsb1t2rWOdXvkIM4VLRfw</id>
     <link href="https://mp.weixin.qq.com/s/Chsb1t2rWOdXvkIM4VLRfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>做到阿里P7、考上985/211、精通Redis，哪个更难？</title>
-    <updated>2020-10-02T11:36:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/dA2FoWSWHy7PwwKyPx2xNw</id>
-    <link href="https://mp.weixin.qq.com/s/dA2FoWSWHy7PwwKyPx2xNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TypeScript 之父：”开源是赢得 JavaScript 开发人员的唯一途径“</title>
-    <updated>2020-10-02T11:36:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/WZJxGLQYDFJqI3pDRNbWlg</id>
-    <link href="https://mp.weixin.qq.com/s/WZJxGLQYDFJqI3pDRNbWlg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
