@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T20:14:38+08:00</updated>
+  <updated>2020-10-14T01:16:16+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最全的 pip 使用指南，50% 你可能没用过</title>
+    <updated>2020-10-13T23:31:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/YDpO_ShK2VjlBgato8HBmg</id>
+    <link href="https://mp.weixin.qq.com/s/YDpO_ShK2VjlBgato8HBmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刷爆全网的动态条形图，原来 5 行 Python 代码就能实现！</title>
     <updated>2020-10-12T19:38:29+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-09-29T22:08:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/b1rjia1LiyXq65xO1Um2-w</id>
     <link href="https://mp.weixin.qq.com/s/b1rjia1LiyXq65xO1Um2-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为提出十大数学挑战！解出一个就是年薪百万！</title>
-    <updated>2020-09-25T10:35:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/-xvcd_trihbBkHXe90l1xw</id>
-    <link href="https://mp.weixin.qq.com/s/-xvcd_trihbBkHXe90l1xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面向对象：一屋，二人，三餐，四季～ 简单质朴即可</title>
-    <updated>2020-09-25T10:35:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/Ej9MXE8TolkG3pefi5lGkQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ej9MXE8TolkG3pefi5lGkQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
