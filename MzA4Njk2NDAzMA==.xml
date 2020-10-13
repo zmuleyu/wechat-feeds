@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T23:17:41+08:00</updated>
+  <updated>2020-10-13T23:15:24+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>建设微服务 API 网关的一些实践</title>
+    <updated>2020-10-13T20:00:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/NRkpYIbHyGSOkgo9wYhdOw</id>
+    <link href="https://mp.weixin.qq.com/s/NRkpYIbHyGSOkgo9wYhdOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 一个轻量级业务中台开发框架</title>
+    <updated>2020-10-13T20:00:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/NiSE4_c40TQF8OQHF9Bj-A</id>
+    <link href="https://mp.weixin.qq.com/s/NiSE4_c40TQF8OQHF9Bj-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>困在内卷里的软件测试工程师</title>
     <updated>2020-10-12T22:00:22+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-22T17:15:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-22:/s/68ck3bDCF62fyy3wRDWFiA</id>
     <link href="https://mp.weixin.qq.com/s/68ck3bDCF62fyy3wRDWFiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Docker 快速上手鸿蒙</title>
-    <updated>2020-09-21T17:20:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/aYCCt0_ZznwZKOF0aVYNUw</id>
-    <link href="https://mp.weixin.qq.com/s/aYCCt0_ZznwZKOF0aVYNUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>上市公司 CTO 邀请你加入「码农周刊 VIP 会员」</title>
-    <updated>2020-09-21T17:20:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/3CxGCLdrQhwQ4WZVsKfy5Q</id>
-    <link href="https://mp.weixin.qq.com/s/3CxGCLdrQhwQ4WZVsKfy5Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
