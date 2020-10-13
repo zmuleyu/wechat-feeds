@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T23:16:59+08:00</updated>
+  <updated>2020-10-13T16:16:19+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微信支付的架构到底有多牛？</title>
+    <updated>2020-10-13T10:02:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/HbX508QpHLaODykXW8pnaA</id>
+    <link href="https://mp.weixin.qq.com/s/HbX508QpHLaODykXW8pnaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020，Vue 开发最佳指南！</title>
+    <updated>2020-10-13T10:02:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/NKX_L28xoLoe0veXHM7QfA</id>
+    <link href="https://mp.weixin.qq.com/s/NKX_L28xoLoe0veXHM7QfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一套完整的后台管理系统(附源码)，非常实用</title>
+    <updated>2020-10-13T10:02:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/WJuOFvAEXyA9wt91lLLUrQ</id>
+    <link href="https://mp.weixin.qq.com/s/WJuOFvAEXyA9wt91lLLUrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这款可视化工具，Java 调优起来真的 so easy啊</title>
+    <updated>2020-10-13T10:02:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/Dsqvt8JrtGpcSFLwplo-_w</id>
+    <link href="https://mp.weixin.qq.com/s/Dsqvt8JrtGpcSFLwplo-_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>瞬间几千次的重复提交，我用Redis 扛住了...</title>
+    <updated>2020-10-13T10:02:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/oaWxsYJxCTx9TuVLf18IZg</id>
+    <link href="https://mp.weixin.qq.com/s/oaWxsYJxCTx9TuVLf18IZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>能读React源码的人，很吃香！</title>
     <updated>2020-10-12T02:50:01+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-09T21:33:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/vje6z-nfAxdMG8aocdLTEA</id>
     <link href="https://mp.weixin.qq.com/s/vje6z-nfAxdMG8aocdLTEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这样配置，让你的 IDEA 好用到飞起来！</title>
-    <updated>2020-10-09T21:33:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/5Sn7es3XorqKlXl31oobJg</id>
-    <link href="https://mp.weixin.qq.com/s/5Sn7es3XorqKlXl31oobJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浙大29岁“粉色系”博导获百万大奖：希望做好学生的导师而不是“老板”</title>
-    <updated>2020-10-09T21:33:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/0NOEsiRLx8BeZlg3SG9HDQ</id>
-    <link href="https://mp.weixin.qq.com/s/0NOEsiRLx8BeZlg3SG9HDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百度网盘突然大调整，网友：我 2T 的老师没地方放了...</title>
-    <updated>2020-10-08T17:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/ibumlZlx0tXJcj4mT0p3kg</id>
-    <link href="https://mp.weixin.qq.com/s/ibumlZlx0tXJcj4mT0p3kg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>牛逼了，PanDownload复活了！60MB/s</title>
-    <updated>2020-10-08T17:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/gDlTCrarch1Qb1w9wZM8QA</id>
-    <link href="https://mp.weixin.qq.com/s/gDlTCrarch1Qb1w9wZM8QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么我不建议你用 if-else ？</title>
-    <updated>2020-10-08T17:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/FBacpkwVq-nd1Es6UIPy4Q</id>
-    <link href="https://mp.weixin.qq.com/s/FBacpkwVq-nd1Es6UIPy4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
