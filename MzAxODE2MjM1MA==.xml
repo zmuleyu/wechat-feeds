@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T13:10:17+08:00</updated>
+  <updated>2020-10-13T20:17:58+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>让 Vue3 Composition API 存在于你 Vue 以外的项目中</title>
+    <updated>2020-10-13T20:01:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/Q89epcN3An70_INz0KWeJg</id>
+    <link href="https://mp.weixin.qq.com/s/Q89epcN3An70_INz0KWeJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>20k 以上面试必问，Webpack 原理和优化</title>
     <updated>2020-10-11T21:40:29+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-10-04T22:08:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-04:/s/DP8zp5RsYkzyVaXiwvqqWw</id>
     <link href="https://mp.weixin.qq.com/s/DP8zp5RsYkzyVaXiwvqqWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神</title>
-    <updated>2020-10-03T21:55:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/2aMrofsAP0fcIoLSLFzdMQ</id>
-    <link href="https://mp.weixin.qq.com/s/2aMrofsAP0fcIoLSLFzdMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

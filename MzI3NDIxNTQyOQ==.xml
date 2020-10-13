@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:24:09+08:00</updated>
+  <updated>2020-10-13T20:16:21+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TiDB 邀您参加 Hacktoberfest 2020</title>
+    <updated>2020-10-13T15:31:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/mZWPCeqZduBBJyxL8LZwkw</id>
+    <link href="https://mp.weixin.qq.com/s/mZWPCeqZduBBJyxL8LZwkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于 TiSpark 的海量数据批量处理技术</title>
     <updated>2020-10-09T17:38:30+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-09-18T14:28:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/AFSyu7SzI0ZvUHRmYPmaOg</id>
     <link href="https://mp.weixin.qq.com/s/AFSyu7SzI0ZvUHRmYPmaOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奖金升级，TiDB 性能竞赛等你来战！</title>
-    <updated>2020-09-17T17:09:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/ZWCOI7eJcIHfdYHxpVfHvw</id>
-    <link href="https://mp.weixin.qq.com/s/ZWCOI7eJcIHfdYHxpVfHvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Snowflake 8 年估值 700 亿美元，圈内人士怎么看？</title>
-    <updated>2020-09-17T17:09:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/t5afZQOzUOTcDpXPJtPpqw</id>
-    <link href="https://mp.weixin.qq.com/s/t5afZQOzUOTcDpXPJtPpqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

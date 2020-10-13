@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T20:18:44+08:00</updated>
+  <updated>2020-10-13T20:17:01+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Webpack 5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能</title>
+    <updated>2020-10-13T16:30:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/rGawkY2kfRBxFq83UPQ9uQ</id>
+    <link href="https://mp.weixin.qq.com/s/rGawkY2kfRBxFq83UPQ9uQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>安卓手机时间突然变慢？网友：糟糕，上班迟到了</title>
+    <updated>2020-10-13T16:30:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/DU_iTSGN1U5NxhQrVBMGtw</id>
+    <link href="https://mp.weixin.qq.com/s/DU_iTSGN1U5NxhQrVBMGtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>73个强无敌的NPM软件包</title>
     <updated>2020-10-12T16:19:25+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-09-30T15:23:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/Uduorijh0M2XgCBsJUkdGw</id>
     <link href="https://mp.weixin.qq.com/s/Uduorijh0M2XgCBsJUkdGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PHP与.NET统治Web开发世界的八个理由</title>
-    <updated>2020-09-29T16:43:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/sx4j2v9iNmPmhIa24MG7wg</id>
-    <link href="https://mp.weixin.qq.com/s/sx4j2v9iNmPmhIa24MG7wg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何阻止对Web应用程序发起的DoS攻击？</title>
-    <updated>2020-09-29T16:43:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/-gdjcwv8gnolYwVGyF8mGQ</id>
-    <link href="https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
