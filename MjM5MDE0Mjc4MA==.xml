@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T16:14:51+08:00</updated>
+  <updated>2020-10-13T11:13:15+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go 并发编程这么难，到底应该怎么学？｜ 极客时间</title>
+    <updated>2020-10-12T22:24:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/mZ4FNiH7a2AboMUojBlEIA</id>
+    <link href="https://mp.weixin.qq.com/s/mZ4FNiH7a2AboMUojBlEIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020年Java语言发展现状</title>
+    <updated>2020-10-12T22:24:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/aRBEdb36dH_zpurmbiC3KQ</id>
+    <link href="https://mp.weixin.qq.com/s/aRBEdb36dH_zpurmbiC3KQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>德甲、NFL、F1 赛车的游戏规则正在改变，AWS 如何解锁数据潜能</title>
+    <updated>2020-10-12T22:24:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/HQtyhHC3MKZCAcVFP1lvnw</id>
+    <link href="https://mp.weixin.qq.com/s/HQtyhHC3MKZCAcVFP1lvnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开源社区的空前盛事！“有你有我开源节”（开源技术研讨会）即将重磅揭幕 ｜ Q推荐</title>
+    <updated>2020-10-12T22:24:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/m1b75Cbhxf87aVbADszaoA</id>
+    <link href="https://mp.weixin.qq.com/s/m1b75Cbhxf87aVbADszaoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux主要发行版目前面临的问题：钱足够但很缺人！</title>
+    <updated>2020-10-12T22:24:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/PYx5Z6VpHoozfOhX8K7Hqg</id>
+    <link href="https://mp.weixin.qq.com/s/PYx5Z6VpHoozfOhX8K7Hqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一行代码实现黑暗模式</title>
+    <updated>2020-10-12T22:24:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/eIpUhaUBwjdpSTWgMjpuLw</id>
+    <link href="https://mp.weixin.qq.com/s/eIpUhaUBwjdpSTWgMjpuLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试造核弹：细数那些有毒的开发岗位描述</title>
     <updated>2020-10-12T13:33:01+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2020-10-10T10:48:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/OgbepsaKT1NHN1B9upP9Mw</id>
     <link href="https://mp.weixin.qq.com/s/OgbepsaKT1NHN1B9upP9Mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个反对“平台团队”的案例</title>
-    <updated>2020-10-10T10:48:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/kAntvOf-VB43SUbKIDaA2A</id>
-    <link href="https://mp.weixin.qq.com/s/kAntvOf-VB43SUbKIDaA2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DevOps工程师的必备技能清单</title>
-    <updated>2020-10-10T10:48:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/ya7VHp1ulbm-9wnrvoqBMw</id>
-    <link href="https://mp.weixin.qq.com/s/ya7VHp1ulbm-9wnrvoqBMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个IT时代的终结：109岁的IBM将分拆为两家公司</title>
-    <updated>2020-10-09T12:53:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/QlHZ0VfB2Ok3GZzgFNkBPw</id>
-    <link href="https://mp.weixin.qq.com/s/QlHZ0VfB2Ok3GZzgFNkBPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB on Kubernetes 最佳实践</title>
-    <updated>2020-10-09T12:53:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/wOGt6pxUbyCzW15SqZwJ7A</id>
-    <link href="https://mp.weixin.qq.com/s/wOGt6pxUbyCzW15SqZwJ7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人工智能势如破竹，开创机器人对话时代 ｜ Q推荐</title>
-    <updated>2020-10-09T12:53:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/fLzer4xwdx29VIVIiHcsVQ</id>
-    <link href="https://mp.weixin.qq.com/s/fLzer4xwdx29VIVIiHcsVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PHP与.NET统治Web开发世界的八个理由</title>
-    <updated>2020-10-09T12:53:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/1OmOICJfUsMDcVKYj5zbfA</id>
-    <link href="https://mp.weixin.qq.com/s/1OmOICJfUsMDcVKYj5zbfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

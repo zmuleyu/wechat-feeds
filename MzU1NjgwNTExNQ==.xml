@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T11:14:39+08:00</updated>
+  <updated>2020-10-13T11:14:00+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python 程序员的工资能有多高？</title>
+    <updated>2020-10-12T22:00:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/A8bU-juH8UzVTqVboVBHtg</id>
+    <link href="https://mp.weixin.qq.com/s/A8bU-juH8UzVTqVboVBHtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>科技巨头谷歌涉嫌垄断，或被拆分为多家公司</title>
+    <updated>2020-10-12T22:00:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/dRLcftnXhvi7-cr-ceSA_Q</id>
+    <link href="https://mp.weixin.qq.com/s/dRLcftnXhvi7-cr-ceSA_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VS Code 1.50 发布！官方支持ARM架构，终于可以在树莓派和Chromebook上用啦！</title>
     <updated>2020-10-11T22:14:05+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-10-03T20:33:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-03:/s/QwkRTGW_gE6-MJMM48ZvfQ</id>
     <link href="https://mp.weixin.qq.com/s/QwkRTGW_gE6-MJMM48ZvfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卧槽！字节跳动内部  MySQL 学习笔记火了，完整版开放下载！</title>
-    <updated>2020-10-02T18:04:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/EBWn_F6ncD1dj6-r_nY_OQ</id>
-    <link href="https://mp.weixin.qq.com/s/EBWn_F6ncD1dj6-r_nY_OQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>尤雨溪：全职做开源年薪百万，非科班程序员也能成功</title>
-    <updated>2020-10-02T18:04:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/Chsb1t2rWOdXvkIM4VLRfw</id>
-    <link href="https://mp.weixin.qq.com/s/Chsb1t2rWOdXvkIM4VLRfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

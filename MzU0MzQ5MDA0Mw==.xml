@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T23:11:04+08:00</updated>
+  <updated>2020-10-13T11:10:57+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不会MySQL，他被移除公司群聊</title>
+    <updated>2020-10-12T22:29:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/i4svl4BDx7X6_ccqzpyhJQ</id>
+    <link href="https://mp.weixin.qq.com/s/i4svl4BDx7X6_ccqzpyhJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>主流NoSQL及应用场景详解</title>
     <updated>2020-10-11T20:32:35+08:00</updated>
@@ -33,13 +40,6 @@
     <updated>2020-10-10T19:56:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/H9hcQHZUNhuRodEPiVOHfQ</id>
     <link href="https://mp.weixin.qq.com/s/H9hcQHZUNhuRodEPiVOHfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何正确、高效地阅读源代码？</title>
-    <updated>2020-10-08T19:40:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/ZKVjOme6ey9ma9bxlOJGfw</id>
-    <link href="https://mp.weixin.qq.com/s/ZKVjOme6ey9ma9bxlOJGfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2020-10-02T21:22:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-02:/s/lbcYTJ7LWKtWLIUQSYDtyA</id>
     <link href="https://mp.weixin.qq.com/s/lbcYTJ7LWKtWLIUQSYDtyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>监控、链路追踪、日志这三者有何区别？</title>
-    <updated>2020-10-01T00:16:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-01:/s/9RO3kQMUVKfHINS_YeNtwg</id>
-    <link href="https://mp.weixin.qq.com/s/9RO3kQMUVKfHINS_YeNtwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
