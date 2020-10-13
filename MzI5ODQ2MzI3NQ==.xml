@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T20:14:41+08:00</updated>
+  <updated>2020-10-13T13:10:50+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>DDD 有什么用？</title>
+    <updated>2020-10-13T12:59:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/jDyr_d6vfdRMIBiu13BIyg</id>
+    <link href="https://mp.weixin.qq.com/s/jDyr_d6vfdRMIBiu13BIyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ping TCP端口的实用小工具tcping</title>
+    <updated>2020-10-13T12:59:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/kqFTcd4RViMg_9tZi5HVyg</id>
+    <link href="https://mp.weixin.qq.com/s/kqFTcd4RViMg_9tZi5HVyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Jenkins vs GitLab CI：CI/CD工具之战</title>
     <updated>2020-10-12T20:09:35+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-10-04T09:08:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-04:/s/SIQsYfP7ea-zvsaJ1HjpDw</id>
     <link href="https://mp.weixin.qq.com/s/SIQsYfP7ea-zvsaJ1HjpDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>kubernetes调度器核心原理大揭秘</title>
-    <updated>2020-10-03T12:52:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/kcYMdIogRU3rD9d5qtiy2Q</id>
-    <link href="https://mp.weixin.qq.com/s/kcYMdIogRU3rD9d5qtiy2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
