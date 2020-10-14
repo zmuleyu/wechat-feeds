@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-23T23:17:24+08:00</updated>
+  <updated>2020-10-14T23:14:46+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo 基于原生 RabbitMQ 的高可用架构实践</title>
+    <updated>2020-10-14T18:21:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/7s9-RsLWgiVvw28U51J0bA</id>
+    <link href="https://mp.weixin.qq.com/s/7s9-RsLWgiVvw28U51J0bA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL 8 新特性之Clone Plugin</title>
+    <updated>2020-10-14T18:21:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/_HqRXhQX_6e0boACzcAH8g</id>
+    <link href="https://mp.weixin.qq.com/s/_HqRXhQX_6e0boACzcAH8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从勾股定理到余弦相似度-程序员的数学基础</title>
+    <updated>2020-10-14T18:21:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/RkJ6XjHrzjR1bjBo7FDVdw</id>
+    <link href="https://mp.weixin.qq.com/s/RkJ6XjHrzjR1bjBo7FDVdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis 缓存性能实践及总结</title>
     <updated>2020-09-23T18:44:23+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-08-12T20:13:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-12:/s/rSpWorfNTajtqq_pd7H-nw</id>
     <link href="https://mp.weixin.qq.com/s/rSpWorfNTajtqq_pd7H-nw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android 原生 SQLite 数据库的一次封装实践</title>
-    <updated>2020-08-05T20:21:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-05:/s/CL4MsQEsrWS8n7lhXCOQ_g</id>
-    <link href="https://mp.weixin.qq.com/s/CL4MsQEsrWS8n7lhXCOQ_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Puppeteer 入门与实战</title>
-    <updated>2020-08-05T20:21:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-05:/s/P-YdQPOQ9GZgjDEP7VG8ag</id>
-    <link href="https://mp.weixin.qq.com/s/P-YdQPOQ9GZgjDEP7VG8ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>悟空活动中台 - H5 活动加载优化</title>
-    <updated>2020-07-29T18:13:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-29:/s/6gtVR0nVNcZvREjwftZgzA</id>
-    <link href="https://mp.weixin.qq.com/s/6gtVR0nVNcZvREjwftZgzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
