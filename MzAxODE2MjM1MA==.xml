@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-13T20:17:58+08:00</updated>
+  <updated>2020-10-14T11:14:49+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VUE+ElementUI 后台管理项目经验与技巧分享，金九银十跳槽必看！</title>
+    <updated>2020-10-13T23:13:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/LJ5c6id5tuIMqCjwhAwbVg</id>
+    <link href="https://mp.weixin.qq.com/s/LJ5c6id5tuIMqCjwhAwbVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你需要了解的几种 JavaScript 异常类型</title>
+    <updated>2020-10-13T23:13:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/tsGca5jUcCLSt6vlk0pQUQ</id>
+    <link href="https://mp.weixin.qq.com/s/tsGca5jUcCLSt6vlk0pQUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让 Vue3 Composition API 存在于你 Vue 以外的项目中</title>
     <updated>2020-10-13T20:01:21+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-10-04T20:34:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-04:/s/jW3-icYQaJVITCYi730iIw</id>
     <link href="https://mp.weixin.qq.com/s/jW3-icYQaJVITCYi730iIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>代数效应与 React</title>
-    <updated>2020-10-04T22:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/DP8zp5RsYkzyVaXiwvqqWw</id>
-    <link href="https://mp.weixin.qq.com/s/DP8zp5RsYkzyVaXiwvqqWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
