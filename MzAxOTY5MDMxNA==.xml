@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>有赞coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-09T20:24:04+08:00</updated>
+  <updated>2020-10-14T20:18:23+08:00</updated>
   <subtitle>有赞技术官方公众号，推广有赞技术干货，偶有有赞技术小哥哥小姐姐们的日常</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>持续演进的接口自动化测试方案</title>
+    <updated>2020-10-14T17:59:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/ZHq3H4WfXb8jkpZWyUPWPQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZHq3H4WfXb8jkpZWyUPWPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一次假期故障引发的性能优化思考</title>
     <updated>2020-10-09T17:03:18+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-02T17:49:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-02:/s/lenJDFa_a5ffX7dBIy2kkg</id>
     <link href="https://mp.weixin.qq.com/s/lenJDFa_a5ffX7dBIy2kkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有赞零售移动CI/CD实践</title>
-    <updated>2020-08-28T17:38:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-28:/s/QNLrKvZRUXDy8_Wo8lUGHw</id>
-    <link href="https://mp.weixin.qq.com/s/QNLrKvZRUXDy8_Wo8lUGHw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

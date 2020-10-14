@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-13T20:16:21+08:00</updated>
+  <updated>2020-10-14T20:18:34+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TiDB 在中移物联网车联网场景的探索和实现</title>
+    <updated>2020-10-14T18:09:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/VAfKAahgtl-4S6oqYm0Y_w</id>
+    <link href="https://mp.weixin.qq.com/s/VAfKAahgtl-4S6oqYm0Y_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>High Performance TiDB 课程第九期上线 | Raft 层优化（含网络层）</title>
+    <updated>2020-10-14T18:09:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/NcsLtY_DHVzgxtycWxajcQ</id>
+    <link href="https://mp.weixin.qq.com/s/NcsLtY_DHVzgxtycWxajcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TiDB 邀您参加 Hacktoberfest 2020</title>
     <updated>2020-10-13T15:31:18+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-09-23T18:06:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/ZjZvWW-ubTvjoBNnJEQvVw</id>
     <link href="https://mp.weixin.qq.com/s/ZjZvWW-ubTvjoBNnJEQvVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>当我们在谈论 HTAP 时我们在谈论什么 | Meetup No.130 回顾</title>
-    <updated>2020-09-18T14:28:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/g0nLO5Nqd2cYdVCI_SEFUA</id>
-    <link href="https://mp.weixin.qq.com/s/g0nLO5Nqd2cYdVCI_SEFUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Meetup 预告 ｜看大数据时代 TiCDC 有哪些新玩法</title>
-    <updated>2020-09-18T14:28:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/AFSyu7SzI0ZvUHRmYPmaOg</id>
-    <link href="https://mp.weixin.qq.com/s/AFSyu7SzI0ZvUHRmYPmaOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

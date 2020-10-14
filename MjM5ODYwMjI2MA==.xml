@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T20:16:58+08:00</updated>
+  <updated>2020-10-14T20:17:45+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux 机器 CPU 毛刺问题排查</title>
+    <updated>2020-10-14T16:41:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/UFPi8PZ9GcAfaalCrWTmng</id>
+    <link href="https://mp.weixin.qq.com/s/UFPi8PZ9GcAfaalCrWTmng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「递归」第9集 | 我在腾讯做研究</title>
     <updated>2020-10-12T17:55:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-17T15:51:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-17:/s/4iqjnyco4uv8uM3ExAqb4A</id>
     <link href="https://mp.weixin.qq.com/s/4iqjnyco4uv8uM3ExAqb4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文掌握开发利器：正则表达式</title>
-    <updated>2020-09-16T15:29:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/wkCHL_QzAJwWEg9JZaZnCQ</id>
-    <link href="https://mp.weixin.qq.com/s/wkCHL_QzAJwWEg9JZaZnCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

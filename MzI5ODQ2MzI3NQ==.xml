@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-13T13:10:50+08:00</updated>
+  <updated>2020-10-14T20:16:47+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生景观：运行时层解决了什么问题？如何解决的？</title>
+    <updated>2020-10-14T17:48:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/V5pNo3Gt2OKujoAi5U94QA</id>
+    <link href="https://mp.weixin.qq.com/s/V5pNo3Gt2OKujoAi5U94QA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这份Kubernetes PDF文件值得一看！可下载！</title>
+    <updated>2020-10-14T17:48:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/korSJc6azaVp1N7h8fwBLA</id>
+    <link href="https://mp.weixin.qq.com/s/korSJc6azaVp1N7h8fwBLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DDD 有什么用？</title>
     <updated>2020-10-13T12:59:04+08:00</updated>
@@ -40,13 +54,6 @@
     <updated>2020-10-10T18:28:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/aK_gSGZPnk1Ao37wjjAZug</id>
     <link href="https://mp.weixin.qq.com/s/aK_gSGZPnk1Ao37wjjAZug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试必问：Spring循环依赖的三种方式</title>
-    <updated>2020-10-08T23:30:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/GVU7oVfMljYZns9GPHQK-w</id>
-    <link href="https://mp.weixin.qq.com/s/GVU7oVfMljYZns9GPHQK-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +103,6 @@
     <updated>2020-10-05T15:06:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-05:/s/UFNzOcwTSTlS4ZJqZHssEw</id>
     <link href="https://mp.weixin.qq.com/s/UFNzOcwTSTlS4ZJqZHssEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>采用GitOps的11大原因</title>
-    <updated>2020-10-04T09:08:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-04:/s/SIQsYfP7ea-zvsaJ1HjpDw</id>
-    <link href="https://mp.weixin.qq.com/s/SIQsYfP7ea-zvsaJ1HjpDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

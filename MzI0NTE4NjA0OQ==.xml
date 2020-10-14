@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-13T20:15:33+08:00</updated>
+  <updated>2020-10-14T20:17:42+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>运维大杀器来了，未来云上服务器或将实现无人值守</title>
+    <updated>2020-10-14T16:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/mBCteIBluT5da3D-b9HYSA</id>
+    <link href="https://mp.weixin.qq.com/s/mBCteIBluT5da3D-b9HYSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PyFlink + 区块链？揭秘行业领头企业 BTC.com 如何实现实时计算</title>
     <updated>2020-10-13T14:55:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-03T11:28:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-03:/s/v9_epRDUVkhMGlDadkX9OQ</id>
     <link href="https://mp.weixin.qq.com/s/v9_epRDUVkhMGlDadkX9OQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生计算引擎挑战与解决方案</title>
-    <updated>2020-10-02T11:29:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-02:/s/FtDgC8zkaIIYlKpFWvGVBA</id>
-    <link href="https://mp.weixin.qq.com/s/FtDgC8zkaIIYlKpFWvGVBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
