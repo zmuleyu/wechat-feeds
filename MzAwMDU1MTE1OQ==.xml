@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-14T11:15:22+08:00</updated>
+  <updated>2020-10-15T11:14:52+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Merge 还是 Rebase？这是个问题</title>
+    <updated>2020-10-15T09:56:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/q166Rx8hylgMUfTgQopz0w</id>
+    <link href="https://mp.weixin.qq.com/s/q166Rx8hylgMUfTgQopz0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>异地多活架构，牛逼在哪儿？</title>
     <updated>2020-10-13T22:17:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-25T10:55:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/C8cXSdHcqvuVMxybinFQPQ</id>
     <link href="https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么不用Rust?</title>
-    <updated>2020-09-24T13:44:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/JPqBCTEj25yii5CoJ9wzjQ</id>
-    <link href="https://mp.weixin.qq.com/s/JPqBCTEj25yii5CoJ9wzjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

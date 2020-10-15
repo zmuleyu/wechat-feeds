@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>健康中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-14T20:17:37+08:00</updated>
+  <updated>2020-10-15T11:14:06+08:00</updated>
   <subtitle>卫生健康信息发布</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>截至10月14日24时新型冠状病毒肺炎疫情最新情况</title>
+    <updated>2020-10-15T08:27:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/g_sYTDr77P9acnXTMwiRPg</id>
+    <link href="https://mp.weixin.qq.com/s/g_sYTDr77P9acnXTMwiRPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中央第十四巡视组巡视国家卫生健康委员会党组工作动员会召开</title>
     <updated>2020-10-14T18:39:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-13T10:32:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/a3CQ8oDktwEqL7ILjnXVWg</id>
     <link href="https://mp.weixin.qq.com/s/a3CQ8oDktwEqL7ILjnXVWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>截至10月12日24时新型冠状病毒肺炎疫情最新情况</title>
-    <updated>2020-10-13T09:01:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/K2CFZuMXPfw1OKvSwvCJXg</id>
-    <link href="https://mp.weixin.qq.com/s/K2CFZuMXPfw1OKvSwvCJXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

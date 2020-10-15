@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-14T11:10:48+08:00</updated>
+  <updated>2020-10-15T11:14:31+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>协程中的取消和异常 | 驻留任务详解</title>
+    <updated>2020-10-14T22:39:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/0ZPzUeUiBlFhl3uIkgSQ7Q</id>
+    <link href="https://mp.weixin.qq.com/s/0ZPzUeUiBlFhl3uIkgSQ7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文彻底搞懂 Kotlin 中的委托 | 开发者说·DTalk</title>
+    <updated>2020-10-14T22:39:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/ndgbta94As02vMktNePBAg</id>
+    <link href="https://mp.weixin.qq.com/s/ndgbta94As02vMktNePBAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开始使用 Flutter 构建 Windows 桌面应用吧！</title>
     <updated>2020-10-13T22:49:46+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-09-28T11:41:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/RSkvLj476lzJ61MLD4I8VA</id>
     <link href="https://mp.weixin.qq.com/s/RSkvLj476lzJ61MLD4I8VA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新版 Google Play 管理中心将于 11 月 2 日全线发布，旧版即将停用！</title>
-    <updated>2020-09-26T11:27:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/unPmJC3NV0-6zxKPTz2E2w</id>
-    <link href="https://mp.weixin.qq.com/s/unPmJC3NV0-6zxKPTz2E2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google 应用与游戏出海 9 月刊: 遨游出海季，共创新增长 (下)</title>
-    <updated>2020-09-26T11:27:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/7tSLV5jdKVd64Ctvg48bMA</id>
-    <link href="https://mp.weixin.qq.com/s/7tSLV5jdKVd64Ctvg48bMA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

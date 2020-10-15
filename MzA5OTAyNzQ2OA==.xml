@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-14T11:12:35+08:00</updated>
+  <updated>2020-10-15T11:15:27+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2020-10-15T07:45:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/D0PZyV0_0JzROI14jBBCnA</id>
+    <link href="https://mp.weixin.qq.com/s/D0PZyV0_0JzROI14jBBCnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>神曲《Serverless 之歌》唱出云行业心声，开发者神评论：我连看了 6 遍</title>
     <updated>2020-10-13T22:34:39+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-10-06T08:13:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-06:/s/5R4NNrIZuBBMkXur4aBsIQ</id>
     <link href="https://mp.weixin.qq.com/s/5R4NNrIZuBBMkXur4aBsIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Service Mesh 在超大规模场景下的落地挑战</title>
-    <updated>2020-10-05T08:23:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/FKG5y3cxQFdHyiPzDCOmZw</id>
-    <link href="https://mp.weixin.qq.com/s/FKG5y3cxQFdHyiPzDCOmZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DDD实践培训</title>
-    <updated>2020-10-05T08:23:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/AYDQpUhUxf8HwoRzuxoqOA</id>
-    <link href="https://mp.weixin.qq.com/s/AYDQpUhUxf8HwoRzuxoqOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
