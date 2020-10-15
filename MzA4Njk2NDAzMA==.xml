@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-14T23:14:54+08:00</updated>
+  <updated>2020-10-15T20:14:48+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何一步步 get 大厂前端 Offer？</title>
+    <updated>2020-10-15T20:00:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/yZE2SPgT5GrtHOKZC_J-hA</id>
+    <link href="https://mp.weixin.qq.com/s/yZE2SPgT5GrtHOKZC_J-hA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 一款纯前端类似 Excel 的在线表格</title>
+    <updated>2020-10-15T20:00:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/Mpwf_Z4Vk0GGYcbWMlfGOA</id>
+    <link href="https://mp.weixin.qq.com/s/Mpwf_Z4Vk0GGYcbWMlfGOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>技术方案设计的方法</title>
     <updated>2020-10-14T21:00:34+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-24T20:00:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/i-27pZRHoats2C2g4tixQA</id>
     <link href="https://mp.weixin.qq.com/s/i-27pZRHoats2C2g4tixQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端插件化架构的探索和实践</title>
-    <updated>2020-09-23T20:00:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/Gra8JOmjoEGTxj0NUOlrWQ</id>
-    <link href="https://mp.weixin.qq.com/s/Gra8JOmjoEGTxj0NUOlrWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>资料 |《JavaScript 20 年》</title>
-    <updated>2020-09-23T20:00:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/XVQLVK0xPVx0aK9KpXZHOA</id>
-    <link href="https://mp.weixin.qq.com/s/XVQLVK0xPVx0aK9KpXZHOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

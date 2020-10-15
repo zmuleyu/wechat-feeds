@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-02T11:19:48+08:00</updated>
+  <updated>2020-10-15T20:14:33+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软TCP/IP远程执行代码漏洞（CVE-2020-16898）风险通告</title>
+    <updated>2020-10-15T15:55:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/phHzKUaW_Ut3mfQKZufllA</id>
+    <link href="https://mp.weixin.qq.com/s/phHzKUaW_Ut3mfQKZufllA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【火绒安全周报】微软Windows XP源代码遭泄露 医疗巨头UHS遭遇勒索软件攻击</title>
     <updated>2020-10-02T10:00:33+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-09-11T17:14:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/kTHjho4SxRrgmCfsn63yxg</id>
     <link href="https://mp.weixin.qq.com/s/kTHjho4SxRrgmCfsn63yxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【火绒安全周报】美政府对朝鲜黑客提起诉讼  思科456个虚拟机被前员工删除</title>
-    <updated>2020-09-04T13:55:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-04:/s/bYpZzBWystPZlERy2qQBAg</id>
-    <link href="https://mp.weixin.qq.com/s/bYpZzBWystPZlERy2qQBAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开奖啦！快来看看你中奖没！</title>
-    <updated>2020-09-04T13:55:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-04:/s/AvkZSEZUaVrPzBVWVwcuug</id>
-    <link href="https://mp.weixin.qq.com/s/AvkZSEZUaVrPzBVWVwcuug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
