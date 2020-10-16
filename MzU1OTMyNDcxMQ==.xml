@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T20:15:00+08:00</updated>
+  <updated>2020-10-16T20:20:27+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 TensorFlow.js 探索 BERT 在浏览器中的趣味实践</title>
+    <updated>2020-10-16T19:47:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/cwEdDXNRPQJxfCbQ7a09yQ</id>
+    <link href="https://mp.weixin.qq.com/s/cwEdDXNRPQJxfCbQ7a09yQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pixelopolis：由 TensorFlow Lite 构建无人驾驶微型汽车</title>
     <updated>2020-10-15T17:34:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-25T11:47:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/6VOkAifgAPoP4_5tUqV5fQ</id>
     <link href="https://mp.weixin.qq.com/s/6VOkAifgAPoP4_5tUqV5fQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推出 TF Lite Task Library 接口，简化 ML移动端开发流程</title>
-    <updated>2020-09-24T11:29:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/YCDd8ZG057hRBggDQrCC0g</id>
-    <link href="https://mp.weixin.qq.com/s/YCDd8ZG057hRBggDQrCC0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

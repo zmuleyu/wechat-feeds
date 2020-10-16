@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T20:14:33+08:00</updated>
+  <updated>2020-10-16T20:19:52+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【火绒安全周报】微软捣毁僵尸网络Trickbot  嘉年华集团证实遭勒索软件攻击</title>
+    <updated>2020-10-16T13:22:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/38rMih9muYp2-paOvfPvmg</id>
+    <link href="https://mp.weixin.qq.com/s/38rMih9muYp2-paOvfPvmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软TCP/IP远程执行代码漏洞（CVE-2020-16898）风险通告</title>
     <updated>2020-10-15T15:55:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-16T17:01:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/XVDaefJhIYvC6Cs0YfJrwA</id>
     <link href="https://mp.weixin.qq.com/s/XVDaefJhIYvC6Cs0YfJrwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【火绒安全周报】Switch遭破解任天堂施压关闭盗版电玩店 艺人飞行里程被盗用</title>
-    <updated>2020-09-11T17:14:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/kTHjho4SxRrgmCfsn63yxg</id>
-    <link href="https://mp.weixin.qq.com/s/kTHjho4SxRrgmCfsn63yxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

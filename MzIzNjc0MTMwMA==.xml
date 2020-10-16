@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T20:15:45+08:00</updated>
+  <updated>2020-10-16T20:21:13+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【源头活水】TRAML：利用自适应边际损失增强小样本学习（CVPR 2020 ）</title>
+    <updated>2020-10-16T18:13:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/KfAztBabuK6bptzq7tcmag</id>
+    <link href="https://mp.weixin.qq.com/s/KfAztBabuK6bptzq7tcmag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】如何支撑上亿类别的人脸训练？显存均衡的模型并行(PyTorch实现)</title>
+    <updated>2020-10-16T18:13:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/tPWEoqnMWx2T9ALCinMEsw</id>
+    <link href="https://mp.weixin.qq.com/s/tPWEoqnMWx2T9ALCinMEsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI83×CRIPAC 对抗样本专题</title>
+    <updated>2020-10-16T18:13:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/J2QjGqWeqHsBgPXJNZaVqQ</id>
+    <link href="https://mp.weixin.qq.com/s/J2QjGqWeqHsBgPXJNZaVqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【他山之石】NLP高阶实战必读：一文走遍完整自然语言处理流程</title>
     <updated>2020-10-15T18:08:58+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-09T18:08:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/-G53fXhK0lw3kPpE9rFFBQ</id>
     <link href="https://mp.weixin.qq.com/s/-G53fXhK0lw3kPpE9rFFBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐系统技术演进趋势：从召回到排序再到重排</title>
-    <updated>2020-10-08T18:59:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/vt0ktk-D-zRWPCPYjGcifQ</id>
-    <link href="https://mp.weixin.qq.com/s/vt0ktk-D-zRWPCPYjGcifQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Few-shot Learning最新进展调研</title>
-    <updated>2020-10-08T18:59:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/YhhWh51diUUoX1J9Vt340w</id>
-    <link href="https://mp.weixin.qq.com/s/YhhWh51diUUoX1J9Vt340w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SFFAI 82 X CRIPAC报名通知 | 机器翻译专题</title>
-    <updated>2020-10-08T18:59:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/cPfG1O_BERRyAlvgFjO-wQ</id>
-    <link href="https://mp.weixin.qq.com/s/cPfG1O_BERRyAlvgFjO-wQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

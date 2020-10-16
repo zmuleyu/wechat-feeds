@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T20:16:42+08:00</updated>
+  <updated>2020-10-16T20:22:21+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何提升微服务的幸福感？</title>
+    <updated>2020-10-16T15:46:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/9esLgWscnhhiTr1CYs-Vww</id>
+    <link href="https://mp.weixin.qq.com/s/9esLgWscnhhiTr1CYs-Vww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>码住！Flink Contributor 速成指南</title>
     <updated>2020-10-15T18:06:12+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-06T11:45:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-06:/s/XItlfSOm8dyFrb44RBS3Eg</id>
     <link href="https://mp.weixin.qq.com/s/XItlfSOm8dyFrb44RBS3Eg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hologres在阿里搜索推荐实时数据场景下即席多维分析的最佳实践</title>
-    <updated>2020-10-05T10:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/I--OB4AhuHyHUfJWXbXUTQ</id>
-    <link href="https://mp.weixin.qq.com/s/I--OB4AhuHyHUfJWXbXUTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T23:14:05+08:00</updated>
+  <updated>2020-10-16T20:22:05+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>系统梳理 Tensorflow、PyTorch 等深度学习框架，洞悉 AI 系统底层原理和算法</title>
+    <updated>2020-10-16T18:47:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/61OtI7toKS6YtdrAddH9mg</id>
+    <link href="https://mp.weixin.qq.com/s/61OtI7toKS6YtdrAddH9mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>夺冠 or 姜子牙？ChatBot帮你搞定：基于话题引导的对话推荐系统</title>
+    <updated>2020-10-16T18:47:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/xsxpVwXBBUjAhBgcFb9nXA</id>
+    <link href="https://mp.weixin.qq.com/s/xsxpVwXBBUjAhBgcFb9nXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【文本摘要】Text Summarization文本摘要与注意力机制</title>
+    <updated>2020-10-16T18:47:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/OD_2qkhUzQ1L7LXA_KqfLA</id>
+    <link href="https://mp.weixin.qq.com/s/OD_2qkhUzQ1L7LXA_KqfLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>机器学习算法中分类知识总结！</title>
+    <updated>2020-10-16T18:47:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/NxFz6PmO9sMSsDPZ4NNGbg</id>
+    <link href="https://mp.weixin.qq.com/s/NxFz6PmO9sMSsDPZ4NNGbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>助攻篇 | 一份转ML的面试心得记录</title>
+    <updated>2020-10-16T18:47:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/Gct6LH8CWCMCcVyUaSYpdQ</id>
+    <link href="https://mp.weixin.qq.com/s/Gct6LH8CWCMCcVyUaSYpdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想快速开发和部署深度学习模型？推荐一个硬核工具</title>
     <updated>2020-10-15T19:37:11+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-13T19:14:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/ik5232joxYYw-gNABT1-qw</id>
     <link href="https://mp.weixin.qq.com/s/ik5232joxYYw-gNABT1-qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想快速发表自然语言处理论文？推荐一个出论文的好方向！</title>
-    <updated>2020-10-12T18:23:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/Qh7nGfkq0FcnL_kvIjBm_w</id>
-    <link href="https://mp.weixin.qq.com/s/Qh7nGfkq0FcnL_kvIjBm_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Transformer/CNN/RNN的对比（时间复杂度，序列操作数，最大路径长度）</title>
-    <updated>2020-10-12T18:23:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/FEUySC7_zVWmpThMm-Y_eQ</id>
-    <link href="https://mp.weixin.qq.com/s/FEUySC7_zVWmpThMm-Y_eQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ICLR2021有什么值得关注的GNN论文？</title>
-    <updated>2020-10-12T18:23:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/dQDZeY8KyrLEy2oZatzSzw</id>
-    <link href="https://mp.weixin.qq.com/s/dQDZeY8KyrLEy2oZatzSzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LAMB: 76分钟训练Bert</title>
-    <updated>2020-10-12T18:23:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/MYkweJ_JXs50TwaT6Xl15Q</id>
-    <link href="https://mp.weixin.qq.com/s/MYkweJ_JXs50TwaT6Xl15Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过代码学Sutton强化学习第四章动态规划</title>
-    <updated>2020-10-12T18:23:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/ITsMVK8NldWOP9pVtibY2g</id>
-    <link href="https://mp.weixin.qq.com/s/ITsMVK8NldWOP9pVtibY2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
