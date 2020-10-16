@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T11:15:27+08:00</updated>
+  <updated>2020-10-16T11:15:16+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何系统性地学习分布式系统？</title>
+    <updated>2020-10-15T21:13:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/SKchdyxyjyxbLGQpCfA18g</id>
+    <link href="https://mp.weixin.qq.com/s/SKchdyxyjyxbLGQpCfA18g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
     <updated>2020-10-15T07:45:23+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-10-07T08:04:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-07:/s/y8XJuGZYfUzr0l3zPQLyjQ</id>
     <link href="https://mp.weixin.qq.com/s/y8XJuGZYfUzr0l3zPQLyjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊API网关的作用</title>
-    <updated>2020-10-06T08:13:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-06:/s/IPzouTUYB61M09Y96i8BfQ</id>
-    <link href="https://mp.weixin.qq.com/s/IPzouTUYB61M09Y96i8BfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训</title>
-    <updated>2020-10-06T08:13:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-06:/s/5R4NNrIZuBBMkXur4aBsIQ</id>
-    <link href="https://mp.weixin.qq.com/s/5R4NNrIZuBBMkXur4aBsIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

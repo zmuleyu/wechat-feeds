@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T20:19:11+08:00</updated>
+  <updated>2020-10-16T11:16:51+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一整套线上故障排查技巧，爱了！</title>
+    <updated>2020-10-15T11:49:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-15:/s/znVGpJhtA52UKiekHWqD3w</id>
+    <link href="https://mp.weixin.qq.com/s/znVGpJhtA52UKiekHWqD3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看懂这篇，才能说了解并发底层技术！</title>
     <updated>2020-10-15T11:35:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-21T16:29:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/UVW23kOolW6vJpcv-A2IDA</id>
     <link href="https://mp.weixin.qq.com/s/UVW23kOolW6vJpcv-A2IDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文入魂：聊透分布式系统一致性！</title>
-    <updated>2020-09-21T11:49:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/5tZ-7IGMjarHLVmpP6iXAQ</id>
-    <link href="https://mp.weixin.qq.com/s/5tZ-7IGMjarHLVmpP6iXAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
