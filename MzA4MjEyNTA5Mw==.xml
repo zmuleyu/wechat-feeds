@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T13:12:12+08:00</updated>
+  <updated>2020-10-17T23:12:08+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Numpy高级操作大全！！！</title>
+    <updated>2020-10-17T22:03:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/zsEzusu--5MYq9lnPgpYvg</id>
+    <link href="https://mp.weixin.qq.com/s/zsEzusu--5MYq9lnPgpYvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>连 Python 生成器的原理都解释不了，还敢说 Python 用了 5 年？</title>
     <updated>2020-10-15T18:58:05+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-10-06T21:33:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-06:/s/-rPBgzFqxWiXwpDzbC6wIQ</id>
     <link href="https://mp.weixin.qq.com/s/-rPBgzFqxWiXwpDzbC6wIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyTorch 版 YOLOv4 更新了，不仅适用于自定义数据集，还集成了注意力和 MobileNet</title>
-    <updated>2020-10-05T22:06:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/koaLqy6iH9o3AGxxR0Vo5g</id>
-    <link href="https://mp.weixin.qq.com/s/koaLqy6iH9o3AGxxR0Vo5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

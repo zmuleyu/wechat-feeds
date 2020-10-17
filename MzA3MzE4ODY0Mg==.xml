@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T23:13:38+08:00</updated>
+  <updated>2020-10-17T23:12:37+08:00</updated>
   <subtitle>「GitHub精选」每天为您推荐精心挑选的 GitHub 上的开源项目以及与 GitHub 相关的一切有趣，好玩的东西和产品。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>陌陌开源又一力作</title>
+    <updated>2020-10-17T21:02:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/aVGKAdJNghxHQwW_k8sbYA</id>
+    <link href="https://mp.weixin.qq.com/s/aVGKAdJNghxHQwW_k8sbYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>牛逼，自动将函数或者命令行工具转换成 Web 服务</title>
     <updated>2020-10-16T16:49:53+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-07T10:51:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-07:/s/wcZYtDezM3MnHtF1itR1Ng</id>
     <link href="https://mp.weixin.qq.com/s/wcZYtDezM3MnHtF1itR1Ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一个开源 GitHub 技术资料阅读的微信小程序</title>
-    <updated>2020-10-06T22:15:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-06:/s/kCUC62ftgnWE58a3BVXLRw</id>
-    <link href="https://mp.weixin.qq.com/s/kCUC62ftgnWE58a3BVXLRw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

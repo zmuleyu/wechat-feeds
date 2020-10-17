@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:23:59+08:00</updated>
+  <updated>2020-10-17T23:14:26+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Canonical 桌面团队成员：微软不会将 Windows 迁移到 Linux</title>
+    <updated>2020-10-17T22:00:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/qODDAkSovLKLEGhPiVXgtQ</id>
+    <link href="https://mp.weixin.qq.com/s/qODDAkSovLKLEGhPiVXgtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>陌陌开源 Java 静态代码安全审计插件</title>
+    <updated>2020-10-17T22:00:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/UoLMurxw_5d3_ZUbFRe7jg</id>
+    <link href="https://mp.weixin.qq.com/s/UoLMurxw_5d3_ZUbFRe7jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于飞桨Res-Unet网络实现肝脏肿瘤分割任务</title>
     <updated>2020-10-16T19:47:39+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-08T22:05:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/GrlNVhhiCHIsvmu2CCPepw</id>
     <link href="https://mp.weixin.qq.com/s/GrlNVhhiCHIsvmu2CCPepw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flutter 1.22发布，iOS 14与Android 11支持改进</title>
-    <updated>2020-10-08T22:05:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/bf4tHKzyD_Fp3gZMnZcuxA</id>
-    <link href="https://mp.weixin.qq.com/s/bf4tHKzyD_Fp3gZMnZcuxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>恶意npm包收集用户IP等信息并在GitHub传播</title>
-    <updated>2020-10-07T21:17:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/ejV_pkc8DJbPo3shf62A-Q</id>
-    <link href="https://mp.weixin.qq.com/s/ejV_pkc8DJbPo3shf62A-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

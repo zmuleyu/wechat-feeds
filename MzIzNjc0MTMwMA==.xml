@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:21:13+08:00</updated>
+  <updated>2020-10-17T23:11:53+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】深度学习模型转换与部署那些事(含ONNX格式详细分析)</title>
+    <updated>2020-10-17T20:58:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/WTRFvKmj6BtCzLhfbhawbA</id>
+    <link href="https://mp.weixin.qq.com/s/WTRFvKmj6BtCzLhfbhawbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【综述专栏】小样本学习——概念、原理与方法简介（Few-shot learning）</title>
+    <updated>2020-10-17T20:58:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/IYkXliirRaxJuo5b9fA0GA</id>
+    <link href="https://mp.weixin.qq.com/s/IYkXliirRaxJuo5b9fA0GA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI83×CRIPAC 对抗样本专题</title>
+    <updated>2020-10-17T20:58:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/ghIQcWlz8YfzeRK3ZMZ8sg</id>
+    <link href="https://mp.weixin.qq.com/s/ghIQcWlz8YfzeRK3ZMZ8sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【源头活水】TRAML：利用自适应边际损失增强小样本学习（CVPR 2020 ）</title>
     <updated>2020-10-16T18:13:44+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-10T18:17:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/_6LGnygMC77K4JBcPK2cRA</id>
     <link href="https://mp.weixin.qq.com/s/_6LGnygMC77K4JBcPK2cRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>公开课 | 多说话人分割聚类的传统方法与热点问题</title>
-    <updated>2020-10-09T18:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/4gqwnz3bDB7jztAERmMJAA</id>
-    <link href="https://mp.weixin.qq.com/s/4gqwnz3bDB7jztAERmMJAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多模态 | 视觉常识推理任务榜单 top2 模型详解</title>
-    <updated>2020-10-09T18:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/0Fgi1cFL-E0ggdTL04K3KQ</id>
-    <link href="https://mp.weixin.qq.com/s/0Fgi1cFL-E0ggdTL04K3KQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SFFAI 82 X CRIPAC报名通知 | 机器翻译专题</title>
-    <updated>2020-10-09T18:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/-G53fXhK0lw3kPpE9rFFBQ</id>
-    <link href="https://mp.weixin.qq.com/s/-G53fXhK0lw3kPpE9rFFBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

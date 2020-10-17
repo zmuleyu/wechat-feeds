@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T13:12:12+08:00</updated>
+  <updated>2020-10-17T23:11:49+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《Harbor权威指南》新书发布，赠送10本！</title>
+    <updated>2020-10-17T21:14:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/2002uyPh2iLJGkROXqNa6g</id>
+    <link href="https://mp.weixin.qq.com/s/2002uyPh2iLJGkROXqNa6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多线程编程的理论和现实（你没看过的视频版）</title>
     <updated>2020-10-16T12:25:36+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-10-08T10:55:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/LmZnx0sCUCPg18KUn8TUlA</id>
     <link href="https://mp.weixin.qq.com/s/LmZnx0sCUCPg18KUn8TUlA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生距离我们有多远</title>
-    <updated>2020-10-07T12:30:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/eOTE5Gq_zpExAFeEEzGhhg</id>
-    <link href="https://mp.weixin.qq.com/s/eOTE5Gq_zpExAFeEEzGhhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T23:12:15+08:00</updated>
+  <updated>2020-10-17T23:12:59+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>MQ，究竟如何保证消息幂等？</title>
+    <updated>2020-10-17T20:40:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/lh1yLcKHDLSCatdA9EY6wQ</id>
+    <link href="https://mp.weixin.qq.com/s/lh1yLcKHDLSCatdA9EY6wQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>读书，但能让你知道为啥没钱</title>
+    <updated>2020-10-17T20:40:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/d3y_b8pUja62Z_Mp6s0fQw</id>
+    <link href="https://mp.weixin.qq.com/s/d3y_b8pUja62Z_Mp6s0fQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>假期，可以看这4本书</title>
     <updated>2020-10-05T20:26:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-05:/s/CAwm3JCphHNyapo3kK0iPg</id>
     <link href="https://mp.weixin.qq.com/s/CAwm3JCphHNyapo3kK0iPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Java面试手册》.pdf</title>
-    <updated>2020-10-05T20:26:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-05:/s/JH6SzclBTtpQfor3XL9brA</id>
-    <link href="https://mp.weixin.qq.com/s/JH6SzclBTtpQfor3XL9brA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +96,6 @@
     <updated>2020-09-06T15:59:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-06:/s/QVllYeBPAtb_vtGwWSMXLQ</id>
     <link href="https://mp.weixin.qq.com/s/QVllYeBPAtb_vtGwWSMXLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有些事情，现在不想就晚了</title>
-    <updated>2020-09-03T09:48:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-03:/s/ckfEfFOwKa7Moa0lu_RMcw</id>
-    <link href="https://mp.weixin.qq.com/s/ckfEfFOwKa7Moa0lu_RMcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
