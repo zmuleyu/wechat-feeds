@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T16:13:24+08:00</updated>
+  <updated>2020-10-17T16:12:39+08:00</updated>
   <subtitle>面向AI爱好者、开发者和科学家，提供AI领域技术资讯、一线业界实践案例、搜罗整理业界技术分享干货、AI论文解读。每周一节技术分享公开课，助力你全面拥抱人工智能技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试造核弹：细数那些有毒的开发岗位描述</title>
+    <updated>2020-10-16T16:31:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/5WY5qUsCZqvB97wPUFTlAg</id>
+    <link href="https://mp.weixin.qq.com/s/5WY5qUsCZqvB97wPUFTlAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生时代企业如何构建流数据平台 | InfoQ 公开课</title>
+    <updated>2020-10-16T16:31:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/HpNghA_9dbA90eaExU2xkQ</id>
+    <link href="https://mp.weixin.qq.com/s/HpNghA_9dbA90eaExU2xkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>NVIDIA开源NeMo：基于PyTorch，允许快速创建会话式人工智能模型</title>
+    <updated>2020-10-16T16:31:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/gynIcNaxlHS-JtLgUj0rZg</id>
+    <link href="https://mp.weixin.qq.com/s/gynIcNaxlHS-JtLgUj0rZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>iPhone 12 made in印度，苹果会逐步放弃中国制造吗？</title>
     <updated>2020-10-16T10:43:19+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-11T09:22:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/VPZCOPwDV_iSw7vlj1jdJQ</id>
     <link href="https://mp.weixin.qq.com/s/VPZCOPwDV_iSw7vlj1jdJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年Java语言发展现状</title>
-    <updated>2020-10-10T09:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/_etIRJD6OzJIYe1ytXpGyw</id>
-    <link href="https://mp.weixin.qq.com/s/_etIRJD6OzJIYe1ytXpGyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯看点基于Flink+ClickHouse的实时数据系统实践 | InfoQ 公开课</title>
-    <updated>2020-10-10T09:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/daPSams39uvkO9dX_3b7mg</id>
-    <link href="https://mp.weixin.qq.com/s/daPSams39uvkO9dX_3b7mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux主要发行版目前面临的问题：钱足够但很缺人！</title>
-    <updated>2020-10-10T09:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/PBXBvTam1-RO8qCxOLlJLw</id>
-    <link href="https://mp.weixin.qq.com/s/PBXBvTam1-RO8qCxOLlJLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
