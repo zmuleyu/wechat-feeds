@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:19:55+08:00</updated>
+  <updated>2020-10-17T11:10:50+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>细数九种常见的设计模式</title>
+    <updated>2020-10-16T19:02:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/WkF4laAY_PuExCjO0xkECw</id>
+    <link href="https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
+    <updated>2020-10-16T19:02:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/eRvLtyyvHaOdKZtPhAw_Gg</id>
+    <link href="https://mp.weixin.qq.com/s/eRvLtyyvHaOdKZtPhAw_Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-10-16T19:02:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/S8rna9Oe23iV9SX-_fQw-Q</id>
+    <link href="https://mp.weixin.qq.com/s/S8rna9Oe23iV9SX-_fQw-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇舞周刊第 368 期：Chrome 启用缓存分区机制</title>
     <updated>2020-10-16T16:50:47+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-09T17:29:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/6byGV9gIsvoR5Dl-IsAMlQ</id>
     <link href="https://mp.weixin.qq.com/s/6byGV9gIsvoR5Dl-IsAMlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 366 期：前端女生职业路</title>
-    <updated>2020-10-03T17:05:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/nxSoj9xpbpV8dm_HWJ1QVw</id>
-    <link href="https://mp.weixin.qq.com/s/nxSoj9xpbpV8dm_HWJ1QVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你的Tree-Shaking真的起作用了吗</title>
-    <updated>2020-09-30T15:30:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/WncaUekzCWEVspuaNbv8Sw</id>
-    <link href="https://mp.weixin.qq.com/s/WncaUekzCWEVspuaNbv8Sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-09-30T15:30:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/gkl5S7yjYzqeELembTrNqg</id>
-    <link href="https://mp.weixin.qq.com/s/gkl5S7yjYzqeELembTrNqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
