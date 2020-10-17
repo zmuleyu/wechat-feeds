@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T07:15:24+08:00</updated>
+  <updated>2020-10-18T07:16:04+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2090期】webpack 5 正式发布了</title>
+    <updated>2020-10-18T07:09:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/jvsfoCNAHTTuHKss2jp4bQ</id>
+    <link href="https://mp.weixin.qq.com/s/jvsfoCNAHTTuHKss2jp4bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2089期】从编译过程，理解 Vue3 静态节点提升过程</title>
     <updated>2020-10-17T06:42:52+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-10-09T07:30:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/WpsMJe7rPkjFpyF1eKiouA</id>
     <link href="https://mp.weixin.qq.com/s/WpsMJe7rPkjFpyF1eKiouA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2080期】阿里 ChatUI 开源：让对话美而简单</title>
-    <updated>2020-09-30T06:17:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/KOI-2uFTY1VX6YFXkkc47A</id>
-    <link href="https://mp.weixin.qq.com/s/KOI-2uFTY1VX6YFXkkc47A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
