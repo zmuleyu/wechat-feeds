@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:20:10+08:00</updated>
+  <updated>2020-10-17T20:14:16+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>什么是真正的程序员？</title>
+    <updated>2020-10-17T20:00:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/ZNYCoKLwOKFNzsFDErHAZQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZNYCoKLwOKFNzsFDErHAZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>周末过得太快？别荒废啦！</title>
+    <updated>2020-10-17T20:00:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/zBt4Q5DyW6HJUZ63WeNjmA</id>
+    <link href="https://mp.weixin.qq.com/s/zBt4Q5DyW6HJUZ63WeNjmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>30 岁的程序员出路在哪里？| 码农周刊第 321 期</title>
     <updated>2020-10-16T20:08:39+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-28T20:05:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/qhGCee4gYYYc8zHhpC8O6A</id>
     <link href="https://mp.weixin.qq.com/s/qhGCee4gYYYc8zHhpC8O6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式事务精华总结篇，实打实的干货</title>
-    <updated>2020-09-27T22:00:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/Sy75YRbMaMyEWzJXiYJdqg</id>
-    <link href="https://mp.weixin.qq.com/s/Sy75YRbMaMyEWzJXiYJdqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>认知 | 腾讯技术大咖推荐书单</title>
-    <updated>2020-09-27T22:00:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/6_MVb48I54sx7eakw6IGDg</id>
-    <link href="https://mp.weixin.qq.com/s/6_MVb48I54sx7eakw6IGDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
