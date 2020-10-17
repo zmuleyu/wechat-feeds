@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T23:14:44+08:00</updated>
+  <updated>2020-10-18T01:14:12+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：任命管理员，给Laravel普通用户提权</title>
+    <updated>2020-10-17T23:15:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/ZtgQu9evCNDuvB42u4vjTQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZtgQu9evCNDuvB42u4vjTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：为了你少跳坑，Laravel写好了用户授权</title>
     <updated>2020-10-16T20:47:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-08T21:43:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/kK2hyoaz91w7nzF59kBzyA</id>
     <link href="https://mp.weixin.qq.com/s/kK2hyoaz91w7nzF59kBzyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：Laravel模型创建数据条目的2个语法糖</title>
-    <updated>2020-10-07T22:07:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/Ie6GiAVHqP35OlYqTCe4tA</id>
-    <link href="https://mp.weixin.qq.com/s/Ie6GiAVHqP35OlYqTCe4tA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
