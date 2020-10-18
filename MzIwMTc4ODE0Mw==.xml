@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T23:12:15+08:00</updated>
+  <updated>2020-10-18T23:12:47+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>都说C++难学，那如何才能学的又快又好？</title>
+    <updated>2020-10-18T20:36:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/OstPkwlHfGCAIBDPRkHJig</id>
+    <link href="https://mp.weixin.qq.com/s/OstPkwlHfGCAIBDPRkHJig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>会议交流 - CCKS2020 | 2020年全国知识图谱与语义计算大会</title>
+    <updated>2020-10-18T20:36:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/HGHbKM8gAPj7lgOi9FSrYw</id>
+    <link href="https://mp.weixin.qq.com/s/HGHbKM8gAPj7lgOi9FSrYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何高效入门PyTorch？（文末重聘导师）</title>
     <updated>2020-10-17T20:15:54+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-09T13:08:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/O90j5BfktiFB237OjPemFA</id>
     <link href="https://mp.weixin.qq.com/s/O90j5BfktiFB237OjPemFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于IndRNN的手机传感器动作识别</title>
-    <updated>2020-10-09T13:08:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/dWlN0msn9vMwRUAaqH5_VA</id>
-    <link href="https://mp.weixin.qq.com/s/dWlN0msn9vMwRUAaqH5_VA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FedML联邦机器学习框架正式开源，助力算法开发和性能比较</title>
-    <updated>2020-10-08T14:24:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/hOVLI3Kr50MKx29fkQlwQQ</id>
-    <link href="https://mp.weixin.qq.com/s/hOVLI3Kr50MKx29fkQlwQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

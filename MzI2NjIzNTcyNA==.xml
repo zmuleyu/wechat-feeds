@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T23:14:25+08:00</updated>
+  <updated>2020-10-18T23:17:20+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>IP视频工程师101</title>
+    <updated>2020-10-18T21:48:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/Ys6qlzJfKSVGX1XOGS6Wxw</id>
+    <link href="https://mp.weixin.qq.com/s/Ys6qlzJfKSVGX1XOGS6Wxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VVC并行视频编码技术的回顾与比较分析</title>
     <updated>2020-10-17T21:32:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-08T22:22:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/jjbttww4r4rl0WYO0zWcWw</id>
     <link href="https://mp.weixin.qq.com/s/jjbttww4r4rl0WYO0zWcWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拥塞控制</title>
-    <updated>2020-10-07T20:21:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/yWXiU-yMTY2dcT8Y6j19tQ</id>
-    <link href="https://mp.weixin.qq.com/s/yWXiU-yMTY2dcT8Y6j19tQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

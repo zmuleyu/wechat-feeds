@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T23:12:08+08:00</updated>
+  <updated>2020-10-18T23:13:02+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 TensorFlow 2 识别验证码过程中踩过的坑</title>
+    <updated>2020-10-18T21:10:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/2AihXr4ciFfVyrV-oi_OxQ</id>
+    <link href="https://mp.weixin.qq.com/s/2AihXr4ciFfVyrV-oi_OxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面向对象：秋天当更好，若有你在场</title>
+    <updated>2020-10-18T21:10:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/qbN6kws-r-h2pjcaYOzXow</id>
+    <link href="https://mp.weixin.qq.com/s/qbN6kws-r-h2pjcaYOzXow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Numpy高级操作大全！！！</title>
     <updated>2020-10-17T22:03:20+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-10-08T18:10:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/Nx0sKG8S74-Q78gV5ls4lg</id>
     <link href="https://mp.weixin.qq.com/s/Nx0sKG8S74-Q78gV5ls4lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 3.9 发布，3.10 系列开始释出</title>
-    <updated>2020-10-06T21:33:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-06:/s/-rPBgzFqxWiXwpDzbC6wIQ</id>
-    <link href="https://mp.weixin.qq.com/s/-rPBgzFqxWiXwpDzbC6wIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

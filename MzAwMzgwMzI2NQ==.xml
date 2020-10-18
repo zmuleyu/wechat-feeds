@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T01:14:12+08:00</updated>
+  <updated>2020-10-18T23:15:57+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：太爽了，用Laravel写API接口！</title>
+    <updated>2020-10-18T21:58:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/NwNL7l22tr1Qztcd7kZ6jg</id>
+    <link href="https://mp.weixin.qq.com/s/NwNL7l22tr1Qztcd7kZ6jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：任命管理员，给Laravel普通用户提权</title>
     <updated>2020-10-17T23:15:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-09T10:33:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/Tk9u5WTSttk1DM3jyxa3yA</id>
     <link href="https://mp.weixin.qq.com/s/Tk9u5WTSttk1DM3jyxa3yA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：Laravel说要用软删除，可不要真删</title>
-    <updated>2020-10-08T21:43:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/kK2hyoaz91w7nzF59kBzyA</id>
-    <link href="https://mp.weixin.qq.com/s/kK2hyoaz91w7nzF59kBzyA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
