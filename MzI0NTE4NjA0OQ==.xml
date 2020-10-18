@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T11:13:17+08:00</updated>
+  <updated>2020-10-18T11:13:32+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>搜索引擎新架构：与SQL不得不说的故事</title>
+    <updated>2020-10-17T16:39:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/T0QC6uSvIKXUF0Skm72k_Q</id>
+    <link href="https://mp.weixin.qq.com/s/T0QC6uSvIKXUF0Skm72k_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>揭秘：技术风险如何保障支付宝的稳定性？</title>
     <updated>2020-10-16T16:02:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-09T15:47:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/4Tv8yv3oOBLbkuaotWbHrA</id>
     <link href="https://mp.weixin.qq.com/s/4Tv8yv3oOBLbkuaotWbHrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>4 个场景揭秘，如何低成本让容器化应用 Serverless 化？</title>
-    <updated>2020-10-07T19:39:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-07:/s/t6twjd9-9UK2iLxXlIKVvw</id>
-    <link href="https://mp.weixin.qq.com/s/t6twjd9-9UK2iLxXlIKVvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

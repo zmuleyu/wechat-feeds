@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T11:13:13+08:00</updated>
+  <updated>2020-10-18T11:13:51+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自定义 WorkManager —— 基础概念</title>
+    <updated>2020-10-17T19:03:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/blwtOS3VAIKj2fqQAV6qhQ</id>
+    <link href="https://mp.weixin.qq.com/s/blwtOS3VAIKj2fqQAV6qhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 flutter_driver 进行集成测试</title>
     <updated>2020-10-16T17:46:37+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-09T00:34:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/Ma1IDiKIeX_M-w6iRNyxYQ</id>
     <link href="https://mp.weixin.qq.com/s/Ma1IDiKIeX_M-w6iRNyxYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>倾听开发者反馈，打造更好的 Google Play</title>
-    <updated>2020-09-30T13:17:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/DfaivnL9qVZkTlYPKBGoug</id>
-    <link href="https://mp.weixin.qq.com/s/DfaivnL9qVZkTlYPKBGoug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于 Google Play 结算的常见问题解答</title>
-    <updated>2020-09-30T13:17:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/q9MdyRcsIFlmal1odcTbaw</id>
-    <link href="https://mp.weixin.qq.com/s/q9MdyRcsIFlmal1odcTbaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T11:14:12+08:00</updated>
+  <updated>2020-10-18T11:15:03+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>荔枝微课基础架构的演进与实践</title>
+    <updated>2020-10-18T08:26:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/_DxYdBZfv4--BW2U1DeiDQ</id>
+    <link href="https://mp.weixin.qq.com/s/_DxYdBZfv4--BW2U1DeiDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2020-10-18T08:26:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/LB27uDrYS8yaovxMamjwGw</id>
+    <link href="https://mp.weixin.qq.com/s/LB27uDrYS8yaovxMamjwGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用BuildKit构建容器镜像</title>
     <updated>2020-10-17T08:16:02+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-09T07:38:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/8UuutqMKkLK_hqsvnG9OKg</id>
     <link href="https://mp.weixin.qq.com/s/8UuutqMKkLK_hqsvnG9OKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CNCF宣布Rook项目正式毕业</title>
-    <updated>2020-10-08T09:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/4lykY1r2qdXrl7gBXEpvxw</id>
-    <link href="https://mp.weixin.qq.com/s/4lykY1r2qdXrl7gBXEpvxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训</title>
-    <updated>2020-10-08T09:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/LSOtxyBMsSxrVeqlayRltA</id>
-    <link href="https://mp.weixin.qq.com/s/LSOtxyBMsSxrVeqlayRltA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
