@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T23:11:49+08:00</updated>
+  <updated>2020-10-18T20:15:58+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫画：秒懂DHCP是什么</title>
+    <updated>2020-10-18T16:53:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/Ple66ra1DNQGZYRTSQ1z3g</id>
+    <link href="https://mp.weixin.qq.com/s/Ple66ra1DNQGZYRTSQ1z3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>卧槽！华为工程师总结的5000页Java、LeetCode刷题笔记提供下载，太优秀了！</title>
+    <updated>2020-10-18T16:53:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/xlfYmXhndqZ4QStJGt_sUw</id>
+    <link href="https://mp.weixin.qq.com/s/xlfYmXhndqZ4QStJGt_sUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《Harbor权威指南》新书发布，赠送10本！</title>
     <updated>2020-10-17T21:14:13+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>DDD 有什么用？</title>
-    <updated>2020-10-13T12:59:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/jDyr_d6vfdRMIBiu13BIyg</id>
-    <link href="https://mp.weixin.qq.com/s/jDyr_d6vfdRMIBiu13BIyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>ping TCP端口的实用小工具tcping</title>
     <updated>2020-10-13T12:59:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/kqFTcd4RViMg_9tZi5HVyg</id>
@@ -103,13 +110,6 @@
     <updated>2020-10-08T23:30:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/Av2xff_cjs6EHGw1iLhCtw</id>
     <link href="https://mp.weixin.qq.com/s/Av2xff_cjs6EHGw1iLhCtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>kubernetes中的api聚合机制设计</title>
-    <updated>2020-10-08T10:55:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/LmZnx0sCUCPg18KUn8TUlA</id>
-    <link href="https://mp.weixin.qq.com/s/LmZnx0sCUCPg18KUn8TUlA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

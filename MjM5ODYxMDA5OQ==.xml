@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-17T23:12:59+08:00</updated>
+  <updated>2020-10-18T20:17:10+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10个有意思的架构问题！（送大量技术书籍）</title>
+    <updated>2020-10-18T17:49:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/0IyRzXGzgSKyBBclB96xww</id>
+    <link href="https://mp.weixin.qq.com/s/0IyRzXGzgSKyBBclB96xww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MQ，究竟如何保证消息幂等？</title>
     <updated>2020-10-17T20:40:17+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-09-08T12:01:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-08:/s/LP-0hRfZTH0Nc9t1o9DHPw</id>
     <link href="https://mp.weixin.qq.com/s/LP-0hRfZTH0Nc9t1o9DHPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今天来聊聊，数据库的反范式设计，以及最终一致性</title>
-    <updated>2020-09-06T15:59:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-06:/s/4-IsarFCe6IMJqsxqQX4kw</id>
-    <link href="https://mp.weixin.qq.com/s/4-IsarFCe6IMJqsxqQX4kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明明知道他成功的秘诀，为何就是无法复制？</title>
-    <updated>2020-09-06T15:59:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-06:/s/QVllYeBPAtb_vtGwWSMXLQ</id>
-    <link href="https://mp.weixin.qq.com/s/QVllYeBPAtb_vtGwWSMXLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
