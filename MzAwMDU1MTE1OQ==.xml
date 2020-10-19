@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T20:19:04+08:00</updated>
+  <updated>2020-10-19T11:19:31+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>6种常用的架构设计模式（上）</title>
+    <updated>2020-10-19T11:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/X885MfB0AYww1Oo1FF_ZzA</id>
+    <link href="https://mp.weixin.qq.com/s/X885MfB0AYww1Oo1FF_ZzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>专家说别用 if-else 编码方式，那代码怎么写</title>
     <updated>2020-10-18T16:24:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-28T09:50:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/tfsKRF3n82AUyTEud_pItA</id>
     <link href="https://mp.weixin.qq.com/s/tfsKRF3n82AUyTEud_pItA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爱奇艺微服务监控的探索与实践</title>
-    <updated>2020-09-27T14:38:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/RKvV4o_cBhAEl7oJs0DbkA</id>
-    <link href="https://mp.weixin.qq.com/s/RKvV4o_cBhAEl7oJs0DbkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

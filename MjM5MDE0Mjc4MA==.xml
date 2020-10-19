@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T11:13:34+08:00</updated>
+  <updated>2020-10-19T11:15:48+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>守旧的互联网企业VS创新的传统企业：微软站哪端？</title>
+    <updated>2020-10-18T20:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/8dQUQebIajLzrwsVq5CBXw</id>
+    <link href="https://mp.weixin.qq.com/s/8dQUQebIajLzrwsVq5CBXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用了VS Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质</title>
+    <updated>2020-10-18T20:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/VVCgBWdeRQprDsQR1ipcaQ</id>
+    <link href="https://mp.weixin.qq.com/s/VVCgBWdeRQprDsQR1ipcaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>架构演进与性能优化之路 ｜ QCon+</title>
+    <updated>2020-10-18T20:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/X3DetaN8wT21HTkNy3Ukig</id>
+    <link href="https://mp.weixin.qq.com/s/X3DetaN8wT21HTkNy3Ukig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>易观A10大会震撼来袭，四场活动教你玩转「留量」思维 ｜ Q推荐</title>
+    <updated>2020-10-18T20:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/h0goOjOP3FJRxlV-bcKmxQ</id>
+    <link href="https://mp.weixin.qq.com/s/h0goOjOP3FJRxlV-bcKmxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 开发过程那么麻烦，是否值得？</title>
+    <updated>2020-10-18T20:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/0QKL8lsIddR4ajZXCrXURA</id>
+    <link href="https://mp.weixin.qq.com/s/0QKL8lsIddR4ajZXCrXURA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>池建强：过去三年很短，只有极客时间</title>
     <updated>2020-10-18T09:30:09+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-15T15:14:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/dyCrv-fjN9cGcQXlcl3q1A</id>
     <link href="https://mp.weixin.qq.com/s/dyCrv-fjN9cGcQXlcl3q1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万亿数据 | 腾讯看点多维实时分析系统技术架构</title>
-    <updated>2020-10-15T15:14:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/dYQYQGXT0t4hu9BXDuTOVw</id>
-    <link href="https://mp.weixin.qq.com/s/dYQYQGXT0t4hu9BXDuTOVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>收购云原生鼻祖Pivotal的大厂，如何定义云原生？</title>
-    <updated>2020-10-15T15:14:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/MEaeKtbW2rZzNHDgC0XAVw</id>
-    <link href="https://mp.weixin.qq.com/s/MEaeKtbW2rZzNHDgC0XAVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>踏入开放AI生态就是这么简单：AWS为你打开新世界大门 ｜ Q推荐</title>
-    <updated>2020-10-15T15:14:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/rayDfwKwmgTz10JvCacitQ</id>
-    <link href="https://mp.weixin.qq.com/s/rayDfwKwmgTz10JvCacitQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Core vs Node.js：你应该选择哪个？</title>
-    <updated>2020-10-15T15:14:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/KM2aiF-3SedSYhRErCZ7lA</id>
-    <link href="https://mp.weixin.qq.com/s/KM2aiF-3SedSYhRErCZ7lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iPhone 12 made in印度，苹果会选择印度取代中国制造吗？</title>
-    <updated>2020-10-14T13:55:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/Ez3P7IYdD4Ibf3hvYsFE2A</id>
-    <link href="https://mp.weixin.qq.com/s/Ez3P7IYdD4Ibf3hvYsFE2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T11:11:34+08:00</updated>
+  <updated>2020-10-19T11:12:50+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>吊打字节跳动面试官是种什么体验？</title>
+    <updated>2020-10-18T23:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/beRMFi580Pu7yMMTKFKLGg</id>
+    <link href="https://mp.weixin.qq.com/s/beRMFi580Pu7yMMTKFKLGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>delete后加 limit是个好习惯么 ？</title>
+    <updated>2020-10-18T23:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/6wuRoPJ1btIJVf_kZDZ-8Q</id>
+    <link href="https://mp.weixin.qq.com/s/6wuRoPJ1btIJVf_kZDZ-8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见了字节跳动！秋招超6000人，但剩的机会不多了。。。</title>
     <updated>2020-10-17T21:29:14+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-10-08T19:40:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/AElHaWWbbUp1UMHxZZPMtQ</id>
     <link href="https://mp.weixin.qq.com/s/AElHaWWbbUp1UMHxZZPMtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL死锁产生原因和解决方法</title>
-    <updated>2020-10-08T18:21:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/F3IPSiKzabuDd8S5UKI-WQ</id>
-    <link href="https://mp.weixin.qq.com/s/F3IPSiKzabuDd8S5UKI-WQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

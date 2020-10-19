@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-12T11:13:43+08:00</updated>
+  <updated>2020-10-19T11:16:33+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>iOS性能优化实践：头条抖音如何实现OOM崩溃率下降50%+</title>
+    <updated>2020-10-19T09:48:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/4-4M9E8NziAgshlwB7Sc6g</id>
+    <link href="https://mp.weixin.qq.com/s/4-4M9E8NziAgshlwB7Sc6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动全链路压测(Rhino)的实践</title>
     <updated>2020-10-12T09:58:18+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-08-14T16:35:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-14:/s/ITSkV8TLPsAgm5-Jc09VrQ</id>
     <link href="https://mp.weixin.qq.com/s/ITSkV8TLPsAgm5-Jc09VrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>沙龙回顾｜ClickHouse 在字节广告 DMP&amp; CDP 的应用</title>
-    <updated>2020-08-11T12:00:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-11:/s/lYjIfKS8k9ZHPrxBRYOBrw</id>
-    <link href="https://mp.weixin.qq.com/s/lYjIfKS8k9ZHPrxBRYOBrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播沙龙报名 | ClickHouse 在实时场景的应用和优化</title>
-    <updated>2020-08-11T12:00:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-11:/s/tN--5AH4wRFBY1Z1mBdnjA</id>
-    <link href="https://mp.weixin.qq.com/s/tN--5AH4wRFBY1Z1mBdnjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
