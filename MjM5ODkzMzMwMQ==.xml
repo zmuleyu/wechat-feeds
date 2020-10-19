@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T20:16:55+08:00</updated>
+  <updated>2020-10-19T23:15:09+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>怎样动手高效学习PyTorch框架？</title>
+    <updated>2020-10-19T19:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/ZnX5O0B-J8LciWndXVw-tw</id>
+    <link href="https://mp.weixin.qq.com/s/ZnX5O0B-J8LciWndXVw-tw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BERT4Rec:使用Bert进行序列推荐</title>
+    <updated>2020-10-19T19:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/QwQgxhA9tNHuziqFp-qiOw</id>
+    <link href="https://mp.weixin.qq.com/s/QwQgxhA9tNHuziqFp-qiOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>FastBERT-CPU推理加速10倍</title>
+    <updated>2020-10-19T19:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/ST9Ksa-wWQc_0P1kvLVRdQ</id>
+    <link href="https://mp.weixin.qq.com/s/ST9Ksa-wWQc_0P1kvLVRdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你应该知道的LightGBM各种操作！</title>
+    <updated>2020-10-19T19:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/ou-rGwLpYPQUwxHqx5wHEQ</id>
+    <link href="https://mp.weixin.qq.com/s/ou-rGwLpYPQUwxHqx5wHEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>cross-modal retrieval 跨模态专题-5</title>
+    <updated>2020-10-19T19:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/HnAEzMZbGQBFLphtoLjZbg</id>
+    <link href="https://mp.weixin.qq.com/s/HnAEzMZbGQBFLphtoLjZbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有人拼模型吗？</title>
     <updated>2020-10-18T19:56:43+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-15T19:37:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/GAHv63617mPi3yFul_8Zng</id>
     <link href="https://mp.weixin.qq.com/s/GAHv63617mPi3yFul_8Zng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>EMNLP2020：一种多层对多层的BERT蒸馏方法</title>
-    <updated>2020-10-15T19:37:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/w1sT126jS_lZ_Q3cRi6fGQ</id>
-    <link href="https://mp.weixin.qq.com/s/w1sT126jS_lZ_Q3cRi6fGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谷歌开源Embedding可视化工具</title>
-    <updated>2020-10-15T19:37:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/0eThEnoc-WNmsM6E5avTnA</id>
-    <link href="https://mp.weixin.qq.com/s/0eThEnoc-WNmsM6E5avTnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【DST系列】DST方法分类</title>
-    <updated>2020-10-15T19:37:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/ShcvpDa9EOQLokSbdLGlHA</id>
-    <link href="https://mp.weixin.qq.com/s/ShcvpDa9EOQLokSbdLGlHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Bert知识蒸馏系列(一)：什么是知识蒸馏</title>
-    <updated>2020-10-15T19:37:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/35QaOwA8agQku5tKnUjCKg</id>
-    <link href="https://mp.weixin.qq.com/s/35QaOwA8agQku5tKnUjCKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>语音信号处理：基本方法与前沿技术</title>
-    <updated>2020-10-14T18:30:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/pTjtrCuQsJUrSl5MEVkm5g</id>
-    <link href="https://mp.weixin.qq.com/s/pTjtrCuQsJUrSl5MEVkm5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

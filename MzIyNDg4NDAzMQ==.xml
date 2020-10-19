@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇遇电影 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T23:17:49+08:00</updated>
+  <updated>2020-10-19T23:19:30+08:00</updated>
   <subtitle>一个有趣、有料的电影号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在平遥最后的夜晚</title>
+    <updated>2020-10-19T22:20:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/JDi5c8r7957PFENgeCz2QA</id>
+    <link href="https://mp.weixin.qq.com/s/JDi5c8r7957PFENgeCz2QA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>贾樟柯宣布退出平遥影展</title>
     <updated>2020-10-18T21:28:10+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-10-01T23:35:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-01:/s/nAz-8cqcILDrup0QmBOxCg</id>
     <link href="https://mp.weixin.qq.com/s/nAz-8cqcILDrup0QmBOxCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>天啊，金马影展竟然要放这部神作了！</title>
-    <updated>2020-09-30T23:00:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/Ss6NYI9hPBNCXIgvsWRfqA</id>
-    <link href="https://mp.weixin.qq.com/s/Ss6NYI9hPBNCXIgvsWRfqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

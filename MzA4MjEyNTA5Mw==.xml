@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T23:13:02+08:00</updated>
+  <updated>2020-10-19T23:13:30+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python装饰器（你想知道的这里都有）</title>
+    <updated>2020-10-19T21:54:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/GSM6OH6S2FE__7apszJO6A</id>
+    <link href="https://mp.weixin.qq.com/s/GSM6OH6S2FE__7apszJO6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 TensorFlow 2 识别验证码过程中踩过的坑</title>
     <updated>2020-10-18T21:10:35+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-10-10T23:30:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/sRI0Q4BWoVDH8h03UYhljg</id>
     <link href="https://mp.weixin.qq.com/s/sRI0Q4BWoVDH8h03UYhljg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于 Python3.9，看这张 16 岁高中生做的「新特性必知图」就够了</title>
-    <updated>2020-10-08T18:10:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/Nx0sKG8S74-Q78gV5ls4lg</id>
-    <link href="https://mp.weixin.qq.com/s/Nx0sKG8S74-Q78gV5ls4lg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
