@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T11:13:32+08:00</updated>
+  <updated>2020-10-19T20:19:54+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在淘宝，我们是这样衡量代码质量的</title>
+    <updated>2020-10-19T15:36:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/0IdR0JamKGu_gU-MMen_zg</id>
+    <link href="https://mp.weixin.qq.com/s/0IdR0JamKGu_gU-MMen_zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>搜索引擎新架构：与SQL不得不说的故事</title>
     <updated>2020-10-17T16:39:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-10T17:04:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/w51LrR5SJYfsjO2KK8uBBg</id>
     <link href="https://mp.weixin.qq.com/s/w51LrR5SJYfsjO2KK8uBBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Bilibili资深运维工程师：DCDN在游戏应用加速中的实践</title>
-    <updated>2020-10-09T15:47:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/4Tv8yv3oOBLbkuaotWbHrA</id>
-    <link href="https://mp.weixin.qq.com/s/4Tv8yv3oOBLbkuaotWbHrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

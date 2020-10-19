@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:20:27+08:00</updated>
+  <updated>2020-10-19T20:16:21+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow Recommenders 现已开源，让推荐系统更上一层楼！</title>
+    <updated>2020-10-19T17:37:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/qjMBs3_vCT9luNZo24kBOw</id>
+    <link href="https://mp.weixin.qq.com/s/qjMBs3_vCT9luNZo24kBOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 TensorFlow.js 探索 BERT 在浏览器中的趣味实践</title>
     <updated>2020-10-16T19:47:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-27T17:01:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/JabnwkT4oKqPI8xytMDO5Q</id>
     <link href="https://mp.weixin.qq.com/s/JabnwkT4oKqPI8xytMDO5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>经验总结：使用 TensorFlow 2 识别验证码过程中踩过的坑</title>
-    <updated>2020-09-25T11:47:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/6VOkAifgAPoP4_5tUqV5fQ</id>
-    <link href="https://mp.weixin.qq.com/s/6VOkAifgAPoP4_5tUqV5fQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
