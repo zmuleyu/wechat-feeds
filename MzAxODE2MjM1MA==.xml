@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-18T23:10:37+08:00</updated>
+  <updated>2020-10-19T13:10:52+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？</title>
+    <updated>2020-10-18T22:29:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/04AxPuROAnEvyQCBGcIjXQ</id>
+    <link href="https://mp.weixin.qq.com/s/04AxPuROAnEvyQCBGcIjXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Vue 中 Axios 的封装和 API 接口的管理</title>
+    <updated>2020-10-18T22:29:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/eHCq-9yKZ6nBkCzoWtUP9A</id>
+    <link href="https://mp.weixin.qq.com/s/eHCq-9yKZ6nBkCzoWtUP9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2 年前端 7～9 月面试经历总结</title>
     <updated>2020-10-18T21:30:55+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-10-10T19:15:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/1YDDCiDUMtxFlGQ94aoItg</id>
     <link href="https://mp.weixin.qq.com/s/1YDDCiDUMtxFlGQ94aoItg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>做了 8 年前端，看透了裁人的套路</title>
-    <updated>2020-10-08T22:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/38MrArWfvVwKCbGdNAfEwA</id>
-    <link href="https://mp.weixin.qq.com/s/38MrArWfvVwKCbGdNAfEwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端赋能业务：Node实现自动化部署平台</title>
-    <updated>2020-10-08T22:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/YQD2W7h5WcGugIOVOd3lGg</id>
-    <link href="https://mp.weixin.qq.com/s/YQD2W7h5WcGugIOVOd3lGg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
