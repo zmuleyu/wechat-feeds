@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>健康中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T23:17:33+08:00</updated>
+  <updated>2020-10-20T11:15:29+08:00</updated>
   <subtitle>卫生健康信息发布</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>截至10月19日24时新型冠状病毒肺炎疫情最新情况</title>
+    <updated>2020-10-20T08:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/T6jA69cPrkpPv8X7W7GhUw</id>
+    <link href="https://mp.weixin.qq.com/s/T6jA69cPrkpPv8X7W7GhUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>国家卫生健康委员会发布慎吃长时间发酵的酵米面类食品的提示</title>
     <updated>2020-10-19T21:32:54+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-17T08:15:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/DY6RQSEZgj76VdH1zlM3fA</id>
     <link href="https://mp.weixin.qq.com/s/DY6RQSEZgj76VdH1zlM3fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>被称为“怪病”，布鲁氏菌病到底怪在哪儿？</title>
-    <updated>2020-10-16T21:07:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/RMYdeLNahs1FFwgf8q_bzg</id>
-    <link href="https://mp.weixin.qq.com/s/RMYdeLNahs1FFwgf8q_bzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

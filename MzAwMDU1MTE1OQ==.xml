@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T11:19:31+08:00</updated>
+  <updated>2020-10-20T11:18:22+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>刚看完 Kafka 源码，各位随便问！</title>
+    <updated>2020-10-20T00:03:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/dwIhloPidHfudgS7VYazFA</id>
+    <link href="https://mp.weixin.qq.com/s/dwIhloPidHfudgS7VYazFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>6种常用的架构设计模式（上）</title>
     <updated>2020-10-19T11:10:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-29T14:58:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/Ikl_xcXOGsB7xmcCbrRXFw</id>
     <link href="https://mp.weixin.qq.com/s/Ikl_xcXOGsB7xmcCbrRXFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>廖雪峰大数据团队研发的&#34;开车宝典&#34;再次曝光，手慢删！</title>
-    <updated>2020-09-28T09:50:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/tfsKRF3n82AUyTEud_pItA</id>
-    <link href="https://mp.weixin.qq.com/s/tfsKRF3n82AUyTEud_pItA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

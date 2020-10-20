@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T16:14:25+08:00</updated>
+  <updated>2020-10-20T11:13:42+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今年第17号台风“沙德尔”生成！华南沿海和南部海域有强风雨</title>
+    <updated>2020-10-20T10:10:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/DkF7QRPZZxO2CfsqvV5-fQ</id>
+    <link href="https://mp.weixin.qq.com/s/DkF7QRPZZxO2CfsqvV5-fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>冷空气“杀回马枪”！今年第17号台风将生成 | 天气展望</title>
     <updated>2020-10-19T14:34:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-15T12:02:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/sJRc04lLsfNBJBopcj1XOQ</id>
     <link href="https://mp.weixin.qq.com/s/sJRc04lLsfNBJBopcj1XOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>传说中的“红叶预报”，真能带你看“枫”景吗？</title>
-    <updated>2020-10-14T15:56:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/GRsAZFApqAXXd4kesT-N8Q</id>
-    <link href="https://mp.weixin.qq.com/s/GRsAZFApqAXXd4kesT-N8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

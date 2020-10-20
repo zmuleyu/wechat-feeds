@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴中间件 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-21T22:06:31+08:00</updated>
+  <updated>2020-10-20T11:15:07+08:00</updated>
   <subtitle>Aliware阿里巴巴中间件官方账号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何通过 Serverless 技术降低微服务应用资源成本？</title>
+    <updated>2020-10-20T00:27:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/1jCnO2-R0TULtFNcI-6_JQ</id>
+    <link href="https://mp.weixin.qq.com/s/1jCnO2-R0TULtFNcI-6_JQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>考拉海购全面云原生迁移之路</title>
+    <updated>2020-10-20T00:27:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/O_--B5lNirATeGo185NxgA</id>
+    <link href="https://mp.weixin.qq.com/s/O_--B5lNirATeGo185NxgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>130 秒揭秘 EDAS 3.0 如何平滑应对突发流量高峰</title>
+    <updated>2020-10-20T00:27:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/5dU8MunbGTkN4u0-uv01xQ</id>
+    <link href="https://mp.weixin.qq.com/s/5dU8MunbGTkN4u0-uv01xQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何无侵入管理所有的微服务接口？</title>
+    <updated>2020-10-20T00:27:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/u_t9Jy6VhBDJtg34eseo7w</id>
+    <link href="https://mp.weixin.qq.com/s/u_t9Jy6VhBDJtg34eseo7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Serverless X OpenKruise 部署效率优化之道</title>
+    <updated>2020-10-20T00:27:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/K3EZ90hM8hEzZjwcaG4OVQ</id>
+    <link href="https://mp.weixin.qq.com/s/K3EZ90hM8hEzZjwcaG4OVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Serverless：云计算的下一个10年</title>
     <updated>2020-09-18T13:24:21+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-08-21T18:07:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-21:/s/ddrfBRiAewxHDfUdL3X3ng</id>
     <link href="https://mp.weixin.qq.com/s/ddrfBRiAewxHDfUdL3X3ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>案例速览 | 如何为3~12岁孩子提供全方面监控能力？</title>
-    <updated>2020-08-21T18:07:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-21:/s/Igl0PpEUpfknLWs8xzEW1Q</id>
-    <link href="https://mp.weixin.qq.com/s/Igl0PpEUpfknLWs8xzEW1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想成为数据专家？听听 AI 大神贾扬清怎么说</title>
-    <updated>2020-08-21T18:07:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-21:/s/PJZkqq8h-syBbdATcpArKw</id>
-    <link href="https://mp.weixin.qq.com/s/PJZkqq8h-syBbdATcpArKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么下一个十年的主战场在Serverless | 云原生Talk</title>
-    <updated>2020-08-15T13:54:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-15:/s/5TdeJABMnA2xaSyNIIPITQ</id>
-    <link href="https://mp.weixin.qq.com/s/5TdeJABMnA2xaSyNIIPITQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>民生银行场景化数据中台是如何炼成的？</title>
-    <updated>2020-08-15T13:54:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-15:/s/vryYIY4gOrgONTBngASWxw</id>
-    <link href="https://mp.weixin.qq.com/s/vryYIY4gOrgONTBngASWxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高于平常 10 倍的视频需求，却节省 60% 的 IT 成本，怎么做到的？</title>
-    <updated>2020-08-15T13:54:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-15:/s/nu0bI--ZChbvpswBSzrHpg</id>
-    <link href="https://mp.weixin.qq.com/s/nu0bI--ZChbvpswBSzrHpg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

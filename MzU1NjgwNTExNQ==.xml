@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T11:17:04+08:00</updated>
+  <updated>2020-10-20T11:17:08+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VS Code Java 九月更新！Coding Pack for Java 带来一键安装新体验！</title>
+    <updated>2020-10-19T23:29:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/SUHZXck6FuYeez9SGjB-OA</id>
+    <link href="https://mp.weixin.qq.com/s/SUHZXck6FuYeez9SGjB-OA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一套完整的 后台管理系统，赚钱就靠它了！</title>
     <updated>2020-10-18T12:59:23+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-10-10T14:13:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/55TpnD2sAxQaWCXkJt5HGg</id>
     <link href="https://mp.weixin.qq.com/s/55TpnD2sAxQaWCXkJt5HGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 3.9发布，3.10系列开始释出</title>
-    <updated>2020-10-08T16:09:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-08:/s/htV3Tjd737N9dI-wMaMnAw</id>
-    <link href="https://mp.weixin.qq.com/s/htV3Tjd737N9dI-wMaMnAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
