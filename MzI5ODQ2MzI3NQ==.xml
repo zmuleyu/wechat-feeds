@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T20:17:40+08:00</updated>
+  <updated>2020-10-20T13:13:48+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL从入门到放弃！</title>
+    <updated>2020-10-20T12:34:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/9jDoA7PNaiJmXwutQFLeDg</id>
+    <link href="https://mp.weixin.qq.com/s/9jDoA7PNaiJmXwutQFLeDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我真的需要Kubernetes吗？</title>
+    <updated>2020-10-20T12:34:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/a5CDbKG3iikT0yUAHQ3aZg</id>
+    <link href="https://mp.weixin.qq.com/s/a5CDbKG3iikT0yUAHQ3aZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐一款Serverless神器，助力企业容器化改造简单高效</title>
     <updated>2020-10-19T18:09:42+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-10-11T17:33:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/lNxTW_MpCzj6RWADrpQEMg</id>
     <link href="https://mp.weixin.qq.com/s/lNxTW_MpCzj6RWADrpQEMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：一分钟快速了解VPN</title>
-    <updated>2020-10-10T18:28:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/aK_gSGZPnk1Ao37wjjAZug</id>
-    <link href="https://mp.weixin.qq.com/s/aK_gSGZPnk1Ao37wjjAZug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
