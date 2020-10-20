@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱计算机视觉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T23:19:40+08:00</updated>
+  <updated>2020-10-20T16:24:15+08:00</updated>
   <subtitle>关注计算机视觉与机器学习技术的最前沿，“有价值有深度”，分享开源技术与最新论文解读，传播CVML技术的业内最佳实践。www.52cv.net QQ群: 805388940，CV君个人账号：Your-Word。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -106,13 +106,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为了进某厂，需要刷爆多少ACM算法题！</title>
-    <updated>2020-10-15T23:50:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/y-MyNb3PINA9DHUh6B3r3g</id>
-    <link href="https://mp.weixin.qq.com/s/y-MyNb3PINA9DHUh6B3r3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>ECCV 2020 论文大盘点-图像增强与图像恢复篇</title>
     <updated>2020-10-15T23:50:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/uVw1w6ylgB9XxnBcu83lhA</id>
@@ -145,6 +138,13 @@
     <updated>2020-10-14T23:47:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/hg1F-wvvbIHTgP5rq1Pxcg</id>
     <link href="https://mp.weixin.qq.com/s/hg1F-wvvbIHTgP5rq1Pxcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数据类别不平衡/长尾分布？不妨利用半监督或自监督学习</title>
+    <updated>2020-10-14T23:47:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-14:/s/hYjL9Ct9TxChTG4YQ5qezQ</id>
+    <link href="https://mp.weixin.qq.com/s/hYjL9Ct9TxChTG4YQ5qezQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
