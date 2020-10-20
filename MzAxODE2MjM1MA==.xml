@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T13:10:52+08:00</updated>
+  <updated>2020-10-20T20:15:12+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ES11新增的这9个新特性，你都掌握了吗？</title>
+    <updated>2020-10-20T15:34:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/q8G82BJE1O6Kz031RNBLbw</id>
+    <link href="https://mp.weixin.qq.com/s/q8G82BJE1O6Kz031RNBLbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？</title>
     <updated>2020-10-18T22:29:14+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-10-11T21:34:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/0aXxEYhDx0fI5-1BAo4ZLw</id>
     <link href="https://mp.weixin.qq.com/s/0aXxEYhDx0fI5-1BAo4ZLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谁说前端不用懂，手摸手 Docker 从入门到实践</title>
-    <updated>2020-10-10T19:15:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/1YDDCiDUMtxFlGQ94aoItg</id>
-    <link href="https://mp.weixin.qq.com/s/1YDDCiDUMtxFlGQ94aoItg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

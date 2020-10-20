@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T23:15:09+08:00</updated>
+  <updated>2020-10-20T20:19:38+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>除了 Tensorflow、PyTorch ，还有哪些深度学习框架值得期待？</title>
+    <updated>2020-10-20T18:48:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/22WnkACpp-RTLaBiKKYaPw</id>
+    <link href="https://mp.weixin.qq.com/s/22WnkACpp-RTLaBiKKYaPw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐系统中的排序学习</title>
+    <updated>2020-10-20T18:48:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/oh9yWyFwTDvq2mpt2mg7NA</id>
+    <link href="https://mp.weixin.qq.com/s/oh9yWyFwTDvq2mpt2mg7NA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>重要的，是那些训练中被多次遗忘的样本</title>
+    <updated>2020-10-20T18:48:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/uDyxavcLCEkLaWrDGmu7QA</id>
+    <link href="https://mp.weixin.qq.com/s/uDyxavcLCEkLaWrDGmu7QA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>课程笔记：深度学习与人类语言处理 ——李宏毅，2020 (P5)</title>
+    <updated>2020-10-20T18:48:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/HGeSMy05JEBytte5ZP5myA</id>
+    <link href="https://mp.weixin.qq.com/s/HGeSMy05JEBytte5ZP5myA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>赛尔原创 | 基于文本蕴含识别的答案验证技术研究</title>
+    <updated>2020-10-20T18:48:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/YXbVBaK0ttmCiH_zwZA8bQ</id>
+    <link href="https://mp.weixin.qq.com/s/YXbVBaK0ttmCiH_zwZA8bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>怎样动手高效学习PyTorch框架？</title>
     <updated>2020-10-19T19:03:13+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-16T18:47:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/61OtI7toKS6YtdrAddH9mg</id>
     <link href="https://mp.weixin.qq.com/s/61OtI7toKS6YtdrAddH9mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>夺冠 or 姜子牙？ChatBot帮你搞定：基于话题引导的对话推荐系统</title>
-    <updated>2020-10-16T18:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/xsxpVwXBBUjAhBgcFb9nXA</id>
-    <link href="https://mp.weixin.qq.com/s/xsxpVwXBBUjAhBgcFb9nXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【文本摘要】Text Summarization文本摘要与注意力机制</title>
-    <updated>2020-10-16T18:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/OD_2qkhUzQ1L7LXA_KqfLA</id>
-    <link href="https://mp.weixin.qq.com/s/OD_2qkhUzQ1L7LXA_KqfLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习算法中分类知识总结！</title>
-    <updated>2020-10-16T18:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/NxFz6PmO9sMSsDPZ4NNGbg</id>
-    <link href="https://mp.weixin.qq.com/s/NxFz6PmO9sMSsDPZ4NNGbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>助攻篇 | 一份转ML的面试心得记录</title>
-    <updated>2020-10-16T18:47:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/Gct6LH8CWCMCcVyUaSYpdQ</id>
-    <link href="https://mp.weixin.qq.com/s/Gct6LH8CWCMCcVyUaSYpdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想快速开发和部署深度学习模型？推荐一个硬核工具</title>
-    <updated>2020-10-15T19:37:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/GAHv63617mPi3yFul_8Zng</id>
-    <link href="https://mp.weixin.qq.com/s/GAHv63617mPi3yFul_8Zng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

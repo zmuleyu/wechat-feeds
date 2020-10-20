@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T20:15:39+08:00</updated>
+  <updated>2020-10-20T20:15:46+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MTSC2020 所有议题放出！总有你感兴趣的议题！</title>
+    <updated>2020-10-20T20:00:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/0XlYtos7Dg1uZZd8WH4-6w</id>
+    <link href="https://mp.weixin.qq.com/s/0XlYtos7Dg1uZZd8WH4-6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>什么是计算机图形学？</title>
     <updated>2020-10-19T19:45:09+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-10-09T20:00:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/Gsdtjrw2Og8fh2Lbrl16hw</id>
     <link href="https://mp.weixin.qq.com/s/Gsdtjrw2Og8fh2Lbrl16hw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这三年被分布式坑惨了，曝光十大坑</title>
-    <updated>2020-09-29T20:00:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/XpC-WjaGShmp5lS0-G0N9g</id>
-    <link href="https://mp.weixin.qq.com/s/XpC-WjaGShmp5lS0-G0N9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | Ant Design Pro 的 Vue 实现版本</title>
-    <updated>2020-09-29T20:00:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/rB2ehpV4EhvIutbRMGzYzQ</id>
-    <link href="https://mp.weixin.qq.com/s/rB2ehpV4EhvIutbRMGzYzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

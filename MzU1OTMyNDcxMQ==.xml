@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T20:16:21+08:00</updated>
+  <updated>2020-10-20T20:16:22+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>优化 TensorFlow Lite 推理运行环境内存占用</title>
+    <updated>2020-10-20T17:29:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/qWLgTKRRhwjLucRegHLcBA</id>
+    <link href="https://mp.weixin.qq.com/s/qWLgTKRRhwjLucRegHLcBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TensorFlow 入门实操课程第一部分延展阅读</title>
+    <updated>2020-10-20T17:29:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/QvsqSuFMZi6k5J1Z7agt3Q</id>
+    <link href="https://mp.weixin.qq.com/s/QvsqSuFMZi6k5J1Z7agt3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TensorFlow Recommenders 现已开源，让推荐系统更上一层楼！</title>
     <updated>2020-10-19T17:37:46+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-09-28T16:22:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/kX6IKCyY7N179JbhS7mocg</id>
     <link href="https://mp.weixin.qq.com/s/kX6IKCyY7N179JbhS7mocg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习替代传统实验，聚合物设计的新思路！</title>
-    <updated>2020-09-27T17:01:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/JabnwkT4oKqPI8xytMDO5Q</id>
-    <link href="https://mp.weixin.qq.com/s/JabnwkT4oKqPI8xytMDO5Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
