@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T23:12:26+08:00</updated>
+  <updated>2020-10-20T23:13:10+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么Redis要比Memcached更火？</title>
+    <updated>2020-10-20T22:35:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/qN73tmk-F3tHcBqCod8tcA</id>
+    <link href="https://mp.weixin.qq.com/s/qN73tmk-F3tHcBqCod8tcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>效率高的 Linux 管理员都会的 10 个关键技巧</title>
     <updated>2020-10-19T18:14:17+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-10-13T21:56:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/Nns072SuFkR3LTTHlLk6Ug</id>
     <link href="https://mp.weixin.qq.com/s/Nns072SuFkR3LTTHlLk6Ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里云首次揭秘如何构建云原生数据湖体系（附电子书下载）</title>
-    <updated>2020-10-13T21:56:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/G4vwLVhw4BTDaO7b0ZbkSQ</id>
-    <link href="https://mp.weixin.qq.com/s/G4vwLVhw4BTDaO7b0ZbkSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

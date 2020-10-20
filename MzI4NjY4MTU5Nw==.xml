@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-14T23:14:46+08:00</updated>
+  <updated>2020-10-20T23:13:02+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo 商城前端架构升级—前后端分离篇</title>
+    <updated>2020-10-20T18:15:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/xqsIQGjuNnEfDU5Elf3ijg</id>
+    <link href="https://mp.weixin.qq.com/s/xqsIQGjuNnEfDU5Elf3ijg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈 Java 中的 AutoCloseable 接口</title>
+    <updated>2020-10-20T18:15:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/pf1Y-ucxyEKWW8LtvC-eCQ</id>
+    <link href="https://mp.weixin.qq.com/s/pf1Y-ucxyEKWW8LtvC-eCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你知道几种前端动画的实现方式？</title>
+    <updated>2020-10-20T18:15:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/ZqwpDpRx7qolym1S4e5b7A</id>
+    <link href="https://mp.weixin.qq.com/s/ZqwpDpRx7qolym1S4e5b7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>10月22日-24日第12届SACC中国系统架构师大会诚邀您参与！</title>
+    <updated>2020-10-20T18:15:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/0YYqS2LUcXmuAzfQmRjRRw</id>
+    <link href="https://mp.weixin.qq.com/s/0YYqS2LUcXmuAzfQmRjRRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 基于原生 RabbitMQ 的高可用架构实践</title>
     <updated>2020-10-14T18:21:16+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-09-02T18:04:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-02:/s/Rl8XLUX7isjXNUmbw0-wow</id>
     <link href="https://mp.weixin.qq.com/s/Rl8XLUX7isjXNUmbw0-wow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>悟空活动中台 - 栅格布局方案</title>
-    <updated>2020-08-26T20:21:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-26:/s/6O0CH0U_WE1YkPK75m-jDQ</id>
-    <link href="https://mp.weixin.qq.com/s/6O0CH0U_WE1YkPK75m-jDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux Page Cache调优在Kafka中的应用</title>
-    <updated>2020-08-19T18:13:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-19:/s/MaeXn-kmgLUah78brglFkg</id>
-    <link href="https://mp.weixin.qq.com/s/MaeXn-kmgLUah78brglFkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android加载图片占用内存分析</title>
-    <updated>2020-08-19T18:13:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-19:/s/aRDzmMlkqB14Ty67GJs9vg</id>
-    <link href="https://mp.weixin.qq.com/s/aRDzmMlkqB14Ty67GJs9vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>悟空活动中台 - 基于 WebP 的图片高性能加载方案</title>
-    <updated>2020-08-12T20:13:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-12:/s/rSpWorfNTajtqq_pd7H-nw</id>
-    <link href="https://mp.weixin.qq.com/s/rSpWorfNTajtqq_pd7H-nw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
