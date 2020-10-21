@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bypass | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-15T11:14:08+08:00</updated>
+  <updated>2020-10-21T11:14:37+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Web 安全攻防实战</title>
+    <updated>2020-10-21T08:00:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/1etPuv1a4Qjrpzbpo_Tjww</id>
+    <link href="https://mp.weixin.qq.com/s/1etPuv1a4Qjrpzbpo_Tjww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>安全攻击溯源思路及案例</title>
     <updated>2020-10-15T08:01:48+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-08-31T08:00:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-31:/s/1B1_eYakY9unA65tHKRz9Q</id>
     <link href="https://mp.weixin.qq.com/s/1B1_eYakY9unA65tHKRz9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux端口转发的几种常用方法</title>
-    <updated>2020-08-25T08:00:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-25:/s/PZEeLrRHb97udXrbPCU54A</id>
-    <link href="https://mp.weixin.qq.com/s/PZEeLrRHb97udXrbPCU54A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

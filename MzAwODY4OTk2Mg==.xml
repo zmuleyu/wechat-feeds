@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T20:19:53+08:00</updated>
+  <updated>2020-10-21T11:16:23+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入详解 Jetpack Compose | 优化 UI 构建</title>
+    <updated>2020-10-20T16:35:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/pRurO-7upTk4sRgJbJyUFw</id>
+    <link href="https://mp.weixin.qq.com/s/pRurO-7upTk4sRgJbJyUFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【直播预告】Google Cloud 对话 PingCAP，探索 TiDB 核心数据库的上云秘籍</title>
+    <updated>2020-10-20T16:35:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/rjXMnLBexoE4X3bnykUzJQ</id>
+    <link href="https://mp.weixin.qq.com/s/rjXMnLBexoE4X3bnykUzJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AI 向善：实时手语检测推动视频会议无障碍化</title>
     <updated>2020-10-20T15:23:17+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-10-12T18:05:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/qUJSY31PL3oxDdp6__6HUg</id>
     <link href="https://mp.weixin.qq.com/s/qUJSY31PL3oxDdp6__6HUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WorkManager: 周期性任务</title>
-    <updated>2020-10-10T16:07:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/wE2Cf9akWQVesC3cuQpucw</id>
-    <link href="https://mp.weixin.qq.com/s/wE2Cf9akWQVesC3cuQpucw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

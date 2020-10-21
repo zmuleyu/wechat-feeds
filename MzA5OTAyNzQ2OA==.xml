@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T11:17:05+08:00</updated>
+  <updated>2020-10-21T11:17:55+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用Consul做服务发现的若干姿势</title>
+    <updated>2020-10-20T21:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/Zr5NtTqycWJ49zHWoSXybQ</id>
+    <link href="https://mp.weixin.qq.com/s/Zr5NtTqycWJ49zHWoSXybQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2020-10-20T21:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/wtiSzI_N0bfhgojTXZfXZg</id>
+    <link href="https://mp.weixin.qq.com/s/wtiSzI_N0bfhgojTXZfXZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在企业的降本增效诉求下，Cube如何助力科盾业务容器化“一步到位”？</title>
     <updated>2020-10-19T22:14:32+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-10-12T07:37:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/ZkNL9j28So0q4j2k3P3tfQ</id>
     <link href="https://mp.weixin.qq.com/s/ZkNL9j28So0q4j2k3P3tfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国空军在U-2侦察机飞行中使用Kubernetes系统</title>
-    <updated>2020-10-11T08:07:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-11:/s/foWfl9mAARKsAzBgZOX_YA</id>
-    <link href="https://mp.weixin.qq.com/s/foWfl9mAARKsAzBgZOX_YA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2020-10-11T08:07:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-11:/s/IMyi3GhBb8g_rDV_D6ACIw</id>
-    <link href="https://mp.weixin.qq.com/s/IMyi3GhBb8g_rDV_D6ACIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

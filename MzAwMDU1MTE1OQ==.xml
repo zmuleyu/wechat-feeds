@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T11:18:22+08:00</updated>
+  <updated>2020-10-21T11:18:45+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个加班多新人多团队，我们的代码问题与重构</title>
+    <updated>2020-10-21T00:17:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/MYSF8lCF92ItG_Lc8nOspg</id>
+    <link href="https://mp.weixin.qq.com/s/MYSF8lCF92ItG_Lc8nOspg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚看完 Kafka 源码，各位随便问！</title>
     <updated>2020-10-20T00:03:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-09T20:19:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/1ZWOLPV4fCqi2EebU_C9YA</id>
     <link href="https://mp.weixin.qq.com/s/1ZWOLPV4fCqi2EebU_C9YA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超详细丨完整的推荐系统架构设计</title>
-    <updated>2020-09-29T14:58:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/Ikl_xcXOGsB7xmcCbrRXFw</id>
-    <link href="https://mp.weixin.qq.com/s/Ikl_xcXOGsB7xmcCbrRXFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
