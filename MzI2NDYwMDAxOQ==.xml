@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UEFI社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-05T23:12:42+08:00</updated>
+  <updated>2020-10-21T13:11:58+08:00</updated>
   <subtitle>UEFI关注者的家园</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>BIOS中文视频培训一：UEFI启动总览</title>
+    <updated>2020-10-21T11:47:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/8MhcQ3nnU4TNlzKlcCFVow</id>
+    <link href="https://mp.weixin.qq.com/s/8MhcQ3nnU4TNlzKlcCFVow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>UEFI到底怎么读？</title>
     <updated>2020-10-05T20:19:47+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-07-02T17:33:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-02:/s/hW94rzRGMQbmGJMowBgG9w</id>
     <link href="https://mp.weixin.qq.com/s/hW94rzRGMQbmGJMowBgG9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>笔记本电脑如何在更换硬盘的同时保留正版 Windows 10 系统？</title>
-    <updated>2020-06-17T19:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-17:/s/W_iFM5nV0vq2Ejx6ujBatg</id>
-    <link href="https://mp.weixin.qq.com/s/W_iFM5nV0vq2Ejx6ujBatg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>笔电是8g内存，想加内存，是一个32G好，还是两条都换成16G好？</title>
-    <updated>2020-06-17T19:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-17:/s/qt7Qz5EwhNbzDNlELZae0g</id>
-    <link href="https://mp.weixin.qq.com/s/qt7Qz5EwhNbzDNlELZae0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

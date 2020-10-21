@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T13:13:48+08:00</updated>
+  <updated>2020-10-21T13:14:01+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么大部分人做不了架构师？这2点是关键...</title>
+    <updated>2020-10-21T12:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/kHDA0FgyLQHIhrFSsST_bA</id>
+    <link href="https://mp.weixin.qq.com/s/kHDA0FgyLQHIhrFSsST_bA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深圳： Kubernetes CKA实战培训</title>
+    <updated>2020-10-21T12:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/NPZJORARmqUIt0oOhcdMzg</id>
+    <link href="https://mp.weixin.qq.com/s/NPZJORARmqUIt0oOhcdMzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在Kubernetes的一个Pod内连续依次执行Container</title>
+    <updated>2020-10-21T12:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/58H_k0SZLlhXkJfJenmwNg</id>
+    <link href="https://mp.weixin.qq.com/s/58H_k0SZLlhXkJfJenmwNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL从入门到放弃！</title>
     <updated>2020-10-20T12:34:51+08:00</updated>
@@ -43,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>卧槽！华为工程师总结的5000页Java、LeetCode刷题笔记提供下载，太优秀了！</title>
-    <updated>2020-10-18T16:53:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/xlfYmXhndqZ4QStJGt_sUw</id>
-    <link href="https://mp.weixin.qq.com/s/xlfYmXhndqZ4QStJGt_sUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>《Harbor权威指南》新书发布，赠送10本！</title>
     <updated>2020-10-17T21:14:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/2002uyPh2iLJGkROXqNa6g</id>
@@ -57,24 +71,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>多线程编程的理论和现实（你没看过的视频版）</title>
-    <updated>2020-10-16T12:25:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/WtDYrVOIbFp7x7ST2xn-fA</id>
-    <link href="https://mp.weixin.qq.com/s/WtDYrVOIbFp7x7ST2xn-fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Rancher 2.5发布｜特性解读</title>
     <updated>2020-10-16T12:25:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/zBSvoQfFw10yyiJkYJodOA</id>
     <link href="https://mp.weixin.qq.com/s/zBSvoQfFw10yyiJkYJodOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前同事成功入职阿里P7， 跟他聊了之后才明白的真香！</title>
-    <updated>2020-10-15T11:05:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/0piQgsoChig4u0ooutSPWw</id>
-    <link href="https://mp.weixin.qq.com/s/0piQgsoChig4u0ooutSPWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,13 +110,6 @@
     <updated>2020-10-12T20:09:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/7fQXM2vvO-ufBGDqzQWmzg</id>
     <link href="https://mp.weixin.qq.com/s/7fQXM2vvO-ufBGDqzQWmzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes网络技术课程，一次搞懂网络！</title>
-    <updated>2020-10-11T17:33:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-11:/s/lNxTW_MpCzj6RWADrpQEMg</id>
-    <link href="https://mp.weixin.qq.com/s/lNxTW_MpCzj6RWADrpQEMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

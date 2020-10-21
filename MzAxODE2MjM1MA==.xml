@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T20:15:12+08:00</updated>
+  <updated>2020-10-21T13:11:12+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>私藏！React 硬核涨薪指南</title>
+    <updated>2020-10-20T22:16:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/lpByDwJoKjYWVrUz_8rtIw</id>
+    <link href="https://mp.weixin.qq.com/s/lpByDwJoKjYWVrUz_8rtIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Map 和 Set 两种数据结构在 ES6 的作用</title>
+    <updated>2020-10-20T22:16:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-20:/s/T0RbksuupBF6oKJEl-ijRg</id>
+    <link href="https://mp.weixin.qq.com/s/T0RbksuupBF6oKJEl-ijRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ES11新增的这9个新特性，你都掌握了吗？</title>
     <updated>2020-10-20T15:34:51+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-10-11T21:40:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/G4RRw4jBhCtCK_bZpmU0iw</id>
     <link href="https://mp.weixin.qq.com/s/G4RRw4jBhCtCK_bZpmU0iw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端装饰器模式快闪</title>
-    <updated>2020-10-11T21:34:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-11:/s/0aXxEYhDx0fI5-1BAo4ZLw</id>
-    <link href="https://mp.weixin.qq.com/s/0aXxEYhDx0fI5-1BAo4ZLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
