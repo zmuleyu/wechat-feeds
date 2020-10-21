@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T23:14:47+08:00</updated>
+  <updated>2020-10-21T23:14:46+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《Python中神奇的第三方库：Faker》</title>
+    <updated>2020-10-21T21:44:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/Bx4ZP-SPPC_yDFJGYx0wiw</id>
+    <link href="https://mp.weixin.qq.com/s/Bx4ZP-SPPC_yDFJGYx0wiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>贝叶斯新闻分类实战项目详解</title>
     <updated>2020-10-20T21:23:25+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-10-12T19:38:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/I8sH_wZEEFNyJ2X0yCCDgA</id>
     <link href="https://mp.weixin.qq.com/s/I8sH_wZEEFNyJ2X0yCCDgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分析数万条旅游评论数据后，告诉你国庆“坑爹”景点背后的秘密...</title>
-    <updated>2020-10-11T20:33:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-11:/s/pbvNUQG4-P4gsQDruttw8w</id>
-    <link href="https://mp.weixin.qq.com/s/pbvNUQG4-P4gsQDruttw8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
