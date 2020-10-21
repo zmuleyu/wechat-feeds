@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T20:19:38+08:00</updated>
+  <updated>2020-10-21T20:19:33+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面对复杂业务，if-else coder 如何升级？</title>
+    <updated>2020-10-21T15:24:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/248MOA3jIQAUN4z-Oj_T_w</id>
+    <link href="https://mp.weixin.qq.com/s/248MOA3jIQAUN4z-Oj_T_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自然语言处理在开放搜索中的应用</title>
     <updated>2020-10-20T16:50:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-12T13:56:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/MQldoZVZtlKSsQBSd9VzpQ</id>
     <link href="https://mp.weixin.qq.com/s/MQldoZVZtlKSsQBSd9VzpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringCloud 应用在 Kubernetes 上的最佳实践 —— 高可用（弹性伸缩）</title>
-    <updated>2020-10-10T18:02:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/QJGTY-V1lYpLAlBLTpt5MQ</id>
-    <link href="https://mp.weixin.qq.com/s/QJGTY-V1lYpLAlBLTpt5MQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

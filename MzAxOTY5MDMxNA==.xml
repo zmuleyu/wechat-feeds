@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>有赞coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:23:09+08:00</updated>
+  <updated>2020-10-21T20:20:32+08:00</updated>
   <subtitle>有赞技术官方公众号，推广有赞技术干货，偶有有赞技术小哥哥小姐姐们的日常</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有赞保理业务架构设计与实践</title>
+    <updated>2020-10-21T17:51:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/VL0KJtwLD1SCmlaov5_pqw</id>
+    <link href="https://mp.weixin.qq.com/s/VL0KJtwLD1SCmlaov5_pqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Native 与 Weex 交互通用解决方案</title>
     <updated>2020-10-16T17:03:07+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-10T19:00:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-10:/s/MrCQvMq0UauOB2N5sm_jSQ</id>
     <link href="https://mp.weixin.qq.com/s/MrCQvMq0UauOB2N5sm_jSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有赞霸王龙奖是如何诞生的</title>
-    <updated>2020-09-04T17:28:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-04:/s/oUDqgyCUzunG3Rtw-0YJXw</id>
-    <link href="https://mp.weixin.qq.com/s/oUDqgyCUzunG3Rtw-0YJXw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
