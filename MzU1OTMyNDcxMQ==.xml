@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T23:12:51+08:00</updated>
+  <updated>2020-10-22T20:16:36+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>案例分享 | No-Code AI：用 ElasticDL 和社区 Keras 模型库实现大量小众预估场景</title>
+    <updated>2020-10-22T17:55:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/5Hj9Qqodbh6aTqtfOZKqow</id>
+    <link href="https://mp.weixin.qq.com/s/5Hj9Qqodbh6aTqtfOZKqow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Jupyter Notebook 工具分享，增强 TensorFlow 文档体验</title>
     <updated>2020-10-21T20:21:30+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-30T17:14:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/iYANsM8ROZWM-Y7heg04hw</id>
     <link href="https://mp.weixin.qq.com/s/iYANsM8ROZWM-Y7heg04hw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻又快！开源 TensorFlow Lite 设备端推荐解决方案</title>
-    <updated>2020-09-29T17:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/396C195z7V-FL4Mq2LBSxw</id>
-    <link href="https://mp.weixin.qq.com/s/396C195z7V-FL4Mq2LBSxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
