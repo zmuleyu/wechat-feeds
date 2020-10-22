@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T23:17:54+08:00</updated>
+  <updated>2020-10-22T23:16:15+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：Laravel路由加模型等于？</title>
+    <updated>2020-10-22T21:26:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/L4_ig4h5rFbGxfx9ZqYVmA</id>
+    <link href="https://mp.weixin.qq.com/s/L4_ig4h5rFbGxfx9ZqYVmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：Laravel控制器用法光速入门</title>
     <updated>2020-10-21T22:11:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-13T16:41:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/4pM80LWGf7IIv_HeaVz6ZQ</id>
     <link href="https://mp.weixin.qq.com/s/4pM80LWGf7IIv_HeaVz6ZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：说说Laravel模型关联关系最单纯的“一对一”</title>
-    <updated>2020-10-12T10:30:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/HwcuAB5Y8jOkoMByh3t9_Q</id>
-    <link href="https://mp.weixin.qq.com/s/HwcuAB5Y8jOkoMByh3t9_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

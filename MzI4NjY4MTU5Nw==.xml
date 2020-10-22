@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T23:13:02+08:00</updated>
+  <updated>2020-10-22T23:12:37+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Hystrix 如何解决 ThreadLocal 信息丢失</title>
+    <updated>2020-10-22T20:17:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/nmHcf7yQJIHXBf6W4KtF8w</id>
+    <link href="https://mp.weixin.qq.com/s/nmHcf7yQJIHXBf6W4KtF8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Preload&amp;Prefetch 优化前端页面的资源加载</title>
+    <updated>2020-10-22T20:17:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/jipeexpLS6xbNObZ0KwdsA</id>
+    <link href="https://mp.weixin.qq.com/s/jipeexpLS6xbNObZ0KwdsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 商城前端架构升级—前后端分离篇</title>
     <updated>2020-10-20T18:15:41+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-02T18:04:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-02:/s/vD9yvYNaxTQBLABik6aqNg</id>
     <link href="https://mp.weixin.qq.com/s/vD9yvYNaxTQBLABik6aqNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解web协议(二)：DNS、WebSocket</title>
-    <updated>2020-09-02T18:04:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-02:/s/AkbAN4UZLDf841g1ZLFPBQ</id>
-    <link href="https://mp.weixin.qq.com/s/AkbAN4UZLDf841g1ZLFPBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Vue CLI】手把手教你撸插件</title>
-    <updated>2020-09-02T18:04:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-02:/s/Rl8XLUX7isjXNUmbw0-wow</id>
-    <link href="https://mp.weixin.qq.com/s/Rl8XLUX7isjXNUmbw0-wow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

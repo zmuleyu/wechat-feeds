@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T11:12:40+08:00</updated>
+  <updated>2020-10-22T23:12:22+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个复杂系统的拆分改造实践！</title>
+    <updated>2020-10-22T09:52:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/OSAxKO6tddY4TucRADqOiQ</id>
+    <link href="https://mp.weixin.qq.com/s/OSAxKO6tddY4TucRADqOiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这一次，彻底搞定 Go 并发编程！</title>
     <updated>2020-10-20T22:53:18+08:00</updated>
@@ -33,13 +40,6 @@
     <updated>2020-10-20T10:52:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/reS_jF8W8VRR6lCToZuxng</id>
     <link href="https://mp.weixin.qq.com/s/reS_jF8W8VRR6lCToZuxng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吊打字节跳动面试官是种什么体验？</title>
-    <updated>2020-10-18T23:21:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/beRMFi580Pu7yMMTKFKLGg</id>
-    <link href="https://mp.weixin.qq.com/s/beRMFi580Pu7yMMTKFKLGg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +96,6 @@
     <updated>2020-10-11T20:32:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/9WI8Hr-gjDjUJZDf-nHnaw</id>
     <link href="https://mp.weixin.qq.com/s/9WI8Hr-gjDjUJZDf-nHnaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis的主从复制是如何做的？复制过程中也会产生各种问题</title>
-    <updated>2020-10-10T21:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/ee7Xdj4d1O-D-Yaa9G6U3w</id>
-    <link href="https://mp.weixin.qq.com/s/ee7Xdj4d1O-D-Yaa9G6U3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
