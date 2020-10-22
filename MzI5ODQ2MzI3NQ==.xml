@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T13:14:01+08:00</updated>
+  <updated>2020-10-22T13:13:09+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里 P9 有多难？</title>
+    <updated>2020-10-22T11:29:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/cnKu6JWFx5n7bupnaT9jwA</id>
+    <link href="https://mp.weixin.qq.com/s/cnKu6JWFx5n7bupnaT9jwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画：小黄人学 Kubernetes 对象</title>
+    <updated>2020-10-22T11:29:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/qrJ50ma4LWBuOn_7WPGznw</id>
+    <link href="https://mp.weixin.qq.com/s/qrJ50ma4LWBuOn_7WPGznw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么大部分人做不了架构师？这2点是关键...</title>
     <updated>2020-10-21T12:43:08+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-10-13T12:59:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/kqFTcd4RViMg_9tZi5HVyg</id>
     <link href="https://mp.weixin.qq.com/s/kqFTcd4RViMg_9tZi5HVyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jenkins vs GitLab CI：CI/CD工具之战</title>
-    <updated>2020-10-12T20:09:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/7fQXM2vvO-ufBGDqzQWmzg</id>
-    <link href="https://mp.weixin.qq.com/s/7fQXM2vvO-ufBGDqzQWmzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
