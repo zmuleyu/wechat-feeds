@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T11:18:45+08:00</updated>
+  <updated>2020-10-22T11:20:02+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AIOps在美团的探索与实践——故障发现篇</title>
+    <updated>2020-10-22T10:07:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/W4X9hCFwK1EM6o0wefP8yA</id>
+    <link href="https://mp.weixin.qq.com/s/W4X9hCFwK1EM6o0wefP8yA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个加班多新人多团队，我们的代码问题与重构</title>
     <updated>2020-10-21T00:17:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-10T09:44:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/MUM1y-9sj7LtuYpTNxhMGA</id>
     <link href="https://mp.weixin.qq.com/s/MUM1y-9sj7LtuYpTNxhMGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL索引前世今生</title>
-    <updated>2020-10-09T20:19:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/1ZWOLPV4fCqi2EebU_C9YA</id>
-    <link href="https://mp.weixin.qq.com/s/1ZWOLPV4fCqi2EebU_C9YA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T11:13:53+08:00</updated>
+  <updated>2020-10-22T11:13:54+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>软件开发必修课：你该知道的GRASP职责分配模式</title>
+    <updated>2020-10-21T17:30:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/IaxAnWfVqe3mM0bHFVV5Gg</id>
+    <link href="https://mp.weixin.qq.com/s/IaxAnWfVqe3mM0bHFVV5Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生时代，应用架构将如何演进？</title>
     <updated>2020-10-20T18:25:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-08T21:32:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-08:/s/wmIdltVRgiwvRpylqKJ1sg</id>
     <link href="https://mp.weixin.qq.com/s/wmIdltVRgiwvRpylqKJ1sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何写好单元测试？</title>
-    <updated>2020-09-29T18:22:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/EZejQam6n_qU5ZLDOv82Rg</id>
-    <link href="https://mp.weixin.qq.com/s/EZejQam6n_qU5ZLDOv82Rg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
