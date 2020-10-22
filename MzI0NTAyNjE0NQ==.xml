@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>justjavac | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-20T11:20:25+08:00</updated>
+  <updated>2020-10-22T16:20:48+08:00</updated>
   <subtitle>专注时下最新的Web技术，分享原创及翻译文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端人一年要学多少技术，才能勉强保住工作</title>
+    <updated>2020-10-22T11:48:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/ab_wOwZ9xVTMO7O36cGYSg</id>
+    <link href="https://mp.weixin.qq.com/s/ab_wOwZ9xVTMO7O36cGYSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 Chrome(V8) 中 Symbol() 、Object.create(null) 和 {} 的内存占用分别是多少？</title>
     <updated>2020-10-20T08:57:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-03T22:21:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-03:/s/TZ_LHcDx93nXrXft5ocF_g</id>
     <link href="https://mp.weixin.qq.com/s/TZ_LHcDx93nXrXft5ocF_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么我不再用 Vue，改用 React？</title>
-    <updated>2020-08-20T21:31:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-20:/s/TejjWhcc-svEOmsUhiQFKg</id>
-    <link href="https://mp.weixin.qq.com/s/TejjWhcc-svEOmsUhiQFKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
