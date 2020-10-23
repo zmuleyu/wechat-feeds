@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T23:16:15+08:00</updated>
+  <updated>2020-10-23T23:17:27+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：Laravel应用跟用户打交道，就从拿到他们的数据开始！</title>
+    <updated>2020-10-23T20:28:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/1bYxaLU_sxwqBRGx4ttEUg</id>
+    <link href="https://mp.weixin.qq.com/s/1bYxaLU_sxwqBRGx4ttEUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：Laravel路由加模型等于？</title>
     <updated>2020-10-22T21:26:50+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-14T18:00:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/_U4dTQcY2m1FEvdPbBxxRQ</id>
     <link href="https://mp.weixin.qq.com/s/_U4dTQcY2m1FEvdPbBxxRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：说说Laravel模型中还算常用的2个“关系”</title>
-    <updated>2020-10-13T16:41:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/4pM80LWGf7IIv_HeaVz6ZQ</id>
-    <link href="https://mp.weixin.qq.com/s/4pM80LWGf7IIv_HeaVz6ZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

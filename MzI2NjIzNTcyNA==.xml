@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T23:17:06+08:00</updated>
+  <updated>2020-10-23T23:18:41+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>鉴别媒体出处的技术思考</title>
+    <updated>2020-10-23T22:57:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/ifTvhakWHFt418xa9RfTQQ</id>
+    <link href="https://mp.weixin.qq.com/s/ifTvhakWHFt418xa9RfTQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Web媒体标准</title>
     <updated>2020-10-22T21:45:56+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-14T20:44:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/UoEqJMbWzYzbVQEsScryWw</id>
     <link href="https://mp.weixin.qq.com/s/UoEqJMbWzYzbVQEsScryWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>混合SDI和ST2110对实况转播的挑战</title>
-    <updated>2020-10-13T10:59:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/Gdrl3wwpCGqpcB_ZMrkbeQ</id>
-    <link href="https://mp.weixin.qq.com/s/Gdrl3wwpCGqpcB_ZMrkbeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
