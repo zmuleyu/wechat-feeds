@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T16:19:30+08:00</updated>
+  <updated>2020-10-23T16:22:33+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>955.WLB 不加班公司名单新增 6 家公司，移出 1 家公司！</title>
+    <updated>2020-10-23T09:21:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/JTDaVYOQI3uMOUP4k7fhZw</id>
+    <link href="https://mp.weixin.qq.com/s/JTDaVYOQI3uMOUP4k7fhZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>当当疯了！3折...</title>
+    <updated>2020-10-23T09:21:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/dzEx9XqfYjBDd7RgB_pguA</id>
+    <link href="https://mp.weixin.qq.com/s/dzEx9XqfYjBDd7RgB_pguA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯 Code Review 规范出炉！</title>
+    <updated>2020-10-23T09:21:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/DsfqajcTp45Wl4vfyWf-Xw</id>
+    <link href="https://mp.weixin.qq.com/s/DsfqajcTp45Wl4vfyWf-Xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>给新手的 11 个 Docker 免费上手项目</title>
+    <updated>2020-10-23T09:21:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/Gu060ijxF4XxdwKQkVDvVA</id>
+    <link href="https://mp.weixin.qq.com/s/Gu060ijxF4XxdwKQkVDvVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>33岁妹子，用了三年！我从语文老师到支付宝技术前端的蜕变</title>
+    <updated>2020-10-23T09:21:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/d11WSh_3rnip061lquNWDg</id>
+    <link href="https://mp.weixin.qq.com/s/d11WSh_3rnip061lquNWDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里 93 年 P7 员工公开晒工资，网友：搞好“微服务” = 百万年薪？</title>
     <updated>2020-10-22T10:07:29+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-20T14:12:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/q8lP676S47tYfNRUUzIXKA</id>
     <link href="https://mp.weixin.qq.com/s/q8lP676S47tYfNRUUzIXKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么 React 还是比 Vue 受欢迎？</title>
-    <updated>2020-10-19T13:20:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/56HhgkxRSz5k6WXrjCxNrQ</id>
-    <link href="https://mp.weixin.qq.com/s/56HhgkxRSz5k6WXrjCxNrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>30个提高开发效率的Visual Studio Code插件</title>
-    <updated>2020-10-19T13:20:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/nvZ6yF1cv53S_lS1PcytcA</id>
-    <link href="https://mp.weixin.qq.com/s/nvZ6yF1cv53S_lS1PcytcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么有些公司不让用 Lombok ？</title>
-    <updated>2020-10-19T13:20:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/mkPNHlv3xr3VkIpkC3EA8Q</id>
-    <link href="https://mp.weixin.qq.com/s/mkPNHlv3xr3VkIpkC3EA8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知乎高赞：35岁失业的程序员，最后都去了哪儿？是在路边摊炒粉和做烤鸭？</title>
-    <updated>2020-10-18T18:15:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/SDjyGI0Ke6Nj0sqaNyhILQ</id>
-    <link href="https://mp.weixin.qq.com/s/SDjyGI0Ke6Nj0sqaNyhILQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>完全开源！华为方舟编译器正式支持C语言了，并开放鸿蒙教程！</title>
-    <updated>2020-10-18T18:15:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/lAChpmUEv9hil9VAatCVBw</id>
-    <link href="https://mp.weixin.qq.com/s/lAChpmUEv9hil9VAatCVBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
