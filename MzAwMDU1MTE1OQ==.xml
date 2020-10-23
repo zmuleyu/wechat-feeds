@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T11:20:02+08:00</updated>
+  <updated>2020-10-23T13:20:29+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>构建 Netflix 分布式追踪（tracing）体系</title>
+    <updated>2020-10-23T11:01:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/NmGYfoJ7pw8CfRfUkc6o2Q</id>
+    <link href="https://mp.weixin.qq.com/s/NmGYfoJ7pw8CfRfUkc6o2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AIOps在美团的探索与实践——故障发现篇</title>
     <updated>2020-10-22T10:07:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-13T13:47:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/8vASJavOQrXw5bGEEMwd9Q</id>
     <link href="https://mp.weixin.qq.com/s/8vASJavOQrXw5bGEEMwd9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节唯一流处理 Flink 有多难懂？</title>
-    <updated>2020-10-10T09:44:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/MUM1y-9sj7LtuYpTNxhMGA</id>
-    <link href="https://mp.weixin.qq.com/s/MUM1y-9sj7LtuYpTNxhMGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

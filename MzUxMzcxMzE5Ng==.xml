@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T13:17:16+08:00</updated>
+  <updated>2020-10-23T13:17:04+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>NPM 移除 4 个恶意软件包：泄露用户数据已有数月，4 个包分工明确</title>
+    <updated>2020-10-23T12:01:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/8RBc-IRoNhs70vo1EaHnxQ</id>
+    <link href="https://mp.weixin.qq.com/s/8RBc-IRoNhs70vo1EaHnxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解决实际问题的24个ES6代码段</title>
+    <updated>2020-10-23T12:01:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/an_pXkV_1CC_rrt8AX4qtQ</id>
+    <link href="https://mp.weixin.qq.com/s/an_pXkV_1CC_rrt8AX4qtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js 15 正式发布：加入新工具类，附带 npm 7，支持 QUIC 协议</title>
     <updated>2020-10-21T11:56:36+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-13T16:30:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/DU_iTSGN1U5NxhQrVBMGtw</id>
     <link href="https://mp.weixin.qq.com/s/DU_iTSGN1U5NxhQrVBMGtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>73个强无敌的NPM软件包</title>
-    <updated>2020-10-12T16:19:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/agGJ06hxnAXDWFn9yBUiKA</id>
-    <link href="https://mp.weixin.qq.com/s/agGJ06hxnAXDWFn9yBUiKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一位资深程序员的感悟：这个行业，仅靠年轻人是不够的</title>
-    <updated>2020-10-12T16:19:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/DxM0fJnB2at9WwJ3dl0HtQ</id>
-    <link href="https://mp.weixin.qq.com/s/DxM0fJnB2at9WwJ3dl0HtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
