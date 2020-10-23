@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T20:15:59+08:00</updated>
+  <updated>2020-10-23T20:20:46+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>安全需求评审：业务研发团队该如何提交信息</title>
+    <updated>2020-10-23T17:29:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/DyyWsvjZAvA96eZTdsnfdw</id>
+    <link href="https://mp.weixin.qq.com/s/DyyWsvjZAvA96eZTdsnfdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google向美国执法机构提供搜索记录数据</title>
+    <updated>2020-10-23T17:29:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/_Vzq4pxvb3g3ZdfOvxcnew</id>
+    <link href="https://mp.weixin.qq.com/s/_Vzq4pxvb3g3ZdfOvxcnew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DeFi Saver用户的31万枚DAI是如何被盗的？</title>
+    <updated>2020-10-23T17:29:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/mHWdx3aEGmGx4ssVrR7-yg</id>
+    <link href="https://mp.weixin.qq.com/s/mHWdx3aEGmGx4ssVrR7-yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kube-Score：一款针对Kubernetes的安全分析工具</title>
+    <updated>2020-10-23T17:29:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/bSN54f_-PkNVQzMsoFGcnA</id>
+    <link href="https://mp.weixin.qq.com/s/bSN54f_-PkNVQzMsoFGcnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WitAwards 2020中国网络安全创新年度评选正式启动</title>
     <updated>2020-10-22T17:55:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-19T18:01:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/acggPnSGwLsduAPoLxs4ow</id>
     <link href="https://mp.weixin.qq.com/s/acggPnSGwLsduAPoLxs4ow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“校园谍战”，Silent Librarian 黑客组织瞄准全球各地高校</title>
-    <updated>2020-10-18T17:24:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/mbDRW8gJYsAx0ZneV4CXrA</id>
-    <link href="https://mp.weixin.qq.com/s/mbDRW8gJYsAx0ZneV4CXrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内网渗透测试研究：从NTDS.dit获取域散列值</title>
-    <updated>2020-10-18T17:24:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/yoT6B7GJMSNkv3PvQVzzAQ</id>
-    <link href="https://mp.weixin.qq.com/s/yoT6B7GJMSNkv3PvQVzzAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>选择供应商时需要考虑的八个网络安全问题</title>
-    <updated>2020-10-18T17:24:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/Y7m-f2o1p86mt7kkcyxU2Q</id>
-    <link href="https://mp.weixin.qq.com/s/Y7m-f2o1p86mt7kkcyxU2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IRFuzz：一款基于YARA规则的文档文件扫描工具</title>
-    <updated>2020-10-18T17:24:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/65YC640NYCYwnOtUbqR5QQ</id>
-    <link href="https://mp.weixin.qq.com/s/65YC640NYCYwnOtUbqR5QQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

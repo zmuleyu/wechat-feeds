@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T20:17:47+08:00</updated>
+  <updated>2020-10-23T20:22:30+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】异常检测：Anomaly Detection综述</title>
+    <updated>2020-10-23T18:17:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/oEkAvKz8UBkmhMF85dWHuQ</id>
+    <link href="https://mp.weixin.qq.com/s/oEkAvKz8UBkmhMF85dWHuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】libtorch使用经验</title>
+    <updated>2020-10-23T18:17:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/vlNKmd_tbtl76lQLoW-zHg</id>
+    <link href="https://mp.weixin.qq.com/s/vlNKmd_tbtl76lQLoW-zHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI85×CRIPAC 情感分析专题</title>
+    <updated>2020-10-23T18:17:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/PUG7GeCP7AGxjRmPXolrVQ</id>
+    <link href="https://mp.weixin.qq.com/s/PUG7GeCP7AGxjRmPXolrVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>1024活动|挑战人工智能题目，在线答题返现金！</title>
     <updated>2020-10-22T18:04:47+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-17T20:58:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/ghIQcWlz8YfzeRK3ZMZ8sg</id>
     <link href="https://mp.weixin.qq.com/s/ghIQcWlz8YfzeRK3ZMZ8sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】TRAML：利用自适应边际损失增强小样本学习（CVPR 2020 ）</title>
-    <updated>2020-10-16T18:13:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/KfAztBabuK6bptzq7tcmag</id>
-    <link href="https://mp.weixin.qq.com/s/KfAztBabuK6bptzq7tcmag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】如何支撑上亿类别的人脸训练？显存均衡的模型并行(PyTorch实现)</title>
-    <updated>2020-10-16T18:13:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/tPWEoqnMWx2T9ALCinMEsw</id>
-    <link href="https://mp.weixin.qq.com/s/tPWEoqnMWx2T9ALCinMEsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI83×CRIPAC 对抗样本专题</title>
-    <updated>2020-10-16T18:13:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/J2QjGqWeqHsBgPXJNZaVqQ</id>
-    <link href="https://mp.weixin.qq.com/s/J2QjGqWeqHsBgPXJNZaVqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

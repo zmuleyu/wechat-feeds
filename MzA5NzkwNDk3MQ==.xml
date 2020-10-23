@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T20:15:56+08:00</updated>
+  <updated>2020-10-23T20:20:40+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 369 期：2020 年的 24 个 CSS 新特性</title>
+    <updated>2020-10-23T17:27:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/LJlAv7RSH7Akq8AqS967FA</id>
+    <link href="https://mp.weixin.qq.com/s/LJlAv7RSH7Akq8AqS967FA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新的浏览器缓存策略变更：舍弃性能、确保安全</title>
     <updated>2020-10-22T17:52:52+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-10-16T16:50:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/EGx552tNvMfHC_VXuBBSHw</id>
     <link href="https://mp.weixin.qq.com/s/EGx552tNvMfHC_VXuBBSHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入揭秘前端路由本质，手写 mini-router</title>
-    <updated>2020-10-15T19:41:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/3_S3853OYBdWS4sSX_IcPA</id>
-    <link href="https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

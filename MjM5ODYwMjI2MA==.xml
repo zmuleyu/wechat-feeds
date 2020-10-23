@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T20:19:24+08:00</updated>
+  <updated>2020-10-23T20:24:21+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何有效地进行代码 Review？</title>
+    <updated>2020-10-23T18:10:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/uFivYfX53s5zAe6hacznlg</id>
+    <link href="https://mp.weixin.qq.com/s/uFivYfX53s5zAe6hacznlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1024程序员节 | 我在腾讯自研数据库，我为技术代言</title>
+    <updated>2020-10-23T18:10:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/15pn8tNI2Iv33ExLZRwaWw</id>
+    <link href="https://mp.weixin.qq.com/s/15pn8tNI2Iv33ExLZRwaWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Golang 单元测试详尽指引</title>
     <updated>2020-10-22T17:25:28+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-09-25T15:00:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/FU8ePVDqhv6YXAVr3WOgmQ</id>
     <link href="https://mp.weixin.qq.com/s/FU8ePVDqhv6YXAVr3WOgmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10月24号，我们腾讯滨海大厦见！</title>
-    <updated>2020-09-24T18:13:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/4_9FcbK56jOLPT_Vig_7Ow</id>
-    <link href="https://mp.weixin.qq.com/s/4_9FcbK56jOLPT_Vig_7Ow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

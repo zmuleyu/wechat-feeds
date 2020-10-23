@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T23:14:59+08:00</updated>
+  <updated>2020-10-23T20:23:57+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文俯瞰NLP技术路线图！</title>
+    <updated>2020-10-23T12:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/NWKGAi-HafW_M2tIzz1gow</id>
+    <link href="https://mp.weixin.qq.com/s/NWKGAi-HafW_M2tIzz1gow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>星星之火，可否燎原 —— 关于深度学习和大数据系统融合现状的认识</title>
+    <updated>2020-10-23T12:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/RhHOYmL48vA-ztMaiSXcQw</id>
+    <link href="https://mp.weixin.qq.com/s/RhHOYmL48vA-ztMaiSXcQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CIKM 2020 | 如何更为合适地评测推荐算法？ Top-N物品推荐算法评测设置回顾</title>
+    <updated>2020-10-23T12:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/KgBXmMCWP4AGx6pdT1LztQ</id>
+    <link href="https://mp.weixin.qq.com/s/KgBXmMCWP4AGx6pdT1LztQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面向科研的推荐系统Benchmark诞生！</title>
+    <updated>2020-10-23T12:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/gSV36Roa9XFqTqk_gHw2lQ</id>
+    <link href="https://mp.weixin.qq.com/s/gSV36Roa9XFqTqk_gHw2lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图神经网络资源大集合~快来打包带走</title>
+    <updated>2020-10-23T12:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/BGbGzVhHpOIjfAbMumLSbw</id>
+    <link href="https://mp.weixin.qq.com/s/BGbGzVhHpOIjfAbMumLSbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前腾讯算法专家的深度学习经验分享</title>
     <updated>2020-10-22T19:29:12+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-20T18:48:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/YXbVBaK0ttmCiH_zwZA8bQ</id>
     <link href="https://mp.weixin.qq.com/s/YXbVBaK0ttmCiH_zwZA8bQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎样动手高效学习PyTorch框架？</title>
-    <updated>2020-10-19T19:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/ZnX5O0B-J8LciWndXVw-tw</id>
-    <link href="https://mp.weixin.qq.com/s/ZnX5O0B-J8LciWndXVw-tw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT4Rec:使用Bert进行序列推荐</title>
-    <updated>2020-10-19T19:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/QwQgxhA9tNHuziqFp-qiOw</id>
-    <link href="https://mp.weixin.qq.com/s/QwQgxhA9tNHuziqFp-qiOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FastBERT-CPU推理加速10倍</title>
-    <updated>2020-10-19T19:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/ST9Ksa-wWQc_0P1kvLVRdQ</id>
-    <link href="https://mp.weixin.qq.com/s/ST9Ksa-wWQc_0P1kvLVRdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你应该知道的LightGBM各种操作！</title>
-    <updated>2020-10-19T19:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/ou-rGwLpYPQUwxHqx5wHEQ</id>
-    <link href="https://mp.weixin.qq.com/s/ou-rGwLpYPQUwxHqx5wHEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>cross-modal retrieval 跨模态专题-5</title>
-    <updated>2020-10-19T19:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/HnAEzMZbGQBFLphtoLjZbg</id>
-    <link href="https://mp.weixin.qq.com/s/HnAEzMZbGQBFLphtoLjZbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

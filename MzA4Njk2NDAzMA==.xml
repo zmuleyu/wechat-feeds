@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T20:16:22+08:00</updated>
+  <updated>2020-10-23T20:20:55+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中</title>
+    <updated>2020-10-23T17:15:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/iJbbPVVt2G-wbIRMaF3kKQ</id>
+    <link href="https://mp.weixin.qq.com/s/iJbbPVVt2G-wbIRMaF3kKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，赶紧上车吧！</title>
+    <updated>2020-10-23T17:15:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/rFesOVNXaO5w-uNnImnuQg</id>
+    <link href="https://mp.weixin.qq.com/s/rFesOVNXaO5w-uNnImnuQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis 集群搭建采坑总结</title>
     <updated>2020-10-22T20:00:44+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-10-13T20:00:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/NiSE4_c40TQF8OQHF9Bj-A</id>
     <link href="https://mp.weixin.qq.com/s/NiSE4_c40TQF8OQHF9Bj-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>困在内卷里的软件测试工程师</title>
-    <updated>2020-10-12T22:00:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/7soLYgbxWADfmJEHNwufeA</id>
-    <link href="https://mp.weixin.qq.com/s/7soLYgbxWADfmJEHNwufeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>上市公司 CTO 邀请你加入「码农周刊 VIP 会员」</title>
-    <updated>2020-10-12T22:00:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/-UC-81uldtAPFmazkGLOiw</id>
-    <link href="https://mp.weixin.qq.com/s/-UC-81uldtAPFmazkGLOiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

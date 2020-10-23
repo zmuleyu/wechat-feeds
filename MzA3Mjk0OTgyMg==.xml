@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>VALSE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-16T20:24:10+08:00</updated>
+  <updated>2020-10-23T20:27:20+08:00</updated>
   <subtitle>VALSE（Vision and Learning Seminar） 年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者提供一个深层次学术交流的舞台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VALSE Webinar 20-27期 看图识字：文字检测与识别新进展</title>
+    <updated>2020-10-23T19:34:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/ICLR7qP9AUZWFNxT-JqCMA</id>
+    <link href="https://mp.weixin.qq.com/s/ICLR7qP9AUZWFNxT-JqCMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VALSE Webinar 20-26期 图神经网络：深图远算，理胜其辞</title>
     <updated>2020-10-16T19:10:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-03T16:00:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-03:/s/Q3g1T7Ebt-mHAcVi5TEW1g</id>
     <link href="https://mp.weixin.qq.com/s/Q3g1T7Ebt-mHAcVi5TEW1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「见微知著」(2) - 细粒度视觉检索特辑【VALSE Webinar】Panel实录</title>
-    <updated>2020-09-01T17:45:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-01:/s/16PD1l6zubBi7ySB7v7aiQ</id>
-    <link href="https://mp.weixin.qq.com/s/16PD1l6zubBi7ySB7v7aiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

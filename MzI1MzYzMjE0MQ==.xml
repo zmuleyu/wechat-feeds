@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-19T11:16:33+08:00</updated>
+  <updated>2020-10-23T20:24:44+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动程序员（高清）.zip</title>
+    <updated>2020-10-23T19:33:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/TMsoEN0VWV5Ho_PIueosgw</id>
+    <link href="https://mp.weixin.qq.com/s/TMsoEN0VWV5Ho_PIueosgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>iOS性能优化实践：头条抖音如何实现OOM崩溃率下降50%+</title>
     <updated>2020-10-19T09:48:14+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-08-19T08:19:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-19:/s/4qOQ619uh1p7s2FegR8MJA</id>
     <link href="https://mp.weixin.qq.com/s/4qOQ619uh1p7s2FegR8MJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>💻字节跳动 ClickHouse专场沙龙直播，19:00 准时开始，等会直播间见哦！&#xA;🔗直播地址：https://live.bytedance.com/8889/4136164（复制到浏览器打开）&#xA;👉公众号后台回复“clickhouse”即可获得飞书交流群二维码</title>
-    <updated>2020-08-14T16:35:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-14:/s/ITSkV8TLPsAgm5-Jc09VrQ</id>
-    <link href="https://mp.weixin.qq.com/s/ITSkV8TLPsAgm5-Jc09VrQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
