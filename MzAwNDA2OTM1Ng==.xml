@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T11:21:31+08:00</updated>
+  <updated>2020-10-23T11:20:11+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 面试必考的 6 个技能，都在这了</title>
+    <updated>2020-10-23T01:34:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/nZut_mRHZV6BtbFpyFGVqA</id>
+    <link href="https://mp.weixin.qq.com/s/nZut_mRHZV6BtbFpyFGVqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>美团面经</title>
+    <updated>2020-10-23T01:34:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/gSG_ZzZN7Ek2HEGtdi_Nkg</id>
+    <link href="https://mp.weixin.qq.com/s/gSG_ZzZN7Ek2HEGtdi_Nkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一口气搞懂MySQL索引所有知识点</title>
     <updated>2020-10-21T23:47:02+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>影响几十万程序员的决策，腾讯阿里美团又搞事了。。。</title>
-    <updated>2020-10-18T23:47:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/4JqZLnec-Zv7dR0U5rk96Q</id>
-    <link href="https://mp.weixin.qq.com/s/4JqZLnec-Zv7dR0U5rk96Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>「面经」小红书之旅</title>
     <updated>2020-10-18T19:49:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/3OTwlqCpJHEwtUvSQn1xmw</id>
@@ -96,13 +103,6 @@
     <updated>2020-10-13T20:06:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/j4lneCQjbSITbsEFBqg3BQ</id>
     <link href="https://mp.weixin.qq.com/s/j4lneCQjbSITbsEFBqg3BQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL事务与MVCC如何实现的隔离级别</title>
-    <updated>2020-10-12T22:45:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/CZHuGT4sKs_QHD_bv3BfAQ</id>
-    <link href="https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

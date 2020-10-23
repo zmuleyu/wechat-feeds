@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T16:17:05+08:00</updated>
+  <updated>2020-10-23T11:16:38+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Firebase Summit 2020 线上峰会即将到来！</title>
+    <updated>2020-10-23T09:42:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/cT9ejANt6qEDpcqa5jLgIg</id>
+    <link href="https://mp.weixin.qq.com/s/cT9ejANt6qEDpcqa5jLgIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Android Studio 4.1 发布，全方位提升开发体验</title>
     <updated>2020-10-22T12:39:30+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-10-13T22:49:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/mO2lT_s1s5a94KeirPpeVg</id>
     <link href="https://mp.weixin.qq.com/s/mO2lT_s1s5a94KeirPpeVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MediaPipe 新示例：灵活稳定的目标检测和追踪</title>
-    <updated>2020-10-13T11:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/cLVkKNnKlflQ67pTo_k5Nw</id>
-    <link href="https://mp.weixin.qq.com/s/cLVkKNnKlflQ67pTo_k5Nw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

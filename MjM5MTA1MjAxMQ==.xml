@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T07:17:43+08:00</updated>
+  <updated>2020-10-23T11:18:02+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何快速建立正确的前端知识体系？</title>
+    <updated>2020-10-23T07:30:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/r7NMpB0hn2NKYrHuunCsbA</id>
+    <link href="https://mp.weixin.qq.com/s/r7NMpB0hn2NKYrHuunCsbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【第2095期】用Canvas实现一个动态甜甜圈图表</title>
+    <updated>2020-10-23T07:30:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/8uZov90vXxDzm83_1zg4QQ</id>
+    <link href="https://mp.weixin.qq.com/s/8uZov90vXxDzm83_1zg4QQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2094期】水波图实现原理</title>
     <updated>2020-10-22T05:59:26+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-14T05:59:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/e6IvG-7bJuiDgGUciOGqrA</id>
     <link href="https://mp.weixin.qq.com/s/e6IvG-7bJuiDgGUciOGqrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手带你从零打造Vue SSR，清晰易懂！</title>
-    <updated>2020-10-13T07:30:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/rKsvvGIEH4A24UIh2Ln0ZA</id>
-    <link href="https://mp.weixin.qq.com/s/rKsvvGIEH4A24UIh2Ln0ZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2085期】使用 babel 全家桶模块化古老的面条代码</title>
-    <updated>2020-10-13T07:30:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/L9wD6dhxg4cX_xibxmNa-A</id>
-    <link href="https://mp.weixin.qq.com/s/L9wD6dhxg4cX_xibxmNa-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

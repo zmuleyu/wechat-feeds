@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T11:18:57+08:00</updated>
+  <updated>2020-10-23T11:18:06+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spring Cloud架构的各个组件的原理分析</title>
+    <updated>2020-10-22T20:54:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/s_NoxSQhSxKzISqyFia1_Q</id>
+    <link href="https://mp.weixin.qq.com/s/s_NoxSQhSxKzISqyFia1_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2020-10-22T20:54:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/XcDkV15fsYq-YPG0iDZung</id>
+    <link href="https://mp.weixin.qq.com/s/XcDkV15fsYq-YPG0iDZung" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>介绍50+个有用的DevOps工具</title>
     <updated>2020-10-22T06:46:56+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-10-13T22:34:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/Tj2HHt7HGQDH1YY0XIkwbg</id>
     <link href="https://mp.weixin.qq.com/s/Tj2HHt7HGQDH1YY0XIkwbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何运用DDD（三）：领域服务</title>
-    <updated>2020-10-13T07:40:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/5CoCjJ1Bm6-NeVoNO22ODQ</id>
-    <link href="https://mp.weixin.qq.com/s/5CoCjJ1Bm6-NeVoNO22ODQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DDD实战培训</title>
-    <updated>2020-10-13T07:40:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/TAWm9qxZCLW3T2namUsu2Q</id>
-    <link href="https://mp.weixin.qq.com/s/TAWm9qxZCLW3T2namUsu2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

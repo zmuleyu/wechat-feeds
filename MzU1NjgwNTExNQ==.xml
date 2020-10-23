@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T11:17:48+08:00</updated>
+  <updated>2020-10-23T11:17:44+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TIOBE 10 月榜单出炉！Python有望第二？Rust出局前二十</title>
+    <updated>2020-10-22T20:49:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/TzFYzWhFD4xct3WtB24zVw</id>
+    <link href="https://mp.weixin.qq.com/s/TzFYzWhFD4xct3WtB24zVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>水友：凭借这份微服务架构拿下蚂蚁、字节、小米的offer！</title>
     <updated>2020-10-21T22:28:43+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-10-13T23:12:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/15_GjBhptLrVwX_FPmpCaw</id>
     <link href="https://mp.weixin.qq.com/s/15_GjBhptLrVwX_FPmpCaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 程序员的工资能有多高？</title>
-    <updated>2020-10-12T22:00:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/A8bU-juH8UzVTqVboVBHtg</id>
-    <link href="https://mp.weixin.qq.com/s/A8bU-juH8UzVTqVboVBHtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>科技巨头谷歌涉嫌垄断，或被拆分为多家公司</title>
-    <updated>2020-10-12T22:00:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/dRLcftnXhvi7-cr-ceSA_Q</id>
-    <link href="https://mp.weixin.qq.com/s/dRLcftnXhvi7-cr-ceSA_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

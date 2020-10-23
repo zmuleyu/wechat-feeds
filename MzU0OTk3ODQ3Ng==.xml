@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T13:20:29+08:00</updated>
+  <updated>2020-10-23T11:20:08+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kafka 面试必问：聊聊 acks 参数对消息持久化的影响！</title>
+    <updated>2020-10-23T08:35:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/PePsJzuKEIfQpCH1KbxrCg</id>
+    <link href="https://mp.weixin.qq.com/s/PePsJzuKEIfQpCH1KbxrCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不懂就问：delete 后加 limit 是个好习惯么 ？</title>
     <updated>2020-10-22T10:29:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-28T16:58:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/WzhSJAb2JZMQ0r5eqCwuNQ</id>
     <link href="https://mp.weixin.qq.com/s/WzhSJAb2JZMQ0r5eqCwuNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>40张图带你看懂分布式追踪系统原理及实践</title>
-    <updated>2020-09-25T12:11:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/GpiiLaaygPU1oPIk2YGQRg</id>
-    <link href="https://mp.weixin.qq.com/s/GpiiLaaygPU1oPIk2YGQRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
