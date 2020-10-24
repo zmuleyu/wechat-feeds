@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T23:12:37+08:00</updated>
+  <updated>2020-10-24T20:15:54+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo 互联网2020编程大赛圆满落幕</title>
+    <updated>2020-10-24T18:39:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/jyUtsSDS9G-iplFR-6_5hg</id>
+    <link href="https://mp.weixin.qq.com/s/jyUtsSDS9G-iplFR-6_5hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hystrix 如何解决 ThreadLocal 信息丢失</title>
     <updated>2020-10-22T20:17:35+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-09-09T18:45:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-09:/s/7I6zeft7-niFtLs6FG_ejQ</id>
     <link href="https://mp.weixin.qq.com/s/7I6zeft7-niFtLs6FG_ejQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo商城前端架构升级-总览篇</title>
-    <updated>2020-09-02T18:04:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-02:/s/vD9yvYNaxTQBLABik6aqNg</id>
-    <link href="https://mp.weixin.qq.com/s/vD9yvYNaxTQBLABik6aqNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

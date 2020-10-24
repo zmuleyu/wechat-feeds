@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T20:22:30+08:00</updated>
+  <updated>2020-10-24T20:16:46+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】在C++平台上部署PyTorch模型流程+踩坑实录</title>
+    <updated>2020-10-24T18:52:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/KNTv-zaW5OK33Oq1RJiptQ</id>
+    <link href="https://mp.weixin.qq.com/s/KNTv-zaW5OK33Oq1RJiptQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【源头活水】理解MobileNetV3</title>
+    <updated>2020-10-24T18:52:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/dzKCBezMxyK6Noxe9pbGzw</id>
+    <link href="https://mp.weixin.qq.com/s/dzKCBezMxyK6Noxe9pbGzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI85×CRIPAC 情感分析专题</title>
+    <updated>2020-10-24T18:52:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/PLNG6GqWdFedBfM_yrjdQw</id>
+    <link href="https://mp.weixin.qq.com/s/PLNG6GqWdFedBfM_yrjdQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【综述专栏】异常检测：Anomaly Detection综述</title>
     <updated>2020-10-23T18:17:20+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-18T19:41:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/_OcrnJDHNRwOEg2UlUqhpQ</id>
     <link href="https://mp.weixin.qq.com/s/_OcrnJDHNRwOEg2UlUqhpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】深度学习模型转换与部署那些事(含ONNX格式详细分析)</title>
-    <updated>2020-10-17T20:58:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/WTRFvKmj6BtCzLhfbhawbA</id>
-    <link href="https://mp.weixin.qq.com/s/WTRFvKmj6BtCzLhfbhawbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】小样本学习——概念、原理与方法简介（Few-shot learning）</title>
-    <updated>2020-10-17T20:58:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/IYkXliirRaxJuo5b9fA0GA</id>
-    <link href="https://mp.weixin.qq.com/s/IYkXliirRaxJuo5b9fA0GA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI83×CRIPAC 对抗样本专题</title>
-    <updated>2020-10-17T20:58:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/ghIQcWlz8YfzeRK3ZMZ8sg</id>
-    <link href="https://mp.weixin.qq.com/s/ghIQcWlz8YfzeRK3ZMZ8sg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
