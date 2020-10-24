@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T23:17:27+08:00</updated>
+  <updated>2020-10-24T23:16:39+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：Laravel的“南天门”，过滤掉七七八八的数据</title>
+    <updated>2020-10-24T21:03:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/00sbtqdGGR2itStuwwxUuA</id>
+    <link href="https://mp.weixin.qq.com/s/00sbtqdGGR2itStuwwxUuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：Laravel应用跟用户打交道，就从拿到他们的数据开始！</title>
     <updated>2020-10-23T20:28:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-15T23:15:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/1yG6OvF3oKZ9nEm0iAMmbA</id>
     <link href="https://mp.weixin.qq.com/s/1yG6OvF3oKZ9nEm0iAMmbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：用Laravel发一封“漂洋过海”的电子邮件</title>
-    <updated>2020-10-14T18:00:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/_U4dTQcY2m1FEvdPbBxxRQ</id>
-    <link href="https://mp.weixin.qq.com/s/_U4dTQcY2m1FEvdPbBxxRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
