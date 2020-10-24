@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T11:18:06+08:00</updated>
+  <updated>2020-10-24T11:19:12+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2020-10-24T08:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/8LUjjKSlF4Y3ocaizXWkCw</id>
+    <link href="https://mp.weixin.qq.com/s/8LUjjKSlF4Y3ocaizXWkCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>重磅 | 阿里开源首个 Serverless 开发者平台 Serverless Devs</title>
+    <updated>2020-10-24T08:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/OIMt2id4WNaiex4bMV6WZw</id>
+    <link href="https://mp.weixin.qq.com/s/OIMt2id4WNaiex4bMV6WZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Cloud架构的各个组件的原理分析</title>
     <updated>2020-10-22T20:54:47+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-10-15T07:45:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/D0PZyV0_0JzROI14jBBCnA</id>
     <link href="https://mp.weixin.qq.com/s/D0PZyV0_0JzROI14jBBCnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神曲《Serverless 之歌》唱出云行业心声，开发者神评论：我连看了 6 遍</title>
-    <updated>2020-10-13T22:34:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/i-pzpR_wMVazx7E7blEzHg</id>
-    <link href="https://mp.weixin.qq.com/s/i-pzpR_wMVazx7E7blEzHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2020-10-13T22:34:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/Tj2HHt7HGQDH1YY0XIkwbg</id>
-    <link href="https://mp.weixin.qq.com/s/Tj2HHt7HGQDH1YY0XIkwbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

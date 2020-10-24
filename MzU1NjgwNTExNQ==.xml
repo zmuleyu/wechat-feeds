@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T11:17:44+08:00</updated>
+  <updated>2020-10-24T11:18:39+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员每天都在焦虑？其实大可不必</title>
+    <updated>2020-10-23T12:56:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/zLo_bfG2TQDKYkboKHpX6A</id>
+    <link href="https://mp.weixin.qq.com/s/zLo_bfG2TQDKYkboKHpX6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1024程序员节，联合清华大学出版社送好书来啦！</title>
+    <updated>2020-10-23T12:56:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/xwzS5J0SrrjScm8viis1nw</id>
+    <link href="https://mp.weixin.qq.com/s/xwzS5J0SrrjScm8viis1nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TIOBE 10 月榜单出炉！Python有望第二？Rust出局前二十</title>
     <updated>2020-10-22T20:49:31+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-10-14T22:15:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/T95R3NSdtI3hNtfPJSetDg</id>
     <link href="https://mp.weixin.qq.com/s/T95R3NSdtI3hNtfPJSetDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何能彻底的掌握神经网络，对能否真正掌握AI的核心知识至关重要？</title>
-    <updated>2020-10-13T23:12:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/5atWNLg3CuvRixicLBuAIA</id>
-    <link href="https://mp.weixin.qq.com/s/5atWNLg3CuvRixicLBuAIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货回顾 | VS Code 在 IoT 工程项目中的应用</title>
-    <updated>2020-10-13T23:12:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/15_GjBhptLrVwX_FPmpCaw</id>
-    <link href="https://mp.weixin.qq.com/s/15_GjBhptLrVwX_FPmpCaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

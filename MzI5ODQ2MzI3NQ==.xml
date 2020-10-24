@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T16:17:07+08:00</updated>
+  <updated>2020-10-24T11:14:57+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【实战技能】Zabbix监控之故障微信报警！</title>
+    <updated>2020-10-23T23:13:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/Hl5CRdWij0El6y2ZxUM7ZA</id>
+    <link href="https://mp.weixin.qq.com/s/Hl5CRdWij0El6y2ZxUM7ZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>和阿里p8架构师聊了聊人生！​</title>
+    <updated>2020-10-23T23:13:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/nIW-7Bb78t4Dlnsd9djbuA</id>
+    <link href="https://mp.weixin.qq.com/s/nIW-7Bb78t4Dlnsd9djbuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软发布开源K8s 边缘设备项目Akri</title>
+    <updated>2020-10-23T23:13:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/ptR9ZTYgQ5SHkqBkBF__zw</id>
+    <link href="https://mp.weixin.qq.com/s/ptR9ZTYgQ5SHkqBkBF__zw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：小黄人学 Kubernetes Service</title>
     <updated>2020-10-23T09:12:50+08:00</updated>
@@ -96,20 +117,6 @@
     <updated>2020-10-15T11:05:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/kRhXarGHp3EFwPlf5d4EEg</id>
     <link href="https://mp.weixin.qq.com/s/kRhXarGHp3EFwPlf5d4EEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生景观：运行时层解决了什么问题？如何解决的？</title>
-    <updated>2020-10-14T17:48:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/V5pNo3Gt2OKujoAi5U94QA</id>
-    <link href="https://mp.weixin.qq.com/s/V5pNo3Gt2OKujoAi5U94QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这份Kubernetes PDF文件值得一看！可下载！</title>
-    <updated>2020-10-14T17:48:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/korSJc6azaVp1N7h8fwBLA</id>
-    <link href="https://mp.weixin.qq.com/s/korSJc6azaVp1N7h8fwBLA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
