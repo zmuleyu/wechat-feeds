@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T23:22:04+08:00</updated>
+  <updated>2020-10-25T01:21:30+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 Rust 重写的 Kata Containers 大幅提升速度</title>
+    <updated>2020-10-24T23:24:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/sOh267u7EplIvGdwDiU_Vw</id>
+    <link href="https://mp.weixin.qq.com/s/sOh267u7EplIvGdwDiU_Vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>再谈 Send 与 Sync | Rust学习笔记</title>
+    <updated>2020-10-24T23:24:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/e2Hq9Plrz0OI5OOlvF20OA</id>
+    <link href="https://mp.weixin.qq.com/s/e2Hq9Plrz0OI5OOlvF20OA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-10-23 - rust-gpu v0.1发布，尝试让Rust成为GPU编程的一等语言</title>
     <updated>2020-10-23T22:57:38+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-15T22:40:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/5SVBdovEaY4c_DRgX5AJcg</id>
     <link href="https://mp.weixin.qq.com/s/5SVBdovEaY4c_DRgX5AJcg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-10-14 pin-project 1.0 released</title>
-    <updated>2020-10-14T22:40:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/xYICXSihORY_0BSrUxUHgg</id>
-    <link href="https://mp.weixin.qq.com/s/xYICXSihORY_0BSrUxUHgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【招聘】【阿里巴巴】钉钉文档团队招聘！！</title>
-    <updated>2020-10-14T22:40:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/A_ba3qa4ze9o8-IHKtoEMg</id>
-    <link href="https://mp.weixin.qq.com/s/A_ba3qa4ze9o8-IHKtoEMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
