@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>有赞coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-21T20:20:32+08:00</updated>
+  <updated>2020-10-24T13:17:41+08:00</updated>
   <subtitle>有赞技术官方公众号，推广有赞技术干货，偶有有赞技术小哥哥小姐姐们的日常</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>1024！祝一级棒的工程师们节日快乐！</title>
+    <updated>2020-10-24T13:01:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/DgqNjiqUpDBhdppwJcLAAQ</id>
+    <link href="https://mp.weixin.qq.com/s/DgqNjiqUpDBhdppwJcLAAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有赞保理业务架构设计与实践</title>
     <updated>2020-10-21T17:51:42+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-09-11T16:44:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/Wm583qbjRlqlNnlrzX9J9w</id>
     <link href="https://mp.weixin.qq.com/s/Wm583qbjRlqlNnlrzX9J9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有赞crash平台符号化实践</title>
-    <updated>2020-09-10T19:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/hc3NnmjQjRP5yLJ-LfyfaA</id>
-    <link href="https://mp.weixin.qq.com/s/hc3NnmjQjRP5yLJ-LfyfaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我们本来打算只发布 Vant3.0，但是发生了一些意外。。。</title>
-    <updated>2020-09-10T19:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/MrCQvMq0UauOB2N5sm_jSQ</id>
-    <link href="https://mp.weixin.qq.com/s/MrCQvMq0UauOB2N5sm_jSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
