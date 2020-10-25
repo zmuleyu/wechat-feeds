@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T23:18:41+08:00</updated>
+  <updated>2020-10-25T23:15:35+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>未来的MPEG标准及VVC和EVC中的8K视频</title>
+    <updated>2020-10-25T21:57:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/MywbmCCG_EBTyhiV4LTZBw</id>
+    <link href="https://mp.weixin.qq.com/s/MywbmCCG_EBTyhiV4LTZBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>鉴别媒体出处的技术思考</title>
     <updated>2020-10-23T22:57:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-15T22:26:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/frIswF2SHxGbzMlUBfw-Kw</id>
     <link href="https://mp.weixin.qq.com/s/frIswF2SHxGbzMlUBfw-Kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>逼真的说话人脸生成</title>
-    <updated>2020-10-14T20:44:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/UoEqJMbWzYzbVQEsScryWw</id>
-    <link href="https://mp.weixin.qq.com/s/UoEqJMbWzYzbVQEsScryWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

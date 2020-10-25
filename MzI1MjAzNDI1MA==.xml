@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-25T01:21:30+08:00</updated>
+  <updated>2020-10-25T23:17:46+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-10-25 - RFC 2959：提升 Aarch64 Target 为一级</title>
+    <updated>2020-10-25T22:20:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/EJGVHr_9YRZDq8_pu3QqZA</id>
+    <link href="https://mp.weixin.qq.com/s/EJGVHr_9YRZDq8_pu3QqZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[Rust][权限控制][Casbin] Rust 下成熟好用的权限控制库</title>
+    <updated>2020-10-25T22:20:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/Y0Qmh9R2g0r2eHad44CveQ</id>
+    <link href="https://mp.weixin.qq.com/s/Y0Qmh9R2g0r2eHad44CveQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 Rust 重写的 Kata Containers 大幅提升速度</title>
     <updated>2020-10-24T23:24:38+08:00</updated>
@@ -124,27 +138,6 @@
     <updated>2020-10-16T23:10:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/ZFgShKAP9OkiYs-8_llsEA</id>
     <link href="https://mp.weixin.qq.com/s/ZFgShKAP9OkiYs-8_llsEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust FFI 编程 - cbindgen 工具介绍</title>
-    <updated>2020-10-15T22:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/_1nczBwPR-0O6GAq8qigDA</id>
-    <link href="https://mp.weixin.qq.com/s/_1nczBwPR-0O6GAq8qigDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-10-13 Rust之后再用C++很痛苦</title>
-    <updated>2020-10-15T22:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/nl2VQTSYIob6ATFgEiemEQ</id>
-    <link href="https://mp.weixin.qq.com/s/nl2VQTSYIob6ATFgEiemEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】Rust与智能指针</title>
-    <updated>2020-10-15T22:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/5SVBdovEaY4c_DRgX5AJcg</id>
-    <link href="https://mp.weixin.qq.com/s/5SVBdovEaY4c_DRgX5AJcg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
