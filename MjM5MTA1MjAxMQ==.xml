@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-25T07:20:49+08:00</updated>
+  <updated>2020-10-26T07:16:33+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2098期】Redis + NodeJS 实现一个能处理海量数据的异步任务队列系统</title>
+    <updated>2020-10-26T06:07:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/nlazUC24yj79u7dHkqX3KA</id>
+    <link href="https://mp.weixin.qq.com/s/nlazUC24yj79u7dHkqX3KA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【图书】研发质量保障与工程效率</title>
+    <updated>2020-10-26T06:07:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/FGAARrxSSGERjscrsxULsw</id>
+    <link href="https://mp.weixin.qq.com/s/FGAARrxSSGERjscrsxULsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2097期】表情包的魔幻之旅</title>
     <updated>2020-10-25T06:27:22+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-17T06:42:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/b6sYmX0B9mZy1ejEGRdKLA</id>
     <link href="https://mp.weixin.qq.com/s/b6sYmX0B9mZy1ejEGRdKLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2088期】前端中台化，把格局做大——NodeJS 和测试服务探索</title>
-    <updated>2020-10-16T06:02:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/3Ukere2IY8T624WRFgspWg</id>
-    <link href="https://mp.weixin.qq.com/s/3Ukere2IY8T624WRFgspWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【图书】前端开发核心知识进阶：从夯实基础到突破瓶颈</title>
-    <updated>2020-10-16T06:02:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/I66AZcQIFt1b0lbIIUqKPA</id>
-    <link href="https://mp.weixin.qq.com/s/I66AZcQIFt1b0lbIIUqKPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
