@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T13:17:04+08:00</updated>
+  <updated>2020-10-25T20:21:28+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端周报：微软为IE加入禁用JScript选项；马云：我最大的经验就是没怎么成功过；《我的世界》强制升级：必须使用微软账号登录</title>
+    <updated>2020-10-25T16:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/_Ff4fsgtMwd7kGP_jVebIg</id>
+    <link href="https://mp.weixin.qq.com/s/_Ff4fsgtMwd7kGP_jVebIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中国程序员人口普查：原来你是这样的程序员 | 活动推荐</title>
+    <updated>2020-10-25T16:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/jABODDSQlY2HfTK-_N6Ufg</id>
+    <link href="https://mp.weixin.qq.com/s/jABODDSQlY2HfTK-_N6Ufg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>NPM 移除 4 个恶意软件包：泄露用户数据已有数月，4 个包分工明确</title>
     <updated>2020-10-23T12:01:33+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-14T15:07:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/v2oPGs3o4_2W0FSJfQdtzw</id>
     <link href="https://mp.weixin.qq.com/s/v2oPGs3o4_2W0FSJfQdtzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Webpack 5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能</title>
-    <updated>2020-10-13T16:30:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/rGawkY2kfRBxFq83UPQ9uQ</id>
-    <link href="https://mp.weixin.qq.com/s/rGawkY2kfRBxFq83UPQ9uQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>安卓手机时间突然变慢？网友：糟糕，上班迟到了</title>
-    <updated>2020-10-13T16:30:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/DU_iTSGN1U5NxhQrVBMGtw</id>
-    <link href="https://mp.weixin.qq.com/s/DU_iTSGN1U5NxhQrVBMGtw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

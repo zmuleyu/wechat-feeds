@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-24T20:20:57+08:00</updated>
+  <updated>2020-10-25T20:23:09+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>解Bug之路-Nginx 502 Bad Gateway</title>
+    <updated>2020-10-25T14:18:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/WM8YMJQ-1x7HDjE0d-8uTw</id>
+    <link href="https://mp.weixin.qq.com/s/WM8YMJQ-1x7HDjE0d-8uTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>React 17 正式版发布，版本变更日志来啦！</title>
+    <updated>2020-10-25T14:18:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/gmxZ2AzXTk8XZBgErLr0eg</id>
+    <link href="https://mp.weixin.qq.com/s/gmxZ2AzXTk8XZBgErLr0eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ubuntu 20.10 正式发布：新特性亮点汇总</title>
     <updated>2020-10-24T14:06:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-16T19:47:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/2o7-nwl6UIL4WbLVFdCu9A</id>
     <link href="https://mp.weixin.qq.com/s/2o7-nwl6UIL4WbLVFdCu9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>信通院发布《开源生态白皮书（2020）》！</title>
-    <updated>2020-10-16T19:47:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/0omR6tsAkWu0V3M9pj6imA</id>
-    <link href="https://mp.weixin.qq.com/s/0omR6tsAkWu0V3M9pj6imA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android 12 有望用上 WireGuard</title>
-    <updated>2020-10-16T19:47:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/nffX3Lptf-7ZBPTS8uunZQ</id>
-    <link href="https://mp.weixin.qq.com/s/nffX3Lptf-7ZBPTS8uunZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

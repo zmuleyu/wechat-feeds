@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-24T20:14:42+08:00</updated>
+  <updated>2020-10-25T20:26:05+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>工控实验箱之工控安全演示及防护建议</title>
+    <updated>2020-10-25T17:59:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/3hwTbrp85bypmdpPE3OGew</id>
+    <link href="https://mp.weixin.qq.com/s/3hwTbrp85bypmdpPE3OGew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Solr 未授权上传（RCE）漏洞的原理分析与验证</title>
+    <updated>2020-10-25T17:59:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/2WN9R89TLsxUiazo7WDp8w</id>
+    <link href="https://mp.weixin.qq.com/s/2WN9R89TLsxUiazo7WDp8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>挖洞经验 | 通过下载功能实现Facebook安卓应用任意代码执行</title>
+    <updated>2020-10-25T17:59:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/EoI6W5G5qpdvXhYp1e6GBA</id>
+    <link href="https://mp.weixin.qq.com/s/EoI6W5G5qpdvXhYp1e6GBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IoTMap：一款支持多协议的物联网网络模型构建工具</title>
+    <updated>2020-10-25T17:59:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/itgITXSrDubsgnllrtCckg</id>
+    <link href="https://mp.weixin.qq.com/s/itgITXSrDubsgnllrtCckg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux系统sysupdate挖矿病毒之update.sh脚本分析</title>
     <updated>2020-10-24T17:25:37+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-21T17:26:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/njX9y4by1L4MUCCSEePS4Q</id>
     <link href="https://mp.weixin.qq.com/s/njX9y4by1L4MUCCSEePS4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《2020企业安全威胁统一应对指南》正式启动 | FreeBuf咨询</title>
-    <updated>2020-10-20T17:16:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/rQBQ3gCHbsOKr-t2uwwhzg</id>
-    <link href="https://mp.weixin.qq.com/s/rQBQ3gCHbsOKr-t2uwwhzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【议题公布】“唯品会安全线上沙龙”：移动应用安全——掌上攻与防</title>
-    <updated>2020-10-20T17:16:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/1yEP2guXWRotBazbAZTbYA</id>
-    <link href="https://mp.weixin.qq.com/s/1yEP2guXWRotBazbAZTbYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TikTok宣布与HackerOne的漏洞赏金计划，最高单个漏洞14800美金</title>
-    <updated>2020-10-20T17:16:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/LRyQwsm0-CzkO3-oJz7UjQ</id>
-    <link href="https://mp.weixin.qq.com/s/LRyQwsm0-CzkO3-oJz7UjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>乌克兰断电事件、平昌冬奥会网络暗战的幕后主使名单</title>
-    <updated>2020-10-20T17:16:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/VSblvOyaTyYNjcGwpMEIuQ</id>
-    <link href="https://mp.weixin.qq.com/s/VSblvOyaTyYNjcGwpMEIuQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
