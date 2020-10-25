@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-24T11:18:39+08:00</updated>
+  <updated>2020-10-25T11:18:16+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Ubuntu 20.10 正式发布：新特性亮点汇总</title>
+    <updated>2020-10-24T21:59:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/kQsrC3m6BAzI7Tv8T_rebw</id>
+    <link href="https://mp.weixin.qq.com/s/kQsrC3m6BAzI7Tv8T_rebw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>花 160 买 400 好书！薅当当羊毛！</title>
+    <updated>2020-10-24T21:59:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/CNhWVGR0Z9o7SdaOOhfUqg</id>
+    <link href="https://mp.weixin.qq.com/s/CNhWVGR0Z9o7SdaOOhfUqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员每天都在焦虑？其实大可不必</title>
     <updated>2020-10-23T12:56:42+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-10-15T19:41:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/pYPrnxqSxbM96_ph5Lvpxw</id>
     <link href="https://mp.weixin.qq.com/s/pYPrnxqSxbM96_ph5Lvpxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>尝鲜 GitHub Codespaces Beta，真香！</title>
-    <updated>2020-10-14T22:15:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/izXqVtnolsOtLRP0mkTIwA</id>
-    <link href="https://mp.weixin.qq.com/s/izXqVtnolsOtLRP0mkTIwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在线分享：使用Visual Studio Code进行端到端应用程序开发</title>
-    <updated>2020-10-14T22:15:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/T95R3NSdtI3hNtfPJSetDg</id>
-    <link href="https://mp.weixin.qq.com/s/T95R3NSdtI3hNtfPJSetDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
