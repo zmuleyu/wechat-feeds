@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T11:20:08+08:00</updated>
+  <updated>2020-10-26T11:18:13+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JVM 性能调优监控工具 jps、jstack、jmap、jhat、jstat、hprof 使用详解</title>
+    <updated>2020-10-26T09:21:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/XBB2IJf8ODkcjZiU423J4Q</id>
+    <link href="https://mp.weixin.qq.com/s/XBB2IJf8ODkcjZiU423J4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kafka 面试必问：聊聊 acks 参数对消息持久化的影响！</title>
     <updated>2020-10-23T08:35:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-30T17:04:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/wT3i12HV_6ev5HSPJ9ANRg</id>
     <link href="https://mp.weixin.qq.com/s/wT3i12HV_6ev5HSPJ9ANRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里面试：关于缓存穿透、缓存雪崩、热点数据失效问题的解决方案！</title>
-    <updated>2020-09-28T16:58:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/WzhSJAb2JZMQ0r5eqCwuNQ</id>
-    <link href="https://mp.weixin.qq.com/s/WzhSJAb2JZMQ0r5eqCwuNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

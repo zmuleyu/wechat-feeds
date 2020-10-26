@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农翻身 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T11:12:58+08:00</updated>
+  <updated>2020-10-26T11:13:32+08:00</updated>
   <subtitle>技术本来是很精彩的啊！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫画：烂代码传奇</title>
+    <updated>2020-10-25T18:45:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/6cGOaGEh7RrPHSjbMlG_4Q</id>
+    <link href="https://mp.weixin.qq.com/s/6cGOaGEh7RrPHSjbMlG_4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：从新手到老油条</title>
     <updated>2020-10-22T21:42:11+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-10-11T22:52:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/Pwzt8xH87DoCgg-nDwJnQQ</id>
     <link href="https://mp.weixin.qq.com/s/Pwzt8xH87DoCgg-nDwJnQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：为什么C语言永不过时？</title>
-    <updated>2020-10-09T08:37:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/AW8FR8il0_f8palVYfWUvA</id>
-    <link href="https://mp.weixin.qq.com/s/AW8FR8il0_f8palVYfWUvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

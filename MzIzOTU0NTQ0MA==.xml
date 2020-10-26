@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-24T11:15:41+08:00</updated>
+  <updated>2020-10-26T11:14:24+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用好云原生数据湖？</title>
+    <updated>2020-10-25T23:15:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/ueltGF9FlgsKXjmrhVvhpQ</id>
+    <link href="https://mp.weixin.qq.com/s/ueltGF9FlgsKXjmrhVvhpQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你不必懂  但我们一直在</title>
     <updated>2020-10-23T17:49:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-13T17:27:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/yV-qgiMb205XAYdItGtqSA</id>
     <link href="https://mp.weixin.qq.com/s/yV-qgiMb205XAYdItGtqSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个APP如何适配多个Andiroid终端？</title>
-    <updated>2020-10-12T18:21:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/uwsEbwpSeG1hme371JcomQ</id>
-    <link href="https://mp.weixin.qq.com/s/uwsEbwpSeG1hme371JcomQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
