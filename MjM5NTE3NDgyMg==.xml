@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软中国MSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T16:22:11+08:00</updated>
+  <updated>2020-10-26T13:17:48+08:00</updated>
   <subtitle>微软云Azure技术生态官方公众平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软MVP文章精选 | 关于ASP.NETCore的分享之路</title>
+    <updated>2020-10-26T12:11:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/iQa7BUFzJni9UrKxdd5IFA</id>
+    <link href="https://mp.weixin.qq.com/s/iQa7BUFzJni9UrKxdd5IFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软云助力 2020 中国开源年会 暨 阿帕奇中国路演</title>
     <updated>2020-10-23T13:46:45+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-10-14T21:40:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/HUHAiTnxxfoEF3sLcnwgGA</id>
     <link href="https://mp.weixin.qq.com/s/HUHAiTnxxfoEF3sLcnwgGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>传统IT 向云迁移的实践指南</title>
-    <updated>2020-10-13T09:17:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/muSuPg2aqbWF6lyeo0smFg</id>
-    <link href="https://mp.weixin.qq.com/s/muSuPg2aqbWF6lyeo0smFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
