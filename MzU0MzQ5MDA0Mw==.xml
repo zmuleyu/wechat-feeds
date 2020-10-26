@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-25T11:12:51+08:00</updated>
+  <updated>2020-10-26T20:25:03+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>乔新亮：从程序员到 CTO 的18年复盘</title>
+    <updated>2020-10-26T17:48:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/5vriTT2gdqAt56mwSSWjbw</id>
+    <link href="https://mp.weixin.qq.com/s/5vriTT2gdqAt56mwSSWjbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>什么是堡垒机？为什么需要堡垒机？</title>
+    <updated>2020-10-26T17:48:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/-HlgZzd7dcda_8YXNI0hIA</id>
+    <link href="https://mp.weixin.qq.com/s/-HlgZzd7dcda_8YXNI0hIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>强！Prometheus与Zabbix的对比选型！</title>
     <updated>2020-10-24T22:21:23+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-10-17T19:11:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/CqE7_krSd-yVsbqHZoxgqQ</id>
     <link href="https://mp.weixin.qq.com/s/CqE7_krSd-yVsbqHZoxgqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看看人家那后端API接口写得，那叫一个优雅！</title>
-    <updated>2020-10-15T20:10:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/IdDMqFSgQkIIHKK2IJLFTQ</id>
-    <link href="https://mp.weixin.qq.com/s/IdDMqFSgQkIIHKK2IJLFTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

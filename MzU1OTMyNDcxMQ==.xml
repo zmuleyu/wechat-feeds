@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T20:21:22+08:00</updated>
+  <updated>2020-10-26T20:24:18+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“量子固件”来了！利用 TensorFlow 提升量子计算硬件性能</title>
+    <updated>2020-10-26T18:50:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/2nxI6bqyYO-7g7FvChDxJQ</id>
+    <link href="https://mp.weixin.qq.com/s/2nxI6bqyYO-7g7FvChDxJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【抽奖送书】简单粗暴 TensorFlow.js：从安装到训练全程实例教学</title>
     <updated>2020-10-23T16:55:28+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-12T17:32:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/dCfybruxVVz-1_V3CHCj-A</id>
     <link href="https://mp.weixin.qq.com/s/dCfybruxVVz-1_V3CHCj-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PWIL：不依赖对抗性的新型模拟学习</title>
-    <updated>2020-10-09T16:34:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/JMroyQhzO0F4rjijVlfI6g</id>
-    <link href="https://mp.weixin.qq.com/s/JMroyQhzO0F4rjijVlfI6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

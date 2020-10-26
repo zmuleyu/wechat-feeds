@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T20:24:21+08:00</updated>
+  <updated>2020-10-26T20:18:37+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>iOS 推送手机消息背后的技术</title>
+    <updated>2020-10-26T16:35:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/ShdhW2cnhL6MOTVJSXLdOA</id>
+    <link href="https://mp.weixin.qq.com/s/ShdhW2cnhL6MOTVJSXLdOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何有效地进行代码 Review？</title>
     <updated>2020-10-23T18:10:00+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-28T16:31:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/tAcJpBGCg4sR5_bA9U0aDw</id>
     <link href="https://mp.weixin.qq.com/s/tAcJpBGCg4sR5_bA9U0aDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大牛书单 | 迎金秋，与腾讯技术大咖共读好书</title>
-    <updated>2020-09-25T15:00:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/FU8ePVDqhv6YXAVr3WOgmQ</id>
-    <link href="https://mp.weixin.qq.com/s/FU8ePVDqhv6YXAVr3WOgmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
