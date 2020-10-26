@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-25T20:19:52+08:00</updated>
+  <updated>2020-10-26T23:14:17+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：Laravel写个命令行，你就是下一个Geek！</title>
+    <updated>2020-10-26T21:06:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/Oo9pOCRLy6IbJmFdeSuFBA</id>
+    <link href="https://mp.weixin.qq.com/s/Oo9pOCRLy6IbJmFdeSuFBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：Laravel表单验证的“指挥中心”：FormRequest</title>
     <updated>2020-10-25T19:53:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-17T23:15:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/ZtgQu9evCNDuvB42u4vjTQ</id>
     <link href="https://mp.weixin.qq.com/s/ZtgQu9evCNDuvB42u4vjTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：为了你少跳坑，Laravel写好了用户授权</title>
-    <updated>2020-10-16T20:47:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/BrUvRt9WBY1d997do7rLeA</id>
-    <link href="https://mp.weixin.qq.com/s/BrUvRt9WBY1d997do7rLeA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
