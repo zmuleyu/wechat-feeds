@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T13:25:13+08:00</updated>
+  <updated>2020-10-27T13:28:41+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年有多少个人做NLP项目？掌握这些知识点，你也能成为NLP算法工程师！</title>
+    <updated>2020-10-26T22:46:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/MVWNcrWBQlarzofZEpG_mQ</id>
+    <link href="https://mp.weixin.qq.com/s/MVWNcrWBQlarzofZEpG_mQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>重磅 | 阿里开源首个 Serverless 开发者平台 Serverless Devs</title>
+    <updated>2020-10-26T22:46:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/oZTRNV-XHxbKzWvUzVgS4A</id>
+    <link href="https://mp.weixin.qq.com/s/oZTRNV-XHxbKzWvUzVgS4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​用Python操作Kubernetes的Job</title>
     <updated>2020-10-26T13:01:29+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-10-18T16:53:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/Ple66ra1DNQGZYRTSQ1z3g</id>
     <link href="https://mp.weixin.qq.com/s/Ple66ra1DNQGZYRTSQ1z3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Harbor权威指南》新书发布，赠送10本！</title>
-    <updated>2020-10-17T21:14:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/2002uyPh2iLJGkROXqNa6g</id>
-    <link href="https://mp.weixin.qq.com/s/2002uyPh2iLJGkROXqNa6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
