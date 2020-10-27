@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T20:24:18+08:00</updated>
+  <updated>2020-10-27T20:29:33+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow Extended + 神经架构学习：构建计算图正则化模型</title>
+    <updated>2020-10-27T20:19:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/y48iZ8zaGZ7PPW_F_5GaXw</id>
+    <link href="https://mp.weixin.qq.com/s/y48iZ8zaGZ7PPW_F_5GaXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TensorFlow 入门实操课程第二部分延展阅读</title>
+    <updated>2020-10-27T20:19:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/m3Rjzfj900ZR3gupRHp60A</id>
+    <link href="https://mp.weixin.qq.com/s/m3Rjzfj900ZR3gupRHp60A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“量子固件”来了！利用 TensorFlow 提升量子计算硬件性能</title>
     <updated>2020-10-26T18:50:53+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-10-14T17:33:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/-HP1jxB9h_6u0WQMHG3g3w</id>
     <link href="https://mp.weixin.qq.com/s/-HP1jxB9h_6u0WQMHG3g3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习零基础也不怕，“TensorFlow 官方入门实操课程”来了</title>
-    <updated>2020-10-12T17:32:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/dCfybruxVVz-1_V3CHCj-A</id>
-    <link href="https://mp.weixin.qq.com/s/dCfybruxVVz-1_V3CHCj-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

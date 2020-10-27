@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T20:16:55+08:00</updated>
+  <updated>2020-10-27T20:16:34+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】详解凸优化、图神经网络、强化学习、贝叶斯方法等四大主题</title>
+    <updated>2020-10-27T18:02:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/veCTqkYCUrN1lEkgRhp7_Q</id>
+    <link href="https://mp.weixin.qq.com/s/veCTqkYCUrN1lEkgRhp7_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】浅谈数据标准化与Pytorch中NLLLoss和CrossEntropyLoss损失函数的区别</title>
+    <updated>2020-10-27T18:02:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/Oq_b7zsRxhZaWcVBWQYKXQ</id>
+    <link href="https://mp.weixin.qq.com/s/Oq_b7zsRxhZaWcVBWQYKXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI86@ICT 学术人生专栏</title>
+    <updated>2020-10-27T18:02:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/5BQ64sKkQMUqDv-6sFLpvg</id>
+    <link href="https://mp.weixin.qq.com/s/5BQ64sKkQMUqDv-6sFLpvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【活动招募】SFFAI召集人蓄势待发！你准备好了吗？</title>
     <updated>2020-10-26T19:29:28+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-21T18:13:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/DABQcGYc3LYjDrTfMW4N8A</id>
     <link href="https://mp.weixin.qq.com/s/DABQcGYc3LYjDrTfMW4N8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>0元领书——《ROS机器人开发实践》</title>
-    <updated>2020-10-20T18:21:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/igbHril9qe9XoTJA7yRU-Q</id>
-    <link href="https://mp.weixin.qq.com/s/igbHril9qe9XoTJA7yRU-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【强基固本】基础算法：使用numpy实现逻辑回归随机梯度下降（附代码）</title>
-    <updated>2020-10-20T18:21:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/9Z256M2By0d-l8TcHaolYg</id>
-    <link href="https://mp.weixin.qq.com/s/9Z256M2By0d-l8TcHaolYg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI84×CRIPAC 句法分析专题</title>
-    <updated>2020-10-20T18:21:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/q-6gyo3GOXq2s-3xRuQTpw</id>
-    <link href="https://mp.weixin.qq.com/s/q-6gyo3GOXq2s-3xRuQTpw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
