@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T11:16:09+08:00</updated>
+  <updated>2020-10-27T11:16:08+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>监控系统选型，这篇不可不读！</title>
+    <updated>2020-10-27T08:18:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/VKPoZsveg_wzGv1FxCYcUg</id>
+    <link href="https://mp.weixin.qq.com/s/VKPoZsveg_wzGv1FxCYcUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 企业级应用Service Management Automation X（SMAX）的微服务之路</title>
+    <updated>2020-10-27T08:18:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/p-emcmnG0GkWbiGdojjU2Q</id>
+    <link href="https://mp.weixin.qq.com/s/p-emcmnG0GkWbiGdojjU2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kafka经典面试题详解</title>
     <updated>2020-10-26T07:25:11+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-18T08:26:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/_DxYdBZfv4--BW2U1DeiDQ</id>
     <link href="https://mp.weixin.qq.com/s/_DxYdBZfv4--BW2U1DeiDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
-    <updated>2020-10-18T08:26:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/LB27uDrYS8yaovxMamjwGw</id>
-    <link href="https://mp.weixin.qq.com/s/LB27uDrYS8yaovxMamjwGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用BuildKit构建容器镜像</title>
-    <updated>2020-10-17T08:16:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/UXUu0OeMWicU6CqYkcdfog</id>
-    <link href="https://mp.weixin.qq.com/s/UXUu0OeMWicU6CqYkcdfog" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
