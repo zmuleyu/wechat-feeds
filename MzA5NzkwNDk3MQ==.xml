@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T20:26:58+08:00</updated>
+  <updated>2020-10-28T20:26:42+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Chrome V8让你更懂JavaScript</title>
+    <updated>2020-10-28T11:44:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/E-c9gsk-kxIwnwY4R5z_3Q</id>
+    <link href="https://mp.weixin.qq.com/s/E-c9gsk-kxIwnwY4R5z_3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
+    <updated>2020-10-28T11:44:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/1oZbhnbeHtfQbqFJbUggGA</id>
+    <link href="https://mp.weixin.qq.com/s/1oZbhnbeHtfQbqFJbUggGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-10-28T11:44:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/DjznsofuE3DhrK0hsYf8tA</id>
+    <link href="https://mp.weixin.qq.com/s/DjznsofuE3DhrK0hsYf8tA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>React组件到底什么时候render啊</title>
     <updated>2020-10-27T19:15:18+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-20T20:46:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/hMKlmbQiH0Fp_GdnSVMyKA</id>
     <link href="https://mp.weixin.qq.com/s/hMKlmbQiH0Fp_GdnSVMyKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-10-20T20:46:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/GHqx7b8AFixy7zqQBVmaIg</id>
-    <link href="https://mp.weixin.qq.com/s/GHqx7b8AFixy7zqQBVmaIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-10-20T20:46:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/A5cDYGB_WzU5xeTu6U_2XQ</id>
-    <link href="https://mp.weixin.qq.com/s/A5cDYGB_WzU5xeTu6U_2XQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sketch 插件导出切片</title>
-    <updated>2020-10-19T16:49:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/d5j0-vK3XHGAHI6P46pXTA</id>
-    <link href="https://mp.weixin.qq.com/s/d5j0-vK3XHGAHI6P46pXTA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

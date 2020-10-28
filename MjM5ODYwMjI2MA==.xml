@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T20:18:37+08:00</updated>
+  <updated>2020-10-28T20:17:59+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云+社区3周年，程序员好礼送不停！</title>
+    <updated>2020-10-28T16:18:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/dZH0s8q71N3QSAXPZomOmQ</id>
+    <link href="https://mp.weixin.qq.com/s/dZH0s8q71N3QSAXPZomOmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>iOS 推送手机消息背后的技术</title>
     <updated>2020-10-26T16:35:08+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-05T17:03:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-05:/s/zH9kFjJQ5zE9mKGEiwEYAA</id>
     <link href="https://mp.weixin.qq.com/s/zH9kFjJQ5zE9mKGEiwEYAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常说的手机刷新率60Hz、120Hz有什么不同？</title>
-    <updated>2020-09-28T16:31:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/tAcJpBGCg4sR5_bA9U0aDw</id>
-    <link href="https://mp.weixin.qq.com/s/tAcJpBGCg4sR5_bA9U0aDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

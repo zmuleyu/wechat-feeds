@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T11:14:53+08:00</updated>
+  <updated>2020-10-28T20:20:32+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐一款超高速、多特性的高性能序列推理引擎—— LightSeq</title>
+    <updated>2020-10-28T17:51:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/5VeersQKxcT9AtFXS_CXnA</id>
+    <link href="https://mp.weixin.qq.com/s/5VeersQKxcT9AtFXS_CXnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>抖音品质建设 - iOS启动优化《原理篇》</title>
     <updated>2020-10-26T09:58:09+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-08-28T15:58:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-28:/s/Z0HbJiLlxpk0QFJ75t7gBg</id>
     <link href="https://mp.weixin.qq.com/s/Z0HbJiLlxpk0QFJ75t7gBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>沙龙回顾｜ClickHouse 在实时场景的应用和优化</title>
-    <updated>2020-08-25T16:08:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-25:/s/hqUCFSr8cu3x3u8HCA6WYg</id>
-    <link href="https://mp.weixin.qq.com/s/hqUCFSr8cu3x3u8HCA6WYg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播沙龙报名 | ClickHouse 在 A/B 实验和模型训练的使用</title>
-    <updated>2020-08-25T16:08:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-25:/s/reVZwNkC8tuynz0psfJQ9A</id>
-    <link href="https://mp.weixin.qq.com/s/reVZwNkC8tuynz0psfJQ9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

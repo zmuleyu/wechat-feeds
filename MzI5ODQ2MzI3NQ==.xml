@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T13:28:41+08:00</updated>
+  <updated>2020-10-28T20:29:54+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>拥抱云原生，Serverless技术还能这样用在容器服务中</title>
+    <updated>2020-10-28T16:48:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/5pI2jo2dXxeBwRZNW-z6Ew</id>
+    <link href="https://mp.weixin.qq.com/s/5pI2jo2dXxeBwRZNW-z6Ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>机构网络项目现场检查评分表</title>
+    <updated>2020-10-28T16:48:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/ORWt4yN8Dz0koMsId8HZLw</id>
+    <link href="https://mp.weixin.qq.com/s/ORWt4yN8Dz0koMsId8HZLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年有多少个人做NLP项目？掌握这些知识点，你也能成为NLP算法工程师！</title>
     <updated>2020-10-26T22:46:50+08:00</updated>
@@ -78,13 +92,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>阿里 P9 有多难？</title>
-    <updated>2020-10-22T11:29:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/cnKu6JWFx5n7bupnaT9jwA</id>
-    <link href="https://mp.weixin.qq.com/s/cnKu6JWFx5n7bupnaT9jwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>漫画：小黄人学 Kubernetes 对象</title>
     <updated>2020-10-22T11:29:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/qrJ50ma4LWBuOn_7WPGznw</id>
@@ -117,13 +124,6 @@
     <updated>2020-10-19T18:09:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/Nqoz4fPKb2iSvp1ORSOCew</id>
     <link href="https://mp.weixin.qq.com/s/Nqoz4fPKb2iSvp1ORSOCew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：秒懂DHCP是什么</title>
-    <updated>2020-10-18T16:53:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/Ple66ra1DNQGZYRTSQ1z3g</id>
-    <link href="https://mp.weixin.qq.com/s/Ple66ra1DNQGZYRTSQ1z3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T20:22:16+08:00</updated>
+  <updated>2020-10-28T20:22:31+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“双十一”大礼提前来袭，9.9 元远程参与 PCTA 在线考试！</title>
+    <updated>2020-10-28T17:19:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/l_dIg9QIMcowqImDjGUZGw</id>
+    <link href="https://mp.weixin.qq.com/s/l_dIg9QIMcowqImDjGUZGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>当 TiDB 与 Flink 相结合：高效、易用的实时数仓</title>
     <updated>2020-10-27T17:52:54+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-10-13T15:31:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-13:/s/mZWPCeqZduBBJyxL8LZwkw</id>
     <link href="https://mp.weixin.qq.com/s/mZWPCeqZduBBJyxL8LZwkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 TiSpark 的海量数据批量处理技术</title>
-    <updated>2020-10-09T17:38:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/p_otBGByjoro-gCcj1FHPQ</id>
-    <link href="https://mp.weixin.qq.com/s/p_otBGByjoro-gCcj1FHPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
