@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T13:28:47+08:00</updated>
+  <updated>2020-10-28T13:26:24+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>服务网格的零信任安全</title>
+    <updated>2020-10-28T11:39:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/xtXTe5FobZHRhvX4mXw2mw</id>
+    <link href="https://mp.weixin.qq.com/s/xtXTe5FobZHRhvX4mXw2mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>初识 NGINX 服务网格</title>
     <updated>2020-10-27T12:25:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-25T12:03:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-25:/s/4OKocNSfYDNoIGVmdzCuEQ</id>
     <link href="https://mp.weixin.qq.com/s/4OKocNSfYDNoIGVmdzCuEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软开源的 Open Service Mesh 初体验</title>
-    <updated>2020-08-07T12:10:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-07:/s/KjT3ip18e1Ng2Q3ixbJI2Q</id>
-    <link href="https://mp.weixin.qq.com/s/KjT3ip18e1Ng2Q3ixbJI2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
