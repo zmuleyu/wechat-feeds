@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T20:24:36+08:00</updated>
+  <updated>2020-10-28T23:27:06+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【招聘】[华为][杭州] 基础软件平台部 Rust 工程师</title>
+    <updated>2020-10-28T21:23:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/PuzYSQXkAm1VehWu0kk9fA</id>
+    <link href="https://mp.weixin.qq.com/s/PuzYSQXkAm1VehWu0kk9fA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-10-27 Cranelift已成为Rustc编译器的后端之一</title>
+    <updated>2020-10-28T21:23:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/_8L2YInPX6rrsh86v-7uMQ</id>
+    <link href="https://mp.weixin.qq.com/s/_8L2YInPX6rrsh86v-7uMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>libp2p-rs 开源项目的落地实现</title>
+    <updated>2020-10-28T21:23:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/8nvWA2LekWv7U4fQivqRUA</id>
+    <link href="https://mp.weixin.qq.com/s/8nvWA2LekWv7U4fQivqRUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《Rust唠嗑室》第12期 - 一起来玩 futures（2）</title>
     <updated>2020-10-27T18:18:12+08:00</updated>
@@ -124,20 +145,6 @@
     <updated>2020-10-19T22:52:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/-Ti7pYVgqjkANAWTEzeQ0g</id>
     <link href="https://mp.weixin.qq.com/s/-Ti7pYVgqjkANAWTEzeQ0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-10-18 在Rust中为vimscript vimL语言实现语言服务器协议（LSP）</title>
-    <updated>2020-10-19T22:52:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/jyrFcfDS5gKnP-buerJCzQ</id>
-    <link href="https://mp.weixin.qq.com/s/jyrFcfDS5gKnP-buerJCzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【每周一库】- Rodio - 一个Rust音频播放库</title>
-    <updated>2020-10-18T23:36:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/JOUhK3THpEGFg77A5bIfUg</id>
-    <link href="https://mp.weixin.qq.com/s/JOUhK3THpEGFg77A5bIfUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T20:27:41+08:00</updated>
+  <updated>2020-10-28T23:27:23+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文极速读懂 Gene Ontology （GO）数据库</title>
+    <updated>2020-10-28T21:08:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/yp5PQgI97WsdHh8JelnT8w</id>
+    <link href="https://mp.weixin.qq.com/s/yp5PQgI97WsdHh8JelnT8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>miRNA-seq数据分析其实大同小异</title>
     <updated>2020-10-27T17:20:36+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-10-19T22:12:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/OsgnotNsOdrCTuDC3v6nAg</id>
     <link href="https://mp.weixin.qq.com/s/OsgnotNsOdrCTuDC3v6nAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 SPIEC-EASI 进行微生物网络分析</title>
-    <updated>2020-10-18T21:30:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/9x0aCr7LlP1XSGXQaKBcmQ</id>
-    <link href="https://mp.weixin.qq.com/s/9x0aCr7LlP1XSGXQaKBcmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
