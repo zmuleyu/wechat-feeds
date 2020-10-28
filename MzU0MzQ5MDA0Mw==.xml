@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-27T23:27:30+08:00</updated>
+  <updated>2020-10-28T11:25:29+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见了字节跳秋招超6000人，但剩的机会不多了。。。</title>
+    <updated>2020-10-27T22:31:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/RoT7fCUhWlolPJcZ-OqpHQ</id>
+    <link href="https://mp.weixin.qq.com/s/RoT7fCUhWlolPJcZ-OqpHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>架构之道：分离业务逻辑和技术细节</title>
+    <updated>2020-10-27T22:31:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-27:/s/3dMKfMfrX99GtNFFnfi6zg</id>
+    <link href="https://mp.weixin.qq.com/s/3dMKfMfrX99GtNFFnfi6zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CEO 首次分享：极客时间13年成长复盘！</title>
     <updated>2020-10-27T22:08:59+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-10-18T23:21:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/6wuRoPJ1btIJVf_kZDZ-8Q</id>
     <link href="https://mp.weixin.qq.com/s/6wuRoPJ1btIJVf_kZDZ-8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 8.0 新特性：引人注目的哈希连接（Hash Join）</title>
-    <updated>2020-10-17T21:29:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/8y86QxEYwQN_nSF55MdrkA</id>
-    <link href="https://mp.weixin.qq.com/s/8y86QxEYwQN_nSF55MdrkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
