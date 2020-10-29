@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农翻身 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T11:14:04+08:00</updated>
+  <updated>2020-10-29T11:13:42+08:00</updated>
   <subtitle>技术本来是很精彩的啊！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>乔新亮：从程序员到 CTO 的18年复盘</title>
+    <updated>2020-10-28T16:45:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/ds4Dg6VNQjUm59sAaXlPIg</id>
+    <link href="https://mp.weixin.qq.com/s/ds4Dg6VNQjUm59sAaXlPIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：昨天晚上我去这个奇葩餐厅吃饭，被打出来了！</title>
     <updated>2020-10-28T08:54:40+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-10-14T20:43:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/LZabNy_kGkLZfABNt_i7RA</id>
     <link href="https://mp.weixin.qq.com/s/LZabNy_kGkLZfABNt_i7RA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国程序员发明不了Node.js?</title>
-    <updated>2020-10-13T22:32:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/UeXjilWvdrikf3JPUOYJ_Q</id>
-    <link href="https://mp.weixin.qq.com/s/UeXjilWvdrikf3JPUOYJ_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术文档：Redis+Nginx+设计模式+Spring全家桶+Dubbo精选</title>
-    <updated>2020-10-13T22:32:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/T6RTQRlVZNKahRQD-y9z7w</id>
-    <link href="https://mp.weixin.qq.com/s/T6RTQRlVZNKahRQD-y9z7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

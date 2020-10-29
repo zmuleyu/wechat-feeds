@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴中间件 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-23T20:24:05+08:00</updated>
+  <updated>2020-10-29T11:16:23+08:00</updated>
   <subtitle>Aliware阿里巴巴中间件官方账号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我对云原生软件架构的观察与思考</title>
+    <updated>2020-10-28T21:07:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/PwPC1ZWNZvzQoOZvOAF2Qw</id>
+    <link href="https://mp.weixin.qq.com/s/PwPC1ZWNZvzQoOZvOAF2Qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何构建一套高性能、高可用性、低成本的视频处理系统？</title>
+    <updated>2020-10-28T21:07:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/GphmVGbTkabX1diCoQCgiQ</id>
+    <link href="https://mp.weixin.qq.com/s/GphmVGbTkabX1diCoQCgiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>容器规模化落地四步走</title>
+    <updated>2020-10-28T21:07:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/nSKYbMbJj4ExZazDPjzH4g</id>
+    <link href="https://mp.weixin.qq.com/s/nSKYbMbJj4ExZazDPjzH4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚刚！阿里开源首个 Serverless Devs 平台，让开发者像使用手机一样玩转 Serverless</title>
     <updated>2020-10-23T18:06:17+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-09T19:48:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-09:/s/7cmqVGQfGXkBmOwpDnD0sw</id>
     <link href="https://mp.weixin.qq.com/s/7cmqVGQfGXkBmOwpDnD0sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百亿独角兽爱学习教育集团：如何在半个月内搭建一套完整的课堂互动系统？</title>
-    <updated>2020-09-09T19:48:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/3Gj9u_Ld41HWwWA6RL32oA</id>
-    <link href="https://mp.weixin.qq.com/s/3Gj9u_Ld41HWwWA6RL32oA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云栖大会特享，热营抢先开，阿里云专家的私教课，限时抢报！</title>
-    <updated>2020-09-09T19:48:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/7u68S0aLz2DnySgkIgdVQg</id>
-    <link href="https://mp.weixin.qq.com/s/7u68S0aLz2DnySgkIgdVQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>当飞猪遇上 Serverless | 云原生 Talk</title>
-    <updated>2020-09-05T14:40:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-05:/s/A-wA4JBezNGomKcGteEl7A</id>
-    <link href="https://mp.weixin.qq.com/s/A-wA4JBezNGomKcGteEl7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
