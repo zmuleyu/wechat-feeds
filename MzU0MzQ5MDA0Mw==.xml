@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T11:25:29+08:00</updated>
+  <updated>2020-10-29T23:12:18+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL 5.7 vs 8.0，哪个性能更牛？</title>
+    <updated>2020-10-29T19:52:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/GkieAxPBCIGyOZH_A21vGw</id>
+    <link href="https://mp.weixin.qq.com/s/GkieAxPBCIGyOZH_A21vGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见了字节跳秋招超6000人，但剩的机会不多了。。。</title>
     <updated>2020-10-27T22:31:50+08:00</updated>
@@ -36,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>乔新亮：从程序员到 CTO 的18年复盘</title>
-    <updated>2020-10-26T17:48:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/5vriTT2gdqAt56mwSSWjbw</id>
-    <link href="https://mp.weixin.qq.com/s/5vriTT2gdqAt56mwSSWjbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>什么是堡垒机？为什么需要堡垒机？</title>
     <updated>2020-10-26T17:48:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/-HlgZzd7dcda_8YXNI0hIA</id>
@@ -54,13 +54,6 @@
     <updated>2020-10-24T22:21:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/7L2nuEup6t5f-092Rz2RHA</id>
     <link href="https://mp.weixin.qq.com/s/7L2nuEup6t5f-092Rz2RHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源10个Springboot项目【源码+视频+讲义】快速提高</title>
-    <updated>2020-10-24T22:21:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/FSJHitBKdF5vhPuhN9DRGA</id>
-    <link href="https://mp.weixin.qq.com/s/FSJHitBKdF5vhPuhN9DRGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -103,13 +96,6 @@
     <updated>2020-10-20T10:52:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/reS_jF8W8VRR6lCToZuxng</id>
     <link href="https://mp.weixin.qq.com/s/reS_jF8W8VRR6lCToZuxng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>delete后加 limit是个好习惯么 ？</title>
-    <updated>2020-10-18T23:21:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/6wuRoPJ1btIJVf_kZDZ-8Q</id>
-    <link href="https://mp.weixin.qq.com/s/6wuRoPJ1btIJVf_kZDZ-8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

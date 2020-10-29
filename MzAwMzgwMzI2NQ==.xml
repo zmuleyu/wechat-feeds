@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T23:22:45+08:00</updated>
+  <updated>2020-10-29T23:16:00+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：看傻眼！Laravel给数据库造假竟成工具链</title>
+    <updated>2020-10-29T20:55:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/8Kr5Gl5KS9OxNqGNuKzN1g</id>
+    <link href="https://mp.weixin.qq.com/s/8Kr5Gl5KS9OxNqGNuKzN1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：一看就是干货！Laravel迁移数据库！</title>
     <updated>2020-10-28T20:37:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-20T21:32:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/4-2KcATDZed6aZtI82yoog</id>
     <link href="https://mp.weixin.qq.com/s/4-2KcATDZed6aZtI82yoog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：Laravel路由注册，你必须掌握的“动词”！</title>
-    <updated>2020-10-19T21:21:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/tEHhhSwyIpTwjvR-In6klg</id>
-    <link href="https://mp.weixin.qq.com/s/tEHhhSwyIpTwjvR-In6klg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
