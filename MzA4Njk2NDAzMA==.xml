@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T20:27:02+08:00</updated>
+  <updated>2020-10-29T20:16:59+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万亿级数据应该怎么迁移？</title>
+    <updated>2020-10-29T19:00:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/daDJRiHPMJHAUYHrA0Ee9g</id>
+    <link href="https://mp.weixin.qq.com/s/daDJRiHPMJHAUYHrA0Ee9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 | 德勤2020技术趋势报告.pdf</title>
+    <updated>2020-10-29T19:00:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/DkLGXoISBitoT-oLMfq8XA</id>
+    <link href="https://mp.weixin.qq.com/s/DkLGXoISBitoT-oLMfq8XA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一篇教会你写 90% 的 Shell 脚本</title>
     <updated>2020-10-28T17:20:28+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-10-16T20:08:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/yIezgpQ4Yzq4gE_jDVBzdA</id>
     <link href="https://mp.weixin.qq.com/s/yIezgpQ4Yzq4gE_jDVBzdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何一步步 get 大厂前端 Offer？</title>
-    <updated>2020-10-15T20:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/yZE2SPgT5GrtHOKZC_J-hA</id>
-    <link href="https://mp.weixin.qq.com/s/yZE2SPgT5GrtHOKZC_J-hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 一款纯前端类似 Excel 的在线表格</title>
-    <updated>2020-10-15T20:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/Mpwf_Z4Vk0GGYcbWMlfGOA</id>
-    <link href="https://mp.weixin.qq.com/s/Mpwf_Z4Vk0GGYcbWMlfGOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

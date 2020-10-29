@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T23:21:28+08:00</updated>
+  <updated>2020-10-29T20:21:14+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何通过 Serverless 技术降低微服务应用资源成本？</title>
+    <updated>2020-10-29T18:02:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/YadfxG8kXVO0M5pQgxcJBw</id>
+    <link href="https://mp.weixin.qq.com/s/YadfxG8kXVO0M5pQgxcJBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>赠书啦！｜2020年程序员及女友求职面试必备书单</title>
     <updated>2020-10-28T22:41:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-20T16:50:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/dLe7MQfkG8JP4Yb4RKInSA</id>
     <link href="https://mp.weixin.qq.com/s/dLe7MQfkG8JP4Yb4RKInSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在淘宝，我们是这样衡量代码质量的</title>
-    <updated>2020-10-19T15:36:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/0IdR0JamKGu_gU-MMen_zg</id>
-    <link href="https://mp.weixin.qq.com/s/0IdR0JamKGu_gU-MMen_zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

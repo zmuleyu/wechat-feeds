@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-26T11:18:13+08:00</updated>
+  <updated>2020-10-29T20:25:41+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>双11狂欢的背后：微服务注册中心如何承载大型系统的千万级访问？？</title>
+    <updated>2020-10-29T15:35:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/g32pNdRyaG0fnwoByEAiXA</id>
+    <link href="https://mp.weixin.qq.com/s/g32pNdRyaG0fnwoByEAiXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JVM 性能调优监控工具 jps、jstack、jmap、jhat、jstat、hprof 使用详解</title>
     <updated>2020-10-26T09:21:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-12T11:12:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/qRRn5khxWeE6mJ_rThxR4Q</id>
     <link href="https://mp.weixin.qq.com/s/qRRn5khxWeE6mJ_rThxR4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高并发和海量数据下的 9 个 Redis 经典案例剖析！</title>
-    <updated>2020-09-30T17:04:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/wT3i12HV_6ev5HSPJ9ANRg</id>
-    <link href="https://mp.weixin.qq.com/s/wT3i12HV_6ev5HSPJ9ANRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
