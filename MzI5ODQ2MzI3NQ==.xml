@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T20:29:54+08:00</updated>
+  <updated>2020-10-29T13:20:12+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这个神器，拯救了千千万万的苦逼程序员！</title>
+    <updated>2020-10-29T12:18:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/mGSEcE2h-OWvM1qc1aEi7Q</id>
+    <link href="https://mp.weixin.qq.com/s/mGSEcE2h-OWvM1qc1aEi7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat通过整合Ansible来提升Kubernetes集群管理能力</title>
+    <updated>2020-10-29T12:18:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/ALx6FGa0E3jLAINI2FqRvA</id>
+    <link href="https://mp.weixin.qq.com/s/ALx6FGa0E3jLAINI2FqRvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>拥抱云原生，Serverless技术还能这样用在容器服务中</title>
     <updated>2020-10-28T16:48:42+08:00</updated>
@@ -50,31 +64,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为什么说未来 5 年将是 Go 语言的天下？</title>
-    <updated>2020-10-24T23:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/4MNBR22YAb1scoLEohkM5Q</id>
-    <link href="https://mp.weixin.qq.com/s/4MNBR22YAb1scoLEohkM5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>下个月深圳： Kubernetes CKA实战培训</title>
     <updated>2020-10-24T23:19:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/3M3A9bzvvBlSAf3T2SmNSg</id>
     <link href="https://mp.weixin.qq.com/s/3M3A9bzvvBlSAf3T2SmNSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【实战技能】Zabbix监控之故障微信报警！</title>
-    <updated>2020-10-23T23:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/Hl5CRdWij0El6y2ZxUM7ZA</id>
-    <link href="https://mp.weixin.qq.com/s/Hl5CRdWij0El6y2ZxUM7ZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>和阿里p8架构师聊了聊人生！​</title>
-    <updated>2020-10-23T23:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/nIW-7Bb78t4Dlnsd9djbuA</id>
-    <link href="https://mp.weixin.qq.com/s/nIW-7Bb78t4Dlnsd9djbuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +110,6 @@
     <updated>2020-10-20T12:34:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/a5CDbKG3iikT0yUAHQ3aZg</id>
     <link href="https://mp.weixin.qq.com/s/a5CDbKG3iikT0yUAHQ3aZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一款Serverless神器，助力企业容器化改造简单高效</title>
-    <updated>2020-10-19T18:09:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/Nqoz4fPKb2iSvp1ORSOCew</id>
-    <link href="https://mp.weixin.qq.com/s/Nqoz4fPKb2iSvp1ORSOCew" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
