@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T20:21:05+08:00</updated>
+  <updated>2020-10-30T16:14:24+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大厂们的下一件大事儿</title>
+    <updated>2020-10-30T12:48:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/Rd_Hzy0IjupzwhKT5HqXzw</id>
+    <link href="https://mp.weixin.qq.com/s/Rd_Hzy0IjupzwhKT5HqXzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动破局联邦学习：开源Fedlearner框架，广告投放增效209%</title>
+    <updated>2020-10-30T12:48:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/MHUpJT1jr71Rt93BhPCvvg</id>
+    <link href="https://mp.weixin.qq.com/s/MHUpJT1jr71Rt93BhPCvvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从技术创新到设计思想，解密“TDengine”爆红始末 ｜ Q推荐</title>
+    <updated>2020-10-30T12:48:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/P-QlgMYSvyKdLYFCDbwwBg</id>
+    <link href="https://mp.weixin.qq.com/s/P-QlgMYSvyKdLYFCDbwwBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从蓝图到实践，互联网企业云原生应用的“润物细无声”</title>
+    <updated>2020-10-30T12:48:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/xGt_wco7qfT-15gabVEOmA</id>
+    <link href="https://mp.weixin.qq.com/s/xGt_wco7qfT-15gabVEOmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020年：前端开发的痛苦与快乐</title>
+    <updated>2020-10-30T12:48:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/8cgmdCDj7_foZETLq3_d3g</id>
+    <link href="https://mp.weixin.qq.com/s/8cgmdCDj7_foZETLq3_d3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>项目延迟上线，开发团队收到粉丝死亡威胁：我们也是人</title>
     <updated>2020-10-29T16:28:47+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-26T22:09:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/DUOfYS-0k-F1p1-_YO9udA</id>
     <link href="https://mp.weixin.qq.com/s/DUOfYS-0k-F1p1-_YO9udA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>被围剿的“苹果税”，还能撑多久？</title>
-    <updated>2020-10-26T13:40:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/QGK2AQtaRk58lRMW4bdAjA</id>
-    <link href="https://mp.weixin.qq.com/s/QGK2AQtaRk58lRMW4bdAjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>API生态的发展与机遇：从5000组数据看中国API生态与开发者现状</title>
-    <updated>2020-10-26T13:40:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/ML4PvVnuozBLWkqcsCRL7g</id>
-    <link href="https://mp.weixin.qq.com/s/ML4PvVnuozBLWkqcsCRL7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国程序员人口普查：原来你是这样的程序员</title>
-    <updated>2020-10-26T13:40:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/VntKD4RcHEYZNfRxDE2eug</id>
-    <link href="https://mp.weixin.qq.com/s/VntKD4RcHEYZNfRxDE2eug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>历时三年，苏宁如何建设多数据中心多活的实践项目？</title>
-    <updated>2020-10-26T13:40:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/7I5UQiZ_LcVtpHEMo99N5A</id>
-    <link href="https://mp.weixin.qq.com/s/7I5UQiZ_LcVtpHEMo99N5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NPM 移除 4 个恶意软件包：泄露用户数据已有数月</title>
-    <updated>2020-10-26T13:40:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/3zRGJnR_v_c7XzqLQDa3JQ</id>
-    <link href="https://mp.weixin.qq.com/s/3zRGJnR_v_c7XzqLQDa3JQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
