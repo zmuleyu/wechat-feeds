@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T16:19:21+08:00</updated>
+  <updated>2020-10-30T11:12:25+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Android Studio 4.1 的 Dagger 导航更新</title>
+    <updated>2020-10-30T09:07:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/POi1y6puEj5FALoYaScRPQ</id>
+    <link href="https://mp.weixin.qq.com/s/POi1y6puEj5FALoYaScRPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>提示与指南: Google Play 常见政策违规行为及规避方法</title>
+    <updated>2020-10-30T09:07:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/dgRDyWJxPUIdXoo5K-F3Qw</id>
+    <link href="https://mp.weixin.qq.com/s/dgRDyWJxPUIdXoo5K-F3Qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dart 健全的空安全: 技术预览版 2</title>
     <updated>2020-10-29T14:32:48+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-20T16:35:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/rjXMnLBexoE4X3bnykUzJQ</id>
     <link href="https://mp.weixin.qq.com/s/rjXMnLBexoE4X3bnykUzJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AI 向善：实时手语检测推动视频会议无障碍化</title>
-    <updated>2020-10-20T15:23:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/3aNkduTuMvcFpmOv84VX3g</id>
-    <link href="https://mp.weixin.qq.com/s/3aNkduTuMvcFpmOv84VX3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【ARCore 开发入门课程系列】AR 技术让想象力成为“现实”，距离还有多远？</title>
-    <updated>2020-10-20T15:23:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/QMMiC8ep-xcQKtkq6Y-b3g</id>
-    <link href="https://mp.weixin.qq.com/s/QMMiC8ep-xcQKtkq6Y-b3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

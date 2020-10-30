@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T20:25:41+08:00</updated>
+  <updated>2020-10-30T11:16:55+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>没那么简单的分库分表：高并发下数据库架构设计的那些坑！</title>
+    <updated>2020-10-29T15:45:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/YYI2qsS_MH-60qQCnQGJRg</id>
+    <link href="https://mp.weixin.qq.com/s/YYI2qsS_MH-60qQCnQGJRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>双11狂欢的背后：微服务注册中心如何承载大型系统的千万级访问？？</title>
     <updated>2020-10-29T15:35:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-12T21:21:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/mqKulTHTYNx_ks8-LVvJ5A</id>
     <link href="https://mp.weixin.qq.com/s/mqKulTHTYNx_ks8-LVvJ5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么我使用了索引，查询还是慢？</title>
-    <updated>2020-10-12T11:12:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/qRRn5khxWeE6mJ_rThxR4Q</id>
-    <link href="https://mp.weixin.qq.com/s/qRRn5khxWeE6mJ_rThxR4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

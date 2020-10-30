@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T11:14:45+08:00</updated>
+  <updated>2020-10-30T11:11:08+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何进行 iOS Widget 开发？</title>
+    <updated>2020-10-29T18:19:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/xXEWWHXt4oKDSboogTbTZA</id>
+    <link href="https://mp.weixin.qq.com/s/xXEWWHXt4oKDSboogTbTZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AI和大数据下，前端技术将如何发展？</title>
     <updated>2020-10-28T17:46:46+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-19T18:15:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/n8E9htw0xXMyxHALLae_Eg</id>
     <link href="https://mp.weixin.qq.com/s/n8E9htw0xXMyxHALLae_Eg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何让一套代码适配所有iOS设备尺寸？</title>
-    <updated>2020-10-18T21:16:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/iPv2L9OyuTqAFmT9fMUXag</id>
-    <link href="https://mp.weixin.qq.com/s/iPv2L9OyuTqAFmT9fMUXag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

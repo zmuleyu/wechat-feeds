@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T11:19:43+08:00</updated>
+  <updated>2020-10-30T11:18:28+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>细说那些让公司网站瘫痪的SQL</title>
+    <updated>2020-10-30T09:30:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/JotT0rxDx174Jzje3d2K-A</id>
+    <link href="https://mp.weixin.qq.com/s/JotT0rxDx174Jzje3d2K-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Twitter短链服务大bug: 预连到错误域名</title>
     <updated>2020-10-28T23:37:36+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-20T00:03:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/dwIhloPidHfudgS7VYazFA</id>
     <link href="https://mp.weixin.qq.com/s/dwIhloPidHfudgS7VYazFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>6种常用的架构设计模式（上）</title>
-    <updated>2020-10-19T11:10:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/X885MfB0AYww1Oo1FF_ZzA</id>
-    <link href="https://mp.weixin.qq.com/s/X885MfB0AYww1Oo1FF_ZzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

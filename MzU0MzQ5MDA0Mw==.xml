@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T23:12:18+08:00</updated>
+  <updated>2020-10-30T11:08:18+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里p6的大数据开发工程师都要学什么？</title>
+    <updated>2020-10-29T23:49:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/xKgVn158_6ONMQPKPP8AjQ</id>
+    <link href="https://mp.weixin.qq.com/s/xKgVn158_6ONMQPKPP8AjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>服务网格仍然很难</title>
+    <updated>2020-10-29T23:49:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/Mqyo0lHBQ0M54sIbs--4Pw</id>
+    <link href="https://mp.weixin.qq.com/s/Mqyo0lHBQ0M54sIbs--4Pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL 5.7 vs 8.0，哪个性能更牛？</title>
     <updated>2020-10-29T19:52:40+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2020-10-20T22:53:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/dFzXWTb6ZRNTgWVi_e0vJg</id>
     <link href="https://mp.weixin.qq.com/s/dFzXWTb6ZRNTgWVi_e0vJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何设计订单系统？不妨看看这篇文章</title>
-    <updated>2020-10-20T10:52:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/gDPRXLaTylacbjyHYNha7A</id>
-    <link href="https://mp.weixin.qq.com/s/gDPRXLaTylacbjyHYNha7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>荐书 | 当当优惠码，实付满200减40</title>
-    <updated>2020-10-20T10:52:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/reS_jF8W8VRR6lCToZuxng</id>
-    <link href="https://mp.weixin.qq.com/s/reS_jF8W8VRR6lCToZuxng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
