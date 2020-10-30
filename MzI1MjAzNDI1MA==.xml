@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T01:19:28+08:00</updated>
+  <updated>2020-10-31T01:17:35+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-10-30 字节跳动飞书团队招聘Rust跨平台开发工程师</title>
+    <updated>2020-10-30T23:22:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/uYDbRxwn6Q4v9I_T_38gcA</id>
+    <link href="https://mp.weixin.qq.com/s/uYDbRxwn6Q4v9I_T_38gcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【每周一库】 confy-table用于在cli中构建表格</title>
+    <updated>2020-10-30T23:22:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/rInePi5CPFAGE6GCVt0hnw</id>
+    <link href="https://mp.weixin.qq.com/s/rInePi5CPFAGE6GCVt0hnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020 DeFi Hackathon@北京</title>
+    <updated>2020-10-30T23:22:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/36pegsh29nBf-Eepz_mzvw</id>
+    <link href="https://mp.weixin.qq.com/s/36pegsh29nBf-Eepz_mzvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】 2020-10-29 Rust China 2020</title>
     <updated>2020-10-29T23:49:00+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-22T22:14:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/bQiVccNWHRxBvWA8prwx_w</id>
     <link href="https://mp.weixin.qq.com/s/bQiVccNWHRxBvWA8prwx_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust 日报】2020-10-21 讨论：为什么 Rust 没有自增和自减运算符</title>
-    <updated>2020-10-21T23:39:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/PQ8U_cowocO3IQPAaa0n5w</id>
-    <link href="https://mp.weixin.qq.com/s/PQ8U_cowocO3IQPAaa0n5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】Rocker: 从零编写的嵌入式容器引擎</title>
-    <updated>2020-10-21T23:39:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/go0-pI9Xf4acRYksAHGvug</id>
-    <link href="https://mp.weixin.qq.com/s/go0-pI9Xf4acRYksAHGvug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】纯 Rust 写的私有云</title>
-    <updated>2020-10-20T22:36:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/YakulDOnXilBwXbMKnot-g</id>
-    <link href="https://mp.weixin.qq.com/s/YakulDOnXilBwXbMKnot-g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

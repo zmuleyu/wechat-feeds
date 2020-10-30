@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T20:18:46+08:00</updated>
+  <updated>2020-10-31T01:20:34+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>内部泄露版！互联网大厂的最新薪资和职级一览</title>
+    <updated>2020-10-30T23:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/XGOc360RxWsasqkQ_FOcPg</id>
+    <link href="https://mp.weixin.qq.com/s/XGOc360RxWsasqkQ_FOcPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>30行代码，让27吨发电机原地爆炸</title>
+    <updated>2020-10-30T23:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/jZ9Dy4mkFqeV0RqgzTIsHA</id>
+    <link href="https://mp.weixin.qq.com/s/jZ9Dy4mkFqeV0RqgzTIsHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL 5.7 &amp; MySQL 8.0 性能对比</title>
+    <updated>2020-10-30T23:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/m1wk_jHMEAgg3uham92byw</id>
+    <link href="https://mp.weixin.qq.com/s/m1wk_jHMEAgg3uham92byw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>监控、链路追踪、日志这三者有何区别？</title>
+    <updated>2020-10-30T23:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/7XZtkHHJHcF-e9qA_gkObg</id>
+    <link href="https://mp.weixin.qq.com/s/7XZtkHHJHcF-e9qA_gkObg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个Looper.loop()引发的惨案</title>
+    <updated>2020-10-30T23:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/Wv70lrRXIWqcrJ2dIOnhvg</id>
+    <link href="https://mp.weixin.qq.com/s/Wv70lrRXIWqcrJ2dIOnhvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>IntelliJ IDEA 15款 神级超级牛逼插件推荐（自用，真的超级牛逼）</title>
     <updated>2020-10-29T22:35:36+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-27T21:59:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/eM-20oDLJ0JUAxD2io3QyQ</id>
     <link href="https://mp.weixin.qq.com/s/eM-20oDLJ0JUAxD2io3QyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PanDownload复活了！60MB/s！</title>
-    <updated>2020-10-26T23:26:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/woOthR_0ahBH8XiTrpZc_Q</id>
-    <link href="https://mp.weixin.qq.com/s/woOthR_0ahBH8XiTrpZc_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>还在用if(obj!=null)做非空判断？带你快速上手Optional实战性理解!</title>
-    <updated>2020-10-26T23:26:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/SPrGaa9ccoGTwPWtNM0mWQ</id>
-    <link href="https://mp.weixin.qq.com/s/SPrGaa9ccoGTwPWtNM0mWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java如何实现二维码？【附源码】</title>
-    <updated>2020-10-26T23:26:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/mBP3lZAmfYkmkL5XglSVNQ</id>
-    <link href="https://mp.weixin.qq.com/s/mBP3lZAmfYkmkL5XglSVNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>肝！Shell 脚本编程最佳实践</title>
-    <updated>2020-10-26T23:26:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/kVcp_l4rmnaQEH2ZhyNQQg</id>
-    <link href="https://mp.weixin.qq.com/s/kVcp_l4rmnaQEH2ZhyNQQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文！七个方面带你玩转Java线程池</title>
-    <updated>2020-10-26T23:26:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/3WP1AWFiJmOXVUHh7MB2pQ</id>
-    <link href="https://mp.weixin.qq.com/s/3WP1AWFiJmOXVUHh7MB2pQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
