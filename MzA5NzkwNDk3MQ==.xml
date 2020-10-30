@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T23:20:15+08:00</updated>
+  <updated>2020-10-30T20:16:40+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 370 期：官方文档编写指南</title>
+    <updated>2020-10-30T17:53:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/cuzDxAhR9BEGwfWuMrHHHQ</id>
+    <link href="https://mp.weixin.qq.com/s/cuzDxAhR9BEGwfWuMrHHHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>读懂开源项目的思路和技巧</title>
     <updated>2020-10-29T19:44:04+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-10-22T17:52:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/AQN1AUJ8lgSzV0PYnd54pQ</id>
     <link href="https://mp.weixin.qq.com/s/AQN1AUJ8lgSzV0PYnd54pQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【JS】723- 前端如何优雅的处理类数组对象？</title>
-    <updated>2020-10-21T16:53:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/PslFGKfjleCA-tJt79PzrA</id>
-    <link href="https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

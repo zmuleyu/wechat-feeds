@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T20:17:42+08:00</updated>
+  <updated>2020-10-30T20:18:12+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>学习教程 | 用 TensorFlow Lite 和 SPICE 模型打造听歌识谱 App</title>
+    <updated>2020-10-30T18:37:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/_CbvUYBrU52v02vK2M-p4w</id>
+    <link href="https://mp.weixin.qq.com/s/_CbvUYBrU52v02vK2M-p4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rigging.js: 让 3D 角色动起来的 react.js 开源应用</title>
     <updated>2020-10-29T17:28:29+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-10-16T19:47:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/cwEdDXNRPQJxfCbQ7a09yQ</id>
     <link href="https://mp.weixin.qq.com/s/cwEdDXNRPQJxfCbQ7a09yQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pixelopolis：由 TensorFlow Lite 构建无人驾驶微型汽车</title>
-    <updated>2020-10-15T17:34:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/_vmCxjoXEZX1FOI6lqK_Lw</id>
-    <link href="https://mp.weixin.qq.com/s/_vmCxjoXEZX1FOI6lqK_Lw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

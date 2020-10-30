@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T20:22:31+08:00</updated>
+  <updated>2020-10-30T20:13:36+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PingCAP 与复星达成战略合作，助力复星数字化升级</title>
+    <updated>2020-10-30T18:30:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/iLKt5uVQEVbZzYcZlevOHQ</id>
+    <link href="https://mp.weixin.qq.com/s/iLKt5uVQEVbZzYcZlevOHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解读 TiDB | 行走在 GKE 上的 NewSQL 开源数据库</title>
+    <updated>2020-10-30T18:30:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/envZE8Krh46rxQl82EPi5A</id>
+    <link href="https://mp.weixin.qq.com/s/envZE8Krh46rxQl82EPi5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“双十一”大礼提前来袭，9.9 元远程参与 PCTA 在线考试！</title>
     <updated>2020-10-28T17:19:33+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-10-14T18:09:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/NcsLtY_DHVzgxtycWxajcQ</id>
     <link href="https://mp.weixin.qq.com/s/NcsLtY_DHVzgxtycWxajcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB 邀您参加 Hacktoberfest 2020</title>
-    <updated>2020-10-13T15:31:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/mZWPCeqZduBBJyxL8LZwkw</id>
-    <link href="https://mp.weixin.qq.com/s/mZWPCeqZduBBJyxL8LZwkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

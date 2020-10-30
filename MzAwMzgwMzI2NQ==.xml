@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T23:16:00+08:00</updated>
+  <updated>2020-10-30T20:11:41+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3分钟短文：Laravel查询构造器，告别手写SQL的艰苦岁月</title>
+    <updated>2020-10-30T17:58:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/jivDHI_4_QHDg0jgP1O23g</id>
+    <link href="https://mp.weixin.qq.com/s/jivDHI_4_QHDg0jgP1O23g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3分钟短文：看傻眼！Laravel给数据库造假竟成工具链</title>
     <updated>2020-10-29T20:55:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-21T22:11:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/sqeokuNqzXYy6YYuyISH_Q</id>
     <link href="https://mp.weixin.qq.com/s/sqeokuNqzXYy6YYuyISH_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：Laravel路子真野啊！路由昵称前缀中间件</title>
-    <updated>2020-10-20T21:32:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/4-2KcATDZed6aZtI82yoog</id>
-    <link href="https://mp.weixin.qq.com/s/4-2KcATDZed6aZtI82yoog" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

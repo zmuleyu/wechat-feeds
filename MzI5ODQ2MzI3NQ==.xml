@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-29T13:20:12+08:00</updated>
+  <updated>2020-10-30T20:19:06+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>11-12月排期： 全国Kubernetes CKA实战培训</title>
+    <updated>2020-10-30T19:54:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/kj8OaR-1Ri2RTitWG9RKYQ</id>
+    <link href="https://mp.weixin.qq.com/s/kj8OaR-1Ri2RTitWG9RKYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这个神器，拯救了千千万万的苦逼程序员！</title>
     <updated>2020-10-29T12:18:41+08:00</updated>
@@ -57,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>最新！《阿里巴巴Java开发手册》嵩山版首次开放下载！</title>
-    <updated>2020-10-26T13:01:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/T8kFeWUT_iT1ith1uMRK4g</id>
-    <link href="https://mp.weixin.qq.com/s/T8kFeWUT_iT1ith1uMRK4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>下个月深圳： Kubernetes CKA实战培训</title>
     <updated>2020-10-24T23:19:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/3M3A9bzvvBlSAf3T2SmNSg</id>
@@ -103,13 +103,6 @@
     <updated>2020-10-21T12:43:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/58H_k0SZLlhXkJfJenmwNg</id>
     <link href="https://mp.weixin.qq.com/s/58H_k0SZLlhXkJfJenmwNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我真的需要Kubernetes吗？</title>
-    <updated>2020-10-20T12:34:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/a5CDbKG3iikT0yUAHQ3aZg</id>
-    <link href="https://mp.weixin.qq.com/s/a5CDbKG3iikT0yUAHQ3aZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
