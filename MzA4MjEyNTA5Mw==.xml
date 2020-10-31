@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T11:09:15+08:00</updated>
+  <updated>2020-10-31T23:22:02+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Stack Overflow 热帖：如何用 Python 调用外部命令</title>
+    <updated>2020-10-31T21:51:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/4zVlh3C3VamGiC2dvP_GFw</id>
+    <link href="https://mp.weixin.qq.com/s/4zVlh3C3VamGiC2dvP_GFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AI工程师面试屡被拒：比贫穷脱发更恐怖的是，2020年你仍不会……</title>
     <updated>2020-10-29T23:28:59+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-10-22T21:24:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/ys0Se7DtJf8uBBSGalgfFg</id>
     <link href="https://mp.weixin.qq.com/s/ys0Se7DtJf8uBBSGalgfFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Python中神奇的第三方库：Faker》</title>
-    <updated>2020-10-21T21:44:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/Bx4ZP-SPPC_yDFJGYx0wiw</id>
-    <link href="https://mp.weixin.qq.com/s/Bx4ZP-SPPC_yDFJGYx0wiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T23:09:11+08:00</updated>
+  <updated>2020-10-31T23:11:09+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何使用Shell写一个显示目录结构的命令?</title>
+    <updated>2020-10-31T21:03:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/TQjccWC6m1b4Om7KxO_6oA</id>
+    <link href="https://mp.weixin.qq.com/s/TQjccWC6m1b4Om7KxO_6oA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CI/CD 最佳实践的基本原则</title>
     <updated>2020-10-30T18:14:35+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-10-22T20:25:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/4GzvjWyRabd4i-Zf9No7Xg</id>
     <link href="https://mp.weixin.qq.com/s/4GzvjWyRabd4i-Zf9No7Xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>配置Linux的时钟同步</title>
-    <updated>2020-10-21T21:58:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/qIVwh2YpknGLlxmozyYzGA</id>
-    <link href="https://mp.weixin.qq.com/s/qIVwh2YpknGLlxmozyYzGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
