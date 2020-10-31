@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T13:18:34+08:00</updated>
+  <updated>2020-10-31T20:17:47+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软将不兼容 IE 的网站重定向至 Edge</title>
+    <updated>2020-10-31T19:44:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/vxWo6Ptq4CRWGZQhpzTeng</id>
+    <link href="https://mp.weixin.qq.com/s/vxWo6Ptq4CRWGZQhpzTeng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端程序员现状：不突破瓶颈很难生存！</title>
     <updated>2020-10-29T22:57:31+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-10-22T21:30:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/h-AVTOhqdCRaFSj-BjPUmg</id>
     <link href="https://mp.weixin.qq.com/s/h-AVTOhqdCRaFSj-BjPUmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>私藏！React 硬核涨薪指南</title>
-    <updated>2020-10-20T22:16:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/lpByDwJoKjYWVrUz_8rtIw</id>
-    <link href="https://mp.weixin.qq.com/s/lpByDwJoKjYWVrUz_8rtIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Map 和 Set 两种数据结构在 ES6 的作用</title>
-    <updated>2020-10-20T22:16:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/T0RbksuupBF6oKJEl-ijRg</id>
-    <link href="https://mp.weixin.qq.com/s/T0RbksuupBF6oKJEl-ijRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

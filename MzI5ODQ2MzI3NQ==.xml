@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T20:19:06+08:00</updated>
+  <updated>2020-10-31T20:19:47+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最热门的云原生存储解决方案</title>
+    <updated>2020-10-31T18:26:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/x-zSIQOVTUq-YYk-WIi9AQ</id>
+    <link href="https://mp.weixin.qq.com/s/x-zSIQOVTUq-YYk-WIi9AQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【附申请地址】阿里云网盘，开放申请啦！非会员下载 10MB/s！有图有真相！</title>
+    <updated>2020-10-31T18:26:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/7Q3oSTV3BzEKTYFH35VUDw</id>
+    <link href="https://mp.weixin.qq.com/s/7Q3oSTV3BzEKTYFH35VUDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>11-12月排期： 全国Kubernetes CKA实战培训</title>
     <updated>2020-10-30T19:54:42+08:00</updated>
@@ -40,13 +54,6 @@
     <updated>2020-10-28T16:48:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/ORWt4yN8Dz0koMsId8HZLw</id>
     <link href="https://mp.weixin.qq.com/s/ORWt4yN8Dz0koMsId8HZLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年有多少个人做NLP项目？掌握这些知识点，你也能成为NLP算法工程师！</title>
-    <updated>2020-10-26T22:46:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/MVWNcrWBQlarzofZEpG_mQ</id>
-    <link href="https://mp.weixin.qq.com/s/MVWNcrWBQlarzofZEpG_mQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,20 +96,6 @@
     <updated>2020-10-22T11:29:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/qrJ50ma4LWBuOn_7WPGznw</id>
     <link href="https://mp.weixin.qq.com/s/qrJ50ma4LWBuOn_7WPGznw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深圳： Kubernetes CKA实战培训</title>
-    <updated>2020-10-21T12:43:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/NPZJORARmqUIt0oOhcdMzg</id>
-    <link href="https://mp.weixin.qq.com/s/NPZJORARmqUIt0oOhcdMzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在Kubernetes的一个Pod内连续依次执行Container</title>
-    <updated>2020-10-21T12:43:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/58H_k0SZLlhXkJfJenmwNg</id>
-    <link href="https://mp.weixin.qq.com/s/58H_k0SZLlhXkJfJenmwNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

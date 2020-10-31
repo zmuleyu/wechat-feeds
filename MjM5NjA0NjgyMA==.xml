@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T20:16:29+08:00</updated>
+  <updated>2020-10-31T20:17:42+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文吃透Linux提权</title>
+    <updated>2020-10-31T16:53:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/SSkWnOGcLiLtudr_5dNcsg</id>
+    <link href="https://mp.weixin.qq.com/s/SSkWnOGcLiLtudr_5dNcsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>十九届五中全会公报发布，涉及安全的相关内容速递</title>
+    <updated>2020-10-31T16:53:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/Of45yEVbIjrdBiOE0yrjrA</id>
+    <link href="https://mp.weixin.qq.com/s/Of45yEVbIjrdBiOE0yrjrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用Qualys VMDR自动识别PAN-OS缓冲区溢出漏洞</title>
+    <updated>2020-10-31T16:53:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/usiHpSgyJk7HuYreXAOycw</id>
+    <link href="https://mp.weixin.qq.com/s/usiHpSgyJk7HuYreXAOycw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Powerglot：一款针对PoowerShell脚本的攻击性编码工具</title>
+    <updated>2020-10-31T16:53:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/QfFhUx2QQmMlxnOXqUSbqA</id>
+    <link href="https://mp.weixin.qq.com/s/QfFhUx2QQmMlxnOXqUSbqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「大圣云沙箱」正式上线，永久免费开放｜FreeBuf × 漏洞盒子</title>
     <updated>2020-10-30T17:42:17+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-27T16:31:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/e45ZY_53tHHMxVhY263K6Q</id>
     <link href="https://mp.weixin.qq.com/s/e45ZY_53tHHMxVhY263K6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内网渗透测试：内网横向移动基础总结</title>
-    <updated>2020-10-26T18:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/b68fXoZ3oFCv8HGJZ2kRJw</id>
-    <link href="https://mp.weixin.qq.com/s/b68fXoZ3oFCv8HGJZ2kRJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>I Am The King恶意软件家族分析</title>
-    <updated>2020-10-26T18:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/J2MSwnqz9qVf8x-JiF1ynA</id>
-    <link href="https://mp.weixin.qq.com/s/J2MSwnqz9qVf8x-JiF1ynA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何利用Calendar Alerts在macOS上实现持久化</title>
-    <updated>2020-10-26T18:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/xIYoR3zuDHsADfzo-0lFhg</id>
-    <link href="https://mp.weixin.qq.com/s/xIYoR3zuDHsADfzo-0lFhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BlueScan：一款功能强大的蓝牙扫描器</title>
-    <updated>2020-10-26T18:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/tRXV97GF697Yl-apo3ae3w</id>
-    <link href="https://mp.weixin.qq.com/s/tRXV97GF697Yl-apo3ae3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
