@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软中国MSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T13:15:13+08:00</updated>
+  <updated>2020-10-31T11:12:44+08:00</updated>
   <subtitle>微软云Azure技术生态官方公众平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在线峰会 Create:Serverless 无服务器“你造吗”</title>
+    <updated>2020-10-30T17:25:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-30:/s/_zZvv9ePPjI0xPsAO97waA</id>
+    <link href="https://mp.weixin.qq.com/s/_zZvv9ePPjI0xPsAO97waA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在线工作坊 | 使用ASP.NET Core构建Web应用程序</title>
     <updated>2020-10-30T11:37:46+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-20T11:17:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/xLK6X-JUe4XS0MMw1h48gg</id>
     <link href="https://mp.weixin.qq.com/s/xLK6X-JUe4XS0MMw1h48gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020全球Microsoft 365开发者训练营（北京站）</title>
-    <updated>2020-10-19T16:39:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/J2f60s4I_ISI9LzInFBazQ</id>
-    <link href="https://mp.weixin.qq.com/s/J2f60s4I_ISI9LzInFBazQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软MVP精选 | 使用Azure AI和Unity构建用于检测病毒性肺炎、细菌性肺炎的图像分类器</title>
-    <updated>2020-10-19T16:39:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/eS-IeqIAHXsy477ZqxkkUg</id>
-    <link href="https://mp.weixin.qq.com/s/eS-IeqIAHXsy477ZqxkkUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
