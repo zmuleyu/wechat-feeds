@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-31T01:17:35+08:00</updated>
+  <updated>2020-11-01T01:16:33+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-10-31 Rust可测性设计：一个调查</title>
+    <updated>2020-10-31T23:14:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/xsFE4hlJG0ZndsfdR3mw-g</id>
+    <link href="https://mp.weixin.qq.com/s/xsFE4hlJG0ZndsfdR3mw-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust每周一库】lazy_static - 动态生成静态变量</title>
+    <updated>2020-10-31T23:14:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/tnud_Dc5SDl_EiQxLuKxxA</id>
+    <link href="https://mp.weixin.qq.com/s/tnud_Dc5SDl_EiQxLuKxxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>再谈 Send 与 Sync | Rust学习笔记</title>
+    <updated>2020-10-31T23:14:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/xUkHp26w41IfDvNEw4M-hA</id>
+    <link href="https://mp.weixin.qq.com/s/xUkHp26w41IfDvNEw4M-hA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-10-30 字节跳动飞书团队招聘Rust跨平台开发工程师</title>
     <updated>2020-10-30T23:22:39+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-23T22:57:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/58lqvNjYX9PRuk8mMpVVRw</id>
     <link href="https://mp.weixin.qq.com/s/58lqvNjYX9PRuk8mMpVVRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【问答】rust标准库的方法和数据结构哪些是线程安全的</title>
-    <updated>2020-10-23T22:57:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/JRxv1wdNGPQNRHda9228bg</id>
-    <link href="https://mp.weixin.qq.com/s/JRxv1wdNGPQNRHda9228bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust FFI 编程 - cbindgen 使用示例</title>
-    <updated>2020-10-22T22:14:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/QIRxdjDf57gGRBSJXifiOg</id>
-    <link href="https://mp.weixin.qq.com/s/QIRxdjDf57gGRBSJXifiOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-10-22 Facebook正在招聘一个团队来研究Rust编译器和库</title>
-    <updated>2020-10-22T22:14:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/bQiVccNWHRxBvWA8prwx_w</id>
-    <link href="https://mp.weixin.qq.com/s/bQiVccNWHRxBvWA8prwx_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
