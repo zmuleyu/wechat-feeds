@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-31T20:17:42+08:00</updated>
+  <updated>2020-11-01T20:18:00+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CrowdStrike | 无文件攻击白皮书</title>
+    <updated>2020-11-01T17:31:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/D-UqgodRcXJFKcxEpLhLhw</id>
+    <link href="https://mp.weixin.qq.com/s/D-UqgodRcXJFKcxEpLhLhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>邮件系统（OWA）双因素身份认证解决方案</title>
+    <updated>2020-11-01T17:31:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/LRdgnuntmTUjMxsHXrazLQ</id>
+    <link href="https://mp.weixin.qq.com/s/LRdgnuntmTUjMxsHXrazLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跨国犯罪团伙QQAAZZ多个成员被指控提供洗钱服务</title>
+    <updated>2020-11-01T17:31:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/CnSv9_Zoje-OxM8W_h_Wsg</id>
+    <link href="https://mp.weixin.qq.com/s/CnSv9_Zoje-OxM8W_h_Wsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>挖洞经验 | 简单复制resetToken实现Grindr账号劫持</title>
+    <updated>2020-11-01T17:31:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/oLKuRTjpanEliT8HCxIsfQ</id>
+    <link href="https://mp.weixin.qq.com/s/oLKuRTjpanEliT8HCxIsfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文吃透Linux提权</title>
     <updated>2020-10-31T16:53:02+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-28T18:06:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/7_8dgNZy1KwHGMVo0I_pdg</id>
     <link href="https://mp.weixin.qq.com/s/7_8dgNZy1KwHGMVo0I_pdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中小企业应该如何建立自己的防御体系</title>
-    <updated>2020-10-27T16:31:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/ppJ43nIDlbWdUoblUFilsA</id>
-    <link href="https://mp.weixin.qq.com/s/ppJ43nIDlbWdUoblUFilsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国制裁阴影下，GitLab屏蔽了伊朗人的访问</title>
-    <updated>2020-10-27T16:31:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/OjldQzuis1rxd4nt93K_MA</id>
-    <link href="https://mp.weixin.qq.com/s/OjldQzuis1rxd4nt93K_MA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mount Locker现已加入百万级别勒索软件家族</title>
-    <updated>2020-10-27T16:31:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/BchP1HDf-hjCtS3DJGfQlQ</id>
-    <link href="https://mp.weixin.qq.com/s/BchP1HDf-hjCtS3DJGfQlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iblessing：一款针对iOS安全的漏洞利用套件</title>
-    <updated>2020-10-27T16:31:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/e45ZY_53tHHMxVhY263K6Q</id>
-    <link href="https://mp.weixin.qq.com/s/e45ZY_53tHHMxVhY263K6Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

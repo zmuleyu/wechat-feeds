@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-31T20:19:47+08:00</updated>
+  <updated>2020-11-01T20:21:02+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今天生效，Docker限制Docker Hub上免费用户镜像​拉取次数</title>
+    <updated>2020-11-01T20:05:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/eUQFYJ9zQKh8DojQSR5bLQ</id>
+    <link href="https://mp.weixin.qq.com/s/eUQFYJ9zQKh8DojQSR5bLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>40+直播课时，只讲网络｜Kubernetes网络技术课程！</title>
+    <updated>2020-11-01T20:05:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/DZkuFUvAK0aCAb81PClBig</id>
+    <link href="https://mp.weixin.qq.com/s/DZkuFUvAK0aCAb81PClBig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最热门的云原生存储解决方案</title>
     <updated>2020-10-31T18:26:21+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-10-23T09:12:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/SMgG6LkiAwbGX6wdqFDjFQ</id>
     <link href="https://mp.weixin.qq.com/s/SMgG6LkiAwbGX6wdqFDjFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：小黄人学 Kubernetes 对象</title>
-    <updated>2020-10-22T11:29:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/qrJ50ma4LWBuOn_7WPGznw</id>
-    <link href="https://mp.weixin.qq.com/s/qrJ50ma4LWBuOn_7WPGznw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
