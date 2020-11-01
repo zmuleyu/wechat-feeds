@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-31T11:18:51+08:00</updated>
+  <updated>2020-11-01T23:19:35+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何构建一套高性能、高可用性、低成本的视频处理系统？</title>
+    <updated>2020-11-01T16:00:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/jv3gVLO1k0FudYtDalP9vw</id>
+    <link href="https://mp.weixin.qq.com/s/jv3gVLO1k0FudYtDalP9vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试必问：Spring循环依赖的三种方式</title>
     <updated>2020-10-30T21:49:25+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-10-23T00:36:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/P3UyRyleH6aF8IUM3xwyeA</id>
     <link href="https://mp.weixin.qq.com/s/P3UyRyleH6aF8IUM3xwyeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个复杂系统的拆分改造实践！</title>
-    <updated>2020-10-22T09:52:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/OSAxKO6tddY4TucRADqOiQ</id>
-    <link href="https://mp.weixin.qq.com/s/OSAxKO6tddY4TucRADqOiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
