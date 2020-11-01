@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-31T11:16:40+08:00</updated>
+  <updated>2020-11-01T11:18:40+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>原版豆瓣评分8.8，这本书讲透了 Rust 的灵魂</title>
+    <updated>2020-10-31T13:11:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/Heu97y98UzRutgvYMGKa3w</id>
+    <link href="https://mp.weixin.qq.com/s/Heu97y98UzRutgvYMGKa3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>0202年了，你还没有准确抓住云计算时代的技术风向标？</title>
     <updated>2020-10-31T09:18:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-22T10:07:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/W4X9hCFwK1EM6o0wefP8yA</id>
     <link href="https://mp.weixin.qq.com/s/W4X9hCFwK1EM6o0wefP8yA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个加班多新人多团队，我们的代码问题与重构</title>
-    <updated>2020-10-21T00:17:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/MYSF8lCF92ItG_Lc8nOspg</id>
-    <link href="https://mp.weixin.qq.com/s/MYSF8lCF92ItG_Lc8nOspg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
