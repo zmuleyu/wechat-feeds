@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-01T11:14:21+08:00</updated>
+  <updated>2020-11-02T16:14:27+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从硅谷到小米，崔宝秋的25年开源人生</title>
+    <updated>2020-11-02T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/ubMfIQ8nbnUOCk9CWBAqSQ</id>
+    <link href="https://mp.weixin.qq.com/s/ubMfIQ8nbnUOCk9CWBAqSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>乔新亮：从程序员到 CTO 的18年复盘 ｜ 极客时间</title>
+    <updated>2020-11-02T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/cTQjxD38ZF0HNgo1yyyEaA</id>
+    <link href="https://mp.weixin.qq.com/s/cTQjxD38ZF0HNgo1yyyEaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云端一体化下如何降本增效，实现业务价值最大化？｜ QCon</title>
+    <updated>2020-11-02T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/tyfROX29tRLEmBUyFcjuJw</id>
+    <link href="https://mp.weixin.qq.com/s/tyfROX29tRLEmBUyFcjuJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JavaScript ES2021最值得期待的新特性解析</title>
+    <updated>2020-11-02T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/IA8j-9IRazXxKwlPl809qA</id>
+    <link href="https://mp.weixin.qq.com/s/IA8j-9IRazXxKwlPl809qA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>盘点C++开源项目中的十大Bug</title>
+    <updated>2020-11-02T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/fJqQb9fGlufHW55ic2OBZA</id>
+    <link href="https://mp.weixin.qq.com/s/fJqQb9fGlufHW55ic2OBZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>继停招中国人后，GitLab加入封禁大军：全面阻止受美国制裁的伊朗等地区开发者账户！</title>
     <updated>2020-10-31T16:12:50+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-29T16:28:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/UMN8ycYLdvoFZ20FAGSRbQ</id>
     <link href="https://mp.weixin.qq.com/s/UMN8ycYLdvoFZ20FAGSRbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年一定要关注的技术趋势和选型建议</title>
-    <updated>2020-10-29T16:28:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/TD-THPbGVxEfOHmm09DXbQ</id>
-    <link href="https://mp.weixin.qq.com/s/TD-THPbGVxEfOHmm09DXbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「留量」时代，我们应该如何思考产业的未来？</title>
-    <updated>2020-10-29T16:28:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/A6vifKjsQ0Vm1kgBL3pqhQ</id>
-    <link href="https://mp.weixin.qq.com/s/A6vifKjsQ0Vm1kgBL3pqhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>未来十年，通信云企业的核心竞争力终将演变为“场景之战” ｜ Q推荐</title>
-    <updated>2020-10-29T16:28:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/V4hDSXAz3lssjznsqGvYFg</id>
-    <link href="https://mp.weixin.qq.com/s/V4hDSXAz3lssjznsqGvYFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes Ingress升级为GA，带来两大主要变化</title>
-    <updated>2020-10-29T16:28:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/upbnLLTVVxcx0O7hQ8Cqdw</id>
-    <link href="https://mp.weixin.qq.com/s/upbnLLTVVxcx0O7hQ8Cqdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>7.2万Star人气开源项目惨遭封禁下架，GitHub CEO很闹心</title>
-    <updated>2020-10-28T15:17:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/9FPV7LDrRb9f3QIfbC8I5g</id>
-    <link href="https://mp.weixin.qq.com/s/9FPV7LDrRb9f3QIfbC8I5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
