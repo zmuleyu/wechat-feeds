@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-01T20:18:31+08:00</updated>
+  <updated>2020-11-02T13:16:09+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我写 React 的常用套路</title>
+    <updated>2020-11-01T21:53:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/lbXKCo_jNxRuYsACFqzt3w</id>
+    <link href="https://mp.weixin.qq.com/s/lbXKCo_jNxRuYsACFqzt3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊如何设计组件</title>
+    <updated>2020-11-01T21:53:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/_nXuFiuv6-HhN-Vkg6OkRw</id>
+    <link href="https://mp.weixin.qq.com/s/_nXuFiuv6-HhN-Vkg6OkRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>彻底搞懂 Node.js 中的 Require 机制</title>
     <updated>2020-11-01T19:23:14+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-10-24T21:59:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/Xp47k--mJgAGM2g14N0TRg</id>
     <link href="https://mp.weixin.qq.com/s/Xp47k--mJgAGM2g14N0TRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>80% 前端开发者都会有这样的错觉…</title>
-    <updated>2020-10-22T22:20:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/9VDhXzpWKXBXvRf4mg4HEQ</id>
-    <link href="https://mp.weixin.qq.com/s/9VDhXzpWKXBXvRf4mg4HEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Chrome 86 新功能解读</title>
-    <updated>2020-10-22T22:20:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/nUiJJDi8LdPolM4Wi3l1pg</id>
-    <link href="https://mp.weixin.qq.com/s/nUiJJDi8LdPolM4Wi3l1pg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-01T20:21:02+08:00</updated>
+  <updated>2020-11-02T13:18:53+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>连qps都不懂，靠谱吗？</title>
+    <updated>2020-11-02T10:34:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/ElDoQGunOmXOYVtqmBGZDA</id>
+    <link href="https://mp.weixin.qq.com/s/ElDoQGunOmXOYVtqmBGZDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Docker Hub拉取新政策可能影响公有云Google云服务部署</title>
+    <updated>2020-11-02T10:34:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/E3tdy4PfYgIP-RUxPMYqJA</id>
+    <link href="https://mp.weixin.qq.com/s/E3tdy4PfYgIP-RUxPMYqJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今天生效，Docker限制Docker Hub上免费用户镜像​拉取次数</title>
     <updated>2020-11-01T20:05:12+08:00</updated>
@@ -40,13 +54,6 @@
     <updated>2020-10-30T19:54:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/kj8OaR-1Ri2RTitWG9RKYQ</id>
     <link href="https://mp.weixin.qq.com/s/kj8OaR-1Ri2RTitWG9RKYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个神器，拯救了千千万万的苦逼程序员！</title>
-    <updated>2020-10-29T12:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/mGSEcE2h-OWvM1qc1aEi7Q</id>
-    <link href="https://mp.weixin.qq.com/s/mGSEcE2h-OWvM1qc1aEi7Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +103,6 @@
     <updated>2020-10-23T23:13:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/ptR9ZTYgQ5SHkqBkBF__zw</id>
     <link href="https://mp.weixin.qq.com/s/ptR9ZTYgQ5SHkqBkBF__zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：小黄人学 Kubernetes Service</title>
-    <updated>2020-10-23T09:12:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/SMgG6LkiAwbGX6wdqFDjFQ</id>
-    <link href="https://mp.weixin.qq.com/s/SMgG6LkiAwbGX6wdqFDjFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

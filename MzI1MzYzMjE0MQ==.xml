@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-28T20:20:32+08:00</updated>
+  <updated>2020-11-02T13:11:40+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动破局联邦学习：开源Fedlearner框架，广告投放增效209%</title>
+    <updated>2020-11-02T11:40:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/RcBQT72hXVWGXBTzwV6nJQ</id>
+    <link href="https://mp.weixin.qq.com/s/RcBQT72hXVWGXBTzwV6nJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐一款超高速、多特性的高性能序列推理引擎—— LightSeq</title>
     <updated>2020-10-28T17:51:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-14T09:30:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-14:/s/Xqr6rQBbx7XPoBESEFuXJw</id>
     <link href="https://mp.weixin.qq.com/s/Xqr6rQBbx7XPoBESEFuXJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>💻 字节跳动 ClickHouse专场沙龙直播，19:00 准时开始，等会直播间见哦！&#xA;🔗 直播地址：https://live.bytedance.com/8889/8452238（复制到浏览器打开）&#xA;👉 公众号后台回复“clickhouse”即可获得飞书交流群二维码</title>
-    <updated>2020-08-28T15:58:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-28:/s/Z0HbJiLlxpk0QFJ75t7gBg</id>
-    <link href="https://mp.weixin.qq.com/s/Z0HbJiLlxpk0QFJ75t7gBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
