@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-01T23:19:02+08:00</updated>
+  <updated>2020-11-02T11:20:10+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python 测试开发实战进阶，技能对标阿里 P6+，年薪突破 50W+！</title>
+    <updated>2020-11-01T22:45:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/-4dsNBW1Ydk_UC5FO64ffQ</id>
+    <link href="https://mp.weixin.qq.com/s/-4dsNBW1Ydk_UC5FO64ffQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 中命名空间与作用域介绍</title>
+    <updated>2020-11-01T22:45:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/0zkvGeTrpmW-UgeMJiR_Gg</id>
+    <link href="https://mp.weixin.qq.com/s/0zkvGeTrpmW-UgeMJiR_Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>python管理文件神器 os.walk</title>
     <updated>2020-11-01T21:45:06+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-10-24T19:44:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/aRFJAqFrFu_I5YPV7Ltw3A</id>
     <link href="https://mp.weixin.qq.com/s/aRFJAqFrFu_I5YPV7Ltw3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>掌握这些知识，你也能成为 NLP 算法工程师！</title>
-    <updated>2020-10-22T22:35:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/cWsTjtg8Mx8ePZla7BEVhg</id>
-    <link href="https://mp.weixin.qq.com/s/cWsTjtg8Mx8ePZla7BEVhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实例：用 Python 绘制一套“会跳舞”的动态图形</title>
-    <updated>2020-10-22T22:35:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/Mom3zlTksXf_GpN7auqWQQ</id>
-    <link href="https://mp.weixin.qq.com/s/Mom3zlTksXf_GpN7auqWQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

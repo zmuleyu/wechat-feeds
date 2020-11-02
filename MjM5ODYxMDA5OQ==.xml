@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-01T20:16:46+08:00</updated>
+  <updated>2020-11-02T11:14:32+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>每秒几万次MySQL交互，搜狗纯异步MySQL客户端开源了！</title>
+    <updated>2020-11-01T14:29:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/aSuxtxDrKGHGEkJq-Ir8ZA</id>
+    <link href="https://mp.weixin.qq.com/s/aSuxtxDrKGHGEkJq-Ir8ZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>给技术人职场的10个建议</title>
     <updated>2020-11-01T17:21:26+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-18T17:49:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/0IyRzXGzgSKyBBclB96xww</id>
     <link href="https://mp.weixin.qq.com/s/0IyRzXGzgSKyBBclB96xww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MQ，究竟如何保证消息幂等？</title>
-    <updated>2020-10-17T20:40:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/lh1yLcKHDLSCatdA9EY6wQ</id>
-    <link href="https://mp.weixin.qq.com/s/lh1yLcKHDLSCatdA9EY6wQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>读书，但能让你知道为啥没钱</title>
-    <updated>2020-10-17T20:40:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/d3y_b8pUja62Z_Mp6s0fQw</id>
-    <link href="https://mp.weixin.qq.com/s/d3y_b8pUja62Z_Mp6s0fQw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
