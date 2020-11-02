@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T01:11:58+08:00</updated>
+  <updated>2020-11-02T23:09:41+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-02 arc-swap 即将进入 1.0 稳定版本</title>
+    <updated>2020-11-02T22:46:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/vo4G6gFXwi-k_dSqeBaFkA</id>
+    <link href="https://mp.weixin.qq.com/s/vo4G6gFXwi-k_dSqeBaFkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】用Rust写了个git commit格式化的工具</title>
+    <updated>2020-11-02T22:46:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/BEuNMHqWWvmC9NfEv6oOCQ</id>
+    <link href="https://mp.weixin.qq.com/s/BEuNMHqWWvmC9NfEv6oOCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-01 《Zero to production in Rust》</title>
     <updated>2020-11-01T23:29:44+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-25T22:20:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/EJGVHr_9YRZDq8_pu3QqZA</id>
     <link href="https://mp.weixin.qq.com/s/EJGVHr_9YRZDq8_pu3QqZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[Rust][权限控制][Casbin] Rust 下成熟好用的权限控制库</title>
-    <updated>2020-10-25T22:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/Y0Qmh9R2g0r2eHad44CveQ</id>
-    <link href="https://mp.weixin.qq.com/s/Y0Qmh9R2g0r2eHad44CveQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 Rust 重写的 Kata Containers 大幅提升速度</title>
-    <updated>2020-10-24T23:24:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/sOh267u7EplIvGdwDiU_Vw</id>
-    <link href="https://mp.weixin.qq.com/s/sOh267u7EplIvGdwDiU_Vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
