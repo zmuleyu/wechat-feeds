@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-30T11:16:55+08:00</updated>
+  <updated>2020-11-02T20:15:41+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>敲重点：InnoDB 的插入缓冲，这些你必须知道！</title>
+    <updated>2020-11-02T17:16:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/4RkH5-PHnTKvBEZu6E9vnA</id>
+    <link href="https://mp.weixin.qq.com/s/4RkH5-PHnTKvBEZu6E9vnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>没那么简单的分库分表：高并发下数据库架构设计的那些坑！</title>
     <updated>2020-10-29T15:45:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-14T05:15:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/RtSJU0oHnUZqADLQe3u_ZQ</id>
     <link href="https://mp.weixin.qq.com/s/RtSJU0oHnUZqADLQe3u_ZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直观讲解一下 RPC 调用和 HTTP 调用的区别！</title>
-    <updated>2020-10-12T21:21:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/mqKulTHTYNx_ks8-LVvJ5A</id>
-    <link href="https://mp.weixin.qq.com/s/mqKulTHTYNx_ks8-LVvJ5A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

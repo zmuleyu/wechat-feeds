@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-31T11:11:51+08:00</updated>
+  <updated>2020-11-02T20:15:26+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Meetup 预告 | DM 专场：扒一扒 TiDB DM 2.0 的新特性与最佳实践</title>
+    <updated>2020-11-02T18:04:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/2LPZngNYpzGGsiwdSUt2_w</id>
+    <link href="https://mp.weixin.qq.com/s/2LPZngNYpzGGsiwdSUt2_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TiDB DM 2.0 GA，数据迁移不用愁</title>
     <updated>2020-10-30T19:32:41+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-10-19T18:19:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/Yc36W8Faim8HG0gX7iKLtw</id>
     <link href="https://mp.weixin.qq.com/s/Yc36W8Faim8HG0gX7iKLtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google Cloud 对话 PingCAP，探索 TiDB 核心数据库的上云秘籍</title>
-    <updated>2020-10-16T11:00:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/JePcJ0TDuAqRT6-H5xOE5g</id>
-    <link href="https://mp.weixin.qq.com/s/JePcJ0TDuAqRT6-H5xOE5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
