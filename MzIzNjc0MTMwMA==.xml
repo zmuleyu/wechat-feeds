@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T20:22:37+08:00</updated>
+  <updated>2020-11-03T20:19:12+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】图神经网络与深度学习在智能交通中的应用：综述Survey</title>
+    <updated>2020-11-03T18:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/c-x_SDimIpfgw9ZZ4jocMQ</id>
+    <link href="https://mp.weixin.qq.com/s/c-x_SDimIpfgw9ZZ4jocMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】联邦学习：FedAvg 的 Pytorch 实现</title>
+    <updated>2020-11-03T18:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/xZNk3kgJ7tKlTVrL4V8V_g</id>
+    <link href="https://mp.weixin.qq.com/s/xZNk3kgJ7tKlTVrL4V8V_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI87×CRIPAC 异构网络挖掘专题</title>
+    <updated>2020-11-03T18:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/lKTJWBzMn-kPPw1g3QvhVQ</id>
+    <link href="https://mp.weixin.qq.com/s/lKTJWBzMn-kPPw1g3QvhVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【源头活水】ICLR 2020 所有RL papers全扫荡</title>
     <updated>2020-11-02T18:08:45+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-28T18:08:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/0rtWdPqH4vSenI0H3BvjUw</id>
     <link href="https://mp.weixin.qq.com/s/0rtWdPqH4vSenI0H3BvjUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI86@ICT 学术人生专栏</title>
-    <updated>2020-10-28T18:08:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/FLJFsadr-OApNkOJr-4hsA</id>
-    <link href="https://mp.weixin.qq.com/s/FLJFsadr-OApNkOJr-4hsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】详解凸优化、图神经网络、强化学习、贝叶斯方法等四大主题</title>
-    <updated>2020-10-27T18:02:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/veCTqkYCUrN1lEkgRhp7_Q</id>
-    <link href="https://mp.weixin.qq.com/s/veCTqkYCUrN1lEkgRhp7_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】浅谈数据标准化与Pytorch中NLLLoss和CrossEntropyLoss损失函数的区别</title>
-    <updated>2020-10-27T18:02:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/Oq_b7zsRxhZaWcVBWQYKXQ</id>
-    <link href="https://mp.weixin.qq.com/s/Oq_b7zsRxhZaWcVBWQYKXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

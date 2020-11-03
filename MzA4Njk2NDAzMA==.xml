@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T20:19:01+08:00</updated>
+  <updated>2020-11-03T20:17:11+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>写博客十年记</title>
+    <updated>2020-11-03T20:00:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/diPaFMDJ9GLXXKEIbgpfYw</id>
+    <link href="https://mp.weixin.qq.com/s/diPaFMDJ9GLXXKEIbgpfYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 商城前端架构升级之前后端分离</title>
     <updated>2020-11-02T19:10:07+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-10-21T17:15:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/9DD7TEZ-FVpiepwp7sdI-Q</id>
     <link href="https://mp.weixin.qq.com/s/9DD7TEZ-FVpiepwp7sdI-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MTSC2020 所有议题放出！总有你感兴趣的议题！</title>
-    <updated>2020-10-20T20:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/0XlYtos7Dg1uZZd8WH4-6w</id>
-    <link href="https://mp.weixin.qq.com/s/0XlYtos7Dg1uZZd8WH4-6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
