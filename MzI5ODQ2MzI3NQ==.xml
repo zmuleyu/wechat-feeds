@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T13:18:53+08:00</updated>
+  <updated>2020-11-03T13:14:48+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前58技术委员会主席详谈架构设计思维模型！</title>
+    <updated>2020-11-03T11:50:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/uIwkb5OBPcaYOyMrEFih0A</id>
+    <link href="https://mp.weixin.qq.com/s/uIwkb5OBPcaYOyMrEFih0A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Jenkins持续集成的13种替代方案</title>
+    <updated>2020-11-03T11:50:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/JJ3mo-gSeplo9CPoR2G6Mg</id>
+    <link href="https://mp.weixin.qq.com/s/JJ3mo-gSeplo9CPoR2G6Mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>连qps都不懂，靠谱吗？</title>
     <updated>2020-11-02T10:34:29+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-10-24T23:19:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/3M3A9bzvvBlSAf3T2SmNSg</id>
     <link href="https://mp.weixin.qq.com/s/3M3A9bzvvBlSAf3T2SmNSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软发布开源K8s 边缘设备项目Akri</title>
-    <updated>2020-10-23T23:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/ptR9ZTYgQ5SHkqBkBF__zw</id>
-    <link href="https://mp.weixin.qq.com/s/ptR9ZTYgQ5SHkqBkBF__zw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T20:15:41+08:00</updated>
+  <updated>2020-11-03T13:21:10+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【非广告，纯干货】10年IT老兵拿下阿里p7技术专家后的万字面经分享！</title>
+    <updated>2020-11-03T12:14:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/nZUYp-txfNjjePITSOEGmQ</id>
+    <link href="https://mp.weixin.qq.com/s/nZUYp-txfNjjePITSOEGmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>敲重点：InnoDB 的插入缓冲，这些你必须知道！</title>
     <updated>2020-11-02T17:16:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-15T11:35:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/SZl2E5NAhpYM4kKv9gyQOQ</id>
     <link href="https://mp.weixin.qq.com/s/SZl2E5NAhpYM4kKv9gyQOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>生产实践经验：线上系统的 JVM 内存是越大越好吗？</title>
-    <updated>2020-10-14T05:15:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/RtSJU0oHnUZqADLQe3u_ZQ</id>
-    <link href="https://mp.weixin.qq.com/s/RtSJU0oHnUZqADLQe3u_ZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
