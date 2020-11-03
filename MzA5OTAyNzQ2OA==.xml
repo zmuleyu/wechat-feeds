@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T11:11:29+08:00</updated>
+  <updated>2020-11-03T11:15:35+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2020-11-03T07:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/l9EmElxD7L38JqxSzev4lQ</id>
+    <link href="https://mp.weixin.qq.com/s/l9EmElxD7L38JqxSzev4lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus 理论与实战培训</title>
+    <updated>2020-11-03T07:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Q5Xi3lYmMBvyz47lGNSa-w</id>
+    <link href="https://mp.weixin.qq.com/s/Q5Xi3lYmMBvyz47lGNSa-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Jenkins和GitLab CI/CD：CI/CD工具之战</title>
     <updated>2020-11-02T07:30:19+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-25T08:18:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/wIHtMaKtygM02_EfFuaAOQ</id>
     <link href="https://mp.weixin.qq.com/s/wIHtMaKtygM02_EfFuaAOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 企业级应用Service Management Automation X（SMAX）的微服务之路</title>
-    <updated>2020-10-25T08:18:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/3MQRqygH2PNXGAty-sUNaQ</id>
-    <link href="https://mp.weixin.qq.com/s/3MQRqygH2PNXGAty-sUNaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2020-10-24T08:00:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/8LUjjKSlF4Y3ocaizXWkCw</id>
-    <link href="https://mp.weixin.qq.com/s/8LUjjKSlF4Y3ocaizXWkCw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

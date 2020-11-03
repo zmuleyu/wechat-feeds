@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-01T23:19:58+08:00</updated>
+  <updated>2020-11-03T11:11:48+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【11月7日】实时音视频技术专场来袭！就在本周六！</title>
+    <updated>2020-11-02T22:45:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/IQMU7EcR2YJ21JXkPbkrzw</id>
+    <link href="https://mp.weixin.qq.com/s/IQMU7EcR2YJ21JXkPbkrzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【DevFest 2020】为女性开发者而来！在WTM专场，与乘风破浪的职业女性细数职场话题！| WTM专场</title>
     <updated>2020-11-01T22:00:19+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-09-23T19:31:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/wFNgAiJaRWJI_Uc03XOluw</id>
     <link href="https://mp.weixin.qq.com/s/wFNgAiJaRWJI_Uc03XOluw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一篇文章入门Chrome扩展开发</title>
-    <updated>2020-09-22T09:11:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/2uZgG_KLWo8d1TVmCafJow</id>
-    <link href="https://mp.weixin.qq.com/s/2uZgG_KLWo8d1TVmCafJow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动推荐】实时互联网大会系列直播</title>
-    <updated>2020-09-22T09:11:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/5552BZEgfzDfCaYUiRZFuQ</id>
-    <link href="https://mp.weixin.qq.com/s/5552BZEgfzDfCaYUiRZFuQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

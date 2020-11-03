@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T11:19:08+08:00</updated>
+  <updated>2020-11-03T11:16:12+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一种新的设计模式：newtype</title>
+    <updated>2020-11-03T10:06:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/IMG8WfSHErA8zmQj9nobyQ</id>
+    <link href="https://mp.weixin.qq.com/s/IMG8WfSHErA8zmQj9nobyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>简述3种CQRS架构模式</title>
     <updated>2020-11-02T09:49:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-25T15:48:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/KelqbAbRCUQdW3H8NjnooA</id>
     <link href="https://mp.weixin.qq.com/s/KelqbAbRCUQdW3H8NjnooA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>构建 Netflix 分布式追踪（tracing）体系</title>
-    <updated>2020-10-23T11:01:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/NmGYfoJ7pw8CfRfUkc6o2Q</id>
-    <link href="https://mp.weixin.qq.com/s/NmGYfoJ7pw8CfRfUkc6o2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

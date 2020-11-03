@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>LiveVideoStack | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T11:12:28+08:00</updated>
+  <updated>2020-11-03T11:17:02+08:00</updated>
   <subtitle>LiveVideoStack直播技术社区官方账号，分享音视频直播相关技术干货，产品研究与行业趋势。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用iPhone相机和OpenCV来完成3D重建（第三部分）</title>
+    <updated>2020-11-03T10:30:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/oLvfkgQzOkQGGH5w4nRYUA</id>
+    <link href="https://mp.weixin.qq.com/s/oLvfkgQzOkQGGH5w4nRYUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>视频传输面临的挑战和解决之道</title>
     <updated>2020-11-01T21:31:08+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-10-25T10:31:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/NIN44YxX-r8M71bSIUTFyg</id>
     <link href="https://mp.weixin.qq.com/s/NIN44YxX-r8M71bSIUTFyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Facebook如何将QUIC应用于数十亿流量传输</title>
-    <updated>2020-10-24T12:12:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/eoAk0seg5zdWEeJGt9i-nw</id>
-    <link href="https://mp.weixin.qq.com/s/eoAk0seg5zdWEeJGt9i-nw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
