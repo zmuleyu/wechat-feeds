@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T23:11:25+08:00</updated>
+  <updated>2020-11-03T23:09:59+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux 内核的故事</title>
+    <updated>2020-11-03T21:10:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/_uy2H-8LLQm1Unv7PEwQQA</id>
+    <link href="https://mp.weixin.qq.com/s/_uy2H-8LLQm1Unv7PEwQQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>做客腾讯直播间：洞悉技术本质，奔往技术“工程师”</title>
+    <updated>2020-11-03T21:10:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/66Hiycy3h3-4n7YRHDtVBQ</id>
+    <link href="https://mp.weixin.qq.com/s/66Hiycy3h3-4n7YRHDtVBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>学员起薪15K入职字节，运维这条路怎么样？</title>
     <updated>2020-11-02T21:18:15+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-26T23:16:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/2kIkC2t73qnWUT33hRXv7w</id>
     <link href="https://mp.weixin.qq.com/s/2kIkC2t73qnWUT33hRXv7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux新手设置</title>
-    <updated>2020-10-25T20:05:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/rmXQ6OKL2tzxT4O10Ul5Bw</id>
-    <link href="https://mp.weixin.qq.com/s/rmXQ6OKL2tzxT4O10Ul5Bw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​用Python操作Kubernetes的Job</title>
-    <updated>2020-10-24T19:19:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/EXljnc-DvZrn_RNlwBnHhw</id>
-    <link href="https://mp.weixin.qq.com/s/EXljnc-DvZrn_RNlwBnHhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

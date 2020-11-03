@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AINLP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T20:13:24+08:00</updated>
+  <updated>2020-11-03T23:12:23+08:00</updated>
   <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>千言：多技能对话赛题详解来了，涵盖闲聊对话、知识对话、推荐对话等</title>
+    <updated>2020-11-03T18:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/lTs5AmJTSvFmKjcPZwPrYA</id>
+    <link href="https://mp.weixin.qq.com/s/lTs5AmJTSvFmKjcPZwPrYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>重磅整理！推荐系统之深度召回模型综述（PART I）</title>
+    <updated>2020-11-03T18:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/s-KE_qLHLOLHQCmz_TQ9Nw</id>
+    <link href="https://mp.weixin.qq.com/s/s-KE_qLHLOLHQCmz_TQ9Nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BERT meet Knowledge Graph：预训练模型与知识图谱相结合的研究进展</title>
+    <updated>2020-11-03T18:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/KWS6jOTylbiYZQZ0CVcWsg</id>
+    <link href="https://mp.weixin.qq.com/s/KWS6jOTylbiYZQZ0CVcWsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OCR深度实践系列：图像预处理</title>
+    <updated>2020-11-03T18:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/rWqmIfgNGoC4D2wl8INmtQ</id>
+    <link href="https://mp.weixin.qq.com/s/rWqmIfgNGoC4D2wl8INmtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【CS224N笔记】一文详解神经网络来龙去脉</title>
+    <updated>2020-11-03T18:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/qLVm4KMFWVH4cZcubmajNg</id>
+    <link href="https://mp.weixin.qq.com/s/qLVm4KMFWVH4cZcubmajNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想快速发表NLP论文?推荐几个出论文的好方向！</title>
     <updated>2020-11-02T19:00:44+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-29T22:46:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/t4bbjyOPUuh6xPV3oa_gHQ</id>
     <link href="https://mp.weixin.qq.com/s/t4bbjyOPUuh6xPV3oa_gHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里巴巴电商推荐之十亿级商品embedding</title>
-    <updated>2020-10-29T22:46:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/WWehR0ftdOBPsNZSapdGeQ</id>
-    <link href="https://mp.weixin.qq.com/s/WWehR0ftdOBPsNZSapdGeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人工神经网络背后的数学原理！</title>
-    <updated>2020-10-29T22:46:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/WIekF8S_DJ7Qo2QW1fzdOw</id>
-    <link href="https://mp.weixin.qq.com/s/WIekF8S_DJ7Qo2QW1fzdOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>曲线救国 | 双非&#34;渣硕&#34;的秋招路</title>
-    <updated>2020-10-29T22:46:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/d23EFctWJ1f_pV2LCZdQ5Q</id>
-    <link href="https://mp.weixin.qq.com/s/d23EFctWJ1f_pV2LCZdQ5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【NLP笔记】理论与实践详解词向量</title>
-    <updated>2020-10-29T22:46:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/V_y9dz1ZLU5yLdnDyycQ-w</id>
-    <link href="https://mp.weixin.qq.com/s/V_y9dz1ZLU5yLdnDyycQ-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>金融NLP需求落地实践总结——热门话题生成</title>
-    <updated>2020-10-29T19:41:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/LJh6pjRa2xhg9lZocGeqgg</id>
-    <link href="https://mp.weixin.qq.com/s/LJh6pjRa2xhg9lZocGeqgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
