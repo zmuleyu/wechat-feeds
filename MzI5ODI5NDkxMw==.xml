@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T16:09:45+08:00</updated>
+  <updated>2020-11-05T01:17:29+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>熬夜慢性自杀全过程曝光</title>
+    <updated>2020-11-04T22:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/_E_jlMNiJTwPQcwjZ7H43A</id>
+    <link href="https://mp.weixin.qq.com/s/_E_jlMNiJTwPQcwjZ7H43A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何实现 MySQL 删除重复记录并且只保留一条</title>
+    <updated>2020-11-04T22:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/cmcZx7iu-pCPGA863igLaA</id>
+    <link href="https://mp.weixin.qq.com/s/cmcZx7iu-pCPGA863igLaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一语点破Java中的静态static关键字</title>
+    <updated>2020-11-04T22:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/38hOFIV6T7ICfyGYPY2HjA</id>
+    <link href="https://mp.weixin.qq.com/s/38hOFIV6T7ICfyGYPY2HjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最新数据：微软Edge市场份额超过10%，Chrome竟然下滑</title>
+    <updated>2020-11-04T22:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/kZza4KfIvN32FFL3wGjodw</id>
+    <link href="https://mp.weixin.qq.com/s/kZza4KfIvN32FFL3wGjodw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux系统常用命令速查手册</title>
+    <updated>2020-11-04T22:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/xORny9FjZlMe2nWoNp28kA</id>
+    <link href="https://mp.weixin.qq.com/s/xORny9FjZlMe2nWoNp28kA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>真正的Java大神，都在争相研究JVM内核！</title>
     <updated>2020-11-03T22:03:44+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-02T13:12:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/kue2LXnNW4_4astYkOCisQ</id>
     <link href="https://mp.weixin.qq.com/s/kue2LXnNW4_4astYkOCisQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL大表优化方案，看了都说好！</title>
-    <updated>2020-10-31T23:59:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/tk9Lts0IPN22rwB8KvAFnw</id>
-    <link href="https://mp.weixin.qq.com/s/tk9Lts0IPN22rwB8KvAFnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Guava 中的 Stopwatch 是个什么鬼？</title>
-    <updated>2020-10-31T23:59:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/yB4lSgJRenMth1TsVzwYyw</id>
-    <link href="https://mp.weixin.qq.com/s/yB4lSgJRenMth1TsVzwYyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>因为“扫一扫”功能，支付宝被起诉了</title>
-    <updated>2020-10-31T23:59:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/TBTzsf4Of7saNCyDHFrMKA</id>
-    <link href="https://mp.weixin.qq.com/s/TBTzsf4Of7saNCyDHFrMKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>打破你的认知，Java除以0一定会崩溃吗？</title>
-    <updated>2020-10-31T23:59:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/3fD2Eb_MGTiwL65I4BdQIg</id>
-    <link href="https://mp.weixin.qq.com/s/3fD2Eb_MGTiwL65I4BdQIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内部泄露版！互联网大厂的最新薪资和职级一览</title>
-    <updated>2020-10-30T23:54:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/XGOc360RxWsasqkQ_FOcPg</id>
-    <link href="https://mp.weixin.qq.com/s/XGOc360RxWsasqkQ_FOcPg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
