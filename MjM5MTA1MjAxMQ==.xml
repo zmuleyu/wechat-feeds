@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T07:22:15+08:00</updated>
+  <updated>2020-11-05T07:29:15+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2108期】开源富文本编辑器技术的演进</title>
+    <updated>2020-11-05T05:58:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/Ui0qaMup-KWXiz3RBM14Kw</id>
+    <link href="https://mp.weixin.qq.com/s/Ui0qaMup-KWXiz3RBM14Kw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2107期】在Ant Design 4.0里，我们如何追求快乐的工作？</title>
     <updated>2020-11-04T06:25:58+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-27T05:58:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/J9Xu1nycdQjzPSwDF5GMTw</id>
     <link href="https://mp.weixin.qq.com/s/J9Xu1nycdQjzPSwDF5GMTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2098期】Redis + NodeJS 实现一个能处理海量数据的异步任务队列系统</title>
-    <updated>2020-10-26T06:07:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/nlazUC24yj79u7dHkqX3KA</id>
-    <link href="https://mp.weixin.qq.com/s/nlazUC24yj79u7dHkqX3KA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【图书】研发质量保障与工程效率</title>
-    <updated>2020-10-26T06:07:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/FGAARrxSSGERjscrsxULsw</id>
-    <link href="https://mp.weixin.qq.com/s/FGAARrxSSGERjscrsxULsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
