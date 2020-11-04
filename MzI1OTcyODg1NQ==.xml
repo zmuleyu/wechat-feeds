@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-03T23:09:59+08:00</updated>
+  <updated>2020-11-04T23:17:12+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Cache 和 Buffer 都是缓存，主要区别是什么？</title>
+    <updated>2020-11-04T21:25:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/vfBMy-U89x417llYdXsIIg</id>
+    <link href="https://mp.weixin.qq.com/s/vfBMy-U89x417llYdXsIIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>马哥教育-产业互联网时代云计算运维职业生涯的个人思考</title>
+    <updated>2020-11-04T21:25:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/cOTEAUM8KkX4TZyEcI3ZCA</id>
+    <link href="https://mp.weixin.qq.com/s/cOTEAUM8KkX4TZyEcI3ZCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux 内核的故事</title>
     <updated>2020-11-03T21:10:21+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-27T21:35:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/RvFNAyhdxHlNxx2BXNN60g</id>
     <link href="https://mp.weixin.qq.com/s/RvFNAyhdxHlNxx2BXNN60g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运维未来之路</title>
-    <updated>2020-10-27T21:35:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/RYsWk8brA9iXFhp1VNBk_Q</id>
-    <link href="https://mp.weixin.qq.com/s/RYsWk8brA9iXFhp1VNBk_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>配置 RHEL 使用本地源</title>
-    <updated>2020-10-26T23:16:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/2kIkC2t73qnWUT33hRXv7w</id>
-    <link href="https://mp.weixin.qq.com/s/2kIkC2t73qnWUT33hRXv7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-03T23:17:47+08:00</updated>
+  <updated>2020-11-04T23:24:54+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一起来学shell bash编程(2)</title>
+    <updated>2020-11-04T13:37:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/3sY_h9CSBHrrTPDQBX2N_Q</id>
+    <link href="https://mp.weixin.qq.com/s/3sY_h9CSBHrrTPDQBX2N_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Cell | 单细胞转录组揭示肝实质细胞及NPC细胞的早期细胞谱系</title>
     <updated>2020-11-03T21:51:10+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-10-26T21:50:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/uyF6VDJJb-HHA_2pFH7EXA</id>
     <link href="https://mp.weixin.qq.com/s/uyF6VDJJb-HHA_2pFH7EXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从零开始用 PyQt5 写一个 scihub 下载器（一）</title>
-    <updated>2020-10-25T23:02:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/O8Z5rtsAFhQpPPPghTKuAg</id>
-    <link href="https://mp.weixin.qq.com/s/O8Z5rtsAFhQpPPPghTKuAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
