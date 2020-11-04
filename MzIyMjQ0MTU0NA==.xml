@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-03T13:19:53+08:00</updated>
+  <updated>2020-11-04T16:17:26+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“对不起，我们不招半路出家的程序猿”</title>
+    <updated>2020-11-04T10:04:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/oBZHYGjxgEAjFHpIwekIyQ</id>
+    <link href="https://mp.weixin.qq.com/s/oBZHYGjxgEAjFHpIwekIyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CTO：不要在代码中写 set/get 方法了，逮一次罚款...</title>
+    <updated>2020-11-04T10:04:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/VJp5Mo3q3i0_kWi0TgOvag</id>
+    <link href="https://mp.weixin.qq.com/s/VJp5Mo3q3i0_kWi0TgOvag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>简历写了期望 30K，面试官邪魅一笑：MySQL千万级别大表，你要如何优化？</title>
+    <updated>2020-11-04T10:04:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/3oQJXGg-GJfYH9Fqb9vmow</id>
+    <link href="https://mp.weixin.qq.com/s/3oQJXGg-GJfYH9Fqb9vmow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《阿里巴巴面试手册》</title>
+    <updated>2020-11-04T10:04:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/mAifxSvJX1QypCr9Zp-UVA</id>
+    <link href="https://mp.weixin.qq.com/s/mAifxSvJX1QypCr9Zp-UVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么我不建议程序员做“外包”？</title>
+    <updated>2020-11-04T10:04:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/bQTjYCxLu9_dLEGmiNMCMA</id>
+    <link href="https://mp.weixin.qq.com/s/bQTjYCxLu9_dLEGmiNMCMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>获追捧的 Win10 精简 “魔改版”OS， 被微软封杀！</title>
     <updated>2020-11-03T13:05:33+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-10-31T17:20:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/MpOpAb9n5ZhdsKC8aU9Xeg</id>
     <link href="https://mp.weixin.qq.com/s/MpOpAb9n5ZhdsKC8aU9Xeg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如果再写for循环，我就锤自己</title>
-    <updated>2020-10-31T17:20:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/Es3b5hU0CJm5XXNxY57uBw</id>
-    <link href="https://mp.weixin.qq.com/s/Es3b5hU0CJm5XXNxY57uBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>很多程序员编码时都戴耳机？到底在听什么？</title>
-    <updated>2020-10-30T09:58:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/VARl6JcaLQjrScRX7nfCYw</id>
-    <link href="https://mp.weixin.qq.com/s/VARl6JcaLQjrScRX7nfCYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis 和 Zookeeper 到底谁更牛？</title>
-    <updated>2020-10-30T09:58:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/BXjlgCZ6weijFrhG5NinKw</id>
-    <link href="https://mp.weixin.qq.com/s/BXjlgCZ6weijFrhG5NinKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为了探究妹纸对内衣的喜好，我爬了淘宝内衣店的数据！</title>
-    <updated>2020-10-30T09:58:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/XqZIIMd13dmkqjwklm92hA</id>
-    <link href="https://mp.weixin.qq.com/s/XqZIIMd13dmkqjwklm92hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我酸了！蚂蚁员工激励达 1376.9 亿，人均能在杭州买套 283 平的房子？</title>
-    <updated>2020-10-30T09:58:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/gKFpZK3w59r7AgyJ89uFKg</id>
-    <link href="https://mp.weixin.qq.com/s/gKFpZK3w59r7AgyJ89uFKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
