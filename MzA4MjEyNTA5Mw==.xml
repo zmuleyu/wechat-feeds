@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-03T23:11:07+08:00</updated>
+  <updated>2020-11-04T13:11:33+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为啥我学了2年多的Web，还是上手不了业务？</title>
+    <updated>2020-11-03T23:07:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Nr1il3eHil1gaFFN0LKT6g</id>
+    <link href="https://mp.weixin.qq.com/s/Nr1il3eHil1gaFFN0LKT6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入 Python 异常处理</title>
+    <updated>2020-11-03T23:07:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/n6SlIT7KIMpk1DKSx8OviA</id>
+    <link href="https://mp.weixin.qq.com/s/n6SlIT7KIMpk1DKSx8OviA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>图解|为什么 Python 多线程无法利用多核</title>
     <updated>2020-11-03T20:24:15+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-10-26T21:36:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/36_gHzFKpQ9rIscFOfUboQ</id>
     <link href="https://mp.weixin.qq.com/s/36_gHzFKpQ9rIscFOfUboQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超详细matplotlib基础介绍！！！</title>
-    <updated>2020-10-25T20:09:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/ZsJn2athQepVEI5nRGZY3Q</id>
-    <link href="https://mp.weixin.qq.com/s/ZsJn2athQepVEI5nRGZY3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
