@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T20:13:23+08:00</updated>
+  <updated>2020-11-04T20:15:11+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于卫星定位，你想知道的一切</title>
+    <updated>2020-11-04T17:51:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/ngyI_opurcrZQA9ZFL8g3Q</id>
+    <link href="https://mp.weixin.qq.com/s/ngyI_opurcrZQA9ZFL8g3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OpenKruise：解放 DaemonSet 运维之路</title>
     <updated>2020-11-02T18:17:22+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-24T08:28:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-24:/s/p2hi6nxqelOQjp0d6IOEnw</id>
     <link href="https://mp.weixin.qq.com/s/p2hi6nxqelOQjp0d6IOEnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1024，致敬每个身为程序员的斗士！</title>
-    <updated>2020-10-23T18:12:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/9UE1GTk3KzrSv9_l0enUXQ</id>
-    <link href="https://mp.weixin.qq.com/s/9UE1GTk3KzrSv9_l0enUXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-02T20:18:36+08:00</updated>
+  <updated>2020-11-04T20:21:16+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊 Axios 中值得学习的核心知识点</title>
+    <updated>2020-11-04T17:36:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/KfIbhT5ZubvVzNHEIyiXEA</id>
+    <link href="https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
+    <updated>2020-11-04T17:36:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/a9RhmDj8tU68NXwC0kjdWA</id>
+    <link href="https://mp.weixin.qq.com/s/a9RhmDj8tU68NXwC0kjdWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-11-04T17:36:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/Cf5QmT6ZpgJABkhBqneS5A</id>
+    <link href="https://mp.weixin.qq.com/s/Cf5QmT6ZpgJABkhBqneS5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>常见登录鉴权方案</title>
     <updated>2020-11-02T19:33:59+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-23T17:49:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/iXxxmH508UeQ1C42SNm22g</id>
     <link href="https://mp.weixin.qq.com/s/iXxxmH508UeQ1C42SNm22g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-10-23T17:49:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/gAr26bsKxdgowyaP2MEeKg</id>
-    <link href="https://mp.weixin.qq.com/s/gAr26bsKxdgowyaP2MEeKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-10-23T17:49:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/HNgnlLvUTplephewIztPNw</id>
-    <link href="https://mp.weixin.qq.com/s/HNgnlLvUTplephewIztPNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 369 期：2020 年的 24 个 CSS 新特性</title>
-    <updated>2020-10-23T17:27:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/LJlAv7RSH7Akq8AqS967FA</id>
-    <link href="https://mp.weixin.qq.com/s/LJlAv7RSH7Akq8AqS967FA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
