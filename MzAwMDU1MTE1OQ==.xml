@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-03T11:16:12+08:00</updated>
+  <updated>2020-11-04T11:19:09+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前58技术委员会主席总结的系统架构设计思维和方法论</title>
+    <updated>2020-11-03T23:03:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/815OsOll_cDKemiskByFLg</id>
+    <link href="https://mp.weixin.qq.com/s/815OsOll_cDKemiskByFLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一种新的设计模式：newtype</title>
     <updated>2020-11-03T10:06:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-26T11:15:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/uRgPfHgaiba1MuSxzkj4tQ</id>
     <link href="https://mp.weixin.qq.com/s/uRgPfHgaiba1MuSxzkj4tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟简述熔断器使用方法</title>
-    <updated>2020-10-25T15:48:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/KelqbAbRCUQdW3H8NjnooA</id>
-    <link href="https://mp.weixin.qq.com/s/KelqbAbRCUQdW3H8NjnooA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
