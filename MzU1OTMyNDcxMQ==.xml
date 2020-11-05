@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-03T20:17:45+08:00</updated>
+  <updated>2020-11-05T20:24:51+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>案例分享 | 悦耳为君：使用机器学习对 Spotify 主页面进行个性化设置</title>
+    <updated>2020-11-05T19:05:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/mFtcahDWyWmO5Iga3OdtRQ</id>
+    <link href="https://mp.weixin.qq.com/s/mFtcahDWyWmO5Iga3OdtRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DeepPavlov: 强大的聊天机器人和对话系统开源AI库（附安装指南）</title>
     <updated>2020-11-03T17:27:26+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-10-21T20:21:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/leglWoAp_hywc7v-cUgsIw</id>
     <link href="https://mp.weixin.qq.com/s/leglWoAp_hywc7v-cUgsIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优化 TensorFlow Lite 推理运行环境内存占用</title>
-    <updated>2020-10-20T17:29:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/qWLgTKRRhwjLucRegHLcBA</id>
-    <link href="https://mp.weixin.qq.com/s/qWLgTKRRhwjLucRegHLcBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TensorFlow 入门实操课程第一部分延展阅读</title>
-    <updated>2020-10-20T17:29:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/QvsqSuFMZi6k5J1Z7agt3Q</id>
-    <link href="https://mp.weixin.qq.com/s/QvsqSuFMZi6k5J1Z7agt3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

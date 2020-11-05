@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T13:19:22+08:00</updated>
+  <updated>2020-11-05T20:23:06+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浏览器渲染原理</title>
+    <updated>2020-11-05T20:09:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/DvijdWA5Gpv5gpYVLGcIBg</id>
+    <link href="https://mp.weixin.qq.com/s/DvijdWA5Gpv5gpYVLGcIBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>手把手带你从零打造Vue SSR，清晰易懂！</title>
     <updated>2020-11-03T22:48:34+08:00</updated>
@@ -61,13 +68,6 @@
     <updated>2020-11-01T19:23:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-01:/s/49349zskh8PN7_w4bl6-8Q</id>
     <link href="https://mp.weixin.qq.com/s/49349zskh8PN7_w4bl6-8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软将不兼容 IE 的网站重定向至 Edge</title>
-    <updated>2020-10-31T19:44:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/vxWo6Ptq4CRWGZQhpzTeng</id>
-    <link href="https://mp.weixin.qq.com/s/vxWo6Ptq4CRWGZQhpzTeng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T20:12:21+08:00</updated>
+  <updated>2020-11-05T20:28:31+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】如何解决SLAM入门即放弃？</title>
+    <updated>2020-11-05T18:09:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/W9EAMbZ7c1LboPtv8sietA</id>
+    <link href="https://mp.weixin.qq.com/s/W9EAMbZ7c1LboPtv8sietA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【强基固本】深度强化学习（Deep Reinforcement Learning）入门</title>
+    <updated>2020-11-05T18:09:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/ujJvZK372lIHtBjWZ5YNUA</id>
+    <link href="https://mp.weixin.qq.com/s/ujJvZK372lIHtBjWZ5YNUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【独家解读】谷歌会议app背景模糊和替换技术解析</title>
     <updated>2020-11-04T17:00:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-30T18:06:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/IHYQaBKbxVACo5cnWvqznw</id>
     <link href="https://mp.weixin.qq.com/s/IHYQaBKbxVACo5cnWvqznw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】Self-supervised Learning</title>
-    <updated>2020-10-29T17:58:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/sDYKh5EhC5ECsCfLNXkteQ</id>
-    <link href="https://mp.weixin.qq.com/s/sDYKh5EhC5ECsCfLNXkteQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【强基固本】伪标签（Pseudo-Labelling）——锋利的匕首</title>
-    <updated>2020-10-29T17:58:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/eRCNxHn4MEblRcXenKIBuA</id>
-    <link href="https://mp.weixin.qq.com/s/eRCNxHn4MEblRcXenKIBuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

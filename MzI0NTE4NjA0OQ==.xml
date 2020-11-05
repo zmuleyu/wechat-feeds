@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云栖社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T20:15:11+08:00</updated>
+  <updated>2020-11-05T20:16:26+08:00</updated>
   <subtitle>云栖社区是由阿里云负责运营、阿里巴巴技术协会和阿里巴巴集团各技术团队提供内容支持的开放式技术社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>解读云原生基础设施</title>
+    <updated>2020-11-05T17:51:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/gsBOTRbt4DYdKezE27VVyA</id>
+    <link href="https://mp.weixin.qq.com/s/gsBOTRbt4DYdKezE27VVyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于卫星定位，你想知道的一切</title>
     <updated>2020-11-04T17:51:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-26T23:54:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/_Acyx-bJdOsiSlulCecqMQ</id>
     <link href="https://mp.weixin.qq.com/s/_Acyx-bJdOsiSlulCecqMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度解读阿里云开源的业界首个面向NLP场景深度迁移学习框架EasyTransfer</title>
-    <updated>2020-10-24T08:28:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/p2hi6nxqelOQjp0d6IOEnw</id>
-    <link href="https://mp.weixin.qq.com/s/p2hi6nxqelOQjp0d6IOEnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

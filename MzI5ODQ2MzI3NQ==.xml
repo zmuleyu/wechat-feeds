@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T23:26:38+08:00</updated>
+  <updated>2020-11-05T20:26:59+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>14款备受好评的开源监控工具</title>
+    <updated>2020-11-05T20:01:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/M-ygzU0V8hgITqx0Wdl6iQ</id>
+    <link href="https://mp.weixin.qq.com/s/M-ygzU0V8hgITqx0Wdl6iQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>北京： Kubernetes CKA实战培训</title>
+    <updated>2020-11-05T20:01:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/H32SxGv2ehlHpQpUi5xwEQ</id>
+    <link href="https://mp.weixin.qq.com/s/H32SxGv2ehlHpQpUi5xwEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>向Docker Hub用户招手，AWS也将会推出公共容器储存库服务</title>
+    <updated>2020-11-05T20:01:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/lII0Hph2F7ONnc1F7-mU2g</id>
+    <link href="https://mp.weixin.qq.com/s/lII0Hph2F7ONnc1F7-mU2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JAVA和GO真香！谁用谁知道！</title>
     <updated>2020-11-04T20:47:39+08:00</updated>
@@ -117,13 +138,6 @@
     <updated>2020-10-26T22:46:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/oZTRNV-XHxbKzWvUzVgS4A</id>
     <link href="https://mp.weixin.qq.com/s/oZTRNV-XHxbKzWvUzVgS4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​用Python操作Kubernetes的Job</title>
-    <updated>2020-10-26T13:01:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/bYeFI0X0wBKvKezqM3kFmQ</id>
-    <link href="https://mp.weixin.qq.com/s/bYeFI0X0wBKvKezqM3kFmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
