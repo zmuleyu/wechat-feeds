@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T11:19:09+08:00</updated>
+  <updated>2020-11-05T16:25:34+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么我们选择 Java 语言开发高频交易系统</title>
+    <updated>2020-11-05T13:29:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/YVv3wl9TVUhisq8gZXKscQ</id>
+    <link href="https://mp.weixin.qq.com/s/YVv3wl9TVUhisq8gZXKscQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前58技术委员会主席总结的系统架构设计思维和方法论</title>
     <updated>2020-11-03T23:03:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-27T10:46:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/HxWWd_bp9srImcIlXr6b0Q</id>
     <link href="https://mp.weixin.qq.com/s/HxWWd_bp9srImcIlXr6b0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Service Mesh在腾讯云中间件团队的实践与思考</title>
-    <updated>2020-10-26T11:15:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/uRgPfHgaiba1MuSxzkj4tQ</id>
-    <link href="https://mp.weixin.qq.com/s/uRgPfHgaiba1MuSxzkj4tQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
