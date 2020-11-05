@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T11:11:29+08:00</updated>
+  <updated>2020-11-05T11:20:03+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>CTO要我把这份MySQL规范贴在工位上！</title>
+    <updated>2020-11-05T00:20:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/6xg-vrvuNOI_1drPC7WKEw</id>
+    <link href="https://mp.weixin.qq.com/s/6xg-vrvuNOI_1drPC7WKEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>简述3种CQRS架构模式</title>
+    <updated>2020-11-05T00:20:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/aysdaxIdCx6c9bVAykB9dw</id>
+    <link href="https://mp.weixin.qq.com/s/aysdaxIdCx6c9bVAykB9dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Spark 凭什么成为最火的大数据计算引擎？</title>
     <updated>2020-11-04T00:14:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/n-Ouy1wjyK_GrE5aLmTzSg</id>
     <link href="https://mp.weixin.qq.com/s/n-Ouy1wjyK_GrE5aLmTzSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>限时删除！程序员涨薪必备神器，手慢无...</title>
-    <updated>2020-11-04T00:14:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/WjPVbF8BkhN9G_OVP0YDTQ</id>
-    <link href="https://mp.weixin.qq.com/s/WjPVbF8BkhN9G_OVP0YDTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -33,13 +40,6 @@
     <updated>2020-11-03T02:29:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/-hqE4I1r61v68rPrTytPSQ</id>
     <link href="https://mp.weixin.qq.com/s/-hqE4I1r61v68rPrTytPSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10月面试了60多个人，总结了点心得</title>
-    <updated>2020-11-01T22:25:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/zeRHySAV4o1WydAeJx2jHg</id>
-    <link href="https://mp.weixin.qq.com/s/zeRHySAV4o1WydAeJx2jHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>

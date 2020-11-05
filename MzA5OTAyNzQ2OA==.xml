@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T11:17:50+08:00</updated>
+  <updated>2020-11-05T11:13:09+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>秒杀架构模型设计</title>
+    <updated>2020-11-05T07:48:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/-nCMiP3t3hqtpB6X4mhCww</id>
+    <link href="https://mp.weixin.qq.com/s/-nCMiP3t3hqtpB6X4mhCww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2020-11-05T07:48:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/8WBQLFYSw-gl0l3C9Nf_AQ</id>
+    <link href="https://mp.weixin.qq.com/s/8WBQLFYSw-gl0l3C9Nf_AQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>企业级应用Service Management Automation X（SMAX）的微服务之路</title>
     <updated>2020-11-04T07:46:00+08:00</updated>
@@ -131,13 +145,6 @@
     <updated>2020-10-27T08:18:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/p-emcmnG0GkWbiGdojjU2Q</id>
     <link href="https://mp.weixin.qq.com/s/p-emcmnG0GkWbiGdojjU2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kafka经典面试题详解</title>
-    <updated>2020-10-26T07:25:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/zH5LUO_C6lgMpa3EfDoaLw</id>
-    <link href="https://mp.weixin.qq.com/s/zH5LUO_C6lgMpa3EfDoaLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

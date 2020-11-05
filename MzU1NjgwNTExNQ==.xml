@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T11:16:49+08:00</updated>
+  <updated>2020-11-05T11:13:32+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>人才空缺4600万！大厂优先录用，这个职业今年火遍全网</title>
+    <updated>2020-11-04T21:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/ODooaKYarSqV8_iNeRqY-w</id>
+    <link href="https://mp.weixin.qq.com/s/ODooaKYarSqV8_iNeRqY-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 5.10 将解决 2038 年问题，延长至 2486 年</title>
+    <updated>2020-11-04T21:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/Ld9Tsrzux9BJQvwl9u00UA</id>
+    <link href="https://mp.weixin.qq.com/s/Ld9Tsrzux9BJQvwl9u00UA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VS Code 强大的开源工具！实时可视化Debug，一键解析代码结构</title>
     <updated>2020-11-03T19:54:43+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-10-26T22:43:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/dpWmeP19YoCpOMi010iF8w</id>
     <link href="https://mp.weixin.qq.com/s/dpWmeP19YoCpOMi010iF8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>快速上手 VS Code：开发环境搭建和常用插件配置</title>
-    <updated>2020-10-25T23:20:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/daenbB1lQT4vRUV_Mgmemg</id>
-    <link href="https://mp.weixin.qq.com/s/daenbB1lQT4vRUV_Mgmemg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
