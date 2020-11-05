@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T20:11:37+08:00</updated>
+  <updated>2020-11-05T13:20:17+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Envoy 调试流量的常用技巧直播分享及问答整理</title>
+    <updated>2020-11-05T12:43:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/mfV7qUZc0WZEWPlfKPkb3g</id>
+    <link href="https://mp.weixin.qq.com/s/mfV7qUZc0WZEWPlfKPkb3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Envoy 架构及其在网易轻舟的落地实践</title>
     <updated>2020-11-04T16:19:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-11T18:03:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/BbC9770_Lt82ZFz8-z4V-g</id>
     <link href="https://mp.weixin.qq.com/s/BbC9770_Lt82ZFz8-z4V-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Istio Pilot 源码分析（一）</title>
-    <updated>2020-09-10T12:12:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-10:/s/Bgp9C5Vy8lQa7b_cweIKxA</id>
-    <link href="https://mp.weixin.qq.com/s/Bgp9C5Vy8lQa7b_cweIKxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
