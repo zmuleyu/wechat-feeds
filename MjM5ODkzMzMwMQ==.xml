@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>AINLP | wechat-feeds</title>
+  <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T23:19:39+08:00</updated>
-  <subtitle>一个有趣有AI的自然语言处理社区：关注AI、NLP、机器学习、推荐系统、计算广告等相关技术。公众号可直接对话双语聊天机器人，尝试自动对联、作诗机、藏头诗生成器，调戏夸夸机器人、彩虹屁生成器，使用中英翻译，查询相似词，测试NLP相关工具包。</subtitle>
+  <updated>2020-11-05T23:13:56+08:00</updated>
+  <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>百度文心（ERNIE）再入成都，涵盖情感分析、主题分类、信息抽取、相似问题推荐等</title>
+    <updated>2020-11-05T21:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/9Ot_oEKJKRUjti2Xd1S9PQ</id>
+    <link href="https://mp.weixin.qq.com/s/9Ot_oEKJKRUjti2Xd1S9PQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>伯乐：一个易用、强大的PyTorch推荐系统开源库</title>
+    <updated>2020-11-05T21:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/uJXmaOkD6l15w4HajcW4Qw</id>
+    <link href="https://mp.weixin.qq.com/s/uJXmaOkD6l15w4HajcW4Qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>多目标学习在推荐系统中的应用</title>
+    <updated>2020-11-05T21:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/zmTQJfSflXRp0elwMMdSSw</id>
+    <link href="https://mp.weixin.qq.com/s/zmTQJfSflXRp0elwMMdSSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>真实场景下如何解决类别不平衡问题</title>
+    <updated>2020-11-05T21:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/qpejSy4xgDwk9xG4WJ_dVQ</id>
+    <link href="https://mp.weixin.qq.com/s/qpejSy4xgDwk9xG4WJ_dVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【强化学习】DQN 在运筹学中的应用</title>
+    <updated>2020-11-05T21:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/2yEvZtrWN-GKIqWkJd4qsw</id>
+    <link href="https://mp.weixin.qq.com/s/2yEvZtrWN-GKIqWkJd4qsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AI岗位面试抓不住重点，究竟有多吃亏？</title>
     <updated>2020-11-04T19:48:02+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-02T19:00:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/Qncdx4p7v461UL3e_aMdEw</id>
     <link href="https://mp.weixin.qq.com/s/Qncdx4p7v461UL3e_aMdEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自然语言处理在金融实时事件监测和财务快讯中的应用</title>
-    <updated>2020-11-01T22:38:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/g0LN2D0Zj_DMkYuJRUtHpQ</id>
-    <link href="https://mp.weixin.qq.com/s/g0LN2D0Zj_DMkYuJRUtHpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>火遍日本 IT 界的「鱼书」终出续作，原来进阶深度学习NLP竟然那么简单（文末赠书）</title>
-    <updated>2020-11-01T22:38:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/xesGqlnh-NpKRg-92VTnQA</id>
-    <link href="https://mp.weixin.qq.com/s/xesGqlnh-NpKRg-92VTnQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯自然语言处理实习面经</title>
-    <updated>2020-11-01T22:38:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/BuOplVa2KTdTIpleXuf0DA</id>
-    <link href="https://mp.weixin.qq.com/s/BuOplVa2KTdTIpleXuf0DA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯微保招聘NLP算法工程师 &amp; 实习生</title>
-    <updated>2020-11-01T22:38:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/x3pxpy6q2UZWYrHQcFkB0Q</id>
-    <link href="https://mp.weixin.qq.com/s/x3pxpy6q2UZWYrHQcFkB0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几个Python“小伎俩”</title>
-    <updated>2020-11-01T22:38:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/dkAkmqkZcuUBum49wTBjeA</id>
-    <link href="https://mp.weixin.qq.com/s/dkAkmqkZcuUBum49wTBjeA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

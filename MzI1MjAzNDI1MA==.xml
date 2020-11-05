@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T23:23:14+08:00</updated>
+  <updated>2020-11-05T23:29:23+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-05 为什么Dark语言团队没有选择Rust</title>
+    <updated>2020-11-05T22:00:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/MbvQgQ9U7JH1Q23QxyQQIA</id>
+    <link href="https://mp.weixin.qq.com/s/MbvQgQ9U7JH1Q23QxyQQIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】写了一个数据库导出工具</title>
+    <updated>2020-11-05T22:00:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/ZbUsxYAgeLB8VlnrIRllAA</id>
+    <link href="https://mp.weixin.qq.com/s/ZbUsxYAgeLB8VlnrIRllAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 内核维护者：Rust 在搞，Intel 有问题</title>
+    <updated>2020-11-05T22:00:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/AJz5qlYnydKtZr20Rl5ZaA</id>
+    <link href="https://mp.weixin.qq.com/s/AJz5qlYnydKtZr20Rl5ZaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust 日报】2020-11-04 bacon: 幕后代码检查工具</title>
     <updated>2020-11-04T22:14:08+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-28T21:23:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/_8L2YInPX6rrsh86v-7uMQ</id>
     <link href="https://mp.weixin.qq.com/s/_8L2YInPX6rrsh86v-7uMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>libp2p-rs 开源项目的落地实现</title>
-    <updated>2020-10-28T21:23:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/8nvWA2LekWv7U4fQivqRUA</id>
-    <link href="https://mp.weixin.qq.com/s/8nvWA2LekWv7U4fQivqRUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Rust唠嗑室》第12期 - 一起来玩 futures（2）</title>
-    <updated>2020-10-27T18:18:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/VKHhL6XU2JSuBXnmuF5S8g</id>
-    <link href="https://mp.weixin.qq.com/s/VKHhL6XU2JSuBXnmuF5S8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】[分享] Rust Crypto 库的性能表现</title>
-    <updated>2020-10-27T18:18:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/zlAwILTuKl9VjE-wxW_5vw</id>
-    <link href="https://mp.weixin.qq.com/s/zlAwILTuKl9VjE-wxW_5vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

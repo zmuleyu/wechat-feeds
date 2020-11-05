@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T20:23:06+08:00</updated>
+  <updated>2020-11-05T23:08:47+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -71,6 +71,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>微软将不兼容 IE 的网站重定向至 Edge</title>
+    <updated>2020-10-31T19:44:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/vxWo6Ptq4CRWGZQhpzTeng</id>
+    <link href="https://mp.weixin.qq.com/s/vxWo6Ptq4CRWGZQhpzTeng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>前端程序员现状：不突破瓶颈很难生存！</title>
     <updated>2020-10-29T22:57:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/IYRFIe2dSqithPtQX0SNwg</id>
@@ -124,20 +131,6 @@
     <updated>2020-10-27T17:26:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/9DBC5C5ymiqsQlL2VNVITQ</id>
     <link href="https://mp.weixin.qq.com/s/9DBC5C5ymiqsQlL2VNVITQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么要使用 Node.js？这几点你必须知道！</title>
-    <updated>2020-10-25T21:35:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/6mpT6QNCo_8LodhbFwlJUg</id>
-    <link href="https://mp.weixin.qq.com/s/6mpT6QNCo_8LodhbFwlJUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>React 组件到底什么时候 render 啊</title>
-    <updated>2020-10-25T21:35:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/Ey54DZ-jNDGarSHUoRbxXA</id>
-    <link href="https://mp.weixin.qq.com/s/Ey54DZ-jNDGarSHUoRbxXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
