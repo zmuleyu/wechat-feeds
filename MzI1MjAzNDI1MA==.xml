@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T23:29:23+08:00</updated>
+  <updated>2020-11-07T01:15:25+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>生命周期沥血总结，你怎么看？</title>
+    <updated>2020-11-06T23:21:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/_YJHkdInQ5ZIxki4gZ-MJQ</id>
+    <link href="https://mp.weixin.qq.com/s/_YJHkdInQ5ZIxki4gZ-MJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-05 为什么Dark语言团队没有选择Rust</title>
     <updated>2020-11-05T22:00:24+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-10-28T21:23:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/PuzYSQXkAm1VehWu0kk9fA</id>
     <link href="https://mp.weixin.qq.com/s/PuzYSQXkAm1VehWu0kk9fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-10-27 Cranelift已成为Rustc编译器的后端之一</title>
-    <updated>2020-10-28T21:23:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/_8L2YInPX6rrsh86v-7uMQ</id>
-    <link href="https://mp.weixin.qq.com/s/_8L2YInPX6rrsh86v-7uMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

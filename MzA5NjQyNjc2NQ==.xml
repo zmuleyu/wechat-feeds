@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TsinghuaJoking | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:37:32+08:00</updated>
+  <updated>2020-11-07T01:18:07+08:00</updated>
   <subtitle>卓晴，专注于信息科学与自动化控制研究领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>是否患有新冠肺炎？ 你咳嗽一声</title>
+    <updated>2020-11-06T12:58:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/YZx67VLuUz7RFvCiTrINMA</id>
+    <link href="https://mp.weixin.qq.com/s/YZx67VLuUz7RFvCiTrINMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>济海追风-声音信标</title>
     <updated>2020-11-06T09:03:51+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-10-27T00:17:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/8a5b12XW73-egjx2iWSqHg</id>
     <link href="https://mp.weixin.qq.com/s/8a5b12XW73-egjx2iWSqHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>声音定位智能车模制作</title>
-    <updated>2020-10-26T08:53:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/w4uMRiIj72U2gKFmYcJjwQ</id>
-    <link href="https://mp.weixin.qq.com/s/w4uMRiIj72U2gKFmYcJjwQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>测量ATMEGA8单片机IO口的输入输出内阻</title>
-    <updated>2020-10-26T08:53:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/LYfSAluPHSpZunJ_dBGfxA</id>
-    <link href="https://mp.weixin.qq.com/s/LYfSAluPHSpZunJ_dBGfxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
