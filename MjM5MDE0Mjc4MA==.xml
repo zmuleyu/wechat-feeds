@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T16:22:28+08:00</updated>
+  <updated>2020-11-06T17:29:07+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>十五年后，重构一个“在线的腾讯”</title>
+    <updated>2020-11-06T11:32:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/vNvSkqGuHUS5BNS6ikBjkw</id>
+    <link href="https://mp.weixin.qq.com/s/vNvSkqGuHUS5BNS6ikBjkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从 Angular 转到 React，网易严选的前端工程化实践</title>
+    <updated>2020-11-06T11:32:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/6NBaHzMtTCmEk3SKJQDTUQ</id>
+    <link href="https://mp.weixin.qq.com/s/6NBaHzMtTCmEk3SKJQDTUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>通信技术的年度盛会，WICC 2020精彩全解析</title>
+    <updated>2020-11-06T11:32:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/Cc3Km0nSd5vPS4px8zRtCg</id>
+    <link href="https://mp.weixin.qq.com/s/Cc3Km0nSd5vPS4px8zRtCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>弥合现实与理想的距离：看5G+云原生如何为数字经济赋能</title>
+    <updated>2020-11-06T11:32:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/MyDeKqLmGq6Mspc-3x2M8w</id>
+    <link href="https://mp.weixin.qq.com/s/MyDeKqLmGq6Mspc-3x2M8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>下个十年，Python的“王者”地位还能保住吗？</title>
+    <updated>2020-11-06T11:32:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/izLLD8JUvUXVnIXItYvTHQ</id>
+    <link href="https://mp.weixin.qq.com/s/izLLD8JUvUXVnIXItYvTHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GitHub 源代码泄露，CEO 回应：这是个意外</title>
     <updated>2020-11-05T14:29:24+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-02T14:19:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/cTQjxD38ZF0HNgo1yyyEaA</id>
     <link href="https://mp.weixin.qq.com/s/cTQjxD38ZF0HNgo1yyyEaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云端一体化下如何降本增效，实现业务价值最大化？｜ QCon</title>
-    <updated>2020-11-02T14:19:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/tyfROX29tRLEmBUyFcjuJw</id>
-    <link href="https://mp.weixin.qq.com/s/tyfROX29tRLEmBUyFcjuJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JavaScript ES2021最值得期待的新特性解析</title>
-    <updated>2020-11-02T14:19:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/IA8j-9IRazXxKwlPl809qA</id>
-    <link href="https://mp.weixin.qq.com/s/IA8j-9IRazXxKwlPl809qA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盘点C++开源项目中的十大Bug</title>
-    <updated>2020-11-02T14:19:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/fJqQb9fGlufHW55ic2OBZA</id>
-    <link href="https://mp.weixin.qq.com/s/fJqQb9fGlufHW55ic2OBZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>继停招中国人后，GitLab加入封禁大军：全面阻止受美国制裁的伊朗等地区开发者账户！</title>
-    <updated>2020-10-31T16:12:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/ypCYTma6EWx5wzzBoH51_w</id>
-    <link href="https://mp.weixin.qq.com/s/ypCYTma6EWx5wzzBoH51_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么程序员如此热爱TypeScript ？</title>
-    <updated>2020-10-31T16:12:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/8Qo426u7L7PZ9faDlXfrhg</id>
-    <link href="https://mp.weixin.qq.com/s/8Qo426u7L7PZ9faDlXfrhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

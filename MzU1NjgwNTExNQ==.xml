@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T11:13:32+08:00</updated>
+  <updated>2020-11-06T17:29:25+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见Java，没做过项目找工作太难了！</title>
+    <updated>2020-11-05T20:03:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/8spK9cfQL-saMdm11l28AA</id>
+    <link href="https://mp.weixin.qq.com/s/8spK9cfQL-saMdm11l28AA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>20 年前，亚马逊就推出了大数据杀熟算法</title>
+    <updated>2020-11-05T20:03:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/g_ZJqPEpCHOXkPCrKek9TQ</id>
+    <link href="https://mp.weixin.qq.com/s/g_ZJqPEpCHOXkPCrKek9TQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>人才空缺4600万！大厂优先录用，这个职业今年火遍全网</title>
     <updated>2020-11-04T21:29:07+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-10-27T22:05:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/F8lv36lWeUn9ZidcPu1wpg</id>
     <link href="https://mp.weixin.qq.com/s/F8lv36lWeUn9ZidcPu1wpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个神器，拯救了千千万万的程序员！</title>
-    <updated>2020-10-26T22:43:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/xM8OjKxgRrVDiop9TKhdmg</id>
-    <link href="https://mp.weixin.qq.com/s/xM8OjKxgRrVDiop9TKhdmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>继拒招中国人后，GitLab 又全面封锁伊朗开发者账户</title>
-    <updated>2020-10-26T22:43:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/dpWmeP19YoCpOMi010iF8w</id>
-    <link href="https://mp.weixin.qq.com/s/dpWmeP19YoCpOMi010iF8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T13:15:26+08:00</updated>
+  <updated>2020-11-06T17:29:47+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么说Flutter可能不是下一件大事？</title>
+    <updated>2020-11-06T12:56:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/PEqFiEugbT4chJv-GOdVAg</id>
+    <link href="https://mp.weixin.qq.com/s/PEqFiEugbT4chJv-GOdVAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>滴滴DoKit Android核心原理揭秘之AOP字节码实现</title>
+    <updated>2020-11-06T12:56:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/OAHX_5q7-DqKvS7O_Q98vw</id>
+    <link href="https://mp.weixin.qq.com/s/OAHX_5q7-DqKvS7O_Q98vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>除了 Vue，你还需要掌握前端工程化 | 极客大学</title>
+    <updated>2020-11-06T12:56:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/7ZYfQnWxtcRAZZoL64nQAA</id>
+    <link href="https://mp.weixin.qq.com/s/7ZYfQnWxtcRAZZoL64nQAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>发布当天就被发现？npm 删除伪装成 Twilio 相关库的恶意库</title>
     <updated>2020-11-04T11:53:32+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-26T11:41:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/phGfPRM7fIjrqtJa4u4UVA</id>
     <link href="https://mp.weixin.qq.com/s/phGfPRM7fIjrqtJa4u4UVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端周报：微软为IE加入禁用JScript选项；马云：我最大的经验就是没怎么成功过；《我的世界》强制升级：必须使用微软账号登录</title>
-    <updated>2020-10-25T16:00:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/_Ff4fsgtMwd7kGP_jVebIg</id>
-    <link href="https://mp.weixin.qq.com/s/_Ff4fsgtMwd7kGP_jVebIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国程序员人口普查：原来你是这样的程序员 | 活动推荐</title>
-    <updated>2020-10-25T16:00:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/jABODDSQlY2HfTK-_N6Ufg</id>
-    <link href="https://mp.weixin.qq.com/s/jABODDSQlY2HfTK-_N6Ufg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NPM 移除 4 个恶意软件包：泄露用户数据已有数月，4 个包分工明确</title>
-    <updated>2020-10-23T12:01:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/8RBc-IRoNhs70vo1EaHnxQ</id>
-    <link href="https://mp.weixin.qq.com/s/8RBc-IRoNhs70vo1EaHnxQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T23:14:24+08:00</updated>
+  <updated>2020-11-06T17:26:15+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动招聘机器学习岗位，大家炸了！</title>
+    <updated>2020-11-06T11:43:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/P2ZEeMpqWZYiV-EewCdnkw</id>
+    <link href="https://mp.weixin.qq.com/s/P2ZEeMpqWZYiV-EewCdnkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Batch Normalization的诅咒</title>
+    <updated>2020-11-06T11:43:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/QJFuEE3ReHjiCpKo782Wew</id>
+    <link href="https://mp.weixin.qq.com/s/QJFuEE3ReHjiCpKo782Wew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>生活中处处的贝叶斯</title>
+    <updated>2020-11-06T11:43:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/xX-IW_2zC7yf8n4o1Poabg</id>
+    <link href="https://mp.weixin.qq.com/s/xX-IW_2zC7yf8n4o1Poabg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>搞不懂为啥都要去字节跳动。。。</title>
     <updated>2020-11-05T13:00:38+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-29T08:34:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/MusWHVMz5moosPOCViKptw</id>
     <link href="https://mp.weixin.qq.com/s/MusWHVMz5moosPOCViKptw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在科研论文中画出漂亮的插图？</title>
-    <updated>2020-10-28T09:37:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/IYPP9xFObMxH85L2Ws853Q</id>
-    <link href="https://mp.weixin.qq.com/s/IYPP9xFObMxH85L2Ws853Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硬肝！超详细的Python文件操作知识</title>
-    <updated>2020-10-28T09:37:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/HD0ZjCR82pwiW0gW1PO8EA</id>
-    <link href="https://mp.weixin.qq.com/s/HD0ZjCR82pwiW0gW1PO8EA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学完NumPy，直接开始玩神经网络</title>
-    <updated>2020-10-27T10:49:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/3WiYc0y2EOiRk0-odVdUiw</id>
-    <link href="https://mp.weixin.qq.com/s/3WiYc0y2EOiRk0-odVdUiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

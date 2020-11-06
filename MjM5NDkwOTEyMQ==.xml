@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T11:08:47+08:00</updated>
+  <updated>2020-11-06T17:23:36+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从实时音视频技术看未来趋势，明天见！</title>
+    <updated>2020-11-05T23:18:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/cbHowhbV4yojGKbqSLYbWw</id>
+    <link href="https://mp.weixin.qq.com/s/cbHowhbV4yojGKbqSLYbWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【DevFest 2020】畅玩安卓工作坊，体验最新依赖注入技术Hilt！| Android专场</title>
     <updated>2020-11-05T08:55:21+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-09-28T16:41:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/bxOuTnvwFjUj9Jl6b9FxLA</id>
     <link href="https://mp.weixin.qq.com/s/bxOuTnvwFjUj9Jl6b9FxLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【技术分享】⾯向隐私AI的TensorFlow深度定制化实践</title>
-    <updated>2020-09-24T22:30:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/4_Fwi-eKJ6xeM-BR_3dTEg</id>
-    <link href="https://mp.weixin.qq.com/s/4_Fwi-eKJ6xeM-BR_3dTEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动预告】GDG AI 系列分享收官分享，一起拥抱智能新生活！</title>
-    <updated>2020-09-24T22:30:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/zdDmhKrb6OZIV-REmqnsjA</id>
-    <link href="https://mp.weixin.qq.com/s/zdDmhKrb6OZIV-REmqnsjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

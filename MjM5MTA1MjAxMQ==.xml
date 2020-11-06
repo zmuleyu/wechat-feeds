@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T07:29:15+08:00</updated>
+  <updated>2020-11-06T17:33:02+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>React 开发者该如何更好地修炼内功？</title>
+    <updated>2020-11-06T07:30:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/XpgOBJSsls0_7b0YwUiMxg</id>
+    <link href="https://mp.weixin.qq.com/s/XpgOBJSsls0_7b0YwUiMxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【第2109期】CodeSandbox是如何让npm上的模块直接在浏览器端运行的</title>
+    <updated>2020-11-06T07:30:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/qQd-4cOEOUokhzt6nSUw8A</id>
+    <link href="https://mp.weixin.qq.com/s/qQd-4cOEOUokhzt6nSUw8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2108期】开源富文本编辑器技术的演进</title>
     <updated>2020-11-05T05:58:27+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-10-28T07:30:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/zYLmHssrigbHIEOUt1w6hg</id>
     <link href="https://mp.weixin.qq.com/s/zYLmHssrigbHIEOUt1w6hg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2099期】可视化库的设计空间</title>
-    <updated>2020-10-27T05:58:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/Y0ZBxpGdlr3fE8BtkjtvGw</id>
-    <link href="https://mp.weixin.qq.com/s/Y0ZBxpGdlr3fE8BtkjtvGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【招聘】字节跳动Data-广告研发团队招前端（校社招）</title>
-    <updated>2020-10-27T05:58:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/J9Xu1nycdQjzPSwDF5GMTw</id>
-    <link href="https://mp.weixin.qq.com/s/J9Xu1nycdQjzPSwDF5GMTw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
