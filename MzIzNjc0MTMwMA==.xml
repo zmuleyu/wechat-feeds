@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:23:44+08:00</updated>
+  <updated>2020-11-06T20:17:41+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】One Shot NAS总结</title>
+    <updated>2020-11-06T18:24:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/WnnW6cZ9etMFXT7_6mqA_A</id>
+    <link href="https://mp.weixin.qq.com/s/WnnW6cZ9etMFXT7_6mqA_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】Pytorch转ONNX-实战篇（tracing机制）</title>
+    <updated>2020-11-06T18:24:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/UgG6rhiOVABeeqIqWh1lwA</id>
+    <link href="https://mp.weixin.qq.com/s/UgG6rhiOVABeeqIqWh1lwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【他山之石】如何解决SLAM入门即放弃？</title>
     <updated>2020-11-05T18:09:03+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-30T18:06:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/xeeuGVrgBOeudECeypreLg</id>
     <link href="https://mp.weixin.qq.com/s/xeeuGVrgBOeudECeypreLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI86@ICT 学术人生专栏</title>
-    <updated>2020-10-30T18:06:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/IHYQaBKbxVACo5cnWvqznw</id>
-    <link href="https://mp.weixin.qq.com/s/IHYQaBKbxVACo5cnWvqznw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】Self-supervised Learning</title>
-    <updated>2020-10-29T17:58:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/sDYKh5EhC5ECsCfLNXkteQ</id>
-    <link href="https://mp.weixin.qq.com/s/sDYKh5EhC5ECsCfLNXkteQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

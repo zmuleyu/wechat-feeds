@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T23:08:54+08:00</updated>
+  <updated>2020-11-06T20:28:51+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 371 期：JavaScript 的内存管理介绍</title>
+    <updated>2020-11-06T17:57:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/JVAL55qjq8vd0DiP5qqoKw</id>
+    <link href="https://mp.weixin.qq.com/s/JVAL55qjq8vd0DiP5qqoKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)</title>
     <updated>2020-11-05T20:10:05+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-10-27T19:15:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/rAfdhoKYn0cgxZBkrPigWw</id>
     <link href="https://mp.weixin.qq.com/s/rAfdhoKYn0cgxZBkrPigWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Drone 自定义 UI</title>
-    <updated>2020-10-26T16:08:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/HDq5Sr1swvbDaJ06mGNBeg</id>
-    <link href="https://mp.weixin.qq.com/s/HDq5Sr1swvbDaJ06mGNBeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
