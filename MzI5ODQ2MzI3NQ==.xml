@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:23:05+08:00</updated>
+  <updated>2020-11-07T20:24:42+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>卸载 Notepad++ ！事实已证明，它更牛逼……</title>
+    <updated>2020-11-07T18:25:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/hDQJE8JVgmNB6PoI6iBZwA</id>
+    <link href="https://mp.weixin.qq.com/s/hDQJE8JVgmNB6PoI6iBZwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>人脸识别、扫码支付、可视化，3个Java实战项目，限量100份免费学习！</title>
     <updated>2020-11-06T11:32:07+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-10-29T12:18:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/ALx6FGa0E3jLAINI2FqRvA</id>
     <link href="https://mp.weixin.qq.com/s/ALx6FGa0E3jLAINI2FqRvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拥抱云原生，Serverless技术还能这样用在容器服务中</title>
-    <updated>2020-10-28T16:48:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/5pI2jo2dXxeBwRZNW-z6Ew</id>
-    <link href="https://mp.weixin.qq.com/s/5pI2jo2dXxeBwRZNW-z6Ew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机构网络项目现场检查评分表</title>
-    <updated>2020-10-28T16:48:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/ORWt4yN8Dz0koMsId8HZLw</id>
-    <link href="https://mp.weixin.qq.com/s/ORWt4yN8Dz0koMsId8HZLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

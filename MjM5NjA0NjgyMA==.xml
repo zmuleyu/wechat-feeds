@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T20:27:49+08:00</updated>
+  <updated>2020-11-07T20:20:53+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>BUF大事件丨GitHub源代码泄露；日本游戏公司Capcom遭网络攻击</title>
+    <updated>2020-11-07T16:59:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/8-75BViOn2Hge8y6YOwQ4w</id>
+    <link href="https://mp.weixin.qq.com/s/8-75BViOn2Hge8y6YOwQ4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OAuth2.0认证解析</title>
+    <updated>2020-11-07T16:59:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/q01QS-rkJWfpGD5quWoCKg</id>
+    <link href="https://mp.weixin.qq.com/s/q01QS-rkJWfpGD5quWoCKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>V8 引擎空指针引用漏洞的新型利用技术</title>
+    <updated>2020-11-07T16:59:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/eehtZsvqseHTKWIy4yDvxw</id>
+    <link href="https://mp.weixin.qq.com/s/eehtZsvqseHTKWIy4yDvxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fastjson小于1.2.68版本反序列化漏洞分析</title>
+    <updated>2020-11-07T16:59:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/cb7__ZWaBuyjFRCRv45SyQ</id>
+    <link href="https://mp.weixin.qq.com/s/cb7__ZWaBuyjFRCRv45SyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FreeBuf「怀旧版皮肤」即将上线，一键重返青葱岁月</title>
     <updated>2020-11-06T17:37:08+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-03T16:18:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/E_TEgnp2qvt26xgbdWXaKw</id>
     <link href="https://mp.weixin.qq.com/s/E_TEgnp2qvt26xgbdWXaKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>定了！12月29-30日，CIS 2020网络安全创新大会，上海见 | 官宣</title>
-    <updated>2020-11-02T17:53:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/ZlZguk0YKCKk_VM66W1sFA</id>
-    <link href="https://mp.weixin.qq.com/s/ZlZguk0YKCKk_VM66W1sFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>日本核监管局：内网发现未授权访问，我们已经关闭了电子邮件系统</title>
-    <updated>2020-11-02T17:53:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/zvOQzxOtXMSeg4xyDzpFyw</id>
-    <link href="https://mp.weixin.qq.com/s/zvOQzxOtXMSeg4xyDzpFyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高调的勒索软件Maze即将倒闭？</title>
-    <updated>2020-11-02T17:53:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/dhfhTrtj2YLlTxq-9ok6mA</id>
-    <link href="https://mp.weixin.qq.com/s/dhfhTrtj2YLlTxq-9ok6mA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SourceWolf：一款针对源码安全的快速响应式爬虫</title>
-    <updated>2020-11-02T17:53:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/Ny4d0gjoYr3J4qzKfJNE7Q</id>
-    <link href="https://mp.weixin.qq.com/s/Ny4d0gjoYr3J4qzKfJNE7Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

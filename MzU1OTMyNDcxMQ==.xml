@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T20:24:51+08:00</updated>
+  <updated>2020-11-07T20:24:23+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>社区分享 | TensorFlow Lite C++ API 开源案例教程</title>
+    <updated>2020-11-07T15:44:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/B33KeHJKfbArWbzVbyRFKQ</id>
+    <link href="https://mp.weixin.qq.com/s/B33KeHJKfbArWbzVbyRFKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>案例分享 | 悦耳为君：使用机器学习对 Spotify 主页面进行个性化设置</title>
     <updated>2020-11-05T19:05:54+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-10-22T17:55:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/5Hj9Qqodbh6aTqtfOZKqow</id>
     <link href="https://mp.weixin.qq.com/s/5Hj9Qqodbh6aTqtfOZKqow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jupyter Notebook 工具分享，增强 TensorFlow 文档体验</title>
-    <updated>2020-10-21T20:21:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/leglWoAp_hywc7v-cUgsIw</id>
-    <link href="https://mp.weixin.qq.com/s/leglWoAp_hywc7v-cUgsIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

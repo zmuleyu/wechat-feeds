@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱计算机视觉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T20:21:57+08:00</updated>
+  <updated>2020-11-07T20:29:34+08:00</updated>
   <subtitle>关注计算机视觉与机器学习技术的最前沿，“有价值有深度”，分享开源技术与最新论文解读，传播CVML技术的业内最佳实践。www.52cv.net QQ群: 805388940，CV君个人账号：Your-Word。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>雷军：小米将扩招5000名工程师！多个领域需要用到C++</title>
+    <updated>2020-11-07T18:20:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/edlcGZ3y4l7Qv1-BvGe5mw</id>
+    <link href="https://mp.weixin.qq.com/s/edlcGZ3y4l7Qv1-BvGe5mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何简单有效地实现迁移学习？ECCV 2020 论文介绍</title>
+    <updated>2020-11-07T18:20:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/DzVE2dMWJBiadhB0bG29sw</id>
+    <link href="https://mp.weixin.qq.com/s/DzVE2dMWJBiadhB0bG29sw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>降低深度学习开发门槛，“动态图+高层API”能带来多大的便利？</title>
     <updated>2020-11-06T18:50:24+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-02T23:40:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/cZH1o_2lLftlYZ1L0WIb6w</id>
     <link href="https://mp.weixin.qq.com/s/cZH1o_2lLftlYZ1L0WIb6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图像算法可以稳定处理视频了！港科大开源通用算法，解决视频处理时域不稳定问题｜NeurIPS 2020</title>
-    <updated>2020-11-02T23:40:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/hKWBxXPl1UFbgA7b3bsdnQ</id>
-    <link href="https://mp.weixin.qq.com/s/hKWBxXPl1UFbgA7b3bsdnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CBAM：融合通道和空间注意力的注意力模块</title>
-    <updated>2020-11-02T23:40:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/SbwsrxxuS7QDia6r-OCr7w</id>
-    <link href="https://mp.weixin.qq.com/s/SbwsrxxuS7QDia6r-OCr7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
