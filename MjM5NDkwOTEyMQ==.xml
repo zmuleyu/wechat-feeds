@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:23:36+08:00</updated>
+  <updated>2020-11-07T13:21:23+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>就现在！实时音视频技术交流直播马上开始！</title>
+    <updated>2020-11-06T23:19:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/Uj-Gk0S7FzwtrDOMHNGBMQ</id>
+    <link href="https://mp.weixin.qq.com/s/Uj-Gk0S7FzwtrDOMHNGBMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从实时音视频技术看未来趋势，明天见！</title>
     <updated>2020-11-05T23:18:31+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-01T19:39:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-01:/s/tEW57vZhqycqyOoM7EvDMQ</id>
     <link href="https://mp.weixin.qq.com/s/tEW57vZhqycqyOoM7EvDMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【技术分享】（全）同态加密底层算子NTT的FPGA加速</title>
-    <updated>2020-09-28T16:41:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/bxOuTnvwFjUj9Jl6b9FxLA</id>
-    <link href="https://mp.weixin.qq.com/s/bxOuTnvwFjUj9Jl6b9FxLA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
