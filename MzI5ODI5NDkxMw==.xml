@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T01:19:16+08:00</updated>
+  <updated>2020-11-08T01:14:14+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>请立刻弃用 Notepad++！ 还有 5 款更厉害的编辑器等你选择！</title>
+    <updated>2020-11-07T23:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/bYbgAirYIhX52Bxmi_lYtg</id>
+    <link href="https://mp.weixin.qq.com/s/bYbgAirYIhX52Bxmi_lYtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊订单系统的设计？看这篇就够了！</title>
+    <updated>2020-11-07T23:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/u70q1Sq5KvyN7eWIkeuT1A</id>
+    <link href="https://mp.weixin.qq.com/s/u70q1Sq5KvyN7eWIkeuT1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ZooKeeper的基本原理，看了都说好！</title>
+    <updated>2020-11-07T23:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/D7vTQitsXC_Zuaj4L3ysCQ</id>
+    <link href="https://mp.weixin.qq.com/s/D7vTQitsXC_Zuaj4L3ysCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Edge浏览器又上线新功能！可并排显示两个页面</title>
+    <updated>2020-11-07T23:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/IP_PoPXQCIsbzeugSvpPIQ</id>
+    <link href="https://mp.weixin.qq.com/s/IP_PoPXQCIsbzeugSvpPIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux之iptables端口转发：外网访问内网</title>
+    <updated>2020-11-07T23:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/z1BoZ3SVk9MkfGb41QU04w</id>
+    <link href="https://mp.weixin.qq.com/s/z1BoZ3SVk9MkfGb41QU04w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>100篇架构文章打包，及offer面试题下载</title>
     <updated>2020-11-06T23:27:47+08:00</updated>
@@ -47,13 +82,6 @@
     <updated>2020-11-05T23:13:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/e1wKVz3mXvr9KsOei-zJAQ</id>
     <link href="https://mp.weixin.qq.com/s/e1wKVz3mXvr9KsOei-zJAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卧槽！25套完整的实战项目视频+代码！</title>
-    <updated>2020-11-05T23:13:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/tlCYViWULLLSV2duXMrL3Q</id>
-    <link href="https://mp.weixin.qq.com/s/tlCYViWULLLSV2duXMrL3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,34 +145,6 @@
     <updated>2020-11-03T22:03:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/liettRGenkkyg8lrMLeDuA</id>
     <link href="https://mp.weixin.qq.com/s/liettRGenkkyg8lrMLeDuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>教你设计一个通用分布式事务框架！</title>
-    <updated>2020-11-03T22:03:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/cfDBijK_vQe5ZY3Jd8yuCQ</id>
-    <link href="https://mp.weixin.qq.com/s/cfDBijK_vQe5ZY3Jd8yuCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你以为JDK8之后用HashMap就没事了？死循环问题依然存在！</title>
-    <updated>2020-11-03T22:03:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/zcuB7rSapGjIMS2OCN-q3Q</id>
-    <link href="https://mp.weixin.qq.com/s/zcuB7rSapGjIMS2OCN-q3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文！超详细的Spring Cloud全面总结</title>
-    <updated>2020-11-03T22:03:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/mYb-i79FfXeNESxmSw2aUA</id>
-    <link href="https://mp.weixin.qq.com/s/mYb-i79FfXeNESxmSw2aUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文！浏览器是如何工作的：Chrome V8让你更懂JavaScript</title>
-    <updated>2020-11-03T22:03:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/5rFGXSaM6jSI97J3rwojNQ</id>
-    <link href="https://mp.weixin.qq.com/s/5rFGXSaM6jSI97J3rwojNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
