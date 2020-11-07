@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T20:28:51+08:00</updated>
+  <updated>2020-11-07T23:21:21+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何更好地理解中间件和洋葱模型</title>
+    <updated>2020-11-07T20:53:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/Ar88pQ5_d60SDdQPYE4I9g</id>
+    <link href="https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-11-07T20:53:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/kyx86GMzaNdiE4H2Nl4kNw</id>
+    <link href="https://mp.weixin.qq.com/s/kyx86GMzaNdiE4H2Nl4kNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇舞周刊第 371 期：JavaScript 的内存管理介绍</title>
     <updated>2020-11-06T17:57:13+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-27T19:15:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/_bWaxXqmYNXXv2PF0L7fBQ</id>
     <link href="https://mp.weixin.qq.com/s/_bWaxXqmYNXXv2PF0L7fBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-10-27T19:15:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/DM85kKVI3zdBu-0yjuGEzg</id>
-    <link href="https://mp.weixin.qq.com/s/DM85kKVI3zdBu-0yjuGEzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-10-27T19:15:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/rAfdhoKYn0cgxZBkrPigWw</id>
-    <link href="https://mp.weixin.qq.com/s/rAfdhoKYn0cgxZBkrPigWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
