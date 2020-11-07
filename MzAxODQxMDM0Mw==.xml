@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>labuladong | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:35:49+08:00</updated>
+  <updated>2020-11-07T11:10:31+08:00</updated>
   <subtitle>东哥手把手带你刷 LeetCode，感受支配算法的乐趣！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>读者问我怎么学算法，那就来聊点方法论</title>
+    <updated>2020-11-07T02:03:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/EQjiPnthlj2wFNdEX32fxA</id>
+    <link href="https://mp.weixin.qq.com/s/EQjiPnthlj2wFNdEX32fxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端开发进阶手册.pdf</title>
     <updated>2020-11-05T22:03:25+08:00</updated>
@@ -50,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>一组数据，揭开未来几十年的趋势</title>
-    <updated>2020-11-03T14:13:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/XG_VpHztIv2GhqNWgCSLOQ</id>
-    <link href="https://mp.weixin.qq.com/s/XG_VpHztIv2GhqNWgCSLOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>原创 | 手把手刷二叉搜索树（第二期）</title>
     <updated>2020-11-03T14:13:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/SuGAvV9zOi4viaeyjWhzDw</id>
@@ -96,13 +96,6 @@
     <updated>2020-10-28T23:35:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/vPWbRc_Ogf50h3qlCejCNw</id>
     <link href="https://mp.weixin.qq.com/s/vPWbRc_Ogf50h3qlCejCNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解最长公共子序列问题，秒杀三道动态规划题目</title>
-    <updated>2020-10-28T00:39:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/ZhPEchewfc03xWv9VP3msg</id>
-    <link href="https://mp.weixin.qq.com/s/ZhPEchewfc03xWv9VP3msg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

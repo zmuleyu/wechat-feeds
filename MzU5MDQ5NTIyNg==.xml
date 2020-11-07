@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rust碎碎念 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-11-07T11:24:13+08:00</updated>
+  <subtitle>rust编程相关</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>【译】Ringbahn的两个内存Bug</title>
+    <updated>2020-11-03T15:53:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/HzwOzXIUUnvxectUDeQqgQ</id>
+    <link href="https://mp.weixin.qq.com/s/HzwOzXIUUnvxectUDeQqgQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】Rust中的array、vector和slice</title>
+    <updated>2020-10-25T16:29:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/a_ce1th-YQtbN_DVvfLEYA</id>
+    <link href="https://mp.weixin.qq.com/s/a_ce1th-YQtbN_DVvfLEYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】Rust，无畏并发</title>
+    <updated>2020-10-18T12:27:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/_ag435njXQa2oWzfKioVJQ</id>
+    <link href="https://mp.weixin.qq.com/s/_ag435njXQa2oWzfKioVJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>折腾OpenWrt小记</title>
+    <updated>2020-10-17T11:50:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/FeQ8G2QtViGg_ygZkCZnlw</id>
+    <link href="https://mp.weixin.qq.com/s/FeQ8G2QtViGg_ygZkCZnlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】Rust与智能指针</title>
+    <updated>2020-10-13T17:18:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-13:/s/jryWV3hCLyj_obBavvDrcg</id>
+    <link href="https://mp.weixin.qq.com/s/jryWV3hCLyj_obBavvDrcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】Rust async/await的开销</title>
+    <updated>2020-10-09T21:41:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-09:/s/KY9PyR3a6yAQxHaS8d-PxQ</id>
+    <link href="https://mp.weixin.qq.com/s/KY9PyR3a6yAQxHaS8d-PxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】异步迭代语义</title>
+    <updated>2020-09-25T17:08:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-25:/s/cu84dIH_xg8HuXvZw5KxYg</id>
+    <link href="https://mp.weixin.qq.com/s/cu84dIH_xg8HuXvZw5KxYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今天意外被转让了一个Rust讨论群（QQ群），正好给大家提供一个互相交流的地方，欢迎大家进群讨论，可以畅所欲言。群号：951882729，二维码在下方。</title>
+    <updated>2020-09-18T11:50:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-18:/s/-84UWd3ek0-yYVXKOdcP3A</id>
+    <link href="https://mp.weixin.qq.com/s/-84UWd3ek0-yYVXKOdcP3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】探讨Rust中的动态分发（dynamic dispatch）</title>
+    <updated>2020-09-15T19:52:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-15:/s/ndqrVcu3su8Hi4U3Nfatow</id>
+    <link href="https://mp.weixin.qq.com/s/ndqrVcu3su8Hi4U3Nfatow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【译】Rust——理解trait （一）</title>
+    <updated>2020-09-12T14:20:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-12:/s/VmEiCKwo46pipW2LN5QQLQ</id>
+    <link href="https://mp.weixin.qq.com/s/VmEiCKwo46pipW2LN5QQLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

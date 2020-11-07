@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:23:05+08:00</updated>
+  <updated>2020-11-07T11:19:59+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今日，立冬！</title>
+    <updated>2020-11-06T16:52:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-06:/s/Kx-gCyYfXXAcsHrNkemJsg</id>
+    <link href="https://mp.weixin.qq.com/s/Kx-gCyYfXXAcsHrNkemJsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>台风“艾莎尼”将移入南海！周末东北等地降温8℃以上！</title>
     <updated>2020-11-06T14:43:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-03T11:25:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/Qwp9HZbXv4zJxBszASKg1Q</id>
     <link href="https://mp.weixin.qq.com/s/Qwp9HZbXv4zJxBszASKg1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>过个暖暖的秋冬，有的好一说！</title>
-    <updated>2020-11-03T09:24:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Ug9PyzdTLypdHp-Fu9B6vA</id>
-    <link href="https://mp.weixin.qq.com/s/Ug9PyzdTLypdHp-Fu9B6vA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
