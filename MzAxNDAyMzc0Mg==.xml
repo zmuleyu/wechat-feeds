@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T23:24:48+08:00</updated>
+  <updated>2020-11-08T23:25:08+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开关电源各种拓扑结构的特点</title>
+    <updated>2020-11-08T23:07:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/wVYa7yPtsDCX5-DntpxAew</id>
+    <link href="https://mp.weixin.qq.com/s/wVYa7yPtsDCX5-DntpxAew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开关电源MOSFET选型与使用</title>
     <updated>2020-11-07T23:13:35+08:00</updated>
@@ -75,41 +82,6 @@
     <updated>2020-10-29T21:05:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/Kt2ZssIrRyYbB-jxp1pwFw</id>
     <link href="https://mp.weixin.qq.com/s/Kt2ZssIrRyYbB-jxp1pwFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>UART</title>
-    <updated>2020-10-28T22:45:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/YvFrLis8qlTO2ldySVTf_Q</id>
-    <link href="https://mp.weixin.qq.com/s/YvFrLis8qlTO2ldySVTf_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>倒计时6天（慕尼黑华南电子展）《现场活动指南》新鲜出炉！</title>
-    <updated>2020-10-28T22:45:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/Et0pS6q60z8Pg-MRwnK4yA</id>
-    <link href="https://mp.weixin.qq.com/s/Et0pS6q60z8Pg-MRwnK4yA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>I2C</title>
-    <updated>2020-10-28T22:45:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/31lTKoAM8R73BliD8N3UoQ</id>
-    <link href="https://mp.weixin.qq.com/s/31lTKoAM8R73BliD8N3UoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SPI</title>
-    <updated>2020-10-28T22:45:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/IH5lJirWo3TL6qKAbbfWgg</id>
-    <link href="https://mp.weixin.qq.com/s/IH5lJirWo3TL6qKAbbfWgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CAN</title>
-    <updated>2020-10-28T22:45:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/GwZnFpvBwHQ70eRN4LXpYQ</id>
-    <link href="https://mp.weixin.qq.com/s/GwZnFpvBwHQ70eRN4LXpYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

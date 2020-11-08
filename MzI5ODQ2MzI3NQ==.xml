@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T20:24:42+08:00</updated>
+  <updated>2020-11-08T23:27:21+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>下周五：深圳Kubernetes CKA培训开课</title>
+    <updated>2020-11-08T20:49:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/jArBeyWjxLGlIUzT9iKpLQ</id>
+    <link href="https://mp.weixin.qq.com/s/jArBeyWjxLGlIUzT9iKpLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>16个你需要了解的DevOps指标，助你提升软件质量</title>
+    <updated>2020-11-08T20:49:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/lV5zr_s1CcbEaFoOg89QkA</id>
+    <link href="https://mp.weixin.qq.com/s/lV5zr_s1CcbEaFoOg89QkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>卸载 Notepad++ ！事实已证明，它更牛逼……</title>
     <updated>2020-11-07T18:25:40+08:00</updated>
@@ -71,24 +85,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>前58技术委员会主席详谈架构设计思维模型！</title>
-    <updated>2020-11-03T11:50:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/uIwkb5OBPcaYOyMrEFih0A</id>
-    <link href="https://mp.weixin.qq.com/s/uIwkb5OBPcaYOyMrEFih0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Jenkins持续集成的13种替代方案</title>
     <updated>2020-11-03T11:50:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/JJ3mo-gSeplo9CPoR2G6Mg</id>
     <link href="https://mp.weixin.qq.com/s/JJ3mo-gSeplo9CPoR2G6Mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>连qps都不懂，靠谱吗？</title>
-    <updated>2020-11-02T10:34:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/ElDoQGunOmXOYVtqmBGZDA</id>
-    <link href="https://mp.weixin.qq.com/s/ElDoQGunOmXOYVtqmBGZDA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,13 +124,6 @@
     <updated>2020-10-30T19:54:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/kj8OaR-1Ri2RTitWG9RKYQ</id>
     <link href="https://mp.weixin.qq.com/s/kj8OaR-1Ri2RTitWG9RKYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat通过整合Ansible来提升Kubernetes集群管理能力</title>
-    <updated>2020-10-29T12:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/ALx6FGa0E3jLAINI2FqRvA</id>
-    <link href="https://mp.weixin.qq.com/s/ALx6FGa0E3jLAINI2FqRvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
