@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T11:25:37+08:00</updated>
+  <updated>2020-11-08T11:28:32+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kafka的集群部署实践及运维相关</title>
+    <updated>2020-11-07T19:42:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/WlW3psovcjMm4sbfVETtuA</id>
+    <link href="https://mp.weixin.qq.com/s/WlW3psovcjMm4sbfVETtuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2020-11-07T19:42:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/jVXGdwspgvObh3oY3Zy1oA</id>
+    <link href="https://mp.weixin.qq.com/s/jVXGdwspgvObh3oY3Zy1oA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用Docker部署Prometheus实现微信邮件报警</title>
     <updated>2020-11-06T21:21:21+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-30T07:35:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/INTmkhVCnUSjMVwCLTA47A</id>
     <link href="https://mp.weixin.qq.com/s/INTmkhVCnUSjMVwCLTA47A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Prometheus 理论与实战培训</title>
-    <updated>2020-10-30T07:35:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/c4YlzqBSBEVf3yZO1GAUdw</id>
-    <link href="https://mp.weixin.qq.com/s/c4YlzqBSBEVf3yZO1GAUdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Serverless容器实例Cube的研发实践之路</title>
-    <updated>2020-10-29T07:11:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/PBC8MM2gtTrny_Vw8YwHLw</id>
-    <link href="https://mp.weixin.qq.com/s/PBC8MM2gtTrny_Vw8YwHLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

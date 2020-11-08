@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T11:22:22+08:00</updated>
+  <updated>2020-11-08T11:25:32+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>打造 Material 颜色主题 | 实现篇</title>
+    <updated>2020-11-07T22:31:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/ykkaWrpvcuAOF1WO3f42RA</id>
+    <link href="https://mp.weixin.qq.com/s/ykkaWrpvcuAOF1WO3f42RA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>R8 编译器: 为 Kotlin 库和应用 &#34;瘦身&#34;</title>
     <updated>2020-11-06T20:44:23+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-10-30T09:07:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/dgRDyWJxPUIdXoo5K-F3Qw</id>
     <link href="https://mp.weixin.qq.com/s/dgRDyWJxPUIdXoo5K-F3Qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dart 健全的空安全: 技术预览版 2</title>
-    <updated>2020-10-29T14:32:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/zdlsdv8ymyQTHmf1iLCyWA</id>
-    <link href="https://mp.weixin.qq.com/s/zdlsdv8ymyQTHmf1iLCyWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【ARCore 开发入门课程系列】六步带你着手打造优秀的 AR 应用</title>
-    <updated>2020-10-29T14:32:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/ywy9nPdjAmqFwXZ-4ysLdQ</id>
-    <link href="https://mp.weixin.qq.com/s/ywy9nPdjAmqFwXZ-4ysLdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

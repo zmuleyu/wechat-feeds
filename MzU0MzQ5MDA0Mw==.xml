@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T11:21:38+08:00</updated>
+  <updated>2020-11-08T11:23:22+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Monarch: 谷歌的全球级内存时序数据库</title>
+    <updated>2020-11-07T23:16:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/GY_f15OTsSlUnIBd6bWlmQ</id>
+    <link href="https://mp.weixin.qq.com/s/GY_f15OTsSlUnIBd6bWlmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个选择，两种人生，年薪差别几十万...</title>
     <updated>2020-11-06T20:39:14+08:00</updated>
@@ -50,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Spark 凭什么成为最火的大数据计算引擎？</title>
-    <updated>2020-11-04T00:14:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/n-Ouy1wjyK_GrE5aLmTzSg</id>
-    <link href="https://mp.weixin.qq.com/s/n-Ouy1wjyK_GrE5aLmTzSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>突发流量引发的Dubbo拥堵，该怎么办？</title>
     <updated>2020-11-04T00:14:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/Rcxs1u_yYkpPjd4QR0ZhdQ</id>
@@ -96,13 +96,6 @@
     <updated>2020-10-29T19:52:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/GkieAxPBCIGyOZH_A21vGw</id>
     <link href="https://mp.weixin.qq.com/s/GkieAxPBCIGyOZH_A21vGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构之道：分离业务逻辑和技术细节</title>
-    <updated>2020-10-27T22:31:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/3dMKfMfrX99GtNFFnfi6zg</id>
-    <link href="https://mp.weixin.qq.com/s/3dMKfMfrX99GtNFFnfi6zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
