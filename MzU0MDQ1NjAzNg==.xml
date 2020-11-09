@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T16:24:18+08:00</updated>
+  <updated>2020-11-09T13:21:28+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>快速上手pandas？都给你准备好了！</title>
+    <updated>2020-11-09T08:35:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/jR0BVhSSR3biDg-QtCisHQ</id>
+    <link href="https://mp.weixin.qq.com/s/jR0BVhSSR3biDg-QtCisHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>收藏 | PyTorch模型训练特征图可视化（TensorboardX）</title>
+    <updated>2020-11-09T08:35:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/AfID-pxDVzo-qi-dC6BaBA</id>
+    <link href="https://mp.weixin.qq.com/s/AfID-pxDVzo-qi-dC6BaBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ImageNet训练再创纪录！谷歌提出1个小时训练EfficientNet，准确率高达83％！</title>
+    <updated>2020-11-09T08:35:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/_H4kk4z6T1_n29s0Qspkwg</id>
+    <link href="https://mp.weixin.qq.com/s/_H4kk4z6T1_n29s0Qspkwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MedMNIST：上海交大发布医学影像领域的MNIST（附下载）</title>
     <updated>2020-11-07T23:38:13+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-02T09:19:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/sWL-J70-oSrs2dRPj6MEMQ</id>
     <link href="https://mp.weixin.qq.com/s/sWL-J70-oSrs2dRPj6MEMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>入门 | 32个常用 Python 实现</title>
-    <updated>2020-11-01T08:42:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/_KFj5gbi6bvOrCFxAjzgBA</id>
-    <link href="https://mp.weixin.qq.com/s/_KFj5gbi6bvOrCFxAjzgBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硬肝！超详细matplotlib基础介绍！！！</title>
-    <updated>2020-10-31T11:38:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/bsu0EyPqSsTUe5NEXsFLrA</id>
-    <link href="https://mp.weixin.qq.com/s/bsu0EyPqSsTUe5NEXsFLrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人工神经网络背后的数学原理！</title>
-    <updated>2020-10-30T00:09:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/reVaeWnEaCXAvrbxrx7hlw</id>
-    <link href="https://mp.weixin.qq.com/s/reVaeWnEaCXAvrbxrx7hlw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

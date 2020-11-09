@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T23:23:03+08:00</updated>
+  <updated>2020-11-09T13:18:23+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>React 凭什么成为前端开发必备神器？</title>
+    <updated>2020-11-08T21:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/d5k640ll-C0S3O5aR-fj-w</id>
+    <link href="https://mp.weixin.qq.com/s/d5k640ll-C0S3O5aR-fj-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用这些思路与技巧，我读懂了多个优秀的开源项目</title>
+    <updated>2020-11-08T21:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/3PWPHiej2yJO5FCkbmaavQ</id>
+    <link href="https://mp.weixin.qq.com/s/3PWPHiej2yJO5FCkbmaavQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>被创造者嫌弃，Node.js 如何应对来自 Deno 的挑战</title>
     <updated>2020-11-08T20:46:01+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-10-31T19:44:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/vxWo6Ptq4CRWGZQhpzTeng</id>
     <link href="https://mp.weixin.qq.com/s/vxWo6Ptq4CRWGZQhpzTeng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端程序员现状：不突破瓶颈很难生存！</title>
-    <updated>2020-10-29T22:57:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/IYRFIe2dSqithPtQX0SNwg</id>
-    <link href="https://mp.weixin.qq.com/s/IYRFIe2dSqithPtQX0SNwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>npm v7.0.0 发布： 带来数个重大更新</title>
-    <updated>2020-10-29T22:57:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/QT37R1YgsVznRuskVpcqSQ</id>
-    <link href="https://mp.weixin.qq.com/s/QT37R1YgsVznRuskVpcqSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
