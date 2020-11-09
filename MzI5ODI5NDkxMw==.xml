@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T11:14:43+08:00</updated>
+  <updated>2020-11-09T23:14:13+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -78,13 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>100篇架构文章打包，及offer面试题下载</title>
-    <updated>2020-11-06T23:27:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/XM5p2bwnD2vB2ja6XAKEUA</id>
-    <link href="https://mp.weixin.qq.com/s/XM5p2bwnD2vB2ja6XAKEUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Java中几种常用的RPC框架介绍</title>
     <updated>2020-11-06T23:27:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/dlELDVWU0OyTzFxAyl2uYQ</id>
@@ -145,6 +138,13 @@
     <updated>2020-11-04T22:31:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/_E_jlMNiJTwPQcwjZ7H43A</id>
     <link href="https://mp.weixin.qq.com/s/_E_jlMNiJTwPQcwjZ7H43A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何实现 MySQL 删除重复记录并且只保留一条</title>
+    <updated>2020-11-04T22:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/cmcZx7iu-pCPGA863igLaA</id>
+    <link href="https://mp.weixin.qq.com/s/cmcZx7iu-pCPGA863igLaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

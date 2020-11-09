@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T23:27:21+08:00</updated>
+  <updated>2020-11-09T23:21:10+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>redis到底是多线程还是单线程？我要吊打面试官...</title>
+    <updated>2020-11-09T21:25:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/J2d6C7Qnc9ONEHsugSfjkA</id>
+    <link href="https://mp.weixin.qq.com/s/J2d6C7Qnc9ONEHsugSfjkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Docker限制Docker Hub上镜像​拉取次数，开源项目不受限制</title>
+    <updated>2020-11-09T21:25:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/Uc5TxACUyRf9lCJ3xcNDOg</id>
+    <link href="https://mp.weixin.qq.com/s/Uc5TxACUyRf9lCJ3xcNDOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>下周五：深圳Kubernetes CKA培训开课</title>
     <updated>2020-11-08T20:49:12+08:00</updated>
@@ -64,13 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JAVA和GO真香！谁用谁知道！</title>
-    <updated>2020-11-04T20:47:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/nVfEudo5gFxNDDbPXtaJ8A</id>
-    <link href="https://mp.weixin.qq.com/s/nVfEudo5gFxNDDbPXtaJ8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>深圳：Kubernetes CKA实战培训</title>
     <updated>2020-11-04T20:47:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/Tumm_5tCiNbreF8sHOCCcw</id>
@@ -117,13 +124,6 @@
     <updated>2020-10-31T18:26:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/x-zSIQOVTUq-YYk-WIi9AQ</id>
     <link href="https://mp.weixin.qq.com/s/x-zSIQOVTUq-YYk-WIi9AQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>11-12月排期： 全国Kubernetes CKA实战培训</title>
-    <updated>2020-10-30T19:54:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/kj8OaR-1Ri2RTitWG9RKYQ</id>
-    <link href="https://mp.weixin.qq.com/s/kj8OaR-1Ri2RTitWG9RKYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

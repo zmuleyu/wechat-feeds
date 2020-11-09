@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T20:37:11+08:00</updated>
+  <updated>2020-11-09T23:27:11+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【ECCV 2020 】3D-CVF：使用跨视图空间特征融合生成用于3D对象检测的联合相机和LiDAR特征</title>
+    <updated>2020-11-09T20:58:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/UUydJ5503JWKLwi1RoU99w</id>
+    <link href="https://mp.weixin.qq.com/s/UUydJ5503JWKLwi1RoU99w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【CVPR 2019】物体为中心的自编码器与伪异常的视频异常检测</title>
     <updated>2020-11-08T18:30:27+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-10-25T23:07:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/_1E09GNgy2IkQSvFLco3ew</id>
     <link href="https://mp.weixin.qq.com/s/_1E09GNgy2IkQSvFLco3ew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ISMAR2020中国预会议 10月25日线上开播，13篇报告</title>
-    <updated>2020-10-24T22:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/zcl8WyXFBzl7zgbRXgHPew</id>
-    <link href="https://mp.weixin.qq.com/s/zcl8WyXFBzl7zgbRXgHPew" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
