@@ -1,12 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>专知 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T20:28:31+08:00</updated>
+  <updated>2020-11-09T20:27:50+08:00</updated>
   <subtitle>专知，为人工智能从业者服务，提供专业可信的人工智能知识与技术服务，让认知协作更快更好！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>DeepMind发布《神经网络中持续学习》Cell综述论文，13页pdf</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/OYp_KV9OS-Cg-s8FajeNhA</id>
+    <link href="https://mp.weixin.qq.com/s/OYp_KV9OS-Cg-s8FajeNhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【牛津大学BoYang博士论文】学习重建和分割三维物体，143页pdf</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/Ml7y_a0p2x9RkGrqhRpO3Q</id>
+    <link href="https://mp.weixin.qq.com/s/Ml7y_a0p2x9RkGrqhRpO3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【NeurIPS2020 】数据扩充的图对比学习</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/nZKJRoivra8_zlr1lteAag</id>
+    <link href="https://mp.weixin.qq.com/s/nZKJRoivra8_zlr1lteAag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【2020新书】使用Selenium进行Python测试，184页pdf, 学习使用Selenium实现不同的测试技术</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/RJLLPiYMsQA7_d-3sY4Q4g</id>
+    <link href="https://mp.weixin.qq.com/s/RJLLPiYMsQA7_d-3sY4Q4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最新《生成式语言模型: 信息论视角》报告，292页ppt</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/bg7vtO-AcCMb9yUjtqLFIw</id>
+    <link href="https://mp.weixin.qq.com/s/bg7vtO-AcCMb9yUjtqLFIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>近期必读 ICLR 2021 【模型压缩】&amp;【预训练】相关论文】</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/V8E8nl803aSHp23vG7qd_A</id>
+    <link href="https://mp.weixin.qq.com/s/V8E8nl803aSHp23vG7qd_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>70+篇必看2020综述论文《小样本/GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合</title>
+    <updated>2020-11-09T18:03:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/HGLuAbBM78tMf086Ex6jKw</id>
+    <link href="https://mp.weixin.qq.com/s/HGLuAbBM78tMf086Ex6jKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>雷军：小米将扩招5000名工程师！多个领域需要用到C++</title>
     <updated>2020-11-08T14:42:10+08:00</updated>
@@ -96,55 +145,6 @@
     <updated>2020-11-07T15:55:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/Zb1fvtP0i-vszxMSCJPbtQ</id>
     <link href="https://mp.weixin.qq.com/s/Zb1fvtP0i-vszxMSCJPbtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>陈丹琦新作：关系抽取新SOTA，用pipeline方式挫败joint模型</title>
-    <updated>2020-11-07T15:55:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/jO7qrN_3xaoww7gHDNf1Dg</id>
-    <link href="https://mp.weixin.qq.com/s/jO7qrN_3xaoww7gHDNf1Dg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT蒸馏完全指南｜原理/技巧/代码</title>
-    <updated>2020-11-07T15:55:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/Lw0G23nPkDqXrGwdrOgHdg</id>
-    <link href="https://mp.weixin.qq.com/s/Lw0G23nPkDqXrGwdrOgHdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>70+篇必看2020综述论文《小样本/GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合</title>
-    <updated>2020-11-07T15:55:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/gUSc8TqIbwmFkdRomMOWLw</id>
-    <link href="https://mp.weixin.qq.com/s/gUSc8TqIbwmFkdRomMOWLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从0到1带你刷榜顶会大赛！CCF顶会-非结构化商业文本信息中隐私信息识别大赛，不可错过！</title>
-    <updated>2020-11-06T16:55:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/8C5fPcDwMBlXz0Qlu6mzXw</id>
-    <link href="https://mp.weixin.qq.com/s/8C5fPcDwMBlXz0Qlu6mzXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【南洋理工Xavier】图神经网络架构的最新进展，Graph Network Architectures，附80页ppt</title>
-    <updated>2020-11-06T16:55:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/zJ0mL0qNmhzHBQeyhQUafg</id>
-    <link href="https://mp.weixin.qq.com/s/zJ0mL0qNmhzHBQeyhQUafg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【干货书】数据科学家统计实战，附代码与409页pdf</title>
-    <updated>2020-11-06T16:55:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/VAPnAqLNQUT7CFbwkQS_Mw</id>
-    <link href="https://mp.weixin.qq.com/s/VAPnAqLNQUT7CFbwkQS_Mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【普林斯顿】机器学习数学视角，63页ppt</title>
-    <updated>2020-11-06T16:55:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/d1Mv5vYY6DuxLsi4jprjiA</id>
-    <link href="https://mp.weixin.qq.com/s/d1Mv5vYY6DuxLsi4jprjiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

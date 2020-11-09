@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T20:24:23+08:00</updated>
+  <updated>2020-11-09T20:29:42+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>社区分享 | 使用 Arduino 和 TensorFlow Lite Micro 快速识别水果</title>
+    <updated>2020-11-09T19:17:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/7PDhTMQ2t43eHDtOOk1G2A</id>
+    <link href="https://mp.weixin.qq.com/s/7PDhTMQ2t43eHDtOOk1G2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社区分享 | TensorFlow Lite C++ API 开源案例教程</title>
     <updated>2020-11-07T15:44:16+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-10-23T16:55:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/6hKt2IYL_9Sz_Qnq5t3zRQ</id>
     <link href="https://mp.weixin.qq.com/s/6hKt2IYL_9Sz_Qnq5t3zRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>案例分享 | No-Code AI：用 ElasticDL 和社区 Keras 模型库实现大量小众预估场景</title>
-    <updated>2020-10-22T17:55:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/5Hj9Qqodbh6aTqtfOZKqow</id>
-    <link href="https://mp.weixin.qq.com/s/5Hj9Qqodbh6aTqtfOZKqow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

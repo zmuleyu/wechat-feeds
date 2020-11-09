@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:36:56+08:00</updated>
+  <updated>2020-11-09T20:35:21+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ARM环境下Java应用卡顿优化案例</title>
+    <updated>2020-11-09T20:11:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/dqHTbLk9ETnBPQh2WrUmTg</id>
+    <link href="https://mp.weixin.qq.com/s/dqHTbLk9ETnBPQh2WrUmTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>报警的哲学</title>
     <updated>2020-11-06T09:32:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-28T23:37:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/W5G_LPr6cBqHBO8qnm0B3g</id>
     <link href="https://mp.weixin.qq.com/s/W5G_LPr6cBqHBO8qnm0B3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 3 年，25K 多吗？</title>
-    <updated>2020-10-27T22:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/YWqr3PHDxL4M3qxVHwPdqA</id>
-    <link href="https://mp.weixin.qq.com/s/YWqr3PHDxL4M3qxVHwPdqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
