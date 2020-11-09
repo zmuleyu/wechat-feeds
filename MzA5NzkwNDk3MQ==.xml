@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T23:21:21+08:00</updated>
+  <updated>2020-11-09T16:16:32+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Hugo 之旅</title>
+    <updated>2020-11-09T15:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/qO0z_ZmuvF5nwo12VWaJYA</id>
+    <link href="https://mp.weixin.qq.com/s/qO0z_ZmuvF5nwo12VWaJYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
+    <updated>2020-11-09T15:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/7SivV-Zb9vPY-dX1DYUNog</id>
+    <link href="https://mp.weixin.qq.com/s/7SivV-Zb9vPY-dX1DYUNog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-11-09T15:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/i7ePl_e4KmVurvnNlDGqjQ</id>
+    <link href="https://mp.weixin.qq.com/s/i7ePl_e4KmVurvnNlDGqjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何更好地理解中间件和洋葱模型</title>
     <updated>2020-11-07T20:53:26+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-28T11:44:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/E-c9gsk-kxIwnwY4R5z_3Q</id>
     <link href="https://mp.weixin.qq.com/s/E-c9gsk-kxIwnwY4R5z_3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-10-28T11:44:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/1oZbhnbeHtfQbqFJbUggGA</id>
-    <link href="https://mp.weixin.qq.com/s/1oZbhnbeHtfQbqFJbUggGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-10-28T11:44:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/DjznsofuE3DhrK0hsYf8tA</id>
-    <link href="https://mp.weixin.qq.com/s/DjznsofuE3DhrK0hsYf8tA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>React组件到底什么时候render啊</title>
-    <updated>2020-10-27T19:15:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/_bWaxXqmYNXXv2PF0L7fBQ</id>
-    <link href="https://mp.weixin.qq.com/s/_bWaxXqmYNXXv2PF0L7fBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
