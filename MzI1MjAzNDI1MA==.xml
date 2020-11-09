@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T01:10:07+08:00</updated>
+  <updated>2020-11-10T01:23:45+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-09 构建可测试性的 Rust 工程</title>
+    <updated>2020-11-09T23:34:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/TV8dvadWH2iUWlguRsKScA</id>
+    <link href="https://mp.weixin.qq.com/s/TV8dvadWH2iUWlguRsKScA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-08 RustFest Global 2020</title>
     <updated>2020-11-08T23:13:05+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-10-31T23:14:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/xUkHp26w41IfDvNEw4M-hA</id>
     <link href="https://mp.weixin.qq.com/s/xUkHp26w41IfDvNEw4M-hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-10-30 字节跳动飞书团队招聘Rust跨平台开发工程师</title>
-    <updated>2020-10-30T23:22:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/uYDbRxwn6Q4v9I_T_38gcA</id>
-    <link href="https://mp.weixin.qq.com/s/uYDbRxwn6Q4v9I_T_38gcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
