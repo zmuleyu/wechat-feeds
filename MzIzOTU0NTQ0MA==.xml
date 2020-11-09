@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T17:26:24+08:00</updated>
+  <updated>2020-11-09T11:13:08+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何设计一个端计算架构？</title>
+    <updated>2020-11-08T23:15:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/7ax9KpNkfmPJqtCZgU6ELg</id>
+    <link href="https://mp.weixin.qq.com/s/7ax9KpNkfmPJqtCZgU6ELg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>8条经验轻松上手IDEA插件开发</title>
     <updated>2020-11-05T18:14:28+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-26T17:39:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/v94tKt23_0wQdRp8jyDY6Q</id>
     <link href="https://mp.weixin.qq.com/s/v94tKt23_0wQdRp8jyDY6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何用好云原生数据湖？</title>
-    <updated>2020-10-25T23:15:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/ueltGF9FlgsKXjmrhVvhpQ</id>
-    <link href="https://mp.weixin.qq.com/s/ueltGF9FlgsKXjmrhVvhpQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

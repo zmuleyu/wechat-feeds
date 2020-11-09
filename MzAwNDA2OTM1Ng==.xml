@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T13:35:14+08:00</updated>
+  <updated>2020-11-09T11:24:34+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>丙:为啥阿里巴巴不建议MySQL使用Text类型？</title>
+    <updated>2020-11-08T23:29:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/oVjm_iLvbkximBjHv9d8ig</id>
+    <link href="https://mp.weixin.qq.com/s/oVjm_iLvbkximBjHv9d8ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>redis到底是多线程还是单线程？我要吊打面试官...</title>
+    <updated>2020-11-08T23:29:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/JDje2tZ3kzx5afyas1qZwg</id>
+    <link href="https://mp.weixin.qq.com/s/JDje2tZ3kzx5afyas1qZwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里开启双十一模式，一级备战！</title>
     <updated>2020-11-08T10:05:46+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-10-31T22:54:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/QKRg-J-iH8LMAIy5YnD9Gw</id>
     <link href="https://mp.weixin.qq.com/s/QKRg-J-iH8LMAIy5YnD9Gw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>千万级、亿级流量怎么处理？</title>
-    <updated>2020-10-29T22:58:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/CxqnaB9cUemvCcWkw2nUcw</id>
-    <link href="https://mp.weixin.qq.com/s/CxqnaB9cUemvCcWkw2nUcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

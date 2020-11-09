@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T01:14:14+08:00</updated>
+  <updated>2020-11-09T11:14:43+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CTO：不要在代码中写 set/get 方法了，逮一次罚款...</title>
+    <updated>2020-11-08T23:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/7Xg8sKvjhn-RasoA2ZlFBw</id>
+    <link href="https://mp.weixin.qq.com/s/7Xg8sKvjhn-RasoA2ZlFBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拜登当选总统，美国科技圈沸腾了！</title>
+    <updated>2020-11-08T23:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/QMGhyzX0zv14rqwmRwjd8A</id>
+    <link href="https://mp.weixin.qq.com/s/QMGhyzX0zv14rqwmRwjd8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>啊？密封类可以被继承了！（JDK15新特性）</title>
+    <updated>2020-11-08T23:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/b7CvQ_g__2pdmELe5Wq8rQ</id>
+    <link href="https://mp.weixin.qq.com/s/b7CvQ_g__2pdmELe5Wq8rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringBoot项目中，如何更规范的使用PageHelper分页？</title>
+    <updated>2020-11-08T23:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/XcqfJdpJSCOAxWjc7jJ0EQ</id>
+    <link href="https://mp.weixin.qq.com/s/XcqfJdpJSCOAxWjc7jJ0EQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万字长文！Flutter竟然还有这种高端用法？</title>
+    <updated>2020-11-08T23:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/5wRPyAsGS6dFPg8Hgi5l_Q</id>
+    <link href="https://mp.weixin.qq.com/s/5wRPyAsGS6dFPg8Hgi5l_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>请立刻弃用 Notepad++！ 还有 5 款更厉害的编辑器等你选择！</title>
     <updated>2020-11-07T23:49:51+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-04T22:31:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/_E_jlMNiJTwPQcwjZ7H43A</id>
     <link href="https://mp.weixin.qq.com/s/_E_jlMNiJTwPQcwjZ7H43A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何实现 MySQL 删除重复记录并且只保留一条</title>
-    <updated>2020-11-04T22:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/cmcZx7iu-pCPGA863igLaA</id>
-    <link href="https://mp.weixin.qq.com/s/cmcZx7iu-pCPGA863igLaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一语点破Java中的静态static关键字</title>
-    <updated>2020-11-04T22:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/38hOFIV6T7ICfyGYPY2HjA</id>
-    <link href="https://mp.weixin.qq.com/s/38hOFIV6T7ICfyGYPY2HjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最新数据：微软Edge市场份额超过10%，Chrome竟然下滑</title>
-    <updated>2020-11-04T22:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/kZza4KfIvN32FFL3wGjodw</id>
-    <link href="https://mp.weixin.qq.com/s/kZza4KfIvN32FFL3wGjodw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux系统常用命令速查手册</title>
-    <updated>2020-11-04T22:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/xORny9FjZlMe2nWoNp28kA</id>
-    <link href="https://mp.weixin.qq.com/s/xORny9FjZlMe2nWoNp28kA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真正的Java大神，都在争相研究JVM内核！</title>
-    <updated>2020-11-03T22:03:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/liettRGenkkyg8lrMLeDuA</id>
-    <link href="https://mp.weixin.qq.com/s/liettRGenkkyg8lrMLeDuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

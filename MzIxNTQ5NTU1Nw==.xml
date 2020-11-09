@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AppHubs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T11:24:45+08:00</updated>
+  <updated>2020-11-09T11:23:22+08:00</updated>
   <subtitle>追随乔帮主</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>苹果在 iOS 14.2 中悄悄搞了件大事</title>
+    <updated>2020-11-08T22:44:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Jqyvz19hoHpXSTwEoB0esg</id>
+    <link href="https://mp.weixin.qq.com/s/Jqyvz19hoHpXSTwEoB0esg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>苹果开发者注意，又一期限来了</title>
     <updated>2020-11-07T00:30:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-26T22:37:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/w6yKrTlXBvR0Cc_GeD3W1Q</id>
     <link href="https://mp.weixin.qq.com/s/w6yKrTlXBvR0Cc_GeD3W1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>苹果开源一 Swift 后端项目</title>
-    <updated>2020-10-25T11:55:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/UI7SH_32Vzifdl8nNxumZg</id>
-    <link href="https://mp.weixin.qq.com/s/UI7SH_32Vzifdl8nNxumZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

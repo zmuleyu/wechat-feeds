@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T11:23:22+08:00</updated>
+  <updated>2020-11-09T11:20:29+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用 Redis 吊打面试官？</title>
+    <updated>2020-11-08T23:21:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/T1Y3IdhbVx-PayeVd4h4kQ</id>
+    <link href="https://mp.weixin.qq.com/s/T1Y3IdhbVx-PayeVd4h4kQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务架构下静态数据通用缓存机制</title>
+    <updated>2020-11-08T23:21:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Rrs74iddmYC5igB14YNK6w</id>
+    <link href="https://mp.weixin.qq.com/s/Rrs74iddmYC5igB14YNK6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Monarch: 谷歌的全球级内存时序数据库</title>
     <updated>2020-11-07T23:16:25+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-10-29T23:49:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/Mqyo0lHBQ0M54sIbs--4Pw</id>
     <link href="https://mp.weixin.qq.com/s/Mqyo0lHBQ0M54sIbs--4Pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 5.7 vs 8.0，哪个性能更牛？</title>
-    <updated>2020-10-29T19:52:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/GkieAxPBCIGyOZH_A21vGw</id>
-    <link href="https://mp.weixin.qq.com/s/GkieAxPBCIGyOZH_A21vGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

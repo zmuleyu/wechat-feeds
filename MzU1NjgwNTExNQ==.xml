@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T13:19:18+08:00</updated>
+  <updated>2020-11-09T11:11:19+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>快3年经验了还进不了大厂，简历应该怎么写？</title>
+    <updated>2020-11-08T11:26:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/c-EIEl6sO61w70Ix7fq0IA</id>
+    <link href="https://mp.weixin.qq.com/s/c-EIEl6sO61w70Ix7fq0IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新款树莓派 400 发布：键盘主机合二为一</title>
+    <updated>2020-11-08T11:26:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Brf5zyJrGaBi4kQboM5sgQ</id>
+    <link href="https://mp.weixin.qq.com/s/Brf5zyJrGaBi4kQboM5sgQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干货回顾 | 快速上手 VS Code：开发环境搭建和常用插件配置</title>
     <updated>2020-11-08T11:13:05+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-30T22:52:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/l1oeThcXCL0VsYIQxQ3wEQ</id>
     <link href="https://mp.weixin.qq.com/s/l1oeThcXCL0VsYIQxQ3wEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Chrome正在启用HTTP/3，支持IETF QUIC</title>
-    <updated>2020-10-29T20:11:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/zFNwKD2zoc6Kjk-iGkDxew</id>
-    <link href="https://mp.weixin.qq.com/s/zFNwKD2zoc6Kjk-iGkDxew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在线直播 | 快速上手 VS Code：开发环境搭建和常用插件配置</title>
-    <updated>2020-10-29T20:11:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/zxKE75R6QOSTbuVLVX3NYw</id>
-    <link href="https://mp.weixin.qq.com/s/zxKE75R6QOSTbuVLVX3NYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
