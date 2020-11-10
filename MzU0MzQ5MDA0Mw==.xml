@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T11:20:29+08:00</updated>
+  <updated>2020-11-10T11:24:55+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分享下 Flink、Kafka中经典的架构师级ZooKeeper企业应用实践</title>
+    <updated>2020-11-10T01:51:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/U_uzV0Zyw4o8e46l9oUH9A</id>
+    <link href="https://mp.weixin.qq.com/s/U_uzV0Zyw4o8e46l9oUH9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入理解Ceph存储架构</title>
+    <updated>2020-11-10T01:51:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/AC4bXS39yIZPKeZYLttEMA</id>
+    <link href="https://mp.weixin.qq.com/s/AC4bXS39yIZPKeZYLttEMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何用 Redis 吊打面试官？</title>
     <updated>2020-11-08T23:21:24+08:00</updated>
@@ -29,24 +43,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>一个选择，两种人生，年薪差别几十万...</title>
-    <updated>2020-11-06T20:39:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/Lt2NFbcxzEN4DacRgqfzpA</id>
-    <link href="https://mp.weixin.qq.com/s/Lt2NFbcxzEN4DacRgqfzpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Docker 底层原理浅析</title>
     <updated>2020-11-06T20:39:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/Cau8rZCPsMxBYRUuGQ5seQ</id>
     <link href="https://mp.weixin.qq.com/s/Cau8rZCPsMxBYRUuGQ5seQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么说未来 5 年将是 Go 语言的天下？</title>
-    <updated>2020-11-06T00:02:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/18Pp_7Rg5fx6kalfUliwOw</id>
-    <link href="https://mp.weixin.qq.com/s/18Pp_7Rg5fx6kalfUliwOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +96,6 @@
     <updated>2020-10-30T21:49:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/cS8X7hBYpFwcZOWcpLt3OQ</id>
     <link href="https://mp.weixin.qq.com/s/cS8X7hBYpFwcZOWcpLt3OQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>服务网格仍然很难</title>
-    <updated>2020-10-29T23:49:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/Mqyo0lHBQ0M54sIbs--4Pw</id>
-    <link href="https://mp.weixin.qq.com/s/Mqyo0lHBQ0M54sIbs--4Pw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

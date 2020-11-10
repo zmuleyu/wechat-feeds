@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农翻身 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T11:11:02+08:00</updated>
+  <updated>2020-11-10T11:11:26+08:00</updated>
   <subtitle>技术本来是很精彩的啊！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个MySQL，撑起万亿级架构存储层！</title>
+    <updated>2020-11-09T20:03:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/HBC7QWUAyN8UgcPBQ9AjmQ</id>
+    <link href="https://mp.weixin.qq.com/s/HBC7QWUAyN8UgcPBQ9AjmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：你们这些奇葩的代码！</title>
     <updated>2020-11-08T21:49:28+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-10-27T08:10:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/ILiaR_VKGU8epfkf-eqgcg</id>
     <link href="https://mp.weixin.qq.com/s/ILiaR_VKGU8epfkf-eqgcg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：烂代码传奇</title>
-    <updated>2020-10-25T18:45:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/6cGOaGEh7RrPHSjbMlG_4Q</id>
-    <link href="https://mp.weixin.qq.com/s/6cGOaGEh7RrPHSjbMlG_4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
