@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T23:25:12+08:00</updated>
+  <updated>2020-11-10T20:22:34+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>协作的力量！多个 Google 工具接力构建农作物病害监测应用</title>
+    <updated>2020-11-10T15:49:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/Hak6PU8yUvL_w7swxC3Lzg</id>
+    <link href="https://mp.weixin.qq.com/s/Hak6PU8yUvL_w7swxC3Lzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>活动预告 | DevFest 2020 讲师抢先看！</title>
     <updated>2020-11-09T21:35:16+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-10-31T19:51:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/IDwP2GBcMe0VSO4H27z75Q</id>
     <link href="https://mp.weixin.qq.com/s/IDwP2GBcMe0VSO4H27z75Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入详解 Jetpack Compose | 实现原理</title>
-    <updated>2020-10-30T17:25:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/cFLDF0CDmRropKLfzNKUiw</id>
-    <link href="https://mp.weixin.qq.com/s/cFLDF0CDmRropKLfzNKUiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Dagger 自定义 WorkManager</title>
-    <updated>2020-10-30T17:25:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/bgMg5jCzkcgHjV-moi7NNw</id>
-    <link href="https://mp.weixin.qq.com/s/bgMg5jCzkcgHjV-moi7NNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

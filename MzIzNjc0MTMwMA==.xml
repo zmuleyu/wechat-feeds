@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T20:35:54+08:00</updated>
+  <updated>2020-11-10T20:24:03+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】损失函数理解汇总，结合PyTorch和TensorFlow2</title>
+    <updated>2020-11-10T18:18:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/cwPguBrF46aQLEzPeCVupQ</id>
+    <link href="https://mp.weixin.qq.com/s/cwPguBrF46aQLEzPeCVupQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】白话生成对抗网络GAN及代码实现</title>
+    <updated>2020-11-10T18:18:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/liHR89VQrUBiHJMiM-5vdw</id>
+    <link href="https://mp.weixin.qq.com/s/liHR89VQrUBiHJMiM-5vdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【他山之石】5周时间，9.9元，面试官带你刷题，掌握AI大厂面试生存第一步</title>
     <updated>2020-11-09T18:23:00+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-03T18:53:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/lKTJWBzMn-kPPw1g3QvhVQ</id>
     <link href="https://mp.weixin.qq.com/s/lKTJWBzMn-kPPw1g3QvhVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】ICLR 2020 所有RL papers全扫荡</title>
-    <updated>2020-11-02T18:08:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/Ouq1feBO3CZnkq34kKeuYQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ouq1feBO3CZnkq34kKeuYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】PyTorch实现ShuffleNet-v2亲身实践</title>
-    <updated>2020-11-02T18:08:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/607JbdySX6kdRQoxenJdXg</id>
-    <link href="https://mp.weixin.qq.com/s/607JbdySX6kdRQoxenJdXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

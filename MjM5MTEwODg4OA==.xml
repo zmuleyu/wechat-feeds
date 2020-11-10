@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>电影杂志 MOVIE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T23:19:22+08:00</updated>
+  <updated>2020-11-10T20:16:35+08:00</updated>
   <subtitle>国内唯一的一个与电影相关的时尚、艺术、生活类原创新媒体，让读者跟着电影和明星们感受高品质的吃、喝、玩、乐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今日赠票！</title>
+    <updated>2020-11-10T18:17:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/U3uDm2hFLmylRD7Z7Ku5ZQ</id>
+    <link href="https://mp.weixin.qq.com/s/U3uDm2hFLmylRD7Z7Ku5ZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>美国评论家：“这是在中国听到的最美妙的电影音乐”</title>
     <updated>2020-11-09T21:23:47+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-29T20:46:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/lNNbJinqmBhPtbEbGjeE1w</id>
     <link href="https://mp.weixin.qq.com/s/lNNbJinqmBhPtbEbGjeE1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今日赠票！</title>
-    <updated>2020-10-28T18:20:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/ze-grmsvdt02n5ZWBDUzEg</id>
-    <link href="https://mp.weixin.qq.com/s/ze-grmsvdt02n5ZWBDUzEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
