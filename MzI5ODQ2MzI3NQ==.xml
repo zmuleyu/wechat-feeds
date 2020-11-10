@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T23:21:10+08:00</updated>
+  <updated>2020-11-10T13:19:19+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>史上最全AI论文集结：近千篇论文分门别类整理好</title>
+    <updated>2020-11-10T10:15:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/s3r5kXrCqD-dFNzjqz_zzQ</id>
+    <link href="https://mp.weixin.qq.com/s/s3r5kXrCqD-dFNzjqz_zzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020年Kubernetes中7个最佳日志管理工具</title>
+    <updated>2020-11-10T10:15:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/hHOoXhq1Xcj5QD0D5XekhA</id>
+    <link href="https://mp.weixin.qq.com/s/hHOoXhq1Xcj5QD0D5XekhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>redis到底是多线程还是单线程？我要吊打面试官...</title>
     <updated>2020-11-09T21:25:58+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-11-01T20:05:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-01:/s/DZkuFUvAK0aCAb81PClBig</id>
     <link href="https://mp.weixin.qq.com/s/DZkuFUvAK0aCAb81PClBig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最热门的云原生存储解决方案</title>
-    <updated>2020-10-31T18:26:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/x-zSIQOVTUq-YYk-WIi9AQ</id>
-    <link href="https://mp.weixin.qq.com/s/x-zSIQOVTUq-YYk-WIi9AQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
