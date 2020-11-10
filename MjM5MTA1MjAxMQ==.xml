@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T11:22:50+08:00</updated>
+  <updated>2020-11-11T07:19:34+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2114期】浏览器环境下的JavaScript Event Loop</title>
+    <updated>2020-11-11T05:57:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/7k4skVdCIhTsTdEFmXyYLg</id>
+    <link href="https://mp.weixin.qq.com/s/7k4skVdCIhTsTdEFmXyYLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Sass：LibSass已被废弃</title>
+    <updated>2020-11-11T05:57:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/5afUVPlkpGSrb0r2Pw2enw</id>
+    <link href="https://mp.weixin.qq.com/s/5afUVPlkpGSrb0r2Pw2enw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于 Web Component 组件化开发，前端人必备！</title>
     <updated>2020-11-10T07:45:14+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-11-02T06:01:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/0q0E3fIxdii5e-AgjXskdA</id>
     <link href="https://mp.weixin.qq.com/s/0q0E3fIxdii5e-AgjXskdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2104期】如何1人5天开发完3D数据可视化大屏之一</title>
-    <updated>2020-11-01T09:13:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/0G8rGoWNZ0XkBA9FQQPXLg</id>
-    <link href="https://mp.weixin.qq.com/s/0G8rGoWNZ0XkBA9FQQPXLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里开源首个 Serverless 开发者平台 Serverless Devs</title>
-    <updated>2020-11-01T09:13:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/tUkKboJeJHYeYStJe1_HeA</id>
-    <link href="https://mp.weixin.qq.com/s/tUkKboJeJHYeYStJe1_HeA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
