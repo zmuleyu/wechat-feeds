@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T13:21:28+08:00</updated>
+  <updated>2020-11-10T16:14:09+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AI火爆，但最关键的还是在于应用场景落地</title>
+    <updated>2020-11-10T14:34:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/8qlWTEOBSuhqFy1DnK1h_Q</id>
+    <link href="https://mp.weixin.qq.com/s/8qlWTEOBSuhqFy1DnK1h_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>算法工程师面试知识点整理</title>
+    <updated>2020-11-10T14:34:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/d6ZjecyhE6Bwi6yuQpywmg</id>
+    <link href="https://mp.weixin.qq.com/s/d6ZjecyhE6Bwi6yuQpywmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>收藏 | 万字长文带你理解Pytorch官方Faster RCNN代码</title>
+    <updated>2020-11-10T14:34:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/pWJPBCAjLGvr4VAGevXd4w</id>
+    <link href="https://mp.weixin.qq.com/s/pWJPBCAjLGvr4VAGevXd4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>快速上手pandas？都给你准备好了！</title>
     <updated>2020-11-09T08:35:43+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-03T08:31:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/vzTYg6tY9D0zGP8UYt5enQ</id>
     <link href="https://mp.weixin.qq.com/s/vzTYg6tY9D0zGP8UYt5enQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>惊呆了！这样可以将Numpy加速700倍！</title>
-    <updated>2020-11-03T08:31:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/jOAu3zczHvmaZZOHI0gxIQ</id>
-    <link href="https://mp.weixin.qq.com/s/jOAu3zczHvmaZZOHI0gxIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人脑是怎么防止梯度消失和梯度爆炸的?</title>
-    <updated>2020-11-02T09:19:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/QDBGzHzg7WF84p-dsKjtGw</id>
-    <link href="https://mp.weixin.qq.com/s/QDBGzHzg7WF84p-dsKjtGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解析 | 如何从频域的角度解释CNN（卷积神经网络）？</title>
-    <updated>2020-11-02T09:19:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/sWL-J70-oSrs2dRPj6MEMQ</id>
-    <link href="https://mp.weixin.qq.com/s/sWL-J70-oSrs2dRPj6MEMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

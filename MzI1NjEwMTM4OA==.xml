@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯音乐技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T20:39:03+08:00</updated>
+  <updated>2020-11-10T16:23:57+08:00</updated>
   <subtitle>腾讯音乐开发团队公众帐号。关注技术分享与交流</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Q音直播编译优化与二进制集成方案</title>
+    <updated>2020-11-10T15:27:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/5q_PLdLeuuuQnsLrbzaOeQ</id>
+    <link href="https://mp.weixin.qq.com/s/5q_PLdLeuuuQnsLrbzaOeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>QQ音乐Android编译提速之路</title>
     <updated>2020-11-06T16:31:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-02T15:29:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-02:/s/aK2AOM-vYaD6dqDihNX4jQ</id>
     <link href="https://mp.weixin.qq.com/s/aK2AOM-vYaD6dqDihNX4jQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Alfred快速启动开发环境</title>
-    <updated>2020-06-23T16:10:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-23:/s/jsLqcn9E7PTnXKeyfP_YLw</id>
-    <link href="https://mp.weixin.qq.com/s/jsLqcn9E7PTnXKeyfP_YLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
