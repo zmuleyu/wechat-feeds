@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-04T23:26:31+08:00</updated>
+  <updated>2020-11-11T23:19:48+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo商城前端架构升级—多端统一探索、实践与展望篇</title>
+    <updated>2020-11-11T18:09:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/Ljyte6UwU6OyqTYkgvD3kA</id>
+    <link href="https://mp.weixin.qq.com/s/Ljyte6UwU6OyqTYkgvD3kA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分布式集群如何实现高效的数据分布</title>
+    <updated>2020-11-11T18:09:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/X3nUA_r0BdXPk6B_-tmV3g</id>
+    <link href="https://mp.weixin.qq.com/s/X3nUA_r0BdXPk6B_-tmV3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>播放器性能优化之路</title>
+    <updated>2020-11-11T18:09:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/oL22a68Tmr2ViE3DK6Qk1g</id>
+    <link href="https://mp.weixin.qq.com/s/oL22a68Tmr2ViE3DK6Qk1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020 vivo 开发者大会：AI 算法在移动端的应用</title>
+    <updated>2020-11-11T18:09:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/c_a04oooZ1t0AqFNLnFhvg</id>
+    <link href="https://mp.weixin.qq.com/s/c_a04oooZ1t0AqFNLnFhvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>悟空活动中台-打造 Nodejs 版本的MyBatis</title>
     <updated>2020-11-04T17:55:24+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-09-23T18:44:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/riWwjlkv7Dm2lF49yXfb3Q</id>
     <link href="https://mp.weixin.qq.com/s/riWwjlkv7Dm2lF49yXfb3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java ConcurrentHashMap 高并发安全实现原理解析</title>
-    <updated>2020-09-16T17:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/4sz6sTPvBigR_1g8piFxug</id>
-    <link href="https://mp.weixin.qq.com/s/4sz6sTPvBigR_1g8piFxug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>共享内存原理与VCS监控采集实战</title>
-    <updated>2020-09-16T17:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/PolfIcUpMznm7DTlyCHg2g</id>
-    <link href="https://mp.weixin.qq.com/s/PolfIcUpMznm7DTlyCHg2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>宏任务和微任务的一个小事</title>
-    <updated>2020-09-16T17:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/Dm3PrsBy4wPAWnwFgMyZcQ</id>
-    <link href="https://mp.weixin.qq.com/s/Dm3PrsBy4wPAWnwFgMyZcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>同城双活与异地多活架构分析</title>
-    <updated>2020-09-09T18:45:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/OjfFcjnGWV5kutxXndtpMg</id>
-    <link href="https://mp.weixin.qq.com/s/OjfFcjnGWV5kutxXndtpMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
