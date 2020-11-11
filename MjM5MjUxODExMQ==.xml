@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cydia | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T23:18:15+08:00</updated>
+  <updated>2020-11-11T16:18:31+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>iOS逆向协议</title>
+    <updated>2020-11-11T13:57:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/BKxRlZoDI6x2-xsR8Du5Ng</id>
+    <link href="https://mp.weixin.qq.com/s/BKxRlZoDI6x2-xsR8Du5Ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>读懂苹果第四场发布会</title>
+    <updated>2020-11-11T13:57:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/JhX4P_kv7cu_KOIDvTawxw</id>
+    <link href="https://mp.weixin.qq.com/s/JhX4P_kv7cu_KOIDvTawxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈改机原理反逆向机制</title>
     <updated>2020-11-10T22:50:05+08:00</updated>
@@ -130,20 +144,6 @@
     <updated>2020-11-03T13:47:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/eNrvQYVSumh0km7CKUhwpw</id>
     <link href="https://mp.weixin.qq.com/s/eNrvQYVSumh0km7CKUhwpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>备份SHSH教程</title>
-    <updated>2020-11-03T13:47:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/htg0H0lv8F_JddihQQApeA</id>
-    <link href="https://mp.weixin.qq.com/s/htg0H0lv8F_JddihQQApeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎么hook微信骰子？</title>
-    <updated>2020-11-02T10:56:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/zx3o7Woin-tebrd1mbl_sA</id>
-    <link href="https://mp.weixin.qq.com/s/zx3o7Woin-tebrd1mbl_sA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

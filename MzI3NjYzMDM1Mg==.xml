@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T20:22:51+08:00</updated>
+  <updated>2020-11-11T16:11:42+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020-11微软漏洞通告</title>
+    <updated>2020-11-11T14:23:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/Vc1qbRqnYqrIo7cwfiGa7g</id>
+    <link href="https://mp.weixin.qq.com/s/Vc1qbRqnYqrIo7cwfiGa7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文揭露各类劫持浏览器主页手段  附火绒修复方式</title>
     <updated>2020-11-09T15:35:46+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-09-30T10:32:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/bS6uQGbHH8L9hTmx9D-L7Q</id>
     <link href="https://mp.weixin.qq.com/s/bS6uQGbHH8L9hTmx9D-L7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>倚天、九州携带后门病毒远控电脑  私服游戏用户请谨慎下载</title>
-    <updated>2020-09-30T19:14:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/jwYl1XYNRhlnNObUKM-z3A</id>
-    <link href="https://mp.weixin.qq.com/s/jwYl1XYNRhlnNObUKM-z3A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
