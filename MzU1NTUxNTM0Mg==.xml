@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T20:27:15+08:00</updated>
+  <updated>2020-11-11T20:26:53+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图神经网络中的Graph Pooling</title>
+    <updated>2020-11-11T20:09:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/fX20ZD08J3INAhmlHYlvHw</id>
+    <link href="https://mp.weixin.qq.com/s/fX20ZD08J3INAhmlHYlvHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>20小时不插电，苹果全新MacBook革了自家iPad的命</title>
+    <updated>2020-11-11T20:09:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/UvQgSnQ4kNZqB3xjwKilKg</id>
+    <link href="https://mp.weixin.qq.com/s/UvQgSnQ4kNZqB3xjwKilKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度学习检测小目标常用方法</title>
+    <updated>2020-11-11T20:09:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/k-vy0APABQtHFmFY8juqMw</id>
+    <link href="https://mp.weixin.qq.com/s/k-vy0APABQtHFmFY8juqMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文读懂可解释机器学习简史，让你的模型再也不是“Black Box”</title>
     <updated>2020-11-10T19:36:04+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-05T20:03:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/zWqZgoitfvCBp0VqVOS6TA</id>
     <link href="https://mp.weixin.qq.com/s/zWqZgoitfvCBp0VqVOS6TA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卷积的本质及物理意义，解释的真幽默！</title>
-    <updated>2020-11-05T20:03:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/YPMoushjT6g7Z7nmZUwkBA</id>
-    <link href="https://mp.weixin.qq.com/s/YPMoushjT6g7Z7nmZUwkBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>性能超越图神经网络，将标签传递和简单模型结合实现SOTA</title>
-    <updated>2020-11-04T19:47:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/xswd9ed-bPTI8vmBa5dr8A</id>
-    <link href="https://mp.weixin.qq.com/s/xswd9ed-bPTI8vmBa5dr8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyTorch模型训练特征图可视化（TensorboardX）</title>
-    <updated>2020-11-04T19:47:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/yTmccm0DDEWF0EJ3FW5xeg</id>
-    <link href="https://mp.weixin.qq.com/s/yTmccm0DDEWF0EJ3FW5xeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

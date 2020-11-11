@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T23:25:07+08:00</updated>
+  <updated>2020-11-11T20:22:46+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>算法系列：大规模视频直播中的关键算法</title>
+    <updated>2020-11-11T19:28:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/EB7lccvXhRvcxb7KNA_tGg</id>
+    <link href="https://mp.weixin.qq.com/s/EB7lccvXhRvcxb7KNA_tGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ICIP2020: JPEG Pleno图像编码技术</title>
     <updated>2020-11-10T20:36:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-31T19:37:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/iZF9lul_TqiHOZ13m8uVnw</id>
     <link href="https://mp.weixin.qq.com/s/iZF9lul_TqiHOZ13m8uVnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>创造立体视频</title>
-    <updated>2020-10-30T23:30:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/eeJpY_hHYgfuEUNjV3DPZQ</id>
-    <link href="https://mp.weixin.qq.com/s/eeJpY_hHYgfuEUNjV3DPZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

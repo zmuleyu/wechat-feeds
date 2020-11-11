@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T20:24:03+08:00</updated>
+  <updated>2020-11-11T20:24:30+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】名师详解凸优化、图神经网络、贝叶斯方法，扫清知识盲区，拿下大厂offer!</title>
+    <updated>2020-11-11T18:05:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/E4FeT497eH7U2EqdqJvKBQ</id>
+    <link href="https://mp.weixin.qq.com/s/E4FeT497eH7U2EqdqJvKBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【源头活水】Grad-CAM论文总结</title>
+    <updated>2020-11-11T18:05:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/6rY8gzO6_ILHRk0loChW6w</id>
+    <link href="https://mp.weixin.qq.com/s/6rY8gzO6_ILHRk0loChW6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【综述专栏】损失函数理解汇总，结合PyTorch和TensorFlow2</title>
     <updated>2020-11-10T18:18:24+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-03T18:53:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/c-x_SDimIpfgw9ZZ4jocMQ</id>
     <link href="https://mp.weixin.qq.com/s/c-x_SDimIpfgw9ZZ4jocMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】联邦学习：FedAvg 的 Pytorch 实现</title>
-    <updated>2020-11-03T18:53:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/xZNk3kgJ7tKlTVrL4V8V_g</id>
-    <link href="https://mp.weixin.qq.com/s/xZNk3kgJ7tKlTVrL4V8V_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI87×CRIPAC 异构网络挖掘专题</title>
-    <updated>2020-11-03T18:53:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/lKTJWBzMn-kPPw1g3QvhVQ</id>
-    <link href="https://mp.weixin.qq.com/s/lKTJWBzMn-kPPw1g3QvhVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

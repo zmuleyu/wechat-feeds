@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T01:16:14+08:00</updated>
+  <updated>2020-11-11T20:18:06+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>双 11 可以这样薅百度大脑的羊毛…</title>
+    <updated>2020-11-11T16:48:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/g5m50avGpe-N3c8vck16HA</id>
+    <link href="https://mp.weixin.qq.com/s/g5m50avGpe-N3c8vck16HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用 cv2 实现人脸检测</title>
+    <updated>2020-11-11T16:48:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/-XwCGJjNcofH8BR1NBHR1w</id>
+    <link href="https://mp.weixin.qq.com/s/-XwCGJjNcofH8BR1NBHR1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今年双11，Python开发者别漏了这几样</title>
     <updated>2020-11-10T23:00:51+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-11-01T21:45:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-01:/s/QZerXsHfE5dE0B-0MewHOg</id>
     <link href="https://mp.weixin.qq.com/s/QZerXsHfE5dE0B-0MewHOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Stack Overflow 热帖：如何用 Python 调用外部命令</title>
-    <updated>2020-10-31T21:51:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/4zVlh3C3VamGiC2dvP_GFw</id>
-    <link href="https://mp.weixin.qq.com/s/4zVlh3C3VamGiC2dvP_GFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T16:12:12+08:00</updated>
+  <updated>2020-11-11T20:14:02+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试过 200 人的经验，都在这里了</title>
+    <updated>2020-11-11T20:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/DOoVZXy8ipmHLQiH3oi5PA</id>
+    <link href="https://mp.weixin.qq.com/s/DOoVZXy8ipmHLQiH3oi5PA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 腾讯开源的，专为 API 而生的 JSON 网络传输协议以及基于这套协议实现的 ORM 库</title>
+    <updated>2020-11-11T20:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/zO8nR7T0rFN-Vs4DFeevRQ</id>
+    <link href="https://mp.weixin.qq.com/s/zO8nR7T0rFN-Vs4DFeevRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看 Kubernetes 源码，学习怎么用 Go 实现调度队列</title>
     <updated>2020-11-10T15:30:17+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-29T19:00:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/DkLGXoISBitoT-oLMfq8XA</id>
     <link href="https://mp.weixin.qq.com/s/DkLGXoISBitoT-oLMfq8XA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一篇教会你写 90% 的 Shell 脚本</title>
-    <updated>2020-10-28T17:20:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/rM7cwdXZFLHKEl0OcZwUQg</id>
-    <link href="https://mp.weixin.qq.com/s/rM7cwdXZFLHKEl0OcZwUQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>第 027 期「码农周刊 VIP 会员专属邮件周报」，请查收！</title>
-    <updated>2020-10-28T17:20:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/Oom-aUR4gbrH4HhFqdlnyA</id>
-    <link href="https://mp.weixin.qq.com/s/Oom-aUR4gbrH4HhFqdlnyA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

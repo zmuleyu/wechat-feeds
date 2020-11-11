@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T20:13:48+08:00</updated>
+  <updated>2020-11-11T20:13:15+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这些高阶的函数技术，你掌握了么</title>
+    <updated>2020-11-11T18:26:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/S6Xu-GITB8l1QfK5nFFRbQ</id>
+    <link href="https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-11-11T18:26:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/DBTeiWyXhr98-L-kt7N_Nw</id>
+    <link href="https://mp.weixin.qq.com/s/DBTeiWyXhr98-L-kt7N_Nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-11-11T18:26:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/uk-vr88PCOxe6H1GEIKRdg</id>
+    <link href="https://mp.weixin.qq.com/s/uk-vr88PCOxe6H1GEIKRdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用Vue3+TS重构百星websocket插件</title>
     <updated>2020-11-10T18:02:53+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-02T19:33:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/nX6F7iXX45biPBpZ6z1Zcw</id>
     <link href="https://mp.weixin.qq.com/s/nX6F7iXX45biPBpZ6z1Zcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-11-02T19:33:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/f7cclYmIgqEQmy1mkX2siw</id>
-    <link href="https://mp.weixin.qq.com/s/f7cclYmIgqEQmy1mkX2siw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 370 期：官方文档编写指南</title>
-    <updated>2020-10-30T17:53:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/cuzDxAhR9BEGwfWuMrHHHQ</id>
-    <link href="https://mp.weixin.qq.com/s/cuzDxAhR9BEGwfWuMrHHHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>读懂开源项目的思路和技巧</title>
-    <updated>2020-10-29T19:44:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/EiPKvNZgWlVr507pQH7jLw</id>
-    <link href="https://mp.weixin.qq.com/s/EiPKvNZgWlVr507pQH7jLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

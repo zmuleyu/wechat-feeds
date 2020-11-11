@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-08T20:31:19+08:00</updated>
+  <updated>2020-11-11T20:21:07+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【DevFest 2020】人工智能专家讲座与上手实操，落地前沿行业技术 | AI 专场</title>
+    <updated>2020-11-11T20:16:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/3jv9JCqDf9PnSpXpDCeFNA</id>
+    <link href="https://mp.weixin.qq.com/s/3jv9JCqDf9PnSpXpDCeFNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>[活动回顾] 实时音视频技术专场总结来啦！</title>
     <updated>2020-11-08T20:17:45+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-22T18:07:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/lG9c_JvfiRUXURQm9M_y6g</id>
     <link href="https://mp.weixin.qq.com/s/lG9c_JvfiRUXURQm9M_y6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【10月17日】GDG喊你线下面基来学习！</title>
-    <updated>2020-10-10T10:03:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/M_aWKsXzEXnadk0wI-SWIw</id>
-    <link href="https://mp.weixin.qq.com/s/M_aWKsXzEXnadk0wI-SWIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
