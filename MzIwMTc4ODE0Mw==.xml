@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T16:12:17+08:00</updated>
+  <updated>2020-11-11T13:23:24+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何获取高精度CV模型？快来试试百度EasyDL超大规模视觉预训练模型</title>
+    <updated>2020-11-11T13:07:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/wpqoY0Ppy7YRGeHcI51x9Q</id>
+    <link href="https://mp.weixin.qq.com/s/wpqoY0Ppy7YRGeHcI51x9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>将图卷积神经网络用于解码分子生成</title>
+    <updated>2020-11-11T13:07:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/5JdVA4ETQGcgvtwQbi5KmA</id>
+    <link href="https://mp.weixin.qq.com/s/5JdVA4ETQGcgvtwQbi5KmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 清华大学郑楚杰：知识增强对话生成中的差异感知知识选择</title>
+    <updated>2020-11-11T13:07:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/SG5vKsBUoA02pEhQwYWOkQ</id>
+    <link href="https://mp.weixin.qq.com/s/SG5vKsBUoA02pEhQwYWOkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>EMNLP 2020 | 基于解耦合的多关系图持续学习框架</title>
     <updated>2020-11-10T13:12:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-04T19:07:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/4s9j-u2607Uo9y3psPeFBg</id>
     <link href="https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 清华大学关健：利用自监督学习的开放端故事生成评价方法</title>
-    <updated>2020-11-04T19:07:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/RNKRguOolph3U2dJhB72Xg</id>
-    <link href="https://mp.weixin.qq.com/s/RNKRguOolph3U2dJhB72Xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百度工程师亲授CCF BDCI解题思路，15万大奖等你来拿</title>
-    <updated>2020-11-03T20:57:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/mhlzj9CENIYVrxJhfKxJCA</id>
-    <link href="https://mp.weixin.qq.com/s/mhlzj9CENIYVrxJhfKxJCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解凸优化、图神经网络、强化学习、贝叶斯方法等四大主题</title>
-    <updated>2020-11-03T20:57:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/suy1plehscR3JhIlfIUBuw</id>
-    <link href="https://mp.weixin.qq.com/s/suy1plehscR3JhIlfIUBuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

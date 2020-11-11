@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T11:20:05+08:00</updated>
+  <updated>2020-11-11T13:28:51+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“打工人”的双十一购物车里，唯独没有5折房</title>
+    <updated>2020-11-11T12:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/GRnPSWyhSZ0SmONH1wW58A</id>
+    <link href="https://mp.weixin.qq.com/s/GRnPSWyhSZ0SmONH1wW58A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java 并不是构建微服务平台的最佳选择</title>
+    <updated>2020-11-11T12:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/6GuQi72kFnZySBk4wBgecg</id>
+    <link href="https://mp.weixin.qq.com/s/6GuQi72kFnZySBk4wBgecg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>降本增效，一线互联网公司的云原生实践 ｜ QCon</title>
+    <updated>2020-11-11T12:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/kvDNP_BEg2YDEggSyEhhGQ</id>
+    <link href="https://mp.weixin.qq.com/s/kvDNP_BEg2YDEggSyEhhGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>听说今年双十一，程序员都买了它</title>
+    <updated>2020-11-11T12:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/lGf4DS2ZydG7bAOzgrzj9Q</id>
+    <link href="https://mp.weixin.qq.com/s/lGf4DS2ZydG7bAOzgrzj9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>低代码 vs 模型驱动，它们之间到底是什么关系？</title>
+    <updated>2020-11-11T12:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/7Ce31odoVdIPHOezWLBxug</id>
+    <link href="https://mp.weixin.qq.com/s/7Ce31odoVdIPHOezWLBxug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>未来 5 年将是 Go 语言的天下 | 极客大学</title>
     <updated>2020-11-09T21:43:33+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-07T09:43:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/32BwbNtK3z7_sk0EuX7Dxw</id>
     <link href="https://mp.weixin.qq.com/s/32BwbNtK3z7_sk0EuX7Dxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>gRPC 长连接在微服务业务系统中的实践</title>
-    <updated>2020-11-07T09:43:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/LKGzc6XBAWYdskVQQJFLHw</id>
-    <link href="https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>报！大赛最新赛况已出炉，特色应用赛道初赛进入倒计时｜Q推荐</title>
-    <updated>2020-11-07T09:43:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/OT3Jq6NrcEQ1iJjQPlD5lA</id>
-    <link href="https://mp.weixin.qq.com/s/OT3Jq6NrcEQ1iJjQPlD5lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>精读文章：高级软件工程师成长秘诀</title>
-    <updated>2020-11-07T09:43:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/hiRMgOAZQEftUecqYvYr2Q</id>
-    <link href="https://mp.weixin.qq.com/s/hiRMgOAZQEftUecqYvYr2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>十五年后，重构一个“在线的腾讯”</title>
-    <updated>2020-11-06T11:32:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/vNvSkqGuHUS5BNS6ikBjkw</id>
-    <link href="https://mp.weixin.qq.com/s/vNvSkqGuHUS5BNS6ikBjkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从 Angular 转到 React，网易严选的前端工程化实践</title>
-    <updated>2020-11-06T11:32:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/6NBaHzMtTCmEk3SKJQDTUQ</id>
-    <link href="https://mp.weixin.qq.com/s/6NBaHzMtTCmEk3SKJQDTUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
