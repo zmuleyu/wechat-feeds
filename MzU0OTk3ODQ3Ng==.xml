@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T20:26:05+08:00</updated>
+  <updated>2020-11-11T11:27:35+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>亿级流量高并发场景下，如何保证缓存与数据库的双写一致性？</title>
+    <updated>2020-11-10T16:04:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/-EErLaPPbO9gItIzefjTuw</id>
+    <link href="https://mp.weixin.qq.com/s/-EErLaPPbO9gItIzefjTuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看完这篇还不懂高并发中的线程与线程池，你来打我（20张图深度剖析）)</title>
     <updated>2020-11-10T15:48:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-19T20:40:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/TZoqm7epeIETCkOTbDVAOg</id>
     <link href="https://mp.weixin.qq.com/s/TZoqm7epeIETCkOTbDVAOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一整套线上故障排查技巧，爱了！</title>
-    <updated>2020-10-15T11:49:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/znVGpJhtA52UKiekHWqD3w</id>
-    <link href="https://mp.weixin.qq.com/s/znVGpJhtA52UKiekHWqD3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

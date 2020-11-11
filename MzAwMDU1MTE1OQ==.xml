@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T16:20:43+08:00</updated>
+  <updated>2020-11-11T11:24:49+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>越来越复杂，为什么是中台？</title>
+    <updated>2020-11-10T22:34:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/902mLsl17r6ut3qRjvZAtg</id>
+    <link href="https://mp.weixin.qq.com/s/902mLsl17r6ut3qRjvZAtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何避免成为一个微观管理者</title>
     <updated>2020-11-10T15:12:22+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-31T09:18:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/QXhTLbSAdySylAOy8h_yzA</id>
     <link href="https://mp.weixin.qq.com/s/QXhTLbSAdySylAOy8h_yzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>细说那些让公司网站瘫痪的SQL</title>
-    <updated>2020-10-30T09:30:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/JotT0rxDx174Jzje3d2K-A</id>
-    <link href="https://mp.weixin.qq.com/s/JotT0rxDx174Jzje3d2K-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

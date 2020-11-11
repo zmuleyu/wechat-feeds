@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>KoolShare | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T11:26:09+08:00</updated>
+  <updated>2020-11-11T11:24:59+08:00</updated>
   <subtitle>向论坛会员推送精华贴，最新科技新闻</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Synology 群晖 DS1621+ 六盘位NAS 开箱拆解评测</title>
+    <updated>2020-11-10T10:34:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/UU-13x8lWeWGnFQZOYo8FA</id>
+    <link href="https://mp.weixin.qq.com/s/UU-13x8lWeWGnFQZOYo8FA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>猛禽的全面进化——ASUS 华硕 ROG STRIX RTX3070 O8G GAMING评测</title>
     <updated>2020-11-10T10:03:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-28T14:05:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-28:/s/fkWchjGctZ9EavARQYpf-Q</id>
     <link href="https://mp.weixin.qq.com/s/fkWchjGctZ9EavARQYpf-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>九零再临——ASUS 华硕 TUF RTX 3090 GAMING 24G评测</title>
-    <updated>2020-09-25T09:12:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/f7F73PA435S7DlOTjMVgVg</id>
-    <link href="https://mp.weixin.qq.com/s/f7F73PA435S7DlOTjMVgVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

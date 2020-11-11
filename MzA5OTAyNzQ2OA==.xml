@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T11:28:45+08:00</updated>
+  <updated>2020-11-11T11:27:19+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes集群在企业内部多租户共享场景下的管理</title>
+    <updated>2020-11-11T07:38:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/XaueDJcL-rEAe904mQk1Rw</id>
+    <link href="https://mp.weixin.qq.com/s/XaueDJcL-rEAe904mQk1Rw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2020-11-11T07:38:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/l5QCjFK1F_n1-eOvTnUhHQ</id>
+    <link href="https://mp.weixin.qq.com/s/l5QCjFK1F_n1-eOvTnUhHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linkerd 2.9发布：全面支持mTLS与ARM！</title>
     <updated>2020-11-10T09:43:35+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-02T07:30:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/cBdRYbNx8twOS-uiH-5-jQ</id>
     <link href="https://mp.weixin.qq.com/s/cBdRYbNx8twOS-uiH-5-jQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Loki迎来2.0重大更新，LogQL语法大幅增强​</title>
-    <updated>2020-11-01T08:20:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/yCmT8v6VhGCUR3oerCrsnw</id>
-    <link href="https://mp.weixin.qq.com/s/yCmT8v6VhGCUR3oerCrsnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | Kubernetes集群在企业内部多租户共享场景下的管理</title>
-    <updated>2020-11-01T08:20:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/JdGWrQ6VCPxXjnROM-TE3g</id>
-    <link href="https://mp.weixin.qq.com/s/JdGWrQ6VCPxXjnROM-TE3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
