@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T20:13:20+08:00</updated>
+  <updated>2020-11-12T01:10:29+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>HackerOne：中国白帽子的收入增长幅度最大</title>
+    <updated>2020-11-11T22:46:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/yvi1MUBIsMc5T8Zl5N5mwA</id>
+    <link href="https://mp.weixin.qq.com/s/yvi1MUBIsMc5T8Zl5N5mwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GravityRAT间谍软件分析</title>
+    <updated>2020-11-11T22:46:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/oIxfpKixQX1_3fjIZJz-mw</id>
+    <link href="https://mp.weixin.qq.com/s/oIxfpKixQX1_3fjIZJz-mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用Arthas进行JVM取证</title>
+    <updated>2020-11-11T22:46:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/GWhApFzmBldB-WG98kcdLQ</id>
+    <link href="https://mp.weixin.qq.com/s/GWhApFzmBldB-WG98kcdLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Bpytop：一款功能强大的LinuxOSXFreeBSD资源监控工具</title>
+    <updated>2020-11-11T22:46:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/B-IlxmXAP7ge3U4HulznxA</id>
+    <link href="https://mp.weixin.qq.com/s/B-IlxmXAP7ge3U4HulznxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>台湾笔记本电脑制造商仁宝遭勒索，赎金高达1700万美元</title>
     <updated>2020-11-10T18:01:21+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-07T16:59:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/cb7__ZWaBuyjFRCRv45SyQ</id>
     <link href="https://mp.weixin.qq.com/s/cb7__ZWaBuyjFRCRv45SyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FreeBuf「怀旧版皮肤」即将上线，一键重返青葱岁月</title>
-    <updated>2020-11-06T17:37:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/arrjjmrrRIp5d2B1r9-0zQ</id>
-    <link href="https://mp.weixin.qq.com/s/arrjjmrrRIp5d2B1r9-0zQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何恢复被MaMoCrypt勒索软件加密的数据</title>
-    <updated>2020-11-06T17:37:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/TyMCTM_BZGPcW7hG6PUhiw</id>
-    <link href="https://mp.weixin.qq.com/s/TyMCTM_BZGPcW7hG6PUhiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>溯源复现SiteServer5疑似在野0day</title>
-    <updated>2020-11-06T17:37:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/nis0y8qRIfaBde7ul50sMA</id>
-    <link href="https://mp.weixin.qq.com/s/nis0y8qRIfaBde7ul50sMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>o365enum：一款功能强大的Office 365用户枚举工具</title>
-    <updated>2020-11-06T17:37:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/bOw6vPPeBehISyRLzFXbUg</id>
-    <link href="https://mp.weixin.qq.com/s/bOw6vPPeBehISyRLzFXbUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

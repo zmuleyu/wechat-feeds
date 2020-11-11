@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-05T11:19:39+08:00</updated>
+  <updated>2020-11-12T01:10:11+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>爬虫实战:获取一位技术大牛的博客</title>
+    <updated>2020-11-11T23:31:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/PMwHhzrwRy4QumxRk0h7aw</id>
+    <link href="https://mp.weixin.qq.com/s/PMwHhzrwRy4QumxRk0h7aw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>双11用Python喂猫解放双手</title>
     <updated>2020-10-27T11:59:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-13T14:06:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/nDkt-znw1iDygEdVgkLsXg</id>
     <link href="https://mp.weixin.qq.com/s/nDkt-znw1iDygEdVgkLsXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一款由Python开发的系统监控工具</title>
-    <updated>2020-09-12T09:25:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-12:/s/CNeGkoySrRWZE8EE6PeMHQ</id>
-    <link href="https://mp.weixin.qq.com/s/CNeGkoySrRWZE8EE6PeMHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
