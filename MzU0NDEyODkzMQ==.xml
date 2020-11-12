@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T23:21:05+08:00</updated>
+  <updated>2020-11-12T23:22:09+08:00</updated>
   <subtitle>传播新技术，关注云计算、雾计算、边缘计算、量子计算、物联网、5G、人工智能、大数据、虚拟化、安全、区块链、DevOps、存储、SDN、职场、招聘等领域，分享资讯、经验、技术、坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 3年生产中我们所学到的东西</title>
+    <updated>2020-11-12T21:39:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/E8vX55Ej0xs_3WzUCcajXQ</id>
+    <link href="https://mp.weixin.qq.com/s/E8vX55Ej0xs_3WzUCcajXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工信部：将有序对外放开数据中心、云等增值电信业务</title>
+    <updated>2020-11-12T21:39:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/fCKi2_WgizxkS4YljBECdg</id>
+    <link href="https://mp.weixin.qq.com/s/fCKi2_WgizxkS4YljBECdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>量子计算先驱西拉克：量子计算过火了，量子传感很快会有回报</title>
+    <updated>2020-11-12T21:39:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/OH0QquSLbZVr34iYp9BZDw</id>
+    <link href="https://mp.weixin.qq.com/s/OH0QquSLbZVr34iYp9BZDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国产量子通话手机有望在年底或明年初推向民用市场：可选择 “加密”或 “普通”通话</title>
+    <updated>2020-11-12T21:39:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/OTk8MkYNUt7afVHJ0o2WMQ</id>
+    <link href="https://mp.weixin.qq.com/s/OTk8MkYNUt7afVHJ0o2WMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>kubernetes网络与防火墙联动方案探索</title>
     <updated>2020-11-11T21:34:59+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-06T21:00:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/QMYGPXhl6WvuRsi5OzsXsQ</id>
     <link href="https://mp.weixin.qq.com/s/QMYGPXhl6WvuRsi5OzsXsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为在欧洲经营为区域创造22万多个就业机会，164亿欧元的经济收益</title>
-    <updated>2020-11-06T21:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/bPiscgNooWd7KKIRHeEJTg</id>
-    <link href="https://mp.weixin.qq.com/s/bPiscgNooWd7KKIRHeEJTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2万字长文：Kubernetes云原生开源分布式存储</title>
-    <updated>2020-11-05T21:55:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/YLOJtqW7BePxjgSTm2A51Q</id>
-    <link href="https://mp.weixin.qq.com/s/YLOJtqW7BePxjgSTm2A51Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里云 2020Q2 营收 149 亿元、劲增60%</title>
-    <updated>2020-11-05T21:55:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/-2LwfH47o9FoIlHfVddnkA</id>
-    <link href="https://mp.weixin.qq.com/s/-2LwfH47o9FoIlHfVddnkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5680万元，金山云中标赤壁市健康大数据中心建设项目</title>
-    <updated>2020-11-05T21:55:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/3u5KFYeJlBIKd8sSre518Q</id>
-    <link href="https://mp.weixin.qq.com/s/3u5KFYeJlBIKd8sSre518Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

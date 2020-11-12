@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T23:15:35+08:00</updated>
+  <updated>2020-11-12T23:15:42+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Seurat Weekly NO.2 || 我该如何取子集？</title>
+    <updated>2020-11-12T21:24:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CcphkXbODRycEyXQjComdg</id>
+    <link href="https://mp.weixin.qq.com/s/CcphkXbODRycEyXQjComdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>cytof数据资源介绍（文末有交流群）</title>
+    <updated>2020-11-12T21:24:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CE6akGSuMzXrOeO_8hJRVA</id>
+    <link href="https://mp.weixin.qq.com/s/CE6akGSuMzXrOeO_8hJRVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何用深度学习研究组学？</title>
     <updated>2020-11-11T19:54:03+08:00</updated>
@@ -68,27 +82,6 @@
     <updated>2020-11-03T21:51:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/vIFJaM69vp0eSUj9KekeKg</id>
     <link href="https://mp.weixin.qq.com/s/vIFJaM69vp0eSUj9KekeKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据挖掘（GEO,TCGA,单细胞）第8期（线上直播3周，马拉松式陪伴，带你入门）</title>
-    <updated>2020-11-02T13:21:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/tqpjGmIbNGodbyDKOAx8zA</id>
-    <link href="https://mp.weixin.qq.com/s/tqpjGmIbNGodbyDKOAx8zA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>生信爆款入门-第10期（线上直播4周，马拉松式陪伴，带你入门）</title>
-    <updated>2020-11-02T13:21:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/SGnV8bmPTluLl5pIDz7Svw</id>
-    <link href="https://mp.weixin.qq.com/s/SGnV8bmPTluLl5pIDz7Svw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自行入门R语言的故事（一波三折）</title>
-    <updated>2020-11-02T13:21:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/m4vHfc4yKzoWo8DICaRtCg</id>
-    <link href="https://mp.weixin.qq.com/s/m4vHfc4yKzoWo8DICaRtCg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T23:24:18+08:00</updated>
+  <updated>2020-11-12T23:25:54+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】 2020-11-12 探索 Rust 编译器的 PGO</title>
+    <updated>2020-11-12T22:51:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/ze5RiQzNZGogMalIjhyLUw</id>
+    <link href="https://mp.weixin.qq.com/s/ze5RiQzNZGogMalIjhyLUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-11-11 -「InfluxDB IOx」未来会用 Rust 和 Arrow 构建内核</title>
+    <updated>2020-11-12T22:51:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/lH9cdxtFdCRylqS9wCfS9Q</id>
+    <link href="https://mp.weixin.qq.com/s/lH9cdxtFdCRylqS9wCfS9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【大家的项目】Tokio 中文文档</title>
     <updated>2020-11-11T21:38:05+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-03T23:19:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/p7BO-T4v-CZip8wEegS4zQ</id>
     <link href="https://mp.weixin.qq.com/s/p7BO-T4v-CZip8wEegS4zQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-02 arc-swap 即将进入 1.0 稳定版本</title>
-    <updated>2020-11-02T22:46:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/vo4G6gFXwi-k_dSqeBaFkA</id>
-    <link href="https://mp.weixin.qq.com/s/vo4G6gFXwi-k_dSqeBaFkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】用Rust写了个git commit格式化的工具</title>
-    <updated>2020-11-02T22:46:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/BEuNMHqWWvmC9NfEv6oOCQ</id>
-    <link href="https://mp.weixin.qq.com/s/BEuNMHqWWvmC9NfEv6oOCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

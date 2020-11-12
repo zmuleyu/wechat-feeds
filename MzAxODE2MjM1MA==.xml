@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T13:23:42+08:00</updated>
+  <updated>2020-11-12T23:12:57+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Facebook 新一代 React 状态管理库 Recoil</title>
+    <updated>2020-11-12T22:05:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/D867pstcuk4TszMn3zRJRw</id>
+    <link href="https://mp.weixin.qq.com/s/D867pstcuk4TszMn3zRJRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>能读 React 源码的人，很吃香！</title>
     <updated>2020-11-11T00:57:22+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-03T18:57:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/j6WXY43E39mUo8EWstB8aA</id>
     <link href="https://mp.weixin.qq.com/s/j6WXY43E39mUo8EWstB8aA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我写 React 的常用套路</title>
-    <updated>2020-11-01T21:53:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/lbXKCo_jNxRuYsACFqzt3w</id>
-    <link href="https://mp.weixin.qq.com/s/lbXKCo_jNxRuYsACFqzt3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊如何设计组件</title>
-    <updated>2020-11-01T21:53:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/_nXuFiuv6-HhN-Vkg6OkRw</id>
-    <link href="https://mp.weixin.qq.com/s/_nXuFiuv6-HhN-Vkg6OkRw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

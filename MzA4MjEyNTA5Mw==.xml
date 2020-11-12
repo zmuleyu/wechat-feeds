@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T20:18:06+08:00</updated>
+  <updated>2020-11-12T23:15:46+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何 Import 自定义的 Python 模块?</title>
+    <updated>2020-11-12T21:09:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/w754jZeFWBjm_WSc2xMCBw</id>
+    <link href="https://mp.weixin.qq.com/s/w754jZeFWBjm_WSc2xMCBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>双 11 可以这样薅百度大脑的羊毛…</title>
     <updated>2020-11-11T16:48:14+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-11-01T22:45:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-01:/s/0zkvGeTrpmW-UgeMJiR_Gg</id>
     <link href="https://mp.weixin.qq.com/s/0zkvGeTrpmW-UgeMJiR_Gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>python管理文件神器 os.walk</title>
-    <updated>2020-11-01T21:45:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/QZerXsHfE5dE0B-0MewHOg</id>
-    <link href="https://mp.weixin.qq.com/s/QZerXsHfE5dE0B-0MewHOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
