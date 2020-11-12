@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T23:28:27+08:00</updated>
+  <updated>2020-11-12T20:26:24+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenYurt 深度解读：如何构建 Kubernetes 原生云边高效协同网络？</title>
+    <updated>2020-11-12T18:20:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/odCuq_A7t_wv2BBFE2w28A</id>
+    <link href="https://mp.weixin.qq.com/s/odCuq_A7t_wv2BBFE2w28A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>100元扫货阿里云是怎样的体验？</title>
     <updated>2020-11-10T20:34:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-30T17:05:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/5Va9uADxU_qtkxw9PeS2Qw</id>
     <link href="https://mp.weixin.qq.com/s/5Va9uADxU_qtkxw9PeS2Qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何通过 Serverless 技术降低微服务应用资源成本？</title>
-    <updated>2020-10-29T18:02:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/YadfxG8kXVO0M5pQgxcJBw</id>
-    <link href="https://mp.weixin.qq.com/s/YadfxG8kXVO0M5pQgxcJBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

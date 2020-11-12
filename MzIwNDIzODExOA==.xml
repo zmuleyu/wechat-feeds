@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-09T13:23:54+08:00</updated>
+  <updated>2020-11-12T20:18:35+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Nginx 携新方案进军服务网格</title>
+    <updated>2020-11-12T14:56:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/WI3AT6kCOXFsSd9f7s97wQ</id>
+    <link href="https://mp.weixin.qq.com/s/WI3AT6kCOXFsSd9f7s97wQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Envoy 官方文档翻译工作组成员招募中</title>
     <updated>2020-11-09T12:04:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-24T10:03:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/3H1uA_OntpDUxoiAGR-U0g</id>
     <link href="https://mp.weixin.qq.com/s/3H1uA_OntpDUxoiAGR-U0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播预告 | 基于 Apache APISIX 的全流量 API 网关</title>
-    <updated>2020-09-16T16:13:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/O4EO73i_yqylwUOT8ggZhA</id>
-    <link href="https://mp.weixin.qq.com/s/O4EO73i_yqylwUOT8ggZhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

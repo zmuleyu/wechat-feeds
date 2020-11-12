@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-10T20:25:56+08:00</updated>
+  <updated>2020-11-12T20:26:03+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>半小时搞懂 HTTP、HTTPS和HTTP2</title>
+    <updated>2020-11-12T16:58:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/TZxw9DCL8JtDFBi5v3MdNg</id>
+    <link href="https://mp.weixin.qq.com/s/TZxw9DCL8JtDFBi5v3MdNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>技术专题第七期 |万物皆可 Serverless</title>
+    <updated>2020-11-12T16:58:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/mfrzUCe0q9sYcwHIRW5vLQ</id>
+    <link href="https://mp.weixin.qq.com/s/mfrzUCe0q9sYcwHIRW5vLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端性能优化 24 条建议（2020）</title>
     <updated>2020-11-10T19:04:12+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-09-29T19:05:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/5VK4_iP71UzFMw4JxetIVA</id>
     <link href="https://mp.weixin.qq.com/s/5VK4_iP71UzFMw4JxetIVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基础篇：深入解析JAVA反射机制</title>
-    <updated>2020-09-28T18:28:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/Linark4r_J0RCJzpP3FiNA</id>
-    <link href="https://mp.weixin.qq.com/s/Linark4r_J0RCJzpP3FiNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>作为前端，我对业务的一点理解</title>
-    <updated>2020-09-28T18:28:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/eHAPnRniqPznHzmVeNN4Og</id>
-    <link href="https://mp.weixin.qq.com/s/eHAPnRniqPznHzmVeNN4Og" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
