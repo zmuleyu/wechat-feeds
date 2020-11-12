@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T11:12:25+08:00</updated>
+  <updated>2020-11-12T11:10:20+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软宣布停止支持史上最惨Win10版本</title>
+    <updated>2020-11-11T23:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/Su4ARwXsSlhP5bN5fI0WBg</id>
+    <link href="https://mp.weixin.qq.com/s/Su4ARwXsSlhP5bN5fI0WBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文详解微服务架构，看这篇就够了！</title>
+    <updated>2020-11-11T23:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/5TsLlbKrqJGrNvuU7Q1f9Q</id>
+    <link href="https://mp.weixin.qq.com/s/5TsLlbKrqJGrNvuU7Q1f9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SQL 查找是否&#34;存在&#34;，别再 count 了，很耗费时间的！</title>
+    <updated>2020-11-11T23:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/fIDU_a56YNi4UttfR8TP5A</id>
+    <link href="https://mp.weixin.qq.com/s/fIDU_a56YNi4UttfR8TP5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java 中的 BigDecimal 你了解多少？</title>
+    <updated>2020-11-11T23:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/WlgOlWNpzWJ-uSQKRvzTrQ</id>
+    <link href="https://mp.weixin.qq.com/s/WlgOlWNpzWJ-uSQKRvzTrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一种新的架构设计思路，用户行为驱动开发</title>
+    <updated>2020-11-11T23:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/YvxePTsAY68TVDhqPpSvvA</id>
+    <link href="https://mp.weixin.qq.com/s/YvxePTsAY68TVDhqPpSvvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何成为技术领域 KOL？阿里技术专家告诉你</title>
     <updated>2020-11-10T22:59:44+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-08T23:00:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/5wRPyAsGS6dFPg8Hgi5l_Q</id>
     <link href="https://mp.weixin.qq.com/s/5wRPyAsGS6dFPg8Hgi5l_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>请立刻弃用 Notepad++！ 还有 5 款更厉害的编辑器等你选择！</title>
-    <updated>2020-11-07T23:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/bYbgAirYIhX52Bxmi_lYtg</id>
-    <link href="https://mp.weixin.qq.com/s/bYbgAirYIhX52Bxmi_lYtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊订单系统的设计？看这篇就够了！</title>
-    <updated>2020-11-07T23:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/u70q1Sq5KvyN7eWIkeuT1A</id>
-    <link href="https://mp.weixin.qq.com/s/u70q1Sq5KvyN7eWIkeuT1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ZooKeeper的基本原理，看了都说好！</title>
-    <updated>2020-11-07T23:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/D7vTQitsXC_Zuaj4L3ysCQ</id>
-    <link href="https://mp.weixin.qq.com/s/D7vTQitsXC_Zuaj4L3ysCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Edge浏览器又上线新功能！可并排显示两个页面</title>
-    <updated>2020-11-07T23:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/IP_PoPXQCIsbzeugSvpPIQ</id>
-    <link href="https://mp.weixin.qq.com/s/IP_PoPXQCIsbzeugSvpPIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux之iptables端口转发：外网访问内网</title>
-    <updated>2020-11-07T23:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/z1BoZ3SVk9MkfGb41QU04w</id>
-    <link href="https://mp.weixin.qq.com/s/z1BoZ3SVk9MkfGb41QU04w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T11:27:35+08:00</updated>
+  <updated>2020-11-12T11:24:32+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【非广告】支撑百万连接的系统，如何设计其高并发架构？</title>
+    <updated>2020-11-11T18:18:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/ahG72-CBrREQ5PL0q3XxKQ</id>
+    <link href="https://mp.weixin.qq.com/s/ahG72-CBrREQ5PL0q3XxKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>亿级流量高并发场景下，如何保证缓存与数据库的双写一致性？</title>
     <updated>2020-11-10T16:04:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-22T10:29:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/z0DU5ef7tQnsPVjxplXirw</id>
     <link href="https://mp.weixin.qq.com/s/z0DU5ef7tQnsPVjxplXirw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5个方案告诉你：高并发下先操作数据库还是先操作缓存？</title>
-    <updated>2020-10-19T20:40:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/TZoqm7epeIETCkOTbDVAOg</id>
-    <link href="https://mp.weixin.qq.com/s/TZoqm7epeIETCkOTbDVAOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

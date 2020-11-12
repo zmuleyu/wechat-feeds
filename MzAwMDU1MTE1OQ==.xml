@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T11:24:49+08:00</updated>
+  <updated>2020-11-12T11:22:00+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>泛型和元编程的模型：Java, Go, Rust, Swift, D等</title>
+    <updated>2020-11-11T23:20:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/hX4NXK-jPCcNvhLUoTaKGw</id>
+    <link href="https://mp.weixin.qq.com/s/hX4NXK-jPCcNvhLUoTaKGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>越来越复杂，为什么是中台？</title>
     <updated>2020-11-10T22:34:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-31T13:11:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/Heu97y98UzRutgvYMGKa3w</id>
     <link href="https://mp.weixin.qq.com/s/Heu97y98UzRutgvYMGKa3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>0202年了，你还没有准确抓住云计算时代的技术风向标？</title>
-    <updated>2020-10-31T09:18:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/QXhTLbSAdySylAOy8h_yzA</id>
-    <link href="https://mp.weixin.qq.com/s/QXhTLbSAdySylAOy8h_yzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
