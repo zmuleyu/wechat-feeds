@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T23:19:39+08:00</updated>
+  <updated>2020-11-13T11:21:24+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10小时，就能吃透Kafka源码？</title>
+    <updated>2020-11-12T23:35:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/qu9Umq3gUoS75gO62P-KaQ</id>
+    <link href="https://mp.weixin.qq.com/s/qu9Umq3gUoS75gO62P-KaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试管：用了HTTPS就安全了吗？HTTPS 会被抓包吗？</title>
+    <updated>2020-11-12T23:35:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/YmoB882HiL5eIanMjtHF3w</id>
+    <link href="https://mp.weixin.qq.com/s/YmoB882HiL5eIanMjtHF3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>收藏：DPDK内存基本概念</title>
     <updated>2020-11-12T21:59:14+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-11-04T00:14:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/Rcxs1u_yYkpPjd4QR0ZhdQ</id>
     <link href="https://mp.weixin.qq.com/s/Rcxs1u_yYkpPjd4QR0ZhdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构 | 微服务架构下如何解耦，对于已经紧耦合下如何重构？</title>
-    <updated>2020-11-03T02:29:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/-hqE4I1r61v68rPrTytPSQ</id>
-    <link href="https://mp.weixin.qq.com/s/-hqE4I1r61v68rPrTytPSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T11:23:17+08:00</updated>
+  <updated>2020-11-13T11:24:19+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ZooKeeper集群“脑裂”问题处理大全</title>
+    <updated>2020-11-13T07:32:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/Jg01zDCNVR5bw0WDbyMxWQ</id>
+    <link href="https://mp.weixin.qq.com/s/Jg01zDCNVR5bw0WDbyMxWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 最后3个名额</title>
+    <updated>2020-11-13T07:32:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/m-8QyR4Wmldz3jTyCi5S7w</id>
+    <link href="https://mp.weixin.qq.com/s/m-8QyR4Wmldz3jTyCi5S7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes管理员认证（CKA）培训 | 下周开课</title>
     <updated>2020-11-12T07:57:20+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-04T07:46:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/SQFSRyBQp3FMehKu7PpKXQ</id>
     <link href="https://mp.weixin.qq.com/s/SQFSRyBQp3FMehKu7PpKXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
-    <updated>2020-11-03T07:36:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/l9EmElxD7L38JqxSzev4lQ</id>
-    <link href="https://mp.weixin.qq.com/s/l9EmElxD7L38JqxSzev4lQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Prometheus 理论与实战培训</title>
-    <updated>2020-11-03T07:36:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Q5Xi3lYmMBvyz47lGNSa-w</id>
-    <link href="https://mp.weixin.qq.com/s/Q5Xi3lYmMBvyz47lGNSa-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

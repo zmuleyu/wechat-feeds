@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T11:09:02+08:00</updated>
+  <updated>2020-11-13T11:09:12+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软发布VS Code Jupyter插件！不止Python！多语言的Jupyter Notebook支持来了！</title>
+    <updated>2020-11-12T23:21:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CdLmk43RDD7qf3iiJMkJUQ</id>
+    <link href="https://mp.weixin.qq.com/s/CdLmk43RDD7qf3iiJMkJUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>效率倍增！5款超级好用的Chrome插件</title>
     <updated>2020-11-11T20:08:59+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-11-03T19:54:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/Bg2jUlCo_otvdQSvqDzNSA</id>
     <link href="https://mp.weixin.qq.com/s/Bg2jUlCo_otvdQSvqDzNSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>教完Python，微软又推出JS免费在线教程</title>
-    <updated>2020-11-02T20:21:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/bzqqzgJIhTXbezGzR8xv3Q</id>
-    <link href="https://mp.weixin.qq.com/s/bzqqzgJIhTXbezGzR8xv3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>哟！IntelliJ 也有书啦！</title>
-    <updated>2020-11-02T20:21:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/nbugHaU_fD67Iy6V9PMn5w</id>
-    <link href="https://mp.weixin.qq.com/s/nbugHaU_fD67Iy6V9PMn5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
