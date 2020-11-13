@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱奇艺技术产品团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-06T20:19:22+08:00</updated>
+  <updated>2020-11-13T20:23:41+08:00</updated>
   <subtitle>爱奇艺的技术产品团队</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>服务注册中心 | 记一次Consul故障分析与优化</title>
+    <updated>2020-11-13T18:14:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/fJ22y7MQvkcNJkiAnMwcUg</id>
+    <link href="https://mp.weixin.qq.com/s/fJ22y7MQvkcNJkiAnMwcUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>爱奇艺数据仓库平台和服务建设实践</title>
+    <updated>2020-11-13T18:14:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/BsBWm_sXEzRXF_pb7yY_6Q</id>
+    <link href="https://mp.weixin.qq.com/s/BsBWm_sXEzRXF_pb7yY_6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TensorFlow Ranking框架在海外推荐业务中的实践与应用</title>
     <updated>2020-11-06T18:22:36+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-09-18T18:50:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/HF2xyVXueYeFg2da0iSk3g</id>
     <link href="https://mp.weixin.qq.com/s/HF2xyVXueYeFg2da0iSk3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>攻防大战的背后——矛盾双修</title>
-    <updated>2020-09-11T18:49:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/qBjrzBueD3pOz8anmrQNqg</id>
-    <link href="https://mp.weixin.qq.com/s/qBjrzBueD3pOz8anmrQNqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>技术赋能广告策略全升级，爱奇艺开启框内广告营销新篇章</title>
-    <updated>2020-09-11T18:49:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-11:/s/Uuk_iwA4l-MCskwLj-ucEw</id>
-    <link href="https://mp.weixin.qq.com/s/Uuk_iwA4l-MCskwLj-ucEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T20:26:24+08:00</updated>
+  <updated>2020-11-13T20:29:09+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春</title>
+    <updated>2020-11-13T18:10:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/fBy3lEOyujKj8v9bvNORtQ</id>
+    <link href="https://mp.weixin.qq.com/s/fBy3lEOyujKj8v9bvNORtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OpenYurt 深度解读：如何构建 Kubernetes 原生云边高效协同网络？</title>
     <updated>2020-11-12T18:20:41+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-30T17:26:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/Y_GFFnEs9agnTBMeuYp7QA</id>
     <link href="https://mp.weixin.qq.com/s/Y_GFFnEs9agnTBMeuYp7QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度 | 容器规模化落地企业的最佳途径</title>
-    <updated>2020-10-30T17:05:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/5Va9uADxU_qtkxw9PeS2Qw</id>
-    <link href="https://mp.weixin.qq.com/s/5Va9uADxU_qtkxw9PeS2Qw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

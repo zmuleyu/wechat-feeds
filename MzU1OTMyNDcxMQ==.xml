@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T20:18:13+08:00</updated>
+  <updated>2020-11-13T20:19:32+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>连续六天： 2020 Google 开发者大会官网集结！</title>
+    <updated>2020-11-13T15:56:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/C91fyOIfGj0NRAXF00Tekg</id>
+    <link href="https://mp.weixin.qq.com/s/C91fyOIfGj0NRAXF00Tekg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>案例分享 | TensorFlow Ranking 框架在爱奇艺海外推荐业务中的实践与应用</title>
     <updated>2020-11-12T18:44:30+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-30T18:37:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/_CbvUYBrU52v02vK2M-p4w</id>
     <link href="https://mp.weixin.qq.com/s/_CbvUYBrU52v02vK2M-p4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rigging.js: 让 3D 角色动起来的 react.js 开源应用</title>
-    <updated>2020-10-29T17:28:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/arTxR2RD1w6m3y2O1Uw0Zg</id>
-    <link href="https://mp.weixin.qq.com/s/arTxR2RD1w6m3y2O1Uw0Zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
