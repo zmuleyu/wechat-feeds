@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T23:21:24+08:00</updated>
+  <updated>2020-11-13T23:22:26+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用tcpdump查看原始数据包</title>
+    <updated>2020-11-13T20:59:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/qDuafvadlYQFPV-EjzLvDQ</id>
+    <link href="https://mp.weixin.qq.com/s/qDuafvadlYQFPV-EjzLvDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>赢战11.11，我们用数据说话！</title>
     <updated>2020-11-12T20:33:34+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-11-04T21:25:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/cOTEAUM8KkX4TZyEcI3ZCA</id>
     <link href="https://mp.weixin.qq.com/s/cOTEAUM8KkX4TZyEcI3ZCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 内核的故事</title>
-    <updated>2020-11-03T21:10:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/_uy2H-8LLQm1Unv7PEwQQA</id>
-    <link href="https://mp.weixin.qq.com/s/_uy2H-8LLQm1Unv7PEwQQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>做客腾讯直播间：洞悉技术本质，奔往技术“工程师”</title>
-    <updated>2020-11-03T21:10:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/66Hiycy3h3-4n7YRHDtVBQ</id>
-    <link href="https://mp.weixin.qq.com/s/66Hiycy3h3-4n7YRHDtVBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

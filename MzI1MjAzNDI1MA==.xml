@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T23:25:54+08:00</updated>
+  <updated>2020-11-13T23:26:15+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-13 - 使用内部非泛型函数来避免静态分发导致的编译速度下降和二进制体积膨胀的问题</title>
+    <updated>2020-11-13T21:53:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/1BvFJId2cCCdw3lvHyPQog</id>
+    <link href="https://mp.weixin.qq.com/s/1BvFJId2cCCdw3lvHyPQog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】 2020-11-12 探索 Rust 编译器的 PGO</title>
     <updated>2020-11-12T22:51:10+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-11-04T22:14:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/1YeFvYxR2zsslI01sBMEMA</id>
     <link href="https://mp.weixin.qq.com/s/1YeFvYxR2zsslI01sBMEMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-03 《Rust日报》总第1000期</title>
-    <updated>2020-11-03T23:19:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/p7BO-T4v-CZip8wEegS4zQ</id>
-    <link href="https://mp.weixin.qq.com/s/p7BO-T4v-CZip8wEegS4zQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
