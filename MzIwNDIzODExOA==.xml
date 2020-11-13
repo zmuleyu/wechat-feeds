@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T20:18:35+08:00</updated>
+  <updated>2020-11-13T13:17:18+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>欢迎报名云原生社区第一期 meetup 上海站</title>
+    <updated>2020-11-13T11:41:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/6qxQBBr7TDLi98x5Asnzwg</id>
+    <link href="https://mp.weixin.qq.com/s/6qxQBBr7TDLi98x5Asnzwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Nginx 携新方案进军服务网格</title>
     <updated>2020-11-12T14:56:00+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-25T11:05:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/-StCJI_Tzhf-HzwKsu3ueg</id>
     <link href="https://mp.weixin.qq.com/s/-StCJI_Tzhf-HzwKsu3ueg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播预告 | 服务网格下的东西向与南北向流量管理实践</title>
-    <updated>2020-09-24T10:03:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/3H1uA_OntpDUxoiAGR-U0g</id>
-    <link href="https://mp.weixin.qq.com/s/3H1uA_OntpDUxoiAGR-U0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
