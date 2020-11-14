@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T11:17:14+08:00</updated>
+  <updated>2020-11-14T13:15:53+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>死磕k8s之calico-nodeport</title>
+    <updated>2020-11-14T12:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/k-It6ctp3vD0ql2s1ZEh6A</id>
+    <link href="https://mp.weixin.qq.com/s/k-It6ctp3vD0ql2s1ZEh6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>50+云原生大咖集结完毕，CNBPS 2020日程落定，5天后见！</title>
+    <updated>2020-11-14T12:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/JBgOBwgeCrOqfdpXYDUA6g</id>
+    <link href="https://mp.weixin.qq.com/s/JBgOBwgeCrOqfdpXYDUA6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>限时8h删！！！</title>
     <updated>2020-11-13T08:24:22+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-11-05T20:01:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/lII0Hph2F7ONnc1F7-mU2g</id>
     <link href="https://mp.weixin.qq.com/s/lII0Hph2F7ONnc1F7-mU2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深圳：Kubernetes CKA实战培训</title>
-    <updated>2020-11-04T20:47:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/Tumm_5tCiNbreF8sHOCCcw</id>
-    <link href="https://mp.weixin.qq.com/s/Tumm_5tCiNbreF8sHOCCcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：这是我见过对DNS最通俗易懂的解释了</title>
-    <updated>2020-11-04T20:47:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/5AyeBlbYLf8r0nU1n02Blg</id>
-    <link href="https://mp.weixin.qq.com/s/5AyeBlbYLf8r0nU1n02Blg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
