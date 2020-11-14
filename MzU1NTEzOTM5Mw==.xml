@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>LiveVideoStack | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T11:25:45+08:00</updated>
+  <updated>2020-11-14T11:25:00+08:00</updated>
   <subtitle>LiveVideoStack直播技术社区官方账号，分享音视频直播相关技术干货，产品研究与行业趋势。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用区分优先级的负载分流法确保Netflix的可靠性</title>
+    <updated>2020-11-14T00:55:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/lUd9838j_INIbDKmSnNqJg</id>
+    <link href="https://mp.weixin.qq.com/s/lUd9838j_INIbDKmSnNqJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Web ML+ WebAssembly 支持实现 Google Meet 背景模糊功能</title>
     <updated>2020-11-13T02:47:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-04T15:58:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/SjhTzecIaA7RTPQg7RphQA</id>
     <link href="https://mp.weixin.qq.com/s/SjhTzecIaA7RTPQg7RphQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WebRTC安全体系架构的8个组件</title>
-    <updated>2020-11-04T10:00:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/CqhjrRJQBwZylAWC6O9vow</id>
-    <link href="https://mp.weixin.qq.com/s/CqhjrRJQBwZylAWC6O9vow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

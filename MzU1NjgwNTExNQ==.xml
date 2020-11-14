@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T11:09:12+08:00</updated>
+  <updated>2020-11-14T11:09:58+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GitHub上的图解网络/算法书火了，完整版开放下载！</title>
+    <updated>2020-11-13T15:31:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/QvR-y0ikkt4xrv6pvoLq_g</id>
+    <link href="https://mp.weixin.qq.com/s/QvR-y0ikkt4xrv6pvoLq_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>64 岁Python之父：我不退休了，我要去微软</title>
+    <updated>2020-11-13T15:31:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/lvxJ0oqZG4dogdLw24LpIw</id>
+    <link href="https://mp.weixin.qq.com/s/lvxJ0oqZG4dogdLw24LpIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软发布VS Code Jupyter插件！不止Python！多语言的Jupyter Notebook支持来了！</title>
     <updated>2020-11-12T23:21:26+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-11-04T21:29:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/Ld9Tsrzux9BJQvwl9u00UA</id>
     <link href="https://mp.weixin.qq.com/s/Ld9Tsrzux9BJQvwl9u00UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VS Code 强大的开源工具！实时可视化Debug，一键解析代码结构</title>
-    <updated>2020-11-03T19:54:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Bg2jUlCo_otvdQSvqDzNSA</id>
-    <link href="https://mp.weixin.qq.com/s/Bg2jUlCo_otvdQSvqDzNSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

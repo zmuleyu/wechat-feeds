@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T20:14:33+08:00</updated>
+  <updated>2020-11-14T11:11:24+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>React Native 新架构</title>
+    <updated>2020-11-13T17:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/zHc_r0fxOXMp26g7Z_9aYw</id>
+    <link href="https://mp.weixin.qq.com/s/zHc_r0fxOXMp26g7Z_9aYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-11-13T17:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/vGEdkO88tWWUMty40shLkA</id>
+    <link href="https://mp.weixin.qq.com/s/vGEdkO88tWWUMty40shLkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-11-13T17:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/FRFPt55LFo895FPjkLy1uQ</id>
+    <link href="https://mp.weixin.qq.com/s/FRFPt55LFo895FPjkLy1uQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇舞周刊第 372 期：Vue 3 的响应式和组合式</title>
     <updated>2020-11-13T18:23:58+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-05T20:10:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/l_KycE79iCokzFUJNm1obQ</id>
     <link href="https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-11-05T20:10:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/BXOsL9sT8UFb4G6GfCmp-w</id>
-    <link href="https://mp.weixin.qq.com/s/BXOsL9sT8UFb4G6GfCmp-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-11-05T20:10:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/R0xAWT8EBO3Zvh7nZ-tC8g</id>
-    <link href="https://mp.weixin.qq.com/s/R0xAWT8EBO3Zvh7nZ-tC8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊 Axios 中值得学习的核心知识点</title>
-    <updated>2020-11-04T17:36:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/KfIbhT5ZubvVzNHEIyiXEA</id>
-    <link href="https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

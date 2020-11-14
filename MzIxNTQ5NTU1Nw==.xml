@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AppHubs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T11:22:07+08:00</updated>
+  <updated>2020-11-14T11:21:52+08:00</updated>
   <subtitle>追随乔帮主</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Xcode 12.2 盘点</title>
+    <updated>2020-11-14T00:22:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/lfoTf6llxjLfTeQJFpPJVQ</id>
+    <link href="https://mp.weixin.qq.com/s/lfoTf6llxjLfTeQJFpPJVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>三端融合，苹果正式开启大一统时代</title>
     <updated>2020-11-12T23:33:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-02T23:51:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/GSWmKJSxJCLZYjlMLl0y5g</id>
     <link href="https://mp.weixin.qq.com/s/GSWmKJSxJCLZYjlMLl0y5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Swift 团队发布并发实现路线图，async/await 提上日程</title>
-    <updated>2020-11-01T23:27:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-01:/s/ERuKUqiFKfdK94C2WEbZ9Q</id>
-    <link href="https://mp.weixin.qq.com/s/ERuKUqiFKfdK94C2WEbZ9Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
