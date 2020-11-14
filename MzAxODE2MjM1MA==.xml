@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T13:12:29+08:00</updated>
+  <updated>2020-11-14T20:14:48+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>化繁为简，简括浏览器渲染机制</title>
+    <updated>2020-11-14T18:31:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/LomE_ps35nNyCCYunayhCg</id>
+    <link href="https://mp.weixin.qq.com/s/LomE_ps35nNyCCYunayhCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>行业怪象：前端总是被鄙视，但又十分抢手</title>
     <updated>2020-11-13T00:04:35+08:00</updated>
@@ -40,13 +47,6 @@
     <updated>2020-11-11T00:57:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/caBOODlnPJDdzw45Ngn_Fw</id>
     <link href="https://mp.weixin.qq.com/s/caBOODlnPJDdzw45Ngn_Fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今年双11，前端开发者别漏了这几样</title>
-    <updated>2020-11-10T21:49:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/Vi4amC8twqlnyMVojzdRtQ</id>
-    <link href="https://mp.weixin.qq.com/s/Vi4amC8twqlnyMVojzdRtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,20 +110,6 @@
     <updated>2020-11-05T20:09:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/DvijdWA5Gpv5gpYVLGcIBg</id>
     <link href="https://mp.weixin.qq.com/s/DvijdWA5Gpv5gpYVLGcIBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手带你从零打造Vue SSR，清晰易懂！</title>
-    <updated>2020-11-03T22:48:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Qe88vm8BCLDZUnVnbn-p6w</id>
-    <link href="https://mp.weixin.qq.com/s/Qe88vm8BCLDZUnVnbn-p6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纯 CSS 实现密室逃脱游戏</title>
-    <updated>2020-11-03T22:48:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/mWcio8bt4oR_gmEKl-uDDg</id>
-    <link href="https://mp.weixin.qq.com/s/mWcio8bt4oR_gmEKl-uDDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

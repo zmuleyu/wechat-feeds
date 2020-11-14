@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T20:29:34+08:00</updated>
+  <updated>2020-11-14T20:25:32+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>英伟达RTX 3080值不值得抢？有人用它在TensorFlow上训练了卷积网络</title>
+    <updated>2020-11-14T17:07:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/ovCVthkMLRFzKS-RO7pR6Q</id>
+    <link href="https://mp.weixin.qq.com/s/ovCVthkMLRFzKS-RO7pR6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跨视角语义分割前沿进展｜IROS 2020</title>
+    <updated>2020-11-14T17:07:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/8jltlOnAxK1EqxYCsJHErA</id>
+    <link href="https://mp.weixin.qq.com/s/8jltlOnAxK1EqxYCsJHErA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>损失函数理解汇总，结合PyTorch1.7和TensorFlow2</title>
+    <updated>2020-11-14T17:07:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/0G6WIRPVUly754cc_kpWig</id>
+    <link href="https://mp.weixin.qq.com/s/0G6WIRPVUly754cc_kpWig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超越谷歌BERT！依图推出预训练语言理解模型ConvBERT，入选NeurIPS 2020</title>
     <updated>2020-11-13T18:12:56+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-07T20:18:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/7DdXLgIPNPsKNe8WBuNNRQ</id>
     <link href="https://mp.weixin.qq.com/s/7DdXLgIPNPsKNe8WBuNNRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>7 Papers &amp; Radios | UC伯克利尤洋博士论文；GPT自动证明数学题</title>
-    <updated>2020-11-07T20:18:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/tnEF4hdYhG4Pp_eQ5ATENQ</id>
-    <link href="https://mp.weixin.qq.com/s/tnEF4hdYhG4Pp_eQ5ATENQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硬核奶爸！用树莓派做个“智能婴儿监视器”：啼哭自动通知，还能分析哭声含义</title>
-    <updated>2020-11-06T18:57:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/vAey3oBkh7kpRGBRGChp9w</id>
-    <link href="https://mp.weixin.qq.com/s/vAey3oBkh7kpRGBRGChp9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文读懂机器学习“数据中毒”</title>
-    <updated>2020-11-06T18:57:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/SwWiVySv0B9qDpZk96-xPA</id>
-    <link href="https://mp.weixin.qq.com/s/SwWiVySv0B9qDpZk96-xPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
