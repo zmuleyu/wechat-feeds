@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T16:11:26+08:00</updated>
+  <updated>2020-11-14T23:09:49+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
-    <title>苹果iPad真香，包邮送一台！</title>
-    <updated>2020-11-13T00:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/wLiWp_S9THxHrNyIivwOBA</id>
-    <link href="https://mp.weixin.qq.com/s/wLiWp_S9THxHrNyIivwOBA" rel="alternate"></link>
+    <title>再见了，马云！</title>
+    <updated>2020-11-14T22:55:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/WMkRDsvgG0KdQvhlnKQDBg</id>
+    <link href="https://mp.weixin.qq.com/s/WMkRDsvgG0KdQvhlnKQDBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 之父放弃退休，64岁的他宣布加入微软！</title>
+    <updated>2020-11-14T22:55:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/zxdIXdetLnMoftS8GHQLSA</id>
+    <link href="https://mp.weixin.qq.com/s/zxdIXdetLnMoftS8GHQLSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>公司用了 6 年的老分布式锁，依然很是牛啊！</title>
+    <updated>2020-11-14T22:55:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/qoQWd0YrgfK3MOBXEiQPqg</id>
+    <link href="https://mp.weixin.qq.com/s/qoQWd0YrgfK3MOBXEiQPqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2020-11-09T00:03:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/Bg-FHjqKfRSJLGB_8sZtcg</id>
     <link href="https://mp.weixin.qq.com/s/Bg-FHjqKfRSJLGB_8sZtcg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯 Git 规范出炉，写给开发者的 Git 指南!</title>
-    <updated>2020-11-09T00:03:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/TJJ3_gju3OtZpr9bQ4ZRJQ</id>
-    <link href="https://mp.weixin.qq.com/s/TJJ3_gju3OtZpr9bQ4ZRJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动面试官：i++ 是线程安全的吗？</title>
-    <updated>2020-11-09T00:03:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/1Ob5-sTyOkWd-voyORYSuA</id>
-    <link href="https://mp.weixin.qq.com/s/1Ob5-sTyOkWd-voyORYSuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

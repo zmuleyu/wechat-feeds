@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T23:26:15+08:00</updated>
+  <updated>2020-11-14T23:24:15+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-14 Tide v0.15.0发布</title>
+    <updated>2020-11-14T22:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/DSns0CpExLexyTBHPi7voA</id>
+    <link href="https://mp.weixin.qq.com/s/DSns0CpExLexyTBHPi7voA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】【上海】【字节跳动】【社招/实习】飞书视频会议团队招聘</title>
+    <updated>2020-11-14T22:49:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/fKhzPOeqfKffSfz12x2CLg</id>
+    <link href="https://mp.weixin.qq.com/s/fKhzPOeqfKffSfz12x2CLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-13 - 使用内部非泛型函数来避免静态分发导致的编译速度下降和二进制体积膨胀的问题</title>
     <updated>2020-11-13T21:53:57+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-05T22:00:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/AJz5qlYnydKtZr20Rl5ZaA</id>
     <link href="https://mp.weixin.qq.com/s/AJz5qlYnydKtZr20Rl5ZaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust 日报】2020-11-04 bacon: 幕后代码检查工具</title>
-    <updated>2020-11-04T22:14:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/qlC4v33lIe_-IT7612V5Aw</id>
-    <link href="https://mp.weixin.qq.com/s/qlC4v33lIe_-IT7612V5Aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一种新的设计模式：newtype</title>
-    <updated>2020-11-04T22:14:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/1YeFvYxR2zsslI01sBMEMA</id>
-    <link href="https://mp.weixin.qq.com/s/1YeFvYxR2zsslI01sBMEMA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

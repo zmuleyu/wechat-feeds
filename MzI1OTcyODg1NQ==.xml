@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T23:22:26+08:00</updated>
+  <updated>2020-11-14T23:20:31+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>提高国内访问 GitHub 的速度的 9 种方案</title>
+    <updated>2020-11-14T19:49:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/fKktNzomu9irgIfMnpv3UA</id>
+    <link href="https://mp.weixin.qq.com/s/fKktNzomu9irgIfMnpv3UA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用tcpdump查看原始数据包</title>
     <updated>2020-11-13T20:59:48+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-11-05T21:12:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/Z14_nHIU4Es3YdjInCzYaw</id>
     <link href="https://mp.weixin.qq.com/s/Z14_nHIU4Es3YdjInCzYaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cache 和 Buffer 都是缓存，主要区别是什么？</title>
-    <updated>2020-11-04T21:25:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/vfBMy-U89x417llYdXsIIg</id>
-    <link href="https://mp.weixin.qq.com/s/vfBMy-U89x417llYdXsIIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>马哥教育-产业互联网时代云计算运维职业生涯的个人思考</title>
-    <updated>2020-11-04T21:25:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/cOTEAUM8KkX4TZyEcI3ZCA</id>
-    <link href="https://mp.weixin.qq.com/s/cOTEAUM8KkX4TZyEcI3ZCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
