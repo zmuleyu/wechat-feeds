@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T20:19:33+08:00</updated>
+  <updated>2020-11-15T20:24:08+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三周，自研自动化上线平台</title>
+    <updated>2020-11-15T14:28:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/ble1FirP37N6Lw8PimwsMQ</id>
+    <link href="https://mp.weixin.qq.com/s/ble1FirP37N6Lw8PimwsMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>技术人写MySQL书籍有多难？一个真实的故事（结局美好）</title>
     <updated>2020-11-11T16:40:01+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-10-29T17:54:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/RWB9po6jlLB5TbKblH_hjw</id>
     <link href="https://mp.weixin.qq.com/s/RWB9po6jlLB5TbKblH_hjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TCP接入层的负载均衡、高可用、扩展性架构</title>
-    <updated>2020-10-27T21:57:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/pKR-Kf2lsqz3bW5M76mR7Q</id>
-    <link href="https://mp.weixin.qq.com/s/pKR-Kf2lsqz3bW5M76mR7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>遇到杠精，居然可以这么应对？</title>
-    <updated>2020-10-27T21:57:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/he3T3VvQ8GFUC1TZKtD-cQ</id>
-    <link href="https://mp.weixin.qq.com/s/he3T3VvQ8GFUC1TZKtD-cQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

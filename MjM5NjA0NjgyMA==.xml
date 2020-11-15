@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T20:12:43+08:00</updated>
+  <updated>2020-11-15T20:13:24+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>低功耗蓝牙BLE之连接事件参数和更新方法</title>
+    <updated>2020-11-15T16:42:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/gmU8JMwUTAz7iMwApYPQJA</id>
+    <link href="https://mp.weixin.qq.com/s/gmU8JMwUTAz7iMwApYPQJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>卡巴斯基调查显示四分之一的印度人使用弱密码</title>
+    <updated>2020-11-15T16:42:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/COFG2m9WaJce7uVTPjql6g</id>
+    <link href="https://mp.weixin.qq.com/s/COFG2m9WaJce7uVTPjql6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>挖洞经验 | 利用开放重定向漏洞劫持GitHub Gist账户</title>
+    <updated>2020-11-15T16:42:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/63n3e78m938dNuaBkbJT4g</id>
+    <link href="https://mp.weixin.qq.com/s/63n3e78m938dNuaBkbJT4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>安全分析 | 两个VMware Workstation中的TOCTOU漏洞</title>
+    <updated>2020-11-15T16:42:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/TGB1eMANBKg33BpuxSDfiw</id>
+    <link href="https://mp.weixin.qq.com/s/TGB1eMANBKg33BpuxSDfiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>BUF大事件丨台湾电脑制造商仁宝遭勒索软件攻击；全国最大网络裸聊敲诈案告破</title>
     <updated>2020-11-14T13:57:55+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-11T22:46:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/B-IlxmXAP7ge3U4HulznxA</id>
     <link href="https://mp.weixin.qq.com/s/B-IlxmXAP7ge3U4HulznxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>台湾笔记本电脑制造商仁宝遭勒索，赎金高达1700万美元</title>
-    <updated>2020-11-10T18:01:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/avd1S8AkYpc1sqHSP6GlMg</id>
-    <link href="https://mp.weixin.qq.com/s/avd1S8AkYpc1sqHSP6GlMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>双十一返场直播！后天下午2点，超值FreeBuf周边低至9.9元~</title>
-    <updated>2020-11-10T18:01:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/oHtE8BAYsrZpzGc2D9vxZg</id>
-    <link href="https://mp.weixin.qq.com/s/oHtE8BAYsrZpzGc2D9vxZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lemon Duck复苏，重点瞄准政府与零售</title>
-    <updated>2020-11-10T18:01:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/jZbV0XgQb7pOWWzZaXmfvQ</id>
-    <link href="https://mp.weixin.qq.com/s/jZbV0XgQb7pOWWzZaXmfvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>时间拥抱了双十一狂欢节，也更新了这份FreeBuf「十月热榜」</title>
-    <updated>2020-11-10T18:01:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/0LCDThclWqwAeVMtaAkzFw</id>
-    <link href="https://mp.weixin.qq.com/s/0LCDThclWqwAeVMtaAkzFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

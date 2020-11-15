@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T20:25:32+08:00</updated>
+  <updated>2020-11-15T20:32:41+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3D目标检测综述：从数据集到2D和3D方法</title>
+    <updated>2020-11-15T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/Jaj4PWlzD90aLyEesS99OA</id>
+    <link href="https://mp.weixin.qq.com/s/Jaj4PWlzD90aLyEesS99OA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>超全汇总！机器学习常用术语词汇表（建议收藏）</title>
+    <updated>2020-11-15T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/R7GnKCYrfN03Hu8gWO0njw</id>
+    <link href="https://mp.weixin.qq.com/s/R7GnKCYrfN03Hu8gWO0njw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>7 Papers &amp; Radios | 依图新模型ConvBERT超越BERT；ML模型的安全与隐私</title>
+    <updated>2020-11-15T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/rInNQGW0BQL4r3NL0YDTow</id>
+    <link href="https://mp.weixin.qq.com/s/rInNQGW0BQL4r3NL0YDTow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>英伟达RTX 3080值不值得抢？有人用它在TensorFlow上训练了卷积网络</title>
     <updated>2020-11-14T17:07:56+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-08T20:42:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/du4ZM5C4JcvWyz6YM9lDKQ</id>
     <link href="https://mp.weixin.qq.com/s/du4ZM5C4JcvWyz6YM9lDKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>7 Papers &amp; Radios | 陈丹琦关系抽取新SOTA；上海交大医疗版MNIST数据集</title>
-    <updated>2020-11-08T20:42:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/XAEQrTNgK7gBpxUSiHROFA</id>
-    <link href="https://mp.weixin.qq.com/s/XAEQrTNgK7gBpxUSiHROFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>利用预训练语言模型提供常识知识！中科院信工所雏鹰团队在SemEval上大显神威</title>
-    <updated>2020-11-07T20:18:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/HXHs93C5nvtO-SghQi2Djg</id>
-    <link href="https://mp.weixin.qq.com/s/HXHs93C5nvtO-SghQi2Djg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tribuo：一个JAVA机器学习库</title>
-    <updated>2020-11-07T20:18:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/7DdXLgIPNPsKNe8WBuNNRQ</id>
-    <link href="https://mp.weixin.qq.com/s/7DdXLgIPNPsKNe8WBuNNRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
