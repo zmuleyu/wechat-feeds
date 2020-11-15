@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T23:24:15+08:00</updated>
+  <updated>2020-11-15T23:27:25+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>也许是最客观、全面的比较 Rust 与 Go：都想把 Rust 也学一下</title>
+    <updated>2020-11-15T22:43:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/jYQOJZNIX1dhzYOErJAtBg</id>
+    <link href="https://mp.weixin.qq.com/s/jYQOJZNIX1dhzYOErJAtBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【转载】泛型和元编程的模型：Java, Go, Rust, Swift, D等</title>
+    <updated>2020-11-15T22:43:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/Dw-nCC9sggTT0g7L1cJBAQ</id>
+    <link href="https://mp.weixin.qq.com/s/Dw-nCC9sggTT0g7L1cJBAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-14 Tide v0.15.0发布</title>
     <updated>2020-11-14T22:49:51+08:00</updated>
@@ -110,27 +124,6 @@
     <updated>2020-11-06T23:21:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/_YJHkdInQ5ZIxki4gZ-MJQ</id>
     <link href="https://mp.weixin.qq.com/s/_YJHkdInQ5ZIxki4gZ-MJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-05 为什么Dark语言团队没有选择Rust</title>
-    <updated>2020-11-05T22:00:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/MbvQgQ9U7JH1Q23QxyQQIA</id>
-    <link href="https://mp.weixin.qq.com/s/MbvQgQ9U7JH1Q23QxyQQIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】写了一个数据库导出工具</title>
-    <updated>2020-11-05T22:00:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/ZbUsxYAgeLB8VlnrIRllAA</id>
-    <link href="https://mp.weixin.qq.com/s/ZbUsxYAgeLB8VlnrIRllAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 内核维护者：Rust 在搞，Intel 有问题</title>
-    <updated>2020-11-05T22:00:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/AJz5qlYnydKtZr20Rl5ZaA</id>
-    <link href="https://mp.weixin.qq.com/s/AJz5qlYnydKtZr20Rl5ZaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

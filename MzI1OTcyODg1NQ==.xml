@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T23:20:31+08:00</updated>
+  <updated>2020-11-15T23:23:31+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Shell—正则表达式（grep命令、sed工具）</title>
+    <updated>2020-11-15T22:05:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/TWFKofp_xjJYJ0lFfLandA</id>
+    <link href="https://mp.weixin.qq.com/s/TWFKofp_xjJYJ0lFfLandA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>提高国内访问 GitHub 的速度的 9 种方案</title>
     <updated>2020-11-14T19:49:46+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-06T21:06:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/gqHwrXPo1emeCMhkwF7mhQ</id>
     <link href="https://mp.weixin.qq.com/s/gqHwrXPo1emeCMhkwF7mhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes上对应用程序进行故障排除的技巧</title>
-    <updated>2020-11-05T21:12:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/_me4eG0Mmg-fE5TN-_qeUQ</id>
-    <link href="https://mp.weixin.qq.com/s/_me4eG0Mmg-fE5TN-_qeUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运维自动化Ansible命令入门</title>
-    <updated>2020-11-05T21:12:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/Z14_nHIU4Es3YdjInCzYaw</id>
-    <link href="https://mp.weixin.qq.com/s/Z14_nHIU4Es3YdjInCzYaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

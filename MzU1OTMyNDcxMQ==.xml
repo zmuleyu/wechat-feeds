@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T23:15:19+08:00</updated>
+  <updated>2020-11-15T23:17:55+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明天中午一点！ Google 开发者大会预约全攻略</title>
+    <updated>2020-11-15T21:51:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/WakXHMvRyhuWeAzQ1Yb7dw</id>
+    <link href="https://mp.weixin.qq.com/s/WakXHMvRyhuWeAzQ1Yb7dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>庆祝 TensorFlow 5 周年的五种方式！</title>
     <updated>2020-11-14T20:53:25+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-03T17:27:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/qZ2oBCC4seF-6CkNG4XFxg</id>
     <link href="https://mp.weixin.qq.com/s/qZ2oBCC4seF-6CkNG4XFxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“来自蒙娜丽莎的凝视”— 结合 TensorFlow.js 和深度学习实现</title>
-    <updated>2020-11-02T19:01:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/G2rGRKZHksCQ_AgoGgjIEg</id>
-    <link href="https://mp.weixin.qq.com/s/G2rGRKZHksCQ_AgoGgjIEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

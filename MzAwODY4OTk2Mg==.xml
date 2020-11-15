@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T23:19:42+08:00</updated>
+  <updated>2020-11-15T23:22:44+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明天中午一点！ Google 开发者大会预约全攻略</title>
+    <updated>2020-11-15T20:47:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/pjbLHAGLvaNitgQijcyD0g</id>
+    <link href="https://mp.weixin.qq.com/s/pjbLHAGLvaNitgQijcyD0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>庆祝 TensorFlow 5 周年的五种方式！</title>
     <updated>2020-11-14T21:06:48+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-06T09:42:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/ThrdbShSJOj0uRU3XpBEpg</id>
     <link href="https://mp.weixin.qq.com/s/ThrdbShSJOj0uRU3XpBEpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flutter 季度调研结果分享 | 聚焦多平台开发者关注的问题</title>
-    <updated>2020-11-05T11:39:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/dMV5hQD6pLYc8I6EyL86Uw</id>
-    <link href="https://mp.weixin.qq.com/s/dMV5hQD6pLYc8I6EyL86Uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解 Dart 空安全</title>
-    <updated>2020-11-05T11:39:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/g9bWSg9b_PH4NrdrpAckvw</id>
-    <link href="https://mp.weixin.qq.com/s/g9bWSg9b_PH4NrdrpAckvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

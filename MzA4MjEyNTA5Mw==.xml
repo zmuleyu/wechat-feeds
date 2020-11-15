@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T23:15:07+08:00</updated>
+  <updated>2020-11-15T23:17:51+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Numpy 脑洞玩法之图片切割拼接</title>
+    <updated>2020-11-15T21:02:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/E3QLDqLUo_n841M2VUKUUg</id>
+    <link href="https://mp.weixin.qq.com/s/E3QLDqLUo_n841M2VUKUUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>HTTP接口调试利器！4.8万Star的HTTP命令行客户端！</title>
+    <updated>2020-11-15T21:02:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/TIdRHxc4xzaU7jNJgEkc_Q</id>
+    <link href="https://mp.weixin.qq.com/s/TIdRHxc4xzaU7jNJgEkc_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python 游戏编程之实现飞机大战(含源代码)</title>
     <updated>2020-11-14T19:13:42+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-11-05T19:34:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/QCFbUeEbLA4EjquWIcuwcw</id>
     <link href="https://mp.weixin.qq.com/s/QCFbUeEbLA4EjquWIcuwcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为啥我学了2年多的Web，还是上手不了业务？</title>
-    <updated>2020-11-03T23:07:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/Nr1il3eHil1gaFFN0LKT6g</id>
-    <link href="https://mp.weixin.qq.com/s/Nr1il3eHil1gaFFN0LKT6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入 Python 异常处理</title>
-    <updated>2020-11-03T23:07:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/n6SlIT7KIMpk1DKSx8OviA</id>
-    <link href="https://mp.weixin.qq.com/s/n6SlIT7KIMpk1DKSx8OviA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

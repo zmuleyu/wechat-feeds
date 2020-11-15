@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T20:14:48+08:00</updated>
+  <updated>2020-11-15T23:13:15+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>纯 CSS 实现吸附效果</title>
+    <updated>2020-11-15T22:51:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/UK7_tp8WDbinK2TPM5hZ8A</id>
+    <link href="https://mp.weixin.qq.com/s/UK7_tp8WDbinK2TPM5hZ8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>化繁为简，简括浏览器渲染机制</title>
     <updated>2020-11-14T18:31:55+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-05T21:57:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/sqbiK5CyMdq_mrFfA2ER8A</id>
     <link href="https://mp.weixin.qq.com/s/sqbiK5CyMdq_mrFfA2ER8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浏览器渲染原理</title>
-    <updated>2020-11-05T20:09:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/DvijdWA5Gpv5gpYVLGcIBg</id>
-    <link href="https://mp.weixin.qq.com/s/DvijdWA5Gpv5gpYVLGcIBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
