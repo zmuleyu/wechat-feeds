@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-15T13:14:17+08:00</updated>
+  <updated>2020-11-15T16:16:17+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一份火爆国外的PyCharm快捷键和Python代码速查表</title>
+    <updated>2020-11-15T12:22:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/dzktKPCHImM7NJ2oUDglsQ</id>
+    <link href="https://mp.weixin.qq.com/s/dzktKPCHImM7NJ2oUDglsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>医学图像分割：UNet++</title>
+    <updated>2020-11-15T12:22:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/eCIL6rVSxuDOt7p4veVzhg</id>
+    <link href="https://mp.weixin.qq.com/s/eCIL6rVSxuDOt7p4veVzhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>吴恩达演讲直指AI落地三大挑战，并提出解决方案</title>
+    <updated>2020-11-15T12:22:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/KvBzbRAdcGHizp_mVC8GCQ</id>
+    <link href="https://mp.weixin.qq.com/s/KvBzbRAdcGHizp_mVC8GCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python之父，现在成为微软打工人！</title>
     <updated>2020-11-13T23:30:14+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-06T11:43:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/QJFuEE3ReHjiCpKo782Wew</id>
     <link href="https://mp.weixin.qq.com/s/QJFuEE3ReHjiCpKo782Wew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>生活中处处的贝叶斯</title>
-    <updated>2020-11-06T11:43:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/xX-IW_2zC7yf8n4o1Poabg</id>
-    <link href="https://mp.weixin.qq.com/s/xX-IW_2zC7yf8n4o1Poabg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优化问题都需要哪些数学基础</title>
-    <updated>2020-11-05T13:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/hh6FNQ1xBWlAkQpS_uy6Aw</id>
-    <link href="https://mp.weixin.qq.com/s/hh6FNQ1xBWlAkQpS_uy6Aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​【汇总】CV 图像分类常见的 36 个模型</title>
-    <updated>2020-11-05T13:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/JmUW_Bi7llykkqvfKQ7hcw</id>
-    <link href="https://mp.weixin.qq.com/s/JmUW_Bi7llykkqvfKQ7hcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
