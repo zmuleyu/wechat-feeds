@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T11:22:00+08:00</updated>
+  <updated>2020-11-15T11:22:50+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>江南白衣的2020架构师书单（上）</title>
+    <updated>2020-11-14T22:17:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/7ehggbjtIvEk002CUlNuBw</id>
+    <link href="https://mp.weixin.qq.com/s/7ehggbjtIvEk002CUlNuBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>泛型和元编程的模型：Java, Go, Rust, Swift, D等</title>
     <updated>2020-11-11T23:20:05+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-02T09:49:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/pToMvg5tNJKfRmJdNfXicw</id>
     <link href="https://mp.weixin.qq.com/s/pToMvg5tNJKfRmJdNfXicw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>原版豆瓣评分8.8，这本书讲透了 Rust 的灵魂</title>
-    <updated>2020-10-31T13:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/Heu97y98UzRutgvYMGKa3w</id>
-    <link href="https://mp.weixin.qq.com/s/Heu97y98UzRutgvYMGKa3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

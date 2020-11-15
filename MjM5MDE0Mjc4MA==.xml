@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T11:17:11+08:00</updated>
+  <updated>2020-11-15T11:15:16+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>苹果换芯成开发者噩梦：Docker运行受影响，众多工具和库不支持ARM64</title>
+    <updated>2020-11-14T23:43:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/d9Ba1JSZhj_UA3gkO8vcsQ</id>
+    <link href="https://mp.weixin.qq.com/s/d9Ba1JSZhj_UA3gkO8vcsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么现在开发一款软件的时间越来越长？</title>
+    <updated>2020-11-14T23:43:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/t1dYPno0J1SkMwmgYFudpg</id>
+    <link href="https://mp.weixin.qq.com/s/t1dYPno0J1SkMwmgYFudpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>行业AI零代码开发，华为云ModelArts Pro现场“组装”AI服务</title>
+    <updated>2020-11-14T23:43:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/0Cv2q4aRkRIcDnsBVYIoug</id>
+    <link href="https://mp.weixin.qq.com/s/0Cv2q4aRkRIcDnsBVYIoug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink on PaaSTA：Yelp运行在Kubernetes上的新流处理平台</title>
+    <updated>2020-11-14T23:43:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/R9Eva9Y2iqN6fjGOeXyRWg</id>
+    <link href="https://mp.weixin.qq.com/s/R9Eva9Y2iqN6fjGOeXyRWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯员工平均月薪7.6万；优酷原总裁因受贿855万元被判7年；阿里京东争夺“双十一”商标归属权 | Q资讯</title>
     <updated>2020-11-14T08:19:41+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-11T12:20:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/6GuQi72kFnZySBk4wBgecg</id>
     <link href="https://mp.weixin.qq.com/s/6GuQi72kFnZySBk4wBgecg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>降本增效，一线互联网公司的云原生实践 ｜ QCon</title>
-    <updated>2020-11-11T12:20:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/kvDNP_BEg2YDEggSyEhhGQ</id>
-    <link href="https://mp.weixin.qq.com/s/kvDNP_BEg2YDEggSyEhhGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>听说今年双十一，程序员都买了它</title>
-    <updated>2020-11-11T12:20:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/lGf4DS2ZydG7bAOzgrzj9Q</id>
-    <link href="https://mp.weixin.qq.com/s/lGf4DS2ZydG7bAOzgrzj9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>低代码 vs 模型驱动，它们之间到底是什么关系？</title>
-    <updated>2020-11-11T12:20:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/7Ce31odoVdIPHOezWLBxug</id>
-    <link href="https://mp.weixin.qq.com/s/7Ce31odoVdIPHOezWLBxug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>未来 5 年将是 Go 语言的天下 | 极客大学</title>
-    <updated>2020-11-09T21:43:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/pdvvsLJ3LHX8N8OR0oI13g</id>
-    <link href="https://mp.weixin.qq.com/s/pdvvsLJ3LHX8N8OR0oI13g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

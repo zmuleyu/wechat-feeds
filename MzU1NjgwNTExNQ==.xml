@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T11:09:58+08:00</updated>
+  <updated>2020-11-15T11:09:30+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何快速开发一款 VS Code 扩展</title>
+    <updated>2020-11-14T21:46:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/1YtGgBFQ6zH22QYzCmjdqQ</id>
+    <link href="https://mp.weixin.qq.com/s/1YtGgBFQ6zH22QYzCmjdqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GitHub上的图解网络/算法书火了，完整版开放下载！</title>
     <updated>2020-11-13T15:31:59+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-11-05T20:03:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/g_ZJqPEpCHOXkPCrKek9TQ</id>
     <link href="https://mp.weixin.qq.com/s/g_ZJqPEpCHOXkPCrKek9TQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人才空缺4600万！大厂优先录用，这个职业今年火遍全网</title>
-    <updated>2020-11-04T21:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/ODooaKYarSqV8_iNeRqY-w</id>
-    <link href="https://mp.weixin.qq.com/s/ODooaKYarSqV8_iNeRqY-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 5.10 将解决 2038 年问题，延长至 2486 年</title>
-    <updated>2020-11-04T21:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/Ld9Tsrzux9BJQvwl9u00UA</id>
-    <link href="https://mp.weixin.qq.com/s/Ld9Tsrzux9BJQvwl9u00UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T20:22:44+08:00</updated>
+  <updated>2020-11-15T11:21:29+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看到一张不错的图，关于不同语言实现泛型的方式，分享一下。图片出处：https://thume.ca/assets/postassets/generics/flowchart.pdf</title>
+    <updated>2020-11-15T01:18:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/wfpqyR5MUB1Oou8qbAkq2Q</id>
+    <link href="https://mp.weixin.qq.com/s/wfpqyR5MUB1Oou8qbAkq2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【译】理解Rust中的闭包</title>
     <updated>2020-11-12T16:29:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-18T11:50:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-18:/s/-84UWd3ek0-yYVXKOdcP3A</id>
     <link href="https://mp.weixin.qq.com/s/-84UWd3ek0-yYVXKOdcP3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】探讨Rust中的动态分发（dynamic dispatch）</title>
-    <updated>2020-09-15T19:52:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/ndqrVcu3su8Hi4U3Nfatow</id>
-    <link href="https://mp.weixin.qq.com/s/ndqrVcu3su8Hi4U3Nfatow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
