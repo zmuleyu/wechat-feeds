@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T20:26:49+08:00</updated>
+  <updated>2020-11-16T20:28:00+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个即将写入MySQL源码的官方bug解决之路</title>
+    <updated>2020-11-16T16:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/qklCeG3OvHrHBJajx_GKGw</id>
+    <link href="https://mp.weixin.qq.com/s/qklCeG3OvHrHBJajx_GKGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最快速的寻路算法 Jump Point Search</title>
     <updated>2020-11-13T17:48:46+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-10-26T16:35:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/ShdhW2cnhL6MOTVJSXLdOA</id>
     <link href="https://mp.weixin.qq.com/s/ShdhW2cnhL6MOTVJSXLdOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何有效地进行代码 Review？</title>
-    <updated>2020-10-23T18:10:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/uFivYfX53s5zAe6hacznlg</id>
-    <link href="https://mp.weixin.qq.com/s/uFivYfX53s5zAe6hacznlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1024程序员节 | 我在腾讯自研数据库，我为技术代言</title>
-    <updated>2020-10-23T18:10:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/15pn8tNI2Iv33ExLZRwaWw</id>
-    <link href="https://mp.weixin.qq.com/s/15pn8tNI2Iv33ExLZRwaWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
