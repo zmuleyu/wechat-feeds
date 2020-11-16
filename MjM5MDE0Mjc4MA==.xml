@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-15T11:15:16+08:00</updated>
+  <updated>2020-11-16T16:21:06+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用了10年Windows后，我最终转向Linux</title>
+    <updated>2020-11-16T14:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/noZ7lqIVYFGrUJnf-DlKoQ</id>
+    <link href="https://mp.weixin.qq.com/s/noZ7lqIVYFGrUJnf-DlKoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你家的数据库“云原生”了吗？</title>
+    <updated>2020-11-16T14:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/WxIJaJPtgyjlDaHNZNfIuQ</id>
+    <link href="https://mp.weixin.qq.com/s/WxIJaJPtgyjlDaHNZNfIuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>邂逅DevOps：不要指望一步到位</title>
+    <updated>2020-11-16T14:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/cSjr_eUndFLW_vJtsT4hzg</id>
+    <link href="https://mp.weixin.qq.com/s/cSjr_eUndFLW_vJtsT4hzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度赋能，无缝对接！华为技术专家解码智能视频存储“DNA”</title>
+    <updated>2020-11-16T14:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/ZDfeBzaCoI2l-eTDAjmsoQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZDfeBzaCoI2l-eTDAjmsoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>十个有用的软件开发原则</title>
+    <updated>2020-11-16T14:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/WAa4ezth4CGwyjJD7FcP6w</id>
+    <link href="https://mp.weixin.qq.com/s/WAa4ezth4CGwyjJD7FcP6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>苹果换芯成开发者噩梦：Docker运行受影响，众多工具和库不支持ARM64</title>
     <updated>2020-11-14T23:43:13+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-12T12:49:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/CwOL2VcrnhuRLFA05T9GLw</id>
     <link href="https://mp.weixin.qq.com/s/CwOL2VcrnhuRLFA05T9GLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻底开源、十倍性能的背后：TDengine 核心技术首度公开</title>
-    <updated>2020-11-12T12:49:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/uQhCEsT8dRTNZ9wqT-bjXg</id>
-    <link href="https://mp.weixin.qq.com/s/uQhCEsT8dRTNZ9wqT-bjXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大咖说技术分享沙龙干货整理 | 数据科学家的成功秘籍</title>
-    <updated>2020-11-12T12:49:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/cFPQ-Doh5xVxyfEoVn00GQ</id>
-    <link href="https://mp.weixin.qq.com/s/cFPQ-Doh5xVxyfEoVn00GQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>值得推荐的13个 Jenkins 替代方案</title>
-    <updated>2020-11-12T12:49:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/-k1Ow_33P_e5Pt_lweiQHQ</id>
-    <link href="https://mp.weixin.qq.com/s/-k1Ow_33P_e5Pt_lweiQHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“打工人”的双十一购物车里，唯独没有5折房</title>
-    <updated>2020-11-11T12:20:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/GRnPSWyhSZ0SmONH1wW58A</id>
-    <link href="https://mp.weixin.qq.com/s/GRnPSWyhSZ0SmONH1wW58A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 并不是构建微服务平台的最佳选择</title>
-    <updated>2020-11-11T12:20:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/6GuQi72kFnZySBk4wBgecg</id>
-    <link href="https://mp.weixin.qq.com/s/6GuQi72kFnZySBk4wBgecg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

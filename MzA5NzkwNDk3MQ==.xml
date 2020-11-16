@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T11:11:24+08:00</updated>
+  <updated>2020-11-16T16:14:52+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于 Serverless 的 Valine 可能并没有那么香</title>
+    <updated>2020-11-16T15:37:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/rRSsUmqtNrNuIOBbf97UPQ</id>
+    <link href="https://mp.weixin.qq.com/s/rRSsUmqtNrNuIOBbf97UPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-11-16T15:37:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/trZFYlnHojO4_mVn1yks1Q</id>
+    <link href="https://mp.weixin.qq.com/s/trZFYlnHojO4_mVn1yks1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-11-16T15:37:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/nNCKIzzdKYpQd8ffEpx0rQ</id>
+    <link href="https://mp.weixin.qq.com/s/nNCKIzzdKYpQd8ffEpx0rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>React Native 新架构</title>
     <updated>2020-11-13T17:38:14+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-07T20:53:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/Ar88pQ5_d60SDdQPYE4I9g</id>
     <link href="https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-11-07T20:53:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/kyx86GMzaNdiE4H2Nl4kNw</id>
-    <link href="https://mp.weixin.qq.com/s/kyx86GMzaNdiE4H2Nl4kNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 371 期：JavaScript 的内存管理介绍</title>
-    <updated>2020-11-06T17:57:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/JVAL55qjq8vd0DiP5qqoKw</id>
-    <link href="https://mp.weixin.qq.com/s/JVAL55qjq8vd0DiP5qqoKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)</title>
-    <updated>2020-11-05T20:10:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/l_KycE79iCokzFUJNm1obQ</id>
-    <link href="https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
