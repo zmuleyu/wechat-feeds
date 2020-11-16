@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>KoolShare | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T11:24:59+08:00</updated>
+  <updated>2020-11-16T11:25:25+08:00</updated>
   <subtitle>向论坛会员推送精华贴，最新科技新闻</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SATA的实力派——浦科特M8V PLUS评测</title>
+    <updated>2020-11-16T11:13:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/0DW8vn2CExwlHfZBwOutTw</id>
+    <link href="https://mp.weixin.qq.com/s/0DW8vn2CExwlHfZBwOutTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Synology 群晖 DS1621+ 六盘位NAS 开箱拆解评测</title>
     <updated>2020-11-10T10:34:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-29T14:40:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-29:/s/oVPEEj8DQ52e0NWLIfw0xA</id>
     <link href="https://mp.weixin.qq.com/s/oVPEEj8DQ52e0NWLIfw0xA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Synology 群晖 E10M20-T1 10GbE带宽和M.2 SSD缓存 适配器卡开箱评测</title>
-    <updated>2020-09-28T14:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/fkWchjGctZ9EavARQYpf-Q</id>
-    <link href="https://mp.weixin.qq.com/s/fkWchjGctZ9EavARQYpf-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

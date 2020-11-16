@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-15T01:09:55+08:00</updated>
+  <updated>2020-11-16T11:11:53+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>11 月全国程序员平均工资出炉</title>
+    <updated>2020-11-16T00:44:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/RAjMH2VguxyoHi8nI3h2Mw</id>
+    <link href="https://mp.weixin.qq.com/s/RAjMH2VguxyoHi8nI3h2Mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一步步实现 Redis 搜索引擎</title>
+    <updated>2020-11-16T00:44:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/978XFrQVNzaIhekD1pvD2A</id>
+    <link href="https://mp.weixin.qq.com/s/978XFrQVNzaIhekD1pvD2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go语言11岁了，网友：他喵的，终于确定出「泛型」了</title>
+    <updated>2020-11-16T00:44:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/IMuRPiXIA3yYYqL-wQ02ag</id>
+    <link href="https://mp.weixin.qq.com/s/IMuRPiXIA3yYYqL-wQ02ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>两万字长文！关于Java你不知道的那些事之Java注解和反射</title>
+    <updated>2020-11-16T00:44:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/SbSO5NV3Ib_NFjCyU-X7NQ</id>
+    <link href="https://mp.weixin.qq.com/s/SbSO5NV3Ib_NFjCyU-X7NQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>（干货）全面分析6大国产CPU处理器</title>
+    <updated>2020-11-16T00:44:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/fiiqr87SDlEZL_2OkNCZBw</id>
+    <link href="https://mp.weixin.qq.com/s/fiiqr87SDlEZL_2OkNCZBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringBoot最最最常用的注解梳理</title>
     <updated>2020-11-15T00:25:47+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-13T00:24:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/JIH2g6IdpUzkaIolMV3IBA</id>
     <link href="https://mp.weixin.qq.com/s/JIH2g6IdpUzkaIolMV3IBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软宣布停止支持史上最惨Win10版本</title>
-    <updated>2020-11-11T23:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/Su4ARwXsSlhP5bN5fI0WBg</id>
-    <link href="https://mp.weixin.qq.com/s/Su4ARwXsSlhP5bN5fI0WBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文详解微服务架构，看这篇就够了！</title>
-    <updated>2020-11-11T23:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/5TsLlbKrqJGrNvuU7Q1f9Q</id>
-    <link href="https://mp.weixin.qq.com/s/5TsLlbKrqJGrNvuU7Q1f9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SQL 查找是否&#34;存在&#34;，别再 count 了，很耗费时间的！</title>
-    <updated>2020-11-11T23:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/fIDU_a56YNi4UttfR8TP5A</id>
-    <link href="https://mp.weixin.qq.com/s/fIDU_a56YNi4UttfR8TP5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 中的 BigDecimal 你了解多少？</title>
-    <updated>2020-11-11T23:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/WlgOlWNpzWJ-uSQKRvzTrQ</id>
-    <link href="https://mp.weixin.qq.com/s/WlgOlWNpzWJ-uSQKRvzTrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一种新的架构设计思路，用户行为驱动开发</title>
-    <updated>2020-11-11T23:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/YvxePTsAY68TVDhqPpSvvA</id>
-    <link href="https://mp.weixin.qq.com/s/YvxePTsAY68TVDhqPpSvvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

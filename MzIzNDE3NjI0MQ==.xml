@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>虎克老湿基 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-09-19T23:05:34+08:00</updated>
+  <updated>2020-11-16T11:08:15+08:00</updated>
   <subtitle>分享二进制分析相关技术,资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入 FRIDA-DEXDump 中的矛与盾</title>
+    <updated>2020-11-15T15:00:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/n2XHGhshTmvt2FhxyFfoMA</id>
+    <link href="https://mp.weixin.qq.com/s/n2XHGhshTmvt2FhxyFfoMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FRIDA-DEXDump 支持使用 pip 安装了！</title>
     <updated>2020-08-15T00:31:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-02-16T17:44:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-02-16:/s/tI89U6eht0F_KrMJXooo1A</id>
     <link href="https://mp.weixin.qq.com/s/tI89U6eht0F_KrMJXooo1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么值得买｜ JEB Pro 3.12.0</title>
-    <updated>2020-02-11T15:32:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-02-11:/s/FmhAG59Mf2sVKCAj7Fb0fQ</id>
-    <link href="https://mp.weixin.qq.com/s/FmhAG59Mf2sVKCAj7Fb0fQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

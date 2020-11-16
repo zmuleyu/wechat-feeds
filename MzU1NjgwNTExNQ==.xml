@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-15T11:09:30+08:00</updated>
+  <updated>2020-11-16T11:10:14+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>macOS Big Sur 正式版发布，支持原生运行 iOS App</title>
+    <updated>2020-11-15T17:49:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/vd6C0wvmljfky72xT_GGzA</id>
+    <link href="https://mp.weixin.qq.com/s/vd6C0wvmljfky72xT_GGzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何快速开发一款 VS Code 扩展</title>
     <updated>2020-11-14T21:46:44+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-11-07T09:25:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/PwkXk0laVKDi4xniwBUhwg</id>
     <link href="https://mp.weixin.qq.com/s/PwkXk0laVKDi4xniwBUhwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见Java，没做过项目找工作太难了！</title>
-    <updated>2020-11-05T20:03:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/8spK9cfQL-saMdm11l28AA</id>
-    <link href="https://mp.weixin.qq.com/s/8spK9cfQL-saMdm11l28AA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>20 年前，亚马逊就推出了大数据杀熟算法</title>
-    <updated>2020-11-05T20:03:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/g_ZJqPEpCHOXkPCrKek9TQ</id>
-    <link href="https://mp.weixin.qq.com/s/g_ZJqPEpCHOXkPCrKek9TQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
