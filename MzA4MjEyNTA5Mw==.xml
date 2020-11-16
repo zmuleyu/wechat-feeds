@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-15T23:17:51+08:00</updated>
+  <updated>2020-11-16T23:19:11+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Ubuntu被曝严重漏洞：切换系统语言+输入几行命令，就能获取root权限</title>
+    <updated>2020-11-16T21:05:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/k0zrtODy_BcbFVAzr5wUlQ</id>
+    <link href="https://mp.weixin.qq.com/s/k0zrtODy_BcbFVAzr5wUlQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 爬虫之某壳公寓投诉分析</title>
+    <updated>2020-11-16T21:05:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/QxD62OY2Vz97U5CvuPuwrQ</id>
+    <link href="https://mp.weixin.qq.com/s/QxD62OY2Vz97U5CvuPuwrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Numpy 脑洞玩法之图片切割拼接</title>
     <updated>2020-11-15T21:02:16+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-11-07T19:56:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/M8ZNMzi8e_MbVg19LrmdZg</id>
     <link href="https://mp.weixin.qq.com/s/M8ZNMzi8e_MbVg19LrmdZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>11 月编程排行榜：Python “打败”Java 成第二</title>
-    <updated>2020-11-05T19:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/p60YiTG8Tq3d695j_TQgJQ</id>
-    <link href="https://mp.weixin.qq.com/s/p60YiTG8Tq3d695j_TQgJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面向对象：内心渴望一份美好的情感，可以一起看日出日落携手共度一生</title>
-    <updated>2020-11-05T19:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/QCFbUeEbLA4EjquWIcuwcw</id>
-    <link href="https://mp.weixin.qq.com/s/QCFbUeEbLA4EjquWIcuwcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

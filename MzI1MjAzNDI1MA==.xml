@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-15T23:27:25+08:00</updated>
+  <updated>2020-11-16T23:30:07+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-16 Rust 实现 Custom Events</title>
+    <updated>2020-11-16T21:34:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/Dxiy_mmrYurdP1eh4iU-Ag</id>
+    <link href="https://mp.weixin.qq.com/s/Dxiy_mmrYurdP1eh4iU-Ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个国内的实验性 crates.io 镜像</title>
+    <updated>2020-11-16T21:34:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/2QPPv_9wqMErJ-ap0Q1BbA</id>
+    <link href="https://mp.weixin.qq.com/s/2QPPv_9wqMErJ-ap0Q1BbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】部分移植nodejs的json-rules-engine到rust</title>
+    <updated>2020-11-16T21:34:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/A8ChyVZgQ7WHFjoxWVfqFQ</id>
+    <link href="https://mp.weixin.qq.com/s/A8ChyVZgQ7WHFjoxWVfqFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>也许是最客观、全面的比较 Rust 与 Go：都想把 Rust 也学一下</title>
     <updated>2020-11-15T22:43:47+08:00</updated>
@@ -117,13 +138,6 @@
     <updated>2020-11-07T21:32:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/fenPrDVQ4zY0IwzN-a_69A</id>
     <link href="https://mp.weixin.qq.com/s/fenPrDVQ4zY0IwzN-a_69A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>生命周期沥血总结，你怎么看？</title>
-    <updated>2020-11-06T23:21:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/_YJHkdInQ5ZIxki4gZ-MJQ</id>
-    <link href="https://mp.weixin.qq.com/s/_YJHkdInQ5ZIxki4gZ-MJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
