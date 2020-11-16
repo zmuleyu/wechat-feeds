@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T11:24:32+08:00</updated>
+  <updated>2020-11-16T13:28:55+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>拉开差距的面试题：如何设计一个电商平台积分兑换系统？？</title>
+    <updated>2020-11-16T10:48:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/S8-P8h3_mhFWiEscEOi4ug</id>
+    <link href="https://mp.weixin.qq.com/s/S8-P8h3_mhFWiEscEOi4ug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【非广告】支撑百万连接的系统，如何设计其高并发架构？</title>
     <updated>2020-11-11T18:18:38+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-23T08:35:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/PePsJzuKEIfQpCH1KbxrCg</id>
     <link href="https://mp.weixin.qq.com/s/PePsJzuKEIfQpCH1KbxrCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不懂就问：delete 后加 limit 是个好习惯么 ？</title>
-    <updated>2020-10-22T10:29:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/z0DU5ef7tQnsPVjxplXirw</id>
-    <link href="https://mp.weixin.qq.com/s/z0DU5ef7tQnsPVjxplXirw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
