@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T11:29:13+08:00</updated>
+  <updated>2020-11-17T11:28:38+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>小弟问我：为什么MySQL不建议使用delete删除数据？</title>
+    <updated>2020-11-16T23:03:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/7dpNkLaglIyb_9DKdH43eQ</id>
+    <link href="https://mp.weixin.qq.com/s/7dpNkLaglIyb_9DKdH43eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>k8s + 微服务，王炸！</title>
+    <updated>2020-11-16T23:03:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/j4Ufcz3m-P8pehyA_otgJA</id>
+    <link href="https://mp.weixin.qq.com/s/j4Ufcz3m-P8pehyA_otgJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>敖丙工作以来总结的大厂SQL调优姿势</title>
     <updated>2020-11-15T23:31:27+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-11-08T10:05:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/lkX2Mb2aCj8ugOaRmVVBqw</id>
     <link href="https://mp.weixin.qq.com/s/lkX2Mb2aCj8ugOaRmVVBqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>米国大选，蚂蚁集团暂缓上市魔幻的一周呀</title>
-    <updated>2020-11-07T17:31:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/vFHjYydjomQGUWJOyc-ZBQ</id>
-    <link href="https://mp.weixin.qq.com/s/vFHjYydjomQGUWJOyc-ZBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T11:27:05+08:00</updated>
+  <updated>2020-11-17T11:27:47+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何使用 Prometheus 在 GitLab 中进行异常检测</title>
+    <updated>2020-11-17T07:39:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/JcJMkpMCophdpK9h4p59WQ</id>
+    <link href="https://mp.weixin.qq.com/s/JcJMkpMCophdpK9h4p59WQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 本周五开课</title>
+    <updated>2020-11-17T07:39:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/HCG0E0ftVWlJ7HfNxwJOgA</id>
+    <link href="https://mp.weixin.qq.com/s/HCG0E0ftVWlJ7HfNxwJOgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面向领域的微服务架构</title>
     <updated>2020-11-16T07:38:55+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-07T19:42:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/jVXGdwspgvObh3oY3Zy1oA</id>
     <link href="https://mp.weixin.qq.com/s/jVXGdwspgvObh3oY3Zy1oA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Docker部署Prometheus实现微信邮件报警</title>
-    <updated>2020-11-06T21:21:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/T33sp0L-BsyzcPEPzhHs9A</id>
-    <link href="https://mp.weixin.qq.com/s/T33sp0L-BsyzcPEPzhHs9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | Kubernetes集群在企业内部多租户共享场景下的管理</title>
-    <updated>2020-11-06T21:21:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/RTtLugLMF2KbV5Z_Hchc6w</id>
-    <link href="https://mp.weixin.qq.com/s/RTtLugLMF2KbV5Z_Hchc6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

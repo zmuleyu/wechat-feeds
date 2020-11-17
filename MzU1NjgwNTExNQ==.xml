@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T11:10:14+08:00</updated>
+  <updated>2020-11-17T11:10:07+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AI应届生年薪涨到40万了，你现在转行还来得及！</title>
+    <updated>2020-11-16T20:01:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/R_f37zC6x0QkoyN2hVqoWw</id>
+    <link href="https://mp.weixin.qq.com/s/R_f37zC6x0QkoyN2hVqoWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JetBrains发布Kotlin桌面UI框架，共享Android UI代码</title>
+    <updated>2020-11-16T20:01:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/JoCx8DU_neT85R-fZDytrg</id>
+    <link href="https://mp.weixin.qq.com/s/JoCx8DU_neT85R-fZDytrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>macOS Big Sur 正式版发布，支持原生运行 iOS App</title>
     <updated>2020-11-15T17:49:57+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-11-08T11:13:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/YAdiCNMS0uRXA2jLvm8V-Q</id>
     <link href="https://mp.weixin.qq.com/s/YAdiCNMS0uRXA2jLvm8V-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卧槽！小姐姐用图解 Python，这也太秀了吧？！</title>
-    <updated>2020-11-07T09:25:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/s3kRddlbYBVW0_f5QuP07w</id>
-    <link href="https://mp.weixin.qq.com/s/s3kRddlbYBVW0_f5QuP07w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TIOBE 11 月榜单：Python 挤掉 Java，成功跃至第二！</title>
-    <updated>2020-11-07T09:25:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/PwkXk0laVKDi4xniwBUhwg</id>
-    <link href="https://mp.weixin.qq.com/s/PwkXk0laVKDi4xniwBUhwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

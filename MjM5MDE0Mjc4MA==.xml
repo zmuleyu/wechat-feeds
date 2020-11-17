@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T16:21:06+08:00</updated>
+  <updated>2020-11-17T11:19:16+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>容器：大厂的另一块敲门砖 ｜ 极客时间</title>
+    <updated>2020-11-16T23:37:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/cdVxG3UGf8lL7JNpStDehQ</id>
+    <link href="https://mp.weixin.qq.com/s/cdVxG3UGf8lL7JNpStDehQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>FreeWheel核心业务团队混沌工程实践之路</title>
+    <updated>2020-11-16T23:37:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/0monDPkAlMk7Yhq9swW7gQ</id>
+    <link href="https://mp.weixin.qq.com/s/0monDPkAlMk7Yhq9swW7gQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>6个React Hook最佳实践技巧</title>
+    <updated>2020-11-16T23:37:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/3sXQ8jrZN9N4lhKecWR7Sw</id>
+    <link href="https://mp.weixin.qq.com/s/3sXQ8jrZN9N4lhKecWR7Sw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开放+AI，百度智能小程序再出发 ｜ Q推荐</title>
+    <updated>2020-11-16T23:37:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/ycSHStPmYNbKukJte0dXJQ</id>
+    <link href="https://mp.weixin.qq.com/s/ycSHStPmYNbKukJte0dXJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Swift 发布路线图：更便捷、更高效且更安全</title>
+    <updated>2020-11-16T23:37:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/XtN_injniFmvkYArKOu57g</id>
+    <link href="https://mp.weixin.qq.com/s/XtN_injniFmvkYArKOu57g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用了10年Windows后，我最终转向Linux</title>
     <updated>2020-11-16T14:35:36+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-13T10:03:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/9kWWhf0Vl4ubLPgffl7J9Q</id>
     <link href="https://mp.weixin.qq.com/s/9kWWhf0Vl4ubLPgffl7J9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构师成长计划｜如何利用云原生构建一个企业级高可用架构？</title>
-    <updated>2020-11-13T10:03:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/7qbyUQDd8904kPGDCZ61nQ</id>
-    <link href="https://mp.weixin.qq.com/s/7qbyUQDd8904kPGDCZ61nQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AWS 电商行业 Webinar来袭，手把手教你玩转电商大数据 ｜ Q推荐</title>
-    <updated>2020-11-13T10:03:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/G98lZgZtHFta4F6riGehVQ</id>
-    <link href="https://mp.weixin.qq.com/s/G98lZgZtHFta4F6riGehVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年最值得推荐的7种 Kubernetes 日志管理工具</title>
-    <updated>2020-11-13T10:03:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/ypDWbHtCyR1BvrdXAQN-Fw</id>
-    <link href="https://mp.weixin.qq.com/s/ypDWbHtCyR1BvrdXAQN-Fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盗取千万美元还用同事当替罪羊，前微软工程师被判入狱9年</title>
-    <updated>2020-11-12T12:49:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/28iZS6E1v2QsSxFeXNCNSA</id>
-    <link href="https://mp.weixin.qq.com/s/28iZS6E1v2QsSxFeXNCNSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>苹果推出首款自研 5nm M1 芯片，160 亿晶体管、8 核 CPU、16GB 统一内存，香吗？</title>
-    <updated>2020-11-12T12:49:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CwOL2VcrnhuRLFA05T9GLw</id>
-    <link href="https://mp.weixin.qq.com/s/CwOL2VcrnhuRLFA05T9GLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
