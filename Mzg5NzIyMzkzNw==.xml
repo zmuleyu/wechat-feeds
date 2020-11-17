@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>NightTeam | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-07T11:18:19+08:00</updated>
+  <updated>2020-11-17T16:19:06+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不会吧不会吧？不会还有人没学过C++吧？</title>
+    <updated>2020-11-17T12:18:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/V0s3HC1CAziZiD5nbALF3A</id>
+    <link href="https://mp.weixin.qq.com/s/V0s3HC1CAziZiD5nbALF3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【上】每个月整理发票太头疼？手把手教你快速开发一个工具解决！</title>
     <updated>2020-11-06T20:26:19+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-07-12T16:58:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-12:/s/Xzkk4-ny4tgyU7gmIe94zg</id>
     <link href="https://mp.weixin.qq.com/s/Xzkk4-ny4tgyU7gmIe94zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>忘掉 Snowflake！感受一下性能高出 587 倍的全局唯一 ID 生成算法</title>
-    <updated>2020-07-03T17:43:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-03:/s/zT4kKkaGdHuk-_p1feUuhA</id>
-    <link href="https://mp.weixin.qq.com/s/zT4kKkaGdHuk-_p1feUuhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
