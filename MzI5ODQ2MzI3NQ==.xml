@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T20:20:20+08:00</updated>
+  <updated>2020-11-17T13:17:47+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万亿级微服务架构，阿里云专家刚给出的一手实践解决方案</title>
+    <updated>2020-11-17T11:37:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/psY-j23S5oCfjMxmLUN__A</id>
+    <link href="https://mp.weixin.qq.com/s/psY-j23S5oCfjMxmLUN__A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes面临的数据保护挑战</title>
+    <updated>2020-11-17T11:37:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/cZ8o6FxXba3yHOsNnSOrZQ</id>
+    <link href="https://mp.weixin.qq.com/s/cZ8o6FxXba3yHOsNnSOrZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>API 选型非得 Gateway？</title>
     <updated>2020-11-16T11:42:11+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-11-07T18:25:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/hDQJE8JVgmNB6PoI6iBZwA</id>
     <link href="https://mp.weixin.qq.com/s/hDQJE8JVgmNB6PoI6iBZwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenStack基金会托管容器项目Kata Containers发布2.0版本</title>
-    <updated>2020-11-06T11:32:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/STFQMo9k8lOasIotsswcFg</id>
-    <link href="https://mp.weixin.qq.com/s/STFQMo9k8lOasIotsswcFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
