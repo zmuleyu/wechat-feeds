@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T23:24:53+08:00</updated>
+  <updated>2020-11-17T23:21:24+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux进程之如何查看进程详情?</title>
+    <updated>2020-11-17T21:31:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/W_K2KcvO7SPUZIMvM6BDLQ</id>
+    <link href="https://mp.weixin.qq.com/s/W_K2KcvO7SPUZIMvM6BDLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【lvs企业级负载均衡入门到精通】集群和分布式及互联网构架</title>
+    <updated>2020-11-17T21:31:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/MAmBjVunQ4IK2EB-r_NsEg</id>
+    <link href="https://mp.weixin.qq.com/s/MAmBjVunQ4IK2EB-r_NsEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>马哥教育联合腾讯课堂重磅推出“好课优享计划”！10大优质课程助你能力提升80%，还可享受100份+大厂offer内推专享服务！</title>
     <updated>2020-11-16T18:17:53+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-08T19:23:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/XT0TYYXQq5CZjky8r2BSSw</id>
     <link href="https://mp.weixin.qq.com/s/XT0TYYXQq5CZjky8r2BSSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解负载神器 LVS、Nginx及HAProxy工作原理</title>
-    <updated>2020-11-07T18:27:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/7JY2LtN_3V9GYp5y1dBX6Q</id>
-    <link href="https://mp.weixin.qq.com/s/7JY2LtN_3V9GYp5y1dBX6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>60分钟掌握运维法宝正则表达式</title>
-    <updated>2020-11-07T18:27:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/FbrWtYUMyXfqumGJEWnrAQ</id>
-    <link href="https://mp.weixin.qq.com/s/FbrWtYUMyXfqumGJEWnrAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

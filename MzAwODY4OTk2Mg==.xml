@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T20:26:04+08:00</updated>
+  <updated>2020-11-17T23:21:20+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>代码不止｜Google 助你打造优质移动端用户体验</title>
+    <updated>2020-11-17T18:10:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/X4rZowJI0OlwJMo1E8FDCA</id>
+    <link href="https://mp.weixin.qq.com/s/X4rZowJI0OlwJMo1E8FDCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 Google 开发者大会主题演讲：代码不止 赋能创新</title>
     <updated>2020-11-16T18:03:41+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-07T22:31:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/ykkaWrpvcuAOF1WO3f42RA</id>
     <link href="https://mp.weixin.qq.com/s/ykkaWrpvcuAOF1WO3f42RA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>R8 编译器: 为 Kotlin 库和应用 &#34;瘦身&#34;</title>
-    <updated>2020-11-06T20:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/E-OPviIm-ndK1I_PRNostA</id>
-    <link href="https://mp.weixin.qq.com/s/E-OPviIm-ndK1I_PRNostA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WorkManager 流程分析和源码解析 | 开发者说·DTalk</title>
-    <updated>2020-11-06T20:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/MPZD9LbSbJYx1BLAolIbIg</id>
-    <link href="https://mp.weixin.qq.com/s/MPZD9LbSbJYx1BLAolIbIg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

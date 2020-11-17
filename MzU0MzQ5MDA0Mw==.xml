@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T11:23:52+08:00</updated>
+  <updated>2020-11-17T23:21:06+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Feed流系统设计</title>
+    <updated>2020-11-17T21:44:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/HK10xydjDKzx1rty788cIw</id>
+    <link href="https://mp.weixin.qq.com/s/HK10xydjDKzx1rty788cIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>亿级数据秒级实现 ClickHouse实时计算“黑马”技能详解</title>
     <updated>2020-11-15T22:55:21+08:00</updated>
@@ -29,24 +36,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>什么是高并发 ，详细讲解</title>
-    <updated>2020-11-13T22:39:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/_X52pSaZznLbWKTXuszZIQ</id>
-    <link href="https://mp.weixin.qq.com/s/_X52pSaZznLbWKTXuszZIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>高可用解决方案：同城双活？异地双活？异地多活？怎么实现？</title>
     <updated>2020-11-13T22:39:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/-pjql9bbqrJSOzb2icMTVg</id>
     <link href="https://mp.weixin.qq.com/s/-pjql9bbqrJSOzb2icMTVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10小时，就能吃透Kafka源码？</title>
-    <updated>2020-11-12T23:35:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/qu9Umq3gUoS75gO62P-KaQ</id>
-    <link href="https://mp.weixin.qq.com/s/qu9Umq3gUoS75gO62P-KaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +82,6 @@
     <updated>2020-11-07T23:16:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/GY_f15OTsSlUnIBd6bWlmQ</id>
     <link href="https://mp.weixin.qq.com/s/GY_f15OTsSlUnIBd6bWlmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker 底层原理浅析</title>
-    <updated>2020-11-06T20:39:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/Cau8rZCPsMxBYRUuGQ5seQ</id>
-    <link href="https://mp.weixin.qq.com/s/Cau8rZCPsMxBYRUuGQ5seQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
