@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T20:27:42+08:00</updated>
+  <updated>2020-11-18T01:29:34+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>沈向洋博士：三十年科研路，我踩过的那些坑</title>
+    <updated>2020-11-17T23:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/wM6nUDWlNNbEo6kePtojIA</id>
+    <link href="https://mp.weixin.qq.com/s/wM6nUDWlNNbEo6kePtojIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVPR、ECCV 2020 两大会议论文分类索引</title>
     <updated>2020-11-13T16:45:11+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-02T23:43:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/PaMGygFI6prK32a87qcYAA</id>
     <link href="https://mp.weixin.qq.com/s/PaMGygFI6prK32a87qcYAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-人脸技术篇</title>
-    <updated>2020-10-31T22:41:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/9GRt0ZrMT78LUobhnmSG6w</id>
-    <link href="https://mp.weixin.qq.com/s/9GRt0ZrMT78LUobhnmSG6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
