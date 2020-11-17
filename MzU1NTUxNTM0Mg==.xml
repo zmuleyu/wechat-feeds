@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T23:29:47+08:00</updated>
+  <updated>2020-11-17T20:29:22+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深度学习检测小目标常用方法</title>
+    <updated>2020-11-17T18:51:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/LgquhimgPDhxjdTYSJXAWg</id>
+    <link href="https://mp.weixin.qq.com/s/LgquhimgPDhxjdTYSJXAWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工业图像异常检测最新研究总结（2019-2020）</title>
+    <updated>2020-11-17T18:51:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/Xt8vcXHNLWM66lnKe3gm9A</id>
+    <link href="https://mp.weixin.qq.com/s/Xt8vcXHNLWM66lnKe3gm9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度学习搞起来！对标英伟达Tensor Core，AMD推出Matrix Core</title>
+    <updated>2020-11-17T18:51:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/u-0W--i8-e_0Aw0B_ml3qw</id>
+    <link href="https://mp.weixin.qq.com/s/u-0W--i8-e_0Aw0B_ml3qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>9个技巧让你的PyTorch模型训练变得飞快！</title>
     <updated>2020-11-16T20:39:57+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-10T19:36:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/6u2PfpT2-xuOWiwHAL8C4w</id>
     <link href="https://mp.weixin.qq.com/s/6u2PfpT2-xuOWiwHAL8C4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>强化学习应用简述</title>
-    <updated>2020-11-10T19:36:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/ZkXemA02GoTbZV0TOqtZCw</id>
-    <link href="https://mp.weixin.qq.com/s/ZkXemA02GoTbZV0TOqtZCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊 GPU 的计算能力上限</title>
-    <updated>2020-11-09T18:47:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/5sIW4b98hLsBsnWIov_Xbg</id>
-    <link href="https://mp.weixin.qq.com/s/5sIW4b98hLsBsnWIov_Xbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 Pytorch，OpenCV 创始人发布新开源视觉库 Kornia！</title>
-    <updated>2020-11-09T18:47:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/Q9KDC10lNG8N5HtLqAPIAg</id>
-    <link href="https://mp.weixin.qq.com/s/Q9KDC10lNG8N5HtLqAPIAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

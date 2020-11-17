@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T20:11:20+08:00</updated>
+  <updated>2020-11-17T20:11:14+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从中间件到分布式数据库生态，ShardingSphere 5.x革新变旧</title>
+    <updated>2020-11-17T19:18:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/Y29kZsgW9JpQQOvJ9cs1nw</id>
+    <link href="https://mp.weixin.qq.com/s/Y29kZsgW9JpQQOvJ9cs1nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Windows/Linux代码共享，Linux内核开发者：差评</title>
+    <updated>2020-11-17T19:18:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/xFHbGXz2Os5XlesR_lWSAA</id>
+    <link href="https://mp.weixin.qq.com/s/xFHbGXz2Os5XlesR_lWSAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>时序数据库InfluxDB 2.0正式GA，并宣布下一代存储引擎</title>
+    <updated>2020-11-17T19:18:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/elnpgPuhiUBi0okdeYvSCw</id>
+    <link href="https://mp.weixin.qq.com/s/elnpgPuhiUBi0okdeYvSCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LinkedIn开源Java机器学习函数库Dagli，面向JVM优化</title>
+    <updated>2020-11-17T19:18:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/UZISLn93vAnzGYPV6O0gVg</id>
+    <link href="https://mp.weixin.qq.com/s/UZISLn93vAnzGYPV6O0gVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 openEuler 高校开发者大赛，拥抱开源，共筑社区</title>
     <updated>2020-11-16T18:22:01+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-12T19:10:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/I9S3rE2W2gin23bDdjUewg</id>
     <link href="https://mp.weixin.qq.com/s/I9S3rE2W2gin23bDdjUewg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET5.0发布：引入C#9和F#5、支持Windows ARM64</title>
-    <updated>2020-11-12T19:10:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/ftqYSxP0uR673qByGQq2Ug</id>
-    <link href="https://mp.weixin.qq.com/s/ftqYSxP0uR673qByGQq2Ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明年，你的手机可能变成一块“砖”</title>
-    <updated>2020-11-12T19:10:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/Mtojlcl8fuThuf-sPOmrbQ</id>
-    <link href="https://mp.weixin.qq.com/s/Mtojlcl8fuThuf-sPOmrbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux基金会已开始在Gitee建立官方镜像</title>
-    <updated>2020-11-11T16:44:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/83ILI93qvw_oL3UxtnomuA</id>
-    <link href="https://mp.weixin.qq.com/s/83ILI93qvw_oL3UxtnomuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>360 团队攻破 Windows 10、iOS 14、Chrome 等多款产品</title>
-    <updated>2020-11-11T16:44:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/0bcID30aWjx38mq685U7tQ</id>
-    <link href="https://mp.weixin.qq.com/s/0bcID30aWjx38mq685U7tQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
