@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T11:21:57+08:00</updated>
+  <updated>2020-11-18T07:22:53+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2121期】斗鱼关注人数爬取 ── 字体反爬的攻与防</title>
+    <updated>2020-11-18T05:54:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/WJE7KgiOpPJMCpdcJdy30A</id>
+    <link href="https://mp.weixin.qq.com/s/WJE7KgiOpPJMCpdcJdy30A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>重学webpack4之loader开发</title>
+    <updated>2020-11-18T05:54:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/pE0AZOPYmeQ41PREwzauIQ</id>
+    <link href="https://mp.weixin.qq.com/s/pE0AZOPYmeQ41PREwzauIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端人，你其实可以利用技术“躺赚”   这个？</title>
     <updated>2020-11-17T07:30:45+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-09T06:03:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/hy-YS2JTXOcYCynScYhetw</id>
     <link href="https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2111期】知乎部署系统演进</title>
-    <updated>2020-11-08T06:50:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/A2ORb7cd4AaGOvLfFXWkSg</id>
-    <link href="https://mp.weixin.qq.com/s/A2ORb7cd4AaGOvLfFXWkSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【招聘】深圳思维巡航招聘前端工程师、前端架构师</title>
-    <updated>2020-11-08T06:50:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Ugjhuba8kPUld08A0Tv6Kw</id>
-    <link href="https://mp.weixin.qq.com/s/Ugjhuba8kPUld08A0Tv6Kw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
