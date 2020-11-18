@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T11:10:07+08:00</updated>
+  <updated>2020-11-18T11:11:08+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软 Visual Studio Code 即将登陆 Apple Silicon Mac</title>
+    <updated>2020-11-17T23:25:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/FABFp3SuVMJOA69AfFthrw</id>
+    <link href="https://mp.weixin.qq.com/s/FABFp3SuVMJOA69AfFthrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AI应届生年薪涨到40万了，你现在转行还来得及！</title>
     <updated>2020-11-16T20:01:28+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-08T11:26:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/Brf5zyJrGaBi4kQboM5sgQ</id>
     <link href="https://mp.weixin.qq.com/s/Brf5zyJrGaBi4kQboM5sgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货回顾 | 快速上手 VS Code：开发环境搭建和常用插件配置</title>
-    <updated>2020-11-08T11:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/YAdiCNMS0uRXA2jLvm8V-Q</id>
-    <link href="https://mp.weixin.qq.com/s/YAdiCNMS0uRXA2jLvm8V-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

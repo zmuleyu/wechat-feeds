@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T23:21:06+08:00</updated>
+  <updated>2020-11-18T11:22:37+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Docker ：大厂的另一块敲门砖</title>
+    <updated>2020-11-17T21:47:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/xin6eoWpwHOJRmSVwN3BbQ</id>
+    <link href="https://mp.weixin.qq.com/s/xin6eoWpwHOJRmSVwN3BbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CTO说：Service层的接口是不是多此一举</title>
+    <updated>2020-11-17T21:47:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/QRIjUuCKlTfvkZWFHTnpwg</id>
+    <link href="https://mp.weixin.qq.com/s/QRIjUuCKlTfvkZWFHTnpwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Feed流系统设计</title>
     <updated>2020-11-17T21:44:10+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-11-08T23:21:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/Rrs74iddmYC5igB14YNK6w</id>
     <link href="https://mp.weixin.qq.com/s/Rrs74iddmYC5igB14YNK6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Monarch: 谷歌的全球级内存时序数据库</title>
-    <updated>2020-11-07T23:16:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/GY_f15OTsSlUnIBd6bWlmQ</id>
-    <link href="https://mp.weixin.qq.com/s/GY_f15OTsSlUnIBd6bWlmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

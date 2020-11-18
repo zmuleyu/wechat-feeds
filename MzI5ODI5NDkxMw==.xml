@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T11:12:30+08:00</updated>
+  <updated>2020-11-18T11:12:23+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>没错，华为开始对Android下手了！</title>
+    <updated>2020-11-17T23:57:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/3tim0aYDOM61rP7JC9kOzw</id>
+    <link href="https://mp.weixin.qq.com/s/3tim0aYDOM61rP7JC9kOzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于token的多平台身份认证架构设计</title>
+    <updated>2020-11-17T23:57:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/NXmiBSAHYWMlEC9yVbOL7g</id>
+    <link href="https://mp.weixin.qq.com/s/NXmiBSAHYWMlEC9yVbOL7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java8 Stream：2万字20个实例，玩转集合的筛选、归约、分组、聚合</title>
+    <updated>2020-11-17T23:57:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/11XCU17TZhrCP66rbdIszQ</id>
+    <link href="https://mp.weixin.qq.com/s/11XCU17TZhrCP66rbdIszQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>难过！最终，华为还是卖掉了「荣耀」</title>
+    <updated>2020-11-17T23:57:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/TOLLujyh0lvtDn-ALi84zg</id>
+    <link href="https://mp.weixin.qq.com/s/TOLLujyh0lvtDn-ALi84zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万字好文，最全 VxLAN 知识详解</title>
+    <updated>2020-11-17T23:57:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/EjcclzPKyYVCSguQZrNNew</id>
+    <link href="https://mp.weixin.qq.com/s/EjcclzPKyYVCSguQZrNNew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中国联通官网被发现含木马脚本，可向用户推广色情APP</title>
     <updated>2020-11-17T00:02:56+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-15T00:25:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/sLSZi6DYGvviFkEsVCPCfQ</id>
     <link href="https://mp.weixin.qq.com/s/sLSZi6DYGvviFkEsVCPCfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何优雅地给妹子优化电脑（Windows）？</title>
-    <updated>2020-11-14T02:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/Te8y7DEmHG9-Izw55TmT4g</id>
-    <link href="https://mp.weixin.qq.com/s/Te8y7DEmHG9-Izw55TmT4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自从上线了 Prometheus 监控告警，真香！</title>
-    <updated>2020-11-14T02:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/w9mjK-jNOnEB13noAcbhhw</id>
-    <link href="https://mp.weixin.qq.com/s/w9mjK-jNOnEB13noAcbhhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring中的Controller ，Service，Dao是不是线程安全的？</title>
-    <updated>2020-11-14T02:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/u0VY2YbBt0D4sFBXQ1ZvJg</id>
-    <link href="https://mp.weixin.qq.com/s/u0VY2YbBt0D4sFBXQ1ZvJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>屡不悔改，这60款APP被强制下架！</title>
-    <updated>2020-11-14T02:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/Z8zlSXxa2l_J3Y5iWAZLFg</id>
-    <link href="https://mp.weixin.qq.com/s/Z8zlSXxa2l_J3Y5iWAZLFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>排障困难？给你的应用嵌入一个Logcat吧</title>
-    <updated>2020-11-14T02:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/gokhUKDhO6g0pBvJtW-2QQ</id>
-    <link href="https://mp.weixin.qq.com/s/gokhUKDhO6g0pBvJtW-2QQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

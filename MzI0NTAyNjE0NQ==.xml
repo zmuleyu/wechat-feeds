@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>justjavac | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-10-22T16:20:48+08:00</updated>
+  <updated>2020-11-18T11:18:16+08:00</updated>
   <subtitle>专注时下最新的Web技术，分享原创及翻译文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>照着文档写 BUG 的人，能拿多少薪水？</title>
+    <updated>2020-11-17T19:42:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/4K6L4B6-EaKJHRjZ0reo-Q</id>
+    <link href="https://mp.weixin.qq.com/s/4K6L4B6-EaKJHRjZ0reo-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端人一年要学多少技术，才能勉强保住工作</title>
     <updated>2020-10-22T11:48:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-07T14:59:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-07:/s/NPxJS99KfyAdtRtXfbIHhQ</id>
     <link href="https://mp.weixin.qq.com/s/NPxJS99KfyAdtRtXfbIHhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我开发了一个营销号生成器</title>
-    <updated>2020-09-03T22:21:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-03:/s/TZ_LHcDx93nXrXft5ocF_g</id>
-    <link href="https://mp.weixin.qq.com/s/TZ_LHcDx93nXrXft5ocF_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
