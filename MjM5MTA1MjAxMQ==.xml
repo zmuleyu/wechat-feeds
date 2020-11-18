@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T07:22:53+08:00</updated>
+  <updated>2020-11-19T07:22:39+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2122期】4个未听说过的强大JavaScript操作符</title>
+    <updated>2020-11-19T05:56:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/K23rEdntvw-9N1FkohfDpA</id>
+    <link href="https://mp.weixin.qq.com/s/K23rEdntvw-9N1FkohfDpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】北京字节跳动幸福里团队招前端工程师（社招）</title>
+    <updated>2020-11-19T05:56:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/TFddXmFqp7c1fE7PArDhiw</id>
+    <link href="https://mp.weixin.qq.com/s/TFddXmFqp7c1fE7PArDhiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2121期】斗鱼关注人数爬取 ── 字体反爬的攻与防</title>
     <updated>2020-11-18T05:54:37+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-10T07:45:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/eyUVnG7JnVcbpE66dUjRoA</id>
     <link href="https://mp.weixin.qq.com/s/eyUVnG7JnVcbpE66dUjRoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2113期】使用 React Hooks 声明 setInterval</title>
-    <updated>2020-11-10T07:45:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/rOH34Y9DnFrHnUTIazQOoA</id>
-    <link href="https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2112期】 import { reactive } from &#39;vue&#39;</title>
-    <updated>2020-11-09T06:03:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/hy-YS2JTXOcYCynScYhetw</id>
-    <link href="https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
