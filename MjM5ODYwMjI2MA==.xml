@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T20:28:00+08:00</updated>
+  <updated>2020-11-18T20:25:07+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用万字长文聊一聊 Embedding 技术</title>
+    <updated>2020-11-18T16:36:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/BwqVwN-9R8ROjgfnTUcMQg</id>
+    <link href="https://mp.weixin.qq.com/s/BwqVwN-9R8ROjgfnTUcMQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>视频号沙龙来了！本周六，我们会在深圳举办一场视频号交流沙龙，分享科技类视频号运营经验、视频制作方法技巧、打造IP等方面内容，欢迎来参加（报名请添加微信：teg_helper，备注：视频号）。</title>
+    <updated>2020-11-18T16:36:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/P9pLy3mw0WXxMSHsLuAxbQ</id>
+    <link href="https://mp.weixin.qq.com/s/P9pLy3mw0WXxMSHsLuAxbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个即将写入MySQL源码的官方bug解决之路</title>
     <updated>2020-11-16T16:53:47+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-10-28T16:18:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/dZH0s8q71N3QSAXPZomOmQ</id>
     <link href="https://mp.weixin.qq.com/s/dZH0s8q71N3QSAXPZomOmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iOS 推送手机消息背后的技术</title>
-    <updated>2020-10-26T16:35:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/ShdhW2cnhL6MOTVJSXLdOA</id>
-    <link href="https://mp.weixin.qq.com/s/ShdhW2cnhL6MOTVJSXLdOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

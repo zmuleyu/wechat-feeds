@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T20:29:33+08:00</updated>
+  <updated>2020-11-18T20:27:03+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>chrome 开发者工具——前端实用功能总结</title>
+    <updated>2020-11-18T14:58:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/sr4akxAXeV0le2-ir_j5QQ</id>
+    <link href="https://mp.weixin.qq.com/s/sr4akxAXeV0le2-ir_j5QQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Vue 项目一些常见问题的解决方案</title>
     <updated>2020-11-16T19:20:18+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-10-10T15:34:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-10:/s/XjTf2s0LRS-nj8yeIPRgkg</id>
     <link href="https://mp.weixin.qq.com/s/XjTf2s0LRS-nj8yeIPRgkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[译] 在 Node.js 中用 Puppeteer 实现网络爬虫</title>
-    <updated>2020-10-09T18:57:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/TU2IMOjdQywJUS9VTJiXYw</id>
-    <link href="https://mp.weixin.qq.com/s/TU2IMOjdQywJUS9VTJiXYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入 react 技术栈（一）</title>
-    <updated>2020-10-09T18:57:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/5gzn2qHh_YBLbXKQtQ_WIA</id>
-    <link href="https://mp.weixin.qq.com/s/5gzn2qHh_YBLbXKQtQ_WIA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

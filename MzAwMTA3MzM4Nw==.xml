@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软研究院AI头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T20:27:11+08:00</updated>
+  <updated>2020-11-18T20:24:25+08:00</updated>
   <subtitle>专注科研22年，盛产黑科技</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>NeurIPS 2020 | AI编程：如何从复制粘贴走向推理合成</title>
+    <updated>2020-11-18T17:39:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/8Cv76I4SUfnPm88cAqrBRg</id>
+    <link href="https://mp.weixin.qq.com/s/8Cv76I4SUfnPm88cAqrBRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>带你读论文 | 端到端语音识别模型</title>
     <updated>2020-11-17T17:25:56+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-05T12:12:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/NHXB8agkpCrN_uua0pdZIw</id>
     <link href="https://mp.weixin.qq.com/s/NHXB8agkpCrN_uua0pdZIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软多语言预训练模型T-ULRv2登顶XTREME排行榜</title>
-    <updated>2020-11-04T18:54:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/s6nMcYoSAFIBuzZGQ8556g</id>
-    <link href="https://mp.weixin.qq.com/s/s6nMcYoSAFIBuzZGQ8556g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10月精选文章回顾</title>
-    <updated>2020-11-04T18:54:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/1Cr92NZFdH-xO8EPOqyn1w</id>
-    <link href="https://mp.weixin.qq.com/s/1Cr92NZFdH-xO8EPOqyn1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

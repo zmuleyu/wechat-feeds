@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T16:14:52+08:00</updated>
+  <updated>2020-11-18T20:13:20+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>postMessage 还能这样玩</title>
+    <updated>2020-11-18T17:48:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/sRi3DawVBrMdkphuMqUMGw</id>
+    <link href="https://mp.weixin.qq.com/s/sRi3DawVBrMdkphuMqUMGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1小时紧急上线大屏？别怕,你还有即视</title>
+    <updated>2020-11-18T17:48:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/0dBI1V_uS3U3NaTjj3DaQw</id>
+    <link href="https://mp.weixin.qq.com/s/0dBI1V_uS3U3NaTjj3DaQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-11-18T17:48:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/qOWS8hJ_Hrp1z-Mul2UR6w</id>
+    <link href="https://mp.weixin.qq.com/s/qOWS8hJ_Hrp1z-Mul2UR6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于 Serverless 的 Valine 可能并没有那么香</title>
     <updated>2020-11-16T15:37:38+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-09T15:00:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/qO0z_ZmuvF5nwo12VWaJYA</id>
     <link href="https://mp.weixin.qq.com/s/qO0z_ZmuvF5nwo12VWaJYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团招实习生啦，这次产品和开发都要！</title>
-    <updated>2020-11-09T15:00:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/7SivV-Zb9vPY-dX1DYUNog</id>
-    <link href="https://mp.weixin.qq.com/s/7SivV-Zb9vPY-dX1DYUNog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-11-09T15:00:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/i7ePl_e4KmVurvnNlDGqjQ</id>
-    <link href="https://mp.weixin.qq.com/s/i7ePl_e4KmVurvnNlDGqjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何更好地理解中间件和洋葱模型</title>
-    <updated>2020-11-07T20:53:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/Ar88pQ5_d60SDdQPYE4I9g</id>
-    <link href="https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
