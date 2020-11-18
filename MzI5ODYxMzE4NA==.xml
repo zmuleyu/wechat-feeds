@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T01:10:11+08:00</updated>
+  <updated>2020-11-18T23:25:05+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>即使你经常使用Python写程序，也可能会犯错</title>
+    <updated>2020-11-18T22:58:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/u3TLWHPwE6L10XLKcFrIFw</id>
+    <link href="https://mp.weixin.qq.com/s/u3TLWHPwE6L10XLKcFrIFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>爬虫实战:获取一位技术大牛的博客</title>
     <updated>2020-11-11T23:31:12+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-15T23:03:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-15:/s/yJXytT6VTybzS_aXFp8j0w</id>
     <link href="https://mp.weixin.qq.com/s/yJXytT6VTybzS_aXFp8j0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用Python写一个基金涨跌监控工具</title>
-    <updated>2020-09-13T14:06:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-13:/s/nDkt-znw1iDygEdVgkLsXg</id>
-    <link href="https://mp.weixin.qq.com/s/nDkt-znw1iDygEdVgkLsXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

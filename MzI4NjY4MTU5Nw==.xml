@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-11T23:19:48+08:00</updated>
+  <updated>2020-11-18T23:19:40+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo 调用链 Agent 原理及实践</title>
+    <updated>2020-11-18T18:29:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/vPgBLi-2svhU_t1wN-6ZBA</id>
+    <link href="https://mp.weixin.qq.com/s/vPgBLi-2svhU_t1wN-6ZBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>彻底搞懂 IO 底层原理</title>
+    <updated>2020-11-18T18:29:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/_Eh7eZLtcUjrp9QiCvLmrw</id>
+    <link href="https://mp.weixin.qq.com/s/_Eh7eZLtcUjrp9QiCvLmrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>源码深度解析 Handler 机制及应用</title>
+    <updated>2020-11-18T18:29:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/71OV_K7YJas7pLtsPY-jeQ</id>
+    <link href="https://mp.weixin.qq.com/s/71OV_K7YJas7pLtsPY-jeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java 8 Stream原理解析</title>
+    <updated>2020-11-18T18:29:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/ykN7tCur0b9KXNOJtvqQ-g</id>
+    <link href="https://mp.weixin.qq.com/s/ykN7tCur0b9KXNOJtvqQ-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo商城前端架构升级—多端统一探索、实践与展望篇</title>
     <updated>2020-11-11T18:09:25+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-14T18:21:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/_HqRXhQX_6e0boACzcAH8g</id>
     <link href="https://mp.weixin.qq.com/s/_HqRXhQX_6e0boACzcAH8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从勾股定理到余弦相似度-程序员的数学基础</title>
-    <updated>2020-10-14T18:21:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/RkJ6XjHrzjR1bjBo7FDVdw</id>
-    <link href="https://mp.weixin.qq.com/s/RkJ6XjHrzjR1bjBo7FDVdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis 缓存性能实践及总结</title>
-    <updated>2020-09-23T18:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/bsAw0VKhP_SYngvKMoByAQ</id>
-    <link href="https://mp.weixin.qq.com/s/bsAw0VKhP_SYngvKMoByAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节码增强：原理与实战</title>
-    <updated>2020-09-23T18:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/vTfnj8SXUx4_0Ayar2NPPw</id>
-    <link href="https://mp.weixin.qq.com/s/vTfnj8SXUx4_0Ayar2NPPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端科普系列（5）：ESLint - 守住优雅的护城河</title>
-    <updated>2020-09-23T18:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/riWwjlkv7Dm2lF49yXfb3Q</id>
-    <link href="https://mp.weixin.qq.com/s/riWwjlkv7Dm2lF49yXfb3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

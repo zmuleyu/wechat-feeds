@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T23:23:40+08:00</updated>
+  <updated>2020-11-18T23:19:07+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年了，你还在用注意力作可解释吗？</title>
+    <updated>2020-11-18T22:01:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/V3lm-Un3IR2ygkH4ganz8w</id>
+    <link href="https://mp.weixin.qq.com/s/V3lm-Un3IR2ygkH4ganz8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一种写法统一人脸Loss：Pytorch实现及Mnist可视化</title>
+    <updated>2020-11-18T22:01:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/3T0z3oyE8xF82LMZ_L2yfA</id>
+    <link href="https://mp.weixin.qq.com/s/3T0z3oyE8xF82LMZ_L2yfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从3D人脸到自动驾驶，CVPR2020十个顶级开源数据集</title>
+    <updated>2020-11-18T22:01:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/FBfpyKodBD01W1QdVnIlHw</id>
+    <link href="https://mp.weixin.qq.com/s/FBfpyKodBD01W1QdVnIlHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>华人小哥控诉机器学习「四大Boring」，CS博士：深有同感，正打算退学</title>
+    <updated>2020-11-18T22:01:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/u3BEtFZuu-BCxm7YJjfBEQ</id>
+    <link href="https://mp.weixin.qq.com/s/u3BEtFZuu-BCxm7YJjfBEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>YOLOv4团队开源最新力作！1774fps、COCO最高精度，分别适合高低端GPU的YOLO</title>
     <updated>2020-11-17T21:21:19+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-14T21:44:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/RXa3FEztdPwemkKm_WeZgA</id>
     <link href="https://mp.weixin.qq.com/s/RXa3FEztdPwemkKm_WeZgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>四万字全面详解 | 深度学习中的注意力机制（上）</title>
-    <updated>2020-11-13T21:59:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/GSe5gobptLUWZykR73Ibtw</id>
-    <link href="https://mp.weixin.qq.com/s/GSe5gobptLUWZykR73Ibtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨视角语义分割前沿进展｜IROS 2020</title>
-    <updated>2020-11-13T21:59:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/yxdXKeshJasZ8om2WkxuPA</id>
-    <link href="https://mp.weixin.qq.com/s/yxdXKeshJasZ8om2WkxuPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Batch Normalization折叠来加速模型推理</title>
-    <updated>2020-11-13T21:59:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/wF8_8KUvvxSYbq8HekXv-A</id>
-    <link href="https://mp.weixin.qq.com/s/wF8_8KUvvxSYbq8HekXv-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>退休失败，64岁Python之父决定加入微软，将开源进行到底！</title>
-    <updated>2020-11-13T21:59:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/tderPGglp-8hIKvGwkLdYg</id>
-    <link href="https://mp.weixin.qq.com/s/tderPGglp-8hIKvGwkLdYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

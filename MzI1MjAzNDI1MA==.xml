@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T23:26:15+08:00</updated>
+  <updated>2020-11-18T23:22:13+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Servo 成为 Linux 基金会托管项目</title>
+    <updated>2020-11-18T22:03:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/X5ytCGCdd0aHZTA5P2m4IA</id>
+    <link href="https://mp.weixin.qq.com/s/X5ytCGCdd0aHZTA5P2m4IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】dcompass - 纯 Rust 实现的高性能混合 DNS 服务器</title>
+    <updated>2020-11-18T22:03:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/TGBkuSigEL_qYlM4sBERWQ</id>
+    <link href="https://mp.weixin.qq.com/s/TGBkuSigEL_qYlM4sBERWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-17 Rust性能之书</title>
     <updated>2020-11-17T22:38:36+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-09T23:34:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/TV8dvadWH2iUWlguRsKScA</id>
     <link href="https://mp.weixin.qq.com/s/TV8dvadWH2iUWlguRsKScA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-08 RustFest Global 2020</title>
-    <updated>2020-11-08T23:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/YxBVyolOBPeB06q5yE319g</id>
-    <link href="https://mp.weixin.qq.com/s/YxBVyolOBPeB06q5yE319g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C++/Rust 元编程之 BrainFuck 编译器（constexpr/ 过程宏解法）</title>
-    <updated>2020-11-08T23:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Rumi7Qbyub55KrjSVeqNYA</id>
-    <link href="https://mp.weixin.qq.com/s/Rumi7Qbyub55KrjSVeqNYA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

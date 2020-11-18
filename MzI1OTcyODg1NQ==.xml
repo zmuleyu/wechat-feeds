@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T23:21:24+08:00</updated>
+  <updated>2020-11-18T23:20:22+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这些最常用的Linux命令，每一条都应该学会！</title>
+    <updated>2020-11-18T21:43:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/RUuUw9-urFXTuAc_GtYxxA</id>
+    <link href="https://mp.weixin.qq.com/s/RUuUw9-urFXTuAc_GtYxxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LVS架构的NAT和DR模型实现原理</title>
+    <updated>2020-11-18T21:43:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Hv67yTgJFD2RqZLmgtbk-w</id>
+    <link href="https://mp.weixin.qq.com/s/Hv67yTgJFD2RqZLmgtbk-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux进程之如何查看进程详情?</title>
     <updated>2020-11-17T21:31:33+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-09T20:59:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/3CKqZXO7aspk4dCoELe5bg</id>
     <link href="https://mp.weixin.qq.com/s/3CKqZXO7aspk4dCoELe5bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>倒计时3天！马哥史上最快学员解锁抢课新姿势！名额有限！节后立马恢复原价！</title>
-    <updated>2020-11-08T19:23:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/O-Eb8lHA68WRBBVyyY8LkA</id>
-    <link href="https://mp.weixin.qq.com/s/O-Eb8lHA68WRBBVyyY8LkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>砥砺奋进11年，从15名学员到累计育才海内外学员突破100万人次！初心不改，马哥教育在路上....</title>
-    <updated>2020-11-08T19:23:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/XT0TYYXQq5CZjky8r2BSSw</id>
-    <link href="https://mp.weixin.qq.com/s/XT0TYYXQq5CZjky8r2BSSw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
