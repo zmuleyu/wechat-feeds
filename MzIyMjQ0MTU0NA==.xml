@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T16:11:07+08:00</updated>
+  <updated>2020-11-19T01:09:48+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>突发！深圳在某科技公司面试官被面试者当场割喉，不幸身亡！面试者畏罪潜逃...</title>
+    <updated>2020-11-19T00:40:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/POHJVMl_1f47yU7YQMIabw</id>
+    <link href="https://mp.weixin.qq.com/s/POHJVMl_1f47yU7YQMIabw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>厉害了开发者！GitHub 终于妥协了，恢复了 youtube-dl 库</title>
+    <updated>2020-11-19T00:40:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/CLBQ8mXxI77TeMWJQnUktw</id>
+    <link href="https://mp.weixin.qq.com/s/CLBQ8mXxI77TeMWJQnUktw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020 常用的 7 款 MySQL 客户端工具</title>
+    <updated>2020-11-19T00:40:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/04ExVv5y8RHaQc_0u2MjLg</id>
+    <link href="https://mp.weixin.qq.com/s/04ExVv5y8RHaQc_0u2MjLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>三年半 Java 后端鹅厂面试经历</title>
+    <updated>2020-11-19T00:40:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/3-akAEBVQjK-lJheyd5-vA</id>
+    <link href="https://mp.weixin.qq.com/s/3-akAEBVQjK-lJheyd5-vA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>互联网再无中年人</title>
+    <updated>2020-11-19T00:40:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/c9Nd15g5-fxSAgKsvJczdQ</id>
+    <link href="https://mp.weixin.qq.com/s/c9Nd15g5-fxSAgKsvJczdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>清华最强本科毕业生Top10出炉，从来没有什么天才学霸!</title>
     <updated>2020-11-18T13:21:20+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-14T22:55:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/zxdIXdetLnMoftS8GHQLSA</id>
     <link href="https://mp.weixin.qq.com/s/zxdIXdetLnMoftS8GHQLSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>公司用了 6 年的老分布式锁，依然很是牛啊！</title>
-    <updated>2020-11-14T22:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/qoQWd0YrgfK3MOBXEiQPqg</id>
-    <link href="https://mp.weixin.qq.com/s/qoQWd0YrgfK3MOBXEiQPqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软官宣：更新会导致Win10 运行变慢！ Win10 2020 终极正式版即将推送，你敢升级吗?</title>
-    <updated>2020-11-13T00:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/w_GFD9ogi27VvutidH_K4g</id>
-    <link href="https://mp.weixin.qq.com/s/w_GFD9ogi27VvutidH_K4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见！postman</title>
-    <updated>2020-11-13T00:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/tEGBghwGJqiMstuWul5u8w</id>
-    <link href="https://mp.weixin.qq.com/s/tEGBghwGJqiMstuWul5u8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>毕业五年，专科学历的小哥逆袭进腾讯，演绎什么叫努力就有收获！</title>
-    <updated>2020-11-13T00:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/XSfhwLMmLEEekUcjTHNv_w</id>
-    <link href="https://mp.weixin.qq.com/s/XSfhwLMmLEEekUcjTHNv_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爱奇艺的 &#34;数据库&#34; 选型到底有多牛？</title>
-    <updated>2020-11-12T01:41:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/uZ5MvUE_jg1zdJ5hT5e1rQ</id>
-    <link href="https://mp.weixin.qq.com/s/uZ5MvUE_jg1zdJ5hT5e1rQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
