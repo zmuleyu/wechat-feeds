@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T20:18:49+08:00</updated>
+  <updated>2020-11-19T13:15:32+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>容器 ：大厂的另一块敲门砖</title>
+    <updated>2020-11-19T11:21:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/eyim7c8OUz2sgKxWIcX6rQ</id>
+    <link href="https://mp.weixin.qq.com/s/eyim7c8OUz2sgKxWIcX6rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来了一个，K0s。。</title>
+    <updated>2020-11-19T11:21:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/z7hExfhZs_oDHVWYmOOhxw</id>
+    <link href="https://mp.weixin.qq.com/s/z7hExfhZs_oDHVWYmOOhxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>快来看看这三道大厂面试题，你知道现在的面试有多难吗？？？</title>
     <updated>2020-11-18T17:54:56+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-09T21:25:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/Uc5TxACUyRf9lCJ3xcNDOg</id>
     <link href="https://mp.weixin.qq.com/s/Uc5TxACUyRf9lCJ3xcNDOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>下周五：深圳Kubernetes CKA培训开课</title>
-    <updated>2020-11-08T20:49:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/jArBeyWjxLGlIUzT9iKpLQ</id>
-    <link href="https://mp.weixin.qq.com/s/jArBeyWjxLGlIUzT9iKpLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>16个你需要了解的DevOps指标，助你提升软件质量</title>
-    <updated>2020-11-08T20:49:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/lV5zr_s1CcbEaFoOg89QkA</id>
-    <link href="https://mp.weixin.qq.com/s/lV5zr_s1CcbEaFoOg89QkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

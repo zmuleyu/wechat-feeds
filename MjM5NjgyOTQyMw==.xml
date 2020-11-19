@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T11:19:04+08:00</updated>
+  <updated>2020-11-19T13:16:53+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>技能竞赛成绩公布！最大赢家是……</title>
+    <updated>2020-11-19T12:10:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/p_1RcW8SP8xXnmeDYOFkSw</id>
+    <link href="https://mp.weixin.qq.com/s/p_1RcW8SP8xXnmeDYOFkSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>风雪中，除了骆驼和牛羊，还有徒手破冰上风塔的他们！</title>
     <updated>2020-11-19T10:29:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-17T08:42:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/jh-Llc6wzYKo8rnHM8uQKw</id>
     <link href="https://mp.weixin.qq.com/s/jh-Llc6wzYKo8rnHM8uQKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新闻联播“十三五”巡礼：气象服务促发展保民生！</title>
-    <updated>2020-11-16T20:03:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/zx1uL0BuXcdpNzas59Qffg</id>
-    <link href="https://mp.weixin.qq.com/s/zx1uL0BuXcdpNzas59Qffg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
