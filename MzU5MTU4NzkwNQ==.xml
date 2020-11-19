@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>飞观App | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T16:25:48+08:00</updated>
+  <updated>2020-11-19T16:24:46+08:00</updated>
   <subtitle>飞观App | 商业和思想的视频严选订阅</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>每日纪录片推荐：《货币大师》《汉字五千年》</title>
+    <updated>2020-11-19T14:27:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/JAJY2WBi3aIgiefplH0IOg</id>
+    <link href="https://mp.weixin.qq.com/s/JAJY2WBi3aIgiefplH0IOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>每日纪录片推荐：《西南联大》《地球之盐》</title>
     <updated>2020-11-18T14:05:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-06T11:01:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/hn8NOgPFhng5_igW7-ypZQ</id>
     <link href="https://mp.weixin.qq.com/s/hn8NOgPFhng5_igW7-ypZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每日严选纪录片：《长路迢迢》《长路漫漫》</title>
-    <updated>2020-11-05T11:08:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/2tFImWkIvNts0G3GshKwiw</id>
-    <link href="https://mp.weixin.qq.com/s/2tFImWkIvNts0G3GshKwiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

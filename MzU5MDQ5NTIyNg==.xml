@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:22:23+08:00</updated>
+  <updated>2020-11-19T16:20:12+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】Arc 在 Rust 中是如何工作的</title>
+    <updated>2020-11-19T14:10:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/-IinHp609dtYr3skn4fETg</id>
+    <link href="https://mp.weixin.qq.com/s/-IinHp609dtYr3skn4fETg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>gfx-rs社区致力于使Rust图形编程简单、高效和可靠。下面这篇文章概述了社区进行的项目、这些项目之间的联系，以及其未来将如何。文章链接：https://gfx-rs.github.io/2020/11/16/big-picture.html</title>
     <updated>2020-11-18T01:04:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-09T21:41:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-09:/s/KY9PyR3a6yAQxHaS8d-PxQ</id>
     <link href="https://mp.weixin.qq.com/s/KY9PyR3a6yAQxHaS8d-PxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】异步迭代语义</title>
-    <updated>2020-09-25T17:08:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-25:/s/cu84dIH_xg8HuXvZw5KxYg</id>
-    <link href="https://mp.weixin.qq.com/s/cu84dIH_xg8HuXvZw5KxYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
