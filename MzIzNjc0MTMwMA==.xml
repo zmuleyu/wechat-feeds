@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T20:25:46+08:00</updated>
+  <updated>2020-11-19T23:26:28+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】让移动机器人实现更可靠的定位方案</title>
+    <updated>2020-11-19T20:04:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/ShdjuHtjwhzReSsjhR8i-w</id>
+    <link href="https://mp.weixin.qq.com/s/ShdjuHtjwhzReSsjhR8i-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【强基固本】样本量极少如何机器学习？Few-Shot Learning概述</title>
+    <updated>2020-11-19T20:04:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/ycLUlflk9zrsYKhE7L945Q</id>
+    <link href="https://mp.weixin.qq.com/s/ycLUlflk9zrsYKhE7L945Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>盛会来袭，“2020 CESF”落地胶州，论道“融合·创新”能源新实践</title>
     <updated>2020-11-18T18:02:53+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-11T18:05:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/E4FeT497eH7U2EqdqJvKBQ</id>
     <link href="https://mp.weixin.qq.com/s/E4FeT497eH7U2EqdqJvKBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】Grad-CAM论文总结</title>
-    <updated>2020-11-11T18:05:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/6rY8gzO6_ILHRk0loChW6w</id>
-    <link href="https://mp.weixin.qq.com/s/6rY8gzO6_ILHRk0loChW6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】损失函数理解汇总，结合PyTorch和TensorFlow2</title>
-    <updated>2020-11-10T18:18:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/cwPguBrF46aQLEzPeCVupQ</id>
-    <link href="https://mp.weixin.qq.com/s/cwPguBrF46aQLEzPeCVupQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

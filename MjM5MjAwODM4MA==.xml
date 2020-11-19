@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T16:10:57+08:00</updated>
+  <updated>2020-11-19T23:10:57+08:00</updated>
   <subtitle>专业的中文 IT 技术社区，与千万技术人共成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>支持百万级TPS，Kafka是怎么做到的？</title>
+    <updated>2020-11-19T20:02:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/Fvd_RcdMHzcwm3fBlpT8vw</id>
+    <link href="https://mp.weixin.qq.com/s/Fvd_RcdMHzcwm3fBlpT8vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>抗量子加密：为什么迫切需要它</title>
+    <updated>2020-11-19T20:02:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/jF-B4ajiniKhFSXKfD4MtA</id>
+    <link href="https://mp.weixin.qq.com/s/jF-B4ajiniKhFSXKfD4MtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WSL2：我在原生的Win10玩转Linux系统</title>
+    <updated>2020-11-19T20:02:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/92VXLsuaV74fYAWZYcz09g</id>
+    <link href="https://mp.weixin.qq.com/s/92VXLsuaV74fYAWZYcz09g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯 AI 医学进展破解“秃头”难题，登 Nature 子刊！</title>
     <updated>2020-11-19T13:26:58+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-17T19:21:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/4thGIkjve79SCcAqJcjUwg</id>
     <link href="https://mp.weixin.qq.com/s/4thGIkjve79SCcAqJcjUwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员如何乘风破浪？从数据库历史看技术人发展 | CSDN 高校俱乐部</title>
-    <updated>2020-11-17T19:21:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/z6oxGuAZxxhdEsMqGCdttA</id>
-    <link href="https://mp.weixin.qq.com/s/z6oxGuAZxxhdEsMqGCdttA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>13 岁不可能创建出 RISC-V 内核？Nicholas Sharkey：我可以</title>
-    <updated>2020-11-17T19:21:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/vdzWWPSqPIP2Y6expQ8lPQ</id>
-    <link href="https://mp.weixin.qq.com/s/vdzWWPSqPIP2Y6expQ8lPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全球数百万台 Mac 疑似因 Big Sur 更新险酿计算灾难，苹果官方回应来了！</title>
-    <updated>2020-11-17T12:08:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/MmNaVXWIx8NdQ-k0xKjBFg</id>
-    <link href="https://mp.weixin.qq.com/s/MmNaVXWIx8NdQ-k0xKjBFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
