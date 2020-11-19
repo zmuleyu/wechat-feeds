@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:12:23+08:00</updated>
+  <updated>2020-11-19T11:30:37+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万字好文，理解Elasticsearch和面试总结</title>
+    <updated>2020-11-18T23:59:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/VAIRa_do5Are3m_oWL_aKw</id>
+    <link href="https://mp.weixin.qq.com/s/VAIRa_do5Are3m_oWL_aKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里云盘正式上架，速度25MB/s！(附下载链接和激活码)</title>
+    <updated>2020-11-18T23:59:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/lKo_GQ1zEhvlHllj6IQIWA</id>
+    <link href="https://mp.weixin.qq.com/s/lKo_GQ1zEhvlHllj6IQIWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一整套Java线上故障排查技巧，爱了！</title>
+    <updated>2020-11-18T23:59:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Vzz_lQzHTUaxEudr0JmiUg</id>
+    <link href="https://mp.weixin.qq.com/s/Vzz_lQzHTUaxEudr0JmiUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：GET 和 POST 两种基本请求方法有什么区别？</title>
+    <updated>2020-11-18T23:59:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/OjYcmDiUfaSv6vNeVzm2tg</id>
+    <link href="https://mp.weixin.qq.com/s/OjYcmDiUfaSv6vNeVzm2tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用不惯系统的？那就自定义个密码输入框吧</title>
+    <updated>2020-11-18T23:59:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/WFtV8nR67onGNn0-PlOUpg</id>
+    <link href="https://mp.weixin.qq.com/s/WFtV8nR67onGNn0-PlOUpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>没错，华为开始对Android下手了！</title>
     <updated>2020-11-17T23:57:19+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-16T00:44:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/fiiqr87SDlEZL_2OkNCZBw</id>
     <link href="https://mp.weixin.qq.com/s/fiiqr87SDlEZL_2OkNCZBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot最最最常用的注解梳理</title>
-    <updated>2020-11-15T00:25:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/5BpLS7HKMhXaO2ST-mTEjw</id>
-    <link href="https://mp.weixin.qq.com/s/5BpLS7HKMhXaO2ST-mTEjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刚刚，Python 之父放弃退休，64岁的他宣布加入微软！</title>
-    <updated>2020-11-15T00:25:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/WdeOJ5-WESJomu4v9w3FmA</id>
-    <link href="https://mp.weixin.qq.com/s/WdeOJ5-WESJomu4v9w3FmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何让 Mybatis 自动生成代码，提高开发效率</title>
-    <updated>2020-11-15T00:25:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/x8eobneZ7CrE01PkZ56VRw</id>
-    <link href="https://mp.weixin.qq.com/s/x8eobneZ7CrE01PkZ56VRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>震惊 Guava 竟然有&#34;坑&#34;</title>
-    <updated>2020-11-15T00:25:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/9wJmJS5zszCdDsMy5BP7aQ</id>
-    <link href="https://mp.weixin.qq.com/s/9wJmJS5zszCdDsMy5BP7aQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无卡顿拍照，竟是如此简单！</title>
-    <updated>2020-11-15T00:25:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/sLSZi6DYGvviFkEsVCPCfQ</id>
-    <link href="https://mp.weixin.qq.com/s/sLSZi6DYGvviFkEsVCPCfQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

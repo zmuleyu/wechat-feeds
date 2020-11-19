@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>恩智浦MCU加油站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-12T11:22:10+08:00</updated>
+  <updated>2020-11-19T11:21:57+08:00</updated>
   <subtitle>迎来到恩智浦MCU加油站，在这里您可以了解到关于恩智浦MCU产品的各种信息，开发技巧、各种教程文档、研讨会培训课程的预告等，我们还会与您分享最新的产品和产业动态。 如果您对恩智浦的产品和本公众号，有什么好的建议和意见，可以在此留言或来稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于32位56800EX内核的DSC主流产品：56F8xxxx</title>
+    <updated>2020-11-19T08:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/wXiMKewaNKTobcA8CNGyJg</id>
+    <link href="https://mp.weixin.qq.com/s/wXiMKewaNKTobcA8CNGyJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个PWM问题引发的“奇案” —— LPC802 USART的妙用</title>
+    <updated>2020-11-19T08:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/hXMTG-8K5wNqNP81ksBx_Q</id>
+    <link href="https://mp.weixin.qq.com/s/hXMTG-8K5wNqNP81ksBx_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【福利继续】折扣+免单：LPC55S69逐飞科技IOT板/核心板限时活动</title>
+    <updated>2020-11-19T08:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/a0HJtbxZDRtse6MOL1hUWw</id>
+    <link href="https://mp.weixin.qq.com/s/a0HJtbxZDRtse6MOL1hUWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最便宜的BLDC电机控制方案来了~  S08PB系列MCU！</title>
     <updated>2020-11-12T09:12:59+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-09-16T17:17:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/VeciegbXTlDpTT9gkvw6VA</id>
     <link href="https://mp.weixin.qq.com/s/VeciegbXTlDpTT9gkvw6VA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>i.MX RT1064函数库：NVIC模块和EFUSE模块</title>
-    <updated>2020-09-16T17:17:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-16:/s/nw5lRajEiJl_kXaPdKl0DA</id>
-    <link href="https://mp.weixin.qq.com/s/nw5lRajEiJl_kXaPdKl0DA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OKDO_LPC55S69上手指南(上)</title>
-    <updated>2020-09-09T22:40:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/iECD9norpPeLiyK208fJUg</id>
-    <link href="https://mp.weixin.qq.com/s/iECD9norpPeLiyK208fJUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手学习NXP S08P 系列单片机（六）</title>
-    <updated>2020-09-09T22:40:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-09:/s/nDuA1J8afcw89k2-SMbxLQ</id>
-    <link href="https://mp.weixin.qq.com/s/nDuA1J8afcw89k2-SMbxLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

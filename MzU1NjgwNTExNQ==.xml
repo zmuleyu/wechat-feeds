@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:11:08+08:00</updated>
+  <updated>2020-11-19T11:12:35+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VS Code Java 十月更新，来啦！调试及项目管理，那些“小而美”的功能</title>
+    <updated>2020-11-18T21:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Ai2bNxlBXcqTrshubKqgzw</id>
+    <link href="https://mp.weixin.qq.com/s/Ai2bNxlBXcqTrshubKqgzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软 Visual Studio Code 即将登陆 Apple Silicon Mac</title>
     <updated>2020-11-17T23:25:26+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-09T21:53:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/hToldqGtiM_PQgH7DdkN0Q</id>
     <link href="https://mp.weixin.qq.com/s/hToldqGtiM_PQgH7DdkN0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>快3年经验了还进不了大厂，简历应该怎么写？</title>
-    <updated>2020-11-08T11:26:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/c-EIEl6sO61w70Ix7fq0IA</id>
-    <link href="https://mp.weixin.qq.com/s/c-EIEl6sO61w70Ix7fq0IA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新款树莓派 400 发布：键盘主机合二为一</title>
-    <updated>2020-11-08T11:26:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Brf5zyJrGaBi4kQboM5sgQ</id>
-    <link href="https://mp.weixin.qq.com/s/Brf5zyJrGaBi4kQboM5sgQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

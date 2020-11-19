@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:25:28+08:00</updated>
+  <updated>2020-11-19T11:24:45+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动火山引擎加入 Linux 云原生计算基金会（CNCF）</title>
+    <updated>2020-11-18T21:27:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/5YjNiZXRHZ2fMU7C6wz3pw</id>
+    <link href="https://mp.weixin.qq.com/s/5YjNiZXRHZ2fMU7C6wz3pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>十分钟认识DevOps与CI、CD</title>
+    <updated>2020-11-18T21:27:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/SJw1XozN2W8n-LRetpZI-Q</id>
+    <link href="https://mp.weixin.qq.com/s/SJw1XozN2W8n-LRetpZI-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker不再是唯一的选择</title>
     <updated>2020-11-18T07:34:38+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-10T09:43:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/8Hr4n3yGQc0GVFUyQXtoUA</id>
     <link href="https://mp.weixin.qq.com/s/8Hr4n3yGQc0GVFUyQXtoUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>主流云数仓性能对比分析</title>
-    <updated>2020-11-08T23:19:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/uZtBaECX1FU7K39El5Tx-Q</id>
-    <link href="https://mp.weixin.qq.com/s/uZtBaECX1FU7K39El5Tx-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
-    <updated>2020-11-08T23:19:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/gSHQ2LiP_s7wE8ssMEr8qg</id>
-    <link href="https://mp.weixin.qq.com/s/gSHQ2LiP_s7wE8ssMEr8qg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
