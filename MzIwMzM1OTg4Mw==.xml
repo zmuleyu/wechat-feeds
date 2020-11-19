@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:24:58+08:00</updated>
+  <updated>2020-11-19T20:31:30+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VINS-Fusion中的光流追踪</title>
+    <updated>2020-11-19T16:53:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/mpFwUkZKoIkPFc8ffWFZ_Q</id>
+    <link href="https://mp.weixin.qq.com/s/mpFwUkZKoIkPFc8ffWFZ_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dive Deeper Into Box for Object Detection</title>
     <updated>2020-11-18T11:15:43+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-07T01:41:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/V3GS6dLUh0plXn8FLsEFSQ</id>
     <link href="https://mp.weixin.qq.com/s/V3GS6dLUh0plXn8FLsEFSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【CVPR 2018】 预测未来帧以检测异常</title>
-    <updated>2020-11-06T14:50:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/VehgXxy9qlpj2xoxKobDiw</id>
-    <link href="https://mp.weixin.qq.com/s/VehgXxy9qlpj2xoxKobDiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

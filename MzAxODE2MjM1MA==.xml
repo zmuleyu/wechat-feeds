@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-17T23:13:51+08:00</updated>
+  <updated>2020-11-19T20:16:01+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>算法根基不稳，还能进大厂么？</title>
+    <updated>2020-11-19T18:34:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/RZ5asxX3LWwRfTTtyGKS5A</id>
+    <link href="https://mp.weixin.qq.com/s/RZ5asxX3LWwRfTTtyGKS5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>AST 实现函数错误自动上报</title>
+    <updated>2020-11-19T18:34:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/3N1ay56Jc_oontynFQ5_0Q</id>
+    <link href="https://mp.weixin.qq.com/s/3N1ay56Jc_oontynFQ5_0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>图片懒加载从简单到复杂</title>
     <updated>2020-11-17T19:01:44+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-11-08T21:37:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/3PWPHiej2yJO5FCkbmaavQ</id>
     <link href="https://mp.weixin.qq.com/s/3PWPHiej2yJO5FCkbmaavQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>被创造者嫌弃，Node.js 如何应对来自 Deno 的挑战</title>
-    <updated>2020-11-08T20:46:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/o4usTAmeww9YVM-VaN9ACQ</id>
-    <link href="https://mp.weixin.qq.com/s/o4usTAmeww9YVM-VaN9ACQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

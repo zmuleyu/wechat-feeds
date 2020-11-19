@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-13T20:13:12+08:00</updated>
+  <updated>2020-11-19T20:38:56+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>火绒将彻底查杀广告软件 首批包括50余款</title>
+    <updated>2020-11-19T18:04:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/R409pTrmakrIFHpIISksXA</id>
+    <link href="https://mp.weixin.qq.com/s/R409pTrmakrIFHpIISksXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【火绒安全周报】黑客偷走10亿美元比特币竟7年未花  前微软工程师窃取千万美元被判刑</title>
     <updated>2020-11-13T14:37:07+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-16T13:22:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/38rMih9muYp2-paOvfPvmg</id>
     <link href="https://mp.weixin.qq.com/s/38rMih9muYp2-paOvfPvmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软TCP/IP远程执行代码漏洞（CVE-2020-16898）风险通告</title>
-    <updated>2020-10-15T15:55:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/phHzKUaW_Ut3mfQKZufllA</id>
-    <link href="https://mp.weixin.qq.com/s/phHzKUaW_Ut3mfQKZufllA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

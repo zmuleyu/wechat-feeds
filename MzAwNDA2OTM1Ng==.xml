@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:27:40+08:00</updated>
+  <updated>2020-11-19T20:33:57+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>男朋友连模糊匹配like %%怎么优化都不知道</title>
+    <updated>2020-11-19T17:05:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/ygvuP35B_sJAlBHuuEJhfg</id>
+    <link href="https://mp.weixin.qq.com/s/ygvuP35B_sJAlBHuuEJhfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动算法面经解析</title>
+    <updated>2020-11-19T17:05:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/7fdmViAslyaj2cyZaSlwvQ</id>
+    <link href="https://mp.weixin.qq.com/s/7fdmViAslyaj2cyZaSlwvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>来来来，再上一道 MySQL 硬菜</title>
     <updated>2020-11-17T21:19:16+08:00</updated>
@@ -43,24 +57,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>刷题2个月，工资25k，有它真香！</title>
-    <updated>2020-11-15T23:31:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/UcMLz02iHGGGgaZKpzgWzw</id>
-    <link href="https://mp.weixin.qq.com/s/UcMLz02iHGGGgaZKpzgWzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>记一次大促期间JVM堆外内存泄漏故障排查记录</title>
     <updated>2020-11-15T19:15:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/yutHXOi6Xl3-Qn91Pvg9wA</id>
     <link href="https://mp.weixin.qq.com/s/yutHXOi6Xl3-Qn91Pvg9wA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里巴巴的持久层抛弃了hibernate，采用的却是MyBatis框架。。</title>
-    <updated>2020-11-15T19:15:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/kj_pRaWGBpKc0KQr_0yFXA</id>
-    <link href="https://mp.weixin.qq.com/s/kj_pRaWGBpKc0KQr_0yFXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +96,6 @@
     <updated>2020-11-10T00:55:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/ROMzeipOwWZWNrVGdVwisg</id>
     <link href="https://mp.weixin.qq.com/s/ROMzeipOwWZWNrVGdVwisg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>丙:为啥阿里巴巴不建议MySQL使用Text类型？</title>
-    <updated>2020-11-08T23:29:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/oVjm_iLvbkximBjHv9d8ig</id>
-    <link href="https://mp.weixin.qq.com/s/oVjm_iLvbkximBjHv9d8ig" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

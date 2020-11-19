@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bypass | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T16:16:27+08:00</updated>
+  <updated>2020-11-19T20:20:17+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>【开始报名】谷安第三届大学生网络安全知识技能大赛</title>
-    <updated>2020-11-13T18:29:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/grlhVqbzRPMwOQBk6Y_abw</id>
-    <link href="https://mp.weixin.qq.com/s/grlhVqbzRPMwOQBk6Y_abw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>PHP后门隐藏技巧</title>
     <updated>2020-11-03T17:50:25+08:00</updated>
@@ -74,6 +67,13 @@
     <updated>2020-09-13T10:01:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-13:/s/8hovrU_LPQyDo6oI6a5L5w</id>
     <link href="https://mp.weixin.qq.com/s/8hovrU_LPQyDo6oI6a5L5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 入侵痕迹清理技巧</title>
+    <updated>2020-09-11T08:00:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-11:/s/i2WvFmF1qQjbx-BaStXb1Q</id>
+    <link href="https://mp.weixin.qq.com/s/i2WvFmF1qQjbx-BaStXb1Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
