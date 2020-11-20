@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T11:12:35+08:00</updated>
+  <updated>2020-11-20T11:08:46+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>行业怪现象：前端总是被鄙视，但又十分抢手~</title>
+    <updated>2020-11-19T20:40:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/oOtaHqziIFqDVcW9rvnwbQ</id>
+    <link href="https://mp.weixin.qq.com/s/oOtaHqziIFqDVcW9rvnwbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apple M1芯片不支持Docker？Docker：正在努力适配</title>
+    <updated>2020-11-19T20:40:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/v6sa3cHjRPuLfysQd8cLpQ</id>
+    <link href="https://mp.weixin.qq.com/s/v6sa3cHjRPuLfysQd8cLpQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VS Code Java 十月更新，来啦！调试及项目管理，那些“小而美”的功能</title>
     <updated>2020-11-18T21:44:22+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-11-11T09:44:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/ZkWFB7GV3LldEYv5psd3QA</id>
     <link href="https://mp.weixin.qq.com/s/ZkWFB7GV3LldEYv5psd3QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VS Code 1.51 发布！官网新增&#34;Learn to Code&#34;模块，快速上手VS Code</title>
-    <updated>2020-11-09T21:53:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/hToldqGtiM_PQgH7DdkN0Q</id>
-    <link href="https://mp.weixin.qq.com/s/hToldqGtiM_PQgH7DdkN0Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

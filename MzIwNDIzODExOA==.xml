@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T13:17:31+08:00</updated>
+  <updated>2020-11-20T11:19:09+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Istio 1.8 发布——用户至上的选择</title>
+    <updated>2020-11-20T08:20:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/vK3e5-xjb7euff7mIyQIKQ</id>
+    <link href="https://mp.weixin.qq.com/s/vK3e5-xjb7euff7mIyQIKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>思科意欲收购 Banzai Cloud，此举将成为思科在云原生领域的第二笔重要收购</title>
     <updated>2020-11-18T11:16:05+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-27T12:25:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/s1ARCIv0kTep9waGp4wRww</id>
     <link href="https://mp.weixin.qq.com/s/s1ARCIv0kTep9waGp4wRww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 Istio 处理亲和性网络请求</title>
-    <updated>2020-10-20T17:47:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/fjAIuSAaO01W53OvGZqw7Q</id>
-    <link href="https://mp.weixin.qq.com/s/fjAIuSAaO01W53OvGZqw7Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
