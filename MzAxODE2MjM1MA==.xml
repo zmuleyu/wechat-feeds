@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:16:01+08:00</updated>
+  <updated>2020-11-20T13:11:38+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看到程序员11月平均工资后，第一反应：这是假的吧！</title>
+    <updated>2020-11-19T22:44:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/xReMU1t3FEK3BKasBfcoNQ</id>
+    <link href="https://mp.weixin.qq.com/s/xReMU1t3FEK3BKasBfcoNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Angular 11正式发布：加入webpack 5，升级至TS 4.0，不再支持IE 9 和10</title>
+    <updated>2020-11-19T22:44:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/wX9Ef1GieihCVVTUhoBOdQ</id>
+    <link href="https://mp.weixin.qq.com/s/wX9Ef1GieihCVVTUhoBOdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>算法根基不稳，还能进大厂么？</title>
     <updated>2020-11-19T18:34:48+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-11-10T21:49:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/d5y0gFpn4le1UUdNeaB5vg</id>
     <link href="https://mp.weixin.qq.com/s/d5y0gFpn4le1UUdNeaB5vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>React 凭什么成为前端开发必备神器？</title>
-    <updated>2020-11-08T21:37:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/d5k640ll-C0S3O5aR-fj-w</id>
-    <link href="https://mp.weixin.qq.com/s/d5k640ll-C0S3O5aR-fj-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用这些思路与技巧，我读懂了多个优秀的开源项目</title>
-    <updated>2020-11-08T21:37:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/3PWPHiej2yJO5FCkbmaavQ</id>
-    <link href="https://mp.weixin.qq.com/s/3PWPHiej2yJO5FCkbmaavQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
