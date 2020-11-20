@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T13:15:32+08:00</updated>
+  <updated>2020-11-20T23:17:05+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实时疫情和美国大选都在用的地图，学会这个技能你也能做</title>
+    <updated>2020-11-20T21:10:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/8U0Swb9j0SnELzqCf3YZyw</id>
+    <link href="https://mp.weixin.qq.com/s/8U0Swb9j0SnELzqCf3YZyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动火山引擎加入 Linux 云原生计算基金会（CNCF）</title>
+    <updated>2020-11-20T21:10:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/B0AiCOKEiVYu3W_mE0AsVw</id>
+    <link href="https://mp.weixin.qq.com/s/B0AiCOKEiVYu3W_mE0AsVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>容器 ：大厂的另一块敲门砖</title>
     <updated>2020-11-19T11:21:41+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-11-10T10:15:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/hHOoXhq1Xcj5QD0D5XekhA</id>
     <link href="https://mp.weixin.qq.com/s/hHOoXhq1Xcj5QD0D5XekhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker限制Docker Hub上镜像​拉取次数，开源项目不受限制</title>
-    <updated>2020-11-09T21:25:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/Uc5TxACUyRf9lCJ3xcNDOg</id>
-    <link href="https://mp.weixin.qq.com/s/Uc5TxACUyRf9lCJ3xcNDOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
