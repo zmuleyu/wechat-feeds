@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T11:35:14+08:00</updated>
+  <updated>2020-11-21T01:41:26+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Oracle 慌了！华为终于对JDK下手了！</title>
+    <updated>2020-11-20T23:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/TCu4tKEwtnYd5nZgPkkyYg</id>
+    <link href="https://mp.weixin.qq.com/s/TCu4tKEwtnYd5nZgPkkyYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何设计一个通用的权限管理系统</title>
+    <updated>2020-11-20T23:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/81w3X5IhmMUJSW4G-Pe2Gw</id>
+    <link href="https://mp.weixin.qq.com/s/81w3X5IhmMUJSW4G-Pe2Gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官写了个双冒号::问我这是什么语法？Java中有这玩意？</title>
+    <updated>2020-11-20T23:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/_uK_-L7tgOm1mcVsFeLzJQ</id>
+    <link href="https://mp.weixin.qq.com/s/_uK_-L7tgOm1mcVsFeLzJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用tcpdump查看原始数据包</title>
+    <updated>2020-11-20T23:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/lNXDCcXPr-2wxnefhuhcyw</id>
+    <link href="https://mp.weixin.qq.com/s/lNXDCcXPr-2wxnefhuhcyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画：7 种编程语言的学习曲线</title>
+    <updated>2020-11-20T23:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/8r7oCEJd67d66bgIVgeOlg</id>
+    <link href="https://mp.weixin.qq.com/s/8r7oCEJd67d66bgIVgeOlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入理解 JVM 和 GC，就不怕再被问啦！</title>
     <updated>2020-11-19T23:07:28+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-17T23:57:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/EjcclzPKyYVCSguQZrNNew</id>
     <link href="https://mp.weixin.qq.com/s/EjcclzPKyYVCSguQZrNNew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国联通官网被发现含木马脚本，可向用户推广色情APP</title>
-    <updated>2020-11-17T00:02:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/dSLOTNumFpa88v1TsldBow</id>
-    <link href="https://mp.weixin.qq.com/s/dSLOTNumFpa88v1TsldBow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot + Vue 如此强大？竟然可以开发基于 C/S 架构的应用</title>
-    <updated>2020-11-17T00:02:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/mVse1LeovVdvt9o9byeD9A</id>
-    <link href="https://mp.weixin.qq.com/s/mVse1LeovVdvt9o9byeD9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文，Prometheus 如何做到“活学活用”，大牛总结的避坑指南</title>
-    <updated>2020-11-17T00:02:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/y7R-5K7ebpirlAmssVOWSw</id>
-    <link href="https://mp.weixin.qq.com/s/y7R-5K7ebpirlAmssVOWSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文，Java接地气日常编码技巧</title>
-    <updated>2020-11-17T00:02:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/5DbILr-sro9hGhYFLh8-mw</id>
-    <link href="https://mp.weixin.qq.com/s/5DbILr-sro9hGhYFLh8-mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文，线程攻略，夯实基础很重要！</title>
-    <updated>2020-11-17T00:02:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/da6rFbi0l1lVIFL6YNZtdA</id>
-    <link href="https://mp.weixin.qq.com/s/da6rFbi0l1lVIFL6YNZtdA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

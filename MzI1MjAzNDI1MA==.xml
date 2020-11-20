@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T23:29:27+08:00</updated>
+  <updated>2020-11-21T01:35:23+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-20 Rust的Pin与Unpin</title>
+    <updated>2020-11-20T23:31:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/Re0XdzRmgVIfMuZoEzxoGA</id>
+    <link href="https://mp.weixin.qq.com/s/Re0XdzRmgVIfMuZoEzxoGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020-11-19 Rust1.48稳定版发布！</title>
     <updated>2020-11-19T22:40:58+08:00</updated>
@@ -131,13 +138,6 @@
     <updated>2020-11-11T21:38:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/Rvu9ZrIdgRWv0n0wzu91xQ</id>
     <link href="https://mp.weixin.qq.com/s/Rvu9ZrIdgRWv0n0wzu91xQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Rust唠嗑室》第13期 浅谈Rust项目应用</title>
-    <updated>2020-11-10T18:29:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/Dugj1esZQdrhNFNol3SHHQ</id>
-    <link href="https://mp.weixin.qq.com/s/Dugj1esZQdrhNFNol3SHHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
