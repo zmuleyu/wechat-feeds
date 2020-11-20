@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:29:47+08:00</updated>
+  <updated>2020-11-20T20:24:08+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实时生产中的网络设计</title>
+    <updated>2020-11-20T18:28:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/tbFSfa-tMr2iYkGuwQfpOQ</id>
+    <link href="https://mp.weixin.qq.com/s/tbFSfa-tMr2iYkGuwQfpOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用WebRTC实现低延迟网络应用</title>
     <updated>2020-11-19T19:27:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-09T08:58:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/6FVe5dvrSjE5qA7A1qCcrQ</id>
     <link href="https://mp.weixin.qq.com/s/6FVe5dvrSjE5qA7A1qCcrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SF Video Technology演讲分享[2020.7]</title>
-    <updated>2020-11-07T20:38:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/5ENkO7_o4yuxsfb_u0NNGA</id>
-    <link href="https://mp.weixin.qq.com/s/5ENkO7_o4yuxsfb_u0NNGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

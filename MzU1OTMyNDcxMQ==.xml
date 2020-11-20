@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:24:20+08:00</updated>
+  <updated>2020-11-20T20:20:21+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>社区分享 | ⾯向隐私 AI 的 TensorFlow 深度定制化实践</title>
+    <updated>2020-11-20T18:14:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/xCzE2-ZyypQVp7QB1gf0HQ</id>
+    <link href="https://mp.weixin.qq.com/s/xCzE2-ZyypQVp7QB1gf0HQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>代码不止｜一篇看懂 TensorFlow 如何助力高效开发</title>
     <updated>2020-11-19T19:13:31+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-11T18:41:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/m-XUbrwhvdvIIeNri0fR6g</id>
     <link href="https://mp.weixin.qq.com/s/m-XUbrwhvdvIIeNri0fR6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>迈向 ML 工程：TensorFlow Extended (TFX) 简史</title>
-    <updated>2020-11-10T19:25:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/ANoY3MZEvz7SvKXDE-24NQ</id>
-    <link href="https://mp.weixin.qq.com/s/ANoY3MZEvz7SvKXDE-24NQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

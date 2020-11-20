@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T20:25:07+08:00</updated>
+  <updated>2020-11-20T20:26:33+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux I/O 原理和 Zero-copy 技术全面揭秘</title>
+    <updated>2020-11-20T15:53:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/dZNjq05q9jMFYhJrjae_LA</id>
+    <link href="https://mp.weixin.qq.com/s/dZNjq05q9jMFYhJrjae_LA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用万字长文聊一聊 Embedding 技术</title>
     <updated>2020-11-18T16:36:26+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-10-30T14:29:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/6vFXphhkPpyYEDSgibl_vA</id>
     <link href="https://mp.weixin.qq.com/s/6vFXphhkPpyYEDSgibl_vA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云+社区3周年，程序员好礼送不停！</title>
-    <updated>2020-10-28T16:18:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/dZH0s8q71N3QSAXPZomOmQ</id>
-    <link href="https://mp.weixin.qq.com/s/dZH0s8q71N3QSAXPZomOmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

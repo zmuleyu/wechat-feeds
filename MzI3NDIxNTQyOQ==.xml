@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:38:47+08:00</updated>
+  <updated>2020-11-20T20:33:00+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>轻松应对海量数据，TiDB 在车好多的实践</title>
+    <updated>2020-11-20T16:31:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/tsAg2PFvl2bPHKfiCFrEMw</id>
+    <link href="https://mp.weixin.qq.com/s/tsAg2PFvl2bPHKfiCFrEMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>做一切为了好玩的极客，TiDB Committer 王贺的心路历程</title>
     <updated>2020-11-19T18:10:22+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-09T19:56:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/fJXJd7ho2D9WDC1l76wqfg</id>
     <link href="https://mp.weixin.qq.com/s/fJXJd7ho2D9WDC1l76wqfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB x 微众银行 | 耗时降低 58%，分布式架构助力实现普惠金融</title>
-    <updated>2020-11-05T18:47:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/mR0uCMek3l1D5YbaqqLemw</id>
-    <link href="https://mp.weixin.qq.com/s/mR0uCMek3l1D5YbaqqLemw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

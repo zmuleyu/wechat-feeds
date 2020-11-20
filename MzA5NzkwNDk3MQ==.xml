@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:13:22+08:00</updated>
+  <updated>2020-11-20T20:13:06+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 373 期：关于 Vue 3.0 Ref-sugar 提案的看法</title>
+    <updated>2020-11-20T17:15:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/R21FSooTRW0MNs1X68Csbw</id>
+    <link href="https://mp.weixin.qq.com/s/R21FSooTRW0MNs1X68Csbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次中台项目的ReactHook沉淀</title>
     <updated>2020-11-19T19:13:07+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-11T18:26:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/uk-vr88PCOxe6H1GEIKRdg</id>
     <link href="https://mp.weixin.qq.com/s/uk-vr88PCOxe6H1GEIKRdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Vue3+TS重构百星websocket插件</title>
-    <updated>2020-11-10T18:02:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/mn0HlurD6UXgiRhmd_NLYw</id>
-    <link href="https://mp.weixin.qq.com/s/mn0HlurD6UXgiRhmd_NLYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
