@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T23:18:23+08:00</updated>
+  <updated>2020-11-20T16:17:14+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>同步与异步 Python 有何不同？</title>
+    <updated>2020-11-20T15:35:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/vb2TsjPe5vPTFH5LT6ge0g</id>
+    <link href="https://mp.weixin.qq.com/s/vb2TsjPe5vPTFH5LT6ge0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最强下载神器 youtube-dl “复活”，GitHub 7.5 万 Star</title>
     <updated>2020-11-19T20:57:04+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-11-11T16:48:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/-XwCGJjNcofH8BR1NBHR1w</id>
     <link href="https://mp.weixin.qq.com/s/-XwCGJjNcofH8BR1NBHR1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今年双11，Python开发者别漏了这几样</title>
-    <updated>2020-11-10T23:00:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/_KcPJkJdj5jyERaBt4ioUg</id>
-    <link href="https://mp.weixin.qq.com/s/_KcPJkJdj5jyERaBt4ioUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有趣的二维码：用 MyQR 和 qrcode 制作二维码</title>
-    <updated>2020-11-10T23:00:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/G5o5ZHqhjUyqR4b7wTWrkA</id>
-    <link href="https://mp.weixin.qq.com/s/G5o5ZHqhjUyqR4b7wTWrkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

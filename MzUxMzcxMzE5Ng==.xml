@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T16:19:43+08:00</updated>
+  <updated>2020-11-20T16:21:00+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解</title>
+    <updated>2020-11-20T14:30:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/Ht8jBH0EZC3MdzHTKnp31A</id>
+    <link href="https://mp.weixin.qq.com/s/Ht8jBH0EZC3MdzHTKnp31A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒</title>
+    <updated>2020-11-20T14:30:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/rxmrixEA5FanF9LJieDUzg</id>
+    <link href="https://mp.weixin.qq.com/s/rxmrixEA5FanF9LJieDUzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>技术是泛娱乐的基础推动力，看腾讯云怎么玩？ | 活动推荐</title>
+    <updated>2020-11-20T14:30:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/vQGPJgIc9Zk0ArMOv9kcew</id>
+    <link href="https://mp.weixin.qq.com/s/vQGPJgIc9Zk0ArMOv9kcew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flutter 的新功能、Dart 开发工具以及一行神奇的 CSS 代码 | Google 开发者大会见闻</title>
     <updated>2020-11-19T15:03:13+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-08T16:44:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/wAFKekwKeor17up_L9qvdw</id>
     <link href="https://mp.weixin.qq.com/s/wAFKekwKeor17up_L9qvdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微众银行React Native App自动化质量工具的探索实践| InfoQ 公开课</title>
-    <updated>2020-11-08T16:44:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/G3DKPZ2lgxeW71JLh6Q4VQ</id>
-    <link href="https://mp.weixin.qq.com/s/G3DKPZ2lgxeW71JLh6Q4VQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么说Flutter可能不是下一件大事？</title>
-    <updated>2020-11-06T12:56:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/PEqFiEugbT4chJv-GOdVAg</id>
-    <link href="https://mp.weixin.qq.com/s/PEqFiEugbT4chJv-GOdVAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>滴滴DoKit Android核心原理揭秘之AOP字节码实现</title>
-    <updated>2020-11-06T12:56:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/OAHX_5q7-DqKvS7O_Q98vw</id>
-    <link href="https://mp.weixin.qq.com/s/OAHX_5q7-DqKvS7O_Q98vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
