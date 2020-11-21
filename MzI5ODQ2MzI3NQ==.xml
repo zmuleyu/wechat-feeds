@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T23:17:05+08:00</updated>
+  <updated>2020-11-21T23:16:20+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从本地迁移到云的四个主要挑战</title>
+    <updated>2020-11-21T21:15:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/1dv7pcHs8wBCn6UpebZStA</id>
+    <link href="https://mp.weixin.qq.com/s/1dv7pcHs8wBCn6UpebZStA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>实时疫情和美国大选都在用的地图，学会这个技能你也能做</title>
     <updated>2020-11-20T21:10:58+08:00</updated>
@@ -99,13 +106,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>50+云原生大咖集结完毕，CNBPS 2020日程落定，5天后见！</title>
-    <updated>2020-11-14T12:31:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/JBgOBwgeCrOqfdpXYDUA6g</id>
-    <link href="https://mp.weixin.qq.com/s/JBgOBwgeCrOqfdpXYDUA6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>数据库、消息队列、缓存等方法论，和微服务有什么关系？</title>
     <updated>2020-11-13T08:24:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/u6fm1yHLVot6Pvu3HEVlEw</id>
@@ -131,13 +131,6 @@
     <updated>2020-11-11T11:32:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/KZlNqFRb6_N56oE-OKvFBA</id>
     <link href="https://mp.weixin.qq.com/s/KZlNqFRb6_N56oE-OKvFBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年Kubernetes中7个最佳日志管理工具</title>
-    <updated>2020-11-10T10:15:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/hHOoXhq1Xcj5QD0D5XekhA</id>
-    <link href="https://mp.weixin.qq.com/s/hHOoXhq1Xcj5QD0D5XekhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
