@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:31:38+08:00</updated>
+  <updated>2020-11-22T01:24:08+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图像分类：来自Kaggle中13个项目的Tips和Tricks</title>
+    <updated>2020-11-21T23:47:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/hpmefgwaB2wzywloHDPA6g</id>
+    <link href="https://mp.weixin.qq.com/s/hpmefgwaB2wzywloHDPA6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>当年要是这样搞，我的C++也不至于这样！</title>
     <updated>2020-11-19T17:28:57+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-02T23:43:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/YeCUoufxfJzMqjHIOHGU8g</id>
     <link href="https://mp.weixin.qq.com/s/YeCUoufxfJzMqjHIOHGU8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-3D人体姿态估计篇</title>
-    <updated>2020-11-02T23:43:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/osV0zjSLIifJL0nbt1jhUQ</id>
-    <link href="https://mp.weixin.qq.com/s/osV0zjSLIifJL0nbt1jhUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
