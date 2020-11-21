@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T16:20:13+08:00</updated>
+  <updated>2020-11-21T11:23:38+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年，百万开发者心中最优秀的开源、云原生项目都在这里</title>
+    <updated>2020-11-20T21:37:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/WU_tWyB-Qz7BQzBP4d98Iw</id>
+    <link href="https://mp.weixin.qq.com/s/WU_tWyB-Qz7BQzBP4d98Iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前亚马逊产品经理：TikTok的真正优势，并不是算法</title>
+    <updated>2020-11-20T21:37:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/Ua9sEujcpe4uQMpFng4JCQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ua9sEujcpe4uQMpFng4JCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前Uber CTO加入韩国最大电商公司Coupang</title>
+    <updated>2020-11-20T21:37:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/2aC4ONY8jpNC8W8YGlSrww</id>
+    <link href="https://mp.weixin.qq.com/s/2aC4ONY8jpNC8W8YGlSrww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>还在用分库分表？看TiDB如何解决海量数据无感扩容难题 ｜ Q推荐</title>
+    <updated>2020-11-20T21:37:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/358v00YxUdNmAgVTQeMMTg</id>
+    <link href="https://mp.weixin.qq.com/s/358v00YxUdNmAgVTQeMMTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入浅出Spark（三）：Spark调度系统之“权力的游戏”</title>
+    <updated>2020-11-20T21:37:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/8vNw3e_aAtui9zZKSV6DXw</id>
+    <link href="https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>黑客不讲武德，苹果好自为之</title>
     <updated>2020-11-20T14:48:24+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-18T13:45:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/smIPoevgwMqahzAIML8sjA</id>
     <link href="https://mp.weixin.qq.com/s/smIPoevgwMqahzAIML8sjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AppGallery Connect研习社·沙龙走进西安，为开发者解锁Serverless ｜ Q推荐</title>
-    <updated>2020-11-18T13:45:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Lkt_UfeiX-dq4Ik1Kx0sBA</id>
-    <link href="https://mp.weixin.qq.com/s/Lkt_UfeiX-dq4Ik1Kx0sBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解Kubernetes Operator</title>
-    <updated>2020-11-18T13:45:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Ly6X3bSmbHvfJWEqGyLEdg</id>
-    <link href="https://mp.weixin.qq.com/s/Ly6X3bSmbHvfJWEqGyLEdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>30行代码如何摧毁一台27吨的发电机</title>
-    <updated>2020-11-18T13:45:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/2cYXzN062TDjfyq2__oQRw</id>
-    <link href="https://mp.weixin.qq.com/s/2cYXzN062TDjfyq2__oQRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器：大厂的另一块敲门砖 ｜ 极客时间</title>
-    <updated>2020-11-16T23:37:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/cdVxG3UGf8lL7JNpStDehQ</id>
-    <link href="https://mp.weixin.qq.com/s/cdVxG3UGf8lL7JNpStDehQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FreeWheel核心业务团队混沌工程实践之路</title>
-    <updated>2020-11-16T23:37:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/0monDPkAlMk7Yhq9swW7gQ</id>
-    <link href="https://mp.weixin.qq.com/s/0monDPkAlMk7Yhq9swW7gQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

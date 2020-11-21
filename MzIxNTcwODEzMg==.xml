@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一飞哈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-14T11:11:32+08:00</updated>
+  <updated>2020-11-21T11:15:45+08:00</updated>
   <subtitle>奇怪的价值推送者</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一飞周报：电动未来</title>
+    <updated>2020-11-21T09:38:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/9vkTXbOuXG7BPS5IAQgEnw</id>
+    <link href="https://mp.weixin.qq.com/s/9vkTXbOuXG7BPS5IAQgEnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一飞周报：拜登经济学</title>
     <updated>2020-11-14T09:03:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-12T10:20:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-12:/s/BeMC1_9wDYxR0r_xzTU5yw</id>
     <link href="https://mp.weixin.qq.com/s/BeMC1_9wDYxR0r_xzTU5yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一飞周报：蚂蚁IPO引擎预热，它的股票要买吗？</title>
-    <updated>2020-09-05T10:25:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-05:/s/h6kgNw5JlbmekWPBhptxYw</id>
-    <link href="https://mp.weixin.qq.com/s/h6kgNw5JlbmekWPBhptxYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
