@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T20:27:16+08:00</updated>
+  <updated>2020-11-21T20:27:05+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3D目标检测综述：从数据集到2D和3D方法</title>
+    <updated>2020-11-21T19:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/xPsUVY5_03SmIwwe_f1VcA</id>
+    <link href="https://mp.weixin.qq.com/s/xPsUVY5_03SmIwwe_f1VcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>语音驱动3D虚拟人，百度ACCV 2020最新文章解读</title>
+    <updated>2020-11-21T19:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/0F6M5XztLPG7yJElFm1q8Q</id>
+    <link href="https://mp.weixin.qq.com/s/0F6M5XztLPG7yJElFm1q8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么说卷积神经网络，是深度学习算法应用最成功的领域之一？</title>
+    <updated>2020-11-21T19:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/qYucCgUjPUVg9R5yCRSAvw</id>
+    <link href="https://mp.weixin.qq.com/s/qYucCgUjPUVg9R5yCRSAvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用PyTorch时，最常见的4个错误</title>
     <updated>2020-11-20T19:21:34+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-15T19:33:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/R7GnKCYrfN03Hu8gWO0njw</id>
     <link href="https://mp.weixin.qq.com/s/R7GnKCYrfN03Hu8gWO0njw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>7 Papers &amp; Radios | 依图新模型ConvBERT超越BERT；ML模型的安全与隐私</title>
-    <updated>2020-11-15T19:33:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/rInNQGW0BQL4r3NL0YDTow</id>
-    <link href="https://mp.weixin.qq.com/s/rInNQGW0BQL4r3NL0YDTow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>英伟达RTX 3080值不值得抢？有人用它在TensorFlow上训练了卷积网络</title>
-    <updated>2020-11-14T17:07:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/ovCVthkMLRFzKS-RO7pR6Q</id>
-    <link href="https://mp.weixin.qq.com/s/ovCVthkMLRFzKS-RO7pR6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨视角语义分割前沿进展｜IROS 2020</title>
-    <updated>2020-11-14T17:07:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/8jltlOnAxK1EqxYCsJHErA</id>
-    <link href="https://mp.weixin.qq.com/s/8jltlOnAxK1EqxYCsJHErA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

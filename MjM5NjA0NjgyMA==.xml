@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T20:11:35+08:00</updated>
+  <updated>2020-11-21T20:11:12+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MaAfee 2020 网络安全威胁报告</title>
+    <updated>2020-11-21T16:33:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/SkOt-c6IumBeL9hBbkmxMA</id>
+    <link href="https://mp.weixin.qq.com/s/SkOt-c6IumBeL9hBbkmxMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Magspoof：一个模拟磁条卡设备的制作与测试</title>
+    <updated>2020-11-21T16:33:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/gbXIQ9PMapuRSccuuTAlyA</id>
+    <link href="https://mp.weixin.qq.com/s/gbXIQ9PMapuRSccuuTAlyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>挖洞经验 | 构造User-Agent请求头内容实现LFI到RCE提权</title>
+    <updated>2020-11-21T16:33:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/9Nuab0Com9K9uBfeQcapdg</id>
+    <link href="https://mp.weixin.qq.com/s/9Nuab0Com9K9uBfeQcapdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>h2csmuggler：一款隐蔽性极强的HTTP2明文通信工具</title>
+    <updated>2020-11-21T16:33:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/AGox6iRUcwo-T4WEfI63KQ</id>
+    <link href="https://mp.weixin.qq.com/s/AGox6iRUcwo-T4WEfI63KQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「FVIP会员日」来了！下周三等你来“薅”</title>
     <updated>2020-11-20T17:57:28+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-17T17:27:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/WS3jnnD0mC7IAusX3fvk-w</id>
     <link href="https://mp.weixin.qq.com/s/WS3jnnD0mC7IAusX3fvk-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《CCSIP 2020中国网络安全产业全景图》正式发布 | FreeBuf咨询</title>
-    <updated>2020-11-16T17:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/qB2niujeB3zb4N4SQ7m-hw</id>
-    <link href="https://mp.weixin.qq.com/s/qB2niujeB3zb4N4SQ7m-hw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WitAwards 2020「大众投票」即日启动 | 马上投票，共鉴卓越！</title>
-    <updated>2020-11-16T17:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/611DER9-ObYzcxdermEfbg</id>
-    <link href="https://mp.weixin.qq.com/s/611DER9-ObYzcxdermEfbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gacrux：基于C语言的可自定义PE加载恶意软件</title>
-    <updated>2020-11-16T17:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/6WHtGB4jPwG13juCUlXQJQ</id>
-    <link href="https://mp.weixin.qq.com/s/6WHtGB4jPwG13juCUlXQJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Unimap：一款基于Nmap实现的扫描速度提升工具</title>
-    <updated>2020-11-16T17:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/nE9LFHxXfOIdndcVS7NvkQ</id>
-    <link href="https://mp.weixin.qq.com/s/nE9LFHxXfOIdndcVS7NvkQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

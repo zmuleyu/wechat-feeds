@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T13:13:58+08:00</updated>
+  <updated>2020-11-21T20:16:08+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GPT v.s. 中国象棋：写过文章解过题，要不再来下盘棋？</title>
+    <updated>2020-11-21T18:06:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/enf4h5XN-d45EDcLslBlnw</id>
+    <link href="https://mp.weixin.qq.com/s/enf4h5XN-d45EDcLslBlnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何兼容自训练与预训练：更高效的半监督文本分类模型</title>
+    <updated>2020-11-21T18:06:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/ePmVqvN3ElJy9HCwTq-caQ</id>
+    <link href="https://mp.weixin.qq.com/s/ePmVqvN3ElJy9HCwTq-caQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>逆势而上的技术：图神经网络学习来了！</title>
     <updated>2020-11-20T11:58:14+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-13T12:18:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/3HCt6FgMlFfKcPOu_S2Y_w</id>
     <link href="https://mp.weixin.qq.com/s/3HCt6FgMlFfKcPOu_S2Y_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>岗位内推 | 字节跳动招聘NLP、计算机视觉、推荐算法实习生</title>
-    <updated>2020-11-13T12:18:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/mt1aHAZfmMsqgqQbnpxPTg</id>
-    <link href="https://mp.weixin.qq.com/s/mt1aHAZfmMsqgqQbnpxPTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于课程学习（Curriculum Learning）的自然语言理解</title>
-    <updated>2020-11-12T19:46:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/i5ps3Wb639zef1PiNEIWsw</id>
-    <link href="https://mp.weixin.qq.com/s/i5ps3Wb639zef1PiNEIWsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
