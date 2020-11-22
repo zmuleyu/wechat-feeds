@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-21T20:11:12+08:00</updated>
+  <updated>2020-11-22T20:10:48+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>IoT漏洞研究（一）固件基础</title>
+    <updated>2020-11-22T18:01:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/4U17HLMJq5VI7-nCi3aKoA</id>
+    <link href="https://mp.weixin.qq.com/s/4U17HLMJq5VI7-nCi3aKoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何用Chimera进行PowerShell脚本混淆</title>
+    <updated>2020-11-22T18:01:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/zphl9TnE5bYcs_A1bAV2HQ</id>
+    <link href="https://mp.weixin.qq.com/s/zphl9TnE5bYcs_A1bAV2HQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Flink的网络流量实时解析</title>
+    <updated>2020-11-22T18:01:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/02HybjSW2ejCZHAMy7QZgg</id>
+    <link href="https://mp.weixin.qq.com/s/02HybjSW2ejCZHAMy7QZgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>mapCIDR：一款针对子网CIDR的渗透测试工具</title>
+    <updated>2020-11-22T18:01:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/D24RKnsrq9fScjr2X6fUWA</id>
+    <link href="https://mp.weixin.qq.com/s/D24RKnsrq9fScjr2X6fUWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MaAfee 2020 网络安全威胁报告</title>
     <updated>2020-11-21T16:33:40+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-18T17:30:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/CSVNS2ohL8MMspC-IN0yZA</id>
     <link href="https://mp.weixin.qq.com/s/CSVNS2ohL8MMspC-IN0yZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>泛在物联网终端设备安全检测的一般原则和方法</title>
-    <updated>2020-11-17T17:27:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/wGhDIYmH5Ar3hETrikTtzg</id>
-    <link href="https://mp.weixin.qq.com/s/wGhDIYmH5Ar3hETrikTtzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Capcom承认数据泄露，并披露了详细信息</title>
-    <updated>2020-11-17T17:27:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/OfeQb27JM2dZmo8joQJgog</id>
-    <link href="https://mp.weixin.qq.com/s/OfeQb27JM2dZmo8joQJgog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>勒索软件Egregor通过打印机打印勒索信息</title>
-    <updated>2020-11-17T17:27:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/cUHlewY8Ba56IPLHhJ-JnA</id>
-    <link href="https://mp.weixin.qq.com/s/cUHlewY8Ba56IPLHhJ-JnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>EternalBlueC：一款针对永恒之蓝的CC++实现工具</title>
-    <updated>2020-11-17T17:27:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/WS3jnnD0mC7IAusX3fvk-w</id>
-    <link href="https://mp.weixin.qq.com/s/WS3jnnD0mC7IAusX3fvk-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

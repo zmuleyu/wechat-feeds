@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-21T23:16:20+08:00</updated>
+  <updated>2020-11-22T20:18:54+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes项目被GitHub封存到北极</title>
+    <updated>2020-11-22T19:00:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/0S3P_tPF-qrK-BlBm4OlYA</id>
+    <link href="https://mp.weixin.qq.com/s/0S3P_tPF-qrK-BlBm4OlYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>上海Kubernetes CKA培训改成线上直播形式</title>
+    <updated>2020-11-22T19:00:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/EEo-L9J8qjvhjktORFt0fw</id>
+    <link href="https://mp.weixin.qq.com/s/EEo-L9J8qjvhjktORFt0fw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从本地迁移到云的四个主要挑战</title>
     <updated>2020-11-21T21:15:02+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-11-12T10:27:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/llwbBZHups8UBTmHRbYIQg</id>
     <link href="https://mp.weixin.qq.com/s/llwbBZHups8UBTmHRbYIQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>K8s自动扩缩容工具KEDA发布2.0版本，全面升级应用扩展能力</title>
-    <updated>2020-11-11T11:32:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/KZlNqFRb6_N56oE-OKvFBA</id>
-    <link href="https://mp.weixin.qq.com/s/KZlNqFRb6_N56oE-OKvFBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

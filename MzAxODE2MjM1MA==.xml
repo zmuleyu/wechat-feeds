@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-21T23:11:46+08:00</updated>
+  <updated>2020-11-22T20:13:31+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VUE 新语法糖魔改 JavaScript 引争议</title>
+    <updated>2020-11-22T18:54:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/oyIcV7YRW8mg4LbPijp4yA</id>
+    <link href="https://mp.weixin.qq.com/s/oyIcV7YRW8mg4LbPijp4yA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对标 Postman！2.5 万 Star 的挑战者：Hoppscotch</title>
+    <updated>2020-11-22T18:54:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/c7_x1zEL8a58W0sxFfAsqw</id>
+    <link href="https://mp.weixin.qq.com/s/c7_x1zEL8a58W0sxFfAsqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chrome 87 新特性解读，多年来 Chrome 性能最大提升！</title>
     <updated>2020-11-20T22:34:40+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-11-12T22:05:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/D867pstcuk4TszMn3zRJRw</id>
     <link href="https://mp.weixin.qq.com/s/D867pstcuk4TszMn3zRJRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>能读 React 源码的人，很吃香！</title>
-    <updated>2020-11-11T00:57:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/wJEp6ZH8X44HtWrsD9wykg</id>
-    <link href="https://mp.weixin.qq.com/s/wJEp6ZH8X44HtWrsD9wykg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>12 道腾讯前端面试真题及答案整理</title>
-    <updated>2020-11-11T00:57:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/caBOODlnPJDdzw45Ngn_Fw</id>
-    <link href="https://mp.weixin.qq.com/s/caBOODlnPJDdzw45Ngn_Fw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
