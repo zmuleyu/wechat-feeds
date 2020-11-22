@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T01:28:44+08:00</updated>
+  <updated>2020-11-23T01:24:11+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-22 Vec即将支持自定义的内存分配器</title>
+    <updated>2020-11-22T23:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/0eNf3ssWUJ6_9fxPJ8YyzQ</id>
+    <link href="https://mp.weixin.qq.com/s/0eNf3ssWUJ6_9fxPJ8YyzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-21 使用 const 泛型的物理单位</title>
     <updated>2020-11-21T23:06:07+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-13T21:53:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/1BvFJId2cCCdw3lvHyPQog</id>
     <link href="https://mp.weixin.qq.com/s/1BvFJId2cCCdw3lvHyPQog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】 2020-11-12 探索 Rust 编译器的 PGO</title>
-    <updated>2020-11-12T22:51:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/ze5RiQzNZGogMalIjhyLUw</id>
-    <link href="https://mp.weixin.qq.com/s/ze5RiQzNZGogMalIjhyLUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-11 -「InfluxDB IOx」未来会用 Rust 和 Arrow 构建内核</title>
-    <updated>2020-11-12T22:51:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/lH9cdxtFdCRylqS9wCfS9Q</id>
-    <link href="https://mp.weixin.qq.com/s/lH9cdxtFdCRylqS9wCfS9Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
