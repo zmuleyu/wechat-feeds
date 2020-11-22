@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T23:25:05+08:00</updated>
+  <updated>2020-11-22T23:29:58+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CentOS7安装最新版Redis6.0.9</title>
+    <updated>2020-11-22T23:00:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/vOQII5GPysH_3lqDGf28gA</id>
+    <link href="https://mp.weixin.qq.com/s/vOQII5GPysH_3lqDGf28gA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>即使你经常使用Python写程序，也可能会犯错</title>
     <updated>2020-11-18T22:58:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-17T23:01:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-17:/s/qrKBDuOY9ydwWOKk4ZPMeQ</id>
     <link href="https://mp.weixin.qq.com/s/qrKBDuOY9ydwWOKk4ZPMeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有意思的简笔画</title>
-    <updated>2020-09-15T23:03:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/yJXytT6VTybzS_aXFp8j0w</id>
-    <link href="https://mp.weixin.qq.com/s/yJXytT6VTybzS_aXFp8j0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

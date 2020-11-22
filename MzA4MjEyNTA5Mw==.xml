@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-21T23:16:11+08:00</updated>
+  <updated>2020-11-22T23:15:09+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>f-string 竟然能有 73 个例子，我要学习下</title>
+    <updated>2020-11-22T20:40:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/x06toCJRWu87QEsQGEpIDg</id>
+    <link href="https://mp.weixin.qq.com/s/x06toCJRWu87QEsQGEpIDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用了 10 年 Windows 后，我最终转向 Linux</title>
     <updated>2020-11-21T21:04:21+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-11-13T11:47:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/aFxQDNrPgjNJme6osHZQKg</id>
     <link href="https://mp.weixin.qq.com/s/aFxQDNrPgjNJme6osHZQKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何 Import 自定义的 Python 模块?</title>
-    <updated>2020-11-12T21:09:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/w754jZeFWBjm_WSc2xMCBw</id>
-    <link href="https://mp.weixin.qq.com/s/w754jZeFWBjm_WSc2xMCBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

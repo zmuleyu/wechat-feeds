@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-21T23:17:17+08:00</updated>
+  <updated>2020-11-22T23:15:34+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用 Docker Registry 部署私有 docker 仓库</title>
+    <updated>2020-11-22T21:52:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/lqgJEKZCvMzwpWgps58PJQ</id>
+    <link href="https://mp.weixin.qq.com/s/lqgJEKZCvMzwpWgps58PJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>进阶 | 使用 Docker Harbor 部署私有仓库</title>
+    <updated>2020-11-22T21:52:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/P5uHUP0JYsllmucBVRYTpw</id>
+    <link href="https://mp.weixin.qq.com/s/P5uHUP0JYsllmucBVRYTpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>12分Nature子刊教你多组学分析通路</title>
     <updated>2020-11-21T21:54:46+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-11-13T22:17:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/fhNoObyP1tJcas-w_0m3cQ</id>
     <link href="https://mp.weixin.qq.com/s/fhNoObyP1tJcas-w_0m3cQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Seurat Weekly NO.2 || 我该如何取子集？</title>
-    <updated>2020-11-12T21:24:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CcphkXbODRycEyXQjComdg</id>
-    <link href="https://mp.weixin.qq.com/s/CcphkXbODRycEyXQjComdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>cytof数据资源介绍（文末有交流群）</title>
-    <updated>2020-11-12T21:24:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CE6akGSuMzXrOeO_8hJRVA</id>
-    <link href="https://mp.weixin.qq.com/s/CE6akGSuMzXrOeO_8hJRVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
