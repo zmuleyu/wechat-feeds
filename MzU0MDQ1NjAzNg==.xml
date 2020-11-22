@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T11:12:39+08:00</updated>
+  <updated>2020-11-22T13:16:03+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>19 种损失函数，你能认识几个？</title>
+    <updated>2020-11-22T10:06:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/IJxPrIzqFSaUnLhlUn911Q</id>
+    <link href="https://mp.weixin.qq.com/s/IJxPrIzqFSaUnLhlUn911Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>硬核 | 谈一谈逆势而上的图神经网络技术（附干货资料）</title>
+    <updated>2020-11-22T10:06:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/lXhUnWky44hC4q9OPuv0IQ</id>
+    <link href="https://mp.weixin.qq.com/s/lXhUnWky44hC4q9OPuv0IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer 又立功了！又快(420 fps)又好的车道线检测算法</title>
+    <updated>2020-11-22T10:06:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/NUv4N6JZu3mPxJtlSygXUw</id>
+    <link href="https://mp.weixin.qq.com/s/NUv4N6JZu3mPxJtlSygXUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【收藏】23个机器学习最佳入门项目（附源代码）</title>
     <updated>2020-11-21T08:46:32+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-15T12:22:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/KvBzbRAdcGHizp_mVC8GCQ</id>
     <link href="https://mp.weixin.qq.com/s/KvBzbRAdcGHizp_mVC8GCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python之父，现在成为微软打工人！</title>
-    <updated>2020-11-13T23:30:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/5VrjvxRZfmexS90OE3kkNQ</id>
-    <link href="https://mp.weixin.qq.com/s/5VrjvxRZfmexS90OE3kkNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习调参 tricks 总结</title>
-    <updated>2020-11-13T23:30:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/fYO8w9wOBgmNUwg97M4mxg</id>
-    <link href="https://mp.weixin.qq.com/s/fYO8w9wOBgmNUwg97M4mxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Machine Learning】详解5大常用的特征选择方法</title>
-    <updated>2020-11-13T10:19:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/5qCGcv0hFW2P_WEf_IyF0w</id>
-    <link href="https://mp.weixin.qq.com/s/5qCGcv0hFW2P_WEf_IyF0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
