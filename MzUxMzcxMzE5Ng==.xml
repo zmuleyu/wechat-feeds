@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T20:21:05+08:00</updated>
+  <updated>2020-11-23T16:28:39+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vue 新语法糖引争议，网友：魔改 JavaScript，这是想挑战标准？</title>
+    <updated>2020-11-23T13:42:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/5qoeRQ7hnszFxzWMVf8UYQ</id>
+    <link href="https://mp.weixin.qq.com/s/5qoeRQ7hnszFxzWMVf8UYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>React Portals 简述及其用例</title>
+    <updated>2020-11-23T13:42:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/ucfp6-LMPb_cRlVjrKukEQ</id>
+    <link href="https://mp.weixin.qq.com/s/ucfp6-LMPb_cRlVjrKukEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>还在用分库分表？看TiDB如何解决海量数据无感扩容难题 ｜ 活动推荐</title>
+    <updated>2020-11-23T13:42:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/fgsOlRNGPxQjFK2hdo-VIA</id>
+    <link href="https://mp.weixin.qq.com/s/fgsOlRNGPxQjFK2hdo-VIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端周报：苹果芯成开发者噩梦，多款软件无法正常运行；2020谷歌开发者大会正式举行；苹果回应iPhone 12绿屏：或为系统问题</title>
     <updated>2020-11-22T16:54:05+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-11T12:17:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/hiIOSO4TUeWO6g1QCoA3QQ</id>
     <link href="https://mp.weixin.qq.com/s/hiIOSO4TUeWO6g1QCoA3QQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Web 开发人员应避免的 5 个错误</title>
-    <updated>2020-11-09T11:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/_GfNkGn3ctsTx7Vmce-sRQ</id>
-    <link href="https://mp.weixin.qq.com/s/_GfNkGn3ctsTx7Vmce-sRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TypeScript 4.1 RC 版本发布：带来了令人兴奋的新特性</title>
-    <updated>2020-11-09T11:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/XM4-F6SM7noHwKcQ0Wl-IA</id>
-    <link href="https://mp.weixin.qq.com/s/XM4-F6SM7noHwKcQ0Wl-IA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源项目正式集结完毕，百万开发者正在投票 | 活动推荐</title>
-    <updated>2020-11-09T11:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/6iQcskZDnCNnM4dzSOAvMw</id>
-    <link href="https://mp.weixin.qq.com/s/6iQcskZDnCNnM4dzSOAvMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
