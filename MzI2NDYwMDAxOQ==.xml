@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UEFI社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-19T20:12:03+08:00</updated>
+  <updated>2020-11-23T23:15:36+08:00</updated>
   <subtitle>UEFI关注者的家园</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>跟我学改BIOS之一：BIOS里面都有什么？</title>
+    <updated>2020-11-23T20:12:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/SMjyQ8kyFFNSqA8tC3RMDA</id>
+    <link href="https://mp.weixin.qq.com/s/SMjyQ8kyFFNSqA8tC3RMDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CPU是如何做体检和分级的？兼论DFx的重要性</title>
     <updated>2020-11-19T17:14:11+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-07-21T18:33:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-21:/s/Ce8Ywl-eB1G-b8DuqOPZEQ</id>
     <link href="https://mp.weixin.qq.com/s/Ce8Ywl-eB1G-b8DuqOPZEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CPU是怎么改变频率的？</title>
-    <updated>2020-07-05T13:45:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-05:/s/nYF9P0hdtT4FsZRKpLB-Gg</id>
-    <link href="https://mp.weixin.qq.com/s/nYF9P0hdtT4FsZRKpLB-Gg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
