@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T20:20:21+08:00</updated>
+  <updated>2020-11-23T20:23:19+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow 怎样玩出花？来看看 Community Spotlight 获奖项目吧！</title>
+    <updated>2020-11-23T19:13:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/-g_AnxcRCKYE1UOzKi5qeQ</id>
+    <link href="https://mp.weixin.qq.com/s/-g_AnxcRCKYE1UOzKi5qeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社区分享 | ⾯向隐私 AI 的 TensorFlow 深度定制化实践</title>
     <updated>2020-11-20T18:14:13+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-12T18:44:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/RmEAdLeUhIO-li5KiO8eEw</id>
     <link href="https://mp.weixin.qq.com/s/RmEAdLeUhIO-li5KiO8eEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>案例分享 | CEVA 使用 TensorFlow Lite 在边缘设备部署语音识别引擎及前端</title>
-    <updated>2020-11-11T18:41:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/m-XUbrwhvdvIIeNri0fR6g</id>
-    <link href="https://mp.weixin.qq.com/s/m-XUbrwhvdvIIeNri0fR6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

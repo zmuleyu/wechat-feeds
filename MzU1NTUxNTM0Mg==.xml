@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T20:27:03+08:00</updated>
+  <updated>2020-11-23T20:31:07+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>BN和Dropout在训练和测试时有哪些差别？</title>
+    <updated>2020-11-23T17:21:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/7WOdlgJmJEJfbVKXB-dXvA</id>
+    <link href="https://mp.weixin.qq.com/s/7WOdlgJmJEJfbVKXB-dXvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LSTM模型结构的可视化</title>
+    <updated>2020-11-23T17:21:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/KJ49HI7-g23-Dgz7M9rfWw</id>
+    <link href="https://mp.weixin.qq.com/s/KJ49HI7-g23-Dgz7M9rfWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>加州政府：特斯拉工人很重要，别人居家隔离你们要来上班</title>
+    <updated>2020-11-23T17:21:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/_t1KVk6XA9AZUnkZ2J5C0w</id>
+    <link href="https://mp.weixin.qq.com/s/_t1KVk6XA9AZUnkZ2J5C0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVChain：一条用视觉竞赛和项目经验打磨出的计算机视觉完整工具链</title>
     <updated>2020-11-22T18:40:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-17T18:51:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/Xt8vcXHNLWM66lnKe3gm9A</id>
     <link href="https://mp.weixin.qq.com/s/Xt8vcXHNLWM66lnKe3gm9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习搞起来！对标英伟达Tensor Core，AMD推出Matrix Core</title>
-    <updated>2020-11-17T18:51:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/u-0W--i8-e_0Aw0B_ml3qw</id>
-    <link href="https://mp.weixin.qq.com/s/u-0W--i8-e_0Aw0B_ml3qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>9个技巧让你的PyTorch模型训练变得飞快！</title>
-    <updated>2020-11-16T20:39:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/DBr1DkwQTIRgM4HgcIiPMQ</id>
-    <link href="https://mp.weixin.qq.com/s/DBr1DkwQTIRgM4HgcIiPMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Batch Normalization 的诅咒</title>
-    <updated>2020-11-16T20:39:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/GEUyHqm3hvJkmA3UQWQyrA</id>
-    <link href="https://mp.weixin.qq.com/s/GEUyHqm3hvJkmA3UQWQyrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

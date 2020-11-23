@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T20:18:54+08:00</updated>
+  <updated>2020-11-23T20:23:49+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯、蚂蚁、华为等大厂是如何玩转 DevOps 的？</title>
+    <updated>2020-11-23T17:57:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/DmE57pOLdAfn4OFeeC_mJQ</id>
+    <link href="https://mp.weixin.qq.com/s/DmE57pOLdAfn4OFeeC_mJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>又一个K8s UI开源项目Headlamp</title>
+    <updated>2020-11-23T17:57:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/7nrbc8qXVNdnb0Z_eUAMHw</id>
+    <link href="https://mp.weixin.qq.com/s/7nrbc8qXVNdnb0Z_eUAMHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>北京： Kubernetes CKA实战培训</title>
+    <updated>2020-11-23T17:57:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/Ch5g3nk7_Se2OaAPguFpIQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ch5g3nk7_Se2OaAPguFpIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes项目被GitHub封存到北极</title>
     <updated>2020-11-22T19:00:49+08:00</updated>
@@ -85,24 +106,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>万亿级微服务架构，阿里云专家刚给出的一手实践解决方案</title>
-    <updated>2020-11-17T11:37:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/psY-j23S5oCfjMxmLUN__A</id>
-    <link href="https://mp.weixin.qq.com/s/psY-j23S5oCfjMxmLUN__A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Kubernetes面临的数据保护挑战</title>
     <updated>2020-11-17T11:37:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/cZ8o6FxXba3yHOsNnSOrZQ</id>
     <link href="https://mp.weixin.qq.com/s/cZ8o6FxXba3yHOsNnSOrZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>API 选型非得 Gateway？</title>
-    <updated>2020-11-16T11:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/y00wHmUrMQ7VnXrxQDLtpA</id>
-    <link href="https://mp.weixin.qq.com/s/y00wHmUrMQ7VnXrxQDLtpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,20 +131,6 @@
     <updated>2020-11-13T08:24:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/u6fm1yHLVot6Pvu3HEVlEw</id>
     <link href="https://mp.weixin.qq.com/s/u6fm1yHLVot6Pvu3HEVlEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>本月上海： Kubernetes CKA实战培训</title>
-    <updated>2020-11-12T10:27:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/sGxk7G3RawZZ47E3lTQXRQ</id>
-    <link href="https://mp.weixin.qq.com/s/sGxk7G3RawZZ47E3lTQXRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>更新完IOS14，网络工程师又开始背锅了</title>
-    <updated>2020-11-12T10:27:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/llwbBZHups8UBTmHRbYIQg</id>
-    <link href="https://mp.weixin.qq.com/s/llwbBZHups8UBTmHRbYIQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
