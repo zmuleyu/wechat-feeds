@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T20:13:31+08:00</updated>
+  <updated>2020-11-23T13:11:39+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如果Element UI 不维护了，也不支持 Vue3.0 了，怎么办？</title>
+    <updated>2020-11-22T21:16:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/lKCNMF1gekOoUH0PwFIKEA</id>
+    <link href="https://mp.weixin.qq.com/s/lKCNMF1gekOoUH0PwFIKEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万物皆可快速上手之Electron(第一弹)</title>
+    <updated>2020-11-22T21:16:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/5aEdkaETCSsdfxVAzbpj7Q</id>
+    <link href="https://mp.weixin.qq.com/s/5aEdkaETCSsdfxVAzbpj7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VUE 新语法糖魔改 JavaScript 引争议</title>
     <updated>2020-11-22T18:54:29+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-11-13T00:04:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/4mPvpxsE3GZ7z63Pa3cHPA</id>
     <link href="https://mp.weixin.qq.com/s/4mPvpxsE3GZ7z63Pa3cHPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Facebook 新一代 React 状态管理库 Recoil</title>
-    <updated>2020-11-12T22:05:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/D867pstcuk4TszMn3zRJRw</id>
-    <link href="https://mp.weixin.qq.com/s/D867pstcuk4TszMn3zRJRw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

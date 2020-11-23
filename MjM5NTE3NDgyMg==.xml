@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软中国MSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T11:33:39+08:00</updated>
+  <updated>2020-11-23T13:26:36+08:00</updated>
   <subtitle>微软云Azure技术生态官方公众平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET 应用如何优雅的做功能开关（Feature Flag）</title>
+    <updated>2020-11-23T12:47:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/nI1EfYGICcJgmE9lRcC6lg</id>
+    <link href="https://mp.weixin.qq.com/s/nI1EfYGICcJgmE9lRcC6lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>当“Made in China”遭遇2020，是停滞还是突破？</title>
     <updated>2020-11-21T12:36:48+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-12T17:09:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/m70HsDbBcaIWVRfeYZXZfg</id>
     <link href="https://mp.weixin.qq.com/s/m70HsDbBcaIWVRfeYZXZfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软MVP文章精选 | Magicodes.IE 3.0重磅设计畅谈</title>
-    <updated>2020-11-11T15:18:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/iTAHwe3Cg75bPk99uQKlRA</id>
-    <link href="https://mp.weixin.qq.com/s/iTAHwe3Cg75bPk99uQKlRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 5 和 C#9 /F#5 一起到来, 向实现 .NET 统一迈出了一大步</title>
-    <updated>2020-11-11T15:18:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/_u0uibqSX47r5zmFW9Sx5w</id>
-    <link href="https://mp.weixin.qq.com/s/_u0uibqSX47r5zmFW9Sx5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
