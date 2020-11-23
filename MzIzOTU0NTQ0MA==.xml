@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T11:14:26+08:00</updated>
+  <updated>2020-11-23T11:13:28+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>40亿条/秒！Flink流批一体在阿里双11首次落地的背后</title>
+    <updated>2020-11-22T21:35:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/lB0rEICDsK1_qsELG12KnQ</id>
+    <link href="https://mp.weixin.qq.com/s/lB0rEICDsK1_qsELG12KnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据人的“大考”：AnalyticDB如何强力支撑双11？</title>
     <updated>2020-11-19T18:18:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-08T23:15:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/7ax9KpNkfmPJqtCZgU6ELg</id>
     <link href="https://mp.weixin.qq.com/s/7ax9KpNkfmPJqtCZgU6ELg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>8条经验轻松上手IDEA插件开发</title>
-    <updated>2020-11-05T18:14:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/49ER9lf37VWgYX1pxOsZlg</id>
-    <link href="https://mp.weixin.qq.com/s/49ER9lf37VWgYX1pxOsZlg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

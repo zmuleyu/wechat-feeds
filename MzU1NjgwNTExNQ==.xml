@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T11:08:38+08:00</updated>
+  <updated>2020-11-23T11:08:59+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用一个实战项目快速入门VUE3.0！</title>
+    <updated>2020-11-22T21:08:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/tQqSBQn6ARR_8-6sItG0uw</id>
+    <link href="https://mp.weixin.qq.com/s/tQqSBQn6ARR_8-6sItG0uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里将入局树莓派的微型计算机市场</title>
+    <updated>2020-11-22T21:08:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/B_UmJ1L5ndSfwH6-NOvTgQ</id>
+    <link href="https://mp.weixin.qq.com/s/B_UmJ1L5ndSfwH6-NOvTgQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软与苹果联手 —— Apple Silicon Mac 流畅运行 Microsoft Office</title>
     <updated>2020-11-21T23:23:54+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-11-13T15:31:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/lvxJ0oqZG4dogdLw24LpIw</id>
     <link href="https://mp.weixin.qq.com/s/lvxJ0oqZG4dogdLw24LpIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软发布VS Code Jupyter插件！不止Python！多语言的Jupyter Notebook支持来了！</title>
-    <updated>2020-11-12T23:21:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/CdLmk43RDD7qf3iiJMkJUQ</id>
-    <link href="https://mp.weixin.qq.com/s/CdLmk43RDD7qf3iiJMkJUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

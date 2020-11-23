@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T11:26:48+08:00</updated>
+  <updated>2020-11-23T11:24:01+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Netflix基于云的微服务架构设计分析</title>
+    <updated>2020-11-23T07:26:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/u5sJboLJIZFzAHl4hs7IIg</id>
+    <link href="https://mp.weixin.qq.com/s/u5sJboLJIZFzAHl4hs7IIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes实战培训</title>
+    <updated>2020-11-23T07:26:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/tUnqQUumYCe9SBeNIVoCxw</id>
+    <link href="https://mp.weixin.qq.com/s/tUnqQUumYCe9SBeNIVoCxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes：通过移除CPU限制实现服务加速</title>
     <updated>2020-11-22T07:46:36+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-14T08:09:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/NDBkNn9pqnclj4qRu-QrBQ</id>
     <link href="https://mp.weixin.qq.com/s/NDBkNn9pqnclj4qRu-QrBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ZooKeeper集群“脑裂”问题处理大全</title>
-    <updated>2020-11-13T07:32:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/Jg01zDCNVR5bw0WDbyMxWQ</id>
-    <link href="https://mp.weixin.qq.com/s/Jg01zDCNVR5bw0WDbyMxWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 最后3个名额</title>
-    <updated>2020-11-13T07:32:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/m-8QyR4Wmldz3jTyCi5S7w</id>
-    <link href="https://mp.weixin.qq.com/s/m-8QyR4Wmldz3jTyCi5S7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

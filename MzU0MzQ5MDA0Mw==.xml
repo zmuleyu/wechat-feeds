@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T23:21:16+08:00</updated>
+  <updated>2020-11-23T11:22:18+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ZooKeeper源码之殇，5年码农才懂的真相！</title>
+    <updated>2020-11-22T18:54:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/L4MybHqp_db22YQwEtOgig</id>
+    <link href="https://mp.weixin.qq.com/s/L4MybHqp_db22YQwEtOgig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一次看完28个关于ES的性能调优技巧</title>
+    <updated>2020-11-22T18:54:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/G-GerbCIaB85XSOINB74yg</id>
+    <link href="https://mp.weixin.qq.com/s/G-GerbCIaB85XSOINB74yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>科普：CPU缓存一致性协议</title>
     <updated>2020-11-22T18:47:45+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-11-13T22:39:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/-pjql9bbqrJSOzb2icMTVg</id>
     <link href="https://mp.weixin.qq.com/s/-pjql9bbqrJSOzb2icMTVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试管：用了HTTPS就安全了吗？HTTPS 会被抓包吗？</title>
-    <updated>2020-11-12T23:35:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/YmoB882HiL5eIanMjtHF3w</id>
-    <link href="https://mp.weixin.qq.com/s/YmoB882HiL5eIanMjtHF3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
