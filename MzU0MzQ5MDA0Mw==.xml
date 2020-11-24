@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T11:22:18+08:00</updated>
+  <updated>2020-11-24T11:22:54+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据库高可用(HA)技术有哪些？</title>
+    <updated>2020-11-23T20:56:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/RZ7b8IKC7N3E87DaZhWaVA</id>
+    <link href="https://mp.weixin.qq.com/s/RZ7b8IKC7N3E87DaZhWaVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>太赞了！Github上都没有的“网约车”项目！！！</title>
+    <updated>2020-11-23T20:56:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/7fobMIjQPP_cFzr71u8kUQ</id>
+    <link href="https://mp.weixin.qq.com/s/7fobMIjQPP_cFzr71u8kUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ZooKeeper源码之殇，5年码农才懂的真相！</title>
     <updated>2020-11-22T18:54:25+08:00</updated>
@@ -29,24 +43,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>太强了！仿京东电商项目终于开源了~</title>
-    <updated>2020-11-20T22:55:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/DjvlOnDLLU5Iw9bfzqrtbA</id>
-    <link href="https://mp.weixin.qq.com/s/DjvlOnDLLU5Iw9bfzqrtbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>CPU缓存L1/L2/L3工作原理</title>
     <updated>2020-11-20T22:55:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/2uYV2Z_5aoUIINr8g7kTQw</id>
     <link href="https://mp.weixin.qq.com/s/2uYV2Z_5aoUIINr8g7kTQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构评审，技术总监怒了，丢给我 400 个架构案例，先研究透！</title>
-    <updated>2020-11-20T00:51:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/qfT7K9U-CIG5Aq-yDKTGSQ</id>
-    <link href="https://mp.weixin.qq.com/s/qfT7K9U-CIG5Aq-yDKTGSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +89,6 @@
     <updated>2020-11-15T10:52:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/j9_var9wV-dNWPU0ny4nmA</id>
     <link href="https://mp.weixin.qq.com/s/j9_var9wV-dNWPU0ny4nmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高可用解决方案：同城双活？异地双活？异地多活？怎么实现？</title>
-    <updated>2020-11-13T22:39:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/-pjql9bbqrJSOzb2icMTVg</id>
-    <link href="https://mp.weixin.qq.com/s/-pjql9bbqrJSOzb2icMTVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

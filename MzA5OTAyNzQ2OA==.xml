@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T11:24:01+08:00</updated>
+  <updated>2020-11-24T11:27:17+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂 Nginx</title>
+    <updated>2020-11-23T23:31:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/u96ckXUF7yxNNRXUf0lr9A</id>
+    <link href="https://mp.weixin.qq.com/s/u96ckXUF7yxNNRXUf0lr9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes实战培训 | 深圳站</title>
+    <updated>2020-11-23T23:31:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/YPWcBegO1ZHvJGmW9z4UFw</id>
+    <link href="https://mp.weixin.qq.com/s/YPWcBegO1ZHvJGmW9z4UFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Netflix基于云的微服务架构设计分析</title>
     <updated>2020-11-23T07:26:38+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-15T08:06:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/MjeZHOb__qWrNL6yjzscJQ</id>
     <link href="https://mp.weixin.qq.com/s/MjeZHOb__qWrNL6yjzscJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>近万服务实例稳定运行 0 故障，携程微服务架构是如何落地的？</title>
-    <updated>2020-11-14T08:09:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/pqrDJPYH7DhCetI6ljc_cA</id>
-    <link href="https://mp.weixin.qq.com/s/pqrDJPYH7DhCetI6ljc_cA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | Kubernetes 在直播电商行业的多集群应用实践</title>
-    <updated>2020-11-14T08:09:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/NDBkNn9pqnclj4qRu-QrBQ</id>
-    <link href="https://mp.weixin.qq.com/s/NDBkNn9pqnclj4qRu-QrBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

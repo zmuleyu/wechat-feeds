@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T11:13:28+08:00</updated>
+  <updated>2020-11-24T11:13:24+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MaxCompute 交互式分析（Hologres）如何完美支撑双11智能客服实时数仓？</title>
+    <updated>2020-11-23T18:47:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/qnTo5QJNsR_2lYrW90OfVQ</id>
+    <link href="https://mp.weixin.qq.com/s/qnTo5QJNsR_2lYrW90OfVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>40亿条/秒！Flink流批一体在阿里双11首次落地的背后</title>
     <updated>2020-11-22T21:35:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-10T08:09:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/tG1kOGtAJzHc37XGlsfAPQ</id>
     <link href="https://mp.weixin.qq.com/s/tG1kOGtAJzHc37XGlsfAPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何设计一个端计算架构？</title>
-    <updated>2020-11-08T23:15:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/7ax9KpNkfmPJqtCZgU6ELg</id>
-    <link href="https://mp.weixin.qq.com/s/7ax9KpNkfmPJqtCZgU6ELg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T13:19:15+08:00</updated>
+  <updated>2020-11-24T11:23:02+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>获取后台位置访问权限，您还需要注意哪些？</title>
+    <updated>2020-11-24T09:18:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/HARTMLCKTmIGGS5bFYCSZQ</id>
+    <link href="https://mp.weixin.qq.com/s/HARTMLCKTmIGGS5bFYCSZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>衡量预训练 NLP 模型中的性别相关性</title>
     <updated>2020-11-23T11:36:12+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-15T20:47:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/pjbLHAGLvaNitgQijcyD0g</id>
     <link href="https://mp.weixin.qq.com/s/pjbLHAGLvaNitgQijcyD0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>庆祝 TensorFlow 5 周年的五种方式！</title>
-    <updated>2020-11-14T21:06:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/aQgzLbmdgelkmv5vlPYlAg</id>
-    <link href="https://mp.weixin.qq.com/s/aQgzLbmdgelkmv5vlPYlAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flutter 助力 Google Pay 推动全球产品开发</title>
-    <updated>2020-11-14T21:06:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/2y3dWbA4uZbwfTx_bOGdSQ</id>
-    <link href="https://mp.weixin.qq.com/s/2y3dWbA4uZbwfTx_bOGdSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

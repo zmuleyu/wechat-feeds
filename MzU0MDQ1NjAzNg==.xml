@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T13:12:06+08:00</updated>
+  <updated>2020-11-24T11:12:54+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -113,13 +113,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>老板总是问我进行数据挖掘时，为什么没有数据思维，该怎么办？</title>
-    <updated>2020-11-17T08:42:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/qNeuAKyetKVI0C5BLOaHOQ</id>
-    <link href="https://mp.weixin.qq.com/s/qNeuAKyetKVI0C5BLOaHOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>如何从频域的角度解释CNN（卷积神经网络）？</title>
     <updated>2020-11-17T08:42:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/yGm_qfwpAPqwq82OYHTrdQ</id>
@@ -145,6 +138,13 @@
     <updated>2020-11-16T09:34:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/35T5IePFwINwk3Q4kQaVng</id>
     <link href="https://mp.weixin.qq.com/s/35T5IePFwINwk3Q4kQaVng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>医学图像分割：UNet++</title>
+    <updated>2020-11-15T12:22:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/eCIL6rVSxuDOt7p4veVzhg</id>
+    <link href="https://mp.weixin.qq.com/s/eCIL6rVSxuDOt7p4veVzhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

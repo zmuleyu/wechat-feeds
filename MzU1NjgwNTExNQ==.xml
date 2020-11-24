@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T11:08:59+08:00</updated>
+  <updated>2020-11-24T11:08:47+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Chrome 87 发布，获多年来最大性能提升</title>
+    <updated>2020-11-23T21:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/gtdbtr9pV5nx_hq6aa1Z-Q</id>
+    <link href="https://mp.weixin.qq.com/s/gtdbtr9pV5nx_hq6aa1Z-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用一个实战项目快速入门VUE3.0！</title>
     <updated>2020-11-22T21:08:00+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-11-14T21:46:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/1YtGgBFQ6zH22QYzCmjdqQ</id>
     <link href="https://mp.weixin.qq.com/s/1YtGgBFQ6zH22QYzCmjdqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub上的图解网络/算法书火了，完整版开放下载！</title>
-    <updated>2020-11-13T15:31:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/QvR-y0ikkt4xrv6pvoLq_g</id>
-    <link href="https://mp.weixin.qq.com/s/QvR-y0ikkt4xrv6pvoLq_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>64 岁Python之父：我不退休了，我要去微软</title>
-    <updated>2020-11-13T15:31:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/lvxJ0oqZG4dogdLw24LpIw</id>
-    <link href="https://mp.weixin.qq.com/s/lvxJ0oqZG4dogdLw24LpIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
