@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T23:27:56+08:00</updated>
+  <updated>2020-11-24T23:21:51+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用Go语言做极简风格网址导航</title>
+    <updated>2020-11-24T22:00:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/S0wom5RknpXFus0w_VTGXQ</id>
+    <link href="https://mp.weixin.qq.com/s/S0wom5RknpXFus0w_VTGXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ansible安装和基本使用</title>
+    <updated>2020-11-24T22:00:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Sx1jTJFo58qnLEi3g4h4rg</id>
+    <link href="https://mp.weixin.qq.com/s/Sx1jTJFo58qnLEi3g4h4rg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux 系统下对目录扩容的方法</title>
     <updated>2020-11-23T21:52:34+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-11-15T22:05:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/TWFKofp_xjJYJ0lFfLandA</id>
     <link href="https://mp.weixin.qq.com/s/TWFKofp_xjJYJ0lFfLandA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>提高国内访问 GitHub 的速度的 9 种方案</title>
-    <updated>2020-11-14T19:49:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/fKktNzomu9irgIfMnpv3UA</id>
-    <link href="https://mp.weixin.qq.com/s/fKktNzomu9irgIfMnpv3UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

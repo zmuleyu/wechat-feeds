@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-22T23:29:58+08:00</updated>
+  <updated>2020-11-24T23:27:20+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用了这个前端UI组件库轻松构建页面，省去自己写CSS和JS</title>
+    <updated>2020-11-24T22:00:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Q7IhfjDN31DcKEfcho12DA</id>
+    <link href="https://mp.weixin.qq.com/s/Q7IhfjDN31DcKEfcho12DA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CentOS7安装最新版Redis6.0.9</title>
     <updated>2020-11-22T23:00:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-23T12:48:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/shq-q8z4eM0ajbcW3hTROg</id>
     <link href="https://mp.weixin.qq.com/s/shq-q8z4eM0ajbcW3hTROg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个可视化SQLite工具</title>
-    <updated>2020-09-17T23:01:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/qrKBDuOY9ydwWOKk4ZPMeQ</id>
-    <link href="https://mp.weixin.qq.com/s/qrKBDuOY9ydwWOKk4ZPMeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
