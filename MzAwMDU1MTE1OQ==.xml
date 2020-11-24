@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T13:22:26+08:00</updated>
+  <updated>2020-11-24T20:26:57+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>优化MariaDB数据库性能的思路与工具</title>
+    <updated>2020-11-24T20:01:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/VFDYYtZwM_QAr_7cVFNh1w</id>
+    <link href="https://mp.weixin.qq.com/s/VFDYYtZwM_QAr_7cVFNh1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>移动端APM网络监控与优化方案</title>
     <updated>2020-11-23T11:58:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-09T20:11:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/dqHTbLk9ETnBPQh2WrUmTg</id>
     <link href="https://mp.weixin.qq.com/s/dqHTbLk9ETnBPQh2WrUmTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>报警的哲学</title>
-    <updated>2020-11-06T09:32:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/lJRPt7I0SeUwZ4HhVZn8AQ</id>
-    <link href="https://mp.weixin.qq.com/s/lJRPt7I0SeUwZ4HhVZn8AQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

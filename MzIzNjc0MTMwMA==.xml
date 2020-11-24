@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T20:30:27+08:00</updated>
+  <updated>2020-11-24T20:26:21+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】Anchor-free应用一览：目标检测、实例分割、多目标跟踪</title>
+    <updated>2020-11-24T17:51:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/g3BTt0l4XyVBDJ-zwLhviw</id>
+    <link href="https://mp.weixin.qq.com/s/g3BTt0l4XyVBDJ-zwLhviw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】pytorch量化备忘录</title>
+    <updated>2020-11-24T17:51:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/IiWVbsjJ46AGlJ9rYfpYWw</id>
+    <link href="https://mp.weixin.qq.com/s/IiWVbsjJ46AGlJ9rYfpYWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【他山之石】如果有一天 Pytorch / Tensorflow 不开源了，我们该怎么办？</title>
     <updated>2020-11-23T18:42:42+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-16T18:02:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/D1BL1w03ppNQLztdw0hbzw</id>
     <link href="https://mp.weixin.qq.com/s/D1BL1w03ppNQLztdw0hbzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】浅谈图上的自监督学习——对比学习</title>
-    <updated>2020-11-16T18:02:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/yihy9UnRCO0Ym3EJVjSEFw</id>
-    <link href="https://mp.weixin.qq.com/s/yihy9UnRCO0Ym3EJVjSEFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI89×CRIPAC 三维几何学习专题</title>
-    <updated>2020-11-16T18:02:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/O4w8EqWvRADZ6gPH331LiA</id>
-    <link href="https://mp.weixin.qq.com/s/O4w8EqWvRADZ6gPH331LiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

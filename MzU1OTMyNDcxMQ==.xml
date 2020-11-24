@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T20:23:19+08:00</updated>
+  <updated>2020-11-24T20:18:40+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>学习教程 | 使用 TensorFlow Lite 在 Android App 中生成超分图片</title>
+    <updated>2020-11-24T17:09:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/xcCTLbCK8o7H_Ddud9ZgeA</id>
+    <link href="https://mp.weixin.qq.com/s/xcCTLbCK8o7H_Ddud9ZgeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TensorFlow 怎样玩出花？来看看 Community Spotlight 获奖项目吧！</title>
     <updated>2020-11-23T19:13:36+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-13T15:56:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/C91fyOIfGj0NRAXF00Tekg</id>
     <link href="https://mp.weixin.qq.com/s/C91fyOIfGj0NRAXF00Tekg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>案例分享 | TensorFlow Ranking 框架在爱奇艺海外推荐业务中的实践与应用</title>
-    <updated>2020-11-12T18:44:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/RmEAdLeUhIO-li5KiO8eEw</id>
-    <link href="https://mp.weixin.qq.com/s/RmEAdLeUhIO-li5KiO8eEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

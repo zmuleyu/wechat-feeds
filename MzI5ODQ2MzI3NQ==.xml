@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T20:23:49+08:00</updated>
+  <updated>2020-11-24T20:19:06+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>步入AI领域2年连升3级，我只是找对了学习方法而已……</title>
+    <updated>2020-11-24T16:45:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/jhyptvwjTuIqY7-RPRMElA</id>
+    <link href="https://mp.weixin.qq.com/s/jhyptvwjTuIqY7-RPRMElA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CI/CD大幅减少甩锅!</title>
+    <updated>2020-11-24T16:45:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/T4VnftGfzr_qwPcJSTGO3w</id>
+    <link href="https://mp.weixin.qq.com/s/T4VnftGfzr_qwPcJSTGO3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯、蚂蚁、华为等大厂是如何玩转 DevOps 的？</title>
     <updated>2020-11-23T17:57:38+08:00</updated>
@@ -78,13 +92,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>快来看看这三道大厂面试题，你知道现在的面试有多难吗？？？</title>
-    <updated>2020-11-18T17:54:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/dPDou-DKCYqzTHTHX6A0Bw</id>
-    <link href="https://mp.weixin.qq.com/s/dPDou-DKCYqzTHTHX6A0Bw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>本月上海： Kubernetes CKA实战培训</title>
     <updated>2020-11-18T17:54:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/u202A2iTxKu78VYRa5aBtQ</id>
@@ -124,13 +131,6 @@
     <updated>2020-11-14T12:31:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/k-It6ctp3vD0ql2s1ZEh6A</id>
     <link href="https://mp.weixin.qq.com/s/k-It6ctp3vD0ql2s1ZEh6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据库、消息队列、缓存等方法论，和微服务有什么关系？</title>
-    <updated>2020-11-13T08:24:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/u6fm1yHLVot6Pvu3HEVlEw</id>
-    <link href="https://mp.weixin.qq.com/s/u6fm1yHLVot6Pvu3HEVlEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

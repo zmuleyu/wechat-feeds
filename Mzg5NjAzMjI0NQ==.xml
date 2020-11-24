@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T20:32:08+08:00</updated>
+  <updated>2020-11-24T20:28:00+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>简单分析下 Node.js 关于集群的那些事</title>
+    <updated>2020-11-24T18:09:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/ZJCizniY3jEnMC1k0r4DYA</id>
+    <link href="https://mp.weixin.qq.com/s/ZJCizniY3jEnMC1k0r4DYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【万字警告】了不起的 Vue3-上</title>
     <updated>2020-11-23T17:05:22+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-11-10T19:04:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/YXPTSMBUpLb3l1MAthNGfg</id>
     <link href="https://mp.weixin.qq.com/s/YXPTSMBUpLb3l1MAthNGfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>掘友福利｜参与活动MySQL书免费送了！</title>
-    <updated>2020-11-09T18:36:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/aozQo1GvFGm6eaZiur3fkA</id>
-    <link href="https://mp.weixin.qq.com/s/aozQo1GvFGm6eaZiur3fkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

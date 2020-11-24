@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T20:17:08+08:00</updated>
+  <updated>2020-11-24T20:11:39+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记一次糟心的内网靶场实战</title>
+    <updated>2020-11-24T18:00:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/xHBzUtbkJ-ZdPEmmLZt66w</id>
+    <link href="https://mp.weixin.qq.com/s/xHBzUtbkJ-ZdPEmmLZt66w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WitAwards 2020评选火热进行中 | 年度安全SRC&amp;年度安全作者</title>
+    <updated>2020-11-24T18:00:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/ovaQWiec5Gq9Lms3MwT90Q</id>
+    <link href="https://mp.weixin.qq.com/s/ovaQWiec5Gq9Lms3MwT90Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>第一个PWN：栈溢出原理以及EXP的编写</title>
+    <updated>2020-11-24T18:00:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/mv0NGNQppWmiUe4EOVwI9A</id>
+    <link href="https://mp.weixin.qq.com/s/mv0NGNQppWmiUe4EOVwI9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Polypyus：一款功能强大的固件源码分析工具</title>
+    <updated>2020-11-24T18:00:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/dPK2dCzvEkbheBdTC7cGQw</id>
+    <link href="https://mp.weixin.qq.com/s/dPK2dCzvEkbheBdTC7cGQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《2020企业安全威胁统一应对指南》即将发布 | FreeBuf咨询</title>
     <updated>2020-11-23T17:58:11+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-20T17:57:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/cKG1_a1eU1KdJIBfgzQ4bQ</id>
     <link href="https://mp.weixin.qq.com/s/cKG1_a1eU1KdJIBfgzQ4bQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>霸榜八年，0202年的你还在用“123456”当密码？</title>
-    <updated>2020-11-19T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/7_OVdxxmwDJZSUMLNdBlHg</id>
-    <link href="https://mp.weixin.qq.com/s/7_OVdxxmwDJZSUMLNdBlHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新基建碰撞安全之道，红客联盟对上绿色兵团？ | INSEC WORLD 倒计时7天</title>
-    <updated>2020-11-19T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/BH4a6UDdeVUQd_0p0yDZmw</id>
-    <link href="https://mp.weixin.qq.com/s/BH4a6UDdeVUQd_0p0yDZmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从零开始学习各种常见未授权访问漏洞</title>
-    <updated>2020-11-19T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/eeTfC6x7wv5cwjIruzvs1w</id>
-    <link href="https://mp.weixin.qq.com/s/eeTfC6x7wv5cwjIruzvs1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2020-1034：Windows内核提权漏洞分析</title>
-    <updated>2020-11-19T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/5zgHHclTC0VhgvK8p1d0_g</id>
-    <link href="https://mp.weixin.qq.com/s/5zgHHclTC0VhgvK8p1d0_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
