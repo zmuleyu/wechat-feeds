@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T23:31:39+08:00</updated>
+  <updated>2020-11-25T01:29:33+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-24 Rust Bevy交流群欢迎大家</title>
+    <updated>2020-11-24T23:33:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/iOWPmVEJL4UIdVtW62sABw</id>
+    <link href="https://mp.weixin.qq.com/s/iOWPmVEJL4UIdVtW62sABw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《Rust唠嗑室》第14期 - Rust 嵌入式 live 秀</title>
     <updated>2020-11-23T22:03:46+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-15T22:43:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/Dw-nCC9sggTT0g7L1cJBAQ</id>
     <link href="https://mp.weixin.qq.com/s/Dw-nCC9sggTT0g7L1cJBAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-14 Tide v0.15.0发布</title>
-    <updated>2020-11-14T22:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/DSns0CpExLexyTBHPi7voA</id>
-    <link href="https://mp.weixin.qq.com/s/DSns0CpExLexyTBHPi7voA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【招聘】【上海】【字节跳动】【社招/实习】飞书视频会议团队招聘</title>
-    <updated>2020-11-14T22:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/fKhzPOeqfKffSfz12x2CLg</id>
-    <link href="https://mp.weixin.qq.com/s/fKhzPOeqfKffSfz12x2CLg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
