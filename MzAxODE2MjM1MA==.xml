@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T13:11:39+08:00</updated>
+  <updated>2020-11-24T13:11:15+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vue 在哪些方面比 React 做得更好？</title>
+    <updated>2020-11-24T09:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Aayalm42iNzd5jnF9avSkg</id>
+    <link href="https://mp.weixin.qq.com/s/Aayalm42iNzd5jnF9avSkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub 霸榜！比 ping 强大的 gping 一天拿下 2.5k Star</title>
+    <updated>2020-11-24T09:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/rsAGsqmM0uNUlvap9sP8rQ</id>
+    <link href="https://mp.weixin.qq.com/s/rsAGsqmM0uNUlvap9sP8rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如果Element UI 不维护了，也不支持 Vue3.0 了，怎么办？</title>
     <updated>2020-11-22T21:16:06+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-11-14T18:31:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/LomE_ps35nNyCCYunayhCg</id>
     <link href="https://mp.weixin.qq.com/s/LomE_ps35nNyCCYunayhCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>行业怪象：前端总是被鄙视，但又十分抢手</title>
-    <updated>2020-11-13T00:04:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/FYhcJzSXIlF-ViuI9NDcvw</id>
-    <link href="https://mp.weixin.qq.com/s/FYhcJzSXIlF-ViuI9NDcvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>缩减 SCSS 50%样式代码的 14 条实战经验</title>
-    <updated>2020-11-13T00:04:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/4mPvpxsE3GZ7z63Pa3cHPA</id>
-    <link href="https://mp.weixin.qq.com/s/4mPvpxsE3GZ7z63Pa3cHPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
