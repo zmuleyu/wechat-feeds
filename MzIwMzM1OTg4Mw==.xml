@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T23:27:18+08:00</updated>
+  <updated>2020-11-25T23:19:54+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ECCV2018 | 行人检测与重识别，Person Search</title>
+    <updated>2020-11-25T23:03:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/RNldPl-tauDjcdDNfaY5kw</id>
+    <link href="https://mp.weixin.qq.com/s/RNldPl-tauDjcdDNfaY5kw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>相机定标和三维重建（详细讲解）</title>
+    <updated>2020-11-25T23:03:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/f62eg876XoUpyP4W4bTzrA</id>
+    <link href="https://mp.weixin.qq.com/s/f62eg876XoUpyP4W4bTzrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVPR2020 | 3D人体姿态与形态估计，VIBE: Video Inference for Human Shape</title>
     <updated>2020-11-23T23:21:42+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-11-11T23:19:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/sOaJw6YQZpbvHNfb2UEULA</id>
     <link href="https://mp.weixin.qq.com/s/sOaJw6YQZpbvHNfb2UEULA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【ECCV 2020 】3D-CVF：使用跨视图空间特征融合生成用于3D对象检测的联合相机和LiDAR特征</title>
-    <updated>2020-11-09T20:58:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/UUydJ5503JWKLwi1RoU99w</id>
-    <link href="https://mp.weixin.qq.com/s/UUydJ5503JWKLwi1RoU99w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

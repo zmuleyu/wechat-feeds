@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T20:18:31+08:00</updated>
+  <updated>2020-11-25T23:14:11+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂 ChIPseq</title>
+    <updated>2020-11-25T20:05:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/oxmOylNgVbzBGmYyxsv_NA</id>
+    <link href="https://mp.weixin.qq.com/s/oxmOylNgVbzBGmYyxsv_NA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用AUCell包的AUCell_calcAUC函数计算每个细胞的每个基因集的活性程度</title>
     <updated>2020-11-24T19:36:26+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-11-16T22:50:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/mXOxXTCobd5Bad-AIiXQAg</id>
     <link href="https://mp.weixin.qq.com/s/mXOxXTCobd5Bad-AIiXQAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盘点 Shiny 中的各种主题和 UI 插件</title>
-    <updated>2020-11-15T15:11:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/MTLdsFImvOFJi9agvuKnJA</id>
-    <link href="https://mp.weixin.qq.com/s/MTLdsFImvOFJi9agvuKnJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

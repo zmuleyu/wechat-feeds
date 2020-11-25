@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T23:19:40+08:00</updated>
+  <updated>2020-11-25T23:19:26+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Canal 组件简介与 vivo 帐号实践</title>
+    <updated>2020-11-25T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/X1OFhjpHZSuIMr5PmxXBRQ</id>
+    <link href="https://mp.weixin.qq.com/s/X1OFhjpHZSuIMr5PmxXBRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Seata是什么？一文了解其实现原理</title>
+    <updated>2020-11-25T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/w-Tq6HFx5PqXpAPFDO_huA</id>
+    <link href="https://mp.weixin.qq.com/s/w-Tq6HFx5PqXpAPFDO_huA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>异步编程之事件循环机制</title>
+    <updated>2020-11-25T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/4_cXEvi759dGzfPSi5FNIA</id>
+    <link href="https://mp.weixin.qq.com/s/4_cXEvi759dGzfPSi5FNIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分布式搜索引擎Elasticsearch的架构分析</title>
+    <updated>2020-11-25T19:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/N_y7BxbO9pCTrgJbDq4bOA</id>
+    <link href="https://mp.weixin.qq.com/s/N_y7BxbO9pCTrgJbDq4bOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 调用链 Agent 原理及实践</title>
     <updated>2020-11-18T18:29:17+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-10-20T18:15:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/pf1Y-ucxyEKWW8LtvC-eCQ</id>
     <link href="https://mp.weixin.qq.com/s/pf1Y-ucxyEKWW8LtvC-eCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你知道几种前端动画的实现方式？</title>
-    <updated>2020-10-20T18:15:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/ZqwpDpRx7qolym1S4e5b7A</id>
-    <link href="https://mp.weixin.qq.com/s/ZqwpDpRx7qolym1S4e5b7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10月22日-24日第12届SACC中国系统架构师大会诚邀您参与！</title>
-    <updated>2020-10-20T18:15:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/0YYqS2LUcXmuAzfQmRjRRw</id>
-    <link href="https://mp.weixin.qq.com/s/0YYqS2LUcXmuAzfQmRjRRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo 基于原生 RabbitMQ 的高可用架构实践</title>
-    <updated>2020-10-14T18:21:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/7s9-RsLWgiVvw28U51J0bA</id>
-    <link href="https://mp.weixin.qq.com/s/7s9-RsLWgiVvw28U51J0bA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 8 新特性之Clone Plugin</title>
-    <updated>2020-10-14T18:21:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/_HqRXhQX_6e0boACzcAH8g</id>
-    <link href="https://mp.weixin.qq.com/s/_HqRXhQX_6e0boACzcAH8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

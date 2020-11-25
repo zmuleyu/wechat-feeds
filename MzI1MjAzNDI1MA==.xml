@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T01:29:33+08:00</updated>
+  <updated>2020-11-25T23:23:01+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-11-25 AWS loves Rust</title>
+    <updated>2020-11-25T22:48:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/LkF5OpLerj9znkhmkxdkEA</id>
+    <link href="https://mp.weixin.qq.com/s/LkF5OpLerj9znkhmkxdkEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star</title>
+    <updated>2020-11-25T22:48:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/0u5n8WgUMMS8DIMd_YMY1A</id>
+    <link href="https://mp.weixin.qq.com/s/0u5n8WgUMMS8DIMd_YMY1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-24 Rust Bevy交流群欢迎大家</title>
     <updated>2020-11-24T23:33:51+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-11-16T21:34:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/A8ChyVZgQ7WHFjoxWVfqFQ</id>
     <link href="https://mp.weixin.qq.com/s/A8ChyVZgQ7WHFjoxWVfqFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>也许是最客观、全面的比较 Rust 与 Go：都想把 Rust 也学一下</title>
-    <updated>2020-11-15T22:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/jYQOJZNIX1dhzYOErJAtBg</id>
-    <link href="https://mp.weixin.qq.com/s/jYQOJZNIX1dhzYOErJAtBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【转载】泛型和元编程的模型：Java, Go, Rust, Swift, D等</title>
-    <updated>2020-11-15T22:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/Dw-nCC9sggTT0g7L1cJBAQ</id>
-    <link href="https://mp.weixin.qq.com/s/Dw-nCC9sggTT0g7L1cJBAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
