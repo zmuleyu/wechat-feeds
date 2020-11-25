@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T11:12:17+08:00</updated>
+  <updated>2020-11-25T13:11:44+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“特殊福利”用心整理一套《机器学习、数据挖掘、推荐系统》资料，送给你们！</title>
+    <updated>2020-11-25T08:29:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/0UTNue2Ra3ZbIik1GPsF1g</id>
+    <link href="https://mp.weixin.qq.com/s/0UTNue2Ra3ZbIik1GPsF1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>损失函数理解汇总，结合 PyTorch1.7 和 TensorFlow2</title>
+    <updated>2020-11-25T08:29:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/1_nZbwxf1bm8wVZTR5xsjQ</id>
+    <link href="https://mp.weixin.qq.com/s/1_nZbwxf1bm8wVZTR5xsjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>30 个Python代码实现的常用功能，精心整理版</title>
+    <updated>2020-11-25T08:29:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/fmh9NVlleO6nQQIFNhJ-1A</id>
+    <link href="https://mp.weixin.qq.com/s/fmh9NVlleO6nQQIFNhJ-1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如果有一天 Pytorch / Tensorflow 不开源了，我们该怎么办？</title>
     <updated>2020-11-24T09:01:19+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-18T08:31:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/rLLtdKqiVO5IJHtH-OHL6g</id>
     <link href="https://mp.weixin.qq.com/s/rLLtdKqiVO5IJHtH-OHL6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何从频域的角度解释CNN（卷积神经网络）？</title>
-    <updated>2020-11-17T08:42:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/yGm_qfwpAPqwq82OYHTrdQ</id>
-    <link href="https://mp.weixin.qq.com/s/yGm_qfwpAPqwq82OYHTrdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Transformer 又立功了！又快(420 fps)又好的车道线检测算法</title>
-    <updated>2020-11-17T08:42:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/QiObNPnnZQg1JOJyv4jmkA</id>
-    <link href="https://mp.weixin.qq.com/s/QiObNPnnZQg1JOJyv4jmkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>70岁Hinton还在努力推翻自己积累了30年的学术成果，他让我知道了什么叫做生命力</title>
-    <updated>2020-11-16T09:34:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/4xPdlQCkl0ECirFmj-VpYQ</id>
-    <link href="https://mp.weixin.qq.com/s/4xPdlQCkl0ECirFmj-VpYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
