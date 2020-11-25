@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T20:11:39+08:00</updated>
+  <updated>2020-11-25T20:11:47+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「FVIP会员日」来了！</title>
+    <updated>2020-11-25T18:22:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/oF-wPYhiMOoXs7ZBgOWdNQ</id>
+    <link href="https://mp.weixin.qq.com/s/oF-wPYhiMOoXs7ZBgOWdNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「议题前瞻」ATT&amp;CK红队战术漫谈 | CIS 2020白帽LIVE</title>
+    <updated>2020-11-25T18:22:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/jgQ6ZgwrKdGHs2DuTwFYJw</id>
+    <link href="https://mp.weixin.qq.com/s/jgQ6ZgwrKdGHs2DuTwFYJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WAPDropper恶意软件：“为你好就悄悄帮你定制高级拨号服务”</title>
+    <updated>2020-11-25T18:22:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/ckbKCrRZ292Eu5HhjxCoDQ</id>
+    <link href="https://mp.weixin.qq.com/s/ckbKCrRZ292Eu5HhjxCoDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PSMDATP：一款针对MDATP的PowerShell管理模块</title>
+    <updated>2020-11-25T18:22:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/Eh363kQ2jptQAoDCZ2v_uA</id>
+    <link href="https://mp.weixin.qq.com/s/Eh363kQ2jptQAoDCZ2v_uA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次糟心的内网靶场实战</title>
     <updated>2020-11-24T18:00:05+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-21T16:33:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/AGox6iRUcwo-T4WEfI63KQ</id>
     <link href="https://mp.weixin.qq.com/s/AGox6iRUcwo-T4WEfI63KQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「FVIP会员日」来了！下周三等你来“薅”</title>
-    <updated>2020-11-20T17:57:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/djaVc08ZBiwX1ByN5MnQSQ</id>
-    <link href="https://mp.weixin.qq.com/s/djaVc08ZBiwX1ByN5MnQSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面对特殊情况，企业应不应该为加密应用程序产品 “开后门”？</title>
-    <updated>2020-11-20T17:57:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/fc3YcCB4brx5D2BRxHpWfA</id>
-    <link href="https://mp.weixin.qq.com/s/fc3YcCB4brx5D2BRxHpWfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【FreeBuf字幕组】Hacker101白帽进阶之路：BurpSuite进阶功能</title>
-    <updated>2020-11-20T17:57:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/mEZLnfkvcOCsyuLgTif02A</id>
-    <link href="https://mp.weixin.qq.com/s/mEZLnfkvcOCsyuLgTif02A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>安全研究 | 构造User-Agent请求头内容实现LFI到RCE提权</title>
-    <updated>2020-11-20T17:57:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/cKG1_a1eU1KdJIBfgzQ4bQ</id>
-    <link href="https://mp.weixin.qq.com/s/cKG1_a1eU1KdJIBfgzQ4bQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

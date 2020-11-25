@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T11:23:49+08:00</updated>
+  <updated>2020-11-25T20:23:31+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Balanced-Meta Softmax: 长尾视觉识别方案解读</title>
+    <updated>2020-11-25T18:35:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/o5mZsmDKBaCbm1cixr_d1A</id>
+    <link href="https://mp.weixin.qq.com/s/o5mZsmDKBaCbm1cixr_d1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>YOLO之外的另一选择，手机端97FPS的Anchor-Free目标检测模型NanoDet现已开源~</title>
     <updated>2020-11-24T10:39:55+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-04T18:16:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/7pqCU5VQptW4BCXBkSH5UA</id>
     <link href="https://mp.weixin.qq.com/s/7pqCU5VQptW4BCXBkSH5UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-姿态估计与动作捕捉篇</title>
-    <updated>2020-11-02T23:43:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/vx7jeGnp3Y7AWs4bbeHeqA</id>
-    <link href="https://mp.weixin.qq.com/s/vx7jeGnp3Y7AWs4bbeHeqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cocoa开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T20:23:46+08:00</updated>
+  <updated>2020-11-25T20:22:56+08:00</updated>
   <subtitle>一站式开发者成长社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CocoaPods对三方库的管理探究</title>
+    <updated>2020-11-24T21:41:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Qmk5uphy2Toc1rG2x1z7zA</id>
+    <link href="https://mp.weixin.qq.com/s/Qmk5uphy2Toc1rG2x1z7zA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刷题2个月，工资25k，有它真香！</title>
     <updated>2020-11-24T15:02:39+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-22T15:22:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/-pp4g5TlJ2pQPPGcthKx7g</id>
     <link href="https://mp.weixin.qq.com/s/-pp4g5TlJ2pQPPGcthKx7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020进阶之路，iOS开发者应该如何自我提升？</title>
-    <updated>2020-10-19T17:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/Alb8Datg9RqsRvKpxv_t2g</id>
-    <link href="https://mp.weixin.qq.com/s/Alb8Datg9RqsRvKpxv_t2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一图读懂 Swift 5.3</title>
-    <updated>2020-10-19T17:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/9-hqkFJVQ9OOui2RbMUi-w</id>
-    <link href="https://mp.weixin.qq.com/s/9-hqkFJVQ9OOui2RbMUi-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

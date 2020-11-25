@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T20:19:06+08:00</updated>
+  <updated>2020-11-25T20:18:41+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes最佳安全实践</title>
+    <updated>2020-11-25T19:13:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/lDsHQMTz3U_ker_bpEnGFQ</id>
+    <link href="https://mp.weixin.qq.com/s/lDsHQMTz3U_ker_bpEnGFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>北京12月份： Kubernetes CKA实战培训</title>
+    <updated>2020-11-25T19:13:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/FDd6sRpbrgivpvcibEkyXA</id>
+    <link href="https://mp.weixin.qq.com/s/FDd6sRpbrgivpvcibEkyXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>步入AI领域2年连升3级，我只是找对了学习方法而已……</title>
     <updated>2020-11-24T16:45:14+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-11-16T11:42:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/NhfUufFnRhBci0uZ-N0MAA</id>
     <link href="https://mp.weixin.qq.com/s/NhfUufFnRhBci0uZ-N0MAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>死磕k8s之calico-nodeport</title>
-    <updated>2020-11-14T12:31:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/k-It6ctp3vD0ql2s1ZEh6A</id>
-    <link href="https://mp.weixin.qq.com/s/k-It6ctp3vD0ql2s1ZEh6A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
