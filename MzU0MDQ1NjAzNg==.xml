@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T13:11:44+08:00</updated>
+  <updated>2020-11-25T16:12:41+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -92,13 +92,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
-    <updated>2020-11-19T21:58:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/59k6992-S5pGR-SiljkumA</id>
-    <link href="https://mp.weixin.qq.com/s/59k6992-S5pGR-SiljkumA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>工业图像异常检测最新研究总结（2019-2020）</title>
     <updated>2020-11-19T21:58:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/jPdsEBgbPBmHPwA81A7s0g</id>
@@ -127,13 +120,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>用心了！整理了一套目标检测、OpenCV、卷积神经网络资料，送给你们！</title>
-    <updated>2020-11-18T08:31:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/OXaznwa6vSRqL1ixDMomQA</id>
-    <link href="https://mp.weixin.qq.com/s/OXaznwa6vSRqL1ixDMomQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>使用Batch Normalization折叠来加速模型推理</title>
     <updated>2020-11-18T08:31:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/QJZy-UcuHAtpkfnoNJTNEQ</id>
@@ -145,6 +131,20 @@
     <updated>2020-11-18T08:31:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/rLLtdKqiVO5IJHtH-OHL6g</id>
     <link href="https://mp.weixin.qq.com/s/rLLtdKqiVO5IJHtH-OHL6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何从频域的角度解释CNN（卷积神经网络）？</title>
+    <updated>2020-11-17T08:42:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/yGm_qfwpAPqwq82OYHTrdQ</id>
+    <link href="https://mp.weixin.qq.com/s/yGm_qfwpAPqwq82OYHTrdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer 又立功了！又快(420 fps)又好的车道线检测算法</title>
+    <updated>2020-11-17T08:42:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/QiObNPnnZQg1JOJyv4jmkA</id>
+    <link href="https://mp.weixin.qq.com/s/QiObNPnnZQg1JOJyv4jmkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
