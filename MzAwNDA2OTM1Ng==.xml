@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T11:26:26+08:00</updated>
+  <updated>2020-11-25T11:27:00+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你要是年底辞了，明年100%换不到一份更好的！</title>
+    <updated>2020-11-24T22:13:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/uIPJXKkWEkT5UebfFzzGQw</id>
+    <link href="https://mp.weixin.qq.com/s/uIPJXKkWEkT5UebfFzzGQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我经历的7轮Google面试</title>
+    <updated>2020-11-24T22:13:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/yYy5YUeA3VAAQMtnMhaFUQ</id>
+    <link href="https://mp.weixin.qq.com/s/yYy5YUeA3VAAQMtnMhaFUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里面试：说说一致性读实现原理？</title>
     <updated>2020-11-23T23:43:14+08:00</updated>
@@ -29,24 +43,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>几年后，才发现设计模式对开发很重要！</title>
-    <updated>2020-11-23T19:51:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/VR-YJ-In3Y_ZEc6nQHXLVg</id>
-    <link href="https://mp.weixin.qq.com/s/VR-YJ-In3Y_ZEc6nQHXLVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>好起来了！</title>
     <updated>2020-11-22T20:09:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/WAuJwFstyXZoC6-mhu69Xw</id>
     <link href="https://mp.weixin.qq.com/s/WAuJwFstyXZoC6-mhu69Xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>上手一个三高架构，体验了一把双十一58.3万笔/秒的顺滑！真香</title>
-    <updated>2020-11-22T20:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/KxiziWWjCa6QIBRQY2zOPw</id>
-    <link href="https://mp.weixin.qq.com/s/KxiziWWjCa6QIBRQY2zOPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +89,6 @@
     <updated>2020-11-15T23:31:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/nEmN4S9JOTVGj5IHyfNtCw</id>
     <link href="https://mp.weixin.qq.com/s/nEmN4S9JOTVGj5IHyfNtCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记一次大促期间JVM堆外内存泄漏故障排查记录</title>
-    <updated>2020-11-15T19:15:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/yutHXOi6Xl3-Qn91Pvg9wA</id>
-    <link href="https://mp.weixin.qq.com/s/yutHXOi6Xl3-Qn91Pvg9wA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T11:08:47+08:00</updated>
+  <updated>2020-11-25T11:08:54+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>厉害了！这个 VS Code 扩展可以自动生成 Python 文档字符串</title>
+    <updated>2020-11-24T20:33:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/dm9K3czgFumWRau7ZoiRUA</id>
+    <link href="https://mp.weixin.qq.com/s/dm9K3czgFumWRau7ZoiRUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chrome 87 发布，获多年来最大性能提升</title>
     <updated>2020-11-23T21:09:11+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-15T17:49:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/vd6C0wvmljfky72xT_GGzA</id>
     <link href="https://mp.weixin.qq.com/s/vd6C0wvmljfky72xT_GGzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何快速开发一款 VS Code 扩展</title>
-    <updated>2020-11-14T21:46:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/1YtGgBFQ6zH22QYzCmjdqQ</id>
-    <link href="https://mp.weixin.qq.com/s/1YtGgBFQ6zH22QYzCmjdqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

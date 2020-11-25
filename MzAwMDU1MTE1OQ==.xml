@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-24T20:26:57+08:00</updated>
+  <updated>2020-11-25T11:26:43+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你的微服务网关还只在用负载均衡吗？</title>
+    <updated>2020-11-25T09:38:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/NkpEUTcVHQsGXXb5sQ1Jxg</id>
+    <link href="https://mp.weixin.qq.com/s/NkpEUTcVHQsGXXb5sQ1Jxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>优化MariaDB数据库性能的思路与工具</title>
     <updated>2020-11-24T20:01:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-10T15:12:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/HH8K4yKoHYHbBOyH28ehgQ</id>
     <link href="https://mp.weixin.qq.com/s/HH8K4yKoHYHbBOyH28ehgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ARM环境下Java应用卡顿优化案例</title>
-    <updated>2020-11-09T20:11:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/dqHTbLk9ETnBPQh2WrUmTg</id>
-    <link href="https://mp.weixin.qq.com/s/dqHTbLk9ETnBPQh2WrUmTg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
