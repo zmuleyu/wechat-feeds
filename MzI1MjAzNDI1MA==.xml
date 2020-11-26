@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T23:23:01+08:00</updated>
+  <updated>2020-11-27T01:24:00+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】 2020-11-26 为什么 AWS 喜欢 Rust</title>
+    <updated>2020-11-26T23:15:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/2Z5a94tueMte8xuOiY_kdw</id>
+    <link href="https://mp.weixin.qq.com/s/2Z5a94tueMte8xuOiY_kdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】自己做了一个轻量级的 NoSQL 数据库</title>
+    <updated>2020-11-26T23:15:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/w98sHQ0jq-AnBld_-34uDA</id>
+    <link href="https://mp.weixin.qq.com/s/w98sHQ0jq-AnBld_-34uDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-25 AWS loves Rust</title>
     <updated>2020-11-25T22:48:57+08:00</updated>
@@ -103,27 +117,6 @@
     <updated>2020-11-17T22:38:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/KBvzJZc77cycCionjdGnTw</id>
     <link href="https://mp.weixin.qq.com/s/KBvzJZc77cycCionjdGnTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-16 Rust 实现 Custom Events</title>
-    <updated>2020-11-16T21:34:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/Dxiy_mmrYurdP1eh4iU-Ag</id>
-    <link href="https://mp.weixin.qq.com/s/Dxiy_mmrYurdP1eh4iU-Ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个国内的实验性 crates.io 镜像</title>
-    <updated>2020-11-16T21:34:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/2QPPv_9wqMErJ-ap0Q1BbA</id>
-    <link href="https://mp.weixin.qq.com/s/2QPPv_9wqMErJ-ap0Q1BbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】部分移植nodejs的json-rules-engine到rust</title>
-    <updated>2020-11-16T21:34:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/A8ChyVZgQ7WHFjoxWVfqFQ</id>
-    <link href="https://mp.weixin.qq.com/s/A8ChyVZgQ7WHFjoxWVfqFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
