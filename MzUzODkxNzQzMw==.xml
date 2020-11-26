@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T20:23:31+08:00</updated>
+  <updated>2020-11-26T13:20:30+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>准确率超99.5%！滴滴开源防疫口罩识别技术，及视觉比赛进展</title>
+    <updated>2020-11-26T12:05:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/pUpYDZXL-BsdbuNeQc3OIQ</id>
+    <link href="https://mp.weixin.qq.com/s/pUpYDZXL-BsdbuNeQc3OIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Balanced-Meta Softmax: 长尾视觉识别方案解读</title>
     <updated>2020-11-25T18:35:38+08:00</updated>
@@ -103,48 +110,6 @@
     <updated>2020-11-07T10:11:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/h1xkVE0Ry2WVU917uSlJ1Q</id>
     <link href="https://mp.weixin.qq.com/s/h1xkVE0Ry2WVU917uSlJ1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​使用高斯过程回归指导网络轻量化</title>
-    <updated>2020-11-04T18:16:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/Ose9ng_rdm5Yc-lbIqqa0g</id>
-    <link href="https://mp.weixin.qq.com/s/Ose9ng_rdm5Yc-lbIqqa0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-语义分割篇</title>
-    <updated>2020-11-04T18:16:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/fsRlr_jXySPttg3OkDVw3Q</id>
-    <link href="https://mp.weixin.qq.com/s/fsRlr_jXySPttg3OkDVw3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-场景解析篇</title>
-    <updated>2020-11-04T18:16:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/8I1Fo0VnZ3b-VSD_Qr6hIQ</id>
-    <link href="https://mp.weixin.qq.com/s/8I1Fo0VnZ3b-VSD_Qr6hIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-视频目标分割篇</title>
-    <updated>2020-11-04T18:16:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/D9XSa0gbRO9xz57BY3iteA</id>
-    <link href="https://mp.weixin.qq.com/s/D9XSa0gbRO9xz57BY3iteA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-实例分割篇</title>
-    <updated>2020-11-04T18:16:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/h3lkN6YjMU8-mqaxiKJDsw</id>
-    <link href="https://mp.weixin.qq.com/s/h3lkN6YjMU8-mqaxiKJDsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV 2020 论文大盘点-图像与视频分割篇</title>
-    <updated>2020-11-04T18:16:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/7pqCU5VQptW4BCXBkSH5UA</id>
-    <link href="https://mp.weixin.qq.com/s/7pqCU5VQptW4BCXBkSH5UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
