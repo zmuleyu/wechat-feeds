@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-20T16:20:55+08:00</updated>
+  <updated>2020-11-26T11:22:42+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust内存容器攻略。。。图片来源：https://github.com/usagi/rust-memory-container-cs</title>
+    <updated>2020-11-26T02:30:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/0pkM7rwRI2K-ZbmjHJziTQ</id>
+    <link href="https://mp.weixin.qq.com/s/0pkM7rwRI2K-ZbmjHJziTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>收集大家的Repo， 大家可以把自己的Rust的项目放在下面的Issue链接里，有兴趣的项目可以大家一起来做啊 之后会归档。[得意]&#xA;&#xA;Issues  link： https://github.com/Praying/RustBackyard/issues/8</title>
     <updated>2020-11-20T13:43:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-17T11:50:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-17:/s/FeQ8G2QtViGg_ygZkCZnlw</id>
     <link href="https://mp.weixin.qq.com/s/FeQ8G2QtViGg_ygZkCZnlw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】Rust与智能指针</title>
-    <updated>2020-10-13T17:18:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/jryWV3hCLyj_obBavvDrcg</id>
-    <link href="https://mp.weixin.qq.com/s/jryWV3hCLyj_obBavvDrcg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

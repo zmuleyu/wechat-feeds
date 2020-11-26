@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T11:27:05+08:00</updated>
+  <updated>2020-11-26T11:27:40+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubeflow V1.2发布：全部功能特性综述</title>
+    <updated>2020-11-26T07:29:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/UzhBzhuBdQPNdGgrrL11lQ</id>
+    <link href="https://mp.weixin.qq.com/s/UzhBzhuBdQPNdGgrrL11lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes实战培训 | 深圳站</title>
+    <updated>2020-11-26T07:29:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/xWRA7juGYi8YYUMuxsOA7w</id>
+    <link href="https://mp.weixin.qq.com/s/xWRA7juGYi8YYUMuxsOA7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CNCF宣布etcd正式毕业！</title>
     <updated>2020-11-25T08:37:09+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-11-17T07:39:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/JcJMkpMCophdpK9h4p59WQ</id>
     <link href="https://mp.weixin.qq.com/s/JcJMkpMCophdpK9h4p59WQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面向领域的微服务架构</title>
-    <updated>2020-11-16T07:38:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/021cvjP4n5oI3d4cebwRVg</id>
-    <link href="https://mp.weixin.qq.com/s/021cvjP4n5oI3d4cebwRVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | Kubernetes 在直播电商行业的多集群应用实践</title>
-    <updated>2020-11-16T07:38:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/TvwGlZG1E3noUzu578y21A</id>
-    <link href="https://mp.weixin.qq.com/s/TvwGlZG1E3noUzu578y21A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

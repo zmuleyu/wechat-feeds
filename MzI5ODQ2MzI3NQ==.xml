@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T20:18:41+08:00</updated>
+  <updated>2020-11-26T11:19:59+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看了几十篇教程，却依旧学不会Java，今天给你推荐个训练营，100个免费！</title>
+    <updated>2020-11-25T22:24:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/EbgwzqWBpOS1X9IhNdZADw</id>
+    <link href="https://mp.weixin.qq.com/s/EbgwzqWBpOS1X9IhNdZADw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google推出可用来保护容器供应链的工具Voucher</title>
+    <updated>2020-11-25T22:24:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-25:/s/NYbUsqcIEkN8iaUYneC5Tg</id>
+    <link href="https://mp.weixin.qq.com/s/NYbUsqcIEkN8iaUYneC5Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes最佳安全实践</title>
     <updated>2020-11-25T19:13:36+08:00</updated>
@@ -78,24 +92,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>实时疫情和美国大选都在用的地图，学会这个技能你也能做</title>
-    <updated>2020-11-20T21:10:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/8U0Swb9j0SnELzqCf3YZyw</id>
-    <link href="https://mp.weixin.qq.com/s/8U0Swb9j0SnELzqCf3YZyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>字节跳动火山引擎加入 Linux 云原生计算基金会（CNCF）</title>
     <updated>2020-11-20T21:10:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/B0AiCOKEiVYu3W_mE0AsVw</id>
     <link href="https://mp.weixin.qq.com/s/B0AiCOKEiVYu3W_mE0AsVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器 ：大厂的另一块敲门砖</title>
-    <updated>2020-11-19T11:21:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/eyim7c8OUz2sgKxWIcX6rQ</id>
-    <link href="https://mp.weixin.qq.com/s/eyim7c8OUz2sgKxWIcX6rQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,13 +131,6 @@
     <updated>2020-11-17T11:37:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/cZ8o6FxXba3yHOsNnSOrZQ</id>
     <link href="https://mp.weixin.qq.com/s/cZ8o6FxXba3yHOsNnSOrZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>服务网格Linkerd 2.9发布，开始支持ARM平台</title>
-    <updated>2020-11-16T11:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/NhfUufFnRhBci0uZ-N0MAA</id>
-    <link href="https://mp.weixin.qq.com/s/NhfUufFnRhBci0uZ-N0MAA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
