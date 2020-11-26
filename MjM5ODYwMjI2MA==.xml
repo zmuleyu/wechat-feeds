@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T20:29:29+08:00</updated>
+  <updated>2020-11-26T20:25:38+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>巧用 Protobuf 反射来优化代码，拒做 PB Boy</title>
+    <updated>2020-11-26T14:48:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/ALhSKrLwNdA_GkozJQXn5g</id>
+    <link href="https://mp.weixin.qq.com/s/ALhSKrLwNdA_GkozJQXn5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生背景下的运维价值思考与实践</title>
+    <updated>2020-11-26T14:48:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/K6QBgTFD2QVU1RqhRe1wfQ</id>
+    <link href="https://mp.weixin.qq.com/s/K6QBgTFD2QVU1RqhRe1wfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>简单理解 Kafka 的消息可靠性策略</title>
     <updated>2020-11-23T16:39:22+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-11-04T15:39:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/ycFye0WBnG-uEqR-Yqr2MQ</id>
     <link href="https://mp.weixin.qq.com/s/ycFye0WBnG-uEqR-Yqr2MQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新一代搜索引擎项目 ZeroSearch 设计探索</title>
-    <updated>2020-11-02T17:24:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/S29Ro51Oidx5ikO8sj-UEA</id>
-    <link href="https://mp.weixin.qq.com/s/S29Ro51Oidx5ikO8sj-UEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
