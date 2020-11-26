@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T23:19:42+08:00</updated>
+  <updated>2020-11-26T23:20:12+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CNN：我不是你想的那样</title>
+    <updated>2020-11-26T21:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/n7NZwvpJ3ma6_Zoguhh8nQ</id>
+    <link href="https://mp.weixin.qq.com/s/n7NZwvpJ3ma6_Zoguhh8nQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>超越GhostNet和MobileNetV3，MicroNet通过极低FLOPs实现图像识别</title>
+    <updated>2020-11-26T21:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/mgMeZ_4-nh_rhcvSAYkStw</id>
+    <link href="https://mp.weixin.qq.com/s/mgMeZ_4-nh_rhcvSAYkStw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从SGD到NadaMax，十种优化算法原理及实现</title>
+    <updated>2020-11-26T21:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/S5tBdF03nuqppvZOx_AroQ</id>
+    <link href="https://mp.weixin.qq.com/s/S5tBdF03nuqppvZOx_AroQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>魁北克大学教授痛批双盲评审制度：这不是个好主意</title>
+    <updated>2020-11-26T21:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/J8KF2Lg0pEZKRG2fgthd3w</id>
+    <link href="https://mp.weixin.qq.com/s/J8KF2Lg0pEZKRG2fgthd3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>神经网络的准确率和鲁棒性不能兼得？不，让我们来仔细看看</title>
     <updated>2020-11-25T21:58:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-22T21:20:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/UbpeTNJlx2f6fPhm11QCLw</id>
     <link href="https://mp.weixin.qq.com/s/UbpeTNJlx2f6fPhm11QCLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVChain：一条用视觉竞赛和项目经验打磨出的计算机视觉完整工具链</title>
-    <updated>2020-11-21T22:55:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/dXc5fYftceJ8r7MwyAOGOw</id>
-    <link href="https://mp.weixin.qq.com/s/dXc5fYftceJ8r7MwyAOGOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>目标检测中Anchor的本质分析</title>
-    <updated>2020-11-21T22:55:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/Ip3tL6gzuS4t2saI-US4RQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ip3tL6gzuS4t2saI-US4RQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>极视角2021校园招聘，算法offer等你来拿！</title>
-    <updated>2020-11-21T22:55:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/VQYClPZ7WoKt7KPgliau4A</id>
-    <link href="https://mp.weixin.qq.com/s/VQYClPZ7WoKt7KPgliau4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TensorFlow为M1芯片提供7倍加速，还新增了GPU支持</title>
-    <updated>2020-11-21T22:55:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/oWBKVKmvMEEmyCerGOezVw</id>
-    <link href="https://mp.weixin.qq.com/s/oWBKVKmvMEEmyCerGOezVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

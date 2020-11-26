@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T20:25:04+08:00</updated>
+  <updated>2020-11-26T23:22:13+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LSTM模型结构的可视化</title>
+    <updated>2020-11-26T21:59:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/dKAMaQzO8vkaQrv-tjFsIw</id>
+    <link href="https://mp.weixin.qq.com/s/dKAMaQzO8vkaQrv-tjFsIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度学习中的图像分割：方法和应用</title>
+    <updated>2020-11-26T21:59:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/XamDUZs15YddBtY_h63ybA</id>
+    <link href="https://mp.weixin.qq.com/s/XamDUZs15YddBtY_h63ybA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>抛弃Anchor box和NMS，目标检测新范式开源：Sparse R-CNN</title>
+    <updated>2020-11-26T21:59:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/_IS2BtMtlMWVAg4QkCt8OQ</id>
+    <link href="https://mp.weixin.qq.com/s/_IS2BtMtlMWVAg4QkCt8OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一篇文章7.4万，Nature 33种期刊开放获取新政引争议，社区斥其「寄生虫」</title>
     <updated>2020-11-25T20:10:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-20T19:21:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/2F9XNcDvorUI1WAmcj8W0w</id>
     <link href="https://mp.weixin.qq.com/s/2F9XNcDvorUI1WAmcj8W0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度剖析：针对深度学习的GPU共享</title>
-    <updated>2020-11-20T19:21:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/ja_XImIyOX9IdMN0lP5b_g</id>
-    <link href="https://mp.weixin.qq.com/s/ja_XImIyOX9IdMN0lP5b_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>傅立叶变换、拉普拉斯变换、Z 变换的联系是什么？为什么要进行这些变换？</title>
-    <updated>2020-11-19T20:14:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/xfP3K9_i7lEycohLwOPkuw</id>
-    <link href="https://mp.weixin.qq.com/s/xfP3K9_i7lEycohLwOPkuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从AlexNet到BERT：深度学习中那些最重要idea的最简单回顾</title>
-    <updated>2020-11-19T20:14:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/INufheW0cMzsv5OMM81Erw</id>
-    <link href="https://mp.weixin.qq.com/s/INufheW0cMzsv5OMM81Erw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T13:11:31+08:00</updated>
+  <updated>2020-11-26T23:13:26+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文带你快速上手 Rollup</title>
+    <updated>2020-11-26T18:12:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/S-WgcO9aFrYp2tvnMMsRPg</id>
+    <link href="https://mp.weixin.qq.com/s/S-WgcO9aFrYp2tvnMMsRPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>让你爱不释手的 HTTP API 工具：Postman</title>
+    <updated>2020-11-26T18:12:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/vwECJiKoPMjl9rHdUkxcjg</id>
+    <link href="https://mp.weixin.qq.com/s/vwECJiKoPMjl9rHdUkxcjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>做了这个 Vue3.0 实战项目，大厂三面都过了，涨薪55%！（附项目全过程）</title>
     <updated>2020-11-24T21:51:41+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-11-16T15:19:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/NjIvIv7cLNNJGPVOlvqSew</id>
     <link href="https://mp.weixin.qq.com/s/NjIvIv7cLNNJGPVOlvqSew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纯 CSS 实现吸附效果</title>
-    <updated>2020-11-15T22:51:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/UK7_tp8WDbinK2TPM5hZ8A</id>
-    <link href="https://mp.weixin.qq.com/s/UK7_tp8WDbinK2TPM5hZ8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
