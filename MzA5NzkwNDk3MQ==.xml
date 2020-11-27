@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T23:28:34+08:00</updated>
+  <updated>2020-11-27T20:36:42+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 374 期：用 JS 写一个 JS 解释器</title>
+    <updated>2020-11-27T17:30:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/Xm5pcJ8yrTYPuK8FE-UF2A</id>
+    <link href="https://mp.weixin.qq.com/s/Xm5pcJ8yrTYPuK8FE-UF2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>React 是如何工作的</title>
     <updated>2020-11-26T20:23:02+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-18T17:48:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/qOWS8hJ_Hrp1z-Mul2UR6w</id>
     <link href="https://mp.weixin.qq.com/s/qOWS8hJ_Hrp1z-Mul2UR6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 Serverless 的 Valine 可能并没有那么香</title>
-    <updated>2020-11-16T15:37:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/rRSsUmqtNrNuIOBbf97UPQ</id>
-    <link href="https://mp.weixin.qq.com/s/rRSsUmqtNrNuIOBbf97UPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

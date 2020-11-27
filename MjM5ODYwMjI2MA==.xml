@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T20:25:38+08:00</updated>
+  <updated>2020-11-27T20:27:16+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯与中国人民大学开源最新研究成果：3TS腾讯事务处理技术验证系统</title>
+    <updated>2020-11-27T17:51:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/CSUmX3R9KYyWbhTXy7neoA</id>
+    <link href="https://mp.weixin.qq.com/s/CSUmX3R9KYyWbhTXy7neoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>巧用 Protobuf 反射来优化代码，拒做 PB Boy</title>
     <updated>2020-11-26T14:48:54+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-06T17:20:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/0j9t9hmI0WnWk-KkRFsZeA</id>
     <link href="https://mp.weixin.qq.com/s/0j9t9hmI0WnWk-KkRFsZeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker 底层原理浅析</title>
-    <updated>2020-11-04T15:39:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/0jFHlWAeH5avIO2NLpTmGA</id>
-    <link href="https://mp.weixin.qq.com/s/0jFHlWAeH5avIO2NLpTmGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我在 MySQL 的那些年</title>
-    <updated>2020-11-04T15:39:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/ycFye0WBnG-uEqR-Yqr2MQ</id>
-    <link href="https://mp.weixin.qq.com/s/ycFye0WBnG-uEqR-Yqr2MQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

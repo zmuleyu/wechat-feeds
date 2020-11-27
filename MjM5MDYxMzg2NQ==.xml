@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微信时刻 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T13:22:38+08:00</updated>
+  <updated>2020-11-27T20:26:03+08:00</updated>
   <subtitle>因你看见，所以存在。WeChat Moments ，专业、好玩、有态度，让你更懂 WeChat</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“在吗，能陪我聊天吗？”</title>
+    <updated>2020-11-27T19:54:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/w1TA9s8M1M42rkVhHPH3Xg</id>
+    <link href="https://mp.weixin.qq.com/s/w1TA9s8M1M42rkVhHPH3Xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你知道好友是怎么备注你的吗？</title>
     <updated>2020-11-25T11:57:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-27T19:38:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/gzeqZO1ymnxTJ0X2279LeQ</id>
     <link href="https://mp.weixin.qq.com/s/gzeqZO1ymnxTJ0X2279LeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>@程序员们，帮忙看段代码！</title>
-    <updated>2020-10-23T23:42:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/pBaVNn-xH7WZNFDylnzwFg</id>
-    <link href="https://mp.weixin.qq.com/s/pBaVNn-xH7WZNFDylnzwFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
