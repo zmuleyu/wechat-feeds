@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>真没什么逻辑 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-11-27T23:29:54+08:00</updated>
+  <subtitle>系统设计、微服务架构和云原生技术</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>为什么 Linux 需要 Swapping</title>
+    <updated>2020-11-17T08:25:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/sf9G13Lp0LNm_CvFzDYGaA</id>
+    <link href="https://mp.weixin.qq.com/s/sf9G13Lp0LNm_CvFzDYGaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 HugePages 可以提升数据库性能</title>
+    <updated>2020-11-09T18:09:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/xwfAQ50iuHyCP13L4p6ChA</id>
+    <link href="https://mp.weixin.qq.com/s/xwfAQ50iuHyCP13L4p6ChA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新一代的键值存储 KVell · SOSP 2019</title>
+    <updated>2020-11-02T20:22:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/4yWUznVGsQIsIAKM-Q-okQ</id>
+    <link href="https://mp.weixin.qq.com/s/4yWUznVGsQIsIAKM-Q-okQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 NUMA 会影响程序的延迟</title>
+    <updated>2020-10-26T18:38:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/NdMAgdeRonDVr5h2vgOixg</id>
+    <link href="https://mp.weixin.qq.com/s/NdMAgdeRonDVr5h2vgOixg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分布式存储 Ceph 的演进经验 · SOSP 2019</title>
+    <updated>2020-10-19T22:24:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-19:/s/jLDBQdeW0ol2M5LWfImxZg</id>
+    <link href="https://mp.weixin.qq.com/s/jLDBQdeW0ol2M5LWfImxZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>关系感知路由与全球流量调度 · SOSP 2019</title>
+    <updated>2020-10-12T23:54:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/9jLHY_k04EW_NUH6R9j-Pw</id>
+    <link href="https://mp.weixin.qq.com/s/9jLHY_k04EW_NUH6R9j-Pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>流量管理与数据中心故障缓解 · OSDI 2018</title>
+    <updated>2020-09-28T23:31:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-28:/s/h29srBHJvd5HOvxCzXeaTA</id>
+    <link href="https://mp.weixin.qq.com/s/h29srBHJvd5HOvxCzXeaTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务架构的分布式容错 · SOSP 2019</title>
+    <updated>2020-09-21T23:52:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-21:/s/Asw3fJcLmxavt191bdNYiw</id>
+    <link href="https://mp.weixin.qq.com/s/Asw3fJcLmxavt191bdNYiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数据布局服务与局部性管理 · OSDI 2018</title>
+    <updated>2020-09-08T01:22:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-08:/s/zzXT01pSR1C_AJR_RsANaw</id>
+    <link href="https://mp.weixin.qq.com/s/zzXT01pSR1C_AJR_RsANaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>操作系统模型与乐高积木 · OSDI 2018</title>
+    <updated>2020-08-18T08:51:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-18:/s/cA7p3iaRnLmx0LiJNMf4eg</id>
+    <link href="https://mp.weixin.qq.com/s/cA7p3iaRnLmx0LiJNMf4eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

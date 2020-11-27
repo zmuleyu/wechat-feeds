@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T23:20:12+08:00</updated>
+  <updated>2020-11-27T23:20:33+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>林宙辰：实现机器学习科研从 0 到 1，没有什么比一个好的理论更加实用</title>
+    <updated>2020-11-27T21:56:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/FiieZ-6NNHxqZKOaIALZbw</id>
+    <link href="https://mp.weixin.qq.com/s/FiieZ-6NNHxqZKOaIALZbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>NeurIPS 2020 Oral: 利用像素级别循环一致性来解决域适应语义分割问题</title>
+    <updated>2020-11-27T21:56:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/Fwf67_hDWLj_Npy_YFaaRA</id>
+    <link href="https://mp.weixin.qq.com/s/Fwf67_hDWLj_Npy_YFaaRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>视频目标检测大盘点</title>
+    <updated>2020-11-27T21:56:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/Twz2wuBve-nB0Hza9vr9OQ</id>
+    <link href="https://mp.weixin.qq.com/s/Twz2wuBve-nB0Hza9vr9OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不到1000行代码，GitHub 1400星，天才黑客开源深度学习框架tinygrad</title>
+    <updated>2020-11-27T21:56:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/bPMvHkUIFWgj1y1xb2YANw</id>
+    <link href="https://mp.weixin.qq.com/s/bPMvHkUIFWgj1y1xb2YANw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CNN：我不是你想的那样</title>
     <updated>2020-11-26T21:44:48+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-23T18:01:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/HI1JLxYxilTMlmIQTc89pA</id>
     <link href="https://mp.weixin.qq.com/s/HI1JLxYxilTMlmIQTc89pA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>极市直播丨郑哲东：重识别领域最强技术分享！ReID最新综述、CVPR2020车辆重识别冠军方案及无人机定位</title>
-    <updated>2020-11-22T21:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/kVYNOCnQJkR75SDyrJ4SQQ</id>
-    <link href="https://mp.weixin.qq.com/s/kVYNOCnQJkR75SDyrJ4SQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>贝叶斯深度学习（Bayesian Deep Learning）2020 最新研究总结</title>
-    <updated>2020-11-22T21:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/p3irk9bKohl0RgNP5z0_xg</id>
-    <link href="https://mp.weixin.qq.com/s/p3irk9bKohl0RgNP5z0_xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习基础：一步一步讲解卷积神经网络</title>
-    <updated>2020-11-22T21:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/KANPxk9BbsPesLuiiT9EGw</id>
-    <link href="https://mp.weixin.qq.com/s/KANPxk9BbsPesLuiiT9EGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个函数打天下，einsum</title>
-    <updated>2020-11-22T21:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/UbpeTNJlx2f6fPhm11QCLw</id>
-    <link href="https://mp.weixin.qq.com/s/UbpeTNJlx2f6fPhm11QCLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
