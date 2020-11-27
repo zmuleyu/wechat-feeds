@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T11:17:44+08:00</updated>
+  <updated>2020-11-27T11:14:55+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何建设移动 DevOps？</title>
+    <updated>2020-11-26T17:57:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/YLvDLnqkLzU2wIhkrqzIEQ</id>
+    <link href="https://mp.weixin.qq.com/s/YLvDLnqkLzU2wIhkrqzIEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高德最佳实践：Serverless规模化落地有哪些价值？</title>
     <updated>2020-11-25T19:05:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-16T07:56:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/tMC1Uas99F28_tU5lH0CNw</id>
     <link href="https://mp.weixin.qq.com/s/tMC1Uas99F28_tU5lH0CNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里巴巴集团 CTO 程立：今年天猫双 11，阿里练了什么？</title>
-    <updated>2020-11-12T22:28:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/wVQEvnddW-YKAIb4mOOgbA</id>
-    <link href="https://mp.weixin.qq.com/s/wVQEvnddW-YKAIb4mOOgbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

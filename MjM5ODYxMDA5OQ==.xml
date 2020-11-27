@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T11:22:46+08:00</updated>
+  <updated>2020-11-27T11:20:44+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在12个小时，搞定http监控？</title>
+    <updated>2020-11-27T09:02:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/aqpRwEpDPyJXqqLWYhgFmQ</id>
+    <link href="https://mp.weixin.qq.com/s/aqpRwEpDPyJXqqLWYhgFmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么说，CAP是分布式理论的基础？</title>
     <updated>2020-11-25T22:01:07+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-11-11T16:40:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/cft9yxaqPp45XD14-2Z5Iw</id>
     <link href="https://mp.weixin.qq.com/s/cft9yxaqPp45XD14-2Z5Iw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每秒50W笔交易，阿里双十一，架构如何优化到极致！</title>
-    <updated>2020-11-09T08:39:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/7BKPcPeWpn5CHoOuWQ5xvw</id>
-    <link href="https://mp.weixin.qq.com/s/7BKPcPeWpn5CHoOuWQ5xvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>老板和下属，究竟要如何相互成就？</title>
-    <updated>2020-11-09T08:39:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/0atctHSGZEWy4-DuR8cJrw</id>
-    <link href="https://mp.weixin.qq.com/s/0atctHSGZEWy4-DuR8cJrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
