@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T13:13:31+08:00</updated>
+  <updated>2020-11-27T13:14:08+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从动力学角度看优化算法：为什么学习率不宜过小？</title>
+    <updated>2020-11-27T11:45:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/lMBSE9hduy1fEHT72juC4A</id>
+    <link href="https://mp.weixin.qq.com/s/lMBSE9hduy1fEHT72juC4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>物体检测有哪些主流的算法，又该如何实现呢？</title>
+    <updated>2020-11-27T11:45:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/OqXi5GJ4mVx7RQ3HSF7YHw</id>
+    <link href="https://mp.weixin.qq.com/s/OqXi5GJ4mVx7RQ3HSF7YHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>@请注意查收：《史上最全的AI论文资料》.pdf</title>
     <updated>2020-11-26T12:57:30+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-20T11:58:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/EBIOsT1pOHm4D5OkUutE8w</id>
     <link href="https://mp.weixin.qq.com/s/EBIOsT1pOHm4D5OkUutE8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么说卷积神经网络，是深度学习算法应用最成功的领域之一？</title>
-    <updated>2020-11-19T17:22:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/Zyzl0VRE9erDJjJdzoR4kg</id>
-    <link href="https://mp.weixin.qq.com/s/Zyzl0VRE9erDJjJdzoR4kg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>COLING 2020 | CharBERT：字符敏感的预训练语言模型</title>
-    <updated>2020-11-19T17:22:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/w4zTwxp9cP2R_05W9CMp7Q</id>
-    <link href="https://mp.weixin.qq.com/s/w4zTwxp9cP2R_05W9CMp7Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
