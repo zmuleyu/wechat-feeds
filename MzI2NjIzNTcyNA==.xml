@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:30:53+08:00</updated>
+  <updated>2020-11-29T23:17:44+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云端无压缩视频&amp;广播的未来</title>
+    <updated>2020-11-29T22:58:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/ika-gvIJW5HjlMd5CzaYxg</id>
+    <link href="https://mp.weixin.qq.com/s/ika-gvIJW5HjlMd5CzaYxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Streaming Media研讨会短演讲二则</title>
     <updated>2020-11-28T18:04:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T18:28:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/tbFSfa-tMr2iYkGuwQfpOQ</id>
     <link href="https://mp.weixin.qq.com/s/tbFSfa-tMr2iYkGuwQfpOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用WebRTC实现低延迟网络应用</title>
-    <updated>2020-11-19T19:27:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/1meCEHIohYrOtvS4N3V7VQ</id>
-    <link href="https://mp.weixin.qq.com/s/1meCEHIohYrOtvS4N3V7VQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

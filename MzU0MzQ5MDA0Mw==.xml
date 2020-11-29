@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:34:14+08:00</updated>
+  <updated>2020-11-29T23:22:42+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>API网关是否真的起到了它该有的作用？</title>
+    <updated>2020-11-29T16:54:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/KvWfebfPrr9b6KC1Dka9Ng</id>
+    <link href="https://mp.weixin.qq.com/s/KvWfebfPrr9b6KC1Dka9Ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这份笔记研究完，进大厂是个“加分项”...</title>
     <updated>2020-11-28T01:20:48+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-11-19T22:29:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/I_x5b3Fy69rXfT-S-4-y2g</id>
     <link href="https://mp.weixin.qq.com/s/I_x5b3Fy69rXfT-S-4-y2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CTO说：Service层的接口是不是多此一举</title>
-    <updated>2020-11-17T21:47:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/QRIjUuCKlTfvkZWFHTnpwg</id>
-    <link href="https://mp.weixin.qq.com/s/QRIjUuCKlTfvkZWFHTnpwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

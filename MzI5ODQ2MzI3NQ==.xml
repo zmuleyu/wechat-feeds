@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:27:04+08:00</updated>
+  <updated>2020-11-29T23:13:47+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>闲鱼服务端架构演进历程</title>
+    <updated>2020-11-29T20:50:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/GtVa2cIZG1mYJuSzHUUAoA</id>
+    <link href="https://mp.weixin.qq.com/s/GtVa2cIZG1mYJuSzHUUAoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>北京12月份： Kubernetes CKA实战培训</title>
     <updated>2020-11-28T20:52:59+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-11-20T21:10:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/B0AiCOKEiVYu3W_mE0AsVw</id>
     <link href="https://mp.weixin.qq.com/s/B0AiCOKEiVYu3W_mE0AsVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来了一个，K0s。。</title>
-    <updated>2020-11-19T11:21:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/z7hExfhZs_oDHVWYmOOhxw</id>
-    <link href="https://mp.weixin.qq.com/s/z7hExfhZs_oDHVWYmOOhxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:47:26+08:00</updated>
+  <updated>2020-11-29T23:35:58+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PTMs| 2020最新NLP预训练模型综述</title>
+    <updated>2020-11-29T21:52:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/4RnfWkrVZAMeYJIk8b5dKA</id>
+    <link href="https://mp.weixin.qq.com/s/4RnfWkrVZAMeYJIk8b5dKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>负样本为王：评Facebook的向量化召回算法</title>
+    <updated>2020-11-29T21:52:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/QJPXWlslMTE6Rz5_pvzsyQ</id>
+    <link href="https://mp.weixin.qq.com/s/QJPXWlslMTE6Rz5_pvzsyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>文本分类综述 | 迈向NLP大师的第一步（上）</title>
+    <updated>2020-11-29T21:52:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/ysyrVo3hoMMi0D0eCB2JJA</id>
+    <link href="https://mp.weixin.qq.com/s/ysyrVo3hoMMi0D0eCB2JJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>注意力机制 | 图卷积多跳注意力机制 | Direct multi-hop Attention based GNN</title>
+    <updated>2020-11-29T21:52:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/wTJ_9F0KWD41pRQXqLMoKQ</id>
+    <link href="https://mp.weixin.qq.com/s/wTJ_9F0KWD41pRQXqLMoKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈冷启动：从无到有的那种</title>
+    <updated>2020-11-29T21:52:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/zm1_RC5F7Ie4YLpm09-AFw</id>
+    <link href="https://mp.weixin.qq.com/s/zm1_RC5F7Ie4YLpm09-AFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分布式人工智能：基于TensorFlow RTOS与群体智能体系（文末赠书）</title>
     <updated>2020-11-28T22:59:04+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-25T21:32:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/nwoCABNl7UsIgwBmkbMOHg</id>
     <link href="https://mp.weixin.qq.com/s/nwoCABNl7UsIgwBmkbMOHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>语义向量召回之ANN检索</title>
-    <updated>2020-11-25T21:32:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/uNWSY-A7iCFaydtwTTv85A</id>
-    <link href="https://mp.weixin.qq.com/s/uNWSY-A7iCFaydtwTTv85A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Wide&amp;Deep模型的八个实战细节</title>
-    <updated>2020-11-25T21:32:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/UOuT-E8g22iRRoKC9r23YQ</id>
-    <link href="https://mp.weixin.qq.com/s/UOuT-E8g22iRRoKC9r23YQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Conformer: 卷积增强的Transformer</title>
-    <updated>2020-11-25T21:32:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/du8561qHcu798zcaObOmvw</id>
-    <link href="https://mp.weixin.qq.com/s/du8561qHcu798zcaObOmvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起</title>
-    <updated>2020-11-25T21:32:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/Jt5R2ILk0SGHGhCbCAmX3A</id>
-    <link href="https://mp.weixin.qq.com/s/Jt5R2ILk0SGHGhCbCAmX3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>王喆：深度学习推荐系统实战</title>
-    <updated>2020-11-24T19:04:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/mvBe6tb2qz4nTi-D6tyhLQ</id>
-    <link href="https://mp.weixin.qq.com/s/mvBe6tb2qz4nTi-D6tyhLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
