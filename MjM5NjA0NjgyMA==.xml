@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:44:22+08:00</updated>
+  <updated>2020-11-29T20:33:38+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>英国防部预算获批并确认网络安全相关支出增加</title>
+    <updated>2020-11-29T17:44:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/_XzRhJZWaKkwWrFHYEJ9JA</id>
+    <link href="https://mp.weixin.qq.com/s/_XzRhJZWaKkwWrFHYEJ9JA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>KONNI APT组织伪装安全功能应用的攻击活动剖析</title>
+    <updated>2020-11-29T17:44:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/Iw6GoylWhbnEhzp5pFRYlA</id>
+    <link href="https://mp.weixin.qq.com/s/Iw6GoylWhbnEhzp5pFRYlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用SSJ将你的Linux打造成渗透测试和取证设备</title>
+    <updated>2020-11-29T17:44:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/iw1VJniyZJVObf4nm_73lA</id>
+    <link href="https://mp.weixin.qq.com/s/iw1VJniyZJVObf4nm_73lA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CRLFuzz：一款基于Go的CRLF漏洞快速扫描工具</title>
+    <updated>2020-11-29T17:44:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/uLmYlhadp__A2YCDEeU71A</id>
+    <link href="https://mp.weixin.qq.com/s/uLmYlhadp__A2YCDEeU71A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>BUF大事件丨上海市网信办约谈圆通速递责令整改；印度再禁43款中国手机应用</title>
     <updated>2020-11-28T17:41:04+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-25T18:22:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/Eh363kQ2jptQAoDCZ2v_uA</id>
     <link href="https://mp.weixin.qq.com/s/Eh363kQ2jptQAoDCZ2v_uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记一次糟心的内网靶场实战</title>
-    <updated>2020-11-24T18:00:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/xHBzUtbkJ-ZdPEmmLZt66w</id>
-    <link href="https://mp.weixin.qq.com/s/xHBzUtbkJ-ZdPEmmLZt66w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WitAwards 2020评选火热进行中 | 年度安全SRC&amp;年度安全作者</title>
-    <updated>2020-11-24T18:00:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/ovaQWiec5Gq9Lms3MwT90Q</id>
-    <link href="https://mp.weixin.qq.com/s/ovaQWiec5Gq9Lms3MwT90Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>第一个PWN：栈溢出原理以及EXP的编写</title>
-    <updated>2020-11-24T18:00:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/mv0NGNQppWmiUe4EOVwI9A</id>
-    <link href="https://mp.weixin.qq.com/s/mv0NGNQppWmiUe4EOVwI9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Polypyus：一款功能强大的固件源码分析工具</title>
-    <updated>2020-11-24T18:00:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/dPK2dCzvEkbheBdTC7cGQw</id>
-    <link href="https://mp.weixin.qq.com/s/dPK2dCzvEkbheBdTC7cGQw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
