@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T16:24:39+08:00</updated>
+  <updated>2020-11-29T16:32:58+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端周报：Vue 新语法糖引争议；VSCode 现内存泄漏 BUG，官方置若罔闻引不满；百度应用收集用户敏感数据被谷歌短暂下架</title>
+    <updated>2020-11-29T16:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/QkPTfHgEPhhzlEO8pjuEww</id>
+    <link href="https://mp.weixin.qq.com/s/QkPTfHgEPhhzlEO8pjuEww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PHP 8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍</title>
     <updated>2020-11-27T14:00:25+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-16T15:31:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/hptys6qWdQ-C6KDIzRwBPg</id>
     <link href="https://mp.weixin.qq.com/s/hptys6qWdQ-C6KDIzRwBPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专注力对程序员来说意味着什么？</title>
-    <updated>2020-11-16T15:31:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/XDOdlKHnvBSfNqpCcjaBqg</id>
-    <link href="https://mp.weixin.qq.com/s/XDOdlKHnvBSfNqpCcjaBqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

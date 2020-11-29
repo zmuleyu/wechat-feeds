@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T20:25:58+08:00</updated>
+  <updated>2020-11-29T16:34:44+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从SGD到NadaMax，十种优化算法原理及实现</title>
+    <updated>2020-11-28T20:20:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/WnKXtkL5By0WbwdDGlY6zQ</id>
+    <link href="https://mp.weixin.qq.com/s/WnKXtkL5By0WbwdDGlY6zQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>王者荣耀AI绝悟完全体对战开启：英雄随便选，论文已被NeurIPS收录</title>
+    <updated>2020-11-28T20:20:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/jXXUF65Fz--ND3evDPLPlw</id>
+    <link href="https://mp.weixin.qq.com/s/jXXUF65Fz--ND3evDPLPlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>NeurIPS 2020 Oral: 利用像素级别循环一致性来解决域适应语义分割问题</title>
+    <updated>2020-11-28T20:20:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/Mcy8789c9YVeOt1CEyv6BQ</id>
+    <link href="https://mp.weixin.qq.com/s/Mcy8789c9YVeOt1CEyv6BQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>港大同济伯克利推出目标检测新范式：Sparse R-CNN</title>
     <updated>2020-11-27T18:54:54+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-22T18:40:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/IB_ot_J05S94rWKITYuqLQ</id>
     <link href="https://mp.weixin.qq.com/s/IB_ot_J05S94rWKITYuqLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>利用CodeBERT，这个VS Code扩展可以自动生成Python文档字符串</title>
-    <updated>2020-11-22T18:40:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/TKY5TllyDy_2tPl1eV5sOA</id>
-    <link href="https://mp.weixin.qq.com/s/TKY5TllyDy_2tPl1eV5sOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3D目标检测综述：从数据集到2D和3D方法</title>
-    <updated>2020-11-21T19:56:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/xPsUVY5_03SmIwwe_f1VcA</id>
-    <link href="https://mp.weixin.qq.com/s/xPsUVY5_03SmIwwe_f1VcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>语音驱动3D虚拟人，百度ACCV 2020最新文章解读</title>
-    <updated>2020-11-21T19:56:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/0F6M5XztLPG7yJElFm1q8Q</id>
-    <link href="https://mp.weixin.qq.com/s/0F6M5XztLPG7yJElFm1q8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

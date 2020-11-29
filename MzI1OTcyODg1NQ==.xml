@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T23:23:57+08:00</updated>
+  <updated>2020-11-29T16:37:05+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>什么是 SRE？一文详解 SRE 运维体系</title>
+    <updated>2020-11-28T17:22:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/K3RPMGA6hY-G_SB7fKOOMg</id>
+    <link href="https://mp.weixin.qq.com/s/K3RPMGA6hY-G_SB7fKOOMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ansile的高级用法role的实战案例</title>
+    <updated>2020-11-28T17:22:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/ci79UzUgCifkE_DLMijPAQ</id>
+    <link href="https://mp.weixin.qq.com/s/ci79UzUgCifkE_DLMijPAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rsync 秒杀一切备份工具，你能手动屏蔽某些目录吗？</title>
     <updated>2020-11-27T21:05:07+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-19T21:06:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/Cg8rBJXrq039s6896-37TA</id>
     <link href="https://mp.weixin.qq.com/s/Cg8rBJXrq039s6896-37TA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这些最常用的Linux命令，每一条都应该学会！</title>
-    <updated>2020-11-18T21:43:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/RUuUw9-urFXTuAc_GtYxxA</id>
-    <link href="https://mp.weixin.qq.com/s/RUuUw9-urFXTuAc_GtYxxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LVS架构的NAT和DR模型实现原理</title>
-    <updated>2020-11-18T21:43:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Hv67yTgJFD2RqZLmgtbk-w</id>
-    <link href="https://mp.weixin.qq.com/s/Hv67yTgJFD2RqZLmgtbk-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

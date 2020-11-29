@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T23:24:20+08:00</updated>
+  <updated>2020-11-29T16:37:40+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】Arc 在 Rust 中是如何工作的</title>
+    <updated>2020-11-28T22:55:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/dWmSBNRwa1yTsXKpp96Mtw</id>
+    <link href="https://mp.weixin.qq.com/s/dWmSBNRwa1yTsXKpp96Mtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】 2020-11-27 imgui-rs项目正在寻找新的维护者</title>
+    <updated>2020-11-28T22:55:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/g9foANlQQHK5FNo36iqA8A</id>
+    <link href="https://mp.weixin.qq.com/s/g9foANlQQHK5FNo36iqA8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【每周一库】 todo_r - Find all your notes with one command!</title>
     <updated>2020-11-27T23:02:40+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-11-19T22:40:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/0OPr8laUyLw7i2zG5EB24g</id>
     <link href="https://mp.weixin.qq.com/s/0OPr8laUyLw7i2zG5EB24g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Servo 成为 Linux 基金会托管项目</title>
-    <updated>2020-11-18T22:03:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/X5ytCGCdd0aHZTA5P2m4IA</id>
-    <link href="https://mp.weixin.qq.com/s/X5ytCGCdd0aHZTA5P2m4IA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】dcompass - 纯 Rust 实现的高性能混合 DNS 服务器</title>
-    <updated>2020-11-18T22:03:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/TGBkuSigEL_qYlM4sBERWQ</id>
-    <link href="https://mp.weixin.qq.com/s/TGBkuSigEL_qYlM4sBERWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

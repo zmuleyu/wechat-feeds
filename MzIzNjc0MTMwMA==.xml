@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T20:28:04+08:00</updated>
+  <updated>2020-11-29T16:37:00+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【强基固本】kaiming初始化的推导</title>
+    <updated>2020-11-28T20:28:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/KKpRu_qw8fT_PxXdLDTihQ</id>
+    <link href="https://mp.weixin.qq.com/s/KKpRu_qw8fT_PxXdLDTihQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】一文读懂 PyTorch 模型保存与载入</title>
+    <updated>2020-11-28T20:28:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/zWEO-VvNsciF9KKmJ6VCyQ</id>
+    <link href="https://mp.weixin.qq.com/s/zWEO-VvNsciF9KKmJ6VCyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【他山之石】物体检测有哪些主流算法，又该如何实现呢？</title>
     <updated>2020-11-27T18:31:06+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-20T18:04:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/y4xk82O2CA3ubJsW17A8Uw</id>
     <link href="https://mp.weixin.qq.com/s/y4xk82O2CA3ubJsW17A8Uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CESF2020主论坛丨“融合·创新”，开启能源产业新生态</title>
-    <updated>2020-11-20T18:04:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/ZHQr20SOA9TEKWVhvYuq3g</id>
-    <link href="https://mp.weixin.qq.com/s/ZHQr20SOA9TEKWVhvYuq3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI89×CRIPAC 三维几何学习专题</title>
-    <updated>2020-11-20T18:04:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/t5GjGH0uMKP0PfV1OstLOA</id>
-    <link href="https://mp.weixin.qq.com/s/t5GjGH0uMKP0PfV1OstLOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

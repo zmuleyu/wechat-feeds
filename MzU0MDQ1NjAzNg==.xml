@@ -1,24 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T13:30:59+08:00</updated>
+  <updated>2020-11-29T16:47:49+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>1000 面试题，BAT 机器学习面试刷题宝典！</title>
+    <updated>2020-11-29T10:05:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/jaMkISGBfW6QyvrooOnXoQ</id>
+    <link href="https://mp.weixin.qq.com/s/jaMkISGBfW6QyvrooOnXoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一份火爆国外的PyCharm快捷键和Python代码速查表</title>
+    <updated>2020-11-29T10:05:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/WukB_xyjXxlBrbAFEsOhUA</id>
+    <link href="https://mp.weixin.qq.com/s/WukB_xyjXxlBrbAFEsOhUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于OpenCV的车辆变道检测</title>
+    <updated>2020-11-29T10:05:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/-cW__y7VBE5FHb8I6k2OnA</id>
+    <link href="https://mp.weixin.qq.com/s/-cW__y7VBE5FHb8I6k2OnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>再见，Matplotlib！</title>
+    <updated>2020-11-27T21:34:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/JJftjS-KjLbWdkH0_zNUEg</id>
+    <link href="https://mp.weixin.qq.com/s/JJftjS-KjLbWdkH0_zNUEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漂亮，LSTM模型结构的可视化</title>
+    <updated>2020-11-27T21:34:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/NUIV3OIjfGWGJOb8q02zjw</id>
+    <link href="https://mp.weixin.qq.com/s/NUIV3OIjfGWGJOb8q02zjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>12h删除，这波福利请笑纳</title>
     <updated>2020-11-27T10:32:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/s6kmXkVpXCX3o_3UWsUhNA</id>
     <link href="https://mp.weixin.qq.com/s/s6kmXkVpXCX3o_3UWsUhNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信可以改彩色昵称了！！！太sao了吧！</title>
-    <updated>2020-11-27T10:32:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/-1cTNBQ-UfggQlSKll24xg</id>
-    <link href="https://mp.weixin.qq.com/s/-1cTNBQ-UfggQlSKll24xg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,34 +145,6 @@
     <updated>2020-11-22T10:06:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/IJxPrIzqFSaUnLhlUn911Q</id>
     <link href="https://mp.weixin.qq.com/s/IJxPrIzqFSaUnLhlUn911Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Transformer 又立功了！又快(420 fps)又好的车道线检测算法</title>
-    <updated>2020-11-22T10:06:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/NUv4N6JZu3mPxJtlSygXUw</id>
-    <link href="https://mp.weixin.qq.com/s/NUv4N6JZu3mPxJtlSygXUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【收藏】23个机器学习最佳入门项目（附源代码）</title>
-    <updated>2020-11-21T08:46:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/lQFidf4mpvj7RF8VQs4iEA</id>
-    <link href="https://mp.weixin.qq.com/s/lQFidf4mpvj7RF8VQs4iEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于OpenCV的直方图匹配</title>
-    <updated>2020-11-21T08:46:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/cBbr0I1AGFKd7mQk57lQpg</id>
-    <link href="https://mp.weixin.qq.com/s/cBbr0I1AGFKd7mQk57lQpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工业图像异常检测最新研究总结（2019-2020）</title>
-    <updated>2020-11-19T21:58:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/jPdsEBgbPBmHPwA81A7s0g</id>
-    <link href="https://mp.weixin.qq.com/s/jPdsEBgbPBmHPwA81A7s0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T11:22:32+08:00</updated>
+  <updated>2020-11-29T16:34:14+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这份笔记研究完，进大厂是个“加分项”...</title>
+    <updated>2020-11-28T01:20:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/bHTZwvoYl5ueOiiuMklqRA</id>
+    <link href="https://mp.weixin.qq.com/s/bHTZwvoYl5ueOiiuMklqRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你知道这 8 种 SQL 错误用法吗？</title>
+    <updated>2020-11-28T01:20:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/OY3dJGLh-6q6NorX2mU1hQ</id>
+    <link href="https://mp.weixin.qq.com/s/OY3dJGLh-6q6NorX2mU1hQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>B站疯传，堪称最强！&#34;开车宝典”限时删除！</title>
     <updated>2020-11-27T00:08:14+08:00</updated>
@@ -26,13 +40,6 @@
     <updated>2020-11-25T22:41:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/zrA6XQ8Gh5ETyW4VfnaaPA</id>
     <link href="https://mp.weixin.qq.com/s/zrA6XQ8Gh5ETyW4VfnaaPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>职场中，为什么晋升的不是你？</title>
-    <updated>2020-11-25T18:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/hmDLpguHdZWTN8EwcQURbQ</id>
-    <link href="https://mp.weixin.qq.com/s/hmDLpguHdZWTN8EwcQURbQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +89,6 @@
     <updated>2020-11-17T21:47:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/QRIjUuCKlTfvkZWFHTnpwg</id>
     <link href="https://mp.weixin.qq.com/s/QRIjUuCKlTfvkZWFHTnpwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Feed流系统设计</title>
-    <updated>2020-11-17T21:44:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/HK10xydjDKzx1rty788cIw</id>
-    <link href="https://mp.weixin.qq.com/s/HK10xydjDKzx1rty788cIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

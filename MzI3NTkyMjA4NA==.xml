@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python与算法社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-28T01:27:43+08:00</updated>
+  <updated>2020-11-29T16:47:55+08:00</updated>
   <subtitle>点击这里，关注我！顶级Python 机器学习 数据分析教程，让你触手可得！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Pandas 数据分析 5 个实用小技巧</title>
+    <updated>2020-11-28T22:32:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/M-xGBfo-BAJov60jE9t34w</id>
+    <link href="https://mp.weixin.qq.com/s/M-xGBfo-BAJov60jE9t34w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据预处理的 10 个小技能，附 Pandas 实现</title>
     <updated>2020-11-27T23:56:23+08:00</updated>
@@ -57,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>看了这7篇论文，你会完全掌握卷积神经网络！</title>
-    <updated>2020-11-23T23:05:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/so8TaqQMh8zwtbWNGxUcKQ</id>
-    <link href="https://mp.weixin.qq.com/s/so8TaqQMh8zwtbWNGxUcKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>NumPy 的 nan 如何理解？</title>
     <updated>2020-11-23T23:05:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/dPubn9w5tUva7sYdti7FEA</id>
@@ -106,24 +106,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>当年要是这样搞，我的C++也不至于这样！</title>
-    <updated>2020-11-19T23:27:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/T76tDFtiJRcPo_gQrSi-fA</id>
-    <link href="https://mp.weixin.qq.com/s/T76tDFtiJRcPo_gQrSi-fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>2 天入门Python数据分析，我推荐这本书 ！</title>
     <updated>2020-11-19T23:27:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/A8nfdLmck78UMopU8eWVpQ</id>
     <link href="https://mp.weixin.qq.com/s/A8nfdLmck78UMopU8eWVpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据分析简明学习路线</title>
-    <updated>2020-11-18T23:27:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/uWxVm7og_E_CtO_cJULFtQ</id>
-    <link href="https://mp.weixin.qq.com/s/uWxVm7og_E_CtO_cJULFtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
