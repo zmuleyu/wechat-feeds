@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-23T11:25:31+08:00</updated>
+  <updated>2020-11-30T11:31:54+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节前端 Hackathon：元旦、公益创意大爆炸</title>
+    <updated>2020-11-30T08:50:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/mziNsab2lLrhvYLHjFMYqA</id>
+    <link href="https://mp.weixin.qq.com/s/mziNsab2lLrhvYLHjFMYqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>UME - 丰富的Flutter调试工具</title>
     <updated>2020-11-22T20:34:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-30T10:22:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/7Es9SfRKKGLTdniLOPm7_Q</id>
     <link href="https://mp.weixin.qq.com/s/7Es9SfRKKGLTdniLOPm7_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fastbot：行进中的智能 Monkey</title>
-    <updated>2020-09-28T10:29:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/3t4H2bfDjei4vXkj_Cz2pg</id>
-    <link href="https://mp.weixin.qq.com/s/3t4H2bfDjei4vXkj_Cz2pg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

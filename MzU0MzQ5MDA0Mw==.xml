@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T23:22:42+08:00</updated>
+  <updated>2020-11-30T11:28:35+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“领导给你涨工资，从来都不是看努力”</title>
+    <updated>2020-11-29T22:30:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/gkuQqggL6nXbe9mjWiuPBw</id>
+    <link href="https://mp.weixin.qq.com/s/gkuQqggL6nXbe9mjWiuPBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SQL 查找是否&#34;存在&#34;，别再 COUNT 了，很耗费时间的</title>
+    <updated>2020-11-29T22:30:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/3gQkoUh5nwi1LTg00abQsg</id>
+    <link href="https://mp.weixin.qq.com/s/3gQkoUh5nwi1LTg00abQsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>API网关是否真的起到了它该有的作用？</title>
     <updated>2020-11-29T16:54:27+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-11-20T00:51:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/rH3VhI1a9tkTy_V4jWfEfQ</id>
     <link href="https://mp.weixin.qq.com/s/rH3VhI1a9tkTy_V4jWfEfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：String长度有限制吗？是多少？</title>
-    <updated>2020-11-19T22:29:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/I_x5b3Fy69rXfT-S-4-y2g</id>
-    <link href="https://mp.weixin.qq.com/s/I_x5b3Fy69rXfT-S-4-y2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

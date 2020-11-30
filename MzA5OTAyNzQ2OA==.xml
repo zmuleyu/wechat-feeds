@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:37:13+08:00</updated>
+  <updated>2020-11-30T11:29:56+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Cilium：基于 BPF/XDP 实现 Kubernetes Service 负载均衡</title>
+    <updated>2020-11-29T16:57:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/6cTu7Ngz2NuA0HJHb1rFMQ</id>
+    <link href="https://mp.weixin.qq.com/s/6cTu7Ngz2NuA0HJHb1rFMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes实战培训 | 深圳站</title>
+    <updated>2020-11-29T16:57:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/O5JnIlRLq85_0lOaCjYzEw</id>
+    <link href="https://mp.weixin.qq.com/s/O5JnIlRLq85_0lOaCjYzEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何用Prometheus监控十万container的Kubernetes集群</title>
     <updated>2020-11-28T23:33:01+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-20T22:52:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/Hn5Xn59ZlVnyTMDdy9z_qg</id>
     <link href="https://mp.weixin.qq.com/s/Hn5Xn59ZlVnyTMDdy9z_qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Istio 1.8正式发布！</title>
-    <updated>2020-11-20T09:56:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/qdt82xTHq76knnGIVXAPCA</id>
-    <link href="https://mp.weixin.qq.com/s/qdt82xTHq76knnGIVXAPCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes实战培训 | 深圳站</title>
-    <updated>2020-11-20T09:56:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/TcjQbGzHUsObK3FFnBvpZw</id>
-    <link href="https://mp.weixin.qq.com/s/TcjQbGzHUsObK3FFnBvpZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
