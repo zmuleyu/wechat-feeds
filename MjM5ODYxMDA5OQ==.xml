@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-30T11:26:58+08:00</updated>
+  <updated>2020-12-01T23:18:39+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>金字塔原理</title>
+    <updated>2020-11-30T22:20:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/awHobFOySMbGc9rZc3LsOg</id>
+    <link href="https://mp.weixin.qq.com/s/awHobFOySMbGc9rZc3LsOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在12个小时，搞定日志监控？</title>
     <updated>2020-11-29T23:00:43+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-11-19T08:59:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/qdMOHTLlIPWCXDVPaIyp7A</id>
     <link href="https://mp.weixin.qq.com/s/qdMOHTLlIPWCXDVPaIyp7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>框架组件，究竟要不要自研？</title>
-    <updated>2020-11-15T15:28:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/wFTBlgD3lh9Fm0LMtPtBwQ</id>
-    <link href="https://mp.weixin.qq.com/s/wFTBlgD3lh9Fm0LMtPtBwQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

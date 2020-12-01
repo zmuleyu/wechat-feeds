@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-30T11:28:35+08:00</updated>
+  <updated>2020-12-01T23:17:34+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JVM GC耗时频频升高，这次排查完想说：还有谁？</title>
+    <updated>2020-12-01T00:31:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/UbBO4hfqBa-vnGyhylNsag</id>
+    <link href="https://mp.weixin.qq.com/s/UbBO4hfqBa-vnGyhylNsag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“领导给你涨工资，从来都不是看努力”</title>
     <updated>2020-11-29T22:30:46+08:00</updated>
@@ -29,24 +36,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>这份笔记研究完，进大厂是个“加分项”...</title>
-    <updated>2020-11-28T01:20:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/bHTZwvoYl5ueOiiuMklqRA</id>
-    <link href="https://mp.weixin.qq.com/s/bHTZwvoYl5ueOiiuMklqRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>你知道这 8 种 SQL 错误用法吗？</title>
     <updated>2020-11-28T01:20:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/OY3dJGLh-6q6NorX2mU1hQ</id>
     <link href="https://mp.weixin.qq.com/s/OY3dJGLh-6q6NorX2mU1hQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>B站疯传，堪称最强！&#34;开车宝典”限时删除！</title>
-    <updated>2020-11-27T00:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/e0_jGPYKBM5ypxi6-KHyPQ</id>
-    <link href="https://mp.weixin.qq.com/s/e0_jGPYKBM5ypxi6-KHyPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +82,6 @@
     <updated>2020-11-20T22:55:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/2uYV2Z_5aoUIINr8g7kTQw</id>
     <link href="https://mp.weixin.qq.com/s/2uYV2Z_5aoUIINr8g7kTQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试题：1 到 1000 之间有多少个 7？</title>
-    <updated>2020-11-20T00:51:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/rH3VhI1a9tkTy_V4jWfEfQ</id>
-    <link href="https://mp.weixin.qq.com/s/rH3VhI1a9tkTy_V4jWfEfQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
