@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T20:19:25+08:00</updated>
+  <updated>2020-12-01T09:47:36+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow Recommenders 迎来更新 — 可扩展检索和特征交互建模</title>
+    <updated>2020-11-30T18:20:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/1UJ-EoU6mlBo6OFyA1C0fQ</id>
+    <link href="https://mp.weixin.qq.com/s/1UJ-EoU6mlBo6OFyA1C0fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社区分享 | TensorFlow Serving 模型更新毛刺的完全优化实践</title>
     <updated>2020-11-27T17:57:34+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-16T18:34:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/jNCWGyPB3SyzKiBfb8KNJw</id>
     <link href="https://mp.weixin.qq.com/s/jNCWGyPB3SyzKiBfb8KNJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明天中午一点！ Google 开发者大会预约全攻略</title>
-    <updated>2020-11-15T21:51:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/WakXHMvRyhuWeAzQ1Yb7dw</id>
-    <link href="https://mp.weixin.qq.com/s/WakXHMvRyhuWeAzQ1Yb7dw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

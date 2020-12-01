@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:32:16+08:00</updated>
+  <updated>2020-12-01T09:52:10+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【DevFest 2020】嘉宾实录总结：《如何透过TensorFlow建构负责任的AI系统》by Jerry Wu｜AI专场</title>
+    <updated>2020-11-30T18:40:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/IQl7FKDlL9_uPGIxkaTShw</id>
+    <link href="https://mp.weixin.qq.com/s/IQl7FKDlL9_uPGIxkaTShw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【活动预告】从工程化维度懂AI，系列分享全新来袭！</title>
     <updated>2020-11-29T09:37:28+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-11T20:16:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/3jv9JCqDf9PnSpXpDCeFNA</id>
     <link href="https://mp.weixin.qq.com/s/3jv9JCqDf9PnSpXpDCeFNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[活动回顾] 实时音视频技术专场总结来啦！</title>
-    <updated>2020-11-08T20:17:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/EWhYDBn2Q8oQMZNu-Xuq6w</id>
-    <link href="https://mp.weixin.qq.com/s/EWhYDBn2Q8oQMZNu-Xuq6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

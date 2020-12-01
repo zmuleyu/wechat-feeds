@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T16:47:49+08:00</updated>
+  <updated>2020-12-01T10:06:44+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>港大同济伯克利推出目标检测新范式：Sparse R-CNN</title>
+    <updated>2020-11-30T08:22:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/zhcfcRlVsnmm4VtsRASp4w</id>
+    <link href="https://mp.weixin.qq.com/s/zhcfcRlVsnmm4VtsRASp4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用Mask-RCNN在实例分割应用中克服过拟合</title>
+    <updated>2020-11-30T08:22:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/b_zYQBKro3U7j_iiD70wHA</id>
+    <link href="https://mp.weixin.qq.com/s/b_zYQBKro3U7j_iiD70wHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>1000 面试题，BAT 机器学习面试刷题宝典！</title>
     <updated>2020-11-29T10:05:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/jaMkISGBfW6QyvrooOnXoQ</id>
     <link href="https://mp.weixin.qq.com/s/jaMkISGBfW6QyvrooOnXoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一份火爆国外的PyCharm快捷键和Python代码速查表</title>
-    <updated>2020-11-29T10:05:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/WukB_xyjXxlBrbAFEsOhUA</id>
-    <link href="https://mp.weixin.qq.com/s/WukB_xyjXxlBrbAFEsOhUA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -138,13 +145,6 @@
     <updated>2020-11-23T10:17:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/JCYzP3Xhf0RU3svEl-aIDg</id>
     <link href="https://mp.weixin.qq.com/s/JCYzP3Xhf0RU3svEl-aIDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>19 种损失函数，你能认识几个？</title>
-    <updated>2020-11-22T10:06:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/IJxPrIzqFSaUnLhlUn911Q</id>
-    <link href="https://mp.weixin.qq.com/s/IJxPrIzqFSaUnLhlUn911Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

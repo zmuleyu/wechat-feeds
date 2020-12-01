@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T11:20:09+08:00</updated>
+  <updated>2020-12-01T09:51:14+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ACCV2020 | 定位和分类互相指导优化的目标检测</title>
+    <updated>2020-12-01T09:45:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/X7q5sEBSgbKqaRGmdb0j9A</id>
+    <link href="https://mp.weixin.qq.com/s/X7q5sEBSgbKqaRGmdb0j9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PAMI | 道路场景语义分割网络CCNet</title>
     <updated>2020-11-27T09:31:04+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-11-14T12:02:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/vfDVYHteF8zhSUxRE_HXog</id>
     <link href="https://mp.weixin.qq.com/s/vfDVYHteF8zhSUxRE_HXog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ECCV2020｜图像重建/底层视觉(超分辨率，图像恢复，去雨，去雾，去模糊，去噪等)相关论文汇总（附论文链接/开源代码/解析）</title>
-    <updated>2020-11-13T11:25:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/ODCSDbcVa0vHBkyuutiPlg</id>
-    <link href="https://mp.weixin.qq.com/s/ODCSDbcVa0vHBkyuutiPlg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

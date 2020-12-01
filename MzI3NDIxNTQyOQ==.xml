@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T20:30:55+08:00</updated>
+  <updated>2020-12-01T10:04:24+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Ti 星球 11 月电台 | PingCAP 完成 D 轮融资、MIT 50 家聪明公司、中国开源杰出贡献人物...</title>
+    <updated>2020-11-30T18:34:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/iOzNyGKD_wKd3HX6RQkkUg</id>
+    <link href="https://mp.weixin.qq.com/s/iOzNyGKD_wKd3HX6RQkkUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>感受开源的魅力，TiDB Committer 白珅的数据库探索之路</title>
     <updated>2020-11-26T18:00:46+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-16T16:57:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/-PM3jWgPgOOtwOYjsGLU7w</id>
     <link href="https://mp.weixin.qq.com/s/-PM3jWgPgOOtwOYjsGLU7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>360 x TiDB｜性能提升 10 倍，360 如何轻松抗住双十一流量</title>
-    <updated>2020-11-13T16:15:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/khdRw9IT8RszD2X77_XQIg</id>
-    <link href="https://mp.weixin.qq.com/s/khdRw9IT8RszD2X77_XQIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「名企直推，人才优聘」计划启动，寻找掌握 TiDB 技能的「你」</title>
-    <updated>2020-11-13T16:15:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/paDgXLz-5V0PkVPF5NtxTQ</id>
-    <link href="https://mp.weixin.qq.com/s/paDgXLz-5V0PkVPF5NtxTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T20:29:51+08:00</updated>
+  <updated>2020-12-01T10:02:37+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用Python轻松获取你电脑浏览器的已登录信息</title>
+    <updated>2020-11-30T22:51:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/WhjxR6j_dqAYrcjIDoGjXg</id>
+    <link href="https://mp.weixin.qq.com/s/WhjxR6j_dqAYrcjIDoGjXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FastDFS+Nginx内网单机版搭建教程</title>
     <updated>2020-11-25T18:13:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-12T15:08:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/8Z2r42RocY3cNnGOApVKzQ</id>
     <link href="https://mp.weixin.qq.com/s/8Z2r42RocY3cNnGOApVKzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关系型数据库必用的Python库</title>
-    <updated>2020-09-28T15:51:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/qhaOwbdIMcQWOosxz8JbUQ</id>
-    <link href="https://mp.weixin.qq.com/s/qhaOwbdIMcQWOosxz8JbUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

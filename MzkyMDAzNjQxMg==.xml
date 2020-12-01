@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新世界杂货铺 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-25T11:30:22+08:00</updated>
+  <updated>2020-12-01T10:00:10+08:00</updated>
   <subtitle>作为一名Gopher， 我愿称之为Go的干(杂)货铺子！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>区分Protobuf 3中缺失值和默认值</title>
+    <updated>2020-12-01T09:31:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/UHEioiO6nKwlw6tnzKzmDA</id>
+    <link href="https://mp.weixin.qq.com/s/UHEioiO6nKwlw6tnzKzmDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>线上数据被回滚两次我都做了哪些不正确的操作</title>
     <updated>2020-11-25T09:49:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-27T19:30:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/xDV3yM-vPqWOEiks6mxKEw</id>
     <link href="https://mp.weixin.qq.com/s/xDV3yM-vPqWOEiks6mxKEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>7年，爷青结，感谢春物的陪伴！</title>
-    <updated>2020-09-26T03:11:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-26:/s/nHN4zaLjNUCIq7XqMkrb3Q</id>
-    <link href="https://mp.weixin.qq.com/s/nHN4zaLjNUCIq7XqMkrb3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

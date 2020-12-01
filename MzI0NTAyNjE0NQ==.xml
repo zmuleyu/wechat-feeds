@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>justjavac | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-18T11:18:16+08:00</updated>
+  <updated>2020-12-01T09:48:26+08:00</updated>
   <subtitle>专注时下最新的Web技术，分享原创及翻译文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>好程序员≠高薪程序员，问题到底出在哪？</title>
+    <updated>2020-11-30T17:08:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/W-BvuA4ZPUROPxXExeXmmg</id>
+    <link href="https://mp.weixin.qq.com/s/W-BvuA4ZPUROPxXExeXmmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>照着文档写 BUG 的人，能拿多少薪水？</title>
     <updated>2020-11-17T19:42:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-08T08:10:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-08:/s/3xvay3vuULFe9kPwEs6UlA</id>
     <link href="https://mp.weixin.qq.com/s/3xvay3vuULFe9kPwEs6UlA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前阿里 P8：10 年面了 1000 人，找到这个大厂筛人分水岭</title>
-    <updated>2020-09-07T14:59:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-07:/s/NPxJS99KfyAdtRtXfbIHhQ</id>
-    <link href="https://mp.weixin.qq.com/s/NPxJS99KfyAdtRtXfbIHhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

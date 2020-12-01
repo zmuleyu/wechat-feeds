@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T23:17:44+08:00</updated>
+  <updated>2020-12-01T09:50:37+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ATSC3.0：下一代电视广播标准</title>
+    <updated>2020-11-30T22:31:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/PFqDK620My5gSEV8MVONLQ</id>
+    <link href="https://mp.weixin.qq.com/s/PFqDK620My5gSEV8MVONLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云端无压缩视频&amp;广播的未来</title>
     <updated>2020-11-29T22:58:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-21T23:07:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/lBh8IKijE7r39qALcLe-tQ</id>
     <link href="https://mp.weixin.qq.com/s/lBh8IKijE7r39qALcLe-tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实时生产中的网络设计</title>
-    <updated>2020-11-20T18:28:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/tbFSfa-tMr2iYkGuwQfpOQ</id>
-    <link href="https://mp.weixin.qq.com/s/tbFSfa-tMr2iYkGuwQfpOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

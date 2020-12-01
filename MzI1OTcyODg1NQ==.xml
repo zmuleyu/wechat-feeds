@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T23:24:53+08:00</updated>
+  <updated>2020-12-01T09:59:17+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么不建议把数据库部署在Docker容器内</title>
+    <updated>2020-11-30T22:05:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/D2yYb3cuXVuy2Fo1x3Quxg</id>
+    <link href="https://mp.weixin.qq.com/s/D2yYb3cuXVuy2Fo1x3Quxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Web架构基础及HAProxy简介</title>
+    <updated>2020-11-30T22:05:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/wGNeGPL6V_UwWnkCVxQIiw</id>
+    <link href="https://mp.weixin.qq.com/s/wGNeGPL6V_UwWnkCVxQIiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈Nginx性能调优</title>
     <updated>2020-11-29T22:19:25+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-21T21:40:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/ZRWU6K4nnBj8NvBmuZ7hLw</id>
     <link href="https://mp.weixin.qq.com/s/ZRWU6K4nnBj8NvBmuZ7hLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL批量SQL插入性能优化</title>
-    <updated>2020-11-20T21:07:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/X0VaUfO7nqtCjWpiD6KCvg</id>
-    <link href="https://mp.weixin.qq.com/s/X0VaUfO7nqtCjWpiD6KCvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LVS的NAT模式实现实战</title>
-    <updated>2020-11-20T21:07:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/afaDy01eQ6-nqkI8NcXaBA</id>
-    <link href="https://mp.weixin.qq.com/s/afaDy01eQ6-nqkI8NcXaBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

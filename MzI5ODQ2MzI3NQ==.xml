@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T23:13:47+08:00</updated>
+  <updated>2020-12-01T09:46:48+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>redis到底是多线程还是单线程？我要吊打面试官...</title>
+    <updated>2020-11-30T12:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/VI0uOa82mcRcfUDyrcYNuQ</id>
+    <link href="https://mp.weixin.qq.com/s/VI0uOa82mcRcfUDyrcYNuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WiFi漫游后出现感叹号</title>
+    <updated>2020-11-30T12:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/WqOIttn2qj1iOSyMcDGx6A</id>
+    <link href="https://mp.weixin.qq.com/s/WqOIttn2qj1iOSyMcDGx6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>闲鱼服务端架构演进历程</title>
     <updated>2020-11-29T20:50:24+08:00</updated>
@@ -71,24 +85,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>步入AI领域2年连升3级，我只是找对了学习方法而已……</title>
-    <updated>2020-11-24T16:45:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/jhyptvwjTuIqY7-RPRMElA</id>
-    <link href="https://mp.weixin.qq.com/s/jhyptvwjTuIqY7-RPRMElA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>CI/CD大幅减少甩锅!</title>
     <updated>2020-11-24T16:45:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/T4VnftGfzr_qwPcJSTGO3w</id>
     <link href="https://mp.weixin.qq.com/s/T4VnftGfzr_qwPcJSTGO3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯、蚂蚁、华为等大厂是如何玩转 DevOps 的？</title>
-    <updated>2020-11-23T17:57:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/DmE57pOLdAfn4OFeeC_mJQ</id>
-    <link href="https://mp.weixin.qq.com/s/DmE57pOLdAfn4OFeeC_mJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,13 +124,6 @@
     <updated>2020-11-21T21:15:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/1dv7pcHs8wBCn6UpebZStA</id>
     <link href="https://mp.weixin.qq.com/s/1dv7pcHs8wBCn6UpebZStA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动火山引擎加入 Linux 云原生计算基金会（CNCF）</title>
-    <updated>2020-11-20T21:10:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/B0AiCOKEiVYu3W_mE0AsVw</id>
-    <link href="https://mp.weixin.qq.com/s/B0AiCOKEiVYu3W_mE0AsVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

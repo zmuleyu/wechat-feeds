@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-30T01:21:47+08:00</updated>
+  <updated>2020-12-01T09:59:07+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>劲爆：首届中国Rust语言大会终于来了！</title>
+    <updated>2020-11-30T10:57:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/HbeyMYKQ6sKYdS73e3F80w</id>
+    <link href="https://mp.weixin.qq.com/s/HbeyMYKQ6sKYdS73e3F80w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-11-29 Rustup 1.23.0 支持 Apple M1设备</title>
     <updated>2020-11-29T23:54:42+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-21T23:06:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/-JQOxRvig1vTmBW0FOPGVA</id>
     <link href="https://mp.weixin.qq.com/s/-JQOxRvig1vTmBW0FOPGVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-20 Rust的Pin与Unpin</title>
-    <updated>2020-11-20T23:31:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/Re0XdzRmgVIfMuZoEzxoGA</id>
-    <link href="https://mp.weixin.qq.com/s/Re0XdzRmgVIfMuZoEzxoGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-29T20:15:15+08:00</updated>
+  <updated>2020-12-01T09:47:16+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>也来谈谈RNN的梯度消失/爆炸问题</title>
+    <updated>2020-11-30T12:59:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/rINKmVMs5idCGIrRRrOA2A</id>
+    <link href="https://mp.weixin.qq.com/s/rINKmVMs5idCGIrRRrOA2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《高阶机器学习人才培养计划》发布！</title>
+    <updated>2020-11-30T12:59:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/uPsIWBTIvMtuBEix2J1a9g</id>
+    <link href="https://mp.weixin.qq.com/s/uPsIWBTIvMtuBEix2J1a9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C++一学就废？试试这个项目包</title>
     <updated>2020-11-29T19:52:59+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-22T13:28:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/St4SS5CjT5vDnNxwaeZHNg</id>
     <link href="https://mp.weixin.qq.com/s/St4SS5CjT5vDnNxwaeZHNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Perturbed Masking：和参数无关的预训练模型分析方法</title>
-    <updated>2020-11-22T13:28:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/Qwz00tL2vxgX-A9n_B_soQ</id>
-    <link href="https://mp.weixin.qq.com/s/Qwz00tL2vxgX-A9n_B_soQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GPT v.s. 中国象棋：写过文章解过题，要不再来下盘棋？</title>
-    <updated>2020-11-21T18:06:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/enf4h5XN-d45EDcLslBlnw</id>
-    <link href="https://mp.weixin.qq.com/s/enf4h5XN-d45EDcLslBlnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
