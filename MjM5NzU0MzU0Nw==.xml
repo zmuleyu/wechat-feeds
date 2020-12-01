@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T11:15:50+08:00</updated>
+  <updated>2020-12-01T16:31:36+08:00</updated>
   <subtitle>最专业的Python社区，有每日推送，免费电子书，真人辅导，资源下载，各类工具。我已委托“维权骑士”（rightknights.com）为我的文章进行维权行动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>新鲜出炉阿里P6面经，Redis连环问，真就夺命连环Call。。</title>
-    <updated>2020-12-01T09:11:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/UDzrXQS-v5nElnE0bv9unA</id>
-    <link href="https://mp.weixin.qq.com/s/UDzrXQS-v5nElnE0bv9unA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>厉害了！华为将发布国产编程语言，打破国外垄断！</title>
     <updated>2020-12-01T09:11:00+08:00</updated>
@@ -145,6 +138,13 @@
     <updated>2020-11-28T16:39:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/00UZQcIds5LUBCeOcXUm1Q</id>
     <link href="https://mp.weixin.qq.com/s/00UZQcIds5LUBCeOcXUm1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数据预处理的 10 个小技能，附 Pandas 实现</title>
+    <updated>2020-11-28T16:39:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/spa1Fw2ZBBpNRE0MLObh0Q</id>
+    <link href="https://mp.weixin.qq.com/s/spa1Fw2ZBBpNRE0MLObh0Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
