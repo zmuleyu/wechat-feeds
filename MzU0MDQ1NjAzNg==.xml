@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T13:32:50+08:00</updated>
+  <updated>2020-12-01T20:27:15+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -134,17 +134,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>如果有一天 Pytorch / Tensorflow 不开源了，我们该怎么办？</title>
-    <updated>2020-11-24T09:01:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/79knkTu73AsbPtWZfMD58w</id>
-    <link href="https://mp.weixin.qq.com/s/79knkTu73AsbPtWZfMD58w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Python 代码转 Latex 公式，这个开源库用一行代码帮你搞定</title>
     <updated>2020-11-24T09:01:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/uH8BoaU16lf5iIHUJE2JTw</id>
     <link href="https://mp.weixin.qq.com/s/uH8BoaU16lf5iIHUJE2JTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 环境变量配置全攻略</title>
+    <updated>2020-11-24T09:01:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/oRrwXwpvXAA-ApSn8SC8sQ</id>
+    <link href="https://mp.weixin.qq.com/s/oRrwXwpvXAA-ApSn8SC8sQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

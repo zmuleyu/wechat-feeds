@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-26T11:28:06+08:00</updated>
+  <updated>2020-12-01T20:17:28+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>视频+图文：女朋友都能看懂的哈希表总结！</title>
+    <updated>2020-12-01T17:07:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/XngEdp7uwSacOF8E-pph9g</id>
+    <link href="https://mp.weixin.qq.com/s/XngEdp7uwSacOF8E-pph9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大白话唠唠 Oauth2 与授权认证的那些事儿！</title>
     <updated>2020-11-25T16:14:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-03T12:14:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-03:/s/nZUYp-txfNjjePITSOEGmQ</id>
     <link href="https://mp.weixin.qq.com/s/nZUYp-txfNjjePITSOEGmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>敲重点：InnoDB 的插入缓冲，这些你必须知道！</title>
-    <updated>2020-11-02T17:16:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/4RkH5-PHnTKvBEZu6E9vnA</id>
-    <link href="https://mp.weixin.qq.com/s/4RkH5-PHnTKvBEZu6E9vnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

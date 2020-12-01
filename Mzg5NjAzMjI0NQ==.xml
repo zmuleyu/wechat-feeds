@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T10:00:59+08:00</updated>
+  <updated>2020-12-01T20:21:45+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ButterKnife被弃用，ViewBinding才是findView的未来？</title>
+    <updated>2020-12-01T15:53:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/z_KE25VfjJUJD31koftSuw</id>
+    <link href="https://mp.weixin.qq.com/s/z_KE25VfjJUJD31koftSuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>榜单公布 | 新锐作者排行榜 (11.23~11.29)</title>
+    <updated>2020-12-01T15:53:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/H9ewYTnI9GBE48j9Jk3Glw</id>
+    <link href="https://mp.weixin.qq.com/s/H9ewYTnI9GBE48j9Jk3Glw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>掘金年度征文 | 技术人的2020</title>
+    <updated>2020-12-01T15:53:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/uGQz7wgghaBCxBzxvZOkEw</id>
+    <link href="https://mp.weixin.qq.com/s/uGQz7wgghaBCxBzxvZOkEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高并发下重启服务，接口调用老是超时，你有什么解决办法？</title>
     <updated>2020-11-30T17:36:36+08:00</updated>
@@ -110,13 +131,6 @@
     <updated>2020-11-19T15:06:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/-ZQD0lZFh1_8YSVXN59nyA</id>
     <link href="https://mp.weixin.qq.com/s/-ZQD0lZFh1_8YSVXN59nyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>chrome 开发者工具——前端实用功能总结</title>
-    <updated>2020-11-18T14:58:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/sr4akxAXeV0le2-ir_j5QQ</id>
-    <link href="https://mp.weixin.qq.com/s/sr4akxAXeV0le2-ir_j5QQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
