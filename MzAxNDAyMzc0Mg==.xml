@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T09:44:45+08:00</updated>
+  <updated>2020-12-02T01:15:11+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>电源的可靠性设计</title>
+    <updated>2020-12-01T23:22:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/xhKd7qXj0xhMBe_M3zrIKw</id>
+    <link href="https://mp.weixin.qq.com/s/xhKd7qXj0xhMBe_M3zrIKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么DDR电源设计时需要VTT电源</title>
     <updated>2020-11-30T22:42:49+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-21T22:40:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/EvEYWWRzW_lHfVaEKZ2iKQ</id>
     <link href="https://mp.weixin.qq.com/s/EvEYWWRzW_lHfVaEKZ2iKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>炸机后才去注意PWM的死区时间</title>
-    <updated>2020-11-20T21:48:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/5gFAtAAAxYciAXaVhwHJnw</id>
-    <link href="https://mp.weixin.qq.com/s/5gFAtAAAxYciAXaVhwHJnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
