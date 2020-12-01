@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T10:06:43+08:00</updated>
+  <updated>2020-12-01T13:32:33+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么程序员怕改需求？</title>
+    <updated>2020-12-01T00:58:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/L7Agj97v77fbpwLAeBkGSg</id>
+    <link href="https://mp.weixin.qq.com/s/L7Agj97v77fbpwLAeBkGSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这一顿神操作！我把 3000 行代码重构成 15 行！</title>
+    <updated>2020-12-01T00:58:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/XGTdbdVSRrZuyfsNJqMIdw</id>
+    <link href="https://mp.weixin.qq.com/s/XGTdbdVSRrZuyfsNJqMIdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>鸿蒙和安卓，到底有什么区别？</title>
+    <updated>2020-12-01T00:58:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/aRn3pI10Elhoz7rCAZmoHw</id>
+    <link href="https://mp.weixin.qq.com/s/aRn3pI10Elhoz7rCAZmoHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官不讲码德，问我：线程池中多余的线程是如何回收的？</title>
+    <updated>2020-12-01T00:58:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/DC01AoUpYEXlaLQiptQdSw</id>
+    <link href="https://mp.weixin.qq.com/s/DC01AoUpYEXlaLQiptQdSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>华人小哥控诉机器学习「四大Boring」，CS博士：深有同感，正打算退学</title>
+    <updated>2020-12-01T00:58:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/MT1iKyoS3KD1N45fpst-hw</id>
+    <link href="https://mp.weixin.qq.com/s/MT1iKyoS3KD1N45fpst-hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>马保国一年能挣多少钱？</title>
     <updated>2020-11-29T16:22:48+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-25T01:18:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/yxX5ypvekZIhBeXAu44S2A</id>
     <link href="https://mp.weixin.qq.com/s/yxX5ypvekZIhBeXAu44S2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么说 Flutter 可能不是下一件大事？</title>
-    <updated>2020-11-25T01:18:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/yY_2z-YVWjwxcL_sm_kmMg</id>
-    <link href="https://mp.weixin.qq.com/s/yY_2z-YVWjwxcL_sm_kmMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 最烂密码 TOP 200 曝光！</title>
-    <updated>2020-11-25T01:18:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/6Bn82Ee7JSH8si9jMoDMaA</id>
-    <link href="https://mp.weixin.qq.com/s/6Bn82Ee7JSH8si9jMoDMaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北理工校友发明文言文“填词大师”，断句、造词都能做，高考文言文满分靠它了</title>
-    <updated>2020-11-25T01:18:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/ndFUiTZdSs3b4th0czfY5g</id>
-    <link href="https://mp.weixin.qq.com/s/ndFUiTZdSs3b4th0czfY5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google 出品 Java 编码规范，强烈推荐！</title>
-    <updated>2020-11-24T12:11:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/6sTPmNgT5z0p2QJwIPxdaw</id>
-    <link href="https://mp.weixin.qq.com/s/6sTPmNgT5z0p2QJwIPxdaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信可以改彩色昵称了</title>
-    <updated>2020-11-24T12:11:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/2bneBpz9_vrQEMWWcGXRDA</id>
-    <link href="https://mp.weixin.qq.com/s/2bneBpz9_vrQEMWWcGXRDA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

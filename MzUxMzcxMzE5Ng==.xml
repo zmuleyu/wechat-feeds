@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T09:53:03+08:00</updated>
+  <updated>2020-12-01T13:20:51+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无人维护？官方打脸：Element UI for Vue 3.0 来了！</title>
+    <updated>2020-12-01T12:13:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/t2_KhztvgqoFVKWT5xiMHw</id>
+    <link href="https://mp.weixin.qq.com/s/t2_KhztvgqoFVKWT5xiMHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用简单代码在Android Jetpack Compose中开发绘图应用</title>
+    <updated>2020-12-01T12:13:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/HHO5N6QpdD8eH66SaoRFuQ</id>
+    <link href="https://mp.weixin.qq.com/s/HHO5N6QpdD8eH66SaoRFuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>20个常用的JavaScript简写技巧</title>
     <updated>2020-11-30T11:15:50+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-19T15:03:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/tlqNTJ5-m5VTHtLovYp_4A</id>
     <link href="https://mp.weixin.qq.com/s/tlqNTJ5-m5VTHtLovYp_4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎样从Express API发送一致的错误响应</title>
-    <updated>2020-11-19T15:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/GNRzTUShqk_4L8noSe-ksw</id>
-    <link href="https://mp.weixin.qq.com/s/GNRzTUShqk_4L8noSe-ksw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Angular 11 正式发布：加入 webpack 5，升级至 TS 4.0，不再支持 IE 9 和 10</title>
-    <updated>2020-11-18T16:14:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/vYX1bLpm5USg7MpJsBjVZQ</id>
-    <link href="https://mp.weixin.qq.com/s/vYX1bLpm5USg7MpJsBjVZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AppHubs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-30T11:20:32+08:00</updated>
+  <updated>2020-12-01T13:17:46+08:00</updated>
   <subtitle>追随乔帮主</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开发者的 M1 初体验</title>
+    <updated>2020-12-01T12:56:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/FA-B6_5KG19VGuGRJOJzWQ</id>
+    <link href="https://mp.weixin.qq.com/s/FA-B6_5KG19VGuGRJOJzWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何知道应用是否可以在 M1 Mac 上本地运行</title>
     <updated>2020-11-29T21:22:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-15T15:51:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/dDpKMmQmuRkok26oE3DvGQ</id>
     <link href="https://mp.weixin.qq.com/s/dDpKMmQmuRkok26oE3DvGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xcode 12.2 盘点</title>
-    <updated>2020-11-14T00:22:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/lfoTf6llxjLfTeQJFpPJVQ</id>
-    <link href="https://mp.weixin.qq.com/s/lfoTf6llxjLfTeQJFpPJVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

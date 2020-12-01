@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T09:46:48+08:00</updated>
+  <updated>2020-12-01T13:15:45+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020最火的Java地图可视化项目，3天教你学会！</title>
+    <updated>2020-12-01T11:42:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/Kwpr-RBolveaOsArvEiPSQ</id>
+    <link href="https://mp.weixin.qq.com/s/Kwpr-RBolveaOsArvEiPSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>保护API安全的4种基本工具</title>
+    <updated>2020-12-01T11:42:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/ojO5uIsl8cG_hBvA_ycOFA</id>
+    <link href="https://mp.weixin.qq.com/s/ojO5uIsl8cG_hBvA_ycOFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>redis到底是多线程还是单线程？我要吊打面试官...</title>
     <updated>2020-11-30T12:09:11+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-11-22T19:00:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/EEo-L9J8qjvhjktORFt0fw</id>
     <link href="https://mp.weixin.qq.com/s/EEo-L9J8qjvhjktORFt0fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从本地迁移到云的四个主要挑战</title>
-    <updated>2020-11-21T21:15:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/1dv7pcHs8wBCn6UpebZStA</id>
-    <link href="https://mp.weixin.qq.com/s/1dv7pcHs8wBCn6UpebZStA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
