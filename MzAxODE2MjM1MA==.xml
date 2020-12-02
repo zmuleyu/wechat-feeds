@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T20:28:58+08:00</updated>
+  <updated>2020-12-02T13:27:52+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“别更新了学不动了”  开发者千万别有这样的心态</title>
+    <updated>2020-12-02T11:55:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/CtVMiUjRkUZZLNDOY9e_kQ</id>
+    <link href="https://mp.weixin.qq.com/s/CtVMiUjRkUZZLNDOY9e_kQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Webpack 的异步加载原理及分包策略</title>
+    <updated>2020-12-02T11:55:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/ZGcPPXp_Xczsbb5iZuj7Nw</id>
+    <link href="https://mp.weixin.qq.com/s/ZGcPPXp_Xczsbb5iZuj7Nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用了 5 年 React，我不喜欢 Vue.js 的地方有这些</title>
     <updated>2020-12-01T17:52:45+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-11-22T21:16:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/5aEdkaETCSsdfxVAzbpj7Q</id>
     <link href="https://mp.weixin.qq.com/s/5aEdkaETCSsdfxVAzbpj7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VUE 新语法糖魔改 JavaScript 引争议</title>
-    <updated>2020-11-22T18:54:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/oyIcV7YRW8mg4LbPijp4yA</id>
-    <link href="https://mp.weixin.qq.com/s/oyIcV7YRW8mg4LbPijp4yA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对标 Postman！2.5 万 Star 的挑战者：Hoppscotch</title>
-    <updated>2020-11-22T18:54:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/c7_x1zEL8a58W0sxFfAsqw</id>
-    <link href="https://mp.weixin.qq.com/s/c7_x1zEL8a58W0sxFfAsqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

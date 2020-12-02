@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>五分钟学算法 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T11:35:45+08:00</updated>
+  <updated>2020-12-02T13:25:16+08:00</updated>
   <subtitle>以动画的形式呈现算法的思路，致力于把算法讲清楚！GitHub 5.8 w Star，全球排名 51。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>比Vertica快5倍，比Hive快279倍，比MySQL快801倍！猜猜它是谁？</title>
+    <updated>2020-12-02T09:19:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/btYAa_8R4gdgfEXW03wEgg</id>
+    <link href="https://mp.weixin.qq.com/s/btYAa_8R4gdgfEXW03wEgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节面试：谈谈索引为什么能提高查询性能？</title>
+    <updated>2020-12-02T09:19:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/VVy7gJdoKV8NU6neQ9l52w</id>
+    <link href="https://mp.weixin.qq.com/s/VVy7gJdoKV8NU6neQ9l52w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>置之死地而后生，面向失败的架构设计</title>
     <updated>2020-12-01T10:24:43+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-25T09:54:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/BPu6AK6oNdmtD_NNnMsGYA</id>
     <link href="https://mp.weixin.qq.com/s/BPu6AK6oNdmtD_NNnMsGYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学生物的女朋友都能看懂的哈希表总结！</title>
-    <updated>2020-11-25T09:54:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/P0NUr86J3OCZFsn-aJAbtg</id>
-    <link href="https://mp.weixin.qq.com/s/P0NUr86J3OCZFsn-aJAbtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在中国，程序员这行能干一辈子吗？</title>
-    <updated>2020-11-24T10:33:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/0V8YUbpSZ0wqxeaa0a2Txg</id>
-    <link href="https://mp.weixin.qq.com/s/0V8YUbpSZ0wqxeaa0a2Txg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

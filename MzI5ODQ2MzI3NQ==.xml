@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T13:15:45+08:00</updated>
+  <updated>2020-12-02T13:11:06+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>死磕微服务：分布式事务已成气候！</title>
+    <updated>2020-12-02T10:44:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/hP9-8yX5HmHljRF0u7Pz4w</id>
+    <link href="https://mp.weixin.qq.com/s/hP9-8yX5HmHljRF0u7Pz4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>北京12月份： Kubernetes CKA实战培训</title>
+    <updated>2020-12-02T10:44:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/HTEwbY5gbn9SfKpqhFJ_qg</id>
+    <link href="https://mp.weixin.qq.com/s/HTEwbY5gbn9SfKpqhFJ_qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SUSE 完成收购 Rancher，助力企业激活无限创新</title>
+    <updated>2020-12-02T10:44:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/Cto6PaUGj4LO5x67sHhquA</id>
+    <link href="https://mp.weixin.qq.com/s/Cto6PaUGj4LO5x67sHhquA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解kubernetes中的api多版本中反序列化与转换</title>
+    <updated>2020-12-02T10:44:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/w_ElZ5bmq8llKkuDfNXIFg</id>
+    <link href="https://mp.weixin.qq.com/s/w_ElZ5bmq8llKkuDfNXIFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020最火的Java地图可视化项目，3天教你学会！</title>
     <updated>2020-12-01T11:42:22+08:00</updated>
@@ -117,20 +145,6 @@
     <updated>2020-11-23T17:57:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/Ch5g3nk7_Se2OaAPguFpIQ</id>
     <link href="https://mp.weixin.qq.com/s/Ch5g3nk7_Se2OaAPguFpIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes项目被GitHub封存到北极</title>
-    <updated>2020-11-22T19:00:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/0S3P_tPF-qrK-BlBm4OlYA</id>
-    <link href="https://mp.weixin.qq.com/s/0S3P_tPF-qrK-BlBm4OlYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>上海Kubernetes CKA培训改成线上直播形式</title>
-    <updated>2020-11-22T19:00:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/EEo-L9J8qjvhjktORFt0fw</id>
-    <link href="https://mp.weixin.qq.com/s/EEo-L9J8qjvhjktORFt0fw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
