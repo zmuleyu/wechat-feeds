@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T10:05:48+08:00</updated>
+  <updated>2020-12-02T20:37:29+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用 Babel 为代码自动引入依赖</title>
+    <updated>2020-12-02T17:38:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/8sElRWNiBD2rc9jWCYS05g</id>
+    <link href="https://mp.weixin.qq.com/s/8sElRWNiBD2rc9jWCYS05g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-12-02T17:38:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/M-3xl5MXdYkA97YJUlS1gA</id>
+    <link href="https://mp.weixin.qq.com/s/M-3xl5MXdYkA97YJUlS1gA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-12-02T17:38:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/34ynycyOjFH_Gs-AJkgH_A</id>
+    <link href="https://mp.weixin.qq.com/s/34ynycyOjFH_Gs-AJkgH_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>调试React状态？console.log就是个弟弟</title>
     <updated>2020-11-30T18:20:09+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-20T20:00:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/zIjyzqXbE6Y0X4IU2ZlRRg</id>
     <link href="https://mp.weixin.qq.com/s/zIjyzqXbE6Y0X4IU2ZlRRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团-即视 招高级前端开发工程师</title>
-    <updated>2020-11-20T20:00:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/zaVbSixgUiH3qX6388hSSA</id>
-    <link href="https://mp.weixin.qq.com/s/zaVbSixgUiH3qX6388hSSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-11-20T20:00:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/7BnSIhKE76G1nEp2MIvs7A</id>
-    <link href="https://mp.weixin.qq.com/s/7BnSIhKE76G1nEp2MIvs7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 373 期：关于 Vue 3.0 Ref-sugar 提案的看法</title>
-    <updated>2020-11-20T17:15:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/R21FSooTRW0MNs1X68Csbw</id>
-    <link href="https://mp.weixin.qq.com/s/R21FSooTRW0MNs1X68Csbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

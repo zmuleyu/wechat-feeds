@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T23:12:53+08:00</updated>
+  <updated>2020-12-02T20:23:50+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>亚洲地区的下一代CDN服务演进</title>
+    <updated>2020-12-02T19:29:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/G4WARzTuHgKLlSYTXgBpoA</id>
+    <link href="https://mp.weixin.qq.com/s/G4WARzTuHgKLlSYTXgBpoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用带有字节范围寻址的LL-HLS来实现低延迟流中的互操作性</title>
     <updated>2020-12-01T21:36:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-23T21:54:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/rIZ-x6YJT8-5BhzKJyu5Hw</id>
     <link href="https://mp.weixin.qq.com/s/rIZ-x6YJT8-5BhzKJyu5Hw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拍摄黑洞的第一张照片：算法与延伸</title>
-    <updated>2020-11-22T18:57:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/9xy8iqPIHdtMmvOSgNZvqg</id>
-    <link href="https://mp.weixin.qq.com/s/9xy8iqPIHdtMmvOSgNZvqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
