@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T20:24:40+08:00</updated>
+  <updated>2020-12-02T11:23:46+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里架构师的5种高并发方案：Dubbo + Redis是永远的王！</title>
+    <updated>2020-12-02T00:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/UdyUGKSpIbNGsz0AQDf0FQ</id>
+    <link href="https://mp.weixin.qq.com/s/UdyUGKSpIbNGsz0AQDf0FQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>真赞！IDEA中这么玩MyBatis，让编码速度飞起！</title>
+    <updated>2020-12-02T00:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/xkUYvdea71Ah_gjErecd5A</id>
+    <link href="https://mp.weixin.qq.com/s/xkUYvdea71Ah_gjErecd5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图文介绍进程和线程的区别</title>
+    <updated>2020-12-02T00:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/jhW8ZxMeJ076JvNst6wriQ</id>
+    <link href="https://mp.weixin.qq.com/s/jhW8ZxMeJ076JvNst6wriQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>无需升级系统，微软Win 10更新方式大调整！</title>
+    <updated>2020-12-02T00:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/68pENa5CS93Zm6v8xNbM9w</id>
+    <link href="https://mp.weixin.qq.com/s/68pENa5CS93Zm6v8xNbM9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>请收藏，Linux 运维必备的 40 个命令总结，收好了~</title>
+    <updated>2020-12-02T00:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/oAa8vv86mpxA4AXTp_1XsQ</id>
+    <link href="https://mp.weixin.qq.com/s/oAa8vv86mpxA4AXTp_1XsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官问我：String长度有限制吗？是多少？我竟然回答不上来...</title>
     <updated>2020-11-30T23:19:34+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-27T23:50:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/wc0r-LH4PyErNQaccqy6Bg</id>
     <link href="https://mp.weixin.qq.com/s/wc0r-LH4PyErNQaccqy6Bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实战：上亿数据如何秒查</title>
-    <updated>2020-11-27T23:50:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/-T0r1o0kG0uqWglpk2Ht4A</id>
-    <link href="https://mp.weixin.qq.com/s/-T0r1o0kG0uqWglpk2Ht4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于Redis缓存，这3个问题一定要知道！</title>
-    <updated>2020-11-27T23:50:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/zciK_fYQ4tMlVIQThoEGoA</id>
-    <link href="https://mp.weixin.qq.com/s/zciK_fYQ4tMlVIQThoEGoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软开始彻底封杀IE浏览器</title>
-    <updated>2020-11-27T23:50:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/uQnNSdb2YynmlpbPkeJLzQ</id>
-    <link href="https://mp.weixin.qq.com/s/uQnNSdb2YynmlpbPkeJLzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字好文！几乎包含了市面上所有启动优化方案</title>
-    <updated>2020-11-27T23:50:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/XvLE9YniGIlyVzVvVNjE5g</id>
-    <link href="https://mp.weixin.qq.com/s/XvLE9YniGIlyVzVvVNjE5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信第 1 行代码曝光！</title>
-    <updated>2020-11-26T22:32:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/asvWaHVG6O8wdyARj8zFyA</id>
-    <link href="https://mp.weixin.qq.com/s/asvWaHVG6O8wdyARj8zFyA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
