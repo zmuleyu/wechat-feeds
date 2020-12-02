@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T20:26:00+08:00</updated>
+  <updated>2020-12-02T23:41:38+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐几个出论文的好方向！</title>
+    <updated>2020-12-02T19:04:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/WEzjnQEg-urQUwZnG7dgMQ</id>
+    <link href="https://mp.weixin.qq.com/s/WEzjnQEg-urQUwZnG7dgMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BERT-flow｜CMUx字节推出简单易用的文本表示新SOTA！</title>
+    <updated>2020-12-02T19:04:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/AP2Vlt6IjZUB6GxC5I4g4g</id>
+    <link href="https://mp.weixin.qq.com/s/AP2Vlt6IjZUB6GxC5I4g4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>模型推理加速系列|如何用ONNX加速BERT特征抽取(附代码)</title>
+    <updated>2020-12-02T19:04:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/ICIMIZsy_MKC-JMggG_E-Q</id>
+    <link href="https://mp.weixin.qq.com/s/ICIMIZsy_MKC-JMggG_E-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于分离式表征的图神经网络调研</title>
+    <updated>2020-12-02T19:04:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/lJkHhX0oT2S6zWgdt4_SMA</id>
+    <link href="https://mp.weixin.qq.com/s/lJkHhX0oT2S6zWgdt4_SMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PinSAGE召回模型及源码分析(3)：PinSAGE模型及训练</title>
+    <updated>2020-12-02T19:04:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/2c2hu31du2D1byQ4f_-ibw</id>
+    <link href="https://mp.weixin.qq.com/s/2c2hu31du2D1byQ4f_-ibw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>精通C++之前，你必须知道的几件事！</title>
     <updated>2020-12-01T19:08:32+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-29T21:52:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/zm1_RC5F7Ie4YLpm09-AFw</id>
     <link href="https://mp.weixin.qq.com/s/zm1_RC5F7Ie4YLpm09-AFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式人工智能：基于TensorFlow RTOS与群体智能体系（文末赠书）</title>
-    <updated>2020-11-28T22:59:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/DlGKihxVyvPGDvkBZS_jaA</id>
-    <link href="https://mp.weixin.qq.com/s/DlGKihxVyvPGDvkBZS_jaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这几个模型不讲“模德”，我劝它们耗子尾汁</title>
-    <updated>2020-11-28T22:59:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/1PC2GpDLfbxvO9fDgFVKcA</id>
-    <link href="https://mp.weixin.qq.com/s/1PC2GpDLfbxvO9fDgFVKcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Transformer中的相对位置编码</title>
-    <updated>2020-11-28T22:59:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/6uMTA4TjrD3wh8LI2TobXQ</id>
-    <link href="https://mp.weixin.qq.com/s/6uMTA4TjrD3wh8LI2TobXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>EMNLP2020 tutorial  | 高性能自然语言处理</title>
-    <updated>2020-11-28T22:59:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/kh2ZXm07_ADnL8aLuTqXUQ</id>
-    <link href="https://mp.weixin.qq.com/s/kh2ZXm07_ADnL8aLuTqXUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不得不看|全套视频课带你啃透深度学习必学“圣经”花书！附带论文代码精读讲解！</title>
-    <updated>2020-11-27T22:24:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/Z6fhpnnYas6JCayX5g4Upw</id>
-    <link href="https://mp.weixin.qq.com/s/Z6fhpnnYas6JCayX5g4Upw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

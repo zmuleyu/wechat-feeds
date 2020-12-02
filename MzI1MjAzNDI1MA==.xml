@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T23:18:01+08:00</updated>
+  <updated>2020-12-02T23:31:18+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-02 GATs已经可以在 nightly 中使用</title>
+    <updated>2020-12-02T23:14:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/7Ph4rLOVyPyzmoLzLZex_g</id>
+    <link href="https://mp.weixin.qq.com/s/7Ph4rLOVyPyzmoLzLZex_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】 2020-12-01 关于 Bevy 的学习资料</title>
+    <updated>2020-12-02T23:14:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/u4VPDAjCkQmRGUicZK76BA</id>
+    <link href="https://mp.weixin.qq.com/s/u4VPDAjCkQmRGUicZK76BA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust可太香了！AWS为此拿下其编译器团队负责人</title>
     <updated>2020-12-01T20:50:07+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-11-23T22:03:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/k7o3qOjAJgpWT5HAPB5p2w</id>
     <link href="https://mp.weixin.qq.com/s/k7o3qOjAJgpWT5HAPB5p2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-22 Vec即将支持自定义的内存分配器</title>
-    <updated>2020-11-22T23:00:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/0eNf3ssWUJ6_9fxPJ8YyzQ</id>
-    <link href="https://mp.weixin.qq.com/s/0eNf3ssWUJ6_9fxPJ8YyzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
