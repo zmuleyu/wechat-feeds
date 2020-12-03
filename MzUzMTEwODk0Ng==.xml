@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T23:20:08+08:00</updated>
+  <updated>2020-12-03T23:15:51+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Seurat Weekly NO.4 ||  高效数据管理</title>
+    <updated>2020-12-03T21:40:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/B4_qMNK3HH77cOTuED4LOw</id>
+    <link href="https://mp.weixin.qq.com/s/B4_qMNK3HH77cOTuED4LOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>文献阅读：Nature大作之大麦泛基因组</title>
     <updated>2020-12-02T22:28:11+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-11-23T22:54:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/IJ63TjHvwmvnSrgP_U_q8A</id>
     <link href="https://mp.weixin.qq.com/s/IJ63TjHvwmvnSrgP_U_q8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Docker Registry 部署私有 docker 仓库</title>
-    <updated>2020-11-22T21:52:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/lqgJEKZCvMzwpWgps58PJQ</id>
-    <link href="https://mp.weixin.qq.com/s/lqgJEKZCvMzwpWgps58PJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>进阶 | 使用 Docker Harbor 部署私有仓库</title>
-    <updated>2020-11-22T21:52:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/P5uHUP0JYsllmucBVRYTpw</id>
-    <link href="https://mp.weixin.qq.com/s/P5uHUP0JYsllmucBVRYTpw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:34:26+08:00</updated>
+  <updated>2020-12-03T23:26:41+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>​当程序员想看片的时候，他们会这么做</title>
+    <updated>2020-12-03T17:06:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/ObqV9hX8phPGy2tH7psc6g</id>
+    <link href="https://mp.weixin.qq.com/s/ObqV9hX8phPGy2tH7psc6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国外开发者众筹为 Mac 新机移植 Linux 系统</title>
+    <updated>2020-12-03T17:06:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/JyojnQWCy4tSAfmUOQGv-w</id>
+    <link href="https://mp.weixin.qq.com/s/JyojnQWCy4tSAfmUOQGv-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IntelliJ IDEA 2020.3 稳定版发布</title>
+    <updated>2020-12-03T17:06:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/ohvbj92OBm3BOsVe3vV_QQ</id>
+    <link href="https://mp.weixin.qq.com/s/ohvbj92OBm3BOsVe3vV_QQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>纯干货|Flutter Dojo的设计之道</title>
+    <updated>2020-12-03T17:06:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/S3IkgHi7XB9vNprLd2_ltA</id>
+    <link href="https://mp.weixin.qq.com/s/S3IkgHi7XB9vNprLd2_ltA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>取代谷歌reCAPTCHA，hCaptcha成最大独立验证码服务</title>
+    <updated>2020-12-03T17:06:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/nopP6jEbl6MQWs1TcUKWjg</id>
+    <link href="https://mp.weixin.qq.com/s/nopP6jEbl6MQWs1TcUKWjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>特斯拉重大安全漏洞：一台树莓派即可开走 Model X</title>
     <updated>2020-12-02T15:46:38+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-29T14:09:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/Vd_id-qIlxizGjf1WvMAMw</id>
     <link href="https://mp.weixin.qq.com/s/Vd_id-qIlxizGjf1WvMAMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA 错误修复版 发布</title>
-    <updated>2020-11-29T14:09:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/Rspxd5nfUNpI566n7vJM6w</id>
-    <link href="https://mp.weixin.qq.com/s/Rspxd5nfUNpI566n7vJM6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在Apple Silicon设备上提供对Linux的支持，几率几乎为零？</title>
-    <updated>2020-11-28T15:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/RnulRveHlaDE-y22V_OlBg</id>
-    <link href="https://mp.weixin.qq.com/s/RnulRveHlaDE-y22V_OlBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>夯实产业智能化基座，OpenI/O 2020启智开发者大会纵论深度学习</title>
-    <updated>2020-11-28T15:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/bxAMzmLjA9f2yvT75RdqXg</id>
-    <link href="https://mp.weixin.qq.com/s/bxAMzmLjA9f2yvT75RdqXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>xmake v2.3.9发布, 新增独立Xrepo C/C++包管理器</title>
-    <updated>2020-11-28T15:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/r9iHMkt_TMxxEgIrHa3KSg</id>
-    <link href="https://mp.weixin.qq.com/s/r9iHMkt_TMxxEgIrHa3KSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个“举债”1.8亿投身开源的人</title>
-    <updated>2020-11-27T17:09:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/FLBds_2tB76C5g0KgSTmmA</id>
-    <link href="https://mp.weixin.qq.com/s/FLBds_2tB76C5g0KgSTmmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

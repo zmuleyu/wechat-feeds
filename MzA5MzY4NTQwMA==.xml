@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序人生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T16:18:17+08:00</updated>
+  <updated>2020-12-03T23:13:59+08:00</updated>
   <subtitle>笑谈开发轶事，品味程序人生。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>马云的摆渡人</title>
+    <updated>2020-12-03T16:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/25qV__Y8hZ4-i6G8mZI_sQ</id>
+    <link href="https://mp.weixin.qq.com/s/25qV__Y8hZ4-i6G8mZI_sQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+精选视频（免费领）</title>
+    <updated>2020-12-03T16:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/TS5b4XRbjUYdAw1lKLMDzg</id>
+    <link href="https://mp.weixin.qq.com/s/TS5b4XRbjUYdAw1lKLMDzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>程序员编程如何入门、进阶？</title>
+    <updated>2020-12-03T16:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/UFAWxIxt3-PhFCfYUx4quA</id>
+    <link href="https://mp.weixin.qq.com/s/UFAWxIxt3-PhFCfYUx4quA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>索引为什么能提高查询性能</title>
+    <updated>2020-12-03T16:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/CrE4xK3auW8Ggx6dH8vrww</id>
+    <link href="https://mp.weixin.qq.com/s/CrE4xK3auW8Ggx6dH8vrww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奔溃啦~希望 Python 可以让我少掉点头发 | 每日趣闻</title>
+    <updated>2020-12-03T16:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/z6YNiUe1a523xvksCIDmIQ</id>
+    <link href="https://mp.weixin.qq.com/s/z6YNiUe1a523xvksCIDmIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>她们，在字节跳动写代码</title>
     <updated>2020-12-02T14:33:16+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-30T15:32:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/f16BhZhJF2nUdZmcyEaKsA</id>
     <link href="https://mp.weixin.qq.com/s/f16BhZhJF2nUdZmcyEaKsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我给 Apache 顶级项目提了个 Bug</title>
-    <updated>2020-11-27T16:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/4Q6pSDCZMuAHu1p1lcyR1A</id>
-    <link href="https://mp.weixin.qq.com/s/4Q6pSDCZMuAHu1p1lcyR1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>京东11.11大促背后，那些系统架构经历了些什么</title>
-    <updated>2020-11-27T16:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/hB8oJtV9NByJJ9IP_yhpRQ</id>
-    <link href="https://mp.weixin.qq.com/s/hB8oJtV9NByJJ9IP_yhpRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为了提升续航，马斯克又引发一场“造芯”革命，华为比亚迪已进场</title>
-    <updated>2020-11-27T16:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/5-fF2qYACUuwkqdKEsvD4A</id>
-    <link href="https://mp.weixin.qq.com/s/5-fF2qYACUuwkqdKEsvD4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何正确拒绝老板的加班要求？学起来！</title>
-    <updated>2020-11-27T16:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/0NTBrvhW3bBn8pu1Yp5Szg</id>
-    <link href="https://mp.weixin.qq.com/s/0NTBrvhW3bBn8pu1Yp5Szg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源代码却无奈遗弃，濒临奔溃的开源开发者们！</title>
-    <updated>2020-11-27T16:44:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/Hglu7z_ZnlR_PClw0tsYSA</id>
-    <link href="https://mp.weixin.qq.com/s/Hglu7z_ZnlR_PClw0tsYSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

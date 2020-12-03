@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T01:20:07+08:00</updated>
+  <updated>2020-12-03T23:13:23+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这款开源的 Python 老照片修复工具火了</title>
+    <updated>2020-12-03T13:03:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/Zdmw0M4cdXY5vQee5ziiUg</id>
+    <link href="https://mp.weixin.qq.com/s/Zdmw0M4cdXY5vQee5ziiUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>52 条 SQL 语句性能优化策略，建议收藏！</title>
+    <updated>2020-12-03T13:03:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/9A81xirHeYZzYGDOyCJlNw</id>
+    <link href="https://mp.weixin.qq.com/s/9A81xirHeYZzYGDOyCJlNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为何 Linus 一个人就能写出这么强的系统，中国却做不出来？</title>
     <updated>2020-12-02T23:35:02+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-24T21:56:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/5WOX94iyWgz1jGKR1Z_12Q</id>
     <link href="https://mp.weixin.qq.com/s/5WOX94iyWgz1jGKR1Z_12Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯、蚂蚁、华为等大厂是如何玩转 DevOps 的？</title>
-    <updated>2020-11-23T19:28:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/7WlRPLvbnY_MonKYNxXZDQ</id>
-    <link href="https://mp.weixin.qq.com/s/7WlRPLvbnY_MonKYNxXZDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图解 Python 中深浅拷贝（copy）</title>
-    <updated>2020-11-23T19:28:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/VVKq40A4H6u4gFC1yoMB_w</id>
-    <link href="https://mp.weixin.qq.com/s/VVKq40A4H6u4gFC1yoMB_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

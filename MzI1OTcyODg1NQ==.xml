@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T23:33:20+08:00</updated>
+  <updated>2020-12-03T23:23:02+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 将弃用 Docker</title>
+    <updated>2020-12-03T22:13:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/lKxgMHVQzUWTJL2zPvW4VQ</id>
+    <link href="https://mp.weixin.qq.com/s/lKxgMHVQzUWTJL2zPvW4VQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>HAProxy 调度算法</title>
+    <updated>2020-12-03T22:13:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/ukH7kHLsqrHmaCcSem4n-g</id>
+    <link href="https://mp.weixin.qq.com/s/ukH7kHLsqrHmaCcSem4n-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 的这些原理，你一定要了解</title>
     <updated>2020-12-02T22:11:31+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-24T22:00:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/Sx1jTJFo58qnLEi3g4h4rg</id>
     <link href="https://mp.weixin.qq.com/s/Sx1jTJFo58qnLEi3g4h4rg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 系统下对目录扩容的方法</title>
-    <updated>2020-11-23T21:52:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/d_R2tnw0F92OucoNql7R6w</id>
-    <link href="https://mp.weixin.qq.com/s/d_R2tnw0F92OucoNql7R6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运维自动化和ansible架构介绍</title>
-    <updated>2020-11-23T21:52:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/M8sf-uoa02kVheyH3kbSjg</id>
-    <link href="https://mp.weixin.qq.com/s/M8sf-uoa02kVheyH3kbSjg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

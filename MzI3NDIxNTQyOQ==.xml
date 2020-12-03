@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:37:15+08:00</updated>
+  <updated>2020-12-03T23:28:32+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一次集齐年度云原生技术干货，PingCAP 带你走进 2020 Cloud Native Day</title>
+    <updated>2020-12-03T17:47:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/X43XBPOSYQ6FMY76onb-8A</id>
+    <link href="https://mp.weixin.qq.com/s/X43XBPOSYQ6FMY76onb-8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看不懂监控怎么办？TiDB 新推出了耗时关系图</title>
     <updated>2020-12-02T17:31:47+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-19T18:10:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/fA9OlAHRj_u45dxh72P1UA</id>
     <link href="https://mp.weixin.qq.com/s/fA9OlAHRj_u45dxh72P1UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB 的现在和未来</title>
-    <updated>2020-11-18T19:45:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/I6fSN8vqegyspgLO9DHVNA</id>
-    <link href="https://mp.weixin.qq.com/s/I6fSN8vqegyspgLO9DHVNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gopher China 2020 即将开启，我们在现场等你！</title>
-    <updated>2020-11-18T19:45:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/95UEzf1AK7Vn8Oy3WCRlmA</id>
-    <link href="https://mp.weixin.qq.com/s/95UEzf1AK7Vn8Oy3WCRlmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:33:12+08:00</updated>
+  <updated>2020-12-03T23:24:17+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面对日益严峻的网络安全问题，CDN可以做什么？</title>
+    <updated>2020-12-03T18:05:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/tjGs313HapVXAMY_MfKitQ</id>
+    <link href="https://mp.weixin.qq.com/s/tjGs313HapVXAMY_MfKitQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我在阿里巴巴做 Serverless 云研发平台</title>
     <updated>2020-12-02T17:29:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-24T15:42:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/_mWiqvKeq-Uvu6QxE0f-qQ</id>
     <link href="https://mp.weixin.qq.com/s/_mWiqvKeq-Uvu6QxE0f-qQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎</title>
-    <updated>2020-11-23T17:43:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/S25touwsGK2H6476RMtIBA</id>
-    <link href="https://mp.weixin.qq.com/s/S25touwsGK2H6476RMtIBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

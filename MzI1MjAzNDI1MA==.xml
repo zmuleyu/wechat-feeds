@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T23:31:18+08:00</updated>
+  <updated>2020-12-03T23:21:30+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-3 SHADERed可以在线编辑rust-gpu！</title>
+    <updated>2020-12-03T22:01:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/7KlenuivItJahP4NAgFW7Q</id>
+    <link href="https://mp.weixin.qq.com/s/7KlenuivItJahP4NAgFW7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust大会消息】前线打探</title>
+    <updated>2020-12-03T22:01:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/tUSs81X_1G7fzyUz-Y9cDw</id>
+    <link href="https://mp.weixin.qq.com/s/tUSs81X_1G7fzyUz-Y9cDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-02 GATs已经可以在 nightly 中使用</title>
     <updated>2020-12-02T23:14:21+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-11-24T23:33:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/iOWPmVEJL4UIdVtW62sABw</id>
     <link href="https://mp.weixin.qq.com/s/iOWPmVEJL4UIdVtW62sABw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Rust唠嗑室》第14期 - Rust 嵌入式 live 秀</title>
-    <updated>2020-11-23T22:03:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/Ak6JIRoPHJ3TYEXWQm33uQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ak6JIRoPHJ3TYEXWQm33uQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-23 使用 Enums 来减少内存使用</title>
-    <updated>2020-11-23T22:03:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/k7o3qOjAJgpWT5HAPB5p2w</id>
-    <link href="https://mp.weixin.qq.com/s/k7o3qOjAJgpWT5HAPB5p2w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

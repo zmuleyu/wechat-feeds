@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T23:17:46+08:00</updated>
+  <updated>2020-12-03T23:13:45+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>电源完整性——理解与设计</title>
+    <updated>2020-12-03T22:28:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/sqz2C8sRPbcbKHosjBjkJQ</id>
+    <link href="https://mp.weixin.qq.com/s/sqz2C8sRPbcbKHosjBjkJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从Buck-Boost到Flyback</title>
     <updated>2020-12-02T20:12:00+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-23T21:35:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/pKUXHNMdIQ_O_hk-x7YWOQ</id>
     <link href="https://mp.weixin.qq.com/s/pKUXHNMdIQ_O_hk-x7YWOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开关电源的输出电流检测</title>
-    <updated>2020-11-22T23:35:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/RCJ6puwJRVicylHwgKGvjw</id>
-    <link href="https://mp.weixin.qq.com/s/RCJ6puwJRVicylHwgKGvjw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

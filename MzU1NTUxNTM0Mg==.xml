@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:26:33+08:00</updated>
+  <updated>2020-12-03T23:18:55+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图像分割 2020 总结：结构，损失函数，数据集和框架</title>
+    <updated>2020-12-03T20:07:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/Kx-KEyWpUkMS4pJCCykMiw</id>
+    <link href="https://mp.weixin.qq.com/s/Kx-KEyWpUkMS4pJCCykMiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>预训练图像处理Transformer：华为诺亚、北大等提出IPT模型，刷榜多项底层视觉任务</title>
+    <updated>2020-12-03T20:07:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/IL2G2wXMtWuqDW3gxzVmOA</id>
+    <link href="https://mp.weixin.qq.com/s/IL2G2wXMtWuqDW3gxzVmOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks</title>
+    <updated>2020-12-03T20:07:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/uC5tC0wvahpW5H31QhgFdA</id>
+    <link href="https://mp.weixin.qq.com/s/uC5tC0wvahpW5H31QhgFdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>告别渣画质，视频会议带宽降90%，英伟达公开Maxine服务背后重要技术</title>
     <updated>2020-12-02T20:23:39+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-27T18:54:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/1NfQJuZmPVMteSpxQOUHMA</id>
     <link href="https://mp.weixin.qq.com/s/1NfQJuZmPVMteSpxQOUHMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从SGD到NadaMax，十种优化算法原理及实现</title>
-    <updated>2020-11-27T18:54:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/do_tiqHe6cGNDUV7M5s9fw</id>
-    <link href="https://mp.weixin.qq.com/s/do_tiqHe6cGNDUV7M5s9fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LSTM模型结构的可视化</title>
-    <updated>2020-11-26T21:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/dKAMaQzO8vkaQrv-tjFsIw</id>
-    <link href="https://mp.weixin.qq.com/s/dKAMaQzO8vkaQrv-tjFsIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习中的图像分割：方法和应用</title>
-    <updated>2020-11-26T21:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/XamDUZs15YddBtY_h63ybA</id>
-    <link href="https://mp.weixin.qq.com/s/XamDUZs15YddBtY_h63ybA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

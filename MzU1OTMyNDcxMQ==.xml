@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:21:38+08:00</updated>
+  <updated>2020-12-03T23:15:11+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow 2.4 Mac 优化版：在 Mac 上实现加速的 CPU 和 GPU 训练</title>
+    <updated>2020-12-03T17:47:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/fX5GpVKM6dOJECwhDTe06Q</id>
+    <link href="https://mp.weixin.qq.com/s/fX5GpVKM6dOJECwhDTe06Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 TensorFlow Lite 快速构建移动端声音分类应用</title>
     <updated>2020-12-02T18:11:26+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-11-19T19:13:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/bXd5w5gyk8ue1294HqQ-sQ</id>
     <link href="https://mp.weixin.qq.com/s/bXd5w5gyk8ue1294HqQ-sQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学习不止，成长加分 | “TensorFlow 开发者出道计划”火热上线！</title>
-    <updated>2020-11-18T19:54:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/l3IfWeS35EaORmYNsrZvgg</id>
-    <link href="https://mp.weixin.qq.com/s/l3IfWeS35EaORmYNsrZvgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TensorFlow 2.4.0 候选版本发布</title>
-    <updated>2020-11-18T19:54:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Mf4N_F5xRUuB0VklK7wjLg</id>
-    <link href="https://mp.weixin.qq.com/s/Mf4N_F5xRUuB0VklK7wjLg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

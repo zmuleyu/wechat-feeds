@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T23:22:26+08:00</updated>
+  <updated>2020-12-03T23:16:42+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>首次摆脱对梯度的依赖，CMU等开源Score-CAM：基于置信分数的视觉可解释性</title>
+    <updated>2020-12-03T21:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/naS_X8PdKQqveD5hbhMUoQ</id>
+    <link href="https://mp.weixin.qq.com/s/naS_X8PdKQqveD5hbhMUoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>吃透空洞卷积（Dilated Convolutions）</title>
+    <updated>2020-12-03T21:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/3bMvVYiXc7LulNoXw5duqA</id>
+    <link href="https://mp.weixin.qq.com/s/3bMvVYiXc7LulNoXw5duqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>根据标签分布来选择损失函数</title>
+    <updated>2020-12-03T21:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/-gohRuV1-W1GThOhKzVaSQ</id>
+    <link href="https://mp.weixin.qq.com/s/-gohRuV1-W1GThOhKzVaSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>那些年，何恺明在顶会上的分享（附PPT下载）</title>
+    <updated>2020-12-03T21:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/FVUIpEun6d5K05s5yKB7Dg</id>
+    <link href="https://mp.weixin.qq.com/s/FVUIpEun6d5K05s5yKB7Dg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Transformer再下一城！low-level多个任务榜首被占领，北大华为等联合提出预训练模型IPT</title>
     <updated>2020-12-02T22:05:25+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-29T21:52:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/BkwSnre5pRub-TnTwyxbYA</id>
     <link href="https://mp.weixin.qq.com/s/BkwSnre5pRub-TnTwyxbYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3W字长文带你轻松入门视觉Transformer</title>
-    <updated>2020-11-28T21:42:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/X4Q_mKqYmD9bvstZ7SZ5eg</id>
-    <link href="https://mp.weixin.qq.com/s/X4Q_mKqYmD9bvstZ7SZ5eg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DARTS：年轻人的第一个NAS模型</title>
-    <updated>2020-11-28T21:42:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/g1bD9N8nEhxAcM7Iswa8Yg</id>
-    <link href="https://mp.weixin.qq.com/s/g1bD9N8nEhxAcM7Iswa8Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图像分割2020总结：结构，损失函数，数据集和框架</title>
-    <updated>2020-11-28T21:42:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/-knfFzxIYWAvn4bh5l6ZhA</id>
-    <link href="https://mp.weixin.qq.com/s/-knfFzxIYWAvn4bh5l6ZhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高校寒假时间公布！看完心态稳住</title>
-    <updated>2020-11-28T21:42:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/AArcNYa9HjU-XExQOZOP3A</id>
-    <link href="https://mp.weixin.qq.com/s/AArcNYa9HjU-XExQOZOP3A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
