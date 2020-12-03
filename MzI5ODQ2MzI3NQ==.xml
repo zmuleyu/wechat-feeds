@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T13:11:06+08:00</updated>
+  <updated>2020-12-03T13:17:15+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>学Java，项目重不重要？</title>
+    <updated>2020-12-03T11:34:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/s9R7gT2kuoD6tyjdAXqHYA</id>
+    <link href="https://mp.weixin.qq.com/s/s9R7gT2kuoD6tyjdAXqHYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一种基于 gitlab 的适用于版本发布的 git-flow 协作规范</title>
+    <updated>2020-12-03T11:34:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/ExRQjxv3R6-6ezKplDOidA</id>
+    <link href="https://mp.weixin.qq.com/s/ExRQjxv3R6-6ezKplDOidA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>死磕微服务：分布式事务已成气候！</title>
     <updated>2020-12-02T10:44:32+08:00</updated>
@@ -33,13 +47,6 @@
     <updated>2020-12-02T10:44:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/w_ElZ5bmq8llKkuDfNXIFg</id>
     <link href="https://mp.weixin.qq.com/s/w_ElZ5bmq8llKkuDfNXIFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020最火的Java地图可视化项目，3天教你学会！</title>
-    <updated>2020-12-01T11:42:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/Kwpr-RBolveaOsArvEiPSQ</id>
-    <link href="https://mp.weixin.qq.com/s/Kwpr-RBolveaOsArvEiPSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -85,24 +92,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>关于 DevOps 的这些误解，你是不是都中招了？</title>
-    <updated>2020-11-26T22:15:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/h9uPCVeYBl4DhrhNTjrTWg</id>
-    <link href="https://mp.weixin.qq.com/s/h9uPCVeYBl4DhrhNTjrTWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>K8s分布式储存etcd毕业，成为CNCF顶级项目</title>
     <updated>2020-11-26T22:15:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/NFdElbxhte-tN2yiZgdDJw</id>
     <link href="https://mp.weixin.qq.com/s/NFdElbxhte-tN2yiZgdDJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看了几十篇教程，却依旧学不会Java，今天给你推荐个训练营，100个免费！</title>
-    <updated>2020-11-25T22:24:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/EbgwzqWBpOS1X9IhNdZADw</id>
-    <link href="https://mp.weixin.qq.com/s/EbgwzqWBpOS1X9IhNdZADw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +124,6 @@
     <updated>2020-11-24T16:45:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/T4VnftGfzr_qwPcJSTGO3w</id>
     <link href="https://mp.weixin.qq.com/s/T4VnftGfzr_qwPcJSTGO3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>又一个K8s UI开源项目Headlamp</title>
-    <updated>2020-11-23T17:57:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/7nrbc8qXVNdnb0Z_eUAMHw</id>
-    <link href="https://mp.weixin.qq.com/s/7nrbc8qXVNdnb0Z_eUAMHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北京： Kubernetes CKA实战培训</title>
-    <updated>2020-11-23T17:57:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/Ch5g3nk7_Se2OaAPguFpIQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ch5g3nk7_Se2OaAPguFpIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
