@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:31:35+08:00</updated>
+  <updated>2020-12-04T20:31:05+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>中台的本质及中台建设的 4 点思考</title>
+    <updated>2020-12-04T20:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/L9qPZGWoG3Hkj2Lzuy-uVw</id>
+    <link href="https://mp.weixin.qq.com/s/L9qPZGWoG3Hkj2Lzuy-uVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 滴滴开源的，专注于移动端操作行为的工具</title>
+    <updated>2020-12-04T20:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/ANs8ARF86rtFFC4RwVp7mg</id>
+    <link href="https://mp.weixin.qq.com/s/ANs8ARF86rtFFC4RwVp7mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“如果中台不省钱，我还建什么中台啊！”</title>
     <updated>2020-12-03T20:00:23+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-18T19:45:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/9IhgtHJolisvYpWrMtL8zQ</id>
     <link href="https://mp.weixin.qq.com/s/9IhgtHJolisvYpWrMtL8zQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>客观、全面地比较 Rust 与 Go</title>
-    <updated>2020-11-17T22:00:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/5eCVy2cOomKGI8YyOfB3dw</id>
-    <link href="https://mp.weixin.qq.com/s/5eCVy2cOomKGI8YyOfB3dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>资料 | 30 天循序渐进地教你学会 Python</title>
-    <updated>2020-11-17T22:00:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/vdwZ0QgwNl9_IjKA2X9z1A</id>
-    <link href="https://mp.weixin.qq.com/s/vdwZ0QgwNl9_IjKA2X9z1A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:24:17+08:00</updated>
+  <updated>2020-12-04T20:25:34+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生体系下的技海浮沉与理论探索</title>
+    <updated>2020-12-04T16:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/YbPdxivotFoTETSzM_qF0Q</id>
+    <link href="https://mp.weixin.qq.com/s/YbPdxivotFoTETSzM_qF0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面对日益严峻的网络安全问题，CDN可以做什么？</title>
     <updated>2020-12-03T18:05:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T17:21:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/Ep0pw4_BLR-FmMZE5-u7ug</id>
     <link href="https://mp.weixin.qq.com/s/Ep0pw4_BLR-FmMZE5-u7ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes Operator 开发教程</title>
-    <updated>2020-11-24T15:42:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/_mWiqvKeq-Uvu6QxE0f-qQ</id>
-    <link href="https://mp.weixin.qq.com/s/_mWiqvKeq-Uvu6QxE0f-qQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:28:49+08:00</updated>
+  <updated>2020-12-04T20:21:59+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微信AI从识物到通用图像搜索的探索揭秘</title>
+    <updated>2020-12-04T12:02:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/z3A4cE-nyNrAieNPkXdD5A</id>
+    <link href="https://mp.weixin.qq.com/s/z3A4cE-nyNrAieNPkXdD5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go netpoller 网络模型之源码全面解析</title>
     <updated>2020-12-02T15:27:21+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-11-13T17:48:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/Y9rp4WYfx-xUlFX0strwgw</id>
     <link href="https://mp.weixin.qq.com/s/Y9rp4WYfx-xUlFX0strwgw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「递归」第10集 | 一款“摔”出来的产品</title>
-    <updated>2020-11-11T18:07:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/95rJuNaU2SR2y9hr7hsx3w</id>
-    <link href="https://mp.weixin.qq.com/s/95rJuNaU2SR2y9hr7hsx3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

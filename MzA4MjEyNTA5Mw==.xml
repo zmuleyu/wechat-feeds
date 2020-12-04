@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:13:23+08:00</updated>
+  <updated>2020-12-04T20:10:49+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员带娃有多“恐怖” ？！</title>
+    <updated>2020-12-04T17:36:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/La2riSiTX4JZJnBbp47yjA</id>
+    <link href="https://mp.weixin.qq.com/s/La2riSiTX4JZJnBbp47yjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>编程思想之多线程与多进程</title>
+    <updated>2020-12-04T17:36:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/ZzXzXBCGL5qrgJwhUuflGA</id>
+    <link href="https://mp.weixin.qq.com/s/ZzXzXBCGL5qrgJwhUuflGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这款开源的 Python 老照片修复工具火了</title>
     <updated>2020-12-03T13:03:47+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-25T21:43:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/k3Nbgds2oQEP7KF6gmFT-Q</id>
     <link href="https://mp.weixin.qq.com/s/k3Nbgds2oQEP7KF6gmFT-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么程序员怕改需求？看完这些神解释我笑了</title>
-    <updated>2020-11-24T21:56:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/w5NFMLgkYnNgalJ1Xp3bhQ</id>
-    <link href="https://mp.weixin.qq.com/s/w5NFMLgkYnNgalJ1Xp3bhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爬虫：使用 MySQL 维护 IP 代理池</title>
-    <updated>2020-11-24T21:56:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/5WOX94iyWgz1jGKR1Z_12Q</id>
-    <link href="https://mp.weixin.qq.com/s/5WOX94iyWgz1jGKR1Z_12Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

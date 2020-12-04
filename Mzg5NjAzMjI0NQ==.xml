@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:24:42+08:00</updated>
+  <updated>2020-12-04T20:26:30+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我点击页面元素，VSCode 乖乖打开了组件？原理揭秘。</title>
+    <updated>2020-12-04T17:53:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/NrqgHu4s5u0AoMGWppT5xw</id>
+    <link href="https://mp.weixin.qq.com/s/NrqgHu4s5u0AoMGWppT5xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Raft实战——集群成员变更与日志压缩</title>
+    <updated>2020-12-04T17:53:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/-x4-eRkNSuChGCc8RUMvaA</id>
+    <link href="https://mp.weixin.qq.com/s/-x4-eRkNSuChGCc8RUMvaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从平面设计到web前端工程师？呼吸不止，代码不停！ | 掘金年度征文</title>
     <updated>2020-12-03T18:04:23+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-23T17:05:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/AcEIkXoKSgtJsH_arkMjBQ</id>
     <link href="https://mp.weixin.qq.com/s/AcEIkXoKSgtJsH_arkMjBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【万字警告】了不起的 Vue3-下</title>
-    <updated>2020-11-23T17:05:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/L4mSyLOCsFUu2gfrxW7WvA</id>
-    <link href="https://mp.weixin.qq.com/s/L4mSyLOCsFUu2gfrxW7WvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>亿级流量系列 - JVM 调优原理深度剖析、服务线上优化实践</title>
-    <updated>2020-11-22T17:17:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/UHfDr1FvjMqOcv-dBbnOPA</id>
-    <link href="https://mp.weixin.qq.com/s/UHfDr1FvjMqOcv-dBbnOPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
