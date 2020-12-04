@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T11:23:51+08:00</updated>
+  <updated>2020-12-04T23:20:55+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何搭建一个大数据平台：从新项目到成熟阶段</title>
+    <updated>2020-12-04T22:19:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/GNYg4U1VWVYXAo5efcn5Lg</id>
+    <link href="https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构之永恒话题：服务治理与分布式事务</title>
     <updated>2020-12-02T09:40:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-19T12:30:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/uSEkyQ6AGffxIgEFJzwHvQ</id>
     <link href="https://mp.weixin.qq.com/s/uSEkyQ6AGffxIgEFJzwHvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>哲学本质之道、技术工具之术，谁是架构设计之魂？</title>
-    <updated>2020-11-18T09:32:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/Y4Q7l7tVtOf5-NCGyNs-Kw</id>
-    <link href="https://mp.weixin.qq.com/s/Y4Q7l7tVtOf5-NCGyNs-Kw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

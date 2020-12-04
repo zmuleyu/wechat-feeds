@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:23:50+08:00</updated>
+  <updated>2020-12-04T23:11:14+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>[MHV2020] Session 1</title>
+    <updated>2020-12-04T21:34:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/nCrQRD4CIb5zLXACxXzPNQ</id>
+    <link href="https://mp.weixin.qq.com/s/nCrQRD4CIb5zLXACxXzPNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>亚洲地区的下一代CDN服务演进</title>
     <updated>2020-12-02T19:29:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-24T15:22:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/2Bvk35dp2T3G7-u_EET9ug</id>
     <link href="https://mp.weixin.qq.com/s/2Bvk35dp2T3G7-u_EET9ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LCEVC编解码器介绍&amp;per-title编码基本原理</title>
-    <updated>2020-11-23T21:54:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/rIZ-x6YJT8-5BhzKJyu5Hw</id>
-    <link href="https://mp.weixin.qq.com/s/rIZ-x6YJT8-5BhzKJyu5Hw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

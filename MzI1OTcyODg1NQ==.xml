@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:23:02+08:00</updated>
+  <updated>2020-12-04T23:17:53+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CI/CD 工具选型：Jenkins 还是 GitLab CI/CD？</title>
+    <updated>2020-12-04T21:32:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/oIUI-l_Wiwq5ZP8Q0-UOzw</id>
+    <link href="https://mp.weixin.qq.com/s/oIUI-l_Wiwq5ZP8Q0-UOzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里云概述及建站</title>
+    <updated>2020-12-04T21:32:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/zeugsp6rKB2KkiEYwzc3ng</id>
+    <link href="https://mp.weixin.qq.com/s/zeugsp6rKB2KkiEYwzc3ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 将弃用 Docker</title>
     <updated>2020-12-03T22:13:00+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-25T21:44:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/jcwXauUC1Rj9zYEu76rATQ</id>
     <link href="https://mp.weixin.qq.com/s/jcwXauUC1Rj9zYEu76rATQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用Go语言做极简风格网址导航</title>
-    <updated>2020-11-24T22:00:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/S0wom5RknpXFus0w_VTGXQ</id>
-    <link href="https://mp.weixin.qq.com/s/S0wom5RknpXFus0w_VTGXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ansible安装和基本使用</title>
-    <updated>2020-11-24T22:00:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Sx1jTJFo58qnLEi3g4h4rg</id>
-    <link href="https://mp.weixin.qq.com/s/Sx1jTJFo58qnLEi3g4h4rg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

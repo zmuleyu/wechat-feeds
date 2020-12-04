@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:13:45+08:00</updated>
+  <updated>2020-12-04T23:08:43+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开关电源输出电感的DCR温度补偿</title>
+    <updated>2020-12-04T22:16:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/uOOHNDeD5g1vGN6TmF0lvA</id>
+    <link href="https://mp.weixin.qq.com/s/uOOHNDeD5g1vGN6TmF0lvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>电源完整性——理解与设计</title>
     <updated>2020-12-03T22:28:30+08:00</updated>
@@ -68,34 +75,6 @@
     <updated>2020-11-24T12:10:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/AZwxnB6i1PogZzNGlXMiIA</id>
     <link href="https://mp.weixin.qq.com/s/AZwxnB6i1PogZzNGlXMiIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开关电源测试项目</title>
-    <updated>2020-11-23T21:35:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/boSnF7TgFQuAdqWUxUOpaA</id>
-    <link href="https://mp.weixin.qq.com/s/boSnF7TgFQuAdqWUxUOpaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电源纹波测试</title>
-    <updated>2020-11-23T21:35:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/2IgShcI6zuUYWq664Sj5GQ</id>
-    <link href="https://mp.weixin.qq.com/s/2IgShcI6zuUYWq664Sj5GQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电源效率测试</title>
-    <updated>2020-11-23T21:35:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/9MH_kxnPNQreiKU-7HsYAw</id>
-    <link href="https://mp.weixin.qq.com/s/9MH_kxnPNQreiKU-7HsYAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电源相关的测试</title>
-    <updated>2020-11-23T21:35:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/pKUXHNMdIQ_O_hk-x7YWOQ</id>
-    <link href="https://mp.weixin.qq.com/s/pKUXHNMdIQ_O_hk-x7YWOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
