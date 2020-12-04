@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T11:12:25+08:00</updated>
+  <updated>2020-12-04T11:21:18+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Android App Bundle 最新动态及 2021 年目标 API 级别要求</title>
+    <updated>2020-12-04T09:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/u7OKOqk4dvbER_a53Xthcg</id>
+    <link href="https://mp.weixin.qq.com/s/u7OKOqk4dvbER_a53Xthcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kotlin Android Extensions 的未来计划</title>
+    <updated>2020-12-04T09:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/pa1YOFA1snTMYhrjnWqIgg</id>
+    <link href="https://mp.weixin.qq.com/s/pa1YOFA1snTMYhrjnWqIgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dart 健全的空安全: Beta 版</title>
     <updated>2020-12-02T18:04:09+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-11-24T17:18:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/Mt1QatM5NbpaK1F36UiRRQ</id>
     <link href="https://mp.weixin.qq.com/s/Mt1QatM5NbpaK1F36UiRRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>获取后台位置访问权限，您还需要注意哪些？</title>
-    <updated>2020-11-24T09:18:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/HARTMLCKTmIGGS5bFYCSZQ</id>
-    <link href="https://mp.weixin.qq.com/s/HARTMLCKTmIGGS5bFYCSZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

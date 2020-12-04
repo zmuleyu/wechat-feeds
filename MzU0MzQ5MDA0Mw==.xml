@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T11:14:33+08:00</updated>
+  <updated>2020-12-04T11:23:36+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节总监的开发手记，知乎5000+点赞！</title>
+    <updated>2020-12-03T22:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/C68is2J-y6wPnjA1__gXfA</id>
+    <link href="https://mp.weixin.qq.com/s/C68is2J-y6wPnjA1__gXfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官问：BitMap了解么？在什么场景下用过？碰到过什么问题？</title>
+    <updated>2020-12-03T22:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/9JwW1_e-2gMKERFaSZRPpg</id>
+    <link href="https://mp.weixin.qq.com/s/9JwW1_e-2gMKERFaSZRPpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>好文推荐 | 缓存与数据库一致性问题深度剖析 （修订）</title>
     <updated>2020-12-02T23:16:10+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-11-25T18:04:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/W0m5kh_3uCgCMMk83kZ-8A</id>
     <link href="https://mp.weixin.qq.com/s/W0m5kh_3uCgCMMk83kZ-8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一次看完28个关于ES的性能调优技巧</title>
-    <updated>2020-11-22T18:54:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/G-GerbCIaB85XSOINB74yg</id>
-    <link href="https://mp.weixin.qq.com/s/G-GerbCIaB85XSOINB74yg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

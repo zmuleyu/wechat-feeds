@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>矽说 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-16T11:28:31+08:00</updated>
+  <updated>2020-12-04T11:32:01+08:00</updated>
   <subtitle>半导体行业深度解读</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ISSCC 2021 前瞻</title>
+    <updated>2020-12-03T23:29:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/xeQ8CQakFZdVbYBzmVdVKA</id>
+    <link href="https://mp.weixin.qq.com/s/xeQ8CQakFZdVbYBzmVdVKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>苹果ARM M1处理器：个人电脑新时代的标志</title>
     <updated>2020-11-16T09:41:12+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-03-01T11:42:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-03-01:/s/usbI7kE6AhgDXHSSMsPhKA</id>
     <link href="https://mp.weixin.qq.com/s/usbI7kE6AhgDXHSSMsPhKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ISSCC 2020年论文解析：高速串口</title>
-    <updated>2020-02-29T13:48:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-02-29:/s/Dist7d0nl4ZnC_nQIPV3Sw</id>
-    <link href="https://mp.weixin.qq.com/s/Dist7d0nl4ZnC_nQIPV3Sw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

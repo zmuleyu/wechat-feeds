@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>labuladong | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T11:16:34+08:00</updated>
+  <updated>2020-12-04T11:24:58+08:00</updated>
   <subtitle>东哥手把手带你刷 LeetCode，感受支配算法的乐趣！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -57,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为什么 Linux 默认页大小是 4KB</title>
-    <updated>2020-11-17T23:13:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/EQsdFirbnsi8iiyTYQjWTw</id>
-    <link href="https://mp.weixin.qq.com/s/EQsdFirbnsi8iiyTYQjWTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>快排亲兄弟：快速选择算法详解</title>
     <updated>2020-11-14T01:42:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/TRO3FOKT90Mpvn3hQWVBAQ</id>
@@ -71,17 +64,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>没想到，写个SQL语句还有这么多讲究？</title>
-    <updated>2020-11-12T23:13:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/MGLrQgpf2Bpi1Zh54ZxP7A</id>
-    <link href="https://mp.weixin.qq.com/s/MGLrQgpf2Bpi1Zh54ZxP7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>labuladong 读者福利：成为 70k star 项目贡献者</title>
     <updated>2020-11-11T10:57:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/V3TT4J2SogR6YjqThzaoig</id>
     <link href="https://mp.weixin.qq.com/s/V3TT4J2SogR6YjqThzaoig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来一波读者福利预告，我们的算法仓库 fucking-algorithm 已经获得了将近 70k 的 star，世界排名第 37（GitHub 搜索 stars:&gt;69300），之前发过一篇 给你一个成为 45k star 项目贡献者的机会，但后来我发现很多 pr 提交的代码比较乱，所以重新整理了仓库内容，准备再给我们公众号读者搞一波福利，成为仓库贡献者，以后好装逼。&#xA;&#xA;坑位有限，为了防止混乱，我会在公众号发 pr 的具体规则（具体时间我稍后置顶在留言区里），先到先得，限时秒杀哦！建议标星公众号，以便及时收到推送消息~ 话都说到这份儿上了，不要怪我没事先提醒奥~😏</title>
+    <updated>2020-11-10T08:53:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/0sHmzAPv0Nmb1CDrciFJmA</id>
+    <link href="https://mp.weixin.qq.com/s/0sHmzAPv0Nmb1CDrciFJmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画：什么是一致性哈希？</title>
+    <updated>2020-11-09T10:02:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/i18-XDh8A9jHbnjJ-KTuOQ</id>
+    <link href="https://mp.weixin.qq.com/s/i18-XDh8A9jHbnjJ-KTuOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
