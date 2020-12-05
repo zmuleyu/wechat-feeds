@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T11:21:18+08:00</updated>
+  <updated>2020-12-05T11:13:08+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大众点评用 Kotlin 打造灵活稳定兼备的应用 | Android 开发者故事</title>
+    <updated>2020-12-04T18:28:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/Cdg_9jOt2mL6vIW1qCuEEg</id>
+    <link href="https://mp.weixin.qq.com/s/Cdg_9jOt2mL6vIW1qCuEEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开始切换到 Kotlin: 谷歌工程师给初学者的知识点总结</title>
+    <updated>2020-12-04T18:28:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-04:/s/vjA57y-o5zailCZaKCz9CA</id>
+    <link href="https://mp.weixin.qq.com/s/vjA57y-o5zailCZaKCz9CA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Android App Bundle 最新动态及 2021 年目标 API 级别要求</title>
     <updated>2020-12-04T09:30:34+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-25T16:52:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/rElFiA_PZTjUH9B_XK_2rA</id>
     <link href="https://mp.weixin.qq.com/s/rElFiA_PZTjUH9B_XK_2rA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flutter 因你更优秀 | 第四季度开发者调研</title>
-    <updated>2020-11-24T17:18:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/PoEZu0rOXb_PoSAVX4au-A</id>
-    <link href="https://mp.weixin.qq.com/s/PoEZu0rOXb_PoSAVX4au-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用户为先，开发者如何提升用户体验 | Google Play 开发者播客节目</title>
-    <updated>2020-11-24T17:18:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Mt1QatM5NbpaK1F36UiRRQ</id>
-    <link href="https://mp.weixin.qq.com/s/Mt1QatM5NbpaK1F36UiRRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

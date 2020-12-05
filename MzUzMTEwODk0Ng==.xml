@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T23:10:46+08:00</updated>
+  <updated>2020-12-05T11:10:08+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在学生信这件事上我们还是坚持长期主义</title>
+    <updated>2020-12-05T08:55:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/o--BGGTeORebRCWIhdi5Zw</id>
+    <link href="https://mp.weixin.qq.com/s/o--BGGTeORebRCWIhdi5Zw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>生信爆款入门-第11期（线上直播4周，马拉松式陪伴，带你入门）</title>
+    <updated>2020-12-05T08:55:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/oorUqXvCwFhBX90ol2Fl5Q</id>
+    <link href="https://mp.weixin.qq.com/s/oorUqXvCwFhBX90ol2Fl5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数据挖掘（GEO,TCGA,单细胞）第9期（线上直播3周，马拉松式陪伴，带你入门）</title>
+    <updated>2020-12-05T08:55:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/GwHQ96XGxmkeXb3b8ctbzQ</id>
+    <link href="https://mp.weixin.qq.com/s/GwHQ96XGxmkeXb3b8ctbzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小鼠的肿瘤免疫微环境推断可以用seq-ImmuCC</title>
     <updated>2020-12-04T20:59:38+08:00</updated>
@@ -110,27 +131,6 @@
     <updated>2020-11-25T20:05:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/oxmOylNgVbzBGmYyxsv_NA</id>
     <link href="https://mp.weixin.qq.com/s/oxmOylNgVbzBGmYyxsv_NA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用AUCell包的AUCell_calcAUC函数计算每个细胞的每个基因集的活性程度</title>
-    <updated>2020-11-24T19:36:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/dPMW955Eenei_76rASev7g</id>
-    <link href="https://mp.weixin.qq.com/s/dPMW955Eenei_76rASev7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基因集的转录因子富集分析</title>
-    <updated>2020-11-24T19:36:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/4i_uryMdvMNoR_y8YewJXA</id>
-    <link href="https://mp.weixin.qq.com/s/4i_uryMdvMNoR_y8YewJXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么是AUC值而不是GSEA来挑选转录因子呢</title>
-    <updated>2020-11-24T19:36:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/lr8dM2IZcScVO3WQNYLY7A</id>
-    <link href="https://mp.weixin.qq.com/s/lr8dM2IZcScVO3WQNYLY7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T11:23:36+08:00</updated>
+  <updated>2020-12-05T11:15:38+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>太赞了！Github上都没有的“网约车”项目！！！</title>
+    <updated>2020-12-05T00:12:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/LU_Qg3GVvsgM5G8-IcHTMA</id>
+    <link href="https://mp.weixin.qq.com/s/LU_Qg3GVvsgM5G8-IcHTMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文详解负载均衡和反向代理的真实区别</title>
+    <updated>2020-12-05T00:12:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/YBh3dMsXgDxLOEAxRInrGw</id>
+    <link href="https://mp.weixin.qq.com/s/YBh3dMsXgDxLOEAxRInrGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节总监的开发手记，知乎5000+点赞！</title>
     <updated>2020-12-03T22:30:34+08:00</updated>
@@ -33,13 +47,6 @@
     <updated>2020-12-02T23:16:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/SI-ZsWBrQ2Um55bXg1CN1g</id>
     <link href="https://mp.weixin.qq.com/s/SI-ZsWBrQ2Um55bXg1CN1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring 的那些坑，都给你总结好了！</title>
-    <updated>2020-12-01T21:04:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/KR0iL9U1YoDUW5T43TaOOg</id>
-    <link href="https://mp.weixin.qq.com/s/KR0iL9U1YoDUW5T43TaOOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +96,6 @@
     <updated>2020-11-25T22:41:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/zrA6XQ8Gh5ETyW4VfnaaPA</id>
     <link href="https://mp.weixin.qq.com/s/zrA6XQ8Gh5ETyW4VfnaaPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CI/CD大幅减少甩锅!</title>
-    <updated>2020-11-25T18:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/W0m5kh_3uCgCMMk83kZ-8A</id>
-    <link href="https://mp.weixin.qq.com/s/W0m5kh_3uCgCMMk83kZ-8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
