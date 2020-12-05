@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AppHubs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T11:07:49+08:00</updated>
+  <updated>2020-12-05T13:08:32+08:00</updated>
   <subtitle>追随乔帮主</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Web 应用程序在 Mac 平台的终结</title>
+    <updated>2020-12-05T12:54:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/6a2py06UTLXuuiN_a-MBww</id>
+    <link href="https://mp.weixin.qq.com/s/6a2py06UTLXuuiN_a-MBww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker 适配 M1 Mac 路线图</title>
     <updated>2020-12-02T23:38:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-17T22:17:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/lp_dPP3_ESWS3Rwt7Ha4tA</id>
     <link href="https://mp.weixin.qq.com/s/lp_dPP3_ESWS3Rwt7Ha4tA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iOS 程序员摇身变成 macOS 程序员？可能并没有那么简单</title>
-    <updated>2020-11-15T23:16:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/eqYYbLVxQB7UZNyYTrP3Ng</id>
-    <link href="https://mp.weixin.qq.com/s/eqYYbLVxQB7UZNyYTrP3Ng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
