@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T23:17:53+08:00</updated>
+  <updated>2020-12-05T23:16:14+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SSH的使用详解</title>
+    <updated>2020-12-05T22:49:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/hUasmjR4AODoB13iOP73gQ</id>
+    <link href="https://mp.weixin.qq.com/s/hUasmjR4AODoB13iOP73gQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里云RDB</title>
+    <updated>2020-12-05T22:49:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/--BKFBZeeOQT9cVzUM6J3A</id>
+    <link href="https://mp.weixin.qq.com/s/--BKFBZeeOQT9cVzUM6J3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CI/CD 工具选型：Jenkins 还是 GitLab CI/CD？</title>
     <updated>2020-12-04T21:32:06+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-26T21:31:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/3a9_NDzy3w4IL0geqVGk-A</id>
     <link href="https://mp.weixin.qq.com/s/3a9_NDzy3w4IL0geqVGk-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常用的Git命令清单</title>
-    <updated>2020-11-25T21:44:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/00HEEQk9BzitwAxuSGFFVg</id>
-    <link href="https://mp.weixin.qq.com/s/00HEEQk9BzitwAxuSGFFVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ansible常用模块用法详解和playbook的格式说明</title>
-    <updated>2020-11-25T21:44:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/jcwXauUC1Rj9zYEu76rATQ</id>
-    <link href="https://mp.weixin.qq.com/s/jcwXauUC1Rj9zYEu76rATQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

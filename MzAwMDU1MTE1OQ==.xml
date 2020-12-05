@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T23:20:55+08:00</updated>
+  <updated>2020-12-05T23:21:17+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 语言中锁的设计与应用</title>
+    <updated>2020-12-05T22:13:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/cGJxllpHskK4castfOJ_gw</id>
+    <link href="https://mp.weixin.qq.com/s/cGJxllpHskK4castfOJ_gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何搭建一个大数据平台：从新项目到成熟阶段</title>
     <updated>2020-12-04T22:19:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-23T11:58:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/MnlxrUwB57lqE1aExr0iGA</id>
     <link href="https://mp.weixin.qq.com/s/MnlxrUwB57lqE1aExr0iGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你可能未曾使用的新 Java 特性</title>
-    <updated>2020-11-19T12:30:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/uSEkyQ6AGffxIgEFJzwHvQ</id>
-    <link href="https://mp.weixin.qq.com/s/uSEkyQ6AGffxIgEFJzwHvQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

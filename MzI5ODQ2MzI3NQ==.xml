@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T13:08:57+08:00</updated>
+  <updated>2020-12-05T23:07:34+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>北京12月份： Kubernetes CKA实战培训</title>
+    <updated>2020-12-05T21:03:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/spMM2_U-kh3dkLgkVV_EEg</id>
+    <link href="https://mp.weixin.qq.com/s/spMM2_U-kh3dkLgkVV_EEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太赞了！Github上都没有的“网约车”项目！！！</title>
     <updated>2020-12-04T12:18:48+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-25T22:24:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/NYbUsqcIEkN8iaUYneC5Tg</id>
     <link href="https://mp.weixin.qq.com/s/NYbUsqcIEkN8iaUYneC5Tg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes最佳安全实践</title>
-    <updated>2020-11-25T19:13:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/lDsHQMTz3U_ker_bpEnGFQ</id>
-    <link href="https://mp.weixin.qq.com/s/lDsHQMTz3U_ker_bpEnGFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北京12月份： Kubernetes CKA实战培训</title>
-    <updated>2020-11-25T19:13:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/FDd6sRpbrgivpvcibEkyXA</id>
-    <link href="https://mp.weixin.qq.com/s/FDd6sRpbrgivpvcibEkyXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

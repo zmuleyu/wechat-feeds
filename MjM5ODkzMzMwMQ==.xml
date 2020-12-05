@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T23:22:35+08:00</updated>
+  <updated>2020-12-05T23:22:35+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无中生有：论推荐算法中的Embedding思想</title>
+    <updated>2020-12-05T22:33:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/ecF-0jRe2B-sXVOmgrjgKw</id>
+    <link href="https://mp.weixin.qq.com/s/ecF-0jRe2B-sXVOmgrjgKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>NLP.TM | 我的NLP学习之路</title>
+    <updated>2020-12-05T22:33:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/bmqxY5StNUUaJ8fyXRDwpw</id>
+    <link href="https://mp.weixin.qq.com/s/bmqxY5StNUUaJ8fyXRDwpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Milvus的向量搜索实践（一）</title>
+    <updated>2020-12-05T22:33:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/g2PXTkqehq7HhryUtsYnQQ</id>
+    <link href="https://mp.weixin.qq.com/s/g2PXTkqehq7HhryUtsYnQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>事理图谱：事件演化的规律和模式</title>
+    <updated>2020-12-05T22:33:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/2651cVrhVcGD7ZmDPwL_PA</id>
+    <link href="https://mp.weixin.qq.com/s/2651cVrhVcGD7ZmDPwL_PA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>百度自然语言处理算法秋招面经</title>
+    <updated>2020-12-05T22:33:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/GfbaQj5ErKnTMOw8tCSypg</id>
+    <link href="https://mp.weixin.qq.com/s/GfbaQj5ErKnTMOw8tCSypg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>导师让我三天复现NLP顶会，不然就...</title>
     <updated>2020-12-04T19:39:31+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-02T19:04:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/2c2hu31du2D1byQ4f_-ibw</id>
     <link href="https://mp.weixin.qq.com/s/2c2hu31du2D1byQ4f_-ibw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>精通C++之前，你必须知道的几件事！</title>
-    <updated>2020-12-01T19:08:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/LV59OYTVaTMmQ1C7MONS8A</id>
-    <link href="https://mp.weixin.qq.com/s/LV59OYTVaTMmQ1C7MONS8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT微调效果不佳？不如试试这种大规模预训练模型新范式</title>
-    <updated>2020-12-01T19:08:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/9NvYQpdaOsReEpgDJPhYcQ</id>
-    <link href="https://mp.weixin.qq.com/s/9NvYQpdaOsReEpgDJPhYcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI 2020 | MA-GNN 记忆增强的图神经网络序列推荐方法</title>
-    <updated>2020-12-01T19:08:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/hqwDCShhlOf2EnVMTWoE1A</id>
-    <link href="https://mp.weixin.qq.com/s/hqwDCShhlOf2EnVMTWoE1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PinSAGE召回模型及源码分析(2)：数据管道</title>
-    <updated>2020-12-01T19:08:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/w5vF__8xOJB4Vbad5xhKWg</id>
-    <link href="https://mp.weixin.qq.com/s/w5vF__8xOJB4Vbad5xhKWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RSPapers | 工业界推荐系统论文合集</title>
-    <updated>2020-12-01T19:08:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/VcQpYHCFyG1Dc-Pq58Osow</id>
-    <link href="https://mp.weixin.qq.com/s/VcQpYHCFyG1Dc-Pq58Osow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

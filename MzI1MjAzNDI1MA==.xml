@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T01:34:20+08:00</updated>
+  <updated>2020-12-05T23:15:17+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>篇一 | 想全面了解 Rust 语言 ？ 你想知道的都在这里</title>
+    <updated>2020-12-05T23:07:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/jk_JxBaLMg_cxZuWGG0CCQ</id>
+    <link href="https://mp.weixin.qq.com/s/jk_JxBaLMg_cxZuWGG0CCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-04 Glommio:一个基于Linux io_uring的高效多核线程调度库</title>
     <updated>2020-12-04T23:16:35+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-26T23:15:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/w98sHQ0jq-AnBld_-34uDA</id>
     <link href="https://mp.weixin.qq.com/s/w98sHQ0jq-AnBld_-34uDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-25 AWS loves Rust</title>
-    <updated>2020-11-25T22:48:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/LkF5OpLerj9znkhmkxdkEA</id>
-    <link href="https://mp.weixin.qq.com/s/LkF5OpLerj9znkhmkxdkEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star</title>
-    <updated>2020-11-25T22:48:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/0u5n8WgUMMS8DIMd_YMY1A</id>
-    <link href="https://mp.weixin.qq.com/s/0u5n8WgUMMS8DIMd_YMY1A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
