@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T20:23:16+08:00</updated>
+  <updated>2020-12-05T20:20:23+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【源头活水】浅谈多任务与联邦学习</title>
+    <updated>2020-12-05T18:48:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/FoiNa77s-opRtnMhIZposg</id>
+    <link href="https://mp.weixin.qq.com/s/FoiNa77s-opRtnMhIZposg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】动手造轮子-rnn</title>
+    <updated>2020-12-05T18:48:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/S90k3SkgJ-RqJ3uYMb6O2g</id>
+    <link href="https://mp.weixin.qq.com/s/S90k3SkgJ-RqJ3uYMb6O2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI91×CRIPAC 组合泛化专题</title>
+    <updated>2020-12-05T18:48:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/FJ7Oqa7FKbFeUqaNkZkj7w</id>
+    <link href="https://mp.weixin.qq.com/s/FJ7Oqa7FKbFeUqaNkZkj7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【综述专栏】浅谈微信AI在通用图像搜索领域的探索</title>
     <updated>2020-12-04T18:02:20+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-27T18:31:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/DKhIR8EQmd28L7fgJKuG-A</id>
     <link href="https://mp.weixin.qq.com/s/DKhIR8EQmd28L7fgJKuG-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】多目标跟踪（MOT）入门</title>
-    <updated>2020-11-26T17:42:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/82BumeYXuEPDwnDZE12l0A</id>
-    <link href="https://mp.weixin.qq.com/s/82BumeYXuEPDwnDZE12l0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】适合PyTorch小白的官网教程：Learning PyTorch With Examples</title>
-    <updated>2020-11-26T17:42:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/GveBdlo7BRG9poSGHuyJLQ</id>
-    <link href="https://mp.weixin.qq.com/s/GveBdlo7BRG9poSGHuyJLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】详解凸优化、图神经网络、强化学习、贝叶斯方法等四大主题</title>
-    <updated>2020-11-25T18:18:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/TEkuVUe6FTpSe7JhLHMpgw</id>
-    <link href="https://mp.weixin.qq.com/s/TEkuVUe6FTpSe7JhLHMpgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
