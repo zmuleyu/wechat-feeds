@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T23:22:35+08:00</updated>
+  <updated>2020-12-06T23:31:53+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>探索孪生神经网络：请停止你的梯度传递！</title>
+    <updated>2020-12-06T22:48:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/7N5S4KOnL0K3oYvu1vzwaQ</id>
+    <link href="https://mp.weixin.qq.com/s/7N5S4KOnL0K3oYvu1vzwaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>​人工智能数学基础【文末赠书】</title>
+    <updated>2020-12-06T22:48:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/mDAVtBmaWokj8a9R-1H_sg</id>
+    <link href="https://mp.weixin.qq.com/s/mDAVtBmaWokj8a9R-1H_sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>做算法？数学专业的我教你突破数学关</title>
+    <updated>2020-12-06T22:48:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/2vm7NWWYdgO2oFi3NsaOQQ</id>
+    <link href="https://mp.weixin.qq.com/s/2vm7NWWYdgO2oFi3NsaOQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GPipe: 小批量流水线带来的大模型训练</title>
+    <updated>2020-12-06T22:48:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/oR9SctSxNYAf5v4jnXT8Wg</id>
+    <link href="https://mp.weixin.qq.com/s/oR9SctSxNYAf5v4jnXT8Wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>机器学习算法研究员/工程师（职级：原腾讯T2.2-T3.3 地点：北京 or 成都）</title>
+    <updated>2020-12-06T22:48:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/0DAebzdpOiowoBJz2ZtINQ</id>
+    <link href="https://mp.weixin.qq.com/s/0DAebzdpOiowoBJz2ZtINQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>无中生有：论推荐算法中的Embedding思想</title>
     <updated>2020-12-05T22:33:22+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-03T18:25:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/8cEdGuffVn_Uq6s6s7KD_Q</id>
     <link href="https://mp.weixin.qq.com/s/8cEdGuffVn_Uq6s6s7KD_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐几个出论文的好方向！</title>
-    <updated>2020-12-02T19:04:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/WEzjnQEg-urQUwZnG7dgMQ</id>
-    <link href="https://mp.weixin.qq.com/s/WEzjnQEg-urQUwZnG7dgMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT-flow｜CMUx字节推出简单易用的文本表示新SOTA！</title>
-    <updated>2020-12-02T19:04:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/AP2Vlt6IjZUB6GxC5I4g4g</id>
-    <link href="https://mp.weixin.qq.com/s/AP2Vlt6IjZUB6GxC5I4g4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>模型推理加速系列|如何用ONNX加速BERT特征抽取(附代码)</title>
-    <updated>2020-12-02T19:04:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/ICIMIZsy_MKC-JMggG_E-Q</id>
-    <link href="https://mp.weixin.qq.com/s/ICIMIZsy_MKC-JMggG_E-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于分离式表征的图神经网络调研</title>
-    <updated>2020-12-02T19:04:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/lJkHhX0oT2S6zWgdt4_SMA</id>
-    <link href="https://mp.weixin.qq.com/s/lJkHhX0oT2S6zWgdt4_SMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PinSAGE召回模型及源码分析(3)：PinSAGE模型及训练</title>
-    <updated>2020-12-02T19:04:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/2c2hu31du2D1byQ4f_-ibw</id>
-    <link href="https://mp.weixin.qq.com/s/2c2hu31du2D1byQ4f_-ibw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

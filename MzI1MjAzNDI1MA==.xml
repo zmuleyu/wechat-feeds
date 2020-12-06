@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T23:15:17+08:00</updated>
+  <updated>2020-12-06T23:23:48+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-06 Rust 仓库突破 5W star！</title>
+    <updated>2020-12-06T22:49:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/5XpZN0ky4G9xQnbb-6Z2dA</id>
+    <link href="https://mp.weixin.qq.com/s/5XpZN0ky4G9xQnbb-6Z2dA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust 日报】2020-12-05 rust-gpu 发布 v0.2</title>
+    <updated>2020-12-06T22:49:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/APZv3FzYB2GDPgZfUKBuZw</id>
+    <link href="https://mp.weixin.qq.com/s/APZv3FzYB2GDPgZfUKBuZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>篇一 | 想全面了解 Rust 语言 ？ 你想知道的都在这里</title>
     <updated>2020-12-05T23:07:49+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-11-27T23:02:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/5O67qVjBYgZAnN24p434Zg</id>
     <link href="https://mp.weixin.qq.com/s/5O67qVjBYgZAnN24p434Zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】 2020-11-26 为什么 AWS 喜欢 Rust</title>
-    <updated>2020-11-26T23:15:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/2Z5a94tueMte8xuOiY_kdw</id>
-    <link href="https://mp.weixin.qq.com/s/2Z5a94tueMte8xuOiY_kdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】自己做了一个轻量级的 NoSQL 数据库</title>
-    <updated>2020-11-26T23:15:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/w98sHQ0jq-AnBld_-34uDA</id>
-    <link href="https://mp.weixin.qq.com/s/w98sHQ0jq-AnBld_-34uDA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
