@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T23:07:34+08:00</updated>
+  <updated>2020-12-06T20:10:02+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐：阿里工程师总结《K8s实战手册》限时下载！</title>
+    <updated>2020-12-06T18:43:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/xNmybmiPhID770lJOioJ1Q</id>
+    <link href="https://mp.weixin.qq.com/s/xNmybmiPhID770lJOioJ1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>AWS推容器与无服务器自动化管理工具Proton</title>
+    <updated>2020-12-06T18:43:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/HACWdD9fRTLoCxFArCtHvg</id>
+    <link href="https://mp.weixin.qq.com/s/HACWdD9fRTLoCxFArCtHvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>北京12月份： Kubernetes CKA实战培训</title>
     <updated>2020-12-05T21:03:32+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-11-26T22:15:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/NFdElbxhte-tN2yiZgdDJw</id>
     <link href="https://mp.weixin.qq.com/s/NFdElbxhte-tN2yiZgdDJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google推出可用来保护容器供应链的工具Voucher</title>
-    <updated>2020-11-25T22:24:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/NYbUsqcIEkN8iaUYneC5Tg</id>
-    <link href="https://mp.weixin.qq.com/s/NYbUsqcIEkN8iaUYneC5Tg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

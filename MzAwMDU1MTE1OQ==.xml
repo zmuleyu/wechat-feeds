@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T23:21:17+08:00</updated>
+  <updated>2020-12-06T20:25:41+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>改善 Java 代码质量的工具与方法</title>
+    <updated>2020-12-06T18:52:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/aPFwW_GNpyFeq8dfndxEWg</id>
+    <link href="https://mp.weixin.qq.com/s/aPFwW_GNpyFeq8dfndxEWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java 语言中锁的设计与应用</title>
     <updated>2020-12-05T22:13:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-24T20:01:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/VFDYYtZwM_QAr_7cVFNh1w</id>
     <link href="https://mp.weixin.qq.com/s/VFDYYtZwM_QAr_7cVFNh1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>移动端APM网络监控与优化方案</title>
-    <updated>2020-11-23T11:58:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/MnlxrUwB57lqE1aExr0iGA</id>
-    <link href="https://mp.weixin.qq.com/s/MnlxrUwB57lqE1aExr0iGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

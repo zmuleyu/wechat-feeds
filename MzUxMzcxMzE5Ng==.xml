@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T13:18:56+08:00</updated>
+  <updated>2020-12-06T20:18:51+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端人，咱别盲目追求新技术 | 直播推荐</title>
+    <updated>2020-12-06T16:41:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/tc15kzv0A254CNgmvmiOug</id>
+    <link href="https://mp.weixin.qq.com/s/tc15kzv0A254CNgmvmiOug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端周报：Element UI for Vue 3.0来了；Win 10 或将于明年原生支持安卓应用；GitHub 年度报告发布</title>
+    <updated>2020-12-06T16:41:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/jUf6f-N3Wd2LnK_r3XU_iw</id>
+    <link href="https://mp.weixin.qq.com/s/jUf6f-N3Wd2LnK_r3XU_iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GraphQL是API的未来，但它并非银弹</title>
     <updated>2020-12-04T11:51:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-25T12:31:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/B-uPvnd3WAa4WeVJWf-k4Q</id>
     <link href="https://mp.weixin.qq.com/s/B-uPvnd3WAa4WeVJWf-k4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue 新语法糖引争议，网友：魔改 JavaScript，这是想挑战标准？</title>
-    <updated>2020-11-23T13:42:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/5qoeRQ7hnszFxzWMVf8UYQ</id>
-    <link href="https://mp.weixin.qq.com/s/5qoeRQ7hnszFxzWMVf8UYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>React Portals 简述及其用例</title>
-    <updated>2020-11-23T13:42:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/ucfp6-LMPb_cRlVjrKukEQ</id>
-    <link href="https://mp.weixin.qq.com/s/ucfp6-LMPb_cRlVjrKukEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

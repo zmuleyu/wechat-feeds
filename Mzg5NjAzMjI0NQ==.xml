@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T20:26:30+08:00</updated>
+  <updated>2020-12-06T20:23:05+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>修炼码德系列：简化条件表达式</title>
+    <updated>2020-12-06T14:59:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/Es19Bea8tUjtWYJDVrxUjw</id>
+    <link href="https://mp.weixin.qq.com/s/Es19Bea8tUjtWYJDVrxUjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>“MySQL Analytics Engine”来了</title>
+    <updated>2020-12-06T14:59:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/7zO2Mth1_UjjU7y9JBrCgA</id>
+    <link href="https://mp.weixin.qq.com/s/7zO2Mth1_UjjU7y9JBrCgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我点击页面元素，VSCode 乖乖打开了组件？原理揭秘。</title>
     <updated>2020-12-04T17:53:17+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-25T17:30:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/jmqsF4uPYHHUkqR3eRUb_g</id>
     <link href="https://mp.weixin.qq.com/s/jmqsF4uPYHHUkqR3eRUb_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>简单分析下 Node.js 关于集群的那些事</title>
-    <updated>2020-11-24T18:09:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/ZJCizniY3jEnMC1k0r4DYA</id>
-    <link href="https://mp.weixin.qq.com/s/ZJCizniY3jEnMC1k0r4DYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【万字警告】了不起的 Vue3-上</title>
-    <updated>2020-11-23T17:05:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/AcEIkXoKSgtJsH_arkMjBQ</id>
-    <link href="https://mp.weixin.qq.com/s/AcEIkXoKSgtJsH_arkMjBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
