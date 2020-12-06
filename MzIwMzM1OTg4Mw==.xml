@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:24:07+08:00</updated>
+  <updated>2020-12-06T16:12:31+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CVPR 2021 | E2ENet，丢弃Transformer，FCN也可以实现E2E检测（已投CVPR 2021）</title>
+    <updated>2020-12-06T15:53:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/KTpUpOxMa1pQb-wRcorgtA</id>
+    <link href="https://mp.weixin.qq.com/s/KTpUpOxMa1pQb-wRcorgtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVPR2020|CentripetalNet：目标检测中的更高质量关键点配对</title>
     <updated>2020-12-02T20:12:36+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-11-17T00:34:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/OCWpv9u66Yry7p7qf35_bQ</id>
     <link href="https://mp.weixin.qq.com/s/OCWpv9u66Yry7p7qf35_bQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyTorch源码解析与实践（1）：数据加载Dataset，Sampler与DataLoader</title>
-    <updated>2020-11-16T10:39:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/u3DzV1HOesbT06IRJwrDHw</id>
-    <link href="https://mp.weixin.qq.com/s/u3DzV1HOesbT06IRJwrDHw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
