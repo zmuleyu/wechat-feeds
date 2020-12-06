@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软中国MSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T20:28:05+08:00</updated>
+  <updated>2020-12-06T11:28:36+08:00</updated>
   <subtitle>微软云Azure技术生态官方公众平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从中国制造到中国创造，这些企业做对了什么？</title>
+    <updated>2020-12-05T17:48:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/m6bkbJA1UmrG6uBeZpbxQQ</id>
+    <link href="https://mp.weixin.qq.com/s/m6bkbJA1UmrG6uBeZpbxQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在线工作坊 | Python 在太空探索中的应用简介</title>
     <updated>2020-12-04T18:04:36+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-24T14:28:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/esZxvdKXdb-7ofnDc_MtTg</id>
     <link href="https://mp.weixin.qq.com/s/esZxvdKXdb-7ofnDc_MtTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 应用如何优雅的做功能开关（Feature Flag）</title>
-    <updated>2020-11-23T12:47:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/nI1EfYGICcJgmE9lRcC6lg</id>
-    <link href="https://mp.weixin.qq.com/s/nI1EfYGICcJgmE9lRcC6lg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T11:15:38+08:00</updated>
+  <updated>2020-12-06T11:18:32+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯 Code Review 规范出炉！你还敢乱写代码？？</title>
+    <updated>2020-12-06T00:35:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/c23pQmlRfzKiTFatH85Dlw</id>
+    <link href="https://mp.weixin.qq.com/s/c23pQmlRfzKiTFatH85Dlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太赞了！Github上都没有的“网约车”项目！！！</title>
     <updated>2020-12-05T00:12:46+08:00</updated>
@@ -40,13 +47,6 @@
     <updated>2020-12-02T23:16:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/QrtQyqPx_pBhvWJAWYe2cQ</id>
     <link href="https://mp.weixin.qq.com/s/QrtQyqPx_pBhvWJAWYe2cQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>比Vertica快5倍，比Hive快279倍，比MySQL快801倍！猜猜它是谁？</title>
-    <updated>2020-12-02T23:16:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/SI-ZsWBrQ2Um55bXg1CN1g</id>
-    <link href="https://mp.weixin.qq.com/s/SI-ZsWBrQ2Um55bXg1CN1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +89,6 @@
     <updated>2020-11-27T00:08:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/pfJ_h2abFTtSwH7ekHFolQ</id>
     <link href="https://mp.weixin.qq.com/s/pfJ_h2abFTtSwH7ekHFolQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#34;服务不可用&#34;怎么排查？讲了100遍还是记不住？</title>
-    <updated>2020-11-25T22:41:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/zrA6XQ8Gh5ETyW4VfnaaPA</id>
-    <link href="https://mp.weixin.qq.com/s/zrA6XQ8Gh5ETyW4VfnaaPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

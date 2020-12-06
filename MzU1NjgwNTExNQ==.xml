@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-05T20:28:08+08:00</updated>
+  <updated>2020-12-06T11:29:47+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货：用好 VS Code 这 13 款插件和 8 个快捷键，工作效率提升 10 倍</title>
+    <updated>2020-12-05T18:47:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/XPMZ4jZ91CzafBOBQKrxSA</id>
+    <link href="https://mp.weixin.qq.com/s/XPMZ4jZ91CzafBOBQKrxSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超越 PyTorch 和 TensorFlow，这个国产框架有点东西</title>
     <updated>2020-12-05T17:42:19+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-11-26T23:26:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/M8piyrFOA1GpH2LFUALVFA</id>
     <link href="https://mp.weixin.qq.com/s/M8piyrFOA1GpH2LFUALVFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Electron 11 正式发布：支持苹果 M1 芯片</title>
-    <updated>2020-11-25T21:47:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/VVr8nCM79Z1ZdBm0MUjxbg</id>
-    <link href="https://mp.weixin.qq.com/s/VVr8nCM79Z1ZdBm0MUjxbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
