@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T11:20:10+08:00</updated>
+  <updated>2020-12-07T11:26:18+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在Windows 10家庭版上安装Docker</title>
+    <updated>2020-12-07T07:36:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/OPQT-AbITAFYMc0SEsMvYg</id>
+    <link href="https://mp.weixin.qq.com/s/OPQT-AbITAFYMc0SEsMvYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes实战培训 | 深圳站</title>
+    <updated>2020-12-07T07:36:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/9mxbfo_Q-ET8ky8Us-umkQ</id>
+    <link href="https://mp.weixin.qq.com/s/9mxbfo_Q-ET8ky8Us-umkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>终于有人把Prometheus入门讲明白了 | 留言送书</title>
     <updated>2020-12-06T08:03:29+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-26T21:07:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/nqB7NZajeiC41SDklQgGag</id>
     <link href="https://mp.weixin.qq.com/s/nqB7NZajeiC41SDklQgGag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes理论与实战培训</title>
-    <updated>2020-11-26T21:07:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/OfaX_wzfL2x6_9DMB1u-wg</id>
-    <link href="https://mp.weixin.qq.com/s/OfaX_wzfL2x6_9DMB1u-wg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubeflow V1.2发布：全部功能特性综述</title>
-    <updated>2020-11-26T07:29:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/UzhBzhuBdQPNdGgrrL11lQ</id>
-    <link href="https://mp.weixin.qq.com/s/UzhBzhuBdQPNdGgrrL11lQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

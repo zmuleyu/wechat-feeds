@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Echo的设计笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T11:09:28+08:00</updated>
+  <updated>2020-12-07T11:14:50+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么你的微信越来越大？</title>
+    <updated>2020-12-06T22:21:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/ymDZMP7Uv432DmpUwogdHA</id>
+    <link href="https://mp.weixin.qq.com/s/ymDZMP7Uv432DmpUwogdHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看看大厂是怎么做设计的！</title>
     <updated>2020-12-03T21:22:15+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-10-27T22:17:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/7weWWEIk__HEH7mNa1MX8g</id>
     <link href="https://mp.weixin.qq.com/s/7weWWEIk__HEH7mNa1MX8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用这5个方法，设计方案一定很惊艳</title>
-    <updated>2020-10-18T17:44:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/Og0skRJs22F6ETDpN44d0Q</id>
-    <link href="https://mp.weixin.qq.com/s/Og0skRJs22F6ETDpN44d0Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

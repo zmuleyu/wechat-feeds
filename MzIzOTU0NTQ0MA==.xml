@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T11:16:36+08:00</updated>
+  <updated>2020-12-07T11:18:53+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何基于DataWorks构建数据中台？</title>
+    <updated>2020-12-07T08:10:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/fdRb1mAQCwWuI4vUTxTG3Q</id>
+    <link href="https://mp.weixin.qq.com/s/fdRb1mAQCwWuI4vUTxTG3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>什么是微内核架构设计？</title>
     <updated>2020-12-03T18:06:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-23T18:47:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/qnTo5QJNsR_2lYrW90OfVQ</id>
     <link href="https://mp.weixin.qq.com/s/qnTo5QJNsR_2lYrW90OfVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>40亿条/秒！Flink流批一体在阿里双11首次落地的背后</title>
-    <updated>2020-11-22T21:35:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/lB0rEICDsK1_qsELG12KnQ</id>
-    <link href="https://mp.weixin.qq.com/s/lB0rEICDsK1_qsELG12KnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

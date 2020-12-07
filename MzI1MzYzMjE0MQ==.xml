@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T20:32:36+08:00</updated>
+  <updated>2020-12-07T11:28:52+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于有限状态机与消息队列的三方支付系统补单实践</title>
+    <updated>2020-12-07T09:28:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/9Z-N3cfWu7oMVJsTDkbb-Q</id>
+    <link href="https://mp.weixin.qq.com/s/9Z-N3cfWu7oMVJsTDkbb-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>她们，在字节跳动写代码</title>
     <updated>2020-12-02T16:39:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-19T09:48:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/4-4M9E8NziAgshlwB7Sc6g</id>
     <link href="https://mp.weixin.qq.com/s/4-4M9E8NziAgshlwB7Sc6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动全链路压测(Rhino)的实践</title>
-    <updated>2020-10-12T09:58:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/vofrpFGvnptj3MNAv1hQ-w</id>
-    <link href="https://mp.weixin.qq.com/s/vofrpFGvnptj3MNAv1hQ-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

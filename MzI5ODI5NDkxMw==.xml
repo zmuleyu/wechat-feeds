@@ -1,24 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T01:25:18+08:00</updated>
+  <updated>2020-12-07T11:32:22+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>再见，Kafka！RocketMQ 已成气候！</title>
+    <updated>2020-12-07T07:53:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/aCAstFEgZXsg_-Zt48oPMQ</id>
+    <link href="https://mp.weixin.qq.com/s/aCAstFEgZXsg_-Zt48oPMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringBoot：切面AOP实现权限校验：实例演示与注解全解</title>
+    <updated>2020-12-07T07:53:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/N460RmNw55Jkj99jbx7Gmw</id>
+    <link href="https://mp.weixin.qq.com/s/N460RmNw55Jkj99jbx7Gmw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>13 张图解 Java 中的内存模型</title>
+    <updated>2020-12-07T07:53:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/wFOa3Ud2qFwlRf9ERncCbQ</id>
+    <link href="https://mp.weixin.qq.com/s/wFOa3Ud2qFwlRf9ERncCbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub年度报告：C/C#/C++被后起之秀干翻了</title>
+    <updated>2020-12-07T07:53:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/xGQSMKS2iS95z7x-D_a5hg</id>
+    <link href="https://mp.weixin.qq.com/s/xGQSMKS2iS95z7x-D_a5hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 要弃用docker了，我们该怎么办？</title>
+    <updated>2020-12-07T07:53:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/Fj1jKqBCF4X70ZhMbu0k5w</id>
+    <link href="https://mp.weixin.qq.com/s/Fj1jKqBCF4X70ZhMbu0k5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>雷军 1994 年写的代码，像诗一样优雅，不服不行~</title>
     <updated>2020-12-05T23:25:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/h_i5v1TEJtc3pd3vagFcNw</id>
     <link href="https://mp.weixin.qq.com/s/h_i5v1TEJtc3pd3vagFcNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为珍藏版 《Linux 学习笔记》火了，完整版开放下载！</title>
-    <updated>2020-12-05T23:25:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/uYIOCMEr6qQ20kupttmGVg</id>
-    <link href="https://mp.weixin.qq.com/s/uYIOCMEr6qQ20kupttmGVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,34 +145,6 @@
     <updated>2020-12-03T00:31:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/1GjSFmCs6rirXQ1DQyYypA</id>
     <link href="https://mp.weixin.qq.com/s/1GjSFmCs6rirXQ1DQyYypA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信回应了：这个功能我们永远不会做！</title>
-    <updated>2020-12-03T00:31:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/46zIy0L19ndmG7bEo2oe8g</id>
-    <link href="https://mp.weixin.qq.com/s/46zIy0L19ndmG7bEo2oe8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java中volatile关键字的最全总结，赶快给自己查缺补漏吧！</title>
-    <updated>2020-12-03T00:31:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/QGQL5oIbo5ILJBlTOnlQfQ</id>
-    <link href="https://mp.weixin.qq.com/s/QGQL5oIbo5ILJBlTOnlQfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 再见！外包！</title>
-    <updated>2020-12-03T00:31:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/pok_7YA92v9JMV_uSASWMA</id>
-    <link href="https://mp.weixin.qq.com/s/pok_7YA92v9JMV_uSASWMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字好文！Okhttp缓存源码分析以及自定义缓存实现</title>
-    <updated>2020-12-03T00:31:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/bfujwCL9H_4fqDgO9iuvlw</id>
-    <link href="https://mp.weixin.qq.com/s/bfujwCL9H_4fqDgO9iuvlw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
