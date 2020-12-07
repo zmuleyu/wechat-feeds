@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T23:19:17+08:00</updated>
+  <updated>2020-12-07T23:23:58+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>综述：轻量级CNN架构设计</title>
+    <updated>2020-12-07T21:58:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/-FcmilRBVaasRfGRtH3WOg</id>
+    <link href="https://mp.weixin.qq.com/s/-FcmilRBVaasRfGRtH3WOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软亚洲研究院 NeurIPS 2020 目标检测论文一览</title>
+    <updated>2020-12-07T21:58:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/tfzw9MvMl5tDi9lMkFOmwQ</id>
+    <link href="https://mp.weixin.qq.com/s/tfzw9MvMl5tDi9lMkFOmwQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>丢弃Transformer，FCN也可以实现E2E检测</title>
+    <updated>2020-12-07T21:58:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/ixxblQhrBzGoge7hLjCh6A</id>
+    <link href="https://mp.weixin.qq.com/s/ixxblQhrBzGoge7hLjCh6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>吴翼：另起一行——从姚班少年到教姚班的人</title>
+    <updated>2020-12-07T21:58:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/kbqfTG1XP7xzQR2LBiSudA</id>
+    <link href="https://mp.weixin.qq.com/s/kbqfTG1XP7xzQR2LBiSudA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>极市直播丨长尾分布最新技术分享！汤凯华：利用因果分析解决通用的长尾分布问题</title>
     <updated>2020-12-06T22:00:30+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-03T21:55:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/FVUIpEun6d5K05s5yKB7Dg</id>
     <link href="https://mp.weixin.qq.com/s/FVUIpEun6d5K05s5yKB7Dg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Transformer再下一城！low-level多个任务榜首被占领，北大华为等联合提出预训练模型IPT</title>
-    <updated>2020-12-02T22:05:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/57CpNFG0ElkKI3jYzqZXVw</id>
-    <link href="https://mp.weixin.qq.com/s/57CpNFG0ElkKI3jYzqZXVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks</title>
-    <updated>2020-12-02T22:05:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/2RE-rArsbw_Z2P-Uq8RWWQ</id>
-    <link href="https://mp.weixin.qq.com/s/2RE-rArsbw_Z2P-Uq8RWWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>centerX: 用中国特色社会主义的方式打开centernet</title>
-    <updated>2020-12-02T22:05:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/kysCiSu_qL34E_5OrBe_rw</id>
-    <link href="https://mp.weixin.qq.com/s/kysCiSu_qL34E_5OrBe_rw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI 2021放榜，得分 987 论文被拒，654 反而中了？</title>
-    <updated>2020-12-02T22:05:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/88fKI4Ikw1mmNuoevqLDYg</id>
-    <link href="https://mp.weixin.qq.com/s/88fKI4Ikw1mmNuoevqLDYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

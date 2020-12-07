@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T23:23:48+08:00</updated>
+  <updated>2020-12-07T23:35:13+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-07 使用 `CXX` 实现 Rust和 C++ 的安全互操作性</title>
+    <updated>2020-12-07T22:20:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/hCKDGGKfeUiv0AqJ3qOfOg</id>
+    <link href="https://mp.weixin.qq.com/s/hCKDGGKfeUiv0AqJ3qOfOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【B站直播】9场 Workshop Substrate Hackathon 赛前指导（12.9–17）</title>
+    <updated>2020-12-07T22:20:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/gdHuXIIm3hbC-kV7kOVNMg</id>
+    <link href="https://mp.weixin.qq.com/s/gdHuXIIm3hbC-kV7kOVNMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rust 语言风靡学术界</title>
+    <updated>2020-12-07T22:20:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/vfo-S_2FPIoM-iEmiKIJUg</id>
+    <link href="https://mp.weixin.qq.com/s/vfo-S_2FPIoM-iEmiKIJUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在生产中使用Rust的著名公司及他们选择Rust的理由</title>
+    <updated>2020-12-07T22:20:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/QNH9CLHZoxArtxbHPqQiIQ</id>
+    <link href="https://mp.weixin.qq.com/s/QNH9CLHZoxArtxbHPqQiIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-06 Rust 仓库突破 5W star！</title>
     <updated>2020-12-06T22:49:32+08:00</updated>
@@ -117,13 +145,6 @@
     <updated>2020-11-28T22:55:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/g9foANlQQHK5FNo36iqA8A</id>
     <link href="https://mp.weixin.qq.com/s/g9foANlQQHK5FNo36iqA8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【每周一库】 todo_r - Find all your notes with one command!</title>
-    <updated>2020-11-27T23:02:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/5O67qVjBYgZAnN24p434Zg</id>
-    <link href="https://mp.weixin.qq.com/s/5O67qVjBYgZAnN24p434Zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
