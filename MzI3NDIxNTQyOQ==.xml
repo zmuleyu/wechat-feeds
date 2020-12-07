@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:28:32+08:00</updated>
+  <updated>2020-12-07T20:28:57+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>专访 | 不想浪费时代机遇，这群内心狂野的程序员用 5 年时间把产品卖到了全球</title>
+    <updated>2020-12-07T17:06:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/cqX3JK_AbNA8ZJvoigqO2Q</id>
+    <link href="https://mp.weixin.qq.com/s/cqX3JK_AbNA8ZJvoigqO2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一次集齐年度云原生技术干货，PingCAP 带你走进 2020 Cloud Native Day</title>
     <updated>2020-12-03T17:47:03+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-11-20T16:31:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/tsAg2PFvl2bPHKfiCFrEMw</id>
     <link href="https://mp.weixin.qq.com/s/tsAg2PFvl2bPHKfiCFrEMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>做一切为了好玩的极客，TiDB Committer 王贺的心路历程</title>
-    <updated>2020-11-19T18:10:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/qDdvRvaUA9uPp1FB4RW4Lw</id>
-    <link href="https://mp.weixin.qq.com/s/qDdvRvaUA9uPp1FB4RW4Lw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北京 TUG 线下企业行 | 走进云集，等你报名</title>
-    <updated>2020-11-19T18:10:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/fA9OlAHRj_u45dxh72P1UA</id>
-    <link href="https://mp.weixin.qq.com/s/fA9OlAHRj_u45dxh72P1UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
