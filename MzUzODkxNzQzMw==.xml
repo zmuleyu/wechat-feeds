@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T01:21:24+08:00</updated>
+  <updated>2020-12-08T01:27:23+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不用绿幕也能实时抠图，商汤等提出只需单张图像、单个模型的新方法MODNet</title>
+    <updated>2020-12-07T23:57:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/ShQRpth78AxA-BYP9NRxwg</id>
+    <link href="https://mp.weixin.qq.com/s/ShQRpth78AxA-BYP9NRxwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为北大等联手打造的Transformer竟在CV领域超过了CNN：多项底层视觉任务达到SOTA</title>
     <updated>2020-12-03T23:44:39+08:00</updated>
@@ -19,13 +26,6 @@
     <updated>2020-12-02T17:03:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/UpfgxiIaSU4iIjbrkS--zA</id>
     <link href="https://mp.weixin.qq.com/s/UpfgxiIaSU4iIjbrkS--zA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深圳，本周日 | QCon2020软件开发大会</title>
-    <updated>2020-12-02T17:03:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/83z8bCNHjSmYk4unrJ04_A</id>
-    <link href="https://mp.weixin.qq.com/s/83z8bCNHjSmYk4unrJ04_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +75,6 @@
     <updated>2020-11-21T23:47:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/hpmefgwaB2wzywloHDPA6g</id>
     <link href="https://mp.weixin.qq.com/s/hpmefgwaB2wzywloHDPA6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>模型压缩新突破，刷新滤波器剪枝的SOTA效果，优图NeurIPS 2020论文</title>
-    <updated>2020-11-19T17:28:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/HohsD57cQtTR5SvuykEDuA</id>
-    <link href="https://mp.weixin.qq.com/s/HohsD57cQtTR5SvuykEDuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
