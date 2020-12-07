@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T20:25:41+08:00</updated>
+  <updated>2020-12-07T16:34:29+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java内存模型深入分析</title>
+    <updated>2020-12-07T14:20:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/0H9yfiYvWGQByjFT-fj-ww</id>
+    <link href="https://mp.weixin.qq.com/s/0H9yfiYvWGQByjFT-fj-ww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>改善 Java 代码质量的工具与方法</title>
     <updated>2020-12-06T18:52:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T09:38:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/NkpEUTcVHQsGXXb5sQ1Jxg</id>
     <link href="https://mp.weixin.qq.com/s/NkpEUTcVHQsGXXb5sQ1Jxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优化MariaDB数据库性能的思路与工具</title>
-    <updated>2020-11-24T20:01:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/VFDYYtZwM_QAr_7cVFNh1w</id>
-    <link href="https://mp.weixin.qq.com/s/VFDYYtZwM_QAr_7cVFNh1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
