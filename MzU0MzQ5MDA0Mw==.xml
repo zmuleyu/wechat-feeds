@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T11:18:32+08:00</updated>
+  <updated>2020-12-07T13:24:45+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>抖音、达达、得物、哈啰等企业在前端、高可用、中台上的实践</title>
+    <updated>2020-12-07T10:56:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/aAaedT7wgmivH0ySgHuJEg</id>
+    <link href="https://mp.weixin.qq.com/s/aAaedT7wgmivH0ySgHuJEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不是keys，记一次因 redis 使用不当导致应用卡死 的过程</title>
+    <updated>2020-12-07T10:56:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/_8BMBlvBBXfdVao3gkIemg</id>
+    <link href="https://mp.weixin.qq.com/s/_8BMBlvBBXfdVao3gkIemg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯 Code Review 规范出炉！你还敢乱写代码？？</title>
     <updated>2020-12-06T00:35:09+08:00</updated>
@@ -15,24 +29,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>太赞了！Github上都没有的“网约车”项目！！！</title>
-    <updated>2020-12-05T00:12:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/LU_Qg3GVvsgM5G8-IcHTMA</id>
-    <link href="https://mp.weixin.qq.com/s/LU_Qg3GVvsgM5G8-IcHTMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>一文详解负载均衡和反向代理的真实区别</title>
     <updated>2020-12-05T00:12:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/YBh3dMsXgDxLOEAxRInrGw</id>
     <link href="https://mp.weixin.qq.com/s/YBh3dMsXgDxLOEAxRInrGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节总监的开发手记，知乎5000+点赞！</title>
-    <updated>2020-12-03T22:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/C68is2J-y6wPnjA1__gXfA</id>
-    <link href="https://mp.weixin.qq.com/s/C68is2J-y6wPnjA1__gXfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2020-11-28T01:20:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/OY3dJGLh-6q6NorX2mU1hQ</id>
     <link href="https://mp.weixin.qq.com/s/OY3dJGLh-6q6NorX2mU1hQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文详解 Prometheus 的高可用方案：Thanos</title>
-    <updated>2020-11-27T00:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/pfJ_h2abFTtSwH7ekHFolQ</id>
-    <link href="https://mp.weixin.qq.com/s/pfJ_h2abFTtSwH7ekHFolQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

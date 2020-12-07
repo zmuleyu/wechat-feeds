@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-06T20:10:02+08:00</updated>
+  <updated>2020-12-07T13:38:35+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大厂的 Redis 都是怎么搞的？</title>
+    <updated>2020-12-07T11:42:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/pB1jBJ0-vXpmsskYFZ4LFA</id>
+    <link href="https://mp.weixin.qq.com/s/pB1jBJ0-vXpmsskYFZ4LFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>优化Docker 镜像小技巧</title>
+    <updated>2020-12-07T11:42:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/mqWSiS4Q05bHkEEFifvRsg</id>
+    <link href="https://mp.weixin.qq.com/s/mqWSiS4Q05bHkEEFifvRsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐：阿里工程师总结《K8s实战手册》限时下载！</title>
     <updated>2020-12-06T18:43:26+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>死磕微服务：分布式事务已成气候！</title>
-    <updated>2020-12-02T10:44:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/hP9-8yX5HmHljRF0u7Pz4w</id>
-    <link href="https://mp.weixin.qq.com/s/hP9-8yX5HmHljRF0u7Pz4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>北京12月份： Kubernetes CKA实战培训</title>
     <updated>2020-12-02T10:44:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/HTEwbY5gbn9SfKpqhFJ_qg</id>
@@ -92,13 +99,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>redis到底是多线程还是单线程？我要吊打面试官...</title>
-    <updated>2020-11-30T12:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/VI0uOa82mcRcfUDyrcYNuQ</id>
-    <link href="https://mp.weixin.qq.com/s/VI0uOa82mcRcfUDyrcYNuQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>WiFi漫游后出现感叹号</title>
     <updated>2020-11-30T12:09:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/WqOIttn2qj1iOSyMcDGx6A</id>
@@ -124,13 +124,6 @@
     <updated>2020-11-28T20:52:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/VGzHNN_vdI7Fn5Gz9kFzAQ</id>
     <link href="https://mp.weixin.qq.com/s/VGzHNN_vdI7Fn5Gz9kFzAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>K8s分布式储存etcd毕业，成为CNCF顶级项目</title>
-    <updated>2020-11-26T22:15:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/NFdElbxhte-tN2yiZgdDJw</id>
-    <link href="https://mp.weixin.qq.com/s/NFdElbxhte-tN2yiZgdDJw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

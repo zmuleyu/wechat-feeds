@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T11:22:52+08:00</updated>
+  <updated>2020-12-07T13:20:30+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>硬核万字总结：看完这 20 道 Redis 面试题，女朋友都面上阿里了</title>
+    <updated>2020-12-07T12:11:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/GwjQalQ9ZkBbTBtEKpbkMw</id>
+    <link href="https://mp.weixin.qq.com/s/GwjQalQ9ZkBbTBtEKpbkMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>10 张图告诉你，Kafka 是怎么做到支持百万级 TPS 的？</title>
     <updated>2020-12-03T18:04:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-11T18:18:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/ahG72-CBrREQ5PL0q3XxKQ</id>
     <link href="https://mp.weixin.qq.com/s/ahG72-CBrREQ5PL0q3XxKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>亿级流量高并发场景下，如何保证缓存与数据库的双写一致性？</title>
-    <updated>2020-11-10T16:04:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/-EErLaPPbO9gItIzefjTuw</id>
-    <link href="https://mp.weixin.qq.com/s/-EErLaPPbO9gItIzefjTuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
