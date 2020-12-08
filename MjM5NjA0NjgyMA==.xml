@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T20:21:18+08:00</updated>
+  <updated>2020-12-08T20:23:27+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>伊朗黑客攻击以色列供水设施</title>
+    <updated>2020-12-08T17:35:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/jv7jeb2wM1CtRmfH8ZXtTA</id>
+    <link href="https://mp.weixin.qq.com/s/jv7jeb2wM1CtRmfH8ZXtTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从DevSecOps看安全产品的自身安全 | CIS 2020议题前瞻</title>
+    <updated>2020-12-08T17:35:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/L-a9AtHaALe6HaDE8aPIFw</id>
+    <link href="https://mp.weixin.qq.com/s/L-a9AtHaALe6HaDE8aPIFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fuzzbook系列：软件的安全性测试</title>
+    <updated>2020-12-08T17:35:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/1LGA2WQj8wXc9W7odHvocA</id>
+    <link href="https://mp.weixin.qq.com/s/1LGA2WQj8wXc9W7odHvocA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>安全研究 | 由postMessage导致Facebook账户劫持的DOM XSS</title>
+    <updated>2020-12-08T17:35:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/bOS2R74wHS65zTbCZ77nvg</id>
+    <link href="https://mp.weixin.qq.com/s/bOS2R74wHS65zTbCZ77nvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入浅出低功耗蓝牙(BLE)协议栈（实战篇）</title>
     <updated>2020-12-07T17:54:18+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-04T18:27:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/b_Qgr536Mcb0nFwAXvB1wQ</id>
     <link href="https://mp.weixin.qq.com/s/b_Qgr536Mcb0nFwAXvB1wQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>外交部计算机被植入后门，俄罗斯APT长达5年的 &#34;Crutch&#34;行动揭秘</title>
-    <updated>2020-12-03T19:17:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/4XmFdch0kdX3rJOGP1Jncw</id>
-    <link href="https://mp.weixin.qq.com/s/4XmFdch0kdX3rJOGP1Jncw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>移动智能终端用户隐私防跟踪技术研究 | CIS 2020大会议题前瞻</title>
-    <updated>2020-12-03T19:17:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/bhuKIzJK78QFq6ZzR-ZR3Q</id>
-    <link href="https://mp.weixin.qq.com/s/bhuKIzJK78QFq6ZzR-ZR3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习检测WebShell脚本实践</title>
-    <updated>2020-12-03T19:17:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/DyJ6TqHOd-mUguI-AEmEEQ</id>
-    <link href="https://mp.weixin.qq.com/s/DyJ6TqHOd-mUguI-AEmEEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>踩坑版渗透：记某次授权测试</title>
-    <updated>2020-12-03T19:17:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/SUhCI3T4rVbSsxVdiRckZg</id>
-    <link href="https://mp.weixin.qq.com/s/SUhCI3T4rVbSsxVdiRckZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

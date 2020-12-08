@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T20:24:44+08:00</updated>
+  <updated>2020-12-08T20:34:05+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图文存储常识：单机、集中、分布式、云、云原生存储</title>
+    <updated>2020-12-08T17:57:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/TN9Gvo50BP9imlC83ufu1Q</id>
+    <link href="https://mp.weixin.qq.com/s/TN9Gvo50BP9imlC83ufu1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>降本增效利器！趣头条Spark Remote Shuffle Service最佳实践</title>
     <updated>2020-12-07T16:26:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-28T10:21:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/cm20KzNdQjdVHrv7KnPmdw</id>
     <link href="https://mp.weixin.qq.com/s/cm20KzNdQjdVHrv7KnPmdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>史上最快破5亿用户的互动 - 2020双11养猫技术大揭秘</title>
-    <updated>2020-11-27T17:29:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/SJw6pvxS-ALOalEVKO-jhA</id>
-    <link href="https://mp.weixin.qq.com/s/SJw6pvxS-ALOalEVKO-jhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

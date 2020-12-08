@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T23:35:13+08:00</updated>
+  <updated>2020-12-08T20:36:56+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>跟我一起，了解 Rust 大会的筹备盛况</title>
+    <updated>2020-12-08T18:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/r9de79Nk6GIK0OXilQMDtw</id>
+    <link href="https://mp.weixin.qq.com/s/r9de79Nk6GIK0OXilQMDtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《Rust唠嗑室》第15期 - 玩转 Rust Nom 解析引擎</title>
+    <updated>2020-12-08T18:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/M4OyFZ-ZaKZG6J44kcSwoQ</id>
+    <link href="https://mp.weixin.qq.com/s/M4OyFZ-ZaKZG6J44kcSwoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-07 使用 `CXX` 实现 Rust和 C++ 的安全互操作性</title>
     <updated>2020-12-07T22:20:54+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-29T23:54:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/2taR0pC4sB76blUtUQeWhQ</id>
     <link href="https://mp.weixin.qq.com/s/2taR0pC4sB76blUtUQeWhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】Arc 在 Rust 中是如何工作的</title>
-    <updated>2020-11-28T22:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/dWmSBNRwa1yTsXKpp96Mtw</id>
-    <link href="https://mp.weixin.qq.com/s/dWmSBNRwa1yTsXKpp96Mtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】 2020-11-27 imgui-rs项目正在寻找新的维护者</title>
-    <updated>2020-11-28T22:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/g9foANlQQHK5FNo36iqA8A</id>
-    <link href="https://mp.weixin.qq.com/s/g9foANlQQHK5FNo36iqA8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

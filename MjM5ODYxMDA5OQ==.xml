@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T23:26:44+08:00</updated>
+  <updated>2020-12-08T20:24:42+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>40亿条/秒！Flink撑起阿里双11世界级流量！</title>
+    <updated>2020-12-08T17:19:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/LYJMEOW43Pwdi38ZY5Ugww</id>
+    <link href="https://mp.weixin.qq.com/s/LYJMEOW43Pwdi38ZY5Ugww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>究竟为啥总在凌晨上线，如何进行无损发布</title>
     <updated>2020-12-07T21:21:56+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-27T09:02:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/aqpRwEpDPyJXqqLWYhgFmQ</id>
     <link href="https://mp.weixin.qq.com/s/aqpRwEpDPyJXqqLWYhgFmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么说，CAP是分布式理论的基础？</title>
-    <updated>2020-11-25T22:01:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/FMDBGP36ANzAXuCw83pMtw</id>
-    <link href="https://mp.weixin.qq.com/s/FMDBGP36ANzAXuCw83pMtw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

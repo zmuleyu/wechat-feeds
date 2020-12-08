@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T20:25:38+08:00</updated>
+  <updated>2020-12-08T20:35:00+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用Vue自定义指令实现右键菜单</title>
+    <updated>2020-12-08T16:58:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/xjuPfRO9f8LR5uh57zhMJw</id>
+    <link href="https://mp.weixin.qq.com/s/xjuPfRO9f8LR5uh57zhMJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何优雅地解决多个 React、Vue App 之间的状态共享</title>
+    <updated>2020-12-08T16:58:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/Yrpcj3LUrjdqmgr2mwuDmA</id>
+    <link href="https://mp.weixin.qq.com/s/Yrpcj3LUrjdqmgr2mwuDmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>玩转Redis-干掉钉子户-没有设置过期时间的key</title>
     <updated>2020-12-07T17:50:29+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-27T15:58:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/tcwtG-4nagure4rbgfrtXg</id>
     <link href="https://mp.weixin.qq.com/s/tcwtG-4nagure4rbgfrtXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新锐作者排行榜正式起航</title>
-    <updated>2020-11-27T15:58:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/bFacSIL-AiKAyYBvq7YASA</id>
-    <link href="https://mp.weixin.qq.com/s/bFacSIL-AiKAyYBvq7YASA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue3的Ref提案到底发生肾摸事了</title>
-    <updated>2020-11-26T18:03:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/V-Aa1ORRM3bEtkdNKztbcQ</id>
-    <link href="https://mp.weixin.qq.com/s/V-Aa1ORRM3bEtkdNKztbcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
