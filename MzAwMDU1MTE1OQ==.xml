@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T16:34:29+08:00</updated>
+  <updated>2020-12-08T16:29:32+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式高并发服务三种常用限流方案简介</title>
+    <updated>2020-12-08T16:09:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/zIhQuK1jmHcn5eIqhJfNkw</id>
+    <link href="https://mp.weixin.qq.com/s/zIhQuK1jmHcn5eIqhJfNkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java内存模型深入分析</title>
     <updated>2020-12-07T14:20:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-26T10:02:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/zd2K4I27KFvCnw788TIZ0A</id>
     <link href="https://mp.weixin.qq.com/s/zd2K4I27KFvCnw788TIZ0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你的微服务网关还只在用负载均衡吗？</title>
-    <updated>2020-11-25T09:38:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/NkpEUTcVHQsGXXb5sQ1Jxg</id>
-    <link href="https://mp.weixin.qq.com/s/NkpEUTcVHQsGXXb5sQ1Jxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T13:25:40+08:00</updated>
+  <updated>2020-12-08T16:25:54+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -127,13 +127,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>我帮你找到了！AI入门级比赛，能交流还好！拿！奖！</title>
-    <updated>2020-12-01T19:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/qBKi4UTxA0xTGW8P1l9byg</id>
-    <link href="https://mp.weixin.qq.com/s/qBKi4UTxA0xTGW8P1l9byg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>用 NumPy 手写 30 个主流机器学习算法，GitHub 9K 星，全都开源了！</title>
     <updated>2020-12-01T19:21:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/ehMXlqhW5oPOEzc1rVH5Fw</id>
@@ -145,6 +138,13 @@
     <updated>2020-12-01T08:25:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/RuNKtSS9QtkPBYU5uD_OXw</id>
     <link href="https://mp.weixin.qq.com/s/RuNKtSS9QtkPBYU5uD_OXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何从NumPy直接创建RNN？</title>
+    <updated>2020-12-01T08:25:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/FlNxdd7Rn-lWI9O8NfNB8w</id>
+    <link href="https://mp.weixin.qq.com/s/FlNxdd7Rn-lWI9O8NfNB8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
