@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T13:18:28+08:00</updated>
+  <updated>2020-12-09T07:39:19+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你为什么总学不会设计模式？</title>
+    <updated>2020-12-08T23:46:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/u56BZPhDIWLstxgce9saqg</id>
+    <link href="https://mp.weixin.qq.com/s/u56BZPhDIWLstxgce9saqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes集群CPU使用率高达100%，详细排查过程！</title>
+    <updated>2020-12-08T23:46:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/DZGIgWeWsFmfXzxUjMbC8g</id>
+    <link href="https://mp.weixin.qq.com/s/DZGIgWeWsFmfXzxUjMbC8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>网上找的demo有用 还做什么项目？</title>
     <updated>2020-12-07T22:32:00+08:00</updated>
@@ -36,13 +50,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>推荐：阿里工程师总结《K8s实战手册》限时下载！</title>
-    <updated>2020-12-06T18:43:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/xNmybmiPhID770lJOioJ1Q</id>
-    <link href="https://mp.weixin.qq.com/s/xNmybmiPhID770lJOioJ1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>AWS推容器与无服务器自动化管理工具Proton</title>
     <updated>2020-12-06T18:43:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/HACWdD9fRTLoCxFArCtHvg</id>
@@ -68,13 +75,6 @@
     <updated>2020-12-04T12:18:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/Uy2qScID0DwNPKWkDrFJUw</id>
     <link href="https://mp.weixin.qq.com/s/Uy2qScID0DwNPKWkDrFJUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学Java，项目重不重要？</title>
-    <updated>2020-12-03T11:34:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/s9R7gT2kuoD6tyjdAXqHYA</id>
-    <link href="https://mp.weixin.qq.com/s/s9R7gT2kuoD6tyjdAXqHYA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +117,6 @@
     <updated>2020-11-30T12:09:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/WqOIttn2qj1iOSyMcDGx6A</id>
     <link href="https://mp.weixin.qq.com/s/WqOIttn2qj1iOSyMcDGx6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>闲鱼服务端架构演进历程</title>
-    <updated>2020-11-29T20:50:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/GtVa2cIZG1mYJuSzHUUAoA</id>
-    <link href="https://mp.weixin.qq.com/s/GtVa2cIZG1mYJuSzHUUAoA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
