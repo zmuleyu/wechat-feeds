@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农翻身 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T20:18:53+08:00</updated>
+  <updated>2020-12-08T11:16:09+08:00</updated>
   <subtitle>技术本来是很精彩的啊！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见，Kafka！RocketMQ已成气候！</title>
+    <updated>2020-12-07T17:50:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/B0CGxRZTW8UPVcUX263oFg</id>
+    <link href="https://mp.weixin.qq.com/s/B0CGxRZTW8UPVcUX263oFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>扒了 Java 的皮，看见它的心</title>
+    <updated>2020-12-07T17:50:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/EZRXLOqiVcxyRa-XbBv91A</id>
+    <link href="https://mp.weixin.qq.com/s/EZRXLOqiVcxyRa-XbBv91A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“九章”量子计算机这么牛，到底有什么用？</title>
     <updated>2020-12-06T21:06:54+08:00</updated>
@@ -43,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>你真的掌握数据结构与算法了吗？</title>
-    <updated>2020-11-30T22:36:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/ecdlx7x5AwjMl5VXG5jBHA</id>
-    <link href="https://mp.weixin.qq.com/s/ecdlx7x5AwjMl5VXG5jBHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>漫画 | 再见！外包！</title>
     <updated>2020-11-29T21:05:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/t7pyDXC-YgdKYm4QqN5oWQ</id>
@@ -82,13 +89,6 @@
     <updated>2020-11-19T22:20:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/KT6ADNGRLrDA8yQ-pvNBVg</id>
     <link href="https://mp.weixin.qq.com/s/KT6ADNGRLrDA8yQ-pvNBVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | Code Review的巅峰</title>
-    <updated>2020-11-17T23:10:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/SGrNq7a1BGSV3AmKKzxuWA</id>
-    <link href="https://mp.weixin.qq.com/s/SGrNq7a1BGSV3AmKKzxuWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

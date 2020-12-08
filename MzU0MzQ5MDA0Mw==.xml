@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T13:24:45+08:00</updated>
+  <updated>2020-12-08T11:34:48+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见，Spark！Flink已成气候！</title>
+    <updated>2020-12-07T23:59:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/DzSG5qhWoQ4doW4Pkv9n5w</id>
+    <link href="https://mp.weixin.qq.com/s/DzSG5qhWoQ4doW4Pkv9n5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IntelliJ IDEA 2020.3 重大特性</title>
+    <updated>2020-12-07T23:59:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/pSLGpCdOEUgdtaeSAEOcbw</id>
+    <link href="https://mp.weixin.qq.com/s/pSLGpCdOEUgdtaeSAEOcbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>抖音、达达、得物、哈啰等企业在前端、高可用、中台上的实践</title>
     <updated>2020-12-07T10:56:46+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-11-29T16:54:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/KvWfebfPrr9b6KC1Dka9Ng</id>
     <link href="https://mp.weixin.qq.com/s/KvWfebfPrr9b6KC1Dka9Ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你知道这 8 种 SQL 错误用法吗？</title>
-    <updated>2020-11-28T01:20:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/OY3dJGLh-6q6NorX2mU1hQ</id>
-    <link href="https://mp.weixin.qq.com/s/OY3dJGLh-6q6NorX2mU1hQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
