@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Qt软件 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-11-27T20:22:15+08:00</updated>
+  <updated>2020-12-08T23:21:29+08:00</updated>
   <subtitle>The Qt Company 通过商业以及开源授权开发并提供Qt开发框架。Qt产品可以允许您跨系统、跨平台、跨屏幕重复使用软件代码，覆盖范围从桌面系统到嵌入式系统、再到可穿戴设备以及移动设备。得到了70多个行业的领导企业的青睐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新闻稿 | Qt公司正式发布Qt 6.0</title>
+    <updated>2020-12-08T22:02:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/rHwyR6JN7CdzerQ6SR1fTw</id>
+    <link href="https://mp.weixin.qq.com/s/rHwyR6JN7CdzerQ6SR1fTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>翻译 | 在Visual Studio中创建嵌入式Qt Quick应用程序（2/2）</title>
     <updated>2020-11-27T15:21:50+08:00</updated>
@@ -117,27 +124,6 @@
     <updated>2020-09-25T11:06:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-25:/s/4UIx8L__l3sN822mKSDz8Q</id>
     <link href="https://mp.weixin.qq.com/s/4UIx8L__l3sN822mKSDz8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小课堂 | Qt Design Studio - Sketch Bridge教程第一部分 （上）</title>
-    <updated>2020-09-14T16:36:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/UtS6yfsoMVxFkzsAwYJ2mw</id>
-    <link href="https://mp.weixin.qq.com/s/UtS6yfsoMVxFkzsAwYJ2mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小课堂 | Qt Design Studio - Sketch Bridge教程第一部分 （中）</title>
-    <updated>2020-09-14T16:36:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/jVlTDPtX1-6a9O3p01rASw</id>
-    <link href="https://mp.weixin.qq.com/s/jVlTDPtX1-6a9O3p01rASw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小课堂 | Qt Design Studio - Sketch Bridge教程第一部分 （下）</title>
-    <updated>2020-09-14T16:36:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/wrqSPmuY7966jgcZJ-kLoA</id>
-    <link href="https://mp.weixin.qq.com/s/wrqSPmuY7966jgcZJ-kLoA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

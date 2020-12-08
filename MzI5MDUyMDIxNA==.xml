@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T23:23:58+08:00</updated>
+  <updated>2020-12-08T23:22:04+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>统一视角理解目标检测算法：最新进展分析与总结</title>
+    <updated>2020-12-08T21:54:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/Af5ttEVuPZDCeWbZERdU2A</id>
+    <link href="https://mp.weixin.qq.com/s/Af5ttEVuPZDCeWbZERdU2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020 谷歌最新研究综述：Efficient Transformers: A Survey</title>
+    <updated>2020-12-08T21:54:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/maLYrG8nhc05tzVKYiSSMQ</id>
+    <link href="https://mp.weixin.qq.com/s/maLYrG8nhc05tzVKYiSSMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>神器：多卡同步的Batch Normalization</title>
+    <updated>2020-12-08T21:54:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/feVe4DenJlzQl7hVgugnbA</id>
+    <link href="https://mp.weixin.qq.com/s/feVe4DenJlzQl7hVgugnbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>吴恩达老师，被曝靠「教书」实现首个IPO上市，估值50亿美元</title>
+    <updated>2020-12-08T21:54:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/xZbkn7DKP-WURerHs5AkhQ</id>
+    <link href="https://mp.weixin.qq.com/s/xZbkn7DKP-WURerHs5AkhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>综述：轻量级CNN架构设计</title>
     <updated>2020-12-07T21:58:25+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-04T22:08:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/sTTzt3TiuKMKPdoozM1NCg</id>
     <link href="https://mp.weixin.qq.com/s/sTTzt3TiuKMKPdoozM1NCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>首次摆脱对梯度的依赖，CMU等开源Score-CAM：基于置信分数的视觉可解释性</title>
-    <updated>2020-12-03T21:55:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/naS_X8PdKQqveD5hbhMUoQ</id>
-    <link href="https://mp.weixin.qq.com/s/naS_X8PdKQqveD5hbhMUoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吃透空洞卷积（Dilated Convolutions）</title>
-    <updated>2020-12-03T21:55:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/3bMvVYiXc7LulNoXw5duqA</id>
-    <link href="https://mp.weixin.qq.com/s/3bMvVYiXc7LulNoXw5duqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>根据标签分布来选择损失函数</title>
-    <updated>2020-12-03T21:55:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/-gohRuV1-W1GThOhKzVaSQ</id>
-    <link href="https://mp.weixin.qq.com/s/-gohRuV1-W1GThOhKzVaSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>那些年，何恺明在顶会上的分享（附PPT下载）</title>
-    <updated>2020-12-03T21:55:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/FVUIpEun6d5K05s5yKB7Dg</id>
-    <link href="https://mp.weixin.qq.com/s/FVUIpEun6d5K05s5yKB7Dg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
