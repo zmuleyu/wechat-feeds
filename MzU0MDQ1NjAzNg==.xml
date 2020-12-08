@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T13:32:14+08:00</updated>
+  <updated>2020-12-08T13:25:40+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PyTorch初学者学习路线指南分享</title>
+    <updated>2020-12-07T22:29:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/aKhGBySlGYkJSrykZikInA</id>
+    <link href="https://mp.weixin.qq.com/s/aKhGBySlGYkJSrykZikInA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《美团机器学习实践》算法工程师必备宝典.pdf</title>
+    <updated>2020-12-07T22:29:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/A2g7w21lbB5VM_pWykEwCQ</id>
+    <link href="https://mp.weixin.qq.com/s/A2g7w21lbB5VM_pWykEwCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详尽 | PyTorch动态图解析</title>
+    <updated>2020-12-07T22:29:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/r9Idajg7oaBzPyshbfYTvg</id>
+    <link href="https://mp.weixin.qq.com/s/r9Idajg7oaBzPyshbfYTvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图像分类：来自13个Kaggle项目的经验总结</title>
+    <updated>2020-12-07T22:29:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/MsJH30YKJuZ8-BZkTu_iAQ</id>
+    <link href="https://mp.weixin.qq.com/s/MsJH30YKJuZ8-BZkTu_iAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刷题2个月，工资25k，有它真香！</title>
     <updated>2020-12-07T10:56:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-01T08:25:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/RuNKtSS9QtkPBYU5uD_OXw</id>
     <link href="https://mp.weixin.qq.com/s/RuNKtSS9QtkPBYU5uD_OXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何从NumPy直接创建RNN？</title>
-    <updated>2020-12-01T08:25:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/FlNxdd7Rn-lWI9O8NfNB8w</id>
-    <link href="https://mp.weixin.qq.com/s/FlNxdd7Rn-lWI9O8NfNB8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>港大同济伯克利推出目标检测新范式：Sparse R-CNN</title>
-    <updated>2020-11-30T08:22:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/zhcfcRlVsnmm4VtsRASp4w</id>
-    <link href="https://mp.weixin.qq.com/s/zhcfcRlVsnmm4VtsRASp4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Mask-RCNN在实例分割应用中克服过拟合</title>
-    <updated>2020-11-30T08:22:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/b_zYQBKro3U7j_iiD70wHA</id>
-    <link href="https://mp.weixin.qq.com/s/b_zYQBKro3U7j_iiD70wHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1000 面试题，BAT 机器学习面试刷题宝典！</title>
-    <updated>2020-11-29T10:05:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/jaMkISGBfW6QyvrooOnXoQ</id>
-    <link href="https://mp.weixin.qq.com/s/jaMkISGBfW6QyvrooOnXoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
