@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>健康中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T11:09:23+08:00</updated>
+  <updated>2020-12-09T13:06:31+08:00</updated>
   <subtitle>卫生健康信息发布</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>医者名片 | 急诊看病，为何没有先来后到</title>
+    <updated>2020-12-09T11:20:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/U0V_4gyhaEioeoad5Is9ng</id>
+    <link href="https://mp.weixin.qq.com/s/U0V_4gyhaEioeoad5Is9ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于加强基层医疗卫生机构发热诊室设置的通知及解读</title>
     <updated>2020-12-09T10:14:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T10:19:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/FwyqQFwGwS_6dVNcUrKSBg</id>
     <link href="https://mp.weixin.qq.com/s/FwyqQFwGwS_6dVNcUrKSBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>截至12月6日24时新型冠状病毒肺炎疫情最新情况</title>
-    <updated>2020-12-07T08:14:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/vDObPbwdNHo94tqrSGWgrg</id>
-    <link href="https://mp.weixin.qq.com/s/vDObPbwdNHo94tqrSGWgrg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T13:11:57+08:00</updated>
+  <updated>2020-12-09T13:29:42+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GitOps 初创公司 WeaveWorks 宣布 C 轮融资 3600 万美元</title>
+    <updated>2020-12-09T12:11:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/NN6wt7i4VL98IFF0xqC7yw</id>
+    <link href="https://mp.weixin.qq.com/s/NN6wt7i4VL98IFF0xqC7yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Envoy 官方文档翻译进度更新及成员招募</title>
     <updated>2020-12-04T12:52:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-04T16:19:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/wqVXmc--exLuKqC5xZ9eWQ</id>
     <link href="https://mp.weixin.qq.com/s/wqVXmc--exLuKqC5xZ9eWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Istio 1.7 版本有哪些新内容？虚拟机身份、简化版证书管理等更多功能！</title>
-    <updated>2020-10-29T12:14:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/Fxc7GslVa8IBPp_X2GgR7w</id>
-    <link href="https://mp.weixin.qq.com/s/Fxc7GslVa8IBPp_X2GgR7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
