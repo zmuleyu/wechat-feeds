@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T20:36:56+08:00</updated>
+  <updated>2020-12-09T23:18:46+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-09 async-std v1.8.0 发布</title>
+    <updated>2020-12-09T22:40:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/7-b4uUy7EhRRXQDG-j_-Tg</id>
+    <link href="https://mp.weixin.qq.com/s/7-b4uUy7EhRRXQDG-j_-Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-12-08 Rust核心团队发起“基金会对话”活动</title>
+    <updated>2020-12-09T22:40:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/sph5HYoG-pWHIiQXrCfnrw</id>
+    <link href="https://mp.weixin.qq.com/s/sph5HYoG-pWHIiQXrCfnrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>跟我一起，了解 Rust 大会的筹备盛况</title>
     <updated>2020-12-08T18:08:15+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-30T10:57:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/HbeyMYKQ6sKYdS73e3F80w</id>
     <link href="https://mp.weixin.qq.com/s/HbeyMYKQ6sKYdS73e3F80w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-29 Rustup 1.23.0 支持 Apple M1设备</title>
-    <updated>2020-11-29T23:54:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/rQJmPdHhCn9e_ccLMeQL3Q</id>
-    <link href="https://mp.weixin.qq.com/s/rQJmPdHhCn9e_ccLMeQL3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-28 如何在rust的路上前进</title>
-    <updated>2020-11-29T23:54:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/2taR0pC4sB76blUtUQeWhQ</id>
-    <link href="https://mp.weixin.qq.com/s/2taR0pC4sB76blUtUQeWhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

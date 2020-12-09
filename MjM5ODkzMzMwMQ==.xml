@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T23:40:06+08:00</updated>
+  <updated>2020-12-09T23:18:28+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么全网都劝你不要学C++？</title>
+    <updated>2020-12-09T19:27:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/wOsNNbLnOpnh-L7tsACgMw</id>
+    <link href="https://mp.weixin.qq.com/s/wOsNNbLnOpnh-L7tsACgMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>知识图谱上的双塔召回：阿里的IntentGC模型</title>
+    <updated>2020-12-09T19:27:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/GK4i71fUSzCMoJuN9TvriQ</id>
+    <link href="https://mp.weixin.qq.com/s/GK4i71fUSzCMoJuN9TvriQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>文本分类综述 | 迈向NLP大师的第一步（下）</title>
+    <updated>2020-12-09T19:27:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/YqPzFcDMhgL9-1kmx3YeZg</id>
+    <link href="https://mp.weixin.qq.com/s/YqPzFcDMhgL9-1kmx3YeZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BERT-of-Theseus：模块替换，交替训练</title>
+    <updated>2020-12-09T19:27:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/vnrDnWhCNzlCe05ovkBbXw</id>
+    <link href="https://mp.weixin.qq.com/s/vnrDnWhCNzlCe05ovkBbXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>短文本相似度-CNN_SIM</title>
+    <updated>2020-12-09T19:27:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/D7raFD_PK-9L15JSBfCYJg</id>
+    <link href="https://mp.weixin.qq.com/s/D7raFD_PK-9L15JSBfCYJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐几个前沿主题方向！</title>
     <updated>2020-12-08T21:51:55+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-06T22:48:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/0DAebzdpOiowoBJz2ZtINQ</id>
     <link href="https://mp.weixin.qq.com/s/0DAebzdpOiowoBJz2ZtINQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无中生有：论推荐算法中的Embedding思想</title>
-    <updated>2020-12-05T22:33:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/ecF-0jRe2B-sXVOmgrjgKw</id>
-    <link href="https://mp.weixin.qq.com/s/ecF-0jRe2B-sXVOmgrjgKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NLP.TM | 我的NLP学习之路</title>
-    <updated>2020-12-05T22:33:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/bmqxY5StNUUaJ8fyXRDwpw</id>
-    <link href="https://mp.weixin.qq.com/s/bmqxY5StNUUaJ8fyXRDwpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于Milvus的向量搜索实践（一）</title>
-    <updated>2020-12-05T22:33:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/g2PXTkqehq7HhryUtsYnQQ</id>
-    <link href="https://mp.weixin.qq.com/s/g2PXTkqehq7HhryUtsYnQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>事理图谱：事件演化的规律和模式</title>
-    <updated>2020-12-05T22:33:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/2651cVrhVcGD7ZmDPwL_PA</id>
-    <link href="https://mp.weixin.qq.com/s/2651cVrhVcGD7ZmDPwL_PA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百度自然语言处理算法秋招面经</title>
-    <updated>2020-12-05T22:33:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/GfbaQj5ErKnTMOw8tCSypg</id>
-    <link href="https://mp.weixin.qq.com/s/GfbaQj5ErKnTMOw8tCSypg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

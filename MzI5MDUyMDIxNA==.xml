@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T23:22:04+08:00</updated>
+  <updated>2020-12-09T23:22:44+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>完全解析：使用Faiss进行海量特征的相似度匹配</title>
+    <updated>2020-12-09T21:54:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/i_K8eBqAoeuJ4gwOBmufOA</id>
+    <link href="https://mp.weixin.qq.com/s/i_K8eBqAoeuJ4gwOBmufOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>全面超越BN/GN/LN/IN！归一化新方法BGN，解决因Batch Size大小带来的训练不稳定问题</title>
+    <updated>2020-12-09T21:54:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/f7R9akK-rmJ5TaQbRZiQRw</id>
+    <link href="https://mp.weixin.qq.com/s/f7R9akK-rmJ5TaQbRZiQRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文梳理无监督对比学习（MoCo/SimCLR/SwAV/BYOL/SimSiam）</title>
+    <updated>2020-12-09T21:54:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/cn_IQyBBdSpQVGs1FlTb6A</id>
+    <link href="https://mp.weixin.qq.com/s/cn_IQyBBdSpQVGs1FlTb6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高中生都在研究神经网络，我这个老师力不从心了</title>
+    <updated>2020-12-09T21:54:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/sYxYObkPNrIV-tlIfa-Bsw</id>
+    <link href="https://mp.weixin.qq.com/s/sYxYObkPNrIV-tlIfa-Bsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>统一视角理解目标检测算法：最新进展分析与总结</title>
     <updated>2020-12-08T21:54:49+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-05T21:54:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/zP0s-kMwkAdluMw-HweiVw</id>
     <link href="https://mp.weixin.qq.com/s/zP0s-kMwkAdluMw-HweiVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ACCV2020国际细粒度网络图像识别冠军方案解读、经验总结</title>
-    <updated>2020-12-04T22:08:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/lPWd7Zvcmm5Sjqp17_dRTA</id>
-    <link href="https://mp.weixin.qq.com/s/lPWd7Zvcmm5Sjqp17_dRTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AdvFlow：一种基于标准化流的黑盒攻击新方法，产生更难被发觉的对抗样本 | NeurIPS 2020</title>
-    <updated>2020-12-04T22:08:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/BziftkSutaBCkk0VEdFRnw</id>
-    <link href="https://mp.weixin.qq.com/s/BziftkSutaBCkk0VEdFRnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>结构最清晰的Yolov3 head和loss实现完全解析</title>
-    <updated>2020-12-04T22:08:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/54jwzgrxkq_52u7Z86ipOA</id>
-    <link href="https://mp.weixin.qq.com/s/54jwzgrxkq_52u7Z86ipOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国首次实现量子优越性！比谷歌突破更厉害，比最强超级计算机快一百万亿倍 | Science</title>
-    <updated>2020-12-04T22:08:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/sTTzt3TiuKMKPdoozM1NCg</id>
-    <link href="https://mp.weixin.qq.com/s/sTTzt3TiuKMKPdoozM1NCg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

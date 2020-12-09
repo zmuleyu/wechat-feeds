@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T23:36:19+08:00</updated>
+  <updated>2020-12-09T23:25:00+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CentOS Linux的未来是CentOS Stream</title>
+    <updated>2020-12-09T21:12:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/dWforMbMsmL3ljSE8zsqjw</id>
+    <link href="https://mp.weixin.qq.com/s/dWforMbMsmL3ljSE8zsqjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>@所有人，携手红帽、腾讯云官方考证居然能便宜这么多？戳→</title>
+    <updated>2020-12-09T21:12:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/zlEMbnd9UW7AlRW5dBe21A</id>
+    <link href="https://mp.weixin.qq.com/s/zlEMbnd9UW7AlRW5dBe21A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从WEB SSH实战聊聊DevOps运维开发</title>
+    <updated>2020-12-09T21:12:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/niFicLwB2Uv-IjVMn7bmiQ</id>
+    <link href="https://mp.weixin.qq.com/s/niFicLwB2Uv-IjVMn7bmiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Shell的管道与重定向</title>
     <updated>2020-12-08T21:46:55+08:00</updated>
@@ -124,20 +145,6 @@
     <updated>2020-11-30T22:05:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/wGNeGPL6V_UwWnkCVxQIiw</id>
     <link href="https://mp.weixin.qq.com/s/wGNeGPL6V_UwWnkCVxQIiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈Nginx性能调优</title>
-    <updated>2020-11-29T22:19:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/mrS7kZX6MgLzaKP8Jv1ypg</id>
-    <link href="https://mp.weixin.qq.com/s/mrS7kZX6MgLzaKP8Jv1ypg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5internet和http协议相关技术</title>
-    <updated>2020-11-29T22:19:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/AR_EKT4Qc-GXUt15Cl3r-g</id>
-    <link href="https://mp.weixin.qq.com/s/AR_EKT4Qc-GXUt15Cl3r-g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
