@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>justjavac | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T20:15:29+08:00</updated>
+  <updated>2020-12-09T11:18:41+08:00</updated>
   <subtitle>专注时下最新的Web技术，分享原创及翻译文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动年底招聘 10000 人，看看你符合条件么？</title>
+    <updated>2020-12-08T19:58:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/TnrkUoeh8cOJBLGoFsdRTg</id>
+    <link href="https://mp.weixin.qq.com/s/TnrkUoeh8cOJBLGoFsdRTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员专属游戏 Screeps：使用 JS/TS 代码控制自己的殖民地</title>
     <updated>2020-12-04T17:15:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-27T16:01:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/0Wpy-vSqKish_ycIYdDzzw</id>
     <link href="https://mp.weixin.qq.com/s/0Wpy-vSqKish_ycIYdDzzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>逐行分析鸿蒙系统的 JavaScript 框架</title>
-    <updated>2020-09-15T16:49:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-15:/s/rgitaaWEIASCd8n79POIBw</id>
-    <link href="https://mp.weixin.qq.com/s/rgitaaWEIASCd8n79POIBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

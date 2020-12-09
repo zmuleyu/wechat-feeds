@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T16:29:32+08:00</updated>
+  <updated>2020-12-09T11:21:25+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构师很惊讶：千万级流量，不上异地多活吗？</title>
+    <updated>2020-12-08T23:51:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/wl96IfMXuacSeG-__UJRmA</id>
+    <link href="https://mp.weixin.qq.com/s/wl96IfMXuacSeG-__UJRmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分布式高并发服务三种常用限流方案简介</title>
     <updated>2020-12-08T16:09:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-29T20:26:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/5nUqazLLV67H824Jg6kd_A</id>
     <link href="https://mp.weixin.qq.com/s/5nUqazLLV67H824Jg6kd_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美图全链路监控实战</title>
-    <updated>2020-11-26T10:02:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/zd2K4I27KFvCnw788TIZ0A</id>
-    <link href="https://mp.weixin.qq.com/s/zd2K4I27KFvCnw788TIZ0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

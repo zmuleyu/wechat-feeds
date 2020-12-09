@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T20:35:00+08:00</updated>
+  <updated>2020-12-09T11:29:27+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于有限状态机与消息队列的三方支付系统补单实践</title>
+    <updated>2020-12-08T17:02:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/xga6LHJ3c5rUWrgHja2h_g</id>
+    <link href="https://mp.weixin.qq.com/s/xga6LHJ3c5rUWrgHja2h_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Shopee IconBot】Figma + Gitlab CI 一键交付 SVG 多色图标库</title>
+    <updated>2020-12-08T17:02:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/jcOx0S3vZp60GYsURFW9UA</id>
+    <link href="https://mp.weixin.qq.com/s/jcOx0S3vZp60GYsURFW9UA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用Vue自定义指令实现右键菜单</title>
     <updated>2020-12-08T16:58:05+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-30T17:36:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/GyWJ2EiTDYXCDEZIZQ8KJA</id>
     <link href="https://mp.weixin.qq.com/s/GyWJ2EiTDYXCDEZIZQ8KJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新锐作者排行榜正式起航</title>
-    <updated>2020-11-30T17:36:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/Bxd7DOigX1LwXa9OB1j7mw</id>
-    <link href="https://mp.weixin.qq.com/s/Bxd7DOigX1LwXa9OB1j7mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入了解前端监控原理</title>
-    <updated>2020-11-27T15:58:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/tcwtG-4nagure4rbgfrtXg</id>
-    <link href="https://mp.weixin.qq.com/s/tcwtG-4nagure4rbgfrtXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T11:29:56+08:00</updated>
+  <updated>2020-12-09T11:10:29+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年最后一场K8s实战培训</title>
+    <updated>2020-12-09T09:19:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/y89AU_zdnRpST_DZMRF8eQ</id>
+    <link href="https://mp.weixin.qq.com/s/y89AU_zdnRpST_DZMRF8eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 1.20正式发布</title>
+    <updated>2020-12-09T09:19:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/6nWWuhL7OUgHYEs8Yw6VmQ</id>
+    <link href="https://mp.weixin.qq.com/s/6nWWuhL7OUgHYEs8Yw6VmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 GitLab 做 CI/CD 是什么感觉，太强了</title>
     <updated>2020-12-08T07:31:27+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-28T23:33:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/x44hPx2NOyLHOA6wBcHEhQ</id>
     <link href="https://mp.weixin.qq.com/s/x44hPx2NOyLHOA6wBcHEhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes从理论到实战培训</title>
-    <updated>2020-11-28T23:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/mRobDwv-4ghh-FGWQfZDKA</id>
-    <link href="https://mp.weixin.qq.com/s/mRobDwv-4ghh-FGWQfZDKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器技术的发展与基本原理 | 留言送书</title>
-    <updated>2020-11-27T22:50:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/8VCm0aQulvipQTALyC-sbA</id>
-    <link href="https://mp.weixin.qq.com/s/8VCm0aQulvipQTALyC-sbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

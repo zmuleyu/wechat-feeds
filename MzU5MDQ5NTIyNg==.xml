@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-02T13:10:18+08:00</updated>
+  <updated>2020-12-09T11:35:24+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】为什么Rust中的BTreeMap没有with_capacity()方法？</title>
+    <updated>2020-12-08T22:29:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-08:/s/AlrgIoxCGGoizQkVqoExsw</id>
+    <link href="https://mp.weixin.qq.com/s/AlrgIoxCGGoizQkVqoExsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【译】理解Rust中的局部移动</title>
     <updated>2020-12-02T11:37:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-25T16:29:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/a_ce1th-YQtbN_DVvfLEYA</id>
     <link href="https://mp.weixin.qq.com/s/a_ce1th-YQtbN_DVvfLEYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】Rust，无畏并发</title>
-    <updated>2020-10-18T12:27:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/_ag435njXQa2oWzfKioVJQ</id>
-    <link href="https://mp.weixin.qq.com/s/_ag435njXQa2oWzfKioVJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
