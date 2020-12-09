@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T20:44:14+08:00</updated>
+  <updated>2020-12-09T20:12:31+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>14W 行代码量的前端页面长什么样</title>
+    <updated>2020-12-09T15:39:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/3J8kKArFGjjDFOr4aryNIg</id>
+    <link href="https://mp.weixin.qq.com/s/3J8kKArFGjjDFOr4aryNIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯关系型数据库达成“双百”里程碑——6大企业级MySQL特性全面解析</title>
+    <updated>2020-12-09T15:39:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/8bMRn48xdV5e5JQ_ULxhuw</id>
+    <link href="https://mp.weixin.qq.com/s/8bMRn48xdV5e5JQ_ULxhuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万字详文阐释程序员修炼之道</title>
     <updated>2020-12-07T17:05:41+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-11-18T16:36:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/P9pLy3mw0WXxMSHsLuAxbQ</id>
     <link href="https://mp.weixin.qq.com/s/P9pLy3mw0WXxMSHsLuAxbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个即将写入MySQL源码的官方bug解决之路</title>
-    <updated>2020-11-16T16:53:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/qklCeG3OvHrHBJajx_GKGw</id>
-    <link href="https://mp.weixin.qq.com/s/qklCeG3OvHrHBJajx_GKGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

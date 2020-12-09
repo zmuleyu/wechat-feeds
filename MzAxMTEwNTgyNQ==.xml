@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国电影资料馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T16:39:08+08:00</updated>
+  <updated>2020-12-09T20:30:07+08:00</updated>
   <subtitle>定期发布资料馆信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明日放映 | 旧书之中有秘密</title>
+    <updated>2020-12-09T19:17:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/pm5hAlSPr4F36iRiUqLipA</id>
+    <link href="https://mp.weixin.qq.com/s/pm5hAlSPr4F36iRiUqLipA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《赤狐书生》的改编：从小说到影像</title>
     <updated>2020-12-08T16:59:22+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-11-28T20:57:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/88MbRcygLxGJRxlrWgQ65Q</id>
     <link href="https://mp.weixin.qq.com/s/88MbRcygLxGJRxlrWgQ65Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ciao！费德里科·费里尼百年诞辰纪念五城巡展</title>
-    <updated>2020-11-27T17:18:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/IENyp5l1S6W5Oonqx7UK7Q</id>
-    <link href="https://mp.weixin.qq.com/s/IENyp5l1S6W5Oonqx7UK7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明日放映 | 梦是唯一的现实</title>
-    <updated>2020-11-27T17:18:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/BfdGtSQWNx3PTxNqZtWvhQ</id>
-    <link href="https://mp.weixin.qq.com/s/BfdGtSQWNx3PTxNqZtWvhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

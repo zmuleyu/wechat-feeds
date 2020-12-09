@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T20:33:16+08:00</updated>
+  <updated>2020-12-09T20:23:50+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【源头活水】丢弃Transformer，FCN也可以实现E2E检测</title>
+    <updated>2020-12-09T18:25:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/elZ6u9PFV5sRDW-3eGVYZA</id>
+    <link href="https://mp.weixin.qq.com/s/elZ6u9PFV5sRDW-3eGVYZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】编译PyTorch静态库</title>
+    <updated>2020-12-09T18:25:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/IqRf-B3YCszAZwfVRR3rKQ</id>
+    <link href="https://mp.weixin.qq.com/s/IqRf-B3YCszAZwfVRR3rKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【综述专栏】对抗训练——终极数据增强？</title>
     <updated>2020-12-08T18:03:54+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-30T18:59:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/KhYrlT0ETBaTzAtP-5YPig</id>
     <link href="https://mp.weixin.qq.com/s/KhYrlT0ETBaTzAtP-5YPig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】python从零开始构建知识图谱</title>
-    <updated>2020-11-30T18:59:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/MpNqFzPVtFVg4DyTPoEmIw</id>
-    <link href="https://mp.weixin.qq.com/s/MpNqFzPVtFVg4DyTPoEmIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI91×CRIPAC 组合泛化专题</title>
-    <updated>2020-11-30T18:59:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/cIR9_QiukSUPWVkntIiSIQ</id>
-    <link href="https://mp.weixin.qq.com/s/cIR9_QiukSUPWVkntIiSIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

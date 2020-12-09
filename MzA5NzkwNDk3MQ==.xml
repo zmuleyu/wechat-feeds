@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T20:30:21+08:00</updated>
+  <updated>2020-12-09T20:12:55+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于 qiankun 的微前端最佳实践</title>
+    <updated>2020-12-09T16:52:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/5BhiyfP4JtXThz2rO0_P4g</id>
+    <link href="https://mp.weixin.qq.com/s/5BhiyfP4JtXThz2rO0_P4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团-即视 招高级前端开发工程师</title>
+    <updated>2020-12-09T16:52:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/qqnuaHd0fu3hDbx3B_BNqw</id>
+    <link href="https://mp.weixin.qq.com/s/qqnuaHd0fu3hDbx3B_BNqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-12-09T16:52:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/n7YSjONCemBCkyp3oN6JFw</id>
+    <link href="https://mp.weixin.qq.com/s/n7YSjONCemBCkyp3oN6JFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇舞周刊第 375 期：Element UI for Vue 3.0 来了！</title>
     <updated>2020-12-04T18:13:27+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-26T20:23:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/BYo6611rRryfiR3sZ3oHjA</id>
     <link href="https://mp.weixin.qq.com/s/BYo6611rRryfiR3sZ3oHjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文带你快速上手Rollup</title>
-    <updated>2020-11-25T16:58:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/rlpDRrW_b4lKk0IQarmOjw</id>
-    <link href="https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团-即视 招高级前端开发工程师</title>
-    <updated>2020-11-25T16:58:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/4Jr-NJ8DO_hulgJdrDEYpw</id>
-    <link href="https://mp.weixin.qq.com/s/4Jr-NJ8DO_hulgJdrDEYpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-11-25T16:58:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/Orx4ZkyJ4BkaaTD1wG-rag</id>
-    <link href="https://mp.weixin.qq.com/s/Orx4ZkyJ4BkaaTD1wG-rag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
