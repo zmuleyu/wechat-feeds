@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T20:30:01+08:00</updated>
+  <updated>2020-12-09T16:21:23+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CentOS 并没有死</title>
+    <updated>2020-12-09T15:40:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/INirlstgR84iwLFOUssgaA</id>
+    <link href="https://mp.weixin.qq.com/s/INirlstgR84iwLFOUssgaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache ShardingSphere整合Atomikos源码解析</title>
+    <updated>2020-12-09T15:40:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/xX2e6F1Yd6_3_zMTS23TsQ</id>
+    <link href="https://mp.weixin.qq.com/s/xX2e6F1Yd6_3_zMTS23TsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软：Excel公式是世界上使用最广泛的编程语言</title>
+    <updated>2020-12-09T15:40:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/UzaTFXQykw0zSXtXDeY1lA</id>
+    <link href="https://mp.weixin.qq.com/s/UzaTFXQykw0zSXtXDeY1lA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Qt 6 正式发布</title>
+    <updated>2020-12-09T15:40:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/nWKlCw3oRkFXCEgOHc_vZA</id>
+    <link href="https://mp.weixin.qq.com/s/nWKlCw3oRkFXCEgOHc_vZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有光即有网|Linux将支持基于Li-Fi 的新型网络技术</title>
+    <updated>2020-12-09T15:40:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/5s9d0k8zeReddac_Pv2K1w</id>
+    <link href="https://mp.weixin.qq.com/s/5s9d0k8zeReddac_Pv2K1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中国“量子霸权”成果：比最快超级计算机快一百万亿倍</title>
     <updated>2020-12-08T16:49:21+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-05T13:38:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/fFm2HcXHMp48Fjm1clg-fQ</id>
     <link href="https://mp.weixin.qq.com/s/fFm2HcXHMp48Fjm1clg-fQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>没想到 Hash 冲突还能这么玩，你的服务中招了吗？</title>
-    <updated>2020-12-05T13:38:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/q6kHKj-KStwglMRt--I76w</id>
-    <link href="https://mp.weixin.qq.com/s/q6kHKj-KStwglMRt--I76w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>惊！Kubernetes 将弃用 Docker，开发者们怎么办？</title>
-    <updated>2020-12-04T18:08:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/AQsdtzQirRZGahUdMrdkjQ</id>
-    <link href="https://mp.weixin.qq.com/s/AQsdtzQirRZGahUdMrdkjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker 恶意软件泛滥，开发人员需谨慎</title>
-    <updated>2020-12-04T18:08:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/_rdaKe9Og0Geg-_GHwAcQA</id>
-    <link href="https://mp.weixin.qq.com/s/_rdaKe9Og0Geg-_GHwAcQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenZFS 2.0.0正式发布，支持平台方面获重大突破！</title>
-    <updated>2020-12-04T18:08:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/moRCc0sKqnjVlwYXoE2Cbg</id>
-    <link href="https://mp.weixin.qq.com/s/moRCc0sKqnjVlwYXoE2Cbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据库大战，AWS又将目标瞄准了微软SQL Server</title>
-    <updated>2020-12-04T18:08:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/ohTtsQ8kjMf9u6SJxmCEfg</id>
-    <link href="https://mp.weixin.qq.com/s/ohTtsQ8kjMf9u6SJxmCEfg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
