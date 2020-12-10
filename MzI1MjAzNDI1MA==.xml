@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:18:46+08:00</updated>
+  <updated>2020-12-10T23:21:21+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软引入 Rust，这门语言终于要火了吗？</title>
+    <updated>2020-12-10T22:12:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/MUWFITD2JILIx5zlS59jnQ</id>
+    <link href="https://mp.weixin.qq.com/s/MUWFITD2JILIx5zlS59jnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】一个导出结构体及其成员的过程宏（懒人福利）</title>
+    <updated>2020-12-10T22:12:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/epGUGpQ6P32LuXW27-5iOA</id>
+    <link href="https://mp.weixin.qq.com/s/epGUGpQ6P32LuXW27-5iOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-09 async-std v1.8.0 发布</title>
     <updated>2020-12-09T22:40:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-01T20:50:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/RsOo0AyWwagp5KKqyXp9dw</id>
     <link href="https://mp.weixin.qq.com/s/RsOo0AyWwagp5KKqyXp9dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-11-30 编写 Rust 的 23 条基本规则和建议</title>
-    <updated>2020-12-01T20:50:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/uwcg49MViWO8A_1wyTA2Eg</id>
-    <link href="https://mp.weixin.qq.com/s/uwcg49MViWO8A_1wyTA2Eg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>劲爆：首届中国Rust语言大会终于来了！</title>
-    <updated>2020-11-30T10:57:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/HbeyMYKQ6sKYdS73e3F80w</id>
-    <link href="https://mp.weixin.qq.com/s/HbeyMYKQ6sKYdS73e3F80w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

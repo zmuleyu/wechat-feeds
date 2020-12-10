@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:25:00+08:00</updated>
+  <updated>2020-12-10T23:26:55+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文详解 Ansible 的自动化运维</title>
+    <updated>2020-12-10T23:08:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/W5FfxsJYEsmrv_Y8aBrSMQ</id>
+    <link href="https://mp.weixin.qq.com/s/W5FfxsJYEsmrv_Y8aBrSMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【爆】2021年小米、新浪、百度告诉你，Linux运维人必须提升到SRE！没得选！</title>
+    <updated>2020-12-10T23:08:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/JGpHiqg9Wm4mmOZpCR_qLw</id>
+    <link href="https://mp.weixin.qq.com/s/JGpHiqg9Wm4mmOZpCR_qLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2小时实现LNMP个人博客站点实操</title>
+    <updated>2020-12-10T23:08:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/pO5At5lgpiYLXxAPc4GfqA</id>
+    <link href="https://mp.weixin.qq.com/s/pO5At5lgpiYLXxAPc4GfqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CentOS Linux的未来是CentOS Stream</title>
     <updated>2020-12-09T21:12:50+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-01T21:50:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/tpAqnmnVhDkSzUX2W1Vp5g</id>
     <link href="https://mp.weixin.qq.com/s/tpAqnmnVhDkSzUX2W1Vp5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HAProxy安装及全局配置参数</title>
-    <updated>2020-12-01T21:50:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/H_cUjOg0H4qn_9TSxajHIg</id>
-    <link href="https://mp.weixin.qq.com/s/H_cUjOg0H4qn_9TSxajHIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么不建议把数据库部署在Docker容器内</title>
-    <updated>2020-11-30T22:05:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/D2yYb3cuXVuy2Fo1x3Quxg</id>
-    <link href="https://mp.weixin.qq.com/s/D2yYb3cuXVuy2Fo1x3Quxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Web架构基础及HAProxy简介</title>
-    <updated>2020-11-30T22:05:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/wGNeGPL6V_UwWnkCVxQIiw</id>
-    <link href="https://mp.weixin.qq.com/s/wGNeGPL6V_UwWnkCVxQIiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

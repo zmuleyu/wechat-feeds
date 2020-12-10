@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T13:22:10+08:00</updated>
+  <updated>2020-12-10T23:19:13+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>11 月全国程序员平均工资出炉，猜猜 Python 排第几？</title>
+    <updated>2020-12-10T17:32:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/qBagnnsHQ1XMZ07cR07Kuw</id>
+    <link href="https://mp.weixin.qq.com/s/qBagnnsHQ1XMZ07cR07Kuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这个 2 万 Star 的中文 Python 资源太棒了</title>
+    <updated>2020-12-10T17:32:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/sO9LRWi-WeI-mYLNyFJOCw</id>
+    <link href="https://mp.weixin.qq.com/s/sO9LRWi-WeI-mYLNyFJOCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文快速掌握 scrapy 爬虫框架</title>
+    <updated>2020-12-10T17:32:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/WiJX7k4Jy-_FVphJyq7LXQ</id>
+    <link href="https://mp.weixin.qq.com/s/WiJX7k4Jy-_FVphJyq7LXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>互联网内卷开始……</title>
     <updated>2020-12-09T09:49:10+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-02T23:35:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/-2GSl0Dhp1ciTe8ingPYaw</id>
     <link href="https://mp.weixin.qq.com/s/-2GSl0Dhp1ciTe8ingPYaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员用 M1 MacBook 当主力开发机​是什么体验？</title>
-    <updated>2020-12-01T14:20:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/AchFY9Rs8eD8TtD3PkzuTw</id>
-    <link href="https://mp.weixin.qq.com/s/AchFY9Rs8eD8TtD3PkzuTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 Tensorflow 构建 ResNet 深度残差网络</title>
-    <updated>2020-12-01T14:20:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/VAEX5XXqzUytS74adSOj1A</id>
-    <link href="https://mp.weixin.qq.com/s/VAEX5XXqzUytS74adSOj1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>7 个省时高效的 pytest 特性和插件</title>
-    <updated>2020-11-30T21:14:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/XThC0ugpoVBlV-FWg9aXww</id>
-    <link href="https://mp.weixin.qq.com/s/XThC0ugpoVBlV-FWg9aXww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

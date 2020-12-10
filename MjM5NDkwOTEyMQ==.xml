@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T23:21:29+08:00</updated>
+  <updated>2020-12-10T23:33:13+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【DevFest 2020】嘉宾实录总结：《面向手机端的大规模分类算法- Hamming 分类器》by肖嵘 ｜ 主会场</title>
+    <updated>2020-12-10T20:59:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/-GiG5LIsNF1iioLvNVMapA</id>
+    <link href="https://mp.weixin.qq.com/s/-GiG5LIsNF1iioLvNVMapA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rosetta 0.3.0 版本正式发布！系统性能与稳定性进一步提升</title>
+    <updated>2020-12-10T20:59:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/gu--M1gwAduPVEfOXMBFSQ</id>
+    <link href="https://mp.weixin.qq.com/s/gu--M1gwAduPVEfOXMBFSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【活动回顾】从工程化维度懂AI，这里有你想要的干货回顾！</title>
     <updated>2020-12-08T20:20:29+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-11-23T19:18:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/tx6VzrcwZiFfyv2_z7VZ5g</id>
     <link href="https://mp.weixin.qq.com/s/tx6VzrcwZiFfyv2_z7VZ5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【DevFest 2020】线上线下参会须知请收好，明天与你不见不散！</title>
-    <updated>2020-11-21T17:37:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/fZ16XquwRy0J2fnlh8UeEQ</id>
-    <link href="https://mp.weixin.qq.com/s/fZ16XquwRy0J2fnlh8UeEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

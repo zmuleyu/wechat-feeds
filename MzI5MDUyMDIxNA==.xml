@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:22:44+08:00</updated>
+  <updated>2020-12-10T23:26:26+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>四类异常检测算法综述：Isolation Forest、LOF、PCA及DAGMM</title>
+    <updated>2020-12-10T22:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/LlFQ-73hkgRENQiacwKHEg</id>
+    <link href="https://mp.weixin.qq.com/s/LlFQ-73hkgRENQiacwKHEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ACCV2020国际细粒度识别比赛季军方案解读及Tricks汇总</title>
+    <updated>2020-12-10T22:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/YXwwgOZR9nInhjzaqZbbfg</id>
+    <link href="https://mp.weixin.qq.com/s/YXwwgOZR9nInhjzaqZbbfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>卷积神经网络与Transformer结合，东南大学提出视频帧合成新架构</title>
+    <updated>2020-12-10T22:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/eZ05Pp4bIvVz2gENw26b8g</id>
+    <link href="https://mp.weixin.qq.com/s/eZ05Pp4bIvVz2gENw26b8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌CEO皮猜致歉，被解雇的AI伦理研究员：根本没有认错</title>
+    <updated>2020-12-10T22:09:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/pB0lPQYLwEcZYOvKgnxARw</id>
+    <link href="https://mp.weixin.qq.com/s/pB0lPQYLwEcZYOvKgnxARw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>完全解析：使用Faiss进行海量特征的相似度匹配</title>
     <updated>2020-12-09T21:54:55+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-06T22:00:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/ZVbVtZ664mt6E6O4E3oK0w</id>
     <link href="https://mp.weixin.qq.com/s/ZVbVtZ664mt6E6O4E3oK0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 图像超分最新综述及上采样技术一览</title>
-    <updated>2020-12-05T21:54:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/F2riTgFxF_7XcIA_QLM6_A</id>
-    <link href="https://mp.weixin.qq.com/s/F2riTgFxF_7XcIA_QLM6_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>道理我都懂，但是神经网络反向传播时的梯度到底怎么求？</title>
-    <updated>2020-12-05T21:54:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/FbA3qMPDcRdN-rtaz5Of5Q</id>
-    <link href="https://mp.weixin.qq.com/s/FbA3qMPDcRdN-rtaz5Of5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Label Smoothing分析</title>
-    <updated>2020-12-05T21:54:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/CSMMW5L9Pt5cfayKnKNnkA</id>
-    <link href="https://mp.weixin.qq.com/s/CSMMW5L9Pt5cfayKnKNnkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从高中辍学到获最佳学生论文——清华硕士王义达的非典型AI之路</title>
-    <updated>2020-12-05T21:54:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/zP0s-kMwkAdluMw-HweiVw</id>
-    <link href="https://mp.weixin.qq.com/s/zP0s-kMwkAdluMw-HweiVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
