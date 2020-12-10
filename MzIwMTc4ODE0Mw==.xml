@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:13:53+08:00</updated>
+  <updated>2020-12-10T13:07:44+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于结构化数据的文本生成：非严格对齐生成任务及动态轻量的GCN生成模型</title>
+    <updated>2020-12-10T13:06:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/_eowg7vfVDZSogmmaPEw2w</id>
+    <link href="https://mp.weixin.qq.com/s/_eowg7vfVDZSogmmaPEw2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这可能是你近2年发论文最好机会！</title>
+    <updated>2020-12-10T13:06:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/rIO8SBM79hr_j7QQQZ3Hlw</id>
+    <link href="https://mp.weixin.qq.com/s/rIO8SBM79hr_j7QQQZ3Hlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>B站疯传，一整套人工智能学习资料免费送，不谢！</title>
     <updated>2020-12-09T20:35:22+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-03T18:26:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/kI1_8ROV_hr8SjhMaAZGXQ</id>
     <link href="https://mp.weixin.qq.com/s/kI1_8ROV_hr8SjhMaAZGXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AI工程师面试凭高频问题提前准备，命中率会是多少？</title>
-    <updated>2020-12-02T18:05:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/N0V_a0Do_HMMn0jtEVmTNQ</id>
-    <link href="https://mp.weixin.qq.com/s/N0V_a0Do_HMMn0jtEVmTNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>探究Softmax的替代品：exp(x)的偶次泰勒展开式总是正的</title>
-    <updated>2020-12-02T18:05:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/EaeVywxcQX3goW7WqYiOBA</id>
-    <link href="https://mp.weixin.qq.com/s/EaeVywxcQX3goW7WqYiOBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

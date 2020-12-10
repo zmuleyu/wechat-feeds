@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CVer | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T13:29:37+08:00</updated>
+  <updated>2020-12-10T13:22:49+08:00</updated>
   <subtitle>一个专注侃侃计算机视觉方向的公众号。计算机视觉、图像处理、机器学习、深度学习、C/C++、Python、诗和远方等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>滴滴校招AI岗年薪35万，薪资吊打老员工！</title>
-    <updated>2020-12-09T12:40:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/A9S-cPC-3DhoIa-9wuNwdQ</id>
-    <link href="https://mp.weixin.qq.com/s/A9S-cPC-3DhoIa-9wuNwdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>知乎热议：2020年，学PyTorch还是TensorFlow？</title>
     <updated>2020-12-09T12:40:12+08:00</updated>
@@ -145,6 +138,13 @@
     <updated>2020-12-05T23:17:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/fbd2gVMwnN-yncM23mZELg</id>
     <link href="https://mp.weixin.qq.com/s/fbd2gVMwnN-yncM23mZELg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>香港大学提出OneNet：一阶段端到端目标检测网络，无需NMS！无需二分匹配！</title>
+    <updated>2020-12-05T23:17:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/stHzJAOzIl4iyPVyXJepog</id>
+    <link href="https://mp.weixin.qq.com/s/stHzJAOzIl4iyPVyXJepog" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
