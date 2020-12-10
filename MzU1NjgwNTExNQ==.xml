@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T11:35:23+08:00</updated>
+  <updated>2020-12-10T11:32:39+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Julia 创始人：​Julia通常比Python快10到100倍！</title>
+    <updated>2020-12-09T22:01:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/s4levFT1L0rKC6E11fM0fw</id>
+    <link href="https://mp.weixin.qq.com/s/s4levFT1L0rKC6E11fM0fw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>薅当当羊毛！花 160 买 400 好书！</title>
+    <updated>2020-12-09T22:01:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/Y59xQw1tnhhXSv7-rN9SMg</id>
+    <link href="https://mp.weixin.qq.com/s/Y59xQw1tnhhXSv7-rN9SMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何从0开发一个小程序？</title>
     <updated>2020-12-08T22:56:39+08:00</updated>
@@ -50,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>吴恩达新书《Machine Learning Yearning》附完整中文版 PDF 下载！</title>
-    <updated>2020-12-06T13:58:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/VeGMFBa14kLywbM03J5now</id>
-    <link href="https://mp.weixin.qq.com/s/VeGMFBa14kLywbM03J5now" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>干货：用好 VS Code 这 13 款插件和 8 个快捷键，工作效率提升 10 倍</title>
     <updated>2020-12-05T18:47:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/XPMZ4jZ91CzafBOBQKrxSA</id>
@@ -75,13 +82,6 @@
     <updated>2020-12-03T22:49:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/8LFGjYWM2vHLwYpBJV27WA</id>
     <link href="https://mp.weixin.qq.com/s/8LFGjYWM2vHLwYpBJV27WA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吴恩达新书《Machine Learning Yearning》附完整中文版 PDF 下载！</title>
-    <updated>2020-12-03T22:49:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/1u7QiwTs2_5DW0lUP7p0lQ</id>
-    <link href="https://mp.weixin.qq.com/s/1u7QiwTs2_5DW0lUP7p0lQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,20 +110,6 @@
     <updated>2020-11-30T17:16:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/9xq2IvBCCYko9s8XeyoyUw</id>
     <link href="https://mp.weixin.qq.com/s/9xq2IvBCCYko9s8XeyoyUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想自学 Java？年轻人，劝你耗子尾汁····</title>
-    <updated>2020-11-29T22:57:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/RPphm9xTtMaxbTe5mlbKqA</id>
-    <link href="https://mp.weixin.qq.com/s/RPphm9xTtMaxbTe5mlbKqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开发者的胜利：GitHub 恢复了 youtube-dl 库</title>
-    <updated>2020-11-29T22:57:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/5_DskZ2eKs5ZmF-Gps6wbA</id>
-    <link href="https://mp.weixin.qq.com/s/5_DskZ2eKs5ZmF-Gps6wbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

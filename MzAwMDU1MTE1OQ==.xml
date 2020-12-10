@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T11:21:25+08:00</updated>
+  <updated>2020-12-10T11:25:50+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里双11同款流控降级组件 Sentinel Go简介</title>
+    <updated>2020-12-09T22:25:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/j1kTArkROXlymghR1hkDFA</id>
+    <link href="https://mp.weixin.qq.com/s/j1kTArkROXlymghR1hkDFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>架构师很惊讶：千万级流量，不上异地多活吗？</title>
     <updated>2020-12-08T23:51:17+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T18:37:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/M39LxZAgBFefIsUzq6La8A</id>
     <link href="https://mp.weixin.qq.com/s/M39LxZAgBFefIsUzq6La8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团技术团队书单（通用能力篇）</title>
-    <updated>2020-11-29T20:26:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/5nUqazLLV67H824Jg6kd_A</id>
-    <link href="https://mp.weixin.qq.com/s/5nUqazLLV67H824Jg6kd_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
