@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T20:29:01+08:00</updated>
+  <updated>2020-12-10T20:35:49+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在 TensorFlow Lite 中优化 MobileDet 目标检测模型</title>
+    <updated>2020-12-10T18:15:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/cDz9wtUadlVA-A6VzSQQoQ</id>
+    <link href="https://mp.weixin.qq.com/s/cDz9wtUadlVA-A6VzSQQoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中文视频丨移动开发者必备，TensorFlow Lite 系列教程来了！</title>
     <updated>2020-12-09T18:41:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T17:39:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/t0izDTWiuxWDu0QwWY8-vg</id>
     <link href="https://mp.weixin.qq.com/s/t0izDTWiuxWDu0QwWY8-vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学习教程 | 使用 TensorFlow Lite 在 Android App 中生成超分图片</title>
-    <updated>2020-11-24T17:09:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/xcCTLbCK8o7H_Ddud9ZgeA</id>
-    <link href="https://mp.weixin.qq.com/s/xcCTLbCK8o7H_Ddud9ZgeA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

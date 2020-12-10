@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:14:13+08:00</updated>
+  <updated>2020-12-10T20:20:08+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开始切换到 Kotlin：谷歌工程师给初学者的知识点总结</title>
+    <updated>2020-12-10T20:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/UMhbzdkpEnUUm_fgIdidQg</id>
+    <link href="https://mp.weixin.qq.com/s/UMhbzdkpEnUUm_fgIdidQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊微服务架构.pdf</title>
+    <updated>2020-12-10T20:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/jr3EQCq8XWVW4kazJxK6lw</id>
+    <link href="https://mp.weixin.qq.com/s/jr3EQCq8XWVW4kazJxK6lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>那些把公司当家的程序员，后来怎么样了？</title>
     <updated>2020-12-09T20:10:10+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-26T20:12:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/Z0wtagxyJECY2toVaL-NFQ</id>
     <link href="https://mp.weixin.qq.com/s/Z0wtagxyJECY2toVaL-NFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员是青春饭吗？30 岁后的发展方向和突破</title>
-    <updated>2020-11-24T22:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/WWvyzHON0WWYLmys-NU0jA</id>
-    <link href="https://mp.weixin.qq.com/s/WWvyzHON0WWYLmys-NU0jA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 一款可以方便地管理 Kubernetes 的图形界面工具</title>
-    <updated>2020-11-24T22:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/O5Xs90E6HciwrXDmWhkk2Q</id>
-    <link href="https://mp.weixin.qq.com/s/O5Xs90E6HciwrXDmWhkk2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:25:33+08:00</updated>
+  <updated>2020-12-10T20:33:09+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>完全解析：使用Faiss进行海量特征的相似度匹配</title>
+    <updated>2020-12-10T18:33:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/eQWrPFD-sgONRlFbdZmxOQ</id>
+    <link href="https://mp.weixin.qq.com/s/eQWrPFD-sgONRlFbdZmxOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌CEO为「Jeff Dean开除研究员」事件道歉，却引发持续争议</title>
+    <updated>2020-12-10T18:33:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/mg4IOxT83jRIzsT-06HZIw</id>
+    <link href="https://mp.weixin.qq.com/s/mg4IOxT83jRIzsT-06HZIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>根据标签分布来选择损失函数</title>
+    <updated>2020-12-10T18:33:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/UvFN0FetpmEP75NMD1XNNA</id>
+    <link href="https://mp.weixin.qq.com/s/UvFN0FetpmEP75NMD1XNNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>打马赛克就安全了吗？AI消除马赛克，GitHub开源项目上线三天收获近7000星</title>
     <updated>2020-12-09T18:48:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-04T20:19:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/O2_X-E0gzAEH2pd7U4jZCQ</id>
     <link href="https://mp.weixin.qq.com/s/O2_X-E0gzAEH2pd7U4jZCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PNAS “深度学习的科学”论文合集导读</title>
-    <updated>2020-12-04T20:19:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/aVuRRgQLX8AZGh44tLkOlg</id>
-    <link href="https://mp.weixin.qq.com/s/aVuRRgQLX8AZGh44tLkOlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图像分割 2020 总结：结构，损失函数，数据集和框架</title>
-    <updated>2020-12-03T20:07:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/Kx-KEyWpUkMS4pJCCykMiw</id>
-    <link href="https://mp.weixin.qq.com/s/Kx-KEyWpUkMS4pJCCykMiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>预训练图像处理Transformer：华为诺亚、北大等提出IPT模型，刷榜多项底层视觉任务</title>
-    <updated>2020-12-03T20:07:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/IL2G2wXMtWuqDW3gxzVmOA</id>
-    <link href="https://mp.weixin.qq.com/s/IL2G2wXMtWuqDW3gxzVmOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

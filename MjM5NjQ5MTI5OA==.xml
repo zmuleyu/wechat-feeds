@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>美团技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:16:59+08:00</updated>
+  <updated>2020-12-10T20:21:17+08:00</updated>
   <subtitle>9000+工程师，如何支撑中国领先的生活服务电子商务平台？3.2亿消费者、500万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团大零售等技术团队的对外窗口，每周推送技术文章、活动及招聘信息等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C++服务编译耗时优化原理及实践</title>
+    <updated>2020-12-10T19:27:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/yITNjo_UQi8-OKQNOfGrPw</id>
+    <link href="https://mp.weixin.qq.com/s/yITNjo_UQi8-OKQNOfGrPw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ICDM论文：探索跨会话信息感知的推荐模型</title>
+    <updated>2020-12-10T19:27:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/Enfi8Qv9iRyst5DobWBwmA</id>
+    <link href="https://mp.weixin.qq.com/s/Enfi8Qv9iRyst5DobWBwmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>复杂环境下落地Service Mesh的挑战与实践</title>
     <updated>2020-12-03T19:53:20+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-15T19:19:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/nNbowwFqI4nVMrf4znK69g</id>
     <link href="https://mp.weixin.qq.com/s/nNbowwFqI4nVMrf4znK69g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>外卖客户端容器化架构的演进</title>
-    <updated>2020-09-30T20:01:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/kW5wu7GM7pMRRvN-dQvE2g</id>
-    <link href="https://mp.weixin.qq.com/s/kW5wu7GM7pMRRvN-dQvE2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团内部讲座｜清华大学莫一林：信息物理系统中的安全控制算法</title>
-    <updated>2020-09-30T20:01:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-30:/s/VAYpYcq44oiglXefUUo1Aw</id>
-    <link href="https://mp.weixin.qq.com/s/VAYpYcq44oiglXefUUo1Aw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
