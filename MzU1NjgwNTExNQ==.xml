@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T11:32:39+08:00</updated>
+  <updated>2020-12-11T13:21:47+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有网盘链接和提取码，在B站一夜爆火获赞23w+，大写的牛B！运维开发纯干货资源</title>
+    <updated>2020-12-10T20:28:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/p643yv_yefhklo0F4e7JBQ</id>
+    <link href="https://mp.weixin.qq.com/s/p643yv_yefhklo0F4e7JBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>程序员用 M1 MacBook 当主力开发机​是什么体验？VS Code 能用吗？</title>
+    <updated>2020-12-10T20:28:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/Uub0UzedmuB__zrvydzPEg</id>
+    <link href="https://mp.weixin.qq.com/s/Uub0UzedmuB__zrvydzPEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Julia 创始人：​Julia通常比Python快10到100倍！</title>
     <updated>2020-12-09T22:01:12+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-01T17:57:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/mWVVjTLxlXbHk-37FrrNDg</id>
     <link href="https://mp.weixin.qq.com/s/mWVVjTLxlXbHk-37FrrNDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货回顾 | 如何快速开发一款 VS Code 扩展</title>
-    <updated>2020-11-30T17:16:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/9xq2IvBCCYko9s8XeyoyUw</id>
-    <link href="https://mp.weixin.qq.com/s/9xq2IvBCCYko9s8XeyoyUw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
