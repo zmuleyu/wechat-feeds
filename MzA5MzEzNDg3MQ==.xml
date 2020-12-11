@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微信安全中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T13:32:28+08:00</updated>
+  <updated>2020-12-11T20:18:43+08:00</updated>
   <subtitle>提供微信安全相关自助服务，发布最新微信安全动态和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>打工人不可以说不行</title>
+    <updated>2020-12-11T18:17:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/5laBDXuhue5vGLsKJ7g1cg</id>
+    <link href="https://mp.weixin.qq.com/s/5laBDXuhue5vGLsKJ7g1cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谣言热榜 | 十一月朋友圈十大谣言新鲜出炉</title>
     <updated>2020-11-30T22:30:17+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-30T16:21:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/8NmvyczEzu4dWDYV_tDovA</id>
     <link href="https://mp.weixin.qq.com/s/8NmvyczEzu4dWDYV_tDovA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>诈知机 | 最怕“领导”突然的关心</title>
-    <updated>2020-09-28T17:52:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-28:/s/U-yoQVeItoY7ZH_ybXdpZw</id>
-    <link href="https://mp.weixin.qq.com/s/U-yoQVeItoY7ZH_ybXdpZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

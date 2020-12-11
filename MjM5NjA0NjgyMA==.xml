@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T20:37:38+08:00</updated>
+  <updated>2020-12-11T20:31:38+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>勒索失败后，黑客在暗网售卖85000个MySQL数据库</title>
+    <updated>2020-12-11T17:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/ZZ7vXxiXjosX3hmwHsKfVA</id>
+    <link href="https://mp.weixin.qq.com/s/ZZ7vXxiXjosX3hmwHsKfVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于流量的敏感数据异常访问行为识别方法 | CIS 2020大会议题前瞻</title>
+    <updated>2020-12-11T17:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/X2dfPuIGBp5rQRK_vC0XqA</id>
+    <link href="https://mp.weixin.qq.com/s/X2dfPuIGBp5rQRK_vC0XqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端无秘密：看我如何策反JS为我所用（下）</title>
+    <updated>2020-12-11T17:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/U4Ope3c7S5Iv9piDkvXhJQ</id>
+    <link href="https://mp.weixin.qq.com/s/U4Ope3c7S5Iv9piDkvXhJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>利用VirusTotal跟踪Ryuk攻击行动</title>
+    <updated>2020-12-11T17:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/OKsw-LkFNv8Mi0ejDClP4A</id>
+    <link href="https://mp.weixin.qq.com/s/OKsw-LkFNv8Mi0ejDClP4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端无秘密：看我如何策反JS为我所用（上）</title>
     <updated>2020-12-10T17:31:42+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-07T17:54:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/6wKVtc3XjFGYRII2KYbs9g</id>
     <link href="https://mp.weixin.qq.com/s/6wKVtc3XjFGYRII2KYbs9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入浅出低功耗蓝牙（BLE）协议栈</title>
-    <updated>2020-12-06T18:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/iwEZevDhRz1d7J9y_li2Ug</id>
-    <link href="https://mp.weixin.qq.com/s/iwEZevDhRz1d7J9y_li2Ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年度安全漏洞&amp;年度最佳安全开源项目 | WitAwards 2020中国网络安全创新年度评选火热进行中</title>
-    <updated>2020-12-06T18:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/HinCb9204mr8FlzQOyqXaA</id>
-    <link href="https://mp.weixin.qq.com/s/HinCb9204mr8FlzQOyqXaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Windows主机入侵痕迹排查办法</title>
-    <updated>2020-12-06T18:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/4hQVc-16kbV9cQFWd3LynA</id>
-    <link href="https://mp.weixin.qq.com/s/4hQVc-16kbV9cQFWd3LynA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ghimob银行木马分析</title>
-    <updated>2020-12-06T18:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/fboa4ypZC-p0BxNkGizHAw</id>
-    <link href="https://mp.weixin.qq.com/s/fboa4ypZC-p0BxNkGizHAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小林coding | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T11:34:54+08:00</updated>
+  <updated>2020-12-11T20:20:58+08:00</updated>
   <subtitle>酷爱图解晦涩难懂的计算机基础知识。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你不好奇 Linux 是如何收发网络包的？</title>
+    <updated>2020-12-11T17:54:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/ISQ2qutpJjYOdtM3taeO_A</id>
+    <link href="https://mp.weixin.qq.com/s/ISQ2qutpJjYOdtM3taeO_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我给 Apache 顶级项目提了个 Bug</title>
     <updated>2020-12-08T22:58:36+08:00</updated>
@@ -43,13 +50,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为什么 C++ 永不过时？</title>
-    <updated>2020-12-05T12:29:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/_mCIIbFIR0HhZXJaKd_NIw</id>
-    <link href="https://mp.weixin.qq.com/s/_mCIIbFIR0HhZXJaKd_NIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>图说 Linux 高性能网络架构的那些事</title>
     <updated>2020-12-05T12:29:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/Wbp2inTGJmOq9dRkIRqkeQ</id>
@@ -82,13 +82,6 @@
     <updated>2020-11-26T12:46:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/KxSlNnXQSaMemYdqyRCMOg</id>
     <link href="https://mp.weixin.qq.com/s/KxSlNnXQSaMemYdqyRCMOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>要搞懂 volatile 关键字，就靠这 26 张图</title>
-    <updated>2020-11-23T16:38:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/egKkiRyoyFl_b2v0CYlzXQ</id>
-    <link href="https://mp.weixin.qq.com/s/egKkiRyoyFl_b2v0CYlzXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

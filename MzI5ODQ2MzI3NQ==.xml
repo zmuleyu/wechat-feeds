@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T20:27:53+08:00</updated>
+  <updated>2020-12-11T20:23:24+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何让云迁移工作有条不紊？云采用框架来帮忙</title>
+    <updated>2020-12-11T18:15:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/NapTussAEFaVxetm3hFh9w</id>
+    <link href="https://mp.weixin.qq.com/s/NapTussAEFaVxetm3hFh9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>下周北京： Kubernetes CKA实战培训</title>
+    <updated>2020-12-11T18:15:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/cRVLUkXvSRtRubE2aP-hnA</id>
+    <link href="https://mp.weixin.qq.com/s/cRVLUkXvSRtRubE2aP-hnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太强了！仿京东电商项目终于开源了~</title>
     <updated>2020-12-10T16:35:36+08:00</updated>
@@ -47,13 +61,6 @@
     <updated>2020-12-07T22:32:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/itwno-o2zRKdQBFBIrAljg</id>
     <link href="https://mp.weixin.qq.com/s/itwno-o2zRKdQBFBIrAljg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂的 Redis 都是怎么搞的？</title>
-    <updated>2020-12-07T11:42:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/pB1jBJ0-vXpmsskYFZ4LFA</id>
-    <link href="https://mp.weixin.qq.com/s/pB1jBJ0-vXpmsskYFZ4LFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,13 +117,6 @@
     <updated>2020-12-02T10:44:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/w_ElZ5bmq8llKkuDfNXIFg</id>
     <link href="https://mp.weixin.qq.com/s/w_ElZ5bmq8llKkuDfNXIFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>保护API安全的4种基本工具</title>
-    <updated>2020-12-01T11:42:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/ojO5uIsl8cG_hBvA_ycOFA</id>
-    <link href="https://mp.weixin.qq.com/s/ojO5uIsl8cG_hBvA_ycOFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
