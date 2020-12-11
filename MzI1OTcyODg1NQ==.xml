@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T23:26:55+08:00</updated>
+  <updated>2020-12-11T23:19:37+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux网络状态工具ss命令使用详解</title>
+    <updated>2020-12-11T22:30:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/EpwR3SlrqH2X0bDqJgquFg</id>
+    <link href="https://mp.weixin.qq.com/s/EpwR3SlrqH2X0bDqJgquFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>双12购课优惠倒计时1天! 优惠名额仅剩49位！</title>
+    <updated>2020-12-11T22:30:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/ilSd1zaOUVJpwYg6uU4ukQ</id>
+    <link href="https://mp.weixin.qq.com/s/ilSd1zaOUVJpwYg6uU4ukQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ansible自动化部署LNMP企业站实战</title>
+    <updated>2020-12-11T22:30:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/t0YqDakfv_ozH-9GriCJzA</id>
+    <link href="https://mp.weixin.qq.com/s/t0YqDakfv_ozH-9GriCJzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文详解 Ansible 的自动化运维</title>
     <updated>2020-12-10T23:08:07+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-03T22:13:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/ukH7kHLsqrHmaCcSem4n-g</id>
     <link href="https://mp.weixin.qq.com/s/ukH7kHLsqrHmaCcSem4n-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 的这些原理，你一定要了解</title>
-    <updated>2020-12-02T22:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/2da0Ym7Y_QLGmCgahoGbSg</id>
-    <link href="https://mp.weixin.qq.com/s/2da0Ym7Y_QLGmCgahoGbSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HAProxy Proxies配置</title>
-    <updated>2020-12-02T22:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/PG892V4jRZQQOax-0uu57Q</id>
-    <link href="https://mp.weixin.qq.com/s/PG892V4jRZQQOax-0uu57Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>curl 的用法指南</title>
-    <updated>2020-12-01T21:50:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/tpAqnmnVhDkSzUX2W1Vp5g</id>
-    <link href="https://mp.weixin.qq.com/s/tpAqnmnVhDkSzUX2W1Vp5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T23:20:45+08:00</updated>
+  <updated>2020-12-11T23:07:38+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>来，自己动手搭建对话机器人！</title>
+    <updated>2020-12-11T18:29:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/6M_tc6vrqz-JvcxjzOakSQ</id>
+    <link href="https://mp.weixin.qq.com/s/6M_tc6vrqz-JvcxjzOakSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QizNLP使用（一）：利用Transformer训练单轮闲聊机器人</title>
+    <updated>2020-12-11T18:29:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/dXvCgwSPLGVZzxAtn3IBDQ</id>
+    <link href="https://mp.weixin.qq.com/s/dXvCgwSPLGVZzxAtn3IBDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【DST系列】DST模型介绍</title>
+    <updated>2020-12-11T18:29:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/nFMDWp0Jtzk--0OXJSWWew</id>
+    <link href="https://mp.weixin.qq.com/s/nFMDWp0Jtzk--0OXJSWWew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>EMNLP 2020 | 开放域对话系统的属性一致性识别</title>
+    <updated>2020-12-11T18:29:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/xLnd59XgUMSfsaoNF_NPsQ</id>
+    <link href="https://mp.weixin.qq.com/s/xLnd59XgUMSfsaoNF_NPsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【NLP基础】NLP关键字提取技术之LDA算法原理与实践</title>
+    <updated>2020-12-11T18:29:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/Xv_Fd8NEcHFkpUVUIieWOg</id>
+    <link href="https://mp.weixin.qq.com/s/Xv_Fd8NEcHFkpUVUIieWOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>斯坦福 CS224n 出作业视频详细讲解啦！</title>
     <updated>2020-12-10T21:58:32+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-08T21:51:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/35QHMm7Yt-55O631E2BY3A</id>
     <link href="https://mp.weixin.qq.com/s/35QHMm7Yt-55O631E2BY3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>成为AI+新型互联网人才，你需要学习这堂公开课~</title>
-    <updated>2020-12-07T19:04:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/hz26Siv3jxfA8lXV93h8Ug</id>
-    <link href="https://mp.weixin.qq.com/s/hz26Siv3jxfA8lXV93h8Ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>亲兄弟明算账：快速了解阿里的M2GRL模型</title>
-    <updated>2020-12-07T19:04:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/NfhvGFucd6YnCpy2y0p3yg</id>
-    <link href="https://mp.weixin.qq.com/s/NfhvGFucd6YnCpy2y0p3yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于信息传递框架的图自编码范式</title>
-    <updated>2020-12-07T19:04:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/KpORpw8XUzIP000iwcBd7Q</id>
-    <link href="https://mp.weixin.qq.com/s/KpORpw8XUzIP000iwcBd7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【重温序列模型】再回首DeepLearning遇见了Transformer</title>
-    <updated>2020-12-07T19:04:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/3YSdT5CLkBBwhDvpA1bAyA</id>
-    <link href="https://mp.weixin.qq.com/s/3YSdT5CLkBBwhDvpA1bAyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NLP.TM | 再看word2vector</title>
-    <updated>2020-12-07T19:04:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/-BoM8PXS4Wa_Mi2B3aafuw</id>
-    <link href="https://mp.weixin.qq.com/s/-BoM8PXS4Wa_Mi2B3aafuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

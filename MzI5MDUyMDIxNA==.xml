@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T23:26:26+08:00</updated>
+  <updated>2020-12-11T23:14:21+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>多任务学习中各loss权重应该如何设计？用通俗易懂的方式聊聊多任务学习优化</title>
+    <updated>2020-12-11T21:56:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/JaMSZfJZ6zPEOueuVg6XHw</id>
+    <link href="https://mp.weixin.qq.com/s/JaMSZfJZ6zPEOueuVg6XHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>斯坦福Silvio/李飞飞组开源大型室内场景的模拟环境iGibson！15个可交互的真实房屋场景</title>
+    <updated>2020-12-11T21:56:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/7B19ctjUTYb1OBGcJXLPBA</id>
+    <link href="https://mp.weixin.qq.com/s/7B19ctjUTYb1OBGcJXLPBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文读懂HRNet</title>
+    <updated>2020-12-11T21:56:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/GPIpgEchrBKo5MUCxWiKvg</id>
+    <link href="https://mp.weixin.qq.com/s/GPIpgEchrBKo5MUCxWiKvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你是不是在认真的灌水？</title>
+    <updated>2020-12-11T21:56:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/p3rToSoLosNXXWYrs6BvvA</id>
+    <link href="https://mp.weixin.qq.com/s/p3rToSoLosNXXWYrs6BvvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>四类异常检测算法综述：Isolation Forest、LOF、PCA及DAGMM</title>
     <updated>2020-12-10T22:09:11+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-07T21:58:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/kbqfTG1XP7xzQR2LBiSudA</id>
     <link href="https://mp.weixin.qq.com/s/kbqfTG1XP7xzQR2LBiSudA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>极市直播丨长尾分布最新技术分享！汤凯华：利用因果分析解决通用的长尾分布问题</title>
-    <updated>2020-12-06T22:00:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/DuSU4h3unXaBOaHiUMIPpQ</id>
-    <link href="https://mp.weixin.qq.com/s/DuSU4h3unXaBOaHiUMIPpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pytorch转ONNX详解</title>
-    <updated>2020-12-06T22:00:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/JZoAMtBIRAOGUkeI9GoviQ</id>
-    <link href="https://mp.weixin.qq.com/s/JZoAMtBIRAOGUkeI9GoviQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>热门的模型跨界，Transformer、GPT做CV任务一文大盘点</title>
-    <updated>2020-12-06T22:00:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/pmRMjzQ6fqCWJa7voYyHIA</id>
-    <link href="https://mp.weixin.qq.com/s/pmRMjzQ6fqCWJa7voYyHIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>印度天才学霸16岁获奥赛金牌，17岁进入MIT，21岁证明出拉姆齐数最佳结果</title>
-    <updated>2020-12-06T22:00:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/ZVbVtZ664mt6E6O4E3oK0w</id>
-    <link href="https://mp.weixin.qq.com/s/ZVbVtZ664mt6E6O4E3oK0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
