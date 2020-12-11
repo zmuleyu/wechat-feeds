@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T11:21:47+08:00</updated>
+  <updated>2020-12-11T16:28:11+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微信可以设置雪花昵称和彩色昵称了，真漂亮！</title>
+    <updated>2020-12-11T10:17:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/IHxkd9cXJ_mUGJt03auKcg</id>
+    <link href="https://mp.weixin.qq.com/s/IHxkd9cXJ_mUGJt03auKcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Vue 3.0 重磅发布！为什么开发者依旧偏爱 React?</title>
+    <updated>2020-12-11T10:17:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/xo7HGrJ0AbP7hw18vLGdDw</id>
+    <link href="https://mp.weixin.qq.com/s/xo7HGrJ0AbP7hw18vLGdDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>记住下次看小电影前一定要检查域名是不是 HTTPS 的！</title>
+    <updated>2020-12-11T10:17:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/0Nge7fzFnHARWmBNuJRXzg</id>
+    <link href="https://mp.weixin.qq.com/s/0Nge7fzFnHARWmBNuJRXzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何从0开始在鸿蒙OS中制作一个APP！</title>
+    <updated>2020-12-11T10:17:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/6A87-IkkFjzd7iewA4ZERg</id>
+    <link href="https://mp.weixin.qq.com/s/6A87-IkkFjzd7iewA4ZERg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>10小时，这回一次搞定 Kafka 源码</title>
     <updated>2020-12-10T10:32:14+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-07T02:00:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/PAgz6JRr4QdZgK6OIEt-Cw</id>
     <link href="https://mp.weixin.qq.com/s/PAgz6JRr4QdZgK6OIEt-Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯视频 Python 爬虫项目实战</title>
-    <updated>2020-12-07T02:00:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/J2vUadu1GBQPPEMMSKppCw</id>
-    <link href="https://mp.weixin.qq.com/s/J2vUadu1GBQPPEMMSKppCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>本科主持女神，读博 7 年，终以一作发 Science 毕业的兰大博士，近日再登 Science！</title>
-    <updated>2020-12-07T02:00:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/3nogDsVe0lAY-UQFUAd_MQ</id>
-    <link href="https://mp.weixin.qq.com/s/3nogDsVe0lAY-UQFUAd_MQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，操蛋的北京！ 11 年北漂老码农毅然决然的奔赴杭州！</title>
-    <updated>2020-12-06T21:59:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/AEXi1NVpAo3bd3QM66X27w</id>
-    <link href="https://mp.weixin.qq.com/s/AEXi1NVpAo3bd3QM66X27w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么 Java 中“1000==1000”为false，而”100==100“为true？</title>
-    <updated>2020-12-06T21:59:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/9Oj4fqoQtGzqkMO6aBzSxg</id>
-    <link href="https://mp.weixin.qq.com/s/9Oj4fqoQtGzqkMO6aBzSxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
