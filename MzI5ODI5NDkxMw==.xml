@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T23:09:32+08:00</updated>
+  <updated>2020-12-12T01:28:07+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动CEO--张一鸣卧底公司群2天，怒斥员工摸鱼</title>
+    <updated>2020-12-12T00:18:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/47hAJ-rdGKTi12IRa9MPRw</id>
+    <link href="https://mp.weixin.qq.com/s/47hAJ-rdGKTi12IRa9MPRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CTO说：Service层的接口是不是多此一举</title>
+    <updated>2020-12-12T00:18:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/P1FRUlImbF8t8gx_L3pPLQ</id>
+    <link href="https://mp.weixin.qq.com/s/P1FRUlImbF8t8gx_L3pPLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在Java代码中去掉烦人的“!=null”</title>
+    <updated>2020-12-12T00:18:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/Uhr0vZMjgPkoubMpL-Bakw</id>
+    <link href="https://mp.weixin.qq.com/s/Uhr0vZMjgPkoubMpL-Bakw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021网络发展：最佳网络构建方式将会是什么？</title>
+    <updated>2020-12-12T00:18:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/mzevHGa0UtGXxoJaouBDlg</id>
+    <link href="https://mp.weixin.qq.com/s/mzevHGa0UtGXxoJaouBDlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>12个让您震撼的Linux终端命令</title>
+    <updated>2020-12-12T00:18:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/fL3x6OxBQryZlXnUhPr53g</id>
+    <link href="https://mp.weixin.qq.com/s/fL3x6OxBQryZlXnUhPr53g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
     <updated>2020-12-11T00:23:06+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-08T00:36:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/lJricR_RA10QL-KJSvCoAw</id>
     <link href="https://mp.weixin.qq.com/s/lJricR_RA10QL-KJSvCoAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>减少该死的 if else 嵌套</title>
-    <updated>2020-12-08T00:36:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/J7EDKv5-ZMSXKGHxhCIjrg</id>
-    <link href="https://mp.weixin.qq.com/s/J7EDKv5-ZMSXKGHxhCIjrg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringMVC 常用注解标签详解</title>
-    <updated>2020-12-08T00:36:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/PKhM8L4oztvVP7FaUdRcfw</id>
-    <link href="https://mp.weixin.qq.com/s/PKhM8L4oztvVP7FaUdRcfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>要想读懂HashMap的源码，你得这样看</title>
-    <updated>2020-12-08T00:36:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/PXOKELadYaOpvg0Dwrqx2w</id>
-    <link href="https://mp.weixin.qq.com/s/PXOKELadYaOpvg0Dwrqx2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，Kafka！RocketMQ 已成气候！</title>
-    <updated>2020-12-07T07:53:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/aCAstFEgZXsg_-Zt48oPMQ</id>
-    <link href="https://mp.weixin.qq.com/s/aCAstFEgZXsg_-Zt48oPMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot：切面AOP实现权限校验：实例演示与注解全解</title>
-    <updated>2020-12-07T07:53:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/N460RmNw55Jkj99jbx7Gmw</id>
-    <link href="https://mp.weixin.qq.com/s/N460RmNw55Jkj99jbx7Gmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
