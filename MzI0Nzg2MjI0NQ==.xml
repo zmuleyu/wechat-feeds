@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Echo的设计笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T13:26:29+08:00</updated>
+  <updated>2020-12-11T11:25:54+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>设计师想进大厂，最起码得具备这个技能！</title>
+    <updated>2020-12-10T20:43:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/dCvz9CJROuVeRkaCA8AU6Q</id>
+    <link href="https://mp.weixin.qq.com/s/dCvz9CJROuVeRkaCA8AU6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我们将花半年时间，将光音移动端规范2.0送给大家</title>
     <updated>2020-12-09T21:58:10+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-11-11T22:02:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/KiK9zUTabOdV5_uHa9hagA</id>
     <link href="https://mp.weixin.qq.com/s/KiK9zUTabOdV5_uHa9hagA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>搜索是如何逐步实现业务创新的？</title>
-    <updated>2020-11-09T21:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/rpSb30zIH5THngfr2OVmKw</id>
-    <link href="https://mp.weixin.qq.com/s/rpSb30zIH5THngfr2OVmKw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

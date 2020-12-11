@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>VALSE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-03T23:18:12+08:00</updated>
+  <updated>2020-12-11T11:11:02+08:00</updated>
   <subtitle>VALSE（Vision and Learning Seminar） 年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者提供一个深层次学术交流的舞台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VALSE Student Webinar  20-03期 视觉智能模型的抗攻击性</title>
+    <updated>2020-12-11T11:08:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/OdhiLjSchlw7OvdKKYtplg</id>
+    <link href="https://mp.weixin.qq.com/s/OdhiLjSchlw7OvdKKYtplg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VALSE Webinar NIPS会议期间暂停通知</title>
     <updated>2020-12-03T18:51:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-21T19:04:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-21:/s/uLwNcdeHUqSwnBEm19zkSg</id>
     <link href="https://mp.weixin.qq.com/s/uLwNcdeHUqSwnBEm19zkSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VALSE Webinar 20-24期 视觉生成与合成——无中生有，移花接木</title>
-    <updated>2020-09-18T17:12:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/viMVNF8u568JHyR971SUcg</id>
-    <link href="https://mp.weixin.qq.com/s/viMVNF8u568JHyR971SUcg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
