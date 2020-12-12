@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国电影资料馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T20:27:22+08:00</updated>
+  <updated>2020-12-12T20:22:29+08:00</updated>
   <subtitle>定期发布资料馆信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明日放映 | 永矢弗谖 祈愿和平</title>
+    <updated>2020-12-12T17:53:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/9MiqWpAEGjQoqQGPiK4Gag</id>
+    <link href="https://mp.weixin.qq.com/s/9MiqWpAEGjQoqQGPiK4Gag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“珍藏：中国经典影片展映”启动  十部经典电影精致修复焕发新生</title>
     <updated>2020-12-11T16:43:37+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-12-02T18:05:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/6StKMBlotDJntbO7lO8bQQ</id>
     <link href="https://mp.weixin.qq.com/s/6StKMBlotDJntbO7lO8bQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《日光之下》的看与听</title>
-    <updated>2020-12-01T18:21:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/OoPJ41kQILDof5WxQSt8BA</id>
-    <link href="https://mp.weixin.qq.com/s/OoPJ41kQILDof5WxQSt8BA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明日放映｜欢欢喜喜一家人</title>
-    <updated>2020-12-01T18:21:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/ngDAqvf_T2TOfvA-LdVTVg</id>
-    <link href="https://mp.weixin.qq.com/s/ngDAqvf_T2TOfvA-LdVTVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

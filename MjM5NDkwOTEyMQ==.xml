@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T23:33:13+08:00</updated>
+  <updated>2020-12-12T20:30:43+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【重要通知】上海 GDG 活动平台搬家啦！！</title>
+    <updated>2020-12-12T19:20:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/KWlEpH9P50MiwzFsz-aoEw</id>
+    <link href="https://mp.weixin.qq.com/s/KWlEpH9P50MiwzFsz-aoEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【DevFest 2020】嘉宾实录总结：《面向手机端的大规模分类算法- Hamming 分类器》by肖嵘 ｜ 主会场</title>
     <updated>2020-12-10T20:59:07+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-29T09:37:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/89lDZl9_q-yxUWFEcBjPMw</id>
     <link href="https://mp.weixin.qq.com/s/89lDZl9_q-yxUWFEcBjPMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【DevFest 2020】一文回顾精彩瞬间！在上海 DevFest 2020，留下你的脚印了吗？</title>
-    <updated>2020-11-23T19:18:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/tx6VzrcwZiFfyv2_z7VZ5g</id>
-    <link href="https://mp.weixin.qq.com/s/tx6VzrcwZiFfyv2_z7VZ5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

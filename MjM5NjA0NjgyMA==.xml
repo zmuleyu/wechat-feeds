@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T20:31:38+08:00</updated>
+  <updated>2020-12-12T20:29:19+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何保护你的密码：应用侧数据库&amp;redis密码加密实践</title>
+    <updated>2020-12-12T17:55:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/pWcQ7Rj3qhhgpZHDuNZm2A</id>
+    <link href="https://mp.weixin.qq.com/s/pWcQ7Rj3qhhgpZHDuNZm2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《2021产业互联网安全十大趋势》出炉：云原生安全上榜</title>
+    <updated>2020-12-12T17:55:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/rwvCHJ8fJk5qpdVyRN4jJA</id>
+    <link href="https://mp.weixin.qq.com/s/rwvCHJ8fJk5qpdVyRN4jJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>澳大利亚是全球手机监控公司的“可能”客户</title>
+    <updated>2020-12-12T17:55:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/CAdHUtp4oD1Y-Nuu4LwvWA</id>
+    <link href="https://mp.weixin.qq.com/s/CAdHUtp4oD1Y-Nuu4LwvWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spyre：一款基于YARA规则的入侵威胁指标IoC扫描工具</title>
+    <updated>2020-12-12T17:55:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/imKE_wUDeWERghjWC7iWDw</id>
+    <link href="https://mp.weixin.qq.com/s/imKE_wUDeWERghjWC7iWDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>勒索失败后，黑客在暗网售卖85000个MySQL数据库</title>
     <updated>2020-12-11T17:31:17+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-08T17:35:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/bOS2R74wHS65zTbCZ77nvg</id>
     <link href="https://mp.weixin.qq.com/s/bOS2R74wHS65zTbCZ77nvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入浅出低功耗蓝牙(BLE)协议栈（实战篇）</title>
-    <updated>2020-12-07T17:54:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/FAlLPBkokw1T-BTBhGdC7g</id>
-    <link href="https://mp.weixin.qq.com/s/FAlLPBkokw1T-BTBhGdC7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“数智化”时代的安全将何去何从？2020京麒网络安全大会回顾</title>
-    <updated>2020-12-07T17:54:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/MpMMgVRGzgbNus7F8KP2Zg</id>
-    <link href="https://mp.weixin.qq.com/s/MpMMgVRGzgbNus7F8KP2Zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卡巴斯基调查显示四分之一的印度人使用弱密码</title>
-    <updated>2020-12-07T17:54:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/gJjhllLJEOaC7L47Vpe2Aw</id>
-    <link href="https://mp.weixin.qq.com/s/gJjhllLJEOaC7L47Vpe2Aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何利用Browsertunnel通过DNS从浏览器中实现数据窃取</title>
-    <updated>2020-12-07T17:54:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/6wKVtc3XjFGYRII2KYbs9g</id>
-    <link href="https://mp.weixin.qq.com/s/6wKVtc3XjFGYRII2KYbs9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
