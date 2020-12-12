@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T11:15:55+08:00</updated>
+  <updated>2020-12-12T11:14:54+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
+    <updated>2020-12-11T23:47:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/kW0PFX80owmG7uX89lzEmA</id>
+    <link href="https://mp.weixin.qq.com/s/kW0PFX80owmG7uX89lzEmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>那些总是写“烂代码”的同学，强烈推荐你用这款IDEA插件！</title>
+    <updated>2020-12-11T23:47:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/llaI1eA1Zgc2NdxeibHofA</id>
+    <link href="https://mp.weixin.qq.com/s/llaI1eA1Zgc2NdxeibHofA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大厂宠儿|Flink CEP精品教学视频，限时删！</title>
     <updated>2020-12-11T00:41:31+08:00</updated>
@@ -40,13 +54,6 @@
     <updated>2020-12-08T23:33:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/Caa-dTF0cefzyJ_ZBTgouA</id>
     <link href="https://mp.weixin.qq.com/s/Caa-dTF0cefzyJ_ZBTgouA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，Spark！Flink已成气候！</title>
-    <updated>2020-12-07T23:59:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/DzSG5qhWoQ4doW4Pkv9n5w</id>
-    <link href="https://mp.weixin.qq.com/s/DzSG5qhWoQ4doW4Pkv9n5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +96,6 @@
     <updated>2020-12-02T23:16:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/QrtQyqPx_pBhvWJAWYe2cQ</id>
     <link href="https://mp.weixin.qq.com/s/QrtQyqPx_pBhvWJAWYe2cQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot：切面AOP实现权限校验：实例演示与注解全解</title>
-    <updated>2020-12-01T21:04:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/aU2ZDmu5dDOxaGfZDm5pYA</id>
-    <link href="https://mp.weixin.qq.com/s/aU2ZDmu5dDOxaGfZDm5pYA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

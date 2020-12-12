@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴中间件 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T10:02:10+08:00</updated>
+  <updated>2020-12-12T11:19:17+08:00</updated>
   <subtitle>Aliware阿里巴巴中间件官方账号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>年终盘点 | 七年零故障支撑双11的消息中间件 RocketMQ，怎么做到的？</title>
+    <updated>2020-12-11T19:48:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/MP9LNb7W7h1qDYg22YX9hQ</id>
+    <link href="https://mp.weixin.qq.com/s/MP9LNb7W7h1qDYg22YX9hQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何降低微服务测试成本？我的经验之谈</title>
+    <updated>2020-12-11T19:48:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/BLRsBtxsmWg9YHf05Mqe7Q</id>
+    <link href="https://mp.weixin.qq.com/s/BLRsBtxsmWg9YHf05Mqe7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5分钟完成业务实时监控系统搭建，是一种什么样的体验？</title>
+    <updated>2020-12-11T19:48:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/SUG0kmKU1xNw2ewOz7X75w</id>
+    <link href="https://mp.weixin.qq.com/s/SUG0kmKU1xNw2ewOz7X75w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生应用架构转型不好做？阿里云这个平台让你一步到位！</title>
+    <updated>2020-12-11T19:48:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/mSUUnPGcd5M4XudE8qLazQ</id>
+    <link href="https://mp.weixin.qq.com/s/mSUUnPGcd5M4XudE8qLazQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Aliyun Java Initializr 和 Spring 官方的到底有什么区别？</title>
+    <updated>2020-12-11T19:48:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/41kW89DINGyTX9YDqTXh8g</id>
+    <link href="https://mp.weixin.qq.com/s/41kW89DINGyTX9YDqTXh8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生体系下的技海浮沉与理论探索</title>
     <updated>2020-11-30T20:12:40+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-11-05T18:44:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/cdb8oX16M5axDqxNabqTMA</id>
     <link href="https://mp.weixin.qq.com/s/cdb8oX16M5axDqxNabqTMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>车主无忧：为什么放弃开源Kafka？</title>
-    <updated>2020-11-05T18:44:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/H7gz-3QP8zD6n39MRzRDYA</id>
-    <link href="https://mp.weixin.qq.com/s/H7gz-3QP8zD6n39MRzRDYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>饿了么技术往事（中）</title>
-    <updated>2020-10-30T16:59:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/Kms3ftq5GDsnoVdp92DKzQ</id>
-    <link href="https://mp.weixin.qq.com/s/Kms3ftq5GDsnoVdp92DKzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数百万台车联网设备同时在线0故障，怎么做到的？ | 云原生Talk</title>
-    <updated>2020-10-30T16:59:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/QFM-dVBLlrmHseZWlwyD0A</id>
-    <link href="https://mp.weixin.qq.com/s/QFM-dVBLlrmHseZWlwyD0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我对云原生软件架构的观察与思考</title>
-    <updated>2020-10-28T21:07:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/PwPC1ZWNZvzQoOZvOAF2Qw</id>
-    <link href="https://mp.weixin.qq.com/s/PwPC1ZWNZvzQoOZvOAF2Qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何构建一套高性能、高可用性、低成本的视频处理系统？</title>
-    <updated>2020-10-28T21:07:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/GphmVGbTkabX1diCoQCgiQ</id>
-    <link href="https://mp.weixin.qq.com/s/GphmVGbTkabX1diCoQCgiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

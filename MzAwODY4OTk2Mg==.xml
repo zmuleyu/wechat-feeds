@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T11:20:23+08:00</updated>
+  <updated>2020-12-12T11:17:41+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Constraint Layout 2.0 用法详解</title>
+    <updated>2020-12-11T18:27:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/7wEr6okR-CAAoNDYB4gHig</id>
+    <link href="https://mp.weixin.qq.com/s/7wEr6okR-CAAoNDYB4gHig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>携程机票 Android Jetpack 与 Kotlin Coroutines 实践 | 开发者说·DTalk</title>
+    <updated>2020-12-11T18:27:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-11:/s/NS2gzSpkW8lYyLq3G2th9g</id>
+    <link href="https://mp.weixin.qq.com/s/NS2gzSpkW8lYyLq3G2th9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Android Studio 和 Gradle 插件使用全新版本编号</title>
     <updated>2020-12-10T18:07:19+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-02T18:04:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/SviD0EjwoD9gYk5IwWZoMw</id>
     <link href="https://mp.weixin.qq.com/s/SviD0EjwoD9gYk5IwWZoMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文读懂最新 Google 开发者大会上的 ARCore！</title>
-    <updated>2020-12-02T13:52:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/wOHQXoZG55sP7DpRm15HEw</id>
-    <link href="https://mp.weixin.qq.com/s/wOHQXoZG55sP7DpRm15HEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨平台游戏的挑战和机遇 | Google Play 开发者播客节目 · 第十四期</title>
-    <updated>2020-12-02T13:52:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/Dp7PaXChWFixmwMZuPASKg</id>
-    <link href="https://mp.weixin.qq.com/s/Dp7PaXChWFixmwMZuPASKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
