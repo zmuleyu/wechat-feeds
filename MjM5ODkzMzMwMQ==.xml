@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T23:07:38+08:00</updated>
+  <updated>2020-12-12T23:11:30+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文梳理2020年大热的对比学习模型</title>
+    <updated>2020-12-12T20:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/ltlKMesBo4ZE7Fr6at8iiA</id>
+    <link href="https://mp.weixin.qq.com/s/ltlKMesBo4ZE7Fr6at8iiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里ESAM：用迁移学习解决召回中的样本偏差</title>
+    <updated>2020-12-12T20:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/TaqklJ_mcZevPaI_bofXLQ</id>
+    <link href="https://mp.weixin.qq.com/s/TaqklJ_mcZevPaI_bofXLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer家族简史（PART I）</title>
+    <updated>2020-12-12T20:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/p4M1IUIzlAd2ihN6K6AtuA</id>
+    <link href="https://mp.weixin.qq.com/s/p4M1IUIzlAd2ihN6K6AtuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯CDG招聘广告排序策略算法专家、工程师</title>
+    <updated>2020-12-12T20:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/hFDyT2G2YGvIfVCNPNXWng</id>
+    <link href="https://mp.weixin.qq.com/s/hFDyT2G2YGvIfVCNPNXWng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>听陆奇谈创业</title>
+    <updated>2020-12-12T20:20:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/mq87nb9oZgxj3LrWVHgSVw</id>
+    <link href="https://mp.weixin.qq.com/s/mq87nb9oZgxj3LrWVHgSVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>来，自己动手搭建对话机器人！</title>
     <updated>2020-12-11T18:29:05+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-09T19:27:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/D7raFD_PK-9L15JSBfCYJg</id>
     <link href="https://mp.weixin.qq.com/s/D7raFD_PK-9L15JSBfCYJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐几个前沿主题方向！</title>
-    <updated>2020-12-08T21:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/FKnFrZ5gP4kLzdXzTeRo8A</id>
-    <link href="https://mp.weixin.qq.com/s/FKnFrZ5gP4kLzdXzTeRo8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google PPRGo: 两分钟分类千万节点的最快GNN</title>
-    <updated>2020-12-08T21:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/9ij8rI_MqyxbwVcjlF3HAA</id>
-    <link href="https://mp.weixin.qq.com/s/9ij8rI_MqyxbwVcjlF3HAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TinyBert: 蒸馏集大成者！！</title>
-    <updated>2020-12-08T21:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/saY2lHelhwnVWzBXhYQcTw</id>
-    <link href="https://mp.weixin.qq.com/s/saY2lHelhwnVWzBXhYQcTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NLP重铸篇之Word2vec</title>
-    <updated>2020-12-08T21:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/50RBHfIxYNzgtBkXowL-Tg</id>
-    <link href="https://mp.weixin.qq.com/s/50RBHfIxYNzgtBkXowL-Tg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度强化学习之：DQN训练超级玛丽闯关</title>
-    <updated>2020-12-08T21:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/35QHMm7Yt-55O631E2BY3A</id>
-    <link href="https://mp.weixin.qq.com/s/35QHMm7Yt-55O631E2BY3A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

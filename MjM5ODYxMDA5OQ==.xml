@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-08T20:24:42+08:00</updated>
+  <updated>2020-12-12T23:21:29+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>刻意练习</title>
+    <updated>2020-12-12T22:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/rwgil4axXdvF-ShUMtQDdQ</id>
+    <link href="https://mp.weixin.qq.com/s/rwgil4axXdvF-ShUMtQDdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>40亿条/秒！Flink撑起阿里双11世界级流量！</title>
     <updated>2020-12-08T17:19:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-28T22:33:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/-d1YswPpBi9ExruKt-OVvQ</id>
     <link href="https://mp.weixin.qq.com/s/-d1YswPpBi9ExruKt-OVvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在12个小时，搞定http监控？</title>
-    <updated>2020-11-27T09:02:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/aqpRwEpDPyJXqqLWYhgFmQ</id>
-    <link href="https://mp.weixin.qq.com/s/aqpRwEpDPyJXqqLWYhgFmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
