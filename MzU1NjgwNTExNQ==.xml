@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T11:22:18+08:00</updated>
+  <updated>2020-12-13T13:26:58+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TIOBE12月榜单：Java重回第二，Python有望四连冠年度语言</title>
+    <updated>2020-12-13T12:36:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/UNpUWhBtu5tjbGyo-5rnTQ</id>
+    <link href="https://mp.weixin.qq.com/s/UNpUWhBtu5tjbGyo-5rnTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VS Code 变身约会利器！以码会友，轻松找到心仪的TA！</title>
     <updated>2020-12-12T10:17:23+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-03T22:49:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/8LFGjYWM2vHLwYpBJV27WA</id>
     <link href="https://mp.weixin.qq.com/s/8LFGjYWM2vHLwYpBJV27WA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Visual Studio Code —— Python 开发利器</title>
-    <updated>2020-12-02T20:25:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/XP_J6hMOpfF-kGLtU-qHhg</id>
-    <link href="https://mp.weixin.qq.com/s/XP_J6hMOpfF-kGLtU-qHhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
