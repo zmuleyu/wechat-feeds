@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T20:25:06+08:00</updated>
+  <updated>2020-12-13T23:21:33+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CentOS 并没有死，Rocky Linux 让其重生</title>
+    <updated>2020-12-13T19:46:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/SYBb77vmN93kahteIKXhLA</id>
+    <link href="https://mp.weixin.qq.com/s/SYBb77vmN93kahteIKXhLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>经典LAMP架构实现</title>
+    <updated>2020-12-13T19:46:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/eWsYdzqeSiWl8xt7nVU-qQ</id>
+    <link href="https://mp.weixin.qq.com/s/eWsYdzqeSiWl8xt7nVU-qQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>年前最后一波优惠，直播好礼抽不断，戳→</title>
     <updated>2020-12-12T19:50:23+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-07T12:24:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/I_oFaL3tA-z3UVh0QvibFw</id>
     <link href="https://mp.weixin.qq.com/s/I_oFaL3tA-z3UVh0QvibFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker 图形化工具：Portainer</title>
-    <updated>2020-12-06T23:05:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/GC74KfayJuX2IDfbMCXSOA</id>
-    <link href="https://mp.weixin.qq.com/s/GC74KfayJuX2IDfbMCXSOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里云SLB</title>
-    <updated>2020-12-06T23:05:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/pDFiCXC6sQPw1w5vu35y7A</id>
-    <link href="https://mp.weixin.qq.com/s/pDFiCXC6sQPw1w5vu35y7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
