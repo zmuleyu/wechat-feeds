@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T20:18:16+08:00</updated>
+  <updated>2020-12-13T20:13:40+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>下周北京： Kubernetes CKA实战培训</title>
+    <updated>2020-12-13T18:42:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/JOfgyLGlPPOSfq6aQFNk8w</id>
+    <link href="https://mp.weixin.qq.com/s/JOfgyLGlPPOSfq6aQFNk8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里云技术团队出品：Kubernetes图书，送10本！</title>
     <updated>2020-12-12T18:58:28+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-04T12:18:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/Uy2qScID0DwNPKWkDrFJUw</id>
     <link href="https://mp.weixin.qq.com/s/Uy2qScID0DwNPKWkDrFJUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一种基于 gitlab 的适用于版本发布的 git-flow 协作规范</title>
-    <updated>2020-12-03T11:34:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/ExRQjxv3R6-6ezKplDOidA</id>
-    <link href="https://mp.weixin.qq.com/s/ExRQjxv3R6-6ezKplDOidA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
