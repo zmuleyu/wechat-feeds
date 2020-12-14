@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T11:16:29+08:00</updated>
+  <updated>2020-12-14T16:23:50+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华人工程师“逃离”硅谷</title>
+    <updated>2020-12-14T13:04:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/qg8xqPREUtnwogVWFaobIg</id>
+    <link href="https://mp.weixin.qq.com/s/qg8xqPREUtnwogVWFaobIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>欠下“技术债”，谁负责？</title>
+    <updated>2020-12-14T13:04:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/ohoW4feFClONbgCWWeispg</id>
+    <link href="https://mp.weixin.qq.com/s/ohoW4feFClONbgCWWeispg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>学而思网校直播课堂架构演进之路</title>
+    <updated>2020-12-14T13:04:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/R0ZQngAfNSlvo-LB41rFeQ</id>
+    <link href="https://mp.weixin.qq.com/s/R0ZQngAfNSlvo-LB41rFeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>端云协同推动数字转型，华为机器视觉开拓企业全新边界</title>
+    <updated>2020-12-14T13:04:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/7e_uAu0hoCqv7Iimmw7qug</id>
+    <link href="https://mp.weixin.qq.com/s/7e_uAu0hoCqv7Iimmw7qug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>App跟踪用户隐私？苹果：删了它</title>
+    <updated>2020-12-14T13:04:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/ICrTUTz7hr3UKX9V8xjLQw</id>
+    <link href="https://mp.weixin.qq.com/s/ICrTUTz7hr3UKX9V8xjLQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最开始反对中台的人，结果还是选择了中台</title>
     <updated>2020-12-12T23:53:21+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-09T19:39:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/c7r4LlnVDPPfBqmXXx2AuA</id>
     <link href="https://mp.weixin.qq.com/s/c7r4LlnVDPPfBqmXXx2AuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“主动脉”全体集合 十大联创场景塑造互联网新体验</title>
-    <updated>2020-12-09T19:39:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/HlA3bWYC0rvaf3W3a0GWaA</id>
-    <link href="https://mp.weixin.qq.com/s/HlA3bWYC0rvaf3W3a0GWaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GraphQL是API的未来，但它并非银弹</title>
-    <updated>2020-12-09T19:39:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/ei5IgDc3j8ezt0tTAb-N3g</id>
-    <link href="https://mp.weixin.qq.com/s/ei5IgDc3j8ezt0tTAb-N3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻底放弃英特尔！继M1后，苹果计划推出下一代Mac芯片</title>
-    <updated>2020-12-09T19:39:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/D6Vl7cpa5reE6ZG2jpEpcw</id>
-    <link href="https://mp.weixin.qq.com/s/D6Vl7cpa5reE6ZG2jpEpcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker 的第二次死亡</title>
-    <updated>2020-12-09T11:56:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/kIB4_qDvIIlsbs-jD47yBA</id>
-    <link href="https://mp.weixin.qq.com/s/kIB4_qDvIIlsbs-jD47yBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年敏捷开发人员生存指南</title>
-    <updated>2020-12-09T11:56:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/KZwsxLYPnBouVtLZD-2fOw</id>
-    <link href="https://mp.weixin.qq.com/s/KZwsxLYPnBouVtLZD-2fOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
