@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T23:30:10+08:00</updated>
+  <updated>2020-12-14T20:34:08+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PTP部署中的经验</title>
+    <updated>2020-12-14T20:20:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/HO9Y3aGmRbX_dvglKAMNVg</id>
+    <link href="https://mp.weixin.qq.com/s/HO9Y3aGmRbX_dvglKAMNVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DVB Demos 2020</title>
     <updated>2020-12-13T22:29:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-05T22:23:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/9H6Gk7XBy_BYzOv-3BNXhA</id>
     <link href="https://mp.weixin.qq.com/s/9H6Gk7XBy_BYzOv-3BNXhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[MHV2020] Session 1</title>
-    <updated>2020-12-04T21:34:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/nCrQRD4CIb5zLXACxXzPNQ</id>
-    <link href="https://mp.weixin.qq.com/s/nCrQRD4CIb5zLXACxXzPNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

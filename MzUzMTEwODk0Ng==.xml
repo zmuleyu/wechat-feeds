@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T20:36:44+08:00</updated>
+  <updated>2020-12-14T20:38:11+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Nickier的专栏总结</title>
+    <updated>2020-12-14T18:47:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/JTigwncM6C6SnaKpPtnU2Q</id>
+    <link href="https://mp.weixin.qq.com/s/JTigwncM6C6SnaKpPtnU2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我和生信菜鸟团的 1000 天</title>
     <updated>2020-12-13T16:20:39+08:00</updated>
@@ -103,27 +110,6 @@
     <updated>2020-12-05T08:55:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/GwHQ96XGxmkeXb3b8ctbzQ</id>
     <link href="https://mp.weixin.qq.com/s/GwHQ96XGxmkeXb3b8ctbzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小鼠的肿瘤免疫微环境推断可以用seq-ImmuCC</title>
-    <updated>2020-12-04T20:59:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/fUzbtXHDFRxPlz1tgx8m3g</id>
-    <link href="https://mp.weixin.qq.com/s/fUzbtXHDFRxPlz1tgx8m3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个芯片仅提供了GenBank的索引号</title>
-    <updated>2020-12-04T20:59:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/kF4_MKcfXRxn-dK6E7MMRg</id>
-    <link href="https://mp.weixin.qq.com/s/kF4_MKcfXRxn-dK6E7MMRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>并不一定要单细胞转录组才能看肿瘤免疫微环境个细胞亚群比例</title>
-    <updated>2020-12-04T20:59:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/rrSDpgBGg1X2QtRDgduCcw</id>
-    <link href="https://mp.weixin.qq.com/s/rrSDpgBGg1X2QtRDgduCcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

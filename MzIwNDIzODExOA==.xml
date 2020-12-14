@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T20:27:33+08:00</updated>
+  <updated>2020-12-14T20:23:20+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Envoy 是什么？</title>
+    <updated>2020-12-14T17:58:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/mURA_xB7dlquBYhO3YPLxA</id>
+    <link href="https://mp.weixin.qq.com/s/mURA_xB7dlquBYhO3YPLxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生社区 meetup 第二期北京站倒计时 5 天</title>
+    <updated>2020-12-14T17:58:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/A_I14KPPbJm3dr5sW9ortA</id>
+    <link href="https://mp.weixin.qq.com/s/A_I14KPPbJm3dr5sW9ortA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生社区 meetup 第二期北京站火热报名中</title>
     <updated>2020-12-11T16:25:16+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-11-12T14:56:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/WI3AT6kCOXFsSd9f7s97wQ</id>
     <link href="https://mp.weixin.qq.com/s/WI3AT6kCOXFsSd9f7s97wQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Envoy 官方文档翻译工作组成员招募中</title>
-    <updated>2020-11-09T12:04:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/uY0u2fuFAIGOU3X69OpzQg</id>
-    <link href="https://mp.weixin.qq.com/s/uY0u2fuFAIGOU3X69OpzQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

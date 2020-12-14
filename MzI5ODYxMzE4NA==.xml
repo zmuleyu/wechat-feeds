@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T10:02:37+08:00</updated>
+  <updated>2020-12-14T20:34:56+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>想做个抽奖的前端页面，这个开源项目可以帮到你</title>
+    <updated>2020-12-14T17:42:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/Dv0HFI06p3fBESVdXV1-5g</id>
+    <link href="https://mp.weixin.qq.com/s/Dv0HFI06p3fBESVdXV1-5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用Python轻松获取你电脑浏览器的已登录信息</title>
     <updated>2020-11-30T22:51:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-16T22:12:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/SREChoUhrRBrlxsrl-et9A</id>
     <link href="https://mp.weixin.qq.com/s/SREChoUhrRBrlxsrl-et9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>写个监控RabbitMQ队列数的函数</title>
-    <updated>2020-10-12T15:08:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/8Z2r42RocY3cNnGOApVKzQ</id>
-    <link href="https://mp.weixin.qq.com/s/8Z2r42RocY3cNnGOApVKzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

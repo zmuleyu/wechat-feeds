@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T23:14:18+08:00</updated>
+  <updated>2020-12-14T20:20:32+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>Java资料，限时领，2h删！</title>
+    <updated>2020-12-14T18:27:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/2m_8pTU9wwt-BFzYuACOAg</id>
+    <link href="https://mp.weixin.qq.com/s/2m_8pTU9wwt-BFzYuACOAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工作10年后，再看String s = new String(&#34;xyz&#34;) 创建了几个对象？</title>
+    <updated>2020-12-14T18:27:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/HGPpa3z60Wyb8AsA4DNvsw</id>
+    <link href="https://mp.weixin.qq.com/s/HGPpa3z60Wyb8AsA4DNvsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>别说，Cerebro还真好用！老板再也不用担心ES集群了</title>
     <updated>2020-12-13T17:33:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/MbaWFZN1NbCNP1jPmXSFwQ</id>
     <link href="https://mp.weixin.qq.com/s/MbaWFZN1NbCNP1jPmXSFwQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
-    <updated>2020-12-11T23:47:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/kW0PFX80owmG7uX89lzEmA</id>
-    <link href="https://mp.weixin.qq.com/s/kW0PFX80owmG7uX89lzEmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +96,6 @@
     <updated>2020-12-05T00:12:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/YBh3dMsXgDxLOEAxRInrGw</id>
     <link href="https://mp.weixin.qq.com/s/YBh3dMsXgDxLOEAxRInrGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官问：BitMap了解么？在什么场景下用过？碰到过什么问题？</title>
-    <updated>2020-12-03T22:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/9JwW1_e-2gMKERFaSZRPpg</id>
-    <link href="https://mp.weixin.qq.com/s/9JwW1_e-2gMKERFaSZRPpg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

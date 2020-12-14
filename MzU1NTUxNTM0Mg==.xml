@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T20:16:02+08:00</updated>
+  <updated>2020-12-14T20:18:07+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>击败酷睿i9，苹果M1芯片为何如此优秀？</title>
+    <updated>2020-12-14T18:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/gp80vh9pnWsCgFaJtsM17Q</id>
+    <link href="https://mp.weixin.qq.com/s/gp80vh9pnWsCgFaJtsM17Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>吃透空洞卷积（Dilated Convolutions）</title>
+    <updated>2020-12-14T18:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/x1J0GdI1rr6rywHxucN2pg</id>
+    <link href="https://mp.weixin.qq.com/s/x1J0GdI1rr6rywHxucN2pg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>9个让PyTorch模型训练提速的技巧！</title>
+    <updated>2020-12-14T18:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/6CHGtqvzdWZAAiuiBkH01g</id>
+    <link href="https://mp.weixin.qq.com/s/6CHGtqvzdWZAAiuiBkH01g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「九章」刷屏的背后：万字长文解析，量子计算机和电子计算机各有何优劣？</title>
     <updated>2020-12-13T17:40:54+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-08T21:29:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/9L1pvzt4tr1CMaLK1SVXQw</id>
     <link href="https://mp.weixin.qq.com/s/9L1pvzt4tr1CMaLK1SVXQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LSTM要过气了，用什么来取代？</title>
-    <updated>2020-12-08T21:29:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/NTV8CKZ2jb1OlTaBUvTGbg</id>
-    <link href="https://mp.weixin.qq.com/s/NTV8CKZ2jb1OlTaBUvTGbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pytorch转ONNX详解</title>
-    <updated>2020-12-07T18:59:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/TcgLvhYikTqpQCbbXl1Ifg</id>
-    <link href="https://mp.weixin.qq.com/s/TcgLvhYikTqpQCbbXl1Ifg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图像识别的可视化解释史</title>
-    <updated>2020-12-07T18:59:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/3AohTQh6e6enY9GEzeorfw</id>
-    <link href="https://mp.weixin.qq.com/s/3AohTQh6e6enY9GEzeorfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

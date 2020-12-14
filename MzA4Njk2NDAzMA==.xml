@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T20:34:44+08:00</updated>
+  <updated>2020-12-14T20:35:01+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一些好用的生产力工具</title>
+    <updated>2020-12-14T20:00:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/RU41FaFx1t3LnhqzSWAEXw</id>
+    <link href="https://mp.weixin.qq.com/s/RU41FaFx1t3LnhqzSWAEXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>技术变化那么快，如何做到不被淘汰呢？</title>
+    <updated>2020-12-14T20:00:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/df7C_IPtDluxVqqA5dBv8w</id>
+    <link href="https://mp.weixin.qq.com/s/df7C_IPtDluxVqqA5dBv8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker 出局？你还有 iSula、Containerd 和CRI-O</title>
     <updated>2020-12-12T20:00:21+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-01T19:00:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/iGtjkLeQ7oyogJ-fuVU9Ag</id>
     <link href="https://mp.weixin.qq.com/s/iGtjkLeQ7oyogJ-fuVU9Ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员必知必会的十大排序算法</title>
-    <updated>2020-11-27T17:45:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/3F0Xc2AS4nbRAOrnt7LM7w</id>
-    <link href="https://mp.weixin.qq.com/s/3F0Xc2AS4nbRAOrnt7LM7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今晚发车，来吧！</title>
-    <updated>2020-11-27T17:45:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/RL6NiSWIEbmEaBAgEon0Mg</id>
-    <link href="https://mp.weixin.qq.com/s/RL6NiSWIEbmEaBAgEon0Mg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T11:17:41+08:00</updated>
+  <updated>2020-12-14T20:22:41+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>URL2Video 流水线：网页端自动创作视频的实现</title>
+    <updated>2020-12-14T15:55:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/3njXjOgRHLiNkItrkzPhhA</id>
+    <link href="https://mp.weixin.qq.com/s/3njXjOgRHLiNkItrkzPhhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Constraint Layout 2.0 用法详解</title>
     <updated>2020-12-11T18:27:48+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-12-04T09:30:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/pa1YOFA1snTMYhrjnWqIgg</id>
     <link href="https://mp.weixin.qq.com/s/pa1YOFA1snTMYhrjnWqIgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dart 健全的空安全: Beta 版</title>
-    <updated>2020-12-02T18:04:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/zYZNyUemeAuA7cM6Vo-ZoQ</id>
-    <link href="https://mp.weixin.qq.com/s/zYZNyUemeAuA7cM6Vo-ZoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 Chrome 开发者峰会，为技术发声</title>
-    <updated>2020-12-02T18:04:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/SviD0EjwoD9gYk5IwWZoMw</id>
-    <link href="https://mp.weixin.qq.com/s/SviD0EjwoD9gYk5IwWZoMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
