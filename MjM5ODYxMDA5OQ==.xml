@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T20:21:06+08:00</updated>
+  <updated>2020-12-14T11:19:14+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个大厂首席架构师的忠告：决定你工资上限的，是这件事</title>
+    <updated>2020-12-14T07:15:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/QGFNH8mNSaKIoOZf_PpHBA</id>
+    <link href="https://mp.weixin.qq.com/s/QGFNH8mNSaKIoOZf_PpHBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>1个工具，1套方法，快速找到数据库性能瓶颈？（包教包会）</title>
     <updated>2020-12-13T15:46:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T22:20:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/awHobFOySMbGc9rZc3LsOg</id>
     <link href="https://mp.weixin.qq.com/s/awHobFOySMbGc9rZc3LsOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在12个小时，搞定日志监控？</title>
-    <updated>2020-11-29T23:00:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/6Bjr1PUAC98IIaxBFcECNw</id>
-    <link href="https://mp.weixin.qq.com/s/6Bjr1PUAC98IIaxBFcECNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

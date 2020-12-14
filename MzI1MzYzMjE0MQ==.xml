@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T20:24:55+08:00</updated>
+  <updated>2020-12-14T11:10:37+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>西瓜视频稳定性治理体系建设一：Tailor 原理及实践</title>
+    <updated>2020-12-13T23:16:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/DWOQ9MSTkKSCBFQjPswPIQ</id>
+    <link href="https://mp.weixin.qq.com/s/DWOQ9MSTkKSCBFQjPswPIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动校园编程训练营 ：Byte Camp 冬令营来啦！</title>
     <updated>2020-12-10T18:18:13+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-26T09:58:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/3-Sbqe9gxdV6eI1f435BDg</id>
     <link href="https://mp.weixin.qq.com/s/3-Sbqe9gxdV6eI1f435BDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动程序员（高清）.zip</title>
-    <updated>2020-10-23T19:33:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/TMsoEN0VWV5Ho_PIueosgw</id>
-    <link href="https://mp.weixin.qq.com/s/TMsoEN0VWV5Ho_PIueosgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新世界杂货铺 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-01T10:00:10+08:00</updated>
+  <updated>2020-12-14T11:19:43+08:00</updated>
   <subtitle>作为一名Gopher， 我愿称之为Go的干(杂)货铺子！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>码了2000多行代码就是为了讲清楚TLS握手流程（续）</title>
+    <updated>2020-12-14T09:34:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/ALmouugbrCHrNbyk3OTtSQ</id>
+    <link href="https://mp.weixin.qq.com/s/ALmouugbrCHrNbyk3OTtSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>区分Protobuf 3中缺失值和默认值</title>
     <updated>2020-12-01T09:31:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-07T22:32:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-07:/s/sKlWw6XjAgCpDqUb02qplQ</id>
     <link href="https://mp.weixin.qq.com/s/sKlWw6XjAgCpDqUb02qplQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一道比较运算符相关的面试题把我虐的体无完肤</title>
-    <updated>2020-09-27T19:30:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-27:/s/xDV3yM-vPqWOEiks6mxKEw</id>
-    <link href="https://mp.weixin.qq.com/s/xDV3yM-vPqWOEiks6mxKEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

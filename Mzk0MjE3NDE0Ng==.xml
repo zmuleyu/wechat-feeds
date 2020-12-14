@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T23:32:04+08:00</updated>
+  <updated>2020-12-14T11:28:20+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>公众号内卷</title>
+    <updated>2020-12-13T22:25:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/cBtPxqvdBIgfh1uksp0FKg</id>
+    <link href="https://mp.weixin.qq.com/s/cBtPxqvdBIgfh1uksp0FKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自制 os 极简教程 2：史上最难的 hello world</title>
     <updated>2020-12-09T09:34:44+08:00</updated>
