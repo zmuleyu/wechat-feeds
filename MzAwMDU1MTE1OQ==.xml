@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T16:19:26+08:00</updated>
+  <updated>2020-12-14T23:20:58+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>领域驱动设计框架Axon实践</title>
+    <updated>2020-12-14T21:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/g91zvzrpdPtkwP_5iBUpMw</id>
+    <link href="https://mp.weixin.qq.com/s/g91zvzrpdPtkwP_5iBUpMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 Golang 快速实现 Paxos 分布式共识算法</title>
     <updated>2020-12-13T15:41:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T09:40:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/fshwf12cxdXTILhAnOdbKA</id>
     <link href="https://mp.weixin.qq.com/s/fshwf12cxdXTILhAnOdbKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>建立主动性团队文化：如何打造鼓励失败的氛围</title>
-    <updated>2020-12-01T20:19:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/rjnpfI_0HlSbzTq2c9BSmA</id>
-    <link href="https://mp.weixin.qq.com/s/rjnpfI_0HlSbzTq2c9BSmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
