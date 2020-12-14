@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T23:20:18+08:00</updated>
+  <updated>2020-12-15T01:35:40+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Buck与Boost电路原理，动画讲解</title>
+    <updated>2020-12-14T23:18:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/FTFGGTyNPu-JegUTNJpjtQ</id>
+    <link href="https://mp.weixin.qq.com/s/FTFGGTyNPu-JegUTNJpjtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>通俗易懂的SPWM入门教程</title>
     <updated>2020-12-13T22:30:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T22:28:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/sqz2C8sRPbcbKHosjBjkJQ</id>
     <link href="https://mp.weixin.qq.com/s/sqz2C8sRPbcbKHosjBjkJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从Buck-Boost到Flyback</title>
-    <updated>2020-12-02T20:12:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/QbDy3p5DWk6dfNMEcF1Lww</id>
-    <link href="https://mp.weixin.qq.com/s/QbDy3p5DWk6dfNMEcF1Lww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
