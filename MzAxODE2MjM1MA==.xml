@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T23:07:31+08:00</updated>
+  <updated>2020-12-14T13:07:29+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>简单粗暴可实操的前端性能优化方案</title>
+    <updated>2020-12-13T22:26:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/NpK32nzPfRCNdcZDpSVYpw</id>
+    <link href="https://mp.weixin.qq.com/s/NpK32nzPfRCNdcZDpSVYpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>H5 基于 canvas 实现电子签名并生成PDF文档</title>
+    <updated>2020-12-13T22:26:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/OTFufemlMW7XhjS2zIrHhw</id>
+    <link href="https://mp.weixin.qq.com/s/OTFufemlMW7XhjS2zIrHhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2.8 万 Star！制作数学动画的超棒工具：Manim</title>
+    <updated>2020-12-13T22:26:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/o_r8n5fz_13Km7KfmK_3zg</id>
+    <link href="https://mp.weixin.qq.com/s/o_r8n5fz_13Km7KfmK_3zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js 实现定时每天给女朋友发消息—nodemailer模块</title>
     <updated>2020-12-13T21:24:32+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-08T20:22:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/dXHa3V51W8VdGATS9_DVVQ</id>
     <link href="https://mp.weixin.qq.com/s/dXHa3V51W8VdGATS9_DVVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一套代码、多端运行，Flutter是如何实现的？</title>
-    <updated>2020-12-06T20:58:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/dv3JQPa65qe--n_DXyd2Jg</id>
-    <link href="https://mp.weixin.qq.com/s/dv3JQPa65qe--n_DXyd2Jg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么 React 源码不用 TypeScript 来写？</title>
-    <updated>2020-12-06T20:58:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/pR6ek4ZBW_h0lpbFWyEzog</id>
-    <link href="https://mp.weixin.qq.com/s/pR6ek4ZBW_h0lpbFWyEzog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网页骨架屏自动生成方案分享</title>
-    <updated>2020-12-06T20:25:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/3CQYKxxGJEjQWJl3AtJ6PQ</id>
-    <link href="https://mp.weixin.qq.com/s/3CQYKxxGJEjQWJl3AtJ6PQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
