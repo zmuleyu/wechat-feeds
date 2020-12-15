@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T11:22:13+08:00</updated>
+  <updated>2020-12-15T11:16:35+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用原生Prometheus监控大规模Kubernetes集群</title>
+    <updated>2020-12-14T21:23:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/pV9mIAXfdZ2Vg_8izwC_wg</id>
+    <link href="https://mp.weixin.qq.com/s/pV9mIAXfdZ2Vg_8izwC_wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes从入门到实战培训 | 深圳站</title>
+    <updated>2020-12-14T21:23:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/iU4GqofEuT0HdlSfYHmBHA</id>
+    <link href="https://mp.weixin.qq.com/s/iU4GqofEuT0HdlSfYHmBHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020云原生生态大会，最值得期待的技术盛会！</title>
     <updated>2020-12-14T07:23:50+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-06T08:03:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/xBFQSiHa8TrV7WMFwjE93w</id>
     <link href="https://mp.weixin.qq.com/s/xBFQSiHa8TrV7WMFwjE93w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mirantis及时现身，接过Kubernetes dockershim支持大旗</title>
-    <updated>2020-12-05T09:17:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/zQO8NeqaHIqMEh8SXMtU-Q</id>
-    <link href="https://mp.weixin.qq.com/s/zQO8NeqaHIqMEh8SXMtU-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于Docker、Docker Engine和Kubernetes v1.20，开发人员需要了解的一切</title>
-    <updated>2020-12-05T09:17:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/RDSXVRmIFTuvHwjvCMCtRQ</id>
-    <link href="https://mp.weixin.qq.com/s/RDSXVRmIFTuvHwjvCMCtRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

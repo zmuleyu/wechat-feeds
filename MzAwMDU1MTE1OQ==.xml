@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T23:20:58+08:00</updated>
+  <updated>2020-12-15T11:16:24+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>对多场景多维度下微服务架构的深层分析，for 降本增效！</title>
+    <updated>2020-12-14T21:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-14:/s/coiboUUxsxt9WxY7mAJGcA</id>
+    <link href="https://mp.weixin.qq.com/s/coiboUUxsxt9WxY7mAJGcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>领域驱动设计框架Axon实践</title>
     <updated>2020-12-14T21:42:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-04T22:19:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/GNYg4U1VWVYXAo5efcn5Lg</id>
     <link href="https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构之永恒话题：服务治理与分布式事务</title>
-    <updated>2020-12-02T09:40:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/fshwf12cxdXTILhAnOdbKA</id>
-    <link href="https://mp.weixin.qq.com/s/fshwf12cxdXTILhAnOdbKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
