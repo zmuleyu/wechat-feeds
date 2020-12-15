@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T13:11:33+08:00</updated>
+  <updated>2020-12-15T20:12:48+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>黑客拍卖25万个盗来的MySQL数据库</title>
+    <updated>2020-12-15T18:46:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/7YctjfWSTDpIiBw8oC_obA</id>
+    <link href="https://mp.weixin.qq.com/s/7YctjfWSTDpIiBw8oC_obA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一看就懂的网络传输介质介绍</title>
+    <updated>2020-12-15T18:46:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/3ukGY0eUFKjts2HxSaFR2g</id>
+    <link href="https://mp.weixin.qq.com/s/3ukGY0eUFKjts2HxSaFR2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020云原生生态大会，最值得期待的技术盛会！</title>
     <updated>2020-12-14T11:45:48+08:00</updated>
@@ -50,24 +64,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>太强了！仿京东电商项目终于开源了~</title>
-    <updated>2020-12-10T16:35:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/jqipzYqM-3-wDUY_kehA5w</id>
-    <link href="https://mp.weixin.qq.com/s/jqipzYqM-3-wDUY_kehA5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Kubernetes v1.20 重磅发布 | 主要变化解读</title>
     <updated>2020-12-10T16:35:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/q42xmdvMr9yAkY-YkSyN5g</id>
     <link href="https://mp.weixin.qq.com/s/q42xmdvMr9yAkY-YkSyN5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你为什么总学不会设计模式？</title>
-    <updated>2020-12-08T23:46:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/u56BZPhDIWLstxgce9saqg</id>
-    <link href="https://mp.weixin.qq.com/s/u56BZPhDIWLstxgce9saqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +96,6 @@
     <updated>2020-12-06T18:43:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/HACWdD9fRTLoCxFArCtHvg</id>
     <link href="https://mp.weixin.qq.com/s/HACWdD9fRTLoCxFArCtHvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北京12月份： Kubernetes CKA实战培训</title>
-    <updated>2020-12-05T21:03:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/spMM2_U-kh3dkLgkVV_EEg</id>
-    <link href="https://mp.weixin.qq.com/s/spMM2_U-kh3dkLgkVV_EEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

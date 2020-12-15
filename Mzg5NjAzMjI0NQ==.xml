@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T20:24:48+08:00</updated>
+  <updated>2020-12-15T20:21:22+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>How to implement container in golang?</title>
+    <updated>2020-12-15T16:45:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/wTby-KcsQdss7Sg20ay6vw</id>
+    <link href="https://mp.weixin.qq.com/s/wTby-KcsQdss7Sg20ay6vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「奇淫技巧」如何写最少的代码</title>
+    <updated>2020-12-15T16:45:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/JDLurc8l8ZCJqurr8mzL4A</id>
+    <link href="https://mp.weixin.qq.com/s/JDLurc8l8ZCJqurr8mzL4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>捕获用户在该页面停留的时长，我是这样做的（前端监测）</title>
     <updated>2020-12-14T18:14:13+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-06T14:59:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/7zO2Mth1_UjjU7y9JBrCgA</id>
     <link href="https://mp.weixin.qq.com/s/7zO2Mth1_UjjU7y9JBrCgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我点击页面元素，VSCode 乖乖打开了组件？原理揭秘。</title>
-    <updated>2020-12-04T17:53:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/NrqgHu4s5u0AoMGWppT5xw</id>
-    <link href="https://mp.weixin.qq.com/s/NrqgHu4s5u0AoMGWppT5xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Raft实战——集群成员变更与日志压缩</title>
-    <updated>2020-12-04T17:53:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/-x4-eRkNSuChGCc8RUMvaA</id>
-    <link href="https://mp.weixin.qq.com/s/-x4-eRkNSuChGCc8RUMvaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

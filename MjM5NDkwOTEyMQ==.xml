@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-12T20:30:43+08:00</updated>
+  <updated>2020-12-15T20:27:26+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【DevFest 2020】嘉宾实录总结：《Rosetta：当 AI 遇见密码学》by 谢翔 | 主会场</title>
+    <updated>2020-12-15T18:30:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/CMsYHPl-q4AjtaiVBpoThg</id>
+    <link href="https://mp.weixin.qq.com/s/CMsYHPl-q4AjtaiVBpoThg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【重要通知】上海 GDG 活动平台搬家啦！！</title>
     <updated>2020-12-12T19:20:03+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-30T18:40:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/IQl7FKDlL9_uPGIxkaTShw</id>
     <link href="https://mp.weixin.qq.com/s/IQl7FKDlL9_uPGIxkaTShw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动预告】从工程化维度懂AI，系列分享全新来袭！</title>
-    <updated>2020-11-29T09:37:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/89lDZl9_q-yxUWFEcBjPMw</id>
-    <link href="https://mp.weixin.qq.com/s/89lDZl9_q-yxUWFEcBjPMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
