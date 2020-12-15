@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T20:34:56+08:00</updated>
+  <updated>2020-12-15T13:25:44+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>英特尔NUC8i5BEH黑苹果之旅</title>
+    <updated>2020-12-15T12:58:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/WgckSiedVE2zAsZBSKOGqA</id>
+    <link href="https://mp.weixin.qq.com/s/WgckSiedVE2zAsZBSKOGqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想做个抽奖的前端页面，这个开源项目可以帮到你</title>
     <updated>2020-12-14T17:42:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-25T13:26:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/3kdX4mEuWoLJz7dzTOVzaA</id>
     <link href="https://mp.weixin.qq.com/s/3kdX4mEuWoLJz7dzTOVzaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flask实现的大屏代码开源</title>
-    <updated>2020-10-16T22:12:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/SREChoUhrRBrlxsrl-et9A</id>
-    <link href="https://mp.weixin.qq.com/s/SREChoUhrRBrlxsrl-et9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

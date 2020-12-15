@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T20:31:07+08:00</updated>
+  <updated>2020-12-15T13:19:18+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>步履不停：TensorFlow 2.4 新功能一览！</title>
+    <updated>2020-12-15T11:38:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/22p6IGQlRXTxfc6mt7iJTA</id>
+    <link href="https://mp.weixin.qq.com/s/22p6IGQlRXTxfc6mt7iJTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社区分享 | 图算法在58广告反作弊的应用</title>
     <updated>2020-12-11T17:38:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T18:20:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/1UJ-EoU6mlBo6OFyA1C0fQ</id>
     <link href="https://mp.weixin.qq.com/s/1UJ-EoU6mlBo6OFyA1C0fQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>社区分享 | TensorFlow Serving 模型更新毛刺的完全优化实践</title>
-    <updated>2020-11-27T17:57:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/mQTek0yWS4qAYTIpyT_T1w</id>
-    <link href="https://mp.weixin.qq.com/s/mQTek0yWS4qAYTIpyT_T1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
