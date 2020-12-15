@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T23:33:17+08:00</updated>
+  <updated>2020-12-16T01:52:41+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】 2020-12-15 Rust异步爬虫实战</title>
+    <updated>2020-12-15T23:30:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/Z2tIRDw_Ji7PaFxj5uS9PQ</id>
+    <link href="https://mp.weixin.qq.com/s/Z2tIRDw_Ji7PaFxj5uS9PQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-14 Lock Poisoning 调查问卷</title>
     <updated>2020-12-14T21:05:28+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-05T23:07:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/jk_JxBaLMg_cxZuWGG0CCQ</id>
     <link href="https://mp.weixin.qq.com/s/jk_JxBaLMg_cxZuWGG0CCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-04 Glommio:一个基于Linux io_uring的高效多核线程调度库</title>
-    <updated>2020-12-04T23:16:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/gOzohCre7fw1fnSQzOWinw</id>
-    <link href="https://mp.weixin.qq.com/s/gOzohCre7fw1fnSQzOWinw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
