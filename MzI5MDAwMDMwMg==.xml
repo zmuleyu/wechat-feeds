@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>书伴BookFere | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-13T11:30:39+08:00</updated>
+  <updated>2020-12-15T16:24:51+08:00</updated>
   <subtitle>书伴（bookfere.com），创建的目的是帮助您更便捷、深入地使用手中的Kindle阅读器，让读书成为生命的一部分，让灵魂永远行走在路上。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《漫长的告别》说一声再见，就是死去一点</title>
+    <updated>2020-12-15T13:47:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/7iGhmQiDDBQAzLtkaVPRBw</id>
+    <link href="https://mp.weixin.qq.com/s/7iGhmQiDDBQAzLtkaVPRBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kindle 阅读器固件升级至 5.13.4</title>
     <updated>2020-12-13T00:35:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-26T16:13:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/YuEFVPiDUAw5Y1qWVpXNZA</id>
     <link href="https://mp.weixin.qq.com/s/YuEFVPiDUAw5Y1qWVpXNZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《时间的秩序》时间的物理本质与我们的存在</title>
-    <updated>2020-10-19T15:26:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/CwRSYC1rJMcSolqDB3_6zA</id>
-    <link href="https://mp.weixin.qq.com/s/CwRSYC1rJMcSolqDB3_6zA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
