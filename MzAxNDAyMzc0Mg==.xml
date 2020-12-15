@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T01:35:40+08:00</updated>
+  <updated>2020-12-15T23:21:14+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>电源的安规设计</title>
+    <updated>2020-12-15T21:17:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/RKxDaJa-UnCeSJuDIDRPpA</id>
+    <link href="https://mp.weixin.qq.com/s/RKxDaJa-UnCeSJuDIDRPpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Buck与Boost电路原理，动画讲解</title>
     <updated>2020-12-14T23:18:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-04T22:16:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/uOOHNDeD5g1vGN6TmF0lvA</id>
     <link href="https://mp.weixin.qq.com/s/uOOHNDeD5g1vGN6TmF0lvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电源完整性——理解与设计</title>
-    <updated>2020-12-03T22:28:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/sqz2C8sRPbcbKHosjBjkJQ</id>
-    <link href="https://mp.weixin.qq.com/s/sqz2C8sRPbcbKHosjBjkJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

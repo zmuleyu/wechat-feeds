@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T23:09:42+08:00</updated>
+  <updated>2020-12-15T23:10:14+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>保姆级教程：个人深度学习工作站配置指南</title>
+    <updated>2020-12-15T21:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/QFnYHu_htLG1dxl3Xfa-gg</id>
+    <link href="https://mp.weixin.qq.com/s/QFnYHu_htLG1dxl3Xfa-gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详解Tensorflow模型量化(Quantization)原理及其实现方法</title>
+    <updated>2020-12-15T21:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/CHaBG9KHDR2-fnd9NkflpQ</id>
+    <link href="https://mp.weixin.qq.com/s/CHaBG9KHDR2-fnd9NkflpQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>无需NMS、二分匹配的一阶段端到端目标检测网络，港大提出OneNet</title>
+    <updated>2020-12-15T21:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/T4dbGnpnyGlDLM-V9MP8eA</id>
+    <link href="https://mp.weixin.qq.com/s/T4dbGnpnyGlDLM-V9MP8eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度学习框架简史：TF和PyTorch双头垄断，未来十年迎来黄金时期</title>
+    <updated>2020-12-15T21:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/9A9s8DD9GonWz87ARwpnqQ</id>
+    <link href="https://mp.weixin.qq.com/s/9A9s8DD9GonWz87ARwpnqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>重新思考深度学习中的Attention机制</title>
     <updated>2020-12-14T22:08:01+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-11T21:56:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/p3rToSoLosNXXWYrs6BvvA</id>
     <link href="https://mp.weixin.qq.com/s/p3rToSoLosNXXWYrs6BvvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>四类异常检测算法综述：Isolation Forest、LOF、PCA及DAGMM</title>
-    <updated>2020-12-10T22:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/LlFQ-73hkgRENQiacwKHEg</id>
-    <link href="https://mp.weixin.qq.com/s/LlFQ-73hkgRENQiacwKHEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ACCV2020国际细粒度识别比赛季军方案解读及Tricks汇总</title>
-    <updated>2020-12-10T22:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/YXwwgOZR9nInhjzaqZbbfg</id>
-    <link href="https://mp.weixin.qq.com/s/YXwwgOZR9nInhjzaqZbbfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卷积神经网络与Transformer结合，东南大学提出视频帧合成新架构</title>
-    <updated>2020-12-10T22:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/eZ05Pp4bIvVz2gENw26b8g</id>
-    <link href="https://mp.weixin.qq.com/s/eZ05Pp4bIvVz2gENw26b8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谷歌CEO皮猜致歉，被解雇的AI伦理研究员：根本没有认错</title>
-    <updated>2020-12-10T22:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/pB0lPQYLwEcZYOvKgnxARw</id>
-    <link href="https://mp.weixin.qq.com/s/pB0lPQYLwEcZYOvKgnxARw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

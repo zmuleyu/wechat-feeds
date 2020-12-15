@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T20:35:01+08:00</updated>
+  <updated>2020-12-15T23:30:24+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我被这 10 道 Java 面试题虐哭了</title>
+    <updated>2020-12-15T21:56:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/QDEuyH7-L-8wtvjusWJqVw</id>
+    <link href="https://mp.weixin.qq.com/s/QDEuyH7-L-8wtvjusWJqVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌出现全球大规模宕机，YouTube 和 Gmail 等服务中断</title>
+    <updated>2020-12-15T21:56:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/IbVjpQf5X6rx1gOxazH51w</id>
+    <link href="https://mp.weixin.qq.com/s/IbVjpQf5X6rx1gOxazH51w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一些好用的生产力工具</title>
     <updated>2020-12-14T20:00:37+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-02T15:30:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/1E3CPcszkzXwXL53vvYESg</id>
     <link href="https://mp.weixin.qq.com/s/1E3CPcszkzXwXL53vvYESg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo 商城前端架构升级：多端统一探索、实践与展望</title>
-    <updated>2020-12-01T19:00:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/ztXHAlNXOaQx-0AdQq_gPw</id>
-    <link href="https://mp.weixin.qq.com/s/ztXHAlNXOaQx-0AdQq_gPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 腾讯开源的云原生一体化部署工具</title>
-    <updated>2020-12-01T19:00:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/iGtjkLeQ7oyogJ-fuVU9Ag</id>
-    <link href="https://mp.weixin.qq.com/s/iGtjkLeQ7oyogJ-fuVU9Ag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

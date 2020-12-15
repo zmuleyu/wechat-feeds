@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-09T23:24:40+08:00</updated>
+  <updated>2020-12-15T23:21:41+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo 微服务 API 网关架构实践</title>
+    <updated>2020-12-15T18:04:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/5U1rgpcW21LDYzv8K9EX7g</id>
+    <link href="https://mp.weixin.qq.com/s/5U1rgpcW21LDYzv8K9EX7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>vivo 商城架构升级-SSR 实战篇</title>
+    <updated>2020-12-15T18:04:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/Gzn6e2lt268yvqZQBtG9eA</id>
+    <link href="https://mp.weixin.qq.com/s/Gzn6e2lt268yvqZQBtG9eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>发布会直播技术及业务实践</title>
+    <updated>2020-12-15T18:04:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/QHXRgZtPorTzERtJhFI2kQ</id>
+    <link href="https://mp.weixin.qq.com/s/QHXRgZtPorTzERtJhFI2kQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TVP 两周年：用科技影响世界，让未来可见</title>
+    <updated>2020-12-15T18:04:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/2_6osHgNAWThPoNMtaAzcg</id>
+    <link href="https://mp.weixin.qq.com/s/2_6osHgNAWThPoNMtaAzcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 全球商城：从 0 到 1 代销业务的融合之路</title>
     <updated>2020-12-09T18:06:17+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-11-11T18:09:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/X3nUA_r0BdXPk6B_-tmV3g</id>
     <link href="https://mp.weixin.qq.com/s/X3nUA_r0BdXPk6B_-tmV3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>播放器性能优化之路</title>
-    <updated>2020-11-11T18:09:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/oL22a68Tmr2ViE3DK6Qk1g</id>
-    <link href="https://mp.weixin.qq.com/s/oL22a68Tmr2ViE3DK6Qk1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 vivo 开发者大会：AI 算法在移动端的应用</title>
-    <updated>2020-11-11T18:09:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/c_a04oooZ1t0AqFNLnFhvg</id>
-    <link href="https://mp.weixin.qq.com/s/c_a04oooZ1t0AqFNLnFhvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>悟空活动中台-打造 Nodejs 版本的MyBatis</title>
-    <updated>2020-11-04T17:55:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/u8D02cVzXUQBqlAawibGWA</id>
-    <link href="https://mp.weixin.qq.com/s/u8D02cVzXUQBqlAawibGWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo 云服务业务数据库数据压缩实践</title>
-    <updated>2020-11-04T17:55:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/MlhRZITQYV29iJ1lwrliRQ</id>
-    <link href="https://mp.weixin.qq.com/s/MlhRZITQYV29iJ1lwrliRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

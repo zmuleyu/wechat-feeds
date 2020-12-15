@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T20:39:04+08:00</updated>
+  <updated>2020-12-15T23:34:39+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>据说程序员等电梯的时候都想过调度算法，网友：还真是</title>
+    <updated>2020-12-15T20:48:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/NCMUwLUsktW02WaickT0vA</id>
+    <link href="https://mp.weixin.qq.com/s/NCMUwLUsktW02WaickT0vA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 内存管理大揭秘</title>
+    <updated>2020-12-15T20:48:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/Nao5ps_grNYZqUj-wUpVvw</id>
+    <link href="https://mp.weixin.qq.com/s/Nao5ps_grNYZqUj-wUpVvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大片既视感！快速生成好莱坞特效视频的开源库</title>
+    <updated>2020-12-15T20:48:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/8AFdaUSOalWqXssHGuCFfA</id>
+    <link href="https://mp.weixin.qq.com/s/8AFdaUSOalWqXssHGuCFfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我的电脑不联网，很安全，黑客：你还有风扇呢</title>
     <updated>2020-12-14T19:57:45+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-09T09:49:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/w7RITQCG7CXxuj2u0aE_QA</id>
     <link href="https://mp.weixin.qq.com/s/w7RITQCG7CXxuj2u0aE_QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不到 1000 行代码，GitHub 1400星，天才黑客开源深度学习框架 tinygrad</title>
-    <updated>2020-12-08T21:04:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/_jAbOFzt9R08YFW-TjKcnA</id>
-    <link href="https://mp.weixin.qq.com/s/_jAbOFzt9R08YFW-TjKcnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sklearn 中的朴素贝叶斯分类器</title>
-    <updated>2020-12-08T21:04:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/AGokYaEkhHQVbXwJjE7PLQ</id>
-    <link href="https://mp.weixin.qq.com/s/AGokYaEkhHQVbXwJjE7PLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shell 监控文件变化</title>
-    <updated>2020-12-08T21:04:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/vl05GgQWBhMAJjL9Wp1eFw</id>
-    <link href="https://mp.weixin.qq.com/s/vl05GgQWBhMAJjL9Wp1eFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
