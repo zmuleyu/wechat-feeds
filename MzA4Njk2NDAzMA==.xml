@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T23:30:24+08:00</updated>
+  <updated>2020-12-16T21:36:57+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>想把业务平稳迁移到 K8s 平台吗？这场云原生Meetup，教你知架构、懂实践！</title>
+    <updated>2020-12-16T20:00:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/fWNgBHl0Us5oYhKgK8NB-A</id>
+    <link href="https://mp.weixin.qq.com/s/fWNgBHl0Us5oYhKgK8NB-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>性能提高 15 倍！只是把 MySQL 换成了 ClickHouse</title>
+    <updated>2020-12-16T20:00:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/RZ533H8AiZ-JSrAXNW9MVA</id>
+    <link href="https://mp.weixin.qq.com/s/RZ533H8AiZ-JSrAXNW9MVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我被这 10 道 Java 面试题虐哭了</title>
     <updated>2020-12-15T21:56:18+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-03T20:00:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/agRQ7HRehGaSlhtoJdz5ZQ</id>
     <link href="https://mp.weixin.qq.com/s/agRQ7HRehGaSlhtoJdz5ZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>做架构也得讲武德</title>
-    <updated>2020-12-02T15:30:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/VhnOpiJPZJtvtSR5RCqIYA</id>
-    <link href="https://mp.weixin.qq.com/s/VhnOpiJPZJtvtSR5RCqIYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生的技术探索与落地实践.pdf</title>
-    <updated>2020-12-02T15:30:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/1E3CPcszkzXwXL53vvYESg</id>
-    <link href="https://mp.weixin.qq.com/s/1E3CPcszkzXwXL53vvYESg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

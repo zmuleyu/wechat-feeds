@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>悟空聊架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T13:24:47+08:00</updated>
+  <updated>2020-12-16T21:37:22+08:00</updated>
   <subtitle>图解 高并发、分布式、微服务、中间件。自主开发了 PMP 刷题小程序、Java 刷题小程序，接了 4 个私活。学习网站：www.passjava.cn。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯这么缺人？不卡学历，不卡经验，只要求……</title>
+    <updated>2020-12-15T20:13:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/f_JBaPMSdFEvbDEEACTYYw</id>
+    <link href="https://mp.weixin.qq.com/s/f_JBaPMSdFEvbDEEACTYYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这个月被「视频播放」坑惨了，曝光八大坑</title>
     <updated>2020-12-15T11:11:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-04T08:48:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/CgQLIB1unCzBF365mea1zg</id>
     <link href="https://mp.weixin.qq.com/s/CgQLIB1unCzBF365mea1zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>东汉末年，他们把「服务雪崩」玩到了极致（干货）</title>
-    <updated>2020-10-28T16:07:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/jl4RNTevOPf_shwlJ2pUhg</id>
-    <link href="https://mp.weixin.qq.com/s/jl4RNTevOPf_shwlJ2pUhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

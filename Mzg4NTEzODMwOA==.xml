@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>白泽Sec | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-04T11:40:36+08:00</updated>
+  <updated>2020-12-16T21:35:19+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ISRC年终冲榜活动来啦</title>
+    <updated>2020-12-16T11:08:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/EkhAfj3VTa8hQT9U1LAeKg</id>
+    <link href="https://mp.weixin.qq.com/s/EkhAfj3VTa8hQT9U1LAeKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【续】windows环境redis未授权利用方式梳理</title>
     <updated>2020-12-04T10:48:39+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-10-20T10:05:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/ACWjwFqxDdqV7Oh2DWvBgw</id>
     <link href="https://mp.weixin.qq.com/s/ACWjwFqxDdqV7Oh2DWvBgw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SQL注入绕过速查表</title>
-    <updated>2020-10-19T23:21:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-19:/s/paurceO6JyNyr8PPbcN9Xg</id>
-    <link href="https://mp.weixin.qq.com/s/paurceO6JyNyr8PPbcN9Xg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

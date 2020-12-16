@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T20:37:20+08:00</updated>
+  <updated>2020-12-16T21:42:14+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】理解Rust中的Futures（一）</title>
+    <updated>2020-12-15T20:02:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/U8O5IFFsv97Y6CkeN7dQ7A</id>
+    <link href="https://mp.weixin.qq.com/s/U8O5IFFsv97Y6CkeN7dQ7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>转发一张关于Rust Option的图片，一张图理解Rust的Option。图片作者：Tate，Hongliang Tian （tate.thl@antgroup.com）。</title>
     <updated>2020-12-15T17:40:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-12T16:29:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/BpODrisNC7IcEJ3rs-ITNQ</id>
     <link href="https://mp.weixin.qq.com/s/BpODrisNC7IcEJ3rs-ITNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】Ringbahn的两个内存Bug</title>
-    <updated>2020-11-03T15:53:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/HzwOzXIUUnvxectUDeQqgQ</id>
-    <link href="https://mp.weixin.qq.com/s/HzwOzXIUUnvxectUDeQqgQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

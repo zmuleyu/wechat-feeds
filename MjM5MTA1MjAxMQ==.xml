@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T11:13:43+08:00</updated>
+  <updated>2020-12-16T21:27:48+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2149期】V8中的快属性</title>
+    <updated>2020-12-16T05:50:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/41UkARsqGS12Tx88JLuWEg</id>
+    <link href="https://mp.weixin.qq.com/s/41UkARsqGS12Tx88JLuWEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>简单粗暴可实操的前端性能优化方案</title>
     <updated>2020-12-15T07:30:37+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-12-07T06:17:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/9B_xxJh9Lx2t0vssCh5buA</id>
     <link href="https://mp.weixin.qq.com/s/9B_xxJh9Lx2t0vssCh5buA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2139期】Web应用程序如何工作：客户端开发和部署</title>
-    <updated>2020-12-06T08:01:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/ZogBhCFFYSZP1orsjiRvbA</id>
-    <link href="https://mp.weixin.qq.com/s/ZogBhCFFYSZP1orsjiRvbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工程化构建工具webpack</title>
-    <updated>2020-12-06T08:01:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/5a2bcyvNKTnK3ER9EoMHFA</id>
-    <link href="https://mp.weixin.qq.com/s/5a2bcyvNKTnK3ER9EoMHFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T01:30:42+08:00</updated>
+  <updated>2020-12-16T21:25:44+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不懂 Spring AOP 就去面试，谁给你的勇气？</title>
+    <updated>2020-12-15T22:52:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/asYuQAxSfemXrDoalhFFHQ</id>
+    <link href="https://mp.weixin.qq.com/s/asYuQAxSfemXrDoalhFFHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>选择比努力更重要，面试新公司，从哪些细节能判断公司的前途？项目的好坏？</title>
+    <updated>2020-12-15T22:52:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/4Zo1PUcRp2XXgQ0vgZ9D7Q</id>
+    <link href="https://mp.weixin.qq.com/s/4Zo1PUcRp2XXgQ0vgZ9D7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干Java外包三年了，怎么才能进字节跳动啊？</title>
     <updated>2020-12-15T12:37:52+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-06T00:35:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/c23pQmlRfzKiTFatH85Dlw</id>
     <link href="https://mp.weixin.qq.com/s/c23pQmlRfzKiTFatH85Dlw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文详解负载均衡和反向代理的真实区别</title>
-    <updated>2020-12-05T00:12:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/YBh3dMsXgDxLOEAxRInrGw</id>
-    <link href="https://mp.weixin.qq.com/s/YBh3dMsXgDxLOEAxRInrGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

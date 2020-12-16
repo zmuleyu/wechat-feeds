@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T23:34:39+08:00</updated>
+  <updated>2020-12-16T21:40:19+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软新开源！不用写 1 行代码的自动化测试工具</title>
+    <updated>2020-12-16T19:10:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/hrADY9AfymaVLzmZB9jDaA</id>
+    <link href="https://mp.weixin.qq.com/s/hrADY9AfymaVLzmZB9jDaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这篇文章把 TCP/IP 讲绝了！</title>
+    <updated>2020-12-16T19:10:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/ypzml4GEggNlbr-QAVo6CA</id>
+    <link href="https://mp.weixin.qq.com/s/ypzml4GEggNlbr-QAVo6CA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>据说程序员等电梯的时候都想过调度算法，网友：还真是</title>
     <updated>2020-12-15T20:48:30+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-10T17:32:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/WiJX7k4Jy-_FVphJyq7LXQ</id>
     <link href="https://mp.weixin.qq.com/s/WiJX7k4Jy-_FVphJyq7LXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>互联网内卷开始……</title>
-    <updated>2020-12-09T09:49:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/9MmacrdFxKNa4i9U_XBGQw</id>
-    <link href="https://mp.weixin.qq.com/s/9MmacrdFxKNa4i9U_XBGQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这 10 个 Python 可视化工具，你用过哪些？</title>
-    <updated>2020-12-09T09:49:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/w7RITQCG7CXxuj2u0aE_QA</id>
-    <link href="https://mp.weixin.qq.com/s/w7RITQCG7CXxuj2u0aE_QA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

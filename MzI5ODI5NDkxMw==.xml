@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T07:36:27+08:00</updated>
+  <updated>2020-12-16T21:42:04+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 中国软件 100 强，腾讯第二、阿里第三，他第一！</title>
+    <updated>2020-12-16T00:27:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/MRt27iCIrX_XT8I5dLYmOQ</id>
+    <link href="https://mp.weixin.qq.com/s/MRt27iCIrX_XT8I5dLYmOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>赞！《Python面试大全》PDF版来啦！</title>
+    <updated>2020-12-16T00:27:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/6ncz-mYLP6877RO1CFYuDQ</id>
+    <link href="https://mp.weixin.qq.com/s/6ncz-mYLP6877RO1CFYuDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SQL中的in与not in、exists与not exists的区别以及性能分析</title>
+    <updated>2020-12-16T00:27:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/NxofNKsbINtJx8Jix5ijwA</id>
+    <link href="https://mp.weixin.qq.com/s/NxofNKsbINtJx8Jix5ijwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JVM GC耗时频频升高，这次排查完想说：还有谁？</title>
+    <updated>2020-12-16T00:27:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/4sY9GQDI_XW-vtprAQRYCg</id>
+    <link href="https://mp.weixin.qq.com/s/4sY9GQDI_XW-vtprAQRYCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flutter实现3D效果，一个字，炫！</title>
+    <updated>2020-12-16T00:27:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/eTDvJtZVxZSM4Qn6FlsknA</id>
+    <link href="https://mp.weixin.qq.com/s/eTDvJtZVxZSM4Qn6FlsknA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见！Postman</title>
     <updated>2020-12-15T00:46:08+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-12T23:53:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/bf_iG7knbTzIKKdTkzVdBw</id>
     <link href="https://mp.weixin.qq.com/s/bf_iG7knbTzIKKdTkzVdBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动CEO--张一鸣卧底公司群2天，怒斥员工摸鱼</title>
-    <updated>2020-12-12T00:18:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/47hAJ-rdGKTi12IRa9MPRw</id>
-    <link href="https://mp.weixin.qq.com/s/47hAJ-rdGKTi12IRa9MPRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CTO说：Service层的接口是不是多此一举</title>
-    <updated>2020-12-12T00:18:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/P1FRUlImbF8t8gx_L3pPLQ</id>
-    <link href="https://mp.weixin.qq.com/s/P1FRUlImbF8t8gx_L3pPLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在Java代码中去掉烦人的“!=null”</title>
-    <updated>2020-12-12T00:18:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/Uhr0vZMjgPkoubMpL-Bakw</id>
-    <link href="https://mp.weixin.qq.com/s/Uhr0vZMjgPkoubMpL-Bakw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021网络发展：最佳网络构建方式将会是什么？</title>
-    <updated>2020-12-12T00:18:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/mzevHGa0UtGXxoJaouBDlg</id>
-    <link href="https://mp.weixin.qq.com/s/mzevHGa0UtGXxoJaouBDlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>12个让您震撼的Linux终端命令</title>
-    <updated>2020-12-12T00:18:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/fL3x6OxBQryZlXnUhPr53g</id>
-    <link href="https://mp.weixin.qq.com/s/fL3x6OxBQryZlXnUhPr53g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
