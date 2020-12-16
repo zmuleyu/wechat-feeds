@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>硬件十万个为什么 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T23:21:14+08:00</updated>
+  <updated>2020-12-16T23:12:58+08:00</updated>
   <subtitle>热爱技术，乐于分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开关电源输入电容上承载的有效电流</title>
+    <updated>2020-12-16T21:46:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/3UxbgLilyVRieBiUQCVV8g</id>
+    <link href="https://mp.weixin.qq.com/s/3UxbgLilyVRieBiUQCVV8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>电源的安规设计</title>
     <updated>2020-12-15T21:17:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-05T19:18:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/BPE5olZOz4WEHey44B9-4Q</id>
     <link href="https://mp.weixin.qq.com/s/BPE5olZOz4WEHey44B9-4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开关电源输出电感的DCR温度补偿</title>
-    <updated>2020-12-04T22:16:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/uOOHNDeD5g1vGN6TmF0lvA</id>
-    <link href="https://mp.weixin.qq.com/s/uOOHNDeD5g1vGN6TmF0lvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

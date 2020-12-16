@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T13:11:27+08:00</updated>
+  <updated>2020-12-16T23:07:03+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>计算机视觉与模式识别/图像处理学术论文速递[12.16]</title>
+    <updated>2020-12-16T18:10:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/E9khDV9mgLp5hiKPqYSCMw</id>
+    <link href="https://mp.weixin.qq.com/s/E9khDV9mgLp5hiKPqYSCMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>计算机视觉与模式识别/图像处理学术论文速递[12.14]</title>
     <updated>2020-12-14T11:36:49+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-11-23T23:21:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/hrfNQmPYq-g0cP8isOud9A</id>
     <link href="https://mp.weixin.qq.com/s/hrfNQmPYq-g0cP8isOud9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[优化] Gauss-Newton非线性最小二乘算法</title>
-    <updated>2020-11-22T22:47:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/DJKZN90E7zDDL7SRx9EF0A</id>
-    <link href="https://mp.weixin.qq.com/s/DJKZN90E7zDDL7SRx9EF0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开学术会议经验分享 SIGGRAPH/UIST/CVPR/ICCV</title>
-    <updated>2020-11-22T22:47:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/nDIUKO3PSrMfEOq1kIWoiQ</id>
-    <link href="https://mp.weixin.qq.com/s/nDIUKO3PSrMfEOq1kIWoiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
