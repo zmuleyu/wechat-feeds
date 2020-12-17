@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:36:57+08:00</updated>
+  <updated>2020-12-17T16:22:33+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构师的成长之路，第一步该怎么迈？</title>
+    <updated>2020-12-17T15:30:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/VXF9VkPExRd8Hs_lXCirGg</id>
+    <link href="https://mp.weixin.qq.com/s/VXF9VkPExRd8Hs_lXCirGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工具 | 字节跳动开源的一款通用内存快照裁剪压缩工具</title>
+    <updated>2020-12-17T15:30:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/P1mnM7tbD7a2lUWNGZkOBg</id>
+    <link href="https://mp.weixin.qq.com/s/P1mnM7tbD7a2lUWNGZkOBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想把业务平稳迁移到 K8s 平台吗？这场云原生Meetup，教你知架构、懂实践！</title>
     <updated>2020-12-16T20:00:12+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-04T20:00:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/ANs8ARF86rtFFC4RwVp7mg</id>
     <link href="https://mp.weixin.qq.com/s/ANs8ARF86rtFFC4RwVp7mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“如果中台不省钱，我还建什么中台啊！”</title>
-    <updated>2020-12-03T20:00:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/OLgE3yVGCB2ZNVXRcCAlOg</id>
-    <link href="https://mp.weixin.qq.com/s/OLgE3yVGCB2ZNVXRcCAlOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「码农周刊 VIP 会员专属邮件周报」明晚发送，赶紧上车吧！</title>
-    <updated>2020-12-03T20:00:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/agRQ7HRehGaSlhtoJdz5ZQ</id>
-    <link href="https://mp.weixin.qq.com/s/agRQ7HRehGaSlhtoJdz5ZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
