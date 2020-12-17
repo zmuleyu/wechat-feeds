@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:23:29+08:00</updated>
+  <updated>2020-12-17T20:17:17+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>说实话，月薪3W谁不酸呢？</title>
+    <updated>2020-12-17T18:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/rTF01CBCzIIsh24tMjUgjw</id>
+    <link href="https://mp.weixin.qq.com/s/rTF01CBCzIIsh24tMjUgjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes中容器到容器通信</title>
+    <updated>2020-12-17T18:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/P-xKd6HeOGxyt-YXCnZjmQ</id>
+    <link href="https://mp.weixin.qq.com/s/P-xKd6HeOGxyt-YXCnZjmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干掉微服务：首次揭秘腾讯社交、阿里电商万亿级架构实战！</title>
     <updated>2020-12-16T11:16:03+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-07T22:32:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/itwno-o2zRKdQBFBIrAljg</id>
     <link href="https://mp.weixin.qq.com/s/itwno-o2zRKdQBFBIrAljg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优化Docker 镜像小技巧</title>
-    <updated>2020-12-07T11:42:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/mqWSiS4Q05bHkEEFifvRsg</id>
-    <link href="https://mp.weixin.qq.com/s/mqWSiS4Q05bHkEEFifvRsg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

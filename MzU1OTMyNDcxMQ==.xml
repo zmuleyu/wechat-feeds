@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:31:22+08:00</updated>
+  <updated>2020-12-17T20:24:25+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021 谷歌技术类实习开放申请啦！</title>
+    <updated>2020-12-17T19:22:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/-9BpPOuVU4yBSoJLkegMpg</id>
+    <link href="https://mp.weixin.qq.com/s/-9BpPOuVU4yBSoJLkegMpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>案例分享 | TensorFlow 在医学图像的应用 — 皮肤病自查小程序“体素肤知汇”</title>
     <updated>2020-12-16T18:17:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T18:11:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/7C7UFfE2dIM8ZtvwW8kbWQ</id>
     <link href="https://mp.weixin.qq.com/s/7C7UFfE2dIM8ZtvwW8kbWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BodyPix：在浏览器中使用 TensorFlow.js 进行实时人物分割</title>
-    <updated>2020-12-01T19:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/i0nMGl3BUUv6j4UJhylVUg</id>
-    <link href="https://mp.weixin.qq.com/s/i0nMGl3BUUv6j4UJhylVUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

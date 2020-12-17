@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:28:42+08:00</updated>
+  <updated>2020-12-17T20:22:20+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JavaScript 中模块的导入和导出——最最最简明教程</title>
+    <updated>2020-12-17T17:34:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/qCE9kzJhjnxvXbTydaHiqQ</id>
+    <link href="https://mp.weixin.qq.com/s/qCE9kzJhjnxvXbTydaHiqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Raft实战（番外篇）—— 线性一致性介绍</title>
+    <updated>2020-12-17T17:34:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/qxKZoojaTh8ieLh9-o3OwA</id>
+    <link href="https://mp.weixin.qq.com/s/qxKZoojaTh8ieLh9-o3OwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Raft 协议实战系列（六）—— 线性一致性与读性能优化</title>
     <updated>2020-12-16T16:55:15+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-07T17:50:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/NfCnyMKtqeZzZeXwoteyxw</id>
     <link href="https://mp.weixin.qq.com/s/NfCnyMKtqeZzZeXwoteyxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>沸点集锦——看看大家上班是怎么摸鱼的</title>
-    <updated>2020-12-07T17:50:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/G5eZR1eBG8eiC2XzgAsmEw</id>
-    <link href="https://mp.weixin.qq.com/s/G5eZR1eBG8eiC2XzgAsmEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「和耳朵」聊聊微服务与分布式系统</title>
-    <updated>2020-12-07T17:50:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/-jVsDsL9qvt-S1eEQrGGJQ</id>
-    <link href="https://mp.weixin.qq.com/s/-jVsDsL9qvt-S1eEQrGGJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

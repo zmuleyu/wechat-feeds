@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>VALSE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-11T11:11:02+08:00</updated>
+  <updated>2020-12-17T20:30:56+08:00</updated>
   <subtitle>VALSE（Vision and Learning Seminar） 年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者提供一个深层次学术交流的舞台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VALSE Webinar 20-30期 深度模型架构设计与优化</title>
+    <updated>2020-12-17T18:59:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/V6JUPSe0rH2R9j08sKPWdw</id>
+    <link href="https://mp.weixin.qq.com/s/V6JUPSe0rH2R9j08sKPWdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VALSE Student Webinar  20-03期 视觉智能模型的抗攻击性</title>
     <updated>2020-12-11T11:08:41+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-24T21:29:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-24:/s/hQRZjf4Ohl7tcWfmYNgZNA</id>
     <link href="https://mp.weixin.qq.com/s/hQRZjf4Ohl7tcWfmYNgZNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VALSE 2020线上大会学生论坛【VALSE Student Seminar】Panel实录</title>
-    <updated>2020-09-21T19:04:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/uLwNcdeHUqSwnBEm19zkSg</id>
-    <link href="https://mp.weixin.qq.com/s/uLwNcdeHUqSwnBEm19zkSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>独立播客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:32:21+08:00</updated>
+  <updated>2020-12-17T20:25:56+08:00</updated>
   <subtitle>分享一些能够经得起时间考验的播客内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>手把手教你零基础制作播客</title>
+    <updated>2020-12-17T15:11:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/t1-Ia6P7NKN8rFiAbCNHgg</id>
+    <link href="https://mp.weixin.qq.com/s/t1-Ia6P7NKN8rFiAbCNHgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年11月新播客 03</title>
     <updated>2020-12-15T21:59:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-01T19:58:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/Maa24QXVDnVzI1oITASGaQ</id>
     <link href="https://mp.weixin.qq.com/s/Maa24QXVDnVzI1oITASGaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>播客圈最近发生了啥 | 010</title>
-    <updated>2020-11-29T22:20:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/-NfpduT5FUaEThI2LxEBnQ</id>
-    <link href="https://mp.weixin.qq.com/s/-NfpduT5FUaEThI2LxEBnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
