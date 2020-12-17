@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:25:44+08:00</updated>
+  <updated>2020-12-17T11:13:21+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我终于决定要放弃 okhttp、httpClient，选择了这个牛逼的神仙工具！贼爽</title>
+    <updated>2020-12-16T22:32:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/NM7qlLQr-G0m3tfC_yzeIQ</id>
+    <link href="https://mp.weixin.qq.com/s/NM7qlLQr-G0m3tfC_yzeIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跑分超MySQL801倍，3天啃透实时计算“黑马”神器详解！</title>
+    <updated>2020-12-16T22:32:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/0ejxXRI_QhU9soMuuU6YPw</id>
+    <link href="https://mp.weixin.qq.com/s/0ejxXRI_QhU9soMuuU6YPw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不懂 Spring AOP 就去面试，谁给你的勇气？</title>
     <updated>2020-12-15T22:52:02+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-07T10:56:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/_8BMBlvBBXfdVao3gkIemg</id>
     <link href="https://mp.weixin.qq.com/s/_8BMBlvBBXfdVao3gkIemg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯 Code Review 规范出炉！你还敢乱写代码？？</title>
-    <updated>2020-12-06T00:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/c23pQmlRfzKiTFatH85Dlw</id>
-    <link href="https://mp.weixin.qq.com/s/c23pQmlRfzKiTFatH85Dlw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

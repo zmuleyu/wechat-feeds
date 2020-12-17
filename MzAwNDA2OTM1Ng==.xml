@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:40:43+08:00</updated>
+  <updated>2020-12-17T11:28:44+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>单例模式的这些细节你都知道么？</title>
+    <updated>2020-12-16T23:05:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/CtwXtTp8ZxxWnTraZ7HR2g</id>
+    <link href="https://mp.weixin.qq.com/s/CtwXtTp8ZxxWnTraZ7HR2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>校招拿到30W+的Java学习路径是怎样的？</title>
+    <updated>2020-12-16T23:05:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/krzD-9rcxp5I6n2gSXypfA</id>
+    <link href="https://mp.weixin.qq.com/s/krzD-9rcxp5I6n2gSXypfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>明年跳槽，我劝你千万别忽略这些“细节”！不然……</title>
     <updated>2020-12-15T20:24:15+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-07T22:38:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/pinOFeF09orQCnIp4L6XyA</id>
     <link href="https://mp.weixin.qq.com/s/pinOFeF09orQCnIp4L6XyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>求你了，不要再在对外接口中使用枚举类型了！</title>
-    <updated>2020-12-06T20:06:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/ynYi_dMlP2Y9GnQXzQxa3Q</id>
-    <link href="https://mp.weixin.qq.com/s/ynYi_dMlP2Y9GnQXzQxa3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

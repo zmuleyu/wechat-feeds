@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AppHubs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T11:10:28+08:00</updated>
+  <updated>2020-12-17T11:30:36+08:00</updated>
   <subtitle>追随乔帮主</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>支持 M1 原生的 Office 套件来了</title>
+    <updated>2020-12-16T23:12:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/2GPPbCYxrl7Cv_GfYSKFiw</id>
+    <link href="https://mp.weixin.qq.com/s/2GPPbCYxrl7Cv_GfYSKFiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>醒醒吧，Flutter 并不是你们期望的那样</title>
     <updated>2020-12-13T22:54:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-01T12:56:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/FA-B6_5KG19VGuGRJOJzWQ</id>
     <link href="https://mp.weixin.qq.com/s/FA-B6_5KG19VGuGRJOJzWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何知道应用是否可以在 M1 Mac 上本地运行</title>
-    <updated>2020-11-29T21:22:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/vf9gM-ERaGoWgae58w43FQ</id>
-    <link href="https://mp.weixin.qq.com/s/vf9gM-ERaGoWgae58w43FQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

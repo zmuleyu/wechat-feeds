@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:28:46+08:00</updated>
+  <updated>2020-12-17T11:16:36+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大厂Java工程师到底厉害在哪里？｜ 极客时间</title>
+    <updated>2020-12-16T22:26:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/VcTq3_tsXaol72P8X4O8VA</id>
+    <link href="https://mp.weixin.qq.com/s/VcTq3_tsXaol72P8X4O8VA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes决定弃用Docker，到底会影响到谁？</title>
+    <updated>2020-12-16T22:26:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/J21CLwgF1xLy-6fo1f6Lgw</id>
+    <link href="https://mp.weixin.qq.com/s/J21CLwgF1xLy-6fo1f6Lgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>想把业务平稳迁移到 K8s 平台吗？这场云原生Meetup，教你知架构、懂实践！｜ Q推荐</title>
+    <updated>2020-12-16T22:26:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/dWG2t51p8679tgzSVxcCtg</id>
+    <link href="https://mp.weixin.qq.com/s/dWG2t51p8679tgzSVxcCtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>vivo AI计算平台 Kubernetes集群Ingress网关实践</title>
+    <updated>2020-12-16T22:26:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/lnmmBvpqarbJF16fibFTGQ</id>
+    <link href="https://mp.weixin.qq.com/s/lnmmBvpqarbJF16fibFTGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>企业架构中的坑：你是否搞混了“服务”？</title>
+    <updated>2020-12-16T22:26:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/OUIhXb7pME43-FTLeL1mKg</id>
+    <link href="https://mp.weixin.qq.com/s/OUIhXb7pME43-FTLeL1mKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>鸿蒙2.0手机Beta版本发布！华为小目标：一年内自研设备搭载HarmonyOS数量过亿</title>
     <updated>2020-12-16T12:42:07+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-14T13:04:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/ICrTUTz7hr3UKX9V8xjLQw</id>
     <link href="https://mp.weixin.qq.com/s/ICrTUTz7hr3UKX9V8xjLQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最开始反对中台的人，结果还是选择了中台</title>
-    <updated>2020-12-12T23:53:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/5MtALA_MBAZiGOfwGgfbeQ</id>
-    <link href="https://mp.weixin.qq.com/s/5MtALA_MBAZiGOfwGgfbeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么阿里云要做流批一体？</title>
-    <updated>2020-12-12T23:53:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/xrUsRPlwM1owfpWDS-C1rg</id>
-    <link href="https://mp.weixin.qq.com/s/xrUsRPlwM1owfpWDS-C1rg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自主掌控AI迭代，华为云ModelArts Pro让模型越用越精准</title>
-    <updated>2020-12-12T23:53:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/7ao8AleXB9NuGDay8087kw</id>
-    <link href="https://mp.weixin.qq.com/s/7ao8AleXB9NuGDay8087kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>调查了6万多名开发者后，我们发现了这些...</title>
-    <updated>2020-12-12T23:53:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/gFGiQZJRmxMlMFMhJtZ71g</id>
-    <link href="https://mp.weixin.qq.com/s/gFGiQZJRmxMlMFMhJtZ71g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>官方回应阿里海康等成立HR联盟共享员工信息；ofo退押金要等988年；教育部将编程教育纳入中小学课程 | Q资讯</title>
-    <updated>2020-12-12T10:18:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/LVH3m4Muyj3nxEDd1mOpbg</id>
-    <link href="https://mp.weixin.qq.com/s/LVH3m4Muyj3nxEDd1mOpbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

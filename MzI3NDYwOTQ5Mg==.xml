@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>恩智浦MCU加油站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-10T11:27:26+08:00</updated>
+  <updated>2020-12-17T11:31:26+08:00</updated>
   <subtitle>迎来到恩智浦MCU加油站，在这里您可以了解到关于恩智浦MCU产品的各种信息，开发技巧、各种教程文档、研讨会培训课程的预告等，我们还会与您分享最新的产品和产业动态。 如果您对恩智浦的产品和本公众号，有什么好的建议和意见，可以在此留言或来稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>UART接口不够了？看看这篇就够了！</title>
+    <updated>2020-12-16T17:15:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/PQVDtrMZMyU58ZIEE3nkXg</id>
+    <link href="https://mp.weixin.qq.com/s/PQVDtrMZMyU58ZIEE3nkXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用NXP原厂SDK实现DMA操作详解</title>
+    <updated>2020-12-16T17:15:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/_giCrGxd4Frv0mmr8s_ADA</id>
+    <link href="https://mp.weixin.qq.com/s/_giCrGxd4Frv0mmr8s_ADA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MCU的调试接口——怎么堵住这个后门？</title>
     <updated>2020-12-09T21:58:23+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-14T23:10:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/YFzzq8HlDYJBq0uMDvA1Zw</id>
     <link href="https://mp.weixin.qq.com/s/YFzzq8HlDYJBq0uMDvA1Zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>灯厂们背后的MCU，看LPC如何花式点灯(之四)</title>
-    <updated>2020-10-14T23:10:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/TDuJ74wKqZH7kQ7793OdpA</id>
-    <link href="https://mp.weixin.qq.com/s/TDuJ74wKqZH7kQ7793OdpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>简约不简单：逐飞科技基于NXP LPC55S69的IoT开发板正式发布</title>
-    <updated>2020-10-10T22:14:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-10:/s/lldZnNs0FgoQ8MNTYI8Xhg</id>
-    <link href="https://mp.weixin.qq.com/s/lldZnNs0FgoQ8MNTYI8Xhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

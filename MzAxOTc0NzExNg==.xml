@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农翻身 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:39:29+08:00</updated>
+  <updated>2020-12-17T11:28:34+08:00</updated>
   <subtitle>技术本来是很精彩的啊！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>运维总监怒怼开发：你真的需要K8S吗？</title>
+    <updated>2020-12-16T21:02:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/h8CEuO1zLMiN-CFhc1kD1w</id>
+    <link href="https://mp.weixin.qq.com/s/h8CEuO1zLMiN-CFhc1kD1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画 | 程序员，你得一条道走到黑！</title>
     <updated>2020-12-15T22:42:16+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-01T22:10:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/rVJbeCy-NogsMrKiqQ8LvA</id>
     <link href="https://mp.weixin.qq.com/s/rVJbeCy-NogsMrKiqQ8LvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 我把面试官搞崩溃了！</title>
-    <updated>2020-11-30T22:36:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/UYKiTebKYLfo0UvCbQGZtQ</id>
-    <link href="https://mp.weixin.qq.com/s/UYKiTebKYLfo0UvCbQGZtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

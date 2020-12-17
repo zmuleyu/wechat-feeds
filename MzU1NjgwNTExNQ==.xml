@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:33:17+08:00</updated>
+  <updated>2020-12-17T11:21:56+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VS Code 1.52 发布！</title>
+    <updated>2020-12-16T21:19:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/AymBgUFfrfe-Be7dU-lXHA</id>
+    <link href="https://mp.weixin.qq.com/s/AymBgUFfrfe-Be7dU-lXHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>压箱底的8个网站，各种高效工具应有尽有</title>
     <updated>2020-12-15T20:34:21+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-07T20:40:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/SudKjETmN0KUr5HqGfZ2-Q</id>
     <link href="https://mp.weixin.qq.com/s/SudKjETmN0KUr5HqGfZ2-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知乎热榜：找工作时普遍要求35岁以下，网友吐槽：35岁招谁惹谁了！</title>
-    <updated>2020-12-06T13:58:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/sv-wJnU5PGexlh1loT1hnw</id>
-    <link href="https://mp.weixin.qq.com/s/sv-wJnU5PGexlh1loT1hnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub 2020年度Octoverse报告：TypeScript 异军突起，开源正在发挥更大的社会价值</title>
-    <updated>2020-12-06T13:58:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/B5KuL2zBuNrOY0mOnMc57g</id>
-    <link href="https://mp.weixin.qq.com/s/B5KuL2zBuNrOY0mOnMc57g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
