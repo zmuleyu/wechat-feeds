@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python与算法社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T23:22:54+08:00</updated>
+  <updated>2020-12-18T01:50:26+08:00</updated>
   <subtitle>点击这里，关注我！顶级Python 机器学习 数据分析教程，让你触手可得！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>csv 文件读写乱码问题的一个简单解决方法</title>
+    <updated>2020-12-17T23:50:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/--MaLy97DYaPMkDQA6HANg</id>
+    <link href="https://mp.weixin.qq.com/s/--MaLy97DYaPMkDQA6HANg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>没有数据挖掘思路，从哪里开始学习？</title>
     <updated>2020-12-16T22:45:11+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-08T17:45:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/6iHIHjixfvhKXXEEs6281A</id>
     <link href="https://mp.weixin.qq.com/s/6iHIHjixfvhKXXEEs6281A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 进阶必读书，附 PDF 翻译版下载</title>
-    <updated>2020-12-07T23:55:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/zMMNKTB3DD9SYpzZmBvi_A</id>
-    <link href="https://mp.weixin.qq.com/s/zMMNKTB3DD9SYpzZmBvi_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>pip 进阶用法</title>
-    <updated>2020-12-07T23:55:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/ZUrVFSfRQyEi9-uo89s8uw</id>
-    <link href="https://mp.weixin.qq.com/s/ZUrVFSfRQyEi9-uo89s8uw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
