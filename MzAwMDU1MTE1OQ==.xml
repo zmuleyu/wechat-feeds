@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:30:03+08:00</updated>
+  <updated>2020-12-17T23:18:32+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>支持百万级TPS，Kafka是怎么做到的？</title>
+    <updated>2020-12-17T20:46:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/UeRLaoJyL6WOmvNfy5wujQ</id>
+    <link href="https://mp.weixin.qq.com/s/UeRLaoJyL6WOmvNfy5wujQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分布式任务调度系统设计：详解Go实现任务编排与工作流</title>
     <updated>2020-12-16T21:01:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-06T18:52:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/aPFwW_GNpyFeq8dfndxEWg</id>
     <link href="https://mp.weixin.qq.com/s/aPFwW_GNpyFeq8dfndxEWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 语言中锁的设计与应用</title>
-    <updated>2020-12-05T22:13:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/cGJxllpHskK4castfOJ_gw</id>
-    <link href="https://mp.weixin.qq.com/s/cGJxllpHskK4castfOJ_gw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

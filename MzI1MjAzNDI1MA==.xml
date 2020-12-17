@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T23:23:54+08:00</updated>
+  <updated>2020-12-17T23:30:20+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-17 Rust 2020调查问卷结果出炉！</title>
+    <updated>2020-12-17T21:29:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/mKHevPgp5PiJd_3ZLwFwtw</id>
+    <link href="https://mp.weixin.qq.com/s/mKHevPgp5PiJd_3ZLwFwtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>您的首届中国 Rust 语言大会参会指南</title>
+    <updated>2020-12-17T21:29:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/eqDGYXbXLleNWVPAzamNBg</id>
+    <link href="https://mp.weixin.qq.com/s/eqDGYXbXLleNWVPAzamNBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【2020-12-16】隐私聊天 APP Signal 使用 Rust 完成群组通话功能</title>
     <updated>2020-12-16T22:45:40+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-07T22:20:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/vfo-S_2FPIoM-iEmiKIJUg</id>
     <link href="https://mp.weixin.qq.com/s/vfo-S_2FPIoM-iEmiKIJUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在生产中使用Rust的著名公司及他们选择Rust的理由</title>
-    <updated>2020-12-07T22:20:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/QNH9CLHZoxArtxbHPqQiIQ</id>
-    <link href="https://mp.weixin.qq.com/s/QNH9CLHZoxArtxbHPqQiIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-06 Rust 仓库突破 5W star！</title>
-    <updated>2020-12-06T22:49:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/5XpZN0ky4G9xQnbb-6Z2dA</id>
-    <link href="https://mp.weixin.qq.com/s/5XpZN0ky4G9xQnbb-6Z2dA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
