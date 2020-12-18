@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T23:30:20+08:00</updated>
+  <updated>2020-12-19T02:01:09+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-18 tab-rs - Rust实现的Terminal Multiplexer</title>
+    <updated>2020-12-18T23:22:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/sxdII28SjO2Z__bU8V2B8g</id>
+    <link href="https://mp.weixin.qq.com/s/sxdII28SjO2Z__bU8V2B8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[活动预告] In Rust We Trust</title>
+    <updated>2020-12-18T23:22:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/qaCmu2hGC0UAbHeD2JIy5g</id>
+    <link href="https://mp.weixin.qq.com/s/qaCmu2hGC0UAbHeD2JIy5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-17 Rust 2020调查问卷结果出炉！</title>
     <updated>2020-12-17T21:29:17+08:00</updated>
@@ -124,27 +138,6 @@
     <updated>2020-12-08T18:08:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/M4OyFZ-ZaKZG6J44kcSwoQ</id>
     <link href="https://mp.weixin.qq.com/s/M4OyFZ-ZaKZG6J44kcSwoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-07 使用 `CXX` 实现 Rust和 C++ 的安全互操作性</title>
-    <updated>2020-12-07T22:20:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/hCKDGGKfeUiv0AqJ3qOfOg</id>
-    <link href="https://mp.weixin.qq.com/s/hCKDGGKfeUiv0AqJ3qOfOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【B站直播】9场 Workshop Substrate Hackathon 赛前指导（12.9–17）</title>
-    <updated>2020-12-07T22:20:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/gdHuXIIm3hbC-kV7kOVNMg</id>
-    <link href="https://mp.weixin.qq.com/s/gdHuXIIm3hbC-kV7kOVNMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 语言风靡学术界</title>
-    <updated>2020-12-07T22:20:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/vfo-S_2FPIoM-iEmiKIJUg</id>
-    <link href="https://mp.weixin.qq.com/s/vfo-S_2FPIoM-iEmiKIJUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
