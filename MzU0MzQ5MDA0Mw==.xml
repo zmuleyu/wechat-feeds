@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T11:13:21+08:00</updated>
+  <updated>2020-12-18T11:17:38+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink 流批一体太强了！SparkStreaming根本不是对手？</title>
+    <updated>2020-12-17T22:43:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/ZhYjrNhE9ekMtM5uqdj4-A</id>
+    <link href="https://mp.weixin.qq.com/s/ZhYjrNhE9ekMtM5uqdj4-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus + Granafa 构建高大上的MySQL监控平台</title>
+    <updated>2020-12-17T22:43:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/ioqmDrBAUDOjmG4mbkzgtQ</id>
+    <link href="https://mp.weixin.qq.com/s/ioqmDrBAUDOjmG4mbkzgtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我终于决定要放弃 okhttp、httpClient，选择了这个牛逼的神仙工具！贼爽</title>
     <updated>2020-12-16T22:32:37+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-07T23:59:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/pSLGpCdOEUgdtaeSAEOcbw</id>
     <link href="https://mp.weixin.qq.com/s/pSLGpCdOEUgdtaeSAEOcbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不是keys，记一次因 redis 使用不当导致应用卡死 的过程</title>
-    <updated>2020-12-07T10:56:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/_8BMBlvBBXfdVao3gkIemg</id>
-    <link href="https://mp.weixin.qq.com/s/_8BMBlvBBXfdVao3gkIemg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

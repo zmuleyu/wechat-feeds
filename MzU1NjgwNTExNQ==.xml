@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T11:21:56+08:00</updated>
+  <updated>2020-12-18T11:25:01+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从0到1带你开发一个人脸识别考勤小程序</title>
+    <updated>2020-12-17T20:56:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/9oaSwVsfQiHb9UHoZxcH8w</id>
+    <link href="https://mp.weixin.qq.com/s/9oaSwVsfQiHb9UHoZxcH8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云吸猫 | 用 Azure 架设猫咪直播</title>
+    <updated>2020-12-17T20:56:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/fhGoKutZ_KEVXeX-_9m82w</id>
+    <link href="https://mp.weixin.qq.com/s/fhGoKutZ_KEVXeX-_9m82w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VS Code 1.52 发布！</title>
     <updated>2020-12-16T21:19:29+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-12-08T22:56:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/wJMeYfFJXONCr8036lcVrA</id>
     <link href="https://mp.weixin.qq.com/s/wJMeYfFJXONCr8036lcVrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>当当全场自营图书 5 折！再送 40 元优惠码~ 真香！</title>
-    <updated>2020-12-07T20:40:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/FEd1_xb7NxLDbXD8jL1FxQ</id>
-    <link href="https://mp.weixin.qq.com/s/FEd1_xb7NxLDbXD8jL1FxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 语言风靡学术界</title>
-    <updated>2020-12-07T20:40:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/SudKjETmN0KUr5HqGfZ2-Q</id>
-    <link href="https://mp.weixin.qq.com/s/SudKjETmN0KUr5HqGfZ2-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

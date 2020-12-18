@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>LiveVideoStack | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T11:14:24+08:00</updated>
+  <updated>2020-12-18T11:18:50+08:00</updated>
   <subtitle>LiveVideoStack直播技术社区官方账号，分享音视频直播相关技术干货，产品研究与行业趋势。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>当AV1视频编解码器来到Webex！</title>
+    <updated>2020-12-17T14:06:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/mDsT6pmpFh0rxxE9RE_-lg</id>
+    <link href="https://mp.weixin.qq.com/s/mDsT6pmpFh0rxxE9RE_-lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生时代——华为云音视频质量监控与优化实践</title>
     <updated>2020-12-16T23:18:35+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-08T14:15:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/AVOCaqmFJK01-oG7HmkspQ</id>
     <link href="https://mp.weixin.qq.com/s/AVOCaqmFJK01-oG7HmkspQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>标准常有，VVC不常有</title>
-    <updated>2020-12-08T00:26:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/ZfGBXfxp14J1ZFMS8XbjfA</id>
-    <link href="https://mp.weixin.qq.com/s/ZfGBXfxp14J1ZFMS8XbjfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>悟空聊架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T16:23:15+08:00</updated>
+  <updated>2020-12-18T11:29:07+08:00</updated>
   <subtitle>图解 高并发、分布式、微服务、中间件。自主开发了 PMP 刷题小程序、Java 刷题小程序，接了 4 个私活。学习网站：www.passjava.cn。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>腾讯这么缺人？不卡学历，不卡经验，只要求……</title>
-    <updated>2020-12-15T20:13:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/f_JBaPMSdFEvbDEEACTYYw</id>
-    <link href="https://mp.weixin.qq.com/s/f_JBaPMSdFEvbDEEACTYYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>这个月被「视频播放」坑惨了，曝光八大坑</title>
     <updated>2020-12-15T11:11:42+08:00</updated>
@@ -75,6 +68,13 @@
     <updated>2020-10-21T18:34:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/A6cspQJLyna3FxuE9Et1_Q</id>
     <link href="https://mp.weixin.qq.com/s/A6cspQJLyna3FxuE9Et1_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如果把四个消息队列都拉到一个群里，他们会聊些什么？</title>
+    <updated>2020-10-16T16:10:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-16:/s/L5vK4H3Gmp3XT8KzvipOpw</id>
+    <link href="https://mp.weixin.qq.com/s/L5vK4H3Gmp3XT8KzvipOpw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

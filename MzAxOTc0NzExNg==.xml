@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农翻身 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T11:28:34+08:00</updated>
+  <updated>2020-12-18T11:32:15+08:00</updated>
   <subtitle>技术本来是很精彩的啊！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从国企起步，被阿里秒杀，10年IT老兵的肺腑之言</title>
+    <updated>2020-12-18T08:41:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/elGW-Z2QyPp7ETU5LaGcJw</id>
+    <link href="https://mp.weixin.qq.com/s/elGW-Z2QyPp7ETU5LaGcJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>运维总监怒怼开发：你真的需要K8S吗？</title>
     <updated>2020-12-16T21:02:44+08:00</updated>
@@ -64,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>面试问烂的 Spring AOP 原理，你懂了吗？</title>
-    <updated>2020-12-09T20:51:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/3XdSyK3x3uRcAheoRfTjdg</id>
-    <link href="https://mp.weixin.qq.com/s/3XdSyK3x3uRcAheoRfTjdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>漫画 | Java小子和C老头儿的硬盘夜话</title>
     <updated>2020-12-08T22:03:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/sE1CeDhASnzVOjxmf5zuRw</id>
@@ -89,13 +89,6 @@
     <updated>2020-12-06T21:06:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/cWL4RrqyS2fOVjHt5fo5RQ</id>
     <link href="https://mp.weixin.qq.com/s/cWL4RrqyS2fOVjHt5fo5RQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，MySQL !</title>
-    <updated>2020-12-01T22:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/rVJbeCy-NogsMrKiqQ8LvA</id>
-    <link href="https://mp.weixin.qq.com/s/rVJbeCy-NogsMrKiqQ8LvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
