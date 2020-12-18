@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T20:33:46+08:00</updated>
+  <updated>2020-12-18T20:36:23+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust语言2020调查报告发布：Rust 太难，生命周期更难</title>
+    <updated>2020-12-18T17:27:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/tayHv6ZYPORAV5rFm9BFLw</id>
+    <link href="https://mp.weixin.qq.com/s/tayHv6ZYPORAV5rFm9BFLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Eclipse 4.18 稳定版发布</title>
+    <updated>2020-12-18T17:27:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/qYxOFl_dI9-s0V3sODlcYQ</id>
+    <link href="https://mp.weixin.qq.com/s/qYxOFl_dI9-s0V3sODlcYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拒绝白嫖，Cognitect倡议商业公司赞助开源开发人员</title>
+    <updated>2020-12-18T17:27:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/mHriRV9Nd85EA9vI-0EGrQ</id>
+    <link href="https://mp.weixin.qq.com/s/mHriRV9Nd85EA9vI-0EGrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>适配M1的Docker Desktop正在测试，面临三大挑战</title>
+    <updated>2020-12-18T17:27:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/HI9-WofC85Nol-EaecP0eA</id>
+    <link href="https://mp.weixin.qq.com/s/HI9-WofC85Nol-EaecP0eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【话题】程序员因没奖金报复公司，被拘役5个月</title>
+    <updated>2020-12-18T17:27:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/uzAckqNtLe5O_bAUOirNUg</id>
+    <link href="https://mp.weixin.qq.com/s/uzAckqNtLe5O_bAUOirNUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>员工做开源奖Q币？揭秘鲜为人知的鹅厂开源故事</title>
     <updated>2020-12-17T18:09:36+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-15T16:55:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/2Q_ACDIfFnHfNeaQMHriqg</id>
     <link href="https://mp.weixin.qq.com/s/2Q_ACDIfFnHfNeaQMHriqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>炫富的“凡尔赛文学”爆火，程序员版“凡尔赛”大赏</title>
-    <updated>2020-12-14T15:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/dNLD8UuykzmTqtUeQX-tbA</id>
-    <link href="https://mp.weixin.qq.com/s/dNLD8UuykzmTqtUeQX-tbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linus “警告”内核开发者不要在圣诞节前夕提交代码</title>
-    <updated>2020-12-14T15:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/o1Xs2I0rc-zhveskr0Tchg</id>
-    <link href="https://mp.weixin.qq.com/s/o1Xs2I0rc-zhveskr0Tchg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker Desktop3.0.0发布，Docker Hub限制免费用户</title>
-    <updated>2020-12-14T15:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/Y07eUxjUT8UvFhDPhI86sg</id>
-    <link href="https://mp.weixin.qq.com/s/Y07eUxjUT8UvFhDPhI86sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>typescript实战总结之实现一个互联网黑白墙</title>
-    <updated>2020-12-14T15:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/Wu8ZjOz6j9b8PPEJiVCYOg</id>
-    <link href="https://mp.weixin.qq.com/s/Wu8ZjOz6j9b8PPEJiVCYOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CentOS重开</title>
-    <updated>2020-12-14T15:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/K5hiPbtAcV9mbckER_WNAw</id>
-    <link href="https://mp.weixin.qq.com/s/K5hiPbtAcV9mbckER_WNAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

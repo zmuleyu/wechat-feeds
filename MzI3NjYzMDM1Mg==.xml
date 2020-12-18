@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-14T20:27:19+08:00</updated>
+  <updated>2020-12-18T20:26:50+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【火绒安全周报】微软否认其云服务遭入侵 将强制隔离SolarWinds Orion应用</title>
+    <updated>2020-12-18T15:02:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/Lqoosl6kiELG-YBtc96sbg</id>
+    <link href="https://mp.weixin.qq.com/s/Lqoosl6kiELG-YBtc96sbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>白担心了  原来火绒这样清除病毒并不会删除文件</title>
     <updated>2020-12-14T16:37:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-19T18:04:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/R409pTrmakrIFHpIISksXA</id>
     <link href="https://mp.weixin.qq.com/s/R409pTrmakrIFHpIISksXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【火绒安全周报】黑客偷走10亿美元比特币竟7年未花  前微软工程师窃取千万美元被判刑</title>
-    <updated>2020-11-13T14:37:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/mtPQRx3Gor50Jd_M3L18Ww</id>
-    <link href="https://mp.weixin.qq.com/s/mtPQRx3Gor50Jd_M3L18Ww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

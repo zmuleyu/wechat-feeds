@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T20:20:50+08:00</updated>
+  <updated>2020-12-18T20:23:15+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【源头活水】用概率分布评估检测框质量的 Generalized Focal Loss V2</title>
+    <updated>2020-12-18T18:00:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/3kcf4NhVa04ql4fS9OJs0g</id>
+    <link href="https://mp.weixin.qq.com/s/3kcf4NhVa04ql4fS9OJs0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】pytorch中optimizer对loss的影响</title>
+    <updated>2020-12-18T18:00:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/TYbghszD3pWteQyWHIUhWg</id>
+    <link href="https://mp.weixin.qq.com/s/TYbghszD3pWteQyWHIUhWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI93×CRIPAC 知识图谱专题</title>
+    <updated>2020-12-18T18:00:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/93W-asEhekYXCxPcDmzI3w</id>
+    <link href="https://mp.weixin.qq.com/s/93W-asEhekYXCxPcDmzI3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【源头活水】YOLO之外的另一选择，手机端97FPS的Anchor-Free目标检测模型NanoDet现已开源~</title>
     <updated>2020-12-17T18:00:52+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-10T17:52:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/VviMX6CTpUuIdjH2X07h_Q</id>
     <link href="https://mp.weixin.qq.com/s/VviMX6CTpUuIdjH2X07h_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】丢弃Transformer，FCN也可以实现E2E检测</title>
-    <updated>2020-12-09T18:25:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/elZ6u9PFV5sRDW-3eGVYZA</id>
-    <link href="https://mp.weixin.qq.com/s/elZ6u9PFV5sRDW-3eGVYZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】编译PyTorch静态库</title>
-    <updated>2020-12-09T18:25:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/IqRf-B3YCszAZwfVRR3rKQ</id>
-    <link href="https://mp.weixin.qq.com/s/IqRf-B3YCszAZwfVRR3rKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】对抗训练——终极数据增强？</title>
-    <updated>2020-12-08T18:03:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/6oy08N6KGdapv-BcYpZDPQ</id>
-    <link href="https://mp.weixin.qq.com/s/6oy08N6KGdapv-BcYpZDPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

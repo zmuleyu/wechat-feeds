@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T23:20:13+08:00</updated>
+  <updated>2020-12-18T20:27:23+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大咖访谈 | 李少鹏的网安江湖</title>
+    <updated>2020-12-18T18:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/3-u-IIqegPH-Zx6lhR67Ww</id>
+    <link href="https://mp.weixin.qq.com/s/3-u-IIqegPH-Zx6lhR67Ww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>见证中国安全创新力量 | WitAwards 2020奖项名单公布（上）</title>
+    <updated>2020-12-18T18:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/J5h11kCNp3RRp_rHLXxPgQ</id>
+    <link href="https://mp.weixin.qq.com/s/J5h11kCNp3RRp_rHLXxPgQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>勒索软件即服务已成为新流行的“疫情”</title>
+    <updated>2020-12-18T18:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/HOVqSSHqvISKLUp9PDfBvA</id>
+    <link href="https://mp.weixin.qq.com/s/HOVqSSHqvISKLUp9PDfBvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TrickBot正在瞄准UEFI固件</title>
+    <updated>2020-12-18T18:00:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/AE9tK-cmjWjZ9OVI5pwH_w</id>
+    <link href="https://mp.weixin.qq.com/s/AE9tK-cmjWjZ9OVI5pwH_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>全议程公布！CIS 2020大会期待与你年末上海相聚</title>
     <updated>2020-12-17T20:49:06+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-13T17:23:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/lYK2Dr7dNeKwHhogKin5Mw</id>
     <link href="https://mp.weixin.qq.com/s/lYK2Dr7dNeKwHhogKin5Mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Winshark：一款用于控制ETW的Wireshark插件</title>
-    <updated>2020-12-13T17:23:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/B9HMPSAsvphmjx49Ec2JxQ</id>
-    <link href="https://mp.weixin.qq.com/s/B9HMPSAsvphmjx49Ec2JxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何保护你的密码：应用侧数据库&amp;redis密码加密实践</title>
-    <updated>2020-12-12T17:55:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/pWcQ7Rj3qhhgpZHDuNZm2A</id>
-    <link href="https://mp.weixin.qq.com/s/pWcQ7Rj3qhhgpZHDuNZm2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《2021产业互联网安全十大趋势》出炉：云原生安全上榜</title>
-    <updated>2020-12-12T17:55:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/rwvCHJ8fJk5qpdVyRN4jJA</id>
-    <link href="https://mp.weixin.qq.com/s/rwvCHJ8fJk5qpdVyRN4jJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>澳大利亚是全球手机监控公司的“可能”客户</title>
-    <updated>2020-12-12T17:55:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/CAdHUtp4oD1Y-Nuu4LwvWA</id>
-    <link href="https://mp.weixin.qq.com/s/CAdHUtp4oD1Y-Nuu4LwvWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
