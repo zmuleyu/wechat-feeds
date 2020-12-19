@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T11:25:01+08:00</updated>
+  <updated>2020-12-19T20:18:52+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VS Code Java 11 月更新，来啦！配置 Java 运行环境更加方便！</title>
+    <updated>2020-12-19T16:21:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/xwWW8td_THFWRYr3EYlhhw</id>
+    <link href="https://mp.weixin.qq.com/s/xwWW8td_THFWRYr3EYlhhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从0到1带你开发一个人脸识别考勤小程序</title>
     <updated>2020-12-17T20:56:58+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-09T22:01:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/Y59xQw1tnhhXSv7-rN9SMg</id>
     <link href="https://mp.weixin.qq.com/s/Y59xQw1tnhhXSv7-rN9SMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何从0开发一个小程序？</title>
-    <updated>2020-12-08T22:56:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/PXFGLTaKk4li_SVdUqogdQ</id>
-    <link href="https://mp.weixin.qq.com/s/PXFGLTaKk4li_SVdUqogdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub Universe 2020 强势登陆，直播已上线</title>
-    <updated>2020-12-08T22:56:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/wJMeYfFJXONCr8036lcVrA</id>
-    <link href="https://mp.weixin.qq.com/s/wJMeYfFJXONCr8036lcVrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
