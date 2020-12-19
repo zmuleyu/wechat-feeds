@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T20:35:52+08:00</updated>
+  <updated>2020-12-19T23:23:47+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 VS Code 居然能找对象了，不看脸的那种</title>
+    <updated>2020-12-19T21:44:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/VnDBrkDLwFiBWkax3W-ZEw</id>
+    <link href="https://mp.weixin.qq.com/s/VnDBrkDLwFiBWkax3W-ZEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你幸福吗？用 Python 分析幸福指数</title>
+    <updated>2020-12-19T21:44:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/Uvn9gPo5AgiyTs45ugHoMQ</id>
+    <link href="https://mp.weixin.qq.com/s/Uvn9gPo5AgiyTs45ugHoMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>让你爱不释手的 HTTP API 工具：Postman</title>
+    <updated>2020-12-19T21:44:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/xDQwpIXN4eDEVWTHrWgTEA</id>
+    <link href="https://mp.weixin.qq.com/s/xDQwpIXN4eDEVWTHrWgTEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个能批量抠图的开源神器，网友：Python 已经无所不能</title>
     <updated>2020-12-18T18:03:21+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-12T20:19:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/4ntRZBn1huolmTvEa1jOvw</id>
     <link href="https://mp.weixin.qq.com/s/4ntRZBn1huolmTvEa1jOvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个 2 万 Star 的中文 Python 资源太棒了</title>
-    <updated>2020-12-12T20:19:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/Dhdy4DYcXo4oItskD7N4Cg</id>
-    <link href="https://mp.weixin.qq.com/s/Dhdy4DYcXo4oItskD7N4Cg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CentOS 8 将死！</title>
-    <updated>2020-12-12T20:19:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/5e4CZ4U64A9in2_LILbR3g</id>
-    <link href="https://mp.weixin.qq.com/s/5e4CZ4U64A9in2_LILbR3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Selenium 自动化测试环境搭建</title>
-    <updated>2020-12-10T22:07:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/fauwGf6AzexdveJ9zMoAPQ</id>
-    <link href="https://mp.weixin.qq.com/s/fauwGf6AzexdveJ9zMoAPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

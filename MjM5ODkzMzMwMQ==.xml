@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T23:30:52+08:00</updated>
+  <updated>2020-12-19T23:21:22+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>机器如何认识文本 ？NLP中的Tokenization方法总结</title>
+    <updated>2020-12-19T21:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/vZKnwdwJfLV5wLiCt-Nghg</id>
+    <link href="https://mp.weixin.qq.com/s/vZKnwdwJfLV5wLiCt-Nghg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从 Instagram 故事流和信息流机器学习中吸取的教训</title>
+    <updated>2020-12-19T21:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/ODmvcZCpHbYpa9B1vWbKhg</id>
+    <link href="https://mp.weixin.qq.com/s/ODmvcZCpHbYpa9B1vWbKhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何构建一个信息流推荐排序系统</title>
+    <updated>2020-12-19T21:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/Gg1nA4eQc6gH1o76Aozxpg</id>
+    <link href="https://mp.weixin.qq.com/s/Gg1nA4eQc6gH1o76Aozxpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解读深度强化学习基石论文：函数近似的策略梯度方法</title>
+    <updated>2020-12-19T21:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/a7KN3IjuMcmHNNqQsPn3VQ</id>
+    <link href="https://mp.weixin.qq.com/s/a7KN3IjuMcmHNNqQsPn3VQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>学习排序入门级概述</title>
+    <updated>2020-12-19T21:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/EwBpmLFyMLMWMGJ1Du424w</id>
+    <link href="https://mp.weixin.qq.com/s/EwBpmLFyMLMWMGJ1Du424w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐算法的&#34;五环之歌&#34;</title>
     <updated>2020-12-18T19:36:04+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-16T21:06:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/AgkY2sgEkEdDmyO4p7TYhA</id>
     <link href="https://mp.weixin.qq.com/s/AgkY2sgEkEdDmyO4p7TYhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工业级深度学习推荐系统框架详解</title>
-    <updated>2020-12-15T19:21:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/R69ND3o_SLdlvUwX3NDaGw</id>
-    <link href="https://mp.weixin.qq.com/s/R69ND3o_SLdlvUwX3NDaGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>经验分享 | 如何设计一个智能对话平台？</title>
-    <updated>2020-12-15T19:21:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/VbJRiVTDbcqRXErjFDcrTA</id>
-    <link href="https://mp.weixin.qq.com/s/VbJRiVTDbcqRXErjFDcrTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯FAT | 未来感知的多样化趋势推荐框架</title>
-    <updated>2020-12-15T19:21:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/-yyeGWLZna9ghTjPspKAeQ</id>
-    <link href="https://mp.weixin.qq.com/s/-yyeGWLZna9ghTjPspKAeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我拿乐谱训了个语言模型！</title>
-    <updated>2020-12-15T19:21:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/AQc8UL6IVWH8Uzln9ZPJQA</id>
-    <link href="https://mp.weixin.qq.com/s/AQc8UL6IVWH8Uzln9ZPJQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>商科转码之路 | 我的算法岗寒假实习面经</title>
-    <updated>2020-12-15T19:21:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/uJl__QnS4oWVYuiZj6S3WA</id>
-    <link href="https://mp.weixin.qq.com/s/uJl__QnS4oWVYuiZj6S3WA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

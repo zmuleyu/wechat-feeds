@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T23:20:44+08:00</updated>
+  <updated>2020-12-19T23:15:23+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>系统通知，居然用拉取？</title>
+    <updated>2020-12-19T20:57:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/Hq-XwI8JwYzAkbT4bG8Hhg</id>
+    <link href="https://mp.weixin.qq.com/s/Hq-XwI8JwYzAkbT4bG8Hhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>服务挂了，怎么自动恢复？</title>
     <updated>2020-12-15T21:29:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T22:20:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/l_KG9YW1TUWQdDxIqgnUWg</id>
     <link href="https://mp.weixin.qq.com/s/l_KG9YW1TUWQdDxIqgnUWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎样的监控，才真正说明系统有问题？</title>
-    <updated>2020-12-02T22:18:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/1lSdfafmJeNgCrXDe7pLhw</id>
-    <link href="https://mp.weixin.qq.com/s/1lSdfafmJeNgCrXDe7pLhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
