@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-19T20:16:54+08:00</updated>
+  <updated>2020-12-20T20:15:33+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊Gartner 2021战略技术趋势——行为互联网</title>
+    <updated>2020-12-20T17:32:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/ek2xTYtnRZ4FAfd1xGZFhA</id>
+    <link href="https://mp.weixin.qq.com/s/ek2xTYtnRZ4FAfd1xGZFhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>汽车网络安全守方之殇 | CIS 2020大会议题前瞻</title>
+    <updated>2020-12-20T17:32:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/n4Vi8YkDMW69J1lAQYOOAw</id>
+    <link href="https://mp.weixin.qq.com/s/n4Vi8YkDMW69J1lAQYOOAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅析Punycode钓鱼攻击</title>
+    <updated>2020-12-20T17:32:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/R79vJffcKPdW6AqgfYzzNw</id>
+    <link href="https://mp.weixin.qq.com/s/R79vJffcKPdW6AqgfYzzNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用Hetty对HTTP进行安全研究审计</title>
+    <updated>2020-12-20T17:32:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/iUV0IiTrmjPJbqOhMtPwug</id>
+    <link href="https://mp.weixin.qq.com/s/iUV0IiTrmjPJbqOhMtPwug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多家研究机构称2021年会全球将遭遇更多网络攻击</title>
     <updated>2020-12-19T13:55:27+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-15T16:58:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/UoJXUwWiQ4zvVRj1-QQahw</id>
     <link href="https://mp.weixin.qq.com/s/UoJXUwWiQ4zvVRj1-QQahw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>安全研究 | Facebook中基于DOM的XSS漏洞利用分析</title>
-    <updated>2020-12-15T16:58:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/h2QAvpkk2iG0CmON5fYw7g</id>
-    <link href="https://mp.weixin.qq.com/s/h2QAvpkk2iG0CmON5fYw7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020勒索软件攻击事件创新高</title>
-    <updated>2020-12-14T18:00:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/iSWJOwL1T__aJ7IT52zRVA</id>
-    <link href="https://mp.weixin.qq.com/s/iSWJOwL1T__aJ7IT52zRVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>个人金融信息保护与骚扰电话治理 | CIS 2020大会议题前瞻</title>
-    <updated>2020-12-14T18:00:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/b0dn-5q1DPZejKYxAfS5IA</id>
-    <link href="https://mp.weixin.qq.com/s/b0dn-5q1DPZejKYxAfS5IA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国家标准 | GB/T 30276-2020 信息安全技术 网络安全漏洞管理规范</title>
-    <updated>2020-12-14T18:00:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/y9uRWDDh-8OCvEpBwHq0uA</id>
-    <link href="https://mp.weixin.qq.com/s/y9uRWDDh-8OCvEpBwHq0uA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

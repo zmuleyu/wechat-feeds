@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-19T13:09:44+08:00</updated>
+  <updated>2020-12-20T20:29:07+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Docker Desktop 3.0.0发布，开始支持“补丁”更新</title>
+    <updated>2020-12-20T18:50:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/tK3jrvSWigDoxHLPmPRtNQ</id>
+    <link href="https://mp.weixin.qq.com/s/tK3jrvSWigDoxHLPmPRtNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见，百度网盘！</title>
     <updated>2020-12-19T12:09:58+08:00</updated>
@@ -19,13 +26,6 @@
     <updated>2020-12-19T12:09:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/SXC0UZt1svJrlR3pmN759Q</id>
     <link href="https://mp.weixin.qq.com/s/SXC0UZt1svJrlR3pmN759Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新款华为笔记本真香！送一台</title>
-    <updated>2020-12-18T11:37:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/8W0t3UYYxIsm4ZkejcH42g</id>
-    <link href="https://mp.weixin.qq.com/s/8W0t3UYYxIsm4ZkejcH42g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -47,13 +47,6 @@
     <updated>2020-12-17T18:03:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/P-xKd6HeOGxyt-YXCnZjmQ</id>
     <link href="https://mp.weixin.qq.com/s/P-xKd6HeOGxyt-YXCnZjmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干掉微服务：首次揭秘腾讯社交、阿里电商万亿级架构实战！</title>
-    <updated>2020-12-16T11:16:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/5C7j3-SVUs6oJEYy_W5PSg</id>
-    <link href="https://mp.weixin.qq.com/s/5C7j3-SVUs6oJEYy_W5PSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +110,6 @@
     <updated>2020-12-10T16:35:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/q42xmdvMr9yAkY-YkSyN5g</id>
     <link href="https://mp.weixin.qq.com/s/q42xmdvMr9yAkY-YkSyN5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes集群CPU使用率高达100%，详细排查过程！</title>
-    <updated>2020-12-08T23:46:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/DZGIgWeWsFmfXzxUjMbC8g</id>
-    <link href="https://mp.weixin.qq.com/s/DZGIgWeWsFmfXzxUjMbC8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
