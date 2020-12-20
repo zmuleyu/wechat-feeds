@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-19T11:15:45+08:00</updated>
+  <updated>2020-12-20T11:13:17+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020云原生调查报告：较首次调查，生产环境的容器使用量飙升300%</title>
+    <updated>2020-12-19T22:55:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/atoD2m8-YmjXFQRjEk9o7A</id>
+    <link href="https://mp.weixin.qq.com/s/atoD2m8-YmjXFQRjEk9o7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes实战培训深圳站</title>
+    <updated>2020-12-19T22:55:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/KNItaneQF8Ti44A5OrcN-Q</id>
+    <link href="https://mp.weixin.qq.com/s/KNItaneQF8Ti44A5OrcN-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Containerd 的前世今生和保姆级入门教程</title>
     <updated>2020-12-18T20:31:07+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-10T07:33:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/Q7dROHpk3EW5qEynbLERmQ</id>
     <link href="https://mp.weixin.qq.com/s/Q7dROHpk3EW5qEynbLERmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年最后一场K8s实战培训</title>
-    <updated>2020-12-09T09:19:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/y89AU_zdnRpST_DZMRF8eQ</id>
-    <link href="https://mp.weixin.qq.com/s/y89AU_zdnRpST_DZMRF8eQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 1.20正式发布</title>
-    <updated>2020-12-09T09:19:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/6nWWuhL7OUgHYEs8Yw6VmQ</id>
-    <link href="https://mp.weixin.qq.com/s/6nWWuhL7OUgHYEs8Yw6VmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
