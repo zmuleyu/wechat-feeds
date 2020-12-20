@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T11:22:05+08:00</updated>
+  <updated>2020-12-20T13:12:21+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>给 2000 个粉丝的一封信</title>
+    <updated>2020-12-20T12:14:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/H8BqdPeOripU_j0R50wYpA</id>
+    <link href="https://mp.weixin.qq.com/s/H8BqdPeOripU_j0R50wYpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今天我抓了个包</title>
     <updated>2020-12-16T13:17:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-13T11:30:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/6kqkOol28YfeMSRbw_WkEA</id>
     <link href="https://mp.weixin.qq.com/s/6kqkOol28YfeMSRbw_WkEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官问我redis的数据类型，我回答了8种</title>
-    <updated>2020-11-11T19:23:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/SK-MCwEeLKoehICQzHktOg</id>
-    <link href="https://mp.weixin.qq.com/s/SK-MCwEeLKoehICQzHktOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

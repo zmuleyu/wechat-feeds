@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-19T13:18:35+08:00</updated>
+  <updated>2020-12-20T13:12:38+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何使用 Python 绘制 COVID-19 的全球扩散图 | Linux 中国</title>
+    <updated>2020-12-20T11:26:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/k3z5-KvkZBnqme9IHxej5g</id>
+    <link href="https://mp.weixin.qq.com/s/k3z5-KvkZBnqme9IHxej5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 LVM 为你的 Fedora 系统添加存储 | Linux 中国</title>
+    <updated>2020-12-20T11:26:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/ELVt6jU16V4ki0g-pfVv_g</id>
+    <link href="https://mp.weixin.qq.com/s/ELVt6jU16V4ki0g-pfVv_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SolarWinds 后门事件继续蔓延，微软、Cisco 也成为最新受害者 | 新闻拍一拍</title>
+    <updated>2020-12-20T11:26:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/F0xjbiOVrMpFexHlFbCXAw</id>
+    <link href="https://mp.weixin.qq.com/s/F0xjbiOVrMpFexHlFbCXAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 PyTorch 实现基于字符的循环神经网络 | Linux 中国</title>
     <updated>2020-12-19T11:47:39+08:00</updated>
@@ -123,27 +144,6 @@
     <updated>2020-12-14T10:46:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/GEIf8M081vzNIgkXMF2mMA</id>
     <link href="https://mp.weixin.qq.com/s/GEIf8M081vzNIgkXMF2mMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>路由 + 5G + WIFI + LoRa + VPN + AI 一体机来了</title>
-    <updated>2020-12-14T10:46:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/WrEV7NxzRrq0xJ5s8GV3ng</id>
-    <link href="https://mp.weixin.qq.com/s/WrEV7NxzRrq0xJ5s8GV3ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源开发者说保护自己的代码是令人心力交瘁的浪费时间 | Linux 中国</title>
-    <updated>2020-12-14T10:46:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/K73x4VWARTf1nnu71lUq2Q</id>
-    <link href="https://mp.weixin.qq.com/s/K73x4VWARTf1nnu71lUq2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“AI翻车”事件已超 1000，特斯拉、微软、谷歌、苹果等全部在列 | 新闻拍一拍</title>
-    <updated>2020-12-14T10:46:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/UJ2CNnSHRQhvXPsolBbbLw</id>
-    <link href="https://mp.weixin.qq.com/s/UJ2CNnSHRQhvXPsolBbbLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

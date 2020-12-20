@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T20:32:45+08:00</updated>
+  <updated>2020-12-20T13:18:05+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯天籁：音频联合信源信道编码技术白皮书</title>
+    <updated>2020-12-20T11:40:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/JAzROTYsnF_JqiI5vjVglA</id>
+    <link href="https://mp.weixin.qq.com/s/JAzROTYsnF_JqiI5vjVglA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯AlloyTeam团队给 VSCode 贡献400+行核心代码增强其插件化能力</title>
     <updated>2020-12-18T14:13:10+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-11-30T17:41:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/-tFmX40N06qztFZLUnFYcw</id>
     <link href="https://mp.weixin.qq.com/s/-tFmX40N06qztFZLUnFYcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯与中国人民大学开源最新研究成果：3TS腾讯事务处理技术验证系统</title>
-    <updated>2020-11-27T17:51:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/CSUmX3R9KYyWbhTXy7neoA</id>
-    <link href="https://mp.weixin.qq.com/s/CSUmX3R9KYyWbhTXy7neoA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
