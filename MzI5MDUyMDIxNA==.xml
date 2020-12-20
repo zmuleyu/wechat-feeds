@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-19T23:26:21+08:00</updated>
+  <updated>2020-12-20T23:21:30+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>极市直播丨方浩：车道线检测新SOTA，RESA：循环特征位移聚合器（AAAI2021）</title>
+    <updated>2020-12-20T21:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/fyfM5Ut0W_UUewfHg22--g</id>
+    <link href="https://mp.weixin.qq.com/s/fyfM5Ut0W_UUewfHg22--g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>搞懂Transformer结构，看这篇PyTorch实现就够了</title>
+    <updated>2020-12-20T21:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/cY0IkHTpxS6x6cqsueXZIg</id>
+    <link href="https://mp.weixin.qq.com/s/cY0IkHTpxS6x6cqsueXZIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我们真的需要深度图神经网络吗？</title>
+    <updated>2020-12-20T21:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/Y0m5ziWoRCK0PeWu7ztERg</id>
+    <link href="https://mp.weixin.qq.com/s/Y0m5ziWoRCK0PeWu7ztERg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IEEE 2021多项大奖出炉！谷歌AI掌门人Jeff Dean获冯诺依曼奖</title>
+    <updated>2020-12-20T21:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/wMNfZyH2PaZclRxGdVDzqQ</id>
+    <link href="https://mp.weixin.qq.com/s/wMNfZyH2PaZclRxGdVDzqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>真正的无极放大！30x插值效果惊艳，英伟达等开源LIIF：巧妙的图像超分新思路</title>
     <updated>2020-12-19T21:44:31+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-16T21:41:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/NMmZG9IHHHCmeW0Hd1Nm-w</id>
     <link href="https://mp.weixin.qq.com/s/NMmZG9IHHHCmeW0Hd1Nm-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>保姆级教程：个人深度学习工作站配置指南</title>
-    <updated>2020-12-15T21:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/QFnYHu_htLG1dxl3Xfa-gg</id>
-    <link href="https://mp.weixin.qq.com/s/QFnYHu_htLG1dxl3Xfa-gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解Tensorflow模型量化(Quantization)原理及其实现方法</title>
-    <updated>2020-12-15T21:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/CHaBG9KHDR2-fnd9NkflpQ</id>
-    <link href="https://mp.weixin.qq.com/s/CHaBG9KHDR2-fnd9NkflpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无需NMS、二分匹配的一阶段端到端目标检测网络，港大提出OneNet</title>
-    <updated>2020-12-15T21:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/T4dbGnpnyGlDLM-V9MP8eA</id>
-    <link href="https://mp.weixin.qq.com/s/T4dbGnpnyGlDLM-V9MP8eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习框架简史：TF和PyTorch双头垄断，未来十年迎来黄金时期</title>
-    <updated>2020-12-15T21:28:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/9A9s8DD9GonWz87ARwpnqQ</id>
-    <link href="https://mp.weixin.qq.com/s/9A9s8DD9GonWz87ARwpnqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

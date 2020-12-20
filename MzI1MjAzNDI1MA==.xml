@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T01:43:58+08:00</updated>
+  <updated>2020-12-20T23:20:27+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【招聘】蚂蚁集团海归学术大牛招募密码学研发团队</title>
+    <updated>2020-12-20T22:36:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/4aVunFAD5mWSgtBYz_bthw</id>
+    <link href="https://mp.weixin.qq.com/s/4aVunFAD5mWSgtBYz_bthw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【实习】[开源软件] Casbin-RS 开源软件 GSoC 远程预选+实习生</title>
+    <updated>2020-12-20T22:36:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/q9XWQST4nKJiJhhosxdxyA</id>
+    <link href="https://mp.weixin.qq.com/s/q9XWQST4nKJiJhhosxdxyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【每周一库】 laboratory - A simple, expressive unit test framework</title>
     <updated>2020-12-19T22:50:14+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-10T22:12:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/epGUGpQ6P32LuXW27-5iOA</id>
     <link href="https://mp.weixin.qq.com/s/epGUGpQ6P32LuXW27-5iOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-09 async-std v1.8.0 发布</title>
-    <updated>2020-12-09T22:40:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/7-b4uUy7EhRRXQDG-j_-Tg</id>
-    <link href="https://mp.weixin.qq.com/s/7-b4uUy7EhRRXQDG-j_-Tg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-08 Rust核心团队发起“基金会对话”活动</title>
-    <updated>2020-12-09T22:40:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/sph5HYoG-pWHIiQXrCfnrw</id>
-    <link href="https://mp.weixin.qq.com/s/sph5HYoG-pWHIiQXrCfnrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-19T23:16:36+08:00</updated>
+  <updated>2020-12-20T23:13:16+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「看图」谁想干掉谁？编程语言相爱相杀何时休</title>
+    <updated>2020-12-20T21:26:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/IlC33k0TdBPE9bKs-yrYVg</id>
+    <link href="https://mp.weixin.qq.com/s/IlC33k0TdBPE9bKs-yrYVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「趣图」关了日志好好的，一打开服务器就挂，还……</title>
     <updated>2020-12-19T21:27:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-29T20:55:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/8Kr5Gl5KS9OxNqGNuKzN1g</id>
     <link href="https://mp.weixin.qq.com/s/8Kr5Gl5KS9OxNqGNuKzN1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3分钟短文：一看就是干货！Laravel迁移数据库！</title>
-    <updated>2020-10-28T20:37:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/oKiMQmX8fs2PXTi_Qgczyw</id>
-    <link href="https://mp.weixin.qq.com/s/oKiMQmX8fs2PXTi_Qgczyw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
