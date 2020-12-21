@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T11:14:52+08:00</updated>
+  <updated>2020-12-21T16:16:44+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>亚马逊程序员：我曾拼命逃离996</title>
+    <updated>2020-12-21T13:08:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/R7kvDhNGWYH5_BxLifW1Iw</id>
+    <link href="https://mp.weixin.qq.com/s/R7kvDhNGWYH5_BxLifW1Iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微众开源：从聚木成林到生态领先</title>
+    <updated>2020-12-21T13:08:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/BIZiXzyiDad8PtfkpTVEdQ</id>
+    <link href="https://mp.weixin.qq.com/s/BIZiXzyiDad8PtfkpTVEdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里、快手、好未来：业务架构应该这么做！｜ QCon</title>
+    <updated>2020-12-21T13:08:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/76XpTDF4Bg1dG605Joor4A</id>
+    <link href="https://mp.weixin.qq.com/s/76XpTDF4Bg1dG605Joor4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中台技术解析之微服务架构下的测试实践</title>
+    <updated>2020-12-21T13:08:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/I4R5UMdHR05CJAGJzRSMaw</id>
+    <link href="https://mp.weixin.qq.com/s/I4R5UMdHR05CJAGJzRSMaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 StackOverflow 上的代码片段会摧毁你的项目？</title>
+    <updated>2020-12-21T13:08:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Q9f5RZqqRB0E-6NmMMwNlw</id>
+    <link href="https://mp.weixin.qq.com/s/Q9f5RZqqRB0E-6NmMMwNlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谷歌、AWS宕机事故频发，热闹看完该学会什么？</title>
     <updated>2020-12-20T09:50:11+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-16T22:26:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/dWG2t51p8679tgzSVxcCtg</id>
     <link href="https://mp.weixin.qq.com/s/dWG2t51p8679tgzSVxcCtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo AI计算平台 Kubernetes集群Ingress网关实践</title>
-    <updated>2020-12-16T22:26:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/lnmmBvpqarbJF16fibFTGQ</id>
-    <link href="https://mp.weixin.qq.com/s/lnmmBvpqarbJF16fibFTGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>企业架构中的坑：你是否搞混了“服务”？</title>
-    <updated>2020-12-16T22:26:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/OUIhXb7pME43-FTLeL1mKg</id>
-    <link href="https://mp.weixin.qq.com/s/OUIhXb7pME43-FTLeL1mKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>鸿蒙2.0手机Beta版本发布！华为小目标：一年内自研设备搭载HarmonyOS数量过亿</title>
-    <updated>2020-12-16T12:42:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/XL9PTQq3accGDaZCQ3RKRQ</id>
-    <link href="https://mp.weixin.qq.com/s/XL9PTQq3accGDaZCQ3RKRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>蚂蚁金服的Service Mesh实践和展望｜QCon</title>
-    <updated>2020-12-16T12:42:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/saJhRq4lH-epw4eJDTZepQ</id>
-    <link href="https://mp.weixin.qq.com/s/saJhRq4lH-epw4eJDTZepQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构师成长计划：把握AI生涯的平衡与火候｜Q推荐</title>
-    <updated>2020-12-16T12:42:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/ThWFwTEk1lqURiMMbV_RoQ</id>
-    <link href="https://mp.weixin.qq.com/s/ThWFwTEk1lqURiMMbV_RoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
