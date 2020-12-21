@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T23:13:11+08:00</updated>
+  <updated>2020-12-21T23:15:13+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SUSE牵手Rancher，Linux + Kubernetes的新王炸</title>
+    <updated>2020-12-21T21:45:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/tbEzyo6ANOJCfKQ9d_iJdw</id>
+    <link href="https://mp.weixin.qq.com/s/tbEzyo6ANOJCfKQ9d_iJdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Jenkins 插件管理及基础配置</title>
+    <updated>2020-12-21T21:45:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/DRnmosYgmuWoNvcb708bAQ</id>
+    <link href="https://mp.weixin.qq.com/s/DRnmosYgmuWoNvcb708bAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文详解负载均衡和反向代理的真实区别</title>
     <updated>2020-12-20T22:26:03+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-12T19:50:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/c2RLP3KjSpxOXhV_TQOxVw</id>
     <link href="https://mp.weixin.qq.com/s/c2RLP3KjSpxOXhV_TQOxVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【2021】对标阿里P7，马哥DevOps课程全面更新!</title>
-    <updated>2020-12-12T19:50:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/FVXwDbANJBrlOiWOb-Pggw</id>
-    <link href="https://mp.weixin.qq.com/s/FVXwDbANJBrlOiWOb-Pggw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【2021】“微服务+容器云”课程升级，直指大厂，重磅加码！</title>
-    <updated>2020-12-12T19:50:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/aVlCLwkHD-IlDAUng7RR-w</id>
-    <link href="https://mp.weixin.qq.com/s/aVlCLwkHD-IlDAUng7RR-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

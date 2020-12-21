@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T23:20:27+08:00</updated>
+  <updated>2020-12-21T23:21:24+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust China Conf 2020 详细议程揭晓（上）</title>
+    <updated>2020-12-21T20:26:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/g73Bfv5xBEWA0plD5O9s8Q</id>
+    <link href="https://mp.weixin.qq.com/s/g73Bfv5xBEWA0plD5O9s8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动预告】您收到一封来自NEAR的年终聚会邀请</title>
+    <updated>2020-12-21T20:26:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Daw-xKImReyLyt4znS3utA</id>
+    <link href="https://mp.weixin.qq.com/s/Daw-xKImReyLyt4znS3utA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-12-20 tokio 1.0 即将发布！</title>
+    <updated>2020-12-21T20:26:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/ArV0PDMeZbaJs3K0bzBpVA</id>
+    <link href="https://mp.weixin.qq.com/s/ArV0PDMeZbaJs3K0bzBpVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【招聘】蚂蚁集团海归学术大牛招募密码学研发团队</title>
     <updated>2020-12-20T22:36:25+08:00</updated>
@@ -124,20 +145,6 @@
     <updated>2020-12-11T21:48:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/53fsIRlAkENCobFQMuui2g</id>
     <link href="https://mp.weixin.qq.com/s/53fsIRlAkENCobFQMuui2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软引入 Rust，这门语言终于要火了吗？</title>
-    <updated>2020-12-10T22:12:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/MUWFITD2JILIx5zlS59jnQ</id>
-    <link href="https://mp.weixin.qq.com/s/MUWFITD2JILIx5zlS59jnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【大家的项目】一个导出结构体及其成员的过程宏（懒人福利）</title>
-    <updated>2020-12-10T22:12:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/epGUGpQ6P32LuXW27-5iOA</id>
-    <link href="https://mp.weixin.qq.com/s/epGUGpQ6P32LuXW27-5iOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

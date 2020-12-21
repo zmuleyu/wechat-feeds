@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T23:13:24+08:00</updated>
+  <updated>2020-12-21T23:15:43+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>QQ好友状态，QQ群友状态，究竟是推还是拉？</title>
+    <updated>2020-12-21T22:02:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/kQlvuNO_VfeC7kzdWbQEQg</id>
+    <link href="https://mp.weixin.qq.com/s/kQlvuNO_VfeC7kzdWbQEQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如果不小心，把数据库删了，怎么办？</title>
     <updated>2020-12-20T21:47:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-06T20:16:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/spAC9Q64ZS1Vpx5FSK75XQ</id>
     <link href="https://mp.weixin.qq.com/s/spAC9Q64ZS1Vpx5FSK75XQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，Kafka！RocketMQ已成气候！</title>
-    <updated>2020-12-04T19:42:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/sOXYf0TwXty6zSMqPCcIPA</id>
-    <link href="https://mp.weixin.qq.com/s/sOXYf0TwXty6zSMqPCcIPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

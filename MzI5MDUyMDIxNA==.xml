@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T23:21:30+08:00</updated>
+  <updated>2020-12-21T23:22:20+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>多模态深度学习综述：网络结构设计和模态融合方法汇总</title>
+    <updated>2020-12-21T22:00:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/_LTxBrLSyMV3BIze7D56LA</id>
+    <link href="https://mp.weixin.qq.com/s/_LTxBrLSyMV3BIze7D56LA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>极市直播回放丨第73期-汤凯华：利用因果分析解决通用的长尾分布问题</title>
+    <updated>2020-12-21T22:00:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Jtd3F0PbIByuBF04FXZcWw</id>
+    <link href="https://mp.weixin.qq.com/s/Jtd3F0PbIByuBF04FXZcWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PyTorch 源码解读之 torch.autograd</title>
+    <updated>2020-12-21T22:00:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/88FgD7IuG9P5oGOtQaX-3g</id>
+    <link href="https://mp.weixin.qq.com/s/88FgD7IuG9P5oGOtQaX-3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我的第一篇学术论文诞生的故事</title>
+    <updated>2020-12-21T22:00:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/eB56SnrSkkItoR6_jaZAWQ</id>
+    <link href="https://mp.weixin.qq.com/s/eB56SnrSkkItoR6_jaZAWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>极市直播丨方浩：车道线检测新SOTA，RESA：循环特征位移聚合器（AAAI2021）</title>
     <updated>2020-12-20T21:57:21+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-17T21:55:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/mzPAIAAK2io01t53RHeNtg</id>
     <link href="https://mp.weixin.qq.com/s/mzPAIAAK2io01t53RHeNtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【重磅】珠港澳首届AI人工智能大会将在珠海召开，免费门票限时领取中！</title>
-    <updated>2020-12-16T21:41:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/ZnEJikLthg_RUcAyGVdy5Q</id>
-    <link href="https://mp.weixin.qq.com/s/ZnEJikLthg_RUcAyGVdy5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI2021｜探讨旋转目标检测中anchor匹配机制问题</title>
-    <updated>2020-12-16T21:41:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/e6iEfd0pUTPDq6f3ZET1Yg</id>
-    <link href="https://mp.weixin.qq.com/s/e6iEfd0pUTPDq6f3ZET1Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>测试集没有标签，我们可以拿来测试模型吗？</title>
-    <updated>2020-12-16T21:41:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/kvHaHmGoELjpTVxMBpMmVA</id>
-    <link href="https://mp.weixin.qq.com/s/kvHaHmGoELjpTVxMBpMmVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>书单｜比尔·盖茨：糟糕一年里的五本好书</title>
-    <updated>2020-12-16T21:41:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/NMmZG9IHHHCmeW0Hd1Nm-w</id>
-    <link href="https://mp.weixin.qq.com/s/NMmZG9IHHHCmeW0Hd1Nm-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
