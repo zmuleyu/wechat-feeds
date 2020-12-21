@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T23:13:36+08:00</updated>
+  <updated>2020-12-21T20:10:00+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我在阿里云做前端代码智能化</title>
+    <updated>2020-12-21T17:12:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/ibddC24zzaGqY2BTm7JuEA</id>
+    <link href="https://mp.weixin.qq.com/s/ibddC24zzaGqY2BTm7JuEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从Weex到Web，性能逆势如何破局？</title>
     <updated>2020-12-17T21:52:44+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-07T16:26:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/KRD-czsKJHQsuyNXMriGWQ</id>
     <link href="https://mp.weixin.qq.com/s/KRD-czsKJHQsuyNXMriGWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>编辑器思维与系统设计思想</title>
-    <updated>2020-12-05T19:46:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/NRzs0bkAoEULXhQcSoFyOw</id>
-    <link href="https://mp.weixin.qq.com/s/NRzs0bkAoEULXhQcSoFyOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

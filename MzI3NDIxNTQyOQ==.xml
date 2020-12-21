@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T20:23:43+08:00</updated>
+  <updated>2020-12-21T20:12:54+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TiDB x 浙商银行 | 用数据驱动卓越、高效的金融服务</title>
+    <updated>2020-12-21T18:17:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/qvGHefrMudLBgRkMEPSTSA</id>
+    <link href="https://mp.weixin.qq.com/s/qvGHefrMudLBgRkMEPSTSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>平凯星辰 (PingCAP) 获评 《金融电子化》2020 年度金融科技产品创新突出贡献奖</title>
     <updated>2020-12-18T19:22:29+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-03T17:47:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/X43XBPOSYQ6FMY76onb-8A</id>
     <link href="https://mp.weixin.qq.com/s/X43XBPOSYQ6FMY76onb-8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看不懂监控怎么办？TiDB 新推出了耗时关系图</title>
-    <updated>2020-12-02T17:31:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/ZzXpBvwvLjMSuJyOWgurWQ</id>
-    <link href="https://mp.weixin.qq.com/s/ZzXpBvwvLjMSuJyOWgurWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rancher x TiDB Meetup | 解构云原生：企业数字化转型新支点</title>
-    <updated>2020-12-02T17:31:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/SxfeQ2jw6hLnhMcTaIFXag</id>
-    <link href="https://mp.weixin.qq.com/s/SxfeQ2jw6hLnhMcTaIFXag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T16:28:08+08:00</updated>
+  <updated>2020-12-21T20:24:12+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>计算机视觉与模式识别/图像处理学术论文速递[12.21]</title>
+    <updated>2020-12-21T17:54:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/byVFz6afn3Xtgo9T0r-Z7Q</id>
+    <link href="https://mp.weixin.qq.com/s/byVFz6afn3Xtgo9T0r-Z7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>V-Net：基于全卷积神经网络设计的3D医学图像分割网络</title>
     <updated>2020-12-20T13:26:12+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-02T20:12:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/wu6tyGqyTEYyr-dZYn01JQ</id>
     <link href="https://mp.weixin.qq.com/s/wu6tyGqyTEYyr-dZYn01JQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ACCV2020 | 定位和分类互相指导优化的目标检测</title>
-    <updated>2020-12-01T09:45:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/X7q5sEBSgbKqaRGmdb0j9A</id>
-    <link href="https://mp.weixin.qq.com/s/X7q5sEBSgbKqaRGmdb0j9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T23:28:32+08:00</updated>
+  <updated>2020-12-21T20:19:08+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>技术人的成长路径</title>
+    <updated>2020-12-21T20:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/vkBRNqf1HkKzFRmnPpuO2w</id>
+    <link href="https://mp.weixin.qq.com/s/vkBRNqf1HkKzFRmnPpuO2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 | 计算机教育中缺失的一课</title>
+    <updated>2020-12-21T20:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/cVnFhRv6WGJ9DtNLnBSH-w</id>
+    <link href="https://mp.weixin.qq.com/s/cVnFhRv6WGJ9DtNLnBSH-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>美团 Commit Log 规范，了解下？</title>
     <updated>2020-12-18T21:00:32+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-08T20:46:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/LOHAGGbBTr_HuNVKeZoWDA</id>
     <link href="https://mp.weixin.qq.com/s/LOHAGGbBTr_HuNVKeZoWDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>十张动图带你搞懂排序算法</title>
-    <updated>2020-12-07T20:00:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/jBj3NkHmJutUlU9RBeKYhw</id>
-    <link href="https://mp.weixin.qq.com/s/jBj3NkHmJutUlU9RBeKYhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一款百万 Excel 数据秒级导入导出的工具</title>
-    <updated>2020-12-07T20:00:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/LF2gSMoMjVwwndBikKeSNw</id>
-    <link href="https://mp.weixin.qq.com/s/LF2gSMoMjVwwndBikKeSNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

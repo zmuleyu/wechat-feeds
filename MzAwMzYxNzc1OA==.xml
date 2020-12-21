@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>酒仙桥六号部队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T23:32:11+08:00</updated>
+  <updated>2020-12-21T20:18:33+08:00</updated>
   <subtitle>知其黑，守其白。 分享知识盛宴，闲聊大院趣事，备好酒肉等你！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Ssrf引发的血案</title>
+    <updated>2020-12-21T16:46:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/5nnJEfAFZsqzxq_2-UPZCw</id>
+    <link href="https://mp.weixin.qq.com/s/5nnJEfAFZsqzxq_2-UPZCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一份通告引发的内网突破</title>
     <updated>2020-12-18T21:08:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T17:24:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/FbA1BshhyQFWsW4nAgxQFw</id>
     <link href="https://mp.weixin.qq.com/s/FbA1BshhyQFWsW4nAgxQFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记一次渗透测试后引发的小扩展</title>
-    <updated>2020-12-03T16:15:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/LGe3SuCGiNMHNbfN6oTApw</id>
-    <link href="https://mp.weixin.qq.com/s/LGe3SuCGiNMHNbfN6oTApw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
