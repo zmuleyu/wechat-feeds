@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T13:12:21+08:00</updated>
+  <updated>2020-12-21T11:20:46+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AI玩捉迷藏秀得我头皮发麻</title>
+    <updated>2020-12-20T14:12:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/zOuKVkRuX5DZIL8t0XJBvA</id>
+    <link href="https://mp.weixin.qq.com/s/zOuKVkRuX5DZIL8t0XJBvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>给 2000 个粉丝的一封信</title>
     <updated>2020-12-20T12:14:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-14T21:12:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/TXnVqm44IyzpYDIEfwLDWQ</id>
     <link href="https://mp.weixin.qq.com/s/TXnVqm44IyzpYDIEfwLDWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自制 os 极简教程1：写一个操作系统有多难</title>
-    <updated>2020-11-13T11:30:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/6kqkOol28YfeMSRbw_WkEA</id>
-    <link href="https://mp.weixin.qq.com/s/6kqkOol28YfeMSRbw_WkEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

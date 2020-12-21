@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>编程珠玑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T23:23:45+08:00</updated>
+  <updated>2020-12-21T11:18:45+08:00</updated>
   <subtitle>Linux，C语言，C++，数据结构与算法，计算机基础，数据库，工具，资源【原创】分享，力求【知其然，更知其所以然】。高质量学习资源免费获取。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>性能优化-放开那片内存，让我来！</title>
+    <updated>2020-12-20T21:42:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/gr4P13WDbjJ8HXulZPHYww</id>
+    <link href="https://mp.weixin.qq.com/s/gr4P13WDbjJ8HXulZPHYww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分享一个词：剧场效应</title>
     <updated>2020-12-18T21:39:45+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-11T13:52:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/umsKFdWFahA79HNMXVKYaw</id>
     <link href="https://mp.weixin.qq.com/s/umsKFdWFahA79HNMXVKYaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>API这样设计？等着程序挂掉吧！</title>
-    <updated>2020-11-09T14:00:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/3SmRDVzDq6NCBTeVPTwiWQ</id>
-    <link href="https://mp.weixin.qq.com/s/3SmRDVzDq6NCBTeVPTwiWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

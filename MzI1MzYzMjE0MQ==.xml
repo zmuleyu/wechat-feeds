@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:21:18+08:00</updated>
+  <updated>2020-12-21T11:36:27+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>抖音 Android 性能优化系列：Java 内存优化篇</title>
+    <updated>2020-12-21T09:28:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/AQI2S2oK7HFDs9lH-nsx5g</id>
+    <link href="https://mp.weixin.qq.com/s/AQI2S2oK7HFDs9lH-nsx5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GTC 火山引擎线上专场 | 解码字节跳动多场景技术内核及应用</title>
     <updated>2020-12-16T18:24:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-02T11:40:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/RcBQT72hXVWGXBTzwV6nJQ</id>
     <link href="https://mp.weixin.qq.com/s/RcBQT72hXVWGXBTzwV6nJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一款超高速、多特性的高性能序列推理引擎—— LightSeq</title>
-    <updated>2020-10-28T17:51:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/5VeersQKxcT9AtFXS_CXnA</id>
-    <link href="https://mp.weixin.qq.com/s/5VeersQKxcT9AtFXS_CXnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

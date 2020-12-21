@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>白泽Sec | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-16T21:35:19+08:00</updated>
+  <updated>2020-12-21T11:25:28+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何绕过AMSI并执行powershell代码</title>
+    <updated>2020-12-20T19:19:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/AcQnfQc5zym1cDdQox9NxQ</id>
+    <link href="https://mp.weixin.qq.com/s/AcQnfQc5zym1cDdQox9NxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ISRC年终冲榜活动来啦</title>
     <updated>2020-12-16T11:08:08+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-10-26T23:54:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/JhwKUWHwuGcZhVIcitq5ug</id>
     <link href="https://mp.weixin.qq.com/s/JhwKUWHwuGcZhVIcitq5ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>移动安全-APP渗透进阶之AppCan本地文件解密</title>
-    <updated>2020-10-20T10:05:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/ACWjwFqxDdqV7Oh2DWvBgw</id>
-    <link href="https://mp.weixin.qq.com/s/ACWjwFqxDdqV7Oh2DWvBgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
