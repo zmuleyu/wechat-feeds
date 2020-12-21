@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T23:07:15+08:00</updated>
+  <updated>2020-12-21T13:12:05+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里、快手、好未来：业务架构应该这么做！</title>
+    <updated>2020-12-21T11:14:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/U02dQWFykR_2uaGn_jvtbg</id>
+    <link href="https://mp.weixin.qq.com/s/U02dQWFykR_2uaGn_jvtbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官问：说说悲观锁、乐观锁、分布式锁？都在什么场景下使用？有什么技巧？</title>
+    <updated>2020-12-21T11:14:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/94VmZsSM1kQzCOn_b5b9gA</id>
+    <link href="https://mp.weixin.qq.com/s/94VmZsSM1kQzCOn_b5b9gA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万字详解本地缓存之王 Caffeine</title>
     <updated>2020-12-20T01:08:25+08:00</updated>
@@ -15,24 +29,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>字节跳动再扩招1万人，太猛了。。。</title>
-    <updated>2020-12-19T16:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/r4je03oSn1MHye0W32c5_Q</id>
-    <link href="https://mp.weixin.qq.com/s/r4je03oSn1MHye0W32c5_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>一文彻底揭秘高可用「异地多活」架构设计！</title>
     <updated>2020-12-19T16:26:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/7c3JrQOyXivvMQ26ZiVqmQ</id>
     <link href="https://mp.weixin.qq.com/s/7c3JrQOyXivvMQ26ZiVqmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 流批一体太强了！SparkStreaming根本不是对手？</title>
-    <updated>2020-12-17T22:43:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/ZhYjrNhE9ekMtM5uqdj4-A</id>
-    <link href="https://mp.weixin.qq.com/s/ZhYjrNhE9ekMtM5uqdj4-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +89,6 @@
     <updated>2020-12-07T23:59:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/pSLGpCdOEUgdtaeSAEOcbw</id>
     <link href="https://mp.weixin.qq.com/s/pSLGpCdOEUgdtaeSAEOcbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不是keys，记一次因 redis 使用不当导致应用卡死 的过程</title>
-    <updated>2020-12-07T10:56:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/_8BMBlvBBXfdVao3gkIemg</id>
-    <link href="https://mp.weixin.qq.com/s/_8BMBlvBBXfdVao3gkIemg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T20:29:07+08:00</updated>
+  <updated>2020-12-21T13:32:23+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>涨薪通知，保证你涨薪30%的正确打开方式...</title>
+    <updated>2020-12-20T23:47:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/sf3SkEX3wc_rIWQHFGZHOg</id>
+    <link href="https://mp.weixin.qq.com/s/sf3SkEX3wc_rIWQHFGZHOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>替代Kubernetes？容器调度工具HashiCorp Nomad发布1.0版，可扩展超过1万个节点</title>
+    <updated>2020-12-20T23:47:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/C434PJyEFQCt5F-OebSMkw</id>
+    <link href="https://mp.weixin.qq.com/s/C434PJyEFQCt5F-OebSMkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker Desktop 3.0.0发布，开始支持“补丁”更新</title>
     <updated>2020-12-20T18:50:39+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-11T18:15:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/cRVLUkXvSRtRubE2aP-hnA</id>
     <link href="https://mp.weixin.qq.com/s/cRVLUkXvSRtRubE2aP-hnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes v1.20 重磅发布 | 主要变化解读</title>
-    <updated>2020-12-10T16:35:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/q42xmdvMr9yAkY-YkSyN5g</id>
-    <link href="https://mp.weixin.qq.com/s/q42xmdvMr9yAkY-YkSyN5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

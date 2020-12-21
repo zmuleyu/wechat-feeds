@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-20T20:25:25+08:00</updated>
+  <updated>2020-12-21T13:27:12+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看这篇就行！超强 VUE + ElementUI 管理项目来了（附实战全过程）</title>
+    <updated>2020-12-20T22:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/-bR1NHqKYqIWdcrXTbg2xg</id>
+    <link href="https://mp.weixin.qq.com/s/-bR1NHqKYqIWdcrXTbg2xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手写 Promise 全家桶 + Generator + async/await</title>
+    <updated>2020-12-20T22:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/wBnev5LhSL7qIGFjg8ZvrQ</id>
+    <link href="https://mp.weixin.qq.com/s/wBnev5LhSL7qIGFjg8ZvrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>设计灵感：把 3D 图案应用到网页界面设计中</title>
+    <updated>2020-12-20T22:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/Gk534k98hwFQysqfJxc8rQ</id>
+    <link href="https://mp.weixin.qq.com/s/Gk534k98hwFQysqfJxc8rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小姐姐盗用他人设计作品找工作，入职京东...</title>
     <updated>2020-12-20T19:21:14+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-15T19:56:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/gh_VFZ4jDEXV9p6rx7k4zw</id>
     <link href="https://mp.weixin.qq.com/s/gh_VFZ4jDEXV9p6rx7k4zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>简单粗暴可实操的前端性能优化方案</title>
-    <updated>2020-12-13T22:26:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/NpK32nzPfRCNdcZDpSVYpw</id>
-    <link href="https://mp.weixin.qq.com/s/NpK32nzPfRCNdcZDpSVYpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>H5 基于 canvas 实现电子签名并生成PDF文档</title>
-    <updated>2020-12-13T22:26:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/OTFufemlMW7XhjS2zIrHhw</id>
-    <link href="https://mp.weixin.qq.com/s/OTFufemlMW7XhjS2zIrHhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2.8 万 Star！制作数学动画的超棒工具：Manim</title>
-    <updated>2020-12-13T22:26:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/o_r8n5fz_13Km7KfmK_3zg</id>
-    <link href="https://mp.weixin.qq.com/s/o_r8n5fz_13Km7KfmK_3zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
