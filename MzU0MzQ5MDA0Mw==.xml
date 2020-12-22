@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T13:12:05+08:00</updated>
+  <updated>2020-12-22T23:16:31+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动ClickHouse在用户增长分析场景的应用</title>
+    <updated>2020-12-22T14:36:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/J0j0LM3ZDj4OP7SyYCWCEQ</id>
+    <link href="https://mp.weixin.qq.com/s/J0j0LM3ZDj4OP7SyYCWCEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高赞回答：为什么高级程序员不必担心自己的技术过时？</title>
+    <updated>2020-12-22T14:36:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/hEBeab0rhiDny33jQgK1ug</id>
+    <link href="https://mp.weixin.qq.com/s/hEBeab0rhiDny33jQgK1ug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里、快手、好未来：业务架构应该这么做！</title>
     <updated>2020-12-21T11:14:18+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-08T23:33:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/Caa-dTF0cefzyJ_ZBTgouA</id>
     <link href="https://mp.weixin.qq.com/s/Caa-dTF0cefzyJ_ZBTgouA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA 2020.3 重大特性</title>
-    <updated>2020-12-07T23:59:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/pSLGpCdOEUgdtaeSAEOcbw</id>
-    <link href="https://mp.weixin.qq.com/s/pSLGpCdOEUgdtaeSAEOcbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T23:21:24+08:00</updated>
+  <updated>2020-12-22T23:28:41+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2020-12-21 Rust vs Go</title>
+    <updated>2020-12-22T20:49:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/CN0U7bRAmSUQQRZy8_ZREg</id>
+    <link href="https://mp.weixin.qq.com/s/CN0U7bRAmSUQQRZy8_ZREg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rust China Conf 2020 详细议程揭晓（中）</title>
+    <updated>2020-12-22T20:49:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Lxa6Md-238bewSjlvqkyOQ</id>
+    <link href="https://mp.weixin.qq.com/s/Lxa6Md-238bewSjlvqkyOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rust China Conf 2020 详细议程揭晓（下）</title>
+    <updated>2020-12-22T20:49:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/4sUlTMyyO1Q1ISEpMFMsLA</id>
+    <link href="https://mp.weixin.qq.com/s/4sUlTMyyO1Q1ISEpMFMsLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust China Conf 2020 详细议程揭晓（上）</title>
     <updated>2020-12-21T20:26:18+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-12T23:30:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/GAwIDJnIpbvttr6TeV7QiA</id>
     <link href="https://mp.weixin.qq.com/s/GAwIDJnIpbvttr6TeV7QiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 大会招募志愿者（限深圳地区）</title>
-    <updated>2020-12-12T23:30:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/QavfaQLfcR-uDasYzsi22Q</id>
-    <link href="https://mp.weixin.qq.com/s/QavfaQLfcR-uDasYzsi22Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust每周一库】once_cell - 最多初始化一次的cell</title>
-    <updated>2020-12-11T21:48:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/eBx7RoxEluOGYJhCV5cZOg</id>
-    <link href="https://mp.weixin.qq.com/s/eBx7RoxEluOGYJhCV5cZOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】 2020-12-10 超越R和Python：面向科学的Rust</title>
-    <updated>2020-12-11T21:48:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/53fsIRlAkENCobFQMuui2g</id>
-    <link href="https://mp.weixin.qq.com/s/53fsIRlAkENCobFQMuui2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
