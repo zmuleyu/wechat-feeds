@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T20:24:35+08:00</updated>
+  <updated>2020-12-22T20:31:01+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>拥抱开源，激扬代码，当高校开发者遇上openEuler</title>
+    <updated>2020-12-22T16:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/_tgiKkfALT-kR87mgCVyDw</id>
+    <link href="https://mp.weixin.qq.com/s/_tgiKkfALT-kR87mgCVyDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯开源分布式存储系统Tendis，可完全兼容Redis</title>
+    <updated>2020-12-22T16:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/L7JIVayb2j0or8j5aN60Ag</id>
+    <link href="https://mp.weixin.qq.com/s/L7JIVayb2j0or8j5aN60Ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Debian项目推出新主页 外观与布局全面改进</title>
+    <updated>2020-12-22T16:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Sr5impTBZytuJ4ktD8sZ2A</id>
+    <link href="https://mp.weixin.qq.com/s/Sr5impTBZytuJ4ktD8sZ2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它</title>
+    <updated>2020-12-22T16:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/t2I-gaA4Z_-_pJbIKpaQTw</id>
+    <link href="https://mp.weixin.qq.com/s/t2I-gaA4Z_-_pJbIKpaQTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>划入 .NET 6版本目标，微软鼓励开发人员信任第三方库</title>
+    <updated>2020-12-22T16:00:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/9BP3dy4uiWY1t08sZo5Fkw</id>
+    <link href="https://mp.weixin.qq.com/s/9BP3dy4uiWY1t08sZo5Fkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Visual Studio Code的Issue列表被黑产“攻陷”</title>
     <updated>2020-12-21T17:06:18+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-18T17:27:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/HI9-WofC85Nol-EaecP0eA</id>
     <link href="https://mp.weixin.qq.com/s/HI9-WofC85Nol-EaecP0eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【话题】程序员因没奖金报复公司，被拘役5个月</title>
-    <updated>2020-12-18T17:27:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/uzAckqNtLe5O_bAUOirNUg</id>
-    <link href="https://mp.weixin.qq.com/s/uzAckqNtLe5O_bAUOirNUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>员工做开源奖Q币？揭秘鲜为人知的鹅厂开源故事</title>
-    <updated>2020-12-17T18:09:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/5Pul_NhkkDIyZcJnNzbpOg</id>
-    <link href="https://mp.weixin.qq.com/s/5Pul_NhkkDIyZcJnNzbpOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rocky Linux新进展：中文社区上线，发版计划公布</title>
-    <updated>2020-12-17T18:09:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/c1aD0JDO9citscMGMlPblg</id>
-    <link href="https://mp.weixin.qq.com/s/c1aD0JDO9citscMGMlPblg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万物皆可变 Wi-Fi？研究人员发现新型网络攻击技术</title>
-    <updated>2020-12-17T18:09:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/mQYKxnPDvTs9ewm6g4LNBQ</id>
-    <link href="https://mp.weixin.qq.com/s/mQYKxnPDvTs9ewm6g4LNBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GTK 4.0 正式发布</title>
-    <updated>2020-12-17T18:09:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/QHqCaBjci5uN6MTSTESfFg</id>
-    <link href="https://mp.weixin.qq.com/s/QHqCaBjci5uN6MTSTESfFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

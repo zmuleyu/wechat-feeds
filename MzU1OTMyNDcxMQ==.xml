@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T16:15:15+08:00</updated>
+  <updated>2020-12-22T20:18:20+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>社区分享 | TensorFlow 的入门资料整理与技巧</title>
+    <updated>2020-12-22T11:41:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/p8OcPgJiBmMaBpkYB4Hbkw</id>
+    <link href="https://mp.weixin.qq.com/s/p8OcPgJiBmMaBpkYB4Hbkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021 呼唤各方大神，机器学习 Study Jam 第三季来了！</title>
     <updated>2020-12-21T13:39:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-04T18:41:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/Ymlb0I8VmLX6--NGS8qysA</id>
     <link href="https://mp.weixin.qq.com/s/Ymlb0I8VmLX6--NGS8qysA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TensorFlow 2.4 Mac 优化版：在 Mac 上实现加速的 CPU 和 GPU 训练</title>
-    <updated>2020-12-03T17:47:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/fX5GpVKM6dOJECwhDTe06Q</id>
-    <link href="https://mp.weixin.qq.com/s/fX5GpVKM6dOJECwhDTe06Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

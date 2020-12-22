@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T20:10:00+08:00</updated>
+  <updated>2020-12-22T20:13:16+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>揭秘大流量场景下发布如「丝般顺滑」背后的原因</title>
+    <updated>2020-12-22T17:33:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/cmnh6g83ZHe3SYZWVnrOPA</id>
+    <link href="https://mp.weixin.qq.com/s/cmnh6g83ZHe3SYZWVnrOPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我在阿里云做前端代码智能化</title>
     <updated>2020-12-21T17:12:18+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-08T17:57:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/TN9Gvo50BP9imlC83ufu1Q</id>
     <link href="https://mp.weixin.qq.com/s/TN9Gvo50BP9imlC83ufu1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>降本增效利器！趣头条Spark Remote Shuffle Service最佳实践</title>
-    <updated>2020-12-07T16:26:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/KRD-czsKJHQsuyNXMriGWQ</id>
-    <link href="https://mp.weixin.qq.com/s/KRD-czsKJHQsuyNXMriGWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
