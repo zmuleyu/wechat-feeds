@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T13:24:06+08:00</updated>
+  <updated>2020-12-22T11:30:55+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！</title>
+    <updated>2020-12-22T10:28:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/mGWB_VV8cemgRKfWZmZgiw</id>
+    <link href="https://mp.weixin.qq.com/s/mGWB_VV8cemgRKfWZmZgiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>框架篇：小白也能秒懂的Linux零拷贝原理</title>
     <updated>2020-12-21T10:54:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T18:04:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/ah-i1GHpAubSPUmP624H8g</id>
     <link href="https://mp.weixin.qq.com/s/ah-i1GHpAubSPUmP624H8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>玩转Redis：8 种数据淘汰策略及近似LRU、LFU原理！</title>
-    <updated>2020-12-03T18:00:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/kSEIByH-QHjd-HptBQzvvg</id>
-    <link href="https://mp.weixin.qq.com/s/kSEIByH-QHjd-HptBQzvvg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
