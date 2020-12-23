@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T23:23:52+08:00</updated>
+  <updated>2020-12-23T23:21:16+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>视频编码标准和FB的提升工作</title>
+    <updated>2020-12-23T21:19:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/k8Vrpzd9jVTKlzp-sXOBRQ</id>
+    <link href="https://mp.weixin.qq.com/s/k8Vrpzd9jVTKlzp-sXOBRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用NMOS的IP媒体网络管理</title>
     <updated>2020-12-22T21:39:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T22:29:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/zmPAhs8wxb9M2ct7dRW3OA</id>
     <link href="https://mp.weixin.qq.com/s/zmPAhs8wxb9M2ct7dRW3OA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AWS上的可靠未压缩视频</title>
-    <updated>2020-12-12T18:54:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/jv78RDcLV-FPRhT8ocyxiw</id>
-    <link href="https://mp.weixin.qq.com/s/jv78RDcLV-FPRhT8ocyxiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

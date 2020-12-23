@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-15T23:21:41+08:00</updated>
+  <updated>2020-12-23T23:18:10+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vivo 全球商城：订单中心架构设计与实践</title>
+    <updated>2020-12-23T18:23:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/i6sI1C_Ye7-Ax9GtZNf9-g</id>
+    <link href="https://mp.weixin.qq.com/s/i6sI1C_Ye7-Ax9GtZNf9-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>vivo 互联网业务就近路由技术实战</title>
+    <updated>2020-12-23T18:23:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/qw1z5lgctAXav7SZsHbzfA</id>
+    <link href="https://mp.weixin.qq.com/s/qw1z5lgctAXav7SZsHbzfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入浅出 ZooKeeper</title>
+    <updated>2020-12-23T18:23:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/umJXy8SXG9r5wYFPPle_WA</id>
+    <link href="https://mp.weixin.qq.com/s/umJXy8SXG9r5wYFPPle_WA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 微服务 API 网关架构实践</title>
     <updated>2020-12-15T18:04:26+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-18T18:29:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/71OV_K7YJas7pLtsPY-jeQ</id>
     <link href="https://mp.weixin.qq.com/s/71OV_K7YJas7pLtsPY-jeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 8 Stream原理解析</title>
-    <updated>2020-11-18T18:29:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/ykN7tCur0b9KXNOJtvqQ-g</id>
-    <link href="https://mp.weixin.qq.com/s/ykN7tCur0b9KXNOJtvqQ-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo商城前端架构升级—多端统一探索、实践与展望篇</title>
-    <updated>2020-11-11T18:09:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/Ljyte6UwU6OyqTYkgvD3kA</id>
-    <link href="https://mp.weixin.qq.com/s/Ljyte6UwU6OyqTYkgvD3kA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式集群如何实现高效的数据分布</title>
-    <updated>2020-11-11T18:09:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/X3nUA_r0BdXPk6B_-tmV3g</id>
-    <link href="https://mp.weixin.qq.com/s/X3nUA_r0BdXPk6B_-tmV3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

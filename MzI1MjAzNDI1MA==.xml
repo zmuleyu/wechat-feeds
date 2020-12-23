@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T23:28:41+08:00</updated>
+  <updated>2020-12-23T23:27:06+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【原创】来玩儿！Rust+Wasm 开发的一个方便实用的大会海报工具</title>
+    <updated>2020-12-23T20:42:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/oHacZyhcEf5YrLe-oELGqg</id>
+    <link href="https://mp.weixin.qq.com/s/oHacZyhcEf5YrLe-oELGqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【重要】Rust大会直播地址来了！！！</title>
+    <updated>2020-12-23T20:42:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/SJQbw7PFgcQDJXTLH7I7sg</id>
+    <link href="https://mp.weixin.qq.com/s/SJQbw7PFgcQDJXTLH7I7sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】 2020-12-22 Bevy 0.4 发布！</title>
+    <updated>2020-12-23T20:42:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/1z3iOnoSoSQCFk4ESPoXgQ</id>
+    <link href="https://mp.weixin.qq.com/s/1z3iOnoSoSQCFk4ESPoXgQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-21 Rust vs Go</title>
     <updated>2020-12-22T20:49:02+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-15T23:30:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/Z2tIRDw_Ji7PaFxj5uS9PQ</id>
     <link href="https://mp.weixin.qq.com/s/Z2tIRDw_Ji7PaFxj5uS9PQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-14 Lock Poisoning 调查问卷</title>
-    <updated>2020-12-14T21:05:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/K9D607kP2lRNNe16ZaSEJw</id>
-    <link href="https://mp.weixin.qq.com/s/K9D607kP2lRNNe16ZaSEJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-13 - ChromeDevTool调试Esmcripten webassembly应用</title>
-    <updated>2020-12-14T21:05:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/2EWXqMhecXmwRqjm8yVZRg</id>
-    <link href="https://mp.weixin.qq.com/s/2EWXqMhecXmwRqjm8yVZRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-12 Wesley Wiser 将出任 Rust 编译器团队 co-Leader</title>
-    <updated>2020-12-12T23:30:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/GAwIDJnIpbvttr6TeV7QiA</id>
-    <link href="https://mp.weixin.qq.com/s/GAwIDJnIpbvttr6TeV7QiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
