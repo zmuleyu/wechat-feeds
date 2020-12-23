@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T01:45:55+08:00</updated>
+  <updated>2020-12-23T13:27:41+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>美团开源了一款好用的抓包代理工具和mock数据，快来试试吧。</title>
+    <updated>2020-12-23T12:47:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/6JiDqoxNyNXYLm30HG-bPA</id>
+    <link href="https://mp.weixin.qq.com/s/6JiDqoxNyNXYLm30HG-bPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FastDFS+Nginx公网访问搭建篇</title>
     <updated>2020-12-16T23:58:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-11T23:31:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/PMwHhzrwRy4QumxRk0h7aw</id>
     <link href="https://mp.weixin.qq.com/s/PMwHhzrwRy4QumxRk0h7aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>双11用Python喂猫解放双手</title>
-    <updated>2020-10-27T11:59:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-27:/s/2ASTrrRr8D3VxCnIFih0jg</id>
-    <link href="https://mp.weixin.qq.com/s/2ASTrrRr8D3VxCnIFih0jg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

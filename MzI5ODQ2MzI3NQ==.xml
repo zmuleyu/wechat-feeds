@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T13:33:13+08:00</updated>
+  <updated>2020-12-23T13:40:59+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>超牛逼的 Java 项目实战，没有之一！</title>
+    <updated>2020-12-22T22:47:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/xZyKhQhoLSnd8nZFmBza6w</id>
+    <link href="https://mp.weixin.qq.com/s/xZyKhQhoLSnd8nZFmBza6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 原生 CI/CD 构建框架 Tekton 详解！</title>
+    <updated>2020-12-22T22:47:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/xlSL95NxWv7Wl_lwuoLzUg</id>
+    <link href="https://mp.weixin.qq.com/s/xlSL95NxWv7Wl_lwuoLzUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
     <updated>2020-12-22T12:49:28+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-14T11:45:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/U_pJKzABmsNtO4pcm6tVZg</id>
     <link href="https://mp.weixin.qq.com/s/U_pJKzABmsNtO4pcm6tVZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>下周北京： Kubernetes CKA实战培训</title>
-    <updated>2020-12-13T18:42:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/JOfgyLGlPPOSfq6aQFNk8w</id>
-    <link href="https://mp.weixin.qq.com/s/JOfgyLGlPPOSfq6aQFNk8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
