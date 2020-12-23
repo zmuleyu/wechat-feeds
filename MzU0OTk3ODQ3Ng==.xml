@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T11:30:55+08:00</updated>
+  <updated>2020-12-23T11:35:07+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>4次优化，我把 Redis 性能 “压榨” 到极致！</title>
+    <updated>2020-12-23T09:52:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/LD61JhItmcr5WGsSTfbVzw</id>
+    <link href="https://mp.weixin.qq.com/s/LD61JhItmcr5WGsSTfbVzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！</title>
     <updated>2020-12-22T10:28:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T12:11:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/GwjQalQ9ZkBbTBtEKpbkMw</id>
     <link href="https://mp.weixin.qq.com/s/GwjQalQ9ZkBbTBtEKpbkMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10 张图告诉你，Kafka 是怎么做到支持百万级 TPS 的？</title>
-    <updated>2020-12-03T18:04:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/ah-i1GHpAubSPUmP624H8g</id>
-    <link href="https://mp.weixin.qq.com/s/ah-i1GHpAubSPUmP624H8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T11:26:39+08:00</updated>
+  <updated>2020-12-23T11:30:54+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软：Excel公式是世界上使用最广泛的编程语言</title>
+    <updated>2020-12-22T20:14:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/gnl8alZ0nO7KxeEK0kZ9kA</id>
+    <link href="https://mp.weixin.qq.com/s/gnl8alZ0nO7KxeEK0kZ9kA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>卧槽！字节跳动《算法中文手册》火了，完整版 PDF 开放下载！</title>
     <updated>2020-12-21T21:07:12+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-13T20:42:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/_guTUU7H8G31nPZKmEX49A</id>
     <link href="https://mp.weixin.qq.com/s/_guTUU7H8G31nPZKmEX49A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TIOBE12月榜单：Java重回第二，Python有望四连冠年度语言</title>
-    <updated>2020-12-13T12:36:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/UNpUWhBtu5tjbGyo-5rnTQ</id>
-    <link href="https://mp.weixin.qq.com/s/UNpUWhBtu5tjbGyo-5rnTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

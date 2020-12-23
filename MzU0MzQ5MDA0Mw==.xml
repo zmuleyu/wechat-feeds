@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T23:16:31+08:00</updated>
+  <updated>2020-12-23T11:19:04+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>蚂蚁金服暂缓上市，怎样凭借技术在金融机构分一杯羹</title>
+    <updated>2020-12-22T14:40:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/_HUskg1jzAYNltKrwpQUbA</id>
+    <link href="https://mp.weixin.qq.com/s/_HUskg1jzAYNltKrwpQUbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>网易游戏基于 Flink 的流式 ETL 建设</title>
+    <updated>2020-12-22T14:40:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/pGUYjzsla3Jlfe-6ALBBGQ</id>
+    <link href="https://mp.weixin.qq.com/s/pGUYjzsla3Jlfe-6ALBBGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动ClickHouse在用户增长分析场景的应用</title>
     <updated>2020-12-22T14:36:46+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-10T00:53:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/7a7jDHHq5yb9FkrsnEkdcA</id>
     <link href="https://mp.weixin.qq.com/s/7a7jDHHq5yb9FkrsnEkdcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刚入职，就被各种 Code Review，真的有必要吗？</title>
-    <updated>2020-12-08T23:33:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/Caa-dTF0cefzyJ_ZBTgouA</id>
-    <link href="https://mp.weixin.qq.com/s/Caa-dTF0cefzyJ_ZBTgouA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
