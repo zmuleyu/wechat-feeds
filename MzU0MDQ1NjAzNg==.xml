@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T13:31:50+08:00</updated>
+  <updated>2020-12-23T20:26:51+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -120,13 +120,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>手推公式！代码复现！9周系统学完李航《统计学习方法》！</title>
-    <updated>2020-12-17T10:16:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/k4OYQLWyYfsyeR4jlIQQrQ</id>
-    <link href="https://mp.weixin.qq.com/s/k4OYQLWyYfsyeR4jlIQQrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>LSTM模型结构的可视化</title>
     <updated>2020-12-17T10:16:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/tdHkVn2SOssAAq9MhkR4tQ</id>
@@ -145,6 +138,13 @@
     <updated>2020-12-16T10:28:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/_ly1yz5dnXaYPFYIbBgpvw</id>
     <link href="https://mp.weixin.qq.com/s/_ly1yz5dnXaYPFYIbBgpvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>比监督学习做的更好：半监督学习</title>
+    <updated>2020-12-16T10:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/Tc_vZSWLJpf828QnVkRQoA</id>
+    <link href="https://mp.weixin.qq.com/s/Tc_vZSWLJpf828QnVkRQoA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

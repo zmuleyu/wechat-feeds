@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T20:17:04+08:00</updated>
+  <updated>2020-12-23T20:18:13+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>登录点经验之谈</title>
+    <updated>2020-12-23T17:15:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/_PnFyVP-gDNscNlg-fEgUg</id>
+    <link href="https://mp.weixin.qq.com/s/_PnFyVP-gDNscNlg-fEgUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>上新！「大圣云沙箱」Webshell检测功能来袭，体验有奖</title>
+    <updated>2020-12-23T17:15:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/5_wkGnIb2M7k9GDdQLN4-g</id>
+    <link href="https://mp.weixin.qq.com/s/5_wkGnIb2M7k9GDdQLN4-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>恶意软件分析：xHunt活动又使用了新型后门</title>
+    <updated>2020-12-23T17:15:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/DtxXD5uMd-tHPVe7JEXVFg</id>
+    <link href="https://mp.weixin.qq.com/s/DtxXD5uMd-tHPVe7JEXVFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Scrying：一款针对RDP、Web和VNC截图的多合一收集工具</title>
+    <updated>2020-12-23T17:15:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/k1sbOa8yzwK3k37bNmerXw</id>
+    <link href="https://mp.weixin.qq.com/s/k1sbOa8yzwK3k37bNmerXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>仿冒CyberPunk 2077的勒索软件</title>
     <updated>2020-12-22T18:09:35+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-19T13:55:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/Vq13foNEuo_2N8RNySJXyA</id>
     <link href="https://mp.weixin.qq.com/s/Vq13foNEuo_2N8RNySJXyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大咖访谈 | 李少鹏的网安江湖</title>
-    <updated>2020-12-18T18:00:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/3-u-IIqegPH-Zx6lhR67Ww</id>
-    <link href="https://mp.weixin.qq.com/s/3-u-IIqegPH-Zx6lhR67Ww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>见证中国安全创新力量 | WitAwards 2020奖项名单公布（上）</title>
-    <updated>2020-12-18T18:00:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/J5h11kCNp3RRp_rHLXxPgQ</id>
-    <link href="https://mp.weixin.qq.com/s/J5h11kCNp3RRp_rHLXxPgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>勒索软件即服务已成为新流行的“疫情”</title>
-    <updated>2020-12-18T18:00:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/HOVqSSHqvISKLUp9PDfBvA</id>
-    <link href="https://mp.weixin.qq.com/s/HOVqSSHqvISKLUp9PDfBvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TrickBot正在瞄准UEFI固件</title>
-    <updated>2020-12-18T18:00:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/AE9tK-cmjWjZ9OVI5pwH_w</id>
-    <link href="https://mp.weixin.qq.com/s/AE9tK-cmjWjZ9OVI5pwH_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

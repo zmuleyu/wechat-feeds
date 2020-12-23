@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T20:20:48+08:00</updated>
+  <updated>2020-12-23T20:26:08+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 年大前端技术趋势解读</title>
+    <updated>2020-12-23T18:14:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/DVQWF1CokNV07JLidHsFtg</id>
+    <link href="https://mp.weixin.qq.com/s/DVQWF1CokNV07JLidHsFtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>首次揭秘：腾讯TDSQL分布式多级一致性数据库系统技术</title>
     <updated>2020-12-21T17:30:14+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-04T12:02:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/z3A4cE-nyNrAieNPkXdD5A</id>
     <link href="https://mp.weixin.qq.com/s/z3A4cE-nyNrAieNPkXdD5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go netpoller 网络模型之源码全面解析</title>
-    <updated>2020-12-02T15:27:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/HNPeffn08QovQwtUH1qkbQ</id>
-    <link href="https://mp.weixin.qq.com/s/HNPeffn08QovQwtUH1qkbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最新开源：3TS腾讯事务处理技术验证系统(下)</title>
-    <updated>2020-12-02T15:27:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/zisEseHXbSmA8miTY4fNpg</id>
-    <link href="https://mp.weixin.qq.com/s/zisEseHXbSmA8miTY4fNpg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

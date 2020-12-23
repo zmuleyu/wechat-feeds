@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>justjavac | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T11:38:47+08:00</updated>
+  <updated>2020-12-23T20:38:01+08:00</updated>
   <subtitle>专注时下最新的Web技术，分享原创及翻译文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谈谈 React 新出的 Server Components</title>
+    <updated>2020-12-23T16:36:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/qLV0IoPlkkZfiwpzAiQaqQ</id>
+    <link href="https://mp.weixin.qq.com/s/qLV0IoPlkkZfiwpzAiQaqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么总有人说：“前端饱和了”、“前端不好找工作”？</title>
     <updated>2020-12-21T17:16:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-20T08:57:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-20:/s/6URRQKNhG7cDfVAPU0iIyg</id>
     <link href="https://mp.weixin.qq.com/s/6URRQKNhG7cDfVAPU0iIyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最受大厂宠爱的 React，厉害在哪？</title>
-    <updated>2020-10-12T15:03:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/ZE9JvmRvxQ8SYt1Q_DGiBw</id>
-    <link href="https://mp.weixin.qq.com/s/ZE9JvmRvxQ8SYt1Q_DGiBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

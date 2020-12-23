@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T20:31:01+08:00</updated>
+  <updated>2020-12-23T20:33:25+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>专访阿里云 Serverless负责人：无服务器不会让后端失业</title>
+    <updated>2020-12-23T17:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/mm4boOVX28hGhZEsV4fe-Q</id>
+    <link href="https://mp.weixin.qq.com/s/mm4boOVX28hGhZEsV4fe-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>龙芯 .NET正式发布，相关代码已开源</title>
+    <updated>2020-12-23T17:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Y5RHsqCtPLdbsZMhSreWhQ</id>
+    <link href="https://mp.weixin.qq.com/s/Y5RHsqCtPLdbsZMhSreWhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>当你读代码时，你的大脑在做什么？</title>
+    <updated>2020-12-23T17:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/qyAZJo70mjD3_lipiUrP2A</id>
+    <link href="https://mp.weixin.qq.com/s/qyAZJo70mjD3_lipiUrP2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>树莓派官方发布Hi-Fi音频设备，可集成到树莓派</title>
+    <updated>2020-12-23T17:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/VyEm3suWVay2J78dwftQRg</id>
+    <link href="https://mp.weixin.qq.com/s/VyEm3suWVay2J78dwftQRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从Linus Torvalds一封发飙的电邮开始谈设备树究竟是棵什么树？</title>
+    <updated>2020-12-23T17:37:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Ih7aHGsgJ_NFqN056331YA</id>
+    <link href="https://mp.weixin.qq.com/s/Ih7aHGsgJ_NFqN056331YA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>拥抱开源，激扬代码，当高校开发者遇上openEuler</title>
     <updated>2020-12-22T16:00:44+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-19T14:53:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/qcW4Mr5UNdQ57zKJhSCZDQ</id>
     <link href="https://mp.weixin.qq.com/s/qcW4Mr5UNdQ57zKJhSCZDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>细数软件工程各阶段必不可少的那些图</title>
-    <updated>2020-12-19T14:53:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/5to3uduZuIAHQ2diZE3MZw</id>
-    <link href="https://mp.weixin.qq.com/s/5to3uduZuIAHQ2diZE3MZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust语言2020调查报告发布：Rust 太难，生命周期更难</title>
-    <updated>2020-12-18T17:27:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/tayHv6ZYPORAV5rFm9BFLw</id>
-    <link href="https://mp.weixin.qq.com/s/tayHv6ZYPORAV5rFm9BFLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse 4.18 稳定版发布</title>
-    <updated>2020-12-18T17:27:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/qYxOFl_dI9-s0V3sODlcYQ</id>
-    <link href="https://mp.weixin.qq.com/s/qYxOFl_dI9-s0V3sODlcYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拒绝白嫖，Cognitect倡议商业公司赞助开源开发人员</title>
-    <updated>2020-12-18T17:27:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/mHriRV9Nd85EA9vI-0EGrQ</id>
-    <link href="https://mp.weixin.qq.com/s/mHriRV9Nd85EA9vI-0EGrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>适配M1的Docker Desktop正在测试，面临三大挑战</title>
-    <updated>2020-12-18T17:27:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/HI9-WofC85Nol-EaecP0eA</id>
-    <link href="https://mp.weixin.qq.com/s/HI9-WofC85Nol-EaecP0eA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

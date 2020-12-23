@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TripAdvisor猫途鹰 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-21T20:10:43+08:00</updated>
+  <updated>2020-12-23T20:14:07+08:00</updated>
   <subtitle>TripAdvisor（中文名 猫途鹰）官方订阅号。为你精选旅行资讯，分享旅行体验、攻 略和指南，一键查找附近吃喝玩乐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在上海，价值1000万+的房，现在只要1XXX就能住</title>
+    <updated>2020-12-23T18:14:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/lIjigR84Tll7aXhr-BYfCg</id>
+    <link href="https://mp.weixin.qq.com/s/lIjigR84Tll7aXhr-BYfCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>国内14处中风险地区，北京大连“变红”！新毒株发现，传播速度高70%</title>
     <updated>2020-12-21T17:00:55+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-11-30T17:12:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/FAbHVvZkzuaJmAvUu1LqEg</id>
     <link href="https://mp.weixin.qq.com/s/FAbHVvZkzuaJmAvUu1LqEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021放假通知出炉，五一休5天，十一可10天，请假攻略在这里</title>
-    <updated>2020-11-26T07:13:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/ovk4pVR0JUxvOVuidnMQ6Q</id>
-    <link href="https://mp.weixin.qq.com/s/ovk4pVR0JUxvOVuidnMQ6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>799/晚外滩江景酒店，云南顶奢怒降4000，最晚明年年底到期</title>
-    <updated>2020-11-26T07:13:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/wB43czLesOtLglRxK93CMg</id>
-    <link href="https://mp.weixin.qq.com/s/wB43czLesOtLglRxK93CMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
