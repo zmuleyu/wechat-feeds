@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者技术前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-22T16:21:39+08:00</updated>
+  <updated>2020-12-23T16:17:06+08:00</updated>
   <subtitle>专注大前端，Java和 Python。从技术，到人生</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>知乎热点：为什么程序员互相之间不能透露薪水?</title>
+    <updated>2020-12-23T13:14:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/3T1CF5iqt2AZQfWk-NkhmQ</id>
+    <link href="https://mp.weixin.qq.com/s/3T1CF5iqt2AZQfWk-NkhmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么我们放弃了微服务？</title>
+    <updated>2020-12-23T13:14:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/YVsefJ3NGRCgaFt1tuvHRA</id>
+    <link href="https://mp.weixin.qq.com/s/YVsefJ3NGRCgaFt1tuvHRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>日本大学生开发出“单身狗神器”，令人脸红心跳</title>
+    <updated>2020-12-23T13:14:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/lJ5jLa4PpCjjezE5Cnfb7g</id>
+    <link href="https://mp.weixin.qq.com/s/lJ5jLa4PpCjjezE5Cnfb7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官问我：用了HTTPS就安全了吗？用了HTTPS会被抓包吗？我竟然回答不上来...</title>
+    <updated>2020-12-23T13:14:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/YD-__2A5bsDY2kyB-CniAA</id>
+    <link href="https://mp.weixin.qq.com/s/YD-__2A5bsDY2kyB-CniAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这9名程序员被抓！开发50余款APP获利500万...</title>
+    <updated>2020-12-23T13:14:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/FjnAB2xlgJbga6juVzQb6g</id>
+    <link href="https://mp.weixin.qq.com/s/FjnAB2xlgJbga6juVzQb6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker 被禁后！Kubernetes 为什么又选择放弃Docker ？</title>
     <updated>2020-12-22T13:25:49+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-18T21:08:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/oHsRCcaOeN0DJRaQTq0r7g</id>
     <link href="https://mp.weixin.qq.com/s/oHsRCcaOeN0DJRaQTq0r7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse 官宣: 替代 VS Code ！</title>
-    <updated>2020-12-18T21:08:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/AyIrdE3VV7Xf8TFkeOMVEg</id>
-    <link href="https://mp.weixin.qq.com/s/AyIrdE3VV7Xf8TFkeOMVEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>蚂蚁金服技术中台架构实践</title>
-    <updated>2020-12-18T21:08:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/fifaSTyOXpgFY1jpTXyC4g</id>
-    <link href="https://mp.weixin.qq.com/s/fifaSTyOXpgFY1jpTXyC4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术小哥，写了一个“​废话生成器”！火爆内网，演绎了什么叫“阿里味“！</title>
-    <updated>2020-12-17T13:57:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/chFawT7dCCIJ5i5QhElygg</id>
-    <link href="https://mp.weixin.qq.com/s/chFawT7dCCIJ5i5QhElygg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真香！我终于干掉了该死的 if-else...</title>
-    <updated>2020-12-17T13:57:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/BMG4nKHxDqany5O2KNMTlQ</id>
-    <link href="https://mp.weixin.qq.com/s/BMG4nKHxDqany5O2KNMTlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 和 Go 都很火，要怎么选？</title>
-    <updated>2020-12-17T13:57:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/AN9h-5PRNLM5dB4PjARKqg</id>
-    <link href="https://mp.weixin.qq.com/s/AN9h-5PRNLM5dB4PjARKqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
