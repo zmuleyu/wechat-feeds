@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T13:40:59+08:00</updated>
+  <updated>2020-12-24T13:40:16+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
+    <updated>2020-12-24T10:18:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/QVgzl3UVYq_e0ibpqgjfeA</id>
+    <link href="https://mp.weixin.qq.com/s/QVgzl3UVYq_e0ibpqgjfeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ormb开源工具：像管理 Docker 容器镜像一样管理机器学习模型</title>
+    <updated>2020-12-24T10:18:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/6kP9oXmwnyvXxSwRHZrFDw</id>
+    <link href="https://mp.weixin.qq.com/s/6kP9oXmwnyvXxSwRHZrFDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超牛逼的 Java 项目实战，没有之一！</title>
     <updated>2020-12-22T22:47:32+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-12-15T18:46:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/3ukGY0eUFKjts2HxSaFR2g</id>
     <link href="https://mp.weixin.qq.com/s/3ukGY0eUFKjts2HxSaFR2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020云原生生态大会，最值得期待的技术盛会！</title>
-    <updated>2020-12-14T11:45:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/GDcGIC7zRnKKFX_q2MOZjA</id>
-    <link href="https://mp.weixin.qq.com/s/GDcGIC7zRnKKFX_q2MOZjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给世界多一个操作系统的选择，openEuler的开源故事</title>
-    <updated>2020-12-14T11:45:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/U_pJKzABmsNtO4pcm6tVZg</id>
-    <link href="https://mp.weixin.qq.com/s/U_pJKzABmsNtO4pcm6tVZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

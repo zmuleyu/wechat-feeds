@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T23:09:03+08:00</updated>
+  <updated>2020-12-24T13:44:28+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从动力学角度看优化算法：为什么SimSiam不退化？</title>
+    <updated>2020-12-24T12:37:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/IJhoouyNezdwINjqOpAp_g</id>
+    <link href="https://mp.weixin.qq.com/s/IJhoouyNezdwINjqOpAp_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何理解 Graph Convolutional Network (GCN)？</title>
+    <updated>2020-12-24T12:37:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/phbAkw8V0CnsZ2kBJxd37g</id>
+    <link href="https://mp.weixin.qq.com/s/phbAkw8V0CnsZ2kBJxd37g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AI框架你只会调包，这种想法很危险！</title>
     <updated>2020-12-23T20:30:45+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-15T12:30:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/uCzHtNaMF8tZEcv1JlIv3Q</id>
     <link href="https://mp.weixin.qq.com/s/uCzHtNaMF8tZEcv1JlIv3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Performer：用随机投影将Attention的复杂度线性化</title>
-    <updated>2020-12-14T20:01:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/NKhp5TWPHEhLl76X3aECpg</id>
-    <link href="https://mp.weixin.qq.com/s/NKhp5TWPHEhLl76X3aECpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 天津大学副教授张长青：多模态融合的基础问题及算法研究</title>
-    <updated>2020-12-14T20:01:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/Is2mdbsU9jUfU4d95AaS3g</id>
-    <link href="https://mp.weixin.qq.com/s/Is2mdbsU9jUfU4d95AaS3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
