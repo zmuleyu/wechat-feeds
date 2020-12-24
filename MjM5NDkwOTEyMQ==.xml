@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GDG | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T23:20:08+08:00</updated>
+  <updated>2020-12-24T23:14:36+08:00</updated>
   <subtitle>GDG上海微信助手 - 发布最新活动通知(每月都有线下技术分享,workshop和聚会),和开发女神,码农, 创业者,设计师,产品经理们做朋友吧!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【DevFest 2020】嘉宾实录总结：《激荡四十年》四代互联网人圆桌对话 by马骏（锅巴GG）、王玉成、张涛、张振尧</title>
+    <updated>2020-12-24T21:29:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/5A6zjx4y0af4O_9lMWRfgw</id>
+    <link href="https://mp.weixin.qq.com/s/5A6zjx4y0af4O_9lMWRfgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【DevFest 2020】嘉宾实录总结:《Android网络拨测与无埋点跟踪挖掘》by 余勋杰   | 主会场</title>
     <updated>2020-12-23T21:37:54+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-07T21:00:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/IAO1wUCjG_BFPGVL4cTPKQ</id>
     <link href="https://mp.weixin.qq.com/s/IAO1wUCjG_BFPGVL4cTPKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【12月5日】就明天！GDG 带你从工程化维度懂 AI ！</title>
-    <updated>2020-12-04T08:19:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/dPseyCqko8kyC9j-A5nCbQ</id>
-    <link href="https://mp.weixin.qq.com/s/dPseyCqko8kyC9j-A5nCbQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

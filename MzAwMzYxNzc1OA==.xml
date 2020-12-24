@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>酒仙桥六号部队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:23:17+08:00</updated>
+  <updated>2020-12-24T23:11:15+08:00</updated>
   <subtitle>知其黑，守其白。 分享知识盛宴，闲聊大院趣事，备好酒肉等你！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>略微扎手的渗透测试</title>
+    <updated>2020-12-24T20:51:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/XRyECwwO9nXe8PdRjdxqUg</id>
+    <link href="https://mp.weixin.qq.com/s/XRyECwwO9nXe8PdRjdxqUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你可能不知道的挖洞小技巧系列之OAuth 2.0</title>
     <updated>2020-12-23T18:52:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-09T16:31:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/cRlHoilJa8HPX9L2ZNE77A</id>
     <link href="https://mp.weixin.qq.com/s/cRlHoilJa8HPX9L2ZNE77A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TP诸多限制条件下如何getshell</title>
-    <updated>2020-12-08T16:19:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/LaTNNjwDT1VzN6uA0Gq0-Q</id>
-    <link href="https://mp.weixin.qq.com/s/LaTNNjwDT1VzN6uA0Gq0-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

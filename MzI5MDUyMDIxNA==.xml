@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T23:29:38+08:00</updated>
+  <updated>2020-12-24T23:18:55+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>年度盘点：极市计算机视觉资源汇总，顶会论文、技术视频、数据集等（限时开放下载）</title>
+    <updated>2020-12-24T18:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/lpixshFVPoKA2ARR3PGUlQ</id>
+    <link href="https://mp.weixin.qq.com/s/lpixshFVPoKA2ARR3PGUlQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PyTorch 多机多卡训练：DDP 实战与技巧</title>
+    <updated>2020-12-24T18:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/2E455tFiCqq2BVdt0BfkIA</id>
+    <link href="https://mp.weixin.qq.com/s/2E455tFiCqq2BVdt0BfkIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一叶知秋：基于“单目标域样本”的领域自适应方法｜NeurIPS 2020</title>
+    <updated>2020-12-24T18:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/d5nMoS6m-16logL6Ftk0RQ</id>
+    <link href="https://mp.weixin.qq.com/s/d5nMoS6m-16logL6Ftk0RQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DeepMind又出大招！新算法MuZero登顶Nature，AI离人类规划又近了一步</title>
+    <updated>2020-12-24T18:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/0An618vFFSZfm7_hQ-omfA</id>
+    <link href="https://mp.weixin.qq.com/s/0An618vFFSZfm7_hQ-omfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>通道注意力新突破！从频域角度出发，浙大提出FcaNet：仅需修改一行代码，简洁又高效</title>
     <updated>2020-12-23T21:19:12+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-20T21:57:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/wMNfZyH2PaZclRxGdVDzqQ</id>
     <link href="https://mp.weixin.qq.com/s/wMNfZyH2PaZclRxGdVDzqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真正的无极放大！30x插值效果惊艳，英伟达等开源LIIF：巧妙的图像超分新思路</title>
-    <updated>2020-12-19T21:44:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/pKQZm1OvfKUyMA4V_-vIqw</id>
-    <link href="https://mp.weixin.qq.com/s/pKQZm1OvfKUyMA4V_-vIqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CNN的一些可视化方法</title>
-    <updated>2020-12-19T21:44:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/wvWgmH67CKrDXNi2t5jr8Q</id>
-    <link href="https://mp.weixin.qq.com/s/wvWgmH67CKrDXNi2t5jr8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NeurIPS 2020 | 打破传统Grid限制，建模高阶关系的图像检测和分割方法</title>
-    <updated>2020-12-19T21:44:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/buGAhSkpoDjlBaNWxUg9vw</id>
-    <link href="https://mp.weixin.qq.com/s/buGAhSkpoDjlBaNWxUg9vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“你的论文充斥着垃圾，写作一塌糊涂，我读着读着都想撕了它”</title>
-    <updated>2020-12-19T21:44:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/TyJDV8ffjVDXQs8NQm-mbQ</id>
-    <link href="https://mp.weixin.qq.com/s/TyJDV8ffjVDXQs8NQm-mbQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
