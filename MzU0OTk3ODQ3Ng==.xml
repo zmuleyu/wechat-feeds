@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T11:35:07+08:00</updated>
+  <updated>2020-12-24T11:31:44+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10张图告诉你，MySQL 是如何查找数据的？</title>
+    <updated>2020-12-24T09:54:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/JtHf0AEr7BmapGFFd1tegQ</id>
+    <link href="https://mp.weixin.qq.com/s/JtHf0AEr7BmapGFFd1tegQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>4次优化，我把 Redis 性能 “压榨” 到极致！</title>
     <updated>2020-12-23T09:52:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T08:51:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/VmbQNoG7WH--9_akn1DZXQ</id>
     <link href="https://mp.weixin.qq.com/s/VmbQNoG7WH--9_akn1DZXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硬核万字总结：看完这 20 道 Redis 面试题，女朋友都面上阿里了</title>
-    <updated>2020-12-07T12:11:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/GwjQalQ9ZkBbTBtEKpbkMw</id>
-    <link href="https://mp.weixin.qq.com/s/GwjQalQ9ZkBbTBtEKpbkMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

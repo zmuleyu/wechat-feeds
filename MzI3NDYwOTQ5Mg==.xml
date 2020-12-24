@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>恩智浦MCU加油站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-17T11:31:26+08:00</updated>
+  <updated>2020-12-24T11:32:48+08:00</updated>
   <subtitle>迎来到恩智浦MCU加油站，在这里您可以了解到关于恩智浦MCU产品的各种信息，开发技巧、各种教程文档、研讨会培训课程的预告等，我们还会与您分享最新的产品和产业动态。 如果您对恩智浦的产品和本公众号，有什么好的建议和意见，可以在此留言或来稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>探索跨界处理器的星辰大海，i.MX RT1170无限可能</title>
+    <updated>2020-12-23T20:23:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Rsw6FZCa8UoY5Nm-9mKNpw</id>
+    <link href="https://mp.weixin.qq.com/s/Rsw6FZCa8UoY5Nm-9mKNpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>终于等到你：内置运放的DSC新成员——MC56F81xxx</title>
+    <updated>2020-12-23T20:23:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/OsN4fCKBAaXW0lGKKYac8g</id>
+    <link href="https://mp.weixin.qq.com/s/OsN4fCKBAaXW0lGKKYac8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>UART接口不够了？看看这篇就够了！</title>
     <updated>2020-12-16T17:15:10+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-21T21:15:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/x_IeFApIjvfDKbOdTckXFQ</id>
     <link href="https://mp.weixin.qq.com/s/x_IeFApIjvfDKbOdTckXFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于LPC845智能电池充电器参考设计方案</title>
-    <updated>2020-10-21T21:15:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/frwD4LaySWxp-n2VoK2qqg</id>
-    <link href="https://mp.weixin.qq.com/s/frwD4LaySWxp-n2VoK2qqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LPC55S69物趣系列之①：8分钟上手ST7735串口屏</title>
-    <updated>2020-10-14T23:10:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/YFzzq8HlDYJBq0uMDvA1Zw</id>
-    <link href="https://mp.weixin.qq.com/s/YFzzq8HlDYJBq0uMDvA1Zw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

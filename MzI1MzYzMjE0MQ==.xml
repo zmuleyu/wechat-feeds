@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T11:42:14+08:00</updated>
+  <updated>2020-12-24T11:39:17+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动开源云原生机器学习平台 Klever</title>
+    <updated>2020-12-23T23:06:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/WVVedy_Pggncg4v7ZXwu7A</id>
+    <link href="https://mp.weixin.qq.com/s/WVVedy_Pggncg4v7ZXwu7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动自研「BVC2.0」视频编码器在 MSU 2020 中获得四项第一</title>
     <updated>2020-12-22T20:25:38+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-22T20:34:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/9GjXB9Eu-OP3fIjdQWKklg</id>
     <link href="https://mp.weixin.qq.com/s/9GjXB9Eu-OP3fIjdQWKklg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一例 Go 编译器代码优化 bug 定位和修复解析</title>
-    <updated>2020-11-10T09:37:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/Tyl6dSb7mHBuqqN6WvEuaw</id>
-    <link href="https://mp.weixin.qq.com/s/Tyl6dSb7mHBuqqN6WvEuaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T23:20:25+08:00</updated>
+  <updated>2020-12-24T11:29:23+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里、快手、好未来：业务架构应该这么做！｜ QCon</title>
+    <updated>2020-12-23T22:21:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/BUAsyxNK6DlvIHrnnWr9fQ</id>
+    <link href="https://mp.weixin.qq.com/s/BUAsyxNK6DlvIHrnnWr9fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL最流行的版本，是不是5.6？</title>
     <updated>2020-12-23T21:07:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T17:19:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/LYJMEOW43Pwdi38ZY5Ugww</id>
     <link href="https://mp.weixin.qq.com/s/LYJMEOW43Pwdi38ZY5Ugww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>究竟为啥总在凌晨上线，如何进行无损发布</title>
-    <updated>2020-12-07T21:21:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/7RIhJudZDeXa8m0YiiMBUQ</id>
-    <link href="https://mp.weixin.qq.com/s/7RIhJudZDeXa8m0YiiMBUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
