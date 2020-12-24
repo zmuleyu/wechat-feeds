@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T23:11:06+08:00</updated>
+  <updated>2020-12-25T07:18:27+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深夜通报：重要变更！</title>
+    <updated>2020-12-25T07:05:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/QQk0bm3EKZkXv4aHi9aZwg</id>
+    <link href="https://mp.weixin.qq.com/s/QQk0bm3EKZkXv4aHi9aZwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一分钱就能买菜？李梓萌：看上去很美，但便宜和便利要有个前提</title>
     <updated>2020-12-24T22:06:56+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-23T22:05:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/4cRTyqBOJ-k7hVpgmtJd_A</id>
     <link href="https://mp.weixin.qq.com/s/4cRTyqBOJ-k7hVpgmtJd_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>倒计时！</title>
-    <updated>2020-12-23T20:47:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/qzr2GLanS2VAo6bQEuPXhQ</id>
-    <link href="https://mp.weixin.qq.com/s/qzr2GLanS2VAo6bQEuPXhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
