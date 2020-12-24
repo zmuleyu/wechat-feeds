@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:33:25+08:00</updated>
+  <updated>2020-12-24T20:29:43+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>红帽为杀死CentOS发行版辩护：Stream可覆盖95%的用户工作负载</title>
+    <updated>2020-12-24T16:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/bSTYim7YejkGMlBBo0_9lQ</id>
+    <link href="https://mp.weixin.qq.com/s/bSTYim7YejkGMlBBo0_9lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里开源量子模拟器 “太章 2.0”,支持量子算法和纠错探索</title>
+    <updated>2020-12-24T16:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/IMEdqw0r_y2iRtR8tn8HSg</id>
+    <link href="https://mp.weixin.qq.com/s/IMEdqw0r_y2iRtR8tn8HSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>V (Vlang)首个主要版本0.2发布，安全快速可编译的静态语言</title>
+    <updated>2020-12-24T16:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/EipvDYOEBz7Zcgv8JNAuRA</id>
+    <link href="https://mp.weixin.qq.com/s/EipvDYOEBz7Zcgv8JNAuRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go on ARM 以及移植计划</title>
+    <updated>2020-12-24T16:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/7X9JG0WIbwqznuWY-7348g</id>
+    <link href="https://mp.weixin.qq.com/s/7X9JG0WIbwqznuWY-7348g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rocky Linux 成立开源基金会</title>
+    <updated>2020-12-24T16:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/UNv_408_Aoftu_eAOGXMMQ</id>
+    <link href="https://mp.weixin.qq.com/s/UNv_408_Aoftu_eAOGXMMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>专访阿里云 Serverless负责人：无服务器不会让后端失业</title>
     <updated>2020-12-23T17:37:47+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-21T17:06:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/WbP13XbnnlxbGrvTHTGmhQ</id>
     <link href="https://mp.weixin.qq.com/s/WbP13XbnnlxbGrvTHTGmhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C++20标准 (ISO/IEC 14882:2020) 正式发布</title>
-    <updated>2020-12-20T13:22:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/xyA2CMSSGhZ1YYjB_RdXRQ</id>
-    <link href="https://mp.weixin.qq.com/s/xyA2CMSSGhZ1YYjB_RdXRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RISC-V 研讨会上再现两名 12 岁小男孩</title>
-    <updated>2020-12-20T13:22:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/Rz0hfdXo9VZ_QQsPWllEtQ</id>
-    <link href="https://mp.weixin.qq.com/s/Rz0hfdXo9VZ_QQsPWllEtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 人到中年，一地鸡毛</title>
-    <updated>2020-12-20T13:22:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/0Zzg92zfeKDWStyZ48iG5A</id>
-    <link href="https://mp.weixin.qq.com/s/0Zzg92zfeKDWStyZ48iG5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多款主流编程语言，哪款开发软件最安全？</title>
-    <updated>2020-12-19T14:53:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/6M1s_DEz657at37GUsiDDQ</id>
-    <link href="https://mp.weixin.qq.com/s/6M1s_DEz657at37GUsiDDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>曾经有一个当开源大拿的机会摆在我面前，我没有珍惜…</title>
-    <updated>2020-12-19T14:53:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/qcW4Mr5UNdQ57zKJhSCZDQ</id>
-    <link href="https://mp.weixin.qq.com/s/qcW4Mr5UNdQ57zKJhSCZDQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

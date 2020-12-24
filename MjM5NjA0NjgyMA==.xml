@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:18:13+08:00</updated>
+  <updated>2020-12-24T20:11:41+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>倒计时5天！CIS 2020大会出品人邀你线下相聚</title>
+    <updated>2020-12-24T18:08:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/bJAYupodoJfhR8KYnZSBgA</id>
+    <link href="https://mp.weixin.qq.com/s/bJAYupodoJfhR8KYnZSBgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊APT的溯源分析</title>
+    <updated>2020-12-24T18:08:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/HJJY25jrhRT_2GcLmQWpyw</id>
+    <link href="https://mp.weixin.qq.com/s/HJJY25jrhRT_2GcLmQWpyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>N1QLMap：利用N1QL注入漏洞从Couchbase数据库中提取数据</title>
+    <updated>2020-12-24T18:08:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/qefnSGSUkOPMtQqnbNFNtw</id>
+    <link href="https://mp.weixin.qq.com/s/qefnSGSUkOPMtQqnbNFNtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Nosqli：一款功能强大的NoSql注入命令行接口工具</title>
+    <updated>2020-12-24T18:08:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/cvP9lBz-BPYxrS5GtgivtA</id>
+    <link href="https://mp.weixin.qq.com/s/cvP9lBz-BPYxrS5GtgivtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>登录点经验之谈</title>
     <updated>2020-12-23T17:15:57+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-20T17:32:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/iUV0IiTrmjPJbqOhMtPwug</id>
     <link href="https://mp.weixin.qq.com/s/iUV0IiTrmjPJbqOhMtPwug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多家研究机构称2021年会全球将遭遇更多网络攻击</title>
-    <updated>2020-12-19T13:55:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/zih9nWq6_uvuxjW1WZk37w</id>
-    <link href="https://mp.weixin.qq.com/s/zih9nWq6_uvuxjW1WZk37w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年末，赶一场TED式的CSO闭门论坛</title>
-    <updated>2020-12-19T13:55:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/JjvuF9GlF-TCX69AS_bK5w</id>
-    <link href="https://mp.weixin.qq.com/s/JjvuF9GlF-TCX69AS_bK5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker化自动采集&amp;模拟恶意软件环境</title>
-    <updated>2020-12-19T13:55:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/713K5F09bjXB0wR5L_neLQ</id>
-    <link href="https://mp.weixin.qq.com/s/713K5F09bjXB0wR5L_neLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>冰蝎2和3及哥斯拉Godzilla特征分析</title>
-    <updated>2020-12-19T13:55:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/Vq13foNEuo_2N8RNySJXyA</id>
-    <link href="https://mp.weixin.qq.com/s/Vq13foNEuo_2N8RNySJXyA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

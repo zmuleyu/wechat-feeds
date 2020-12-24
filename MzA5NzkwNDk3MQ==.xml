@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:23:44+08:00</updated>
+  <updated>2020-12-24T20:18:55+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>React RFC Server Components</title>
+    <updated>2020-12-24T16:41:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/KGev5at-H1TcVytTfliheg</id>
+    <link href="https://mp.weixin.qq.com/s/KGev5at-H1TcVytTfliheg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团- 招高级iOS开发工程师</title>
+    <updated>2020-12-24T16:41:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/UnzdWPf7OyKzJ3hVpyPjKw</id>
+    <link href="https://mp.weixin.qq.com/s/UnzdWPf7OyKzJ3hVpyPjKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2020-12-24T16:41:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/ey0tw8T6-DE-vztQYC9S-g</id>
+    <link href="https://mp.weixin.qq.com/s/ey0tw8T6-DE-vztQYC9S-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想要复制图像？Clipboard API 了解一下</title>
     <updated>2020-12-23T18:16:43+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-15T19:47:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/nsEmDprpeICz_wC3Xu9cPQ</id>
     <link href="https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团-即视 招高级前端开发工程师</title>
-    <updated>2020-12-15T19:47:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/IzsM_BuhuSvV35Acn4qGaw</id>
-    <link href="https://mp.weixin.qq.com/s/IzsM_BuhuSvV35Acn4qGaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-12-15T19:47:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/ZE0ijZWRl3fsRvdTixHZfw</id>
-    <link href="https://mp.weixin.qq.com/s/ZE0ijZWRl3fsRvdTixHZfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>搞懂 HTTP 重定向 - 如何优雅地使用 301</title>
-    <updated>2020-12-14T15:26:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/sy5AVy-QdgtvsFsowW99dw</id>
-    <link href="https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

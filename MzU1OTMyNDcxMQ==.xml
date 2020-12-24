@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:20:22+08:00</updated>
+  <updated>2020-12-24T20:15:09+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>zh_segmentation：基于 Chinese Treebank 6.0 构建的中文分词模型</title>
+    <updated>2020-12-24T18:41:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/DNfcbl6fFomGOnhsd7Ex8Q</id>
+    <link href="https://mp.weixin.qq.com/s/DNfcbl6fFomGOnhsd7Ex8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 MinDiff 提升模型公平性</title>
     <updated>2020-12-23T19:41:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-09T18:41:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/feJ5wF4WesGF9dSvYlhSZg</id>
     <link href="https://mp.weixin.qq.com/s/feJ5wF4WesGF9dSvYlhSZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>社区分享 | 关于 TensorFlow 入坑那些事儿</title>
-    <updated>2020-12-08T13:22:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/9vTChDS280i3wTeX0yHwzA</id>
-    <link href="https://mp.weixin.qq.com/s/9vTChDS280i3wTeX0yHwzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

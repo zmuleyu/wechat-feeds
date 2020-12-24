@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:16:37+08:00</updated>
+  <updated>2020-12-24T20:11:52+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>性能竞赛优秀项目 | 分得干脆、合得高效，用 Shuffle 优化 TiDB 算子</title>
+    <updated>2020-12-24T13:52:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/2TDqVUXfsgagG8SmWKadyQ</id>
+    <link href="https://mp.weixin.qq.com/s/2TDqVUXfsgagG8SmWKadyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再获权威认可 | TiDB 通过信通院分布式数据库性能与基础能力两项评测</title>
     <updated>2020-12-23T10:09:28+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-08T17:29:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/x4ZT5m55Xk6rFOYPLbvweQ</id>
     <link href="https://mp.weixin.qq.com/s/x4ZT5m55Xk6rFOYPLbvweQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专访 | 不想浪费时代机遇，这群内心狂野的程序员用 5 年时间把产品卖到了全球</title>
-    <updated>2020-12-07T17:06:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/cqX3JK_AbNA8ZJvoigqO2Q</id>
-    <link href="https://mp.weixin.qq.com/s/cqX3JK_AbNA8ZJvoigqO2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
