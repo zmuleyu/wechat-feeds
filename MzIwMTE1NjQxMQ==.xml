@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱计算机视觉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T01:47:29+08:00</updated>
+  <updated>2020-12-25T20:13:08+08:00</updated>
   <subtitle>关注计算机视觉与机器学习技术的最前沿，“有价值有深度”，分享开源技术与最新论文解读，传播CVML技术的业内最佳实践。www.52cv.net QQ群: 805388940，CV君个人账号：Your-Word。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么CV专家都建议学习C++？</title>
+    <updated>2020-12-25T17:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/i_KhQejmCP5M_mLJ52NKOg</id>
+    <link href="https://mp.weixin.qq.com/s/i_KhQejmCP5M_mLJ52NKOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>难以置信的目标检测小妙招：多训练几个epochs，平均一下就能获得更好的模型</title>
+    <updated>2020-12-25T17:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/stAVRiCQx3-JEeg-KvimIw</id>
+    <link href="https://mp.weixin.qq.com/s/stAVRiCQx3-JEeg-KvimIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>北京 | 洞微科技招聘</title>
+    <updated>2020-12-25T17:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/aemc_EJzqIGdve27RdWo_w</id>
+    <link href="https://mp.weixin.qq.com/s/aemc_EJzqIGdve27RdWo_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为联合北大、悉尼大学对 Visual Transformer 的最新综述</title>
     <updated>2020-12-24T23:14:31+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-19T23:19:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/vhcSoVP-tDN7jRMrbKWwlQ</id>
     <link href="https://mp.weixin.qq.com/s/vhcSoVP-tDN7jRMrbKWwlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks</title>
-    <updated>2020-12-19T23:19:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/9GFLmwuLIfDq3_LNU36I0Q</id>
-    <link href="https://mp.weixin.qq.com/s/9GFLmwuLIfDq3_LNU36I0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【阿里达摩院】多模态理解&amp;数智媒体组招聘研究型实习生</title>
-    <updated>2020-12-19T23:19:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/NOi6AGyZ5BtUQcXj_JL0Fg</id>
-    <link href="https://mp.weixin.qq.com/s/NOi6AGyZ5BtUQcXj_JL0Fg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>导师：顶会论文3天都复现不出来？你退学吧！</title>
-    <updated>2020-12-18T16:38:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/kkDjPSerkzFY9RXT_5R3Cw</id>
-    <link href="https://mp.weixin.qq.com/s/kkDjPSerkzFY9RXT_5R3Cw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

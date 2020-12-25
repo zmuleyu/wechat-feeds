@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T20:11:52+08:00</updated>
+  <updated>2020-12-25T20:34:28+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SegmentFault 思否发布「  2020 中国技术先锋年度榜单」  PingCAP 连获 4 项认可</title>
+    <updated>2020-12-25T17:57:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Kp7QRxDQLQAVvLo2E5ltHQ</id>
+    <link href="https://mp.weixin.qq.com/s/Kp7QRxDQLQAVvLo2E5ltHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>​专属 Rustaceans 的年度盛会，Rust China Conf 2020 来了！</title>
+    <updated>2020-12-25T17:57:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/dAaXMDK8Sf9NVeMnlMfKOw</id>
+    <link href="https://mp.weixin.qq.com/s/dAaXMDK8Sf9NVeMnlMfKOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>性能竞赛优秀项目 | 分得干脆、合得高效，用 Shuffle 优化 TiDB 算子</title>
     <updated>2020-12-24T13:52:06+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-09T18:36:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/-LD0zIKHyOfiM_HmwcmoXA</id>
     <link href="https://mp.weixin.qq.com/s/-LD0zIKHyOfiM_HmwcmoXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB 在金融行业关键业务场景的实践（上篇）</title>
-    <updated>2020-12-08T17:29:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/x4ZT5m55Xk6rFOYPLbvweQ</id>
-    <link href="https://mp.weixin.qq.com/s/x4ZT5m55Xk6rFOYPLbvweQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

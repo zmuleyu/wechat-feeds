@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>京东 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:25:08+08:00</updated>
+  <updated>2020-12-25T20:15:55+08:00</updated>
   <subtitle>我们将第一时间为你带来京东最新的优惠信息、服务升级和新闻动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今晚八点，约会吗？</title>
+    <updated>2020-12-25T17:59:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/ZBpG4Y9zjpgVaId7k22mJw</id>
+    <link href="https://mp.weixin.qq.com/s/ZBpG4Y9zjpgVaId7k22mJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>帅！首飞成功！</title>
     <updated>2020-12-23T18:45:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-14T18:07:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/wyfN0rYLyOs909XRhbJg4g</id>
     <link href="https://mp.weixin.qq.com/s/wyfN0rYLyOs909XRhbJg4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>快醒醒！京东12.12超级百亿补贴已经开抢了！</title>
-    <updated>2020-12-12T10:03:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/_5tgCfPnoXgDS1jFJjH4WQ</id>
-    <link href="https://mp.weixin.qq.com/s/_5tgCfPnoXgDS1jFJjH4WQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

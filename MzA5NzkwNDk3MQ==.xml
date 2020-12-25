@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T20:18:55+08:00</updated>
+  <updated>2020-12-25T20:13:43+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 378 期：2020 年大前端技术趋势解读</title>
+    <updated>2020-12-25T18:36:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Y0Ok8YrY11lWUai-TFDtEg</id>
+    <link href="https://mp.weixin.qq.com/s/Y0Ok8YrY11lWUai-TFDtEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>React RFC Server Components</title>
     <updated>2020-12-24T16:41:20+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-16T17:35:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/-06zU4gc0n00TzENvcPDgA</id>
     <link href="https://mp.weixin.qq.com/s/-06zU4gc0n00TzENvcPDgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>clipboard.js 的源码分析</title>
-    <updated>2020-12-15T19:47:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/nsEmDprpeICz_wC3Xu9cPQ</id>
-    <link href="https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

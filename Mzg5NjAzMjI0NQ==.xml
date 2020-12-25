@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T20:13:45+08:00</updated>
+  <updated>2020-12-25T20:10:58+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GitHub 2020 报告：全球开发者工作与生活平衡情况年度分析</title>
+    <updated>2020-12-25T14:30:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/4QIsheam-c7_oIcndfBjtA</id>
+    <link href="https://mp.weixin.qq.com/s/4QIsheam-c7_oIcndfBjtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>总结我对Vue项目团队开发的一些基本配置封装分享</title>
     <updated>2020-12-24T15:29:28+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-12-16T16:55:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/PZlR2lNx0jXiHt_hcdc7CA</id>
     <link href="https://mp.weixin.qq.com/s/PZlR2lNx0jXiHt_hcdc7CA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How to implement container in golang?</title>
-    <updated>2020-12-15T16:45:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/wTby-KcsQdss7Sg20ay6vw</id>
-    <link href="https://mp.weixin.qq.com/s/wTby-KcsQdss7Sg20ay6vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「奇淫技巧」如何写最少的代码</title>
-    <updated>2020-12-15T16:45:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/JDLurc8l8ZCJqurr8mzL4A</id>
-    <link href="https://mp.weixin.qq.com/s/JDLurc8l8ZCJqurr8mzL4A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

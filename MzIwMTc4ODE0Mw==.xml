@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T13:44:28+08:00</updated>
+  <updated>2020-12-25T20:33:40+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>NeurIPS 2020有哪些值得读的「图神经网络」论文？</title>
+    <updated>2020-12-25T18:01:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/FVKY-FCkmlHLqivKn1C8oQ</id>
+    <link href="https://mp.weixin.qq.com/s/FVKY-FCkmlHLqivKn1C8oQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>AAAI 2021 | 上海交大提出基于有监督解耦的信息瓶颈算法</title>
+    <updated>2020-12-25T18:01:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/-sG0X6NRdN9LCRIXjnkDRg</id>
+    <link href="https://mp.weixin.qq.com/s/-sG0X6NRdN9LCRIXjnkDRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从动力学角度看优化算法：为什么SimSiam不退化？</title>
     <updated>2020-12-24T12:37:19+08:00</updated>
@@ -26,13 +40,6 @@
     <updated>2020-12-23T20:30:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/nI7mRnBa-HcWb7Yl-geIxg</id>
     <link href="https://mp.weixin.qq.com/s/nI7mRnBa-HcWb7Yl-geIxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于自杀领域个性化知识图谱的社交媒体自杀意念检测</title>
-    <updated>2020-12-23T20:30:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/748lotKRcm4XRYvEgB05Xw</id>
-    <link href="https://mp.weixin.qq.com/s/748lotKRcm4XRYvEgB05Xw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,27 +131,6 @@
     <updated>2020-12-16T12:35:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/TpjqkFntx1GFSQA23x3Ekw</id>
     <link href="https://mp.weixin.qq.com/s/TpjqkFntx1GFSQA23x3Ekw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超实用！从0到1教你打造一个令人上瘾的聊天机器人</title>
-    <updated>2020-12-15T12:30:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/_-ypLtbciNdzgNWs-1CAfQ</id>
-    <link href="https://mp.weixin.qq.com/s/_-ypLtbciNdzgNWs-1CAfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>80%的人都不知道的排版利器，博士生都在用它！</title>
-    <updated>2020-12-15T12:30:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/mZTbNgmW3_hzCT7yJkgcJA</id>
-    <link href="https://mp.weixin.qq.com/s/mZTbNgmW3_hzCT7yJkgcJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NeurIPS 2020 | 一种基于动作采样的简单高效的正则化强化学习方法</title>
-    <updated>2020-12-15T12:30:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/uCzHtNaMF8tZEcv1JlIv3Q</id>
-    <link href="https://mp.weixin.qq.com/s/uCzHtNaMF8tZEcv1JlIv3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
