@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T20:19:25+08:00</updated>
+  <updated>2020-12-25T16:12:25+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Netflix 是怎样做系统监控的？</title>
+    <updated>2020-12-25T15:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/WrWkQeBORX_2eSCduTirDg</id>
+    <link href="https://mp.weixin.qq.com/s/WrWkQeBORX_2eSCduTirDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，赶紧上车吧！</title>
+    <updated>2020-12-25T15:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/W4uRyFC0ssyjvhoKU02DVQ</id>
+    <link href="https://mp.weixin.qq.com/s/W4uRyFC0ssyjvhoKU02DVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在淘宝，我们是这样衡量代码质量的</title>
     <updated>2020-12-24T20:00:23+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-12T20:00:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/wMfIlVBmgafQ0Gfj_yeRkQ</id>
     <link href="https://mp.weixin.qq.com/s/wMfIlVBmgafQ0Gfj_yeRkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开始切换到 Kotlin：谷歌工程师给初学者的知识点总结</title>
-    <updated>2020-12-10T20:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/UMhbzdkpEnUUm_fgIdidQg</id>
-    <link href="https://mp.weixin.qq.com/s/UMhbzdkpEnUUm_fgIdidQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊微服务架构.pdf</title>
-    <updated>2020-12-10T20:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/jr3EQCq8XWVW4kazJxK6lw</id>
-    <link href="https://mp.weixin.qq.com/s/jr3EQCq8XWVW4kazJxK6lw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
