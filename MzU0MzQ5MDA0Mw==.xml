@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T23:32:46+08:00</updated>
+  <updated>2020-12-25T11:36:28+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>被BAT大厂疯传的ClickHouse到底是什么？</title>
+    <updated>2020-12-24T22:07:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/55KCrQ5fZ5hpnxc73bW_cQ</id>
+    <link href="https://mp.weixin.qq.com/s/55KCrQ5fZ5hpnxc73bW_cQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IDEA 15款神级良心插件强烈推荐收藏</title>
+    <updated>2020-12-24T22:07:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/McqOUc42mkRKUkSSCMH1ZQ</id>
+    <link href="https://mp.weixin.qq.com/s/McqOUc42mkRKUkSSCMH1ZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试阿里被质问：ConcurrentHashMap线程安全吗</title>
     <updated>2020-12-23T22:27:55+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-13T17:33:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/MbaWFZN1NbCNP1jPmXSFwQ</id>
     <link href="https://mp.weixin.qq.com/s/MbaWFZN1NbCNP1jPmXSFwQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一款日志切割神器，好用到爆！！</title>
-    <updated>2020-12-11T00:41:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/S0hEIbe031MC0GaLsWXr8A</id>
-    <link href="https://mp.weixin.qq.com/s/S0hEIbe031MC0GaLsWXr8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
