@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国电影资料馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T20:22:50+08:00</updated>
+  <updated>2020-12-25T23:08:31+08:00</updated>
   <subtitle>定期发布资料馆信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明日放映 | 浪淘沙</title>
+    <updated>2020-12-25T20:40:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/RRI4VCus-PcPFqt2P4YJFw</id>
+    <link href="https://mp.weixin.qq.com/s/RRI4VCus-PcPFqt2P4YJFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>资料收集 | 数字母版信息</title>
     <updated>2020-12-24T18:22:32+08:00</updated>
@@ -131,13 +138,6 @@
     <updated>2020-12-15T23:58:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/33uU5tcm2X0yTA1NC0mVBw</id>
     <link href="https://mp.weixin.qq.com/s/33uU5tcm2X0yTA1NC0mVBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明日放映｜影史最残酷的二战电影</title>
-    <updated>2020-12-14T17:28:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/fSHffn--W7OpcyRuzGLHCA</id>
-    <link href="https://mp.weixin.qq.com/s/fSHffn--W7OpcyRuzGLHCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
