@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T13:40:16+08:00</updated>
+  <updated>2020-12-25T13:30:32+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>淘宝千万级并发架构之nginx！</title>
+    <updated>2020-12-25T10:47:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/bCSMbQy2tqaOk6Q_29RQjw</id>
+    <link href="https://mp.weixin.qq.com/s/bCSMbQy2tqaOk6Q_29RQjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Kafka 2.7.0发布，加速移除Zookeeper</title>
+    <updated>2020-12-25T10:47:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/C2s5RMH6H0dXLtbvTVzGxA</id>
+    <link href="https://mp.weixin.qq.com/s/C2s5RMH6H0dXLtbvTVzGxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
     <updated>2020-12-24T10:18:39+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-12-16T11:16:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/YjDq16FKAwIBi5rEtqveRQ</id>
     <link href="https://mp.weixin.qq.com/s/YjDq16FKAwIBi5rEtqveRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>黑客拍卖25万个盗来的MySQL数据库</title>
-    <updated>2020-12-15T18:46:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/7YctjfWSTDpIiBw8oC_obA</id>
-    <link href="https://mp.weixin.qq.com/s/7YctjfWSTDpIiBw8oC_obA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一看就懂的网络传输介质介绍</title>
-    <updated>2020-12-15T18:46:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/3ukGY0eUFKjts2HxSaFR2g</id>
-    <link href="https://mp.weixin.qq.com/s/3ukGY0eUFKjts2HxSaFR2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

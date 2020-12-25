@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T13:30:04+08:00</updated>
+  <updated>2020-12-25T13:19:55+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>程序运行慢？你怕是写的假 Python</title>
+    <updated>2020-12-24T23:22:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/ghbJ8j54d7QnQFYEJlyVyg</id>
+    <link href="https://mp.weixin.qq.com/s/ghbJ8j54d7QnQFYEJlyVyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>算法刷题 45 天总结</title>
+    <updated>2020-12-24T23:22:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/otXQ-jID4nHUMdrch729Yg</id>
+    <link href="https://mp.weixin.qq.com/s/otXQ-jID4nHUMdrch729Yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图像处理基础：颜色空间及其OpenCV实现</title>
+    <updated>2020-12-24T23:22:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/7z6pzoqM5O6phP7QdKllnw</id>
+    <link href="https://mp.weixin.qq.com/s/7z6pzoqM5O6phP7QdKllnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>2020薪资排名第一的专业公布，除了计算机还有这些！</title>
     <updated>2020-12-24T08:28:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/O6QNO88DHQBAvO8eRHggtg</id>
     <link href="https://mp.weixin.qq.com/s/O6QNO88DHQBAvO8eRHggtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硬核 | 谈一谈逆势而上的图神经网络技术（附干货资料）</title>
-    <updated>2020-12-24T08:28:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/FfyiEIR_kZP_7cB10N6M1A</id>
-    <link href="https://mp.weixin.qq.com/s/FfyiEIR_kZP_7cB10N6M1A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2020-12-18T08:46:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/YagJ8SuuanPrCo9HNq74Cg</id>
     <link href="https://mp.weixin.qq.com/s/YagJ8SuuanPrCo9HNq74Cg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LSTM模型结构的可视化</title>
-    <updated>2020-12-17T10:16:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/tdHkVn2SOssAAq9MhkR4tQ</id>
-    <link href="https://mp.weixin.qq.com/s/tdHkVn2SOssAAq9MhkR4tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么90%的机器学习模型从未应用于生产？</title>
-    <updated>2020-12-17T10:16:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/vhHmeWTGx1QDO1-5sRlcKQ</id>
-    <link href="https://mp.weixin.qq.com/s/vhHmeWTGx1QDO1-5sRlcKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
