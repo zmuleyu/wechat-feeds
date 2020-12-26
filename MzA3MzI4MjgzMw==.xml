@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器之心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T20:15:35+08:00</updated>
+  <updated>2020-12-26T13:19:01+08:00</updated>
   <subtitle>专业的人工智能媒体和产业服务平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>模型花费几十万美元，五年之间指导无数项目，才发现负样本用的是null？</title>
+    <updated>2020-12-26T12:25:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/l3Vrjbj0ICYsbXQ-c2CDqQ</id>
+    <link href="https://mp.weixin.qq.com/s/l3Vrjbj0ICYsbXQ-c2CDqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>神经符号系统、因果推理、跨学科交互，李飞飞、Judea Pearl等16名学者共同探讨AI未来</title>
+    <updated>2020-12-26T12:25:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/pIV4Bvvdifu9xEHjiBk5Bw</id>
+    <link href="https://mp.weixin.qq.com/s/pIV4Bvvdifu9xEHjiBk5Bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>什么是近似算法？它适用于哪些问题？这篇文章给你答案</title>
+    <updated>2020-12-26T12:25:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/px819kVxCQSyNFbu50EZQg</id>
+    <link href="https://mp.weixin.qq.com/s/px819kVxCQSyNFbu50EZQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TensorFlow 2.X，会是它走下神坛的开始吗？</title>
     <updated>2020-12-25T19:11:08+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-22T12:27:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/mmA1i_VMJZfKddZHJEReLQ</id>
     <link href="https://mp.weixin.qq.com/s/mmA1i_VMJZfKddZHJEReLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>四年创业受阻：Bengio合创的公司被曝以2.3亿美元出售，低于总融资额</title>
-    <updated>2020-12-22T12:27:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/DvaBq50DAM8Z3EaJogjRXA</id>
-    <link href="https://mp.weixin.qq.com/s/DvaBq50DAM8Z3EaJogjRXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>创建新理论解释运行原因，MIT研究者探索深度网络的基础理论问题</title>
-    <updated>2020-12-22T12:27:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/vRhzeC8yEFWN-8uXEQOZjw</id>
-    <link href="https://mp.weixin.qq.com/s/vRhzeC8yEFWN-8uXEQOZjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不氪金玩转中文超大规模预训练，这里有一份详细攻略</title>
-    <updated>2020-12-22T12:27:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/BdohX4wk7KTWiZk442ZDAQ</id>
-    <link href="https://mp.weixin.qq.com/s/BdohX4wk7KTWiZk442ZDAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
