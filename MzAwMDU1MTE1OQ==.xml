@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T11:23:16+08:00</updated>
+  <updated>2020-12-26T11:24:23+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊 Service 命名与设计</title>
+    <updated>2020-12-26T09:26:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/a0VJM4eRcuTHzTGtMTFVWQ</id>
+    <link href="https://mp.weixin.qq.com/s/a0VJM4eRcuTHzTGtMTFVWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个有关tcp的非常有意思的问题</title>
     <updated>2020-12-25T09:35:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-14T21:42:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/g91zvzrpdPtkwP_5iBUpMw</id>
     <link href="https://mp.weixin.qq.com/s/g91zvzrpdPtkwP_5iBUpMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 Golang 快速实现 Paxos 分布式共识算法</title>
-    <updated>2020-12-13T15:41:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/VGjivqPx6oiJ9WHkeq114Q</id>
-    <link href="https://mp.weixin.qq.com/s/VGjivqPx6oiJ9WHkeq114Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

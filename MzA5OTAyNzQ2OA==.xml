@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T11:15:02+08:00</updated>
+  <updated>2020-12-26T11:37:49+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！</title>
+    <updated>2020-12-26T07:47:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/1-GpycMKdcgCjs1tSOg1Kg</id>
+    <link href="https://mp.weixin.qq.com/s/1-GpycMKdcgCjs1tSOg1Kg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2020-12-26T07:47:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/Ikc5hx1WPweZdQFKUFeK1w</id>
+    <link href="https://mp.weixin.qq.com/s/Ikc5hx1WPweZdQFKUFeK1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构实施原理详解</title>
     <updated>2020-12-25T07:13:06+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-17T07:21:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/rih1b_BSJN7M6UHTM4LXVw</id>
     <link href="https://mp.weixin.qq.com/s/rih1b_BSJN7M6UHTM4LXVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何用原生Prometheus监控大规模Kubernetes集群</title>
-    <updated>2020-12-14T21:23:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/pV9mIAXfdZ2Vg_8izwC_wg</id>
-    <link href="https://mp.weixin.qq.com/s/pV9mIAXfdZ2Vg_8izwC_wg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes从入门到实战培训 | 深圳站</title>
-    <updated>2020-12-14T21:23:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/iU4GqofEuT0HdlSfYHmBHA</id>
-    <link href="https://mp.weixin.qq.com/s/iU4GqofEuT0HdlSfYHmBHA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
