@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-26T01:42:51+08:00</updated>
+  <updated>2020-12-27T08:59:12+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust大会第一天，震撼！！！</title>
+    <updated>2020-12-26T23:58:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/B4tPk83xjBrAmHxgUSpdSQ</id>
+    <link href="https://mp.weixin.qq.com/s/B4tPk83xjBrAmHxgUSpdSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-25 第一届Rust China Conf明天正式开幕</title>
     <updated>2020-12-25T23:49:08+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-17T21:29:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/mKHevPgp5PiJd_3ZLwFwtw</id>
     <link href="https://mp.weixin.qq.com/s/mKHevPgp5PiJd_3ZLwFwtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>您的首届中国 Rust 语言大会参会指南</title>
-    <updated>2020-12-17T21:29:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/eqDGYXbXLleNWVPAzamNBg</id>
-    <link href="https://mp.weixin.qq.com/s/eqDGYXbXLleNWVPAzamNBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

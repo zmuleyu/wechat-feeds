@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T20:33:32+08:00</updated>
+  <updated>2020-12-27T09:13:35+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>企业的用户持卡数据保护实践</title>
+    <updated>2020-12-26T16:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/pJeh-q59xOYNLvvy7d51Mw</id>
+    <link href="https://mp.weixin.qq.com/s/pJeh-q59xOYNLvvy7d51Mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>那些FastJson漏洞不为人知的事情（开发角度）</title>
+    <updated>2020-12-26T16:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/K3JeAJyZxjI6XedI3y7s0Q</id>
+    <link href="https://mp.weixin.qq.com/s/K3JeAJyZxjI6XedI3y7s0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Checkpoint ICA管理工具漏洞研究</title>
+    <updated>2020-12-26T16:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/mGeRIWGx0gtBrF4OBnHFBQ</id>
+    <link href="https://mp.weixin.qq.com/s/mGeRIWGx0gtBrF4OBnHFBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Decoder++：一款专用于渗透的多数据格式编码解码工具</title>
+    <updated>2020-12-26T16:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/QuElrd4YXAI77ESl-NmtqQ</id>
+    <link href="https://mp.weixin.qq.com/s/QuElrd4YXAI77ESl-NmtqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>网安行业薪酬大调研：今年你有年终奖吗？</title>
     <updated>2020-12-25T17:59:56+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-21T17:27:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/x67FUChObkqaXQWf6GPkyA</id>
     <link href="https://mp.weixin.qq.com/s/x67FUChObkqaXQWf6GPkyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>甲方视角下的攻防演练部署 | CIS 2020大会议题前瞻</title>
-    <updated>2020-12-21T17:27:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/3DL_nyWxUWt9H7PCxdB16g</id>
-    <link href="https://mp.weixin.qq.com/s/3DL_nyWxUWt9H7PCxdB16g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全球第三季度DDoS报告</title>
-    <updated>2020-12-21T17:27:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/6MlH2LcLne2R7tfKwxPNSw</id>
-    <link href="https://mp.weixin.qq.com/s/6MlH2LcLne2R7tfKwxPNSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lil-Pwny：一款基于Python的多功能活动目录密码审计工具</title>
-    <updated>2020-12-21T17:27:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/LPPNbLud089qzD1vTUsX_A</id>
-    <link href="https://mp.weixin.qq.com/s/LPPNbLud089qzD1vTUsX_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊Gartner 2021战略技术趋势——行为互联网</title>
-    <updated>2020-12-20T17:32:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/ek2xTYtnRZ4FAfd1xGZFhA</id>
-    <link href="https://mp.weixin.qq.com/s/ek2xTYtnRZ4FAfd1xGZFhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

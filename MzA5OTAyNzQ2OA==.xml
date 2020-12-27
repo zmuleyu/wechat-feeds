@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-26T11:37:49+08:00</updated>
+  <updated>2020-12-27T09:13:39+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>史上最便捷搭建 ZooKeeper 服务器的方法</title>
+    <updated>2020-12-26T23:28:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/BTdT2Q5nHvWQG0RwOt0M1Q</id>
+    <link href="https://mp.weixin.qq.com/s/BTdT2Q5nHvWQG0RwOt0M1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2020-12-26T23:28:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/JXWNeprzvGIizBxZ6VY8-g</id>
+    <link href="https://mp.weixin.qq.com/s/JXWNeprzvGIizBxZ6VY8-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！</title>
     <updated>2020-12-26T07:47:36+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-18T07:26:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/4bVzKqT4o66IgyPoFxF8sw</id>
     <link href="https://mp.weixin.qq.com/s/4bVzKqT4o66IgyPoFxF8sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从未如此简单，一文带你逆袭Kafka！</title>
-    <updated>2020-12-17T07:21:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/R1en4V0Tlwlpt102BjotoA</id>
-    <link href="https://mp.weixin.qq.com/s/R1en4V0Tlwlpt102BjotoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训</title>
-    <updated>2020-12-17T07:21:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/rih1b_BSJN7M6UHTM4LXVw</id>
-    <link href="https://mp.weixin.qq.com/s/rih1b_BSJN7M6UHTM4LXVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
