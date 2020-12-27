@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-26T11:24:23+08:00</updated>
+  <updated>2020-12-27T11:26:28+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>白话高并发中的协程</title>
+    <updated>2020-12-27T09:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/xCP0lxc9Gc3QiBUmrsDWyg</id>
+    <link href="https://mp.weixin.qq.com/s/xCP0lxc9Gc3QiBUmrsDWyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>聊聊 Service 命名与设计</title>
     <updated>2020-12-26T09:26:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-14T21:43:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/coiboUUxsxt9WxY7mAJGcA</id>
     <link href="https://mp.weixin.qq.com/s/coiboUUxsxt9WxY7mAJGcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>领域驱动设计框架Axon实践</title>
-    <updated>2020-12-14T21:42:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/g91zvzrpdPtkwP_5iBUpMw</id>
-    <link href="https://mp.weixin.qq.com/s/g91zvzrpdPtkwP_5iBUpMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
