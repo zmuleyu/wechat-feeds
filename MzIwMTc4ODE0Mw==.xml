@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T01:56:12+08:00</updated>
+  <updated>2020-12-28T07:36:24+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -19,6 +19,20 @@
     <updated>2020-12-27T20:03:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/xhd4h9yQMlQNstxovP4dpA</id>
     <link href="https://mp.weixin.qq.com/s/xhd4h9yQMlQNstxovP4dpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详解凸优化、图神经网络、强化学习、贝叶斯方法等四大主题</title>
+    <updated>2020-12-26T21:34:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/UAR7ZukpP-g_V71Xw3ntGw</id>
+    <link href="https://mp.weixin.qq.com/s/UAR7ZukpP-g_V71Xw3ntGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你的模型够可靠么？关键词掩码的模型可靠性提升方法探索</title>
+    <updated>2020-12-26T21:34:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/jWxGZTFVS0qPtZ8KMB2aYg</id>
+    <link href="https://mp.weixin.qq.com/s/jWxGZTFVS0qPtZ8KMB2aYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,20 +131,6 @@
     <updated>2020-12-18T18:47:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/qnMeEh6b8xprEb1ZV5y0lA</id>
     <link href="https://mp.weixin.qq.com/s/qnMeEh6b8xprEb1ZV5y0lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线上直播丨国际人工智能会议AAAI 2021论文北京预讲会，33场报告+31个Poster等你来</title>
-    <updated>2020-12-17T12:49:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/ziPj4A39dhecyASeEbAXUw</id>
-    <link href="https://mp.weixin.qq.com/s/ziPj4A39dhecyASeEbAXUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>导师实验室对学生影响有多大？</title>
-    <updated>2020-12-17T12:49:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/zR5iZtaQMTyyRaLP5NIANg</id>
-    <link href="https://mp.weixin.qq.com/s/zR5iZtaQMTyyRaLP5NIANg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
