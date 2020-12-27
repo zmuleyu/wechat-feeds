@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T08:58:02+08:00</updated>
+  <updated>2020-12-27T23:09:15+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万字综述：用于深度神经网络加速的Shift操作</title>
+    <updated>2020-12-27T22:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/UDUOIIyGJtXHdc3xcyfOIg</id>
+    <link href="https://mp.weixin.qq.com/s/UDUOIIyGJtXHdc3xcyfOIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度解析 CornerNet 网络结构</title>
+    <updated>2020-12-27T22:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/8sHSnR_v5H2yPoahaVcGGA</id>
+    <link href="https://mp.weixin.qq.com/s/8sHSnR_v5H2yPoahaVcGGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何阅读一个前向推理框架？以NCNN为例</title>
+    <updated>2020-12-27T22:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/SbCaRWzEXZXvuTZIjq2QYQ</id>
+    <link href="https://mp.weixin.qq.com/s/SbCaRWzEXZXvuTZIjq2QYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谈一谈我对AI项目落地的看法</title>
+    <updated>2020-12-27T22:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/IwoO3QZRm2mlJzELBXKnXw</id>
+    <link href="https://mp.weixin.qq.com/s/IwoO3QZRm2mlJzELBXKnXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>擦除：提升 CNN 特征可视化的 3 种重要手段</title>
     <updated>2020-12-26T22:07:39+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-23T21:19:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/OcGabOmEEE-NUu-Jh5duNg</id>
     <link href="https://mp.weixin.qq.com/s/OcGabOmEEE-NUu-Jh5duNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国内 Top2 高校研一在读，为什么感觉深度学习越学越懵?</title>
-    <updated>2020-12-22T22:00:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/-yRkP4XvK2TkHxWt5ZvlRA</id>
-    <link href="https://mp.weixin.qq.com/s/-yRkP4XvK2TkHxWt5ZvlRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>极市直播回放丨第74期-田值：BoxInst，实例分割创新式突破！仅用Box标注，实现COCO 33.2AP！</title>
-    <updated>2020-12-22T22:00:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/tbLJO_Cf4ZHQdSOYnUbCCw</id>
-    <link href="https://mp.weixin.qq.com/s/tbLJO_Cf4ZHQdSOYnUbCCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最近目标检测新范式汇总SparseRCNN,OneNet,DeFCN等</title>
-    <updated>2020-12-22T22:00:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/nY2m-PF-Ex4HvDSzBQLIhw</id>
-    <link href="https://mp.weixin.qq.com/s/nY2m-PF-Ex4HvDSzBQLIhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学发布首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型</title>
-    <updated>2020-12-22T22:00:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/OVJI7kZtC7Aohprd6BJsnA</id>
-    <link href="https://mp.weixin.qq.com/s/OVJI7kZtC7Aohprd6BJsnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

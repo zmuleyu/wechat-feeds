@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-26T11:38:31+08:00</updated>
+  <updated>2020-12-27T23:18:02+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>中台不是万能药，关于中台的思考和尝试</title>
+    <updated>2020-12-27T13:52:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/lh75prHmrwSWF33lCiVL8g</id>
+    <link href="https://mp.weixin.qq.com/s/lh75prHmrwSWF33lCiVL8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在阿里当外包，是一种什么工作体验？</title>
     <updated>2020-12-25T20:53:01+08:00</updated>
@@ -47,13 +54,6 @@
     <updated>2020-12-23T22:27:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/ozhc1_5Z-Ltg2ds_-hACYA</id>
     <link href="https://mp.weixin.qq.com/s/ozhc1_5Z-Ltg2ds_-hACYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>蚂蚁金服暂缓上市，怎样凭借技术在金融机构分一杯羹</title>
-    <updated>2020-12-22T14:40:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/_HUskg1jzAYNltKrwpQUbA</id>
-    <link href="https://mp.weixin.qq.com/s/_HUskg1jzAYNltKrwpQUbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,13 +110,6 @@
     <updated>2020-12-17T22:43:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/ioqmDrBAUDOjmG4mbkzgtQ</id>
     <link href="https://mp.weixin.qq.com/s/ioqmDrBAUDOjmG4mbkzgtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我终于决定要放弃 okhttp、httpClient，选择了这个牛逼的神仙工具！贼爽</title>
-    <updated>2020-12-16T22:32:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/NM7qlLQr-G0m3tfC_yzeIQ</id>
-    <link href="https://mp.weixin.qq.com/s/NM7qlLQr-G0m3tfC_yzeIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
