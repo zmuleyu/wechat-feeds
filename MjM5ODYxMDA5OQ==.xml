@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T11:29:23+08:00</updated>
+  <updated>2020-12-27T13:23:57+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10亿数据量，不同业务究竟要怎么改造？</title>
+    <updated>2020-12-27T09:40:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/HaUsPBdjI1Nj4NN6MRtWYg</id>
+    <link href="https://mp.weixin.qq.com/s/HaUsPBdjI1Nj4NN6MRtWYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里、快手、好未来：业务架构应该这么做！｜ QCon</title>
     <updated>2020-12-23T22:21:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-12T22:25:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/rwgil4axXdvF-ShUMtQDdQ</id>
     <link href="https://mp.weixin.qq.com/s/rwgil4axXdvF-ShUMtQDdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>40亿条/秒！Flink撑起阿里双11世界级流量！</title>
-    <updated>2020-12-08T17:19:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/LYJMEOW43Pwdi38ZY5Ugww</id>
-    <link href="https://mp.weixin.qq.com/s/LYJMEOW43Pwdi38ZY5Ugww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
