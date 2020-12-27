@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-26T13:31:01+08:00</updated>
+  <updated>2020-12-27T20:15:50+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>6款备份工具，助力企业保障容器应用安全！</title>
+    <updated>2020-12-27T18:56:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/_8ne8FAnGRrhdllKH5IB9A</id>
+    <link href="https://mp.weixin.qq.com/s/_8ne8FAnGRrhdllKH5IB9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>300 页图解网络.pdf （附下载）</title>
     <updated>2020-12-26T10:53:47+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-18T11:37:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/lwaN4abpbb7nfDQpG7tQzg</id>
     <link href="https://mp.weixin.qq.com/s/lwaN4abpbb7nfDQpG7tQzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes中容器到容器通信</title>
-    <updated>2020-12-17T18:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/P-xKd6HeOGxyt-YXCnZjmQ</id>
-    <link href="https://mp.weixin.qq.com/s/P-xKd6HeOGxyt-YXCnZjmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

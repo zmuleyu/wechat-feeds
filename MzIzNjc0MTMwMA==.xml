@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T09:17:12+08:00</updated>
+  <updated>2020-12-27T20:28:45+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】整理 Deep Learning 调参 tricks</title>
+    <updated>2020-12-27T18:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/Gw8K0GggRcahwLf3tu4LrA</id>
+    <link href="https://mp.weixin.qq.com/s/Gw8K0GggRcahwLf3tu4LrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【源头活水】Sparse R-CNN：简化版fast rcnn</title>
+    <updated>2020-12-27T18:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/KShDjs1Nkf-RXHaz6nbTEg</id>
+    <link href="https://mp.weixin.qq.com/s/KShDjs1Nkf-RXHaz6nbTEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI94×CRIPAC 人脸生成专题</title>
+    <updated>2020-12-27T18:04:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/GcHVxu2p9DMxNR3MBqHYyA</id>
+    <link href="https://mp.weixin.qq.com/s/GcHVxu2p9DMxNR3MBqHYyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【源头活水】宽度学习：原理与实现</title>
     <updated>2020-12-26T17:36:07+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-19T18:10:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/A_WBM0RW0Mtlfb8ZVQj18A</id>
     <link href="https://mp.weixin.qq.com/s/A_WBM0RW0Mtlfb8ZVQj18A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI93×CRIPAC 知识图谱专题</title>
-    <updated>2020-12-19T18:10:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/VqjVgXX1Ddc9u-s_xpRqKA</id>
-    <link href="https://mp.weixin.qq.com/s/VqjVgXX1Ddc9u-s_xpRqKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】用概率分布评估检测框质量的 Generalized Focal Loss V2</title>
-    <updated>2020-12-18T18:00:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/3kcf4NhVa04ql4fS9OJs0g</id>
-    <link href="https://mp.weixin.qq.com/s/3kcf4NhVa04ql4fS9OJs0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】pytorch中optimizer对loss的影响</title>
-    <updated>2020-12-18T18:00:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/TYbghszD3pWteQyWHIUhWg</id>
-    <link href="https://mp.weixin.qq.com/s/TYbghszD3pWteQyWHIUhWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

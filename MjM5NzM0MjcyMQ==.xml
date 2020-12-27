@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T09:05:16+08:00</updated>
+  <updated>2020-12-27T20:14:07+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Android站队Kotlin后，私企JetBrains估值70亿美元</title>
+    <updated>2020-12-27T15:09:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/RdsOOujjW72wXVbQdahCRQ</id>
+    <link href="https://mp.weixin.qq.com/s/RdsOOujjW72wXVbQdahCRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DeepMind第四代：不学规则就能下棋玩游戏</title>
+    <updated>2020-12-27T15:09:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/-CREHOsiunzsUNh_r4PCPA</id>
+    <link href="https://mp.weixin.qq.com/s/-CREHOsiunzsUNh_r4PCPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解Bug之路-NAT引发的性能瓶颈</title>
+    <updated>2020-12-27T15:09:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/wlqxDDVUj0zH52JpK12L5w</id>
+    <link href="https://mp.weixin.qq.com/s/wlqxDDVUj0zH52JpK12L5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linus Torvalds 没有粗口</title>
     <updated>2020-12-26T15:53:21+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-22T16:00:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/_tgiKkfALT-kR87mgCVyDw</id>
     <link href="https://mp.weixin.qq.com/s/_tgiKkfALT-kR87mgCVyDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯开源分布式存储系统Tendis，可完全兼容Redis</title>
-    <updated>2020-12-22T16:00:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/L7JIVayb2j0or8j5aN60Ag</id>
-    <link href="https://mp.weixin.qq.com/s/L7JIVayb2j0or8j5aN60Ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Debian项目推出新主页 外观与布局全面改进</title>
-    <updated>2020-12-22T16:00:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Sr5impTBZytuJ4ktD8sZ2A</id>
-    <link href="https://mp.weixin.qq.com/s/Sr5impTBZytuJ4ktD8sZ2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它</title>
-    <updated>2020-12-22T16:00:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/t2I-gaA4Z_-_pJbIKpaQTw</id>
-    <link href="https://mp.weixin.qq.com/s/t2I-gaA4Z_-_pJbIKpaQTw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

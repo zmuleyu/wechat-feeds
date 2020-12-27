@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-26T13:26:11+08:00</updated>
+  <updated>2020-12-27T20:11:33+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分享 8 个非常实用的 Vue 自定义指令</title>
+    <updated>2020-12-27T15:42:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/DDvmDE1yS470hZbuBf8STQ</id>
+    <link href="https://mp.weixin.qq.com/s/DDvmDE1yS470hZbuBf8STQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>备战2021：vite 工程化实践，建议收藏</title>
+    <updated>2020-12-27T15:42:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/75cQB13opFQGdirMtyjNzw</id>
+    <link href="https://mp.weixin.qq.com/s/75cQB13opFQGdirMtyjNzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>复盘 Node 项目中遇到的 15 个常见问题和解决方案</title>
+    <updated>2020-12-27T15:42:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/OlZl_jaqnNZgm4iVH15rrQ</id>
+    <link href="https://mp.weixin.qq.com/s/OlZl_jaqnNZgm4iVH15rrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>设计灵感：App 数据图表的 12 种展示方式</title>
+    <updated>2020-12-27T15:42:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/lOEQtPx_KZZcUEMagm4pVA</id>
+    <link href="https://mp.weixin.qq.com/s/lOEQtPx_KZZcUEMagm4pVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我在成人网站 PornHub 做前端开发</title>
     <updated>2020-12-26T10:54:53+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-22T09:53:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/o2wgqRn3SFZnBSyrVEASfw</id>
     <link href="https://mp.weixin.qq.com/s/o2wgqRn3SFZnBSyrVEASfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超过N行如何折叠并显示“...查看全部”？</title>
-    <updated>2020-12-22T09:53:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/ywIHUJZCGfIifA89Gxvz8Q</id>
-    <link href="https://mp.weixin.qq.com/s/ywIHUJZCGfIifA89Gxvz8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>设计灵感：12组医疗类APP界面设计</title>
-    <updated>2020-12-22T09:53:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/lx9Gso9Ae5zyTQlMHVC-aw</id>
-    <link href="https://mp.weixin.qq.com/s/lx9Gso9Ae5zyTQlMHVC-aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看这篇就行！超强 VUE + ElementUI 管理项目来了（附实战全过程）</title>
-    <updated>2020-12-20T22:58:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/-bR1NHqKYqIWdcrXTbg2xg</id>
-    <link href="https://mp.weixin.qq.com/s/-bR1NHqKYqIWdcrXTbg2xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手写 Promise 全家桶 + Generator + async/await</title>
-    <updated>2020-12-20T22:58:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/wBnev5LhSL7qIGFjg8ZvrQ</id>
-    <link href="https://mp.weixin.qq.com/s/wBnev5LhSL7qIGFjg8ZvrQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

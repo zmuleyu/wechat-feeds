@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱计算机视觉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T08:55:48+08:00</updated>
+  <updated>2020-12-27T20:26:15+08:00</updated>
   <subtitle>关注计算机视觉与机器学习技术的最前沿，“有价值有深度”，分享开源技术与最新论文解读，传播CVML技术的业内最佳实践。www.52cv.net QQ群: 805388940，CV君个人账号：Your-Word。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于图像的「三维重建」核心算法有哪些？</title>
+    <updated>2020-12-27T19:56:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/zKstDOWNCHpCy0vkOI4svA</id>
+    <link href="https://mp.weixin.qq.com/s/zKstDOWNCHpCy0vkOI4svA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Facebook开源高效图像Transformer，速度、准确率与泛化性能媲美SOTA CNN</title>
+    <updated>2020-12-27T19:56:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/FmlCX1okXxOiJeBPQ6wuOQ</id>
+    <link href="https://mp.weixin.qq.com/s/FmlCX1okXxOiJeBPQ6wuOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>发顶会论文，怎么就那么难？</title>
+    <updated>2020-12-27T19:56:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/y5PHj54UR5VSzeEbrY22Qg</id>
+    <link href="https://mp.weixin.qq.com/s/y5PHj54UR5VSzeEbrY22Qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021博士招生-香港中文大学（深圳）吴保元教授课题组</title>
+    <updated>2020-12-27T19:56:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/1KkpPDGKf6ARhWgBN0kHAw</id>
+    <link href="https://mp.weixin.qq.com/s/1KkpPDGKf6ARhWgBN0kHAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从频域角度重新思考注意力机制——FcaNet</title>
     <updated>2020-12-26T21:48:35+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-21T21:00:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/B9Vf6DXavDX8iaC11ZY-TA</id>
     <link href="https://mp.weixin.qq.com/s/B9Vf6DXavDX8iaC11ZY-TA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用TF lite 优化 MobileDet 目标检测模型部署</title>
-    <updated>2020-12-21T21:00:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/e53_eSHKtrFPdhdw25Z80A</id>
-    <link href="https://mp.weixin.qq.com/s/e53_eSHKtrFPdhdw25Z80A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>16薪，六险一金，深尚科技招聘视觉/图像算法工程师 ，包含社招和校招</title>
-    <updated>2020-12-21T21:00:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/ry-DgMWsvo8BUMJaXo0Seg</id>
-    <link href="https://mp.weixin.qq.com/s/ry-DgMWsvo8BUMJaXo0Seg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>豆瓣评分 9.7！GitHub 10.9 Star 的中文版《神经网络与深度学习》附 PDF &amp; PPT 下载</title>
-    <updated>2020-12-20T17:42:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/PnIM6_pObiPBzks2xOxSMA</id>
-    <link href="https://mp.weixin.qq.com/s/PnIM6_pObiPBzks2xOxSMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>UBC、谷歌联合Hinton等提出3D点云的无监督胶囊网络，多任务上实现SOTA</title>
-    <updated>2020-12-20T17:42:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/tLL_CC8pYDTjca_3r3ht0g</id>
-    <link href="https://mp.weixin.qq.com/s/tLL_CC8pYDTjca_3r3ht0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
