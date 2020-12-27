@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T23:27:11+08:00</updated>
+  <updated>2020-12-28T01:55:30+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -19,20 +19,6 @@
     <updated>2020-12-27T21:30:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/T36Oi5KVWHruxaFMB3etHQ</id>
     <link href="https://mp.weixin.qq.com/s/T36Oi5KVWHruxaFMB3etHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>审计 Linux 系统的操作行为的 5 种方案对比</title>
-    <updated>2020-12-26T21:51:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/gNrRP2Eu3gXCT7QMbCE6Mg</id>
-    <link href="https://mp.weixin.qq.com/s/gNrRP2Eu3gXCT7QMbCE6Mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang从入门到精通——背景介绍</title>
-    <updated>2020-12-26T21:51:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/F6xaIqZ9GtnwsvOdOBxO6g</id>
-    <link href="https://mp.weixin.qq.com/s/F6xaIqZ9GtnwsvOdOBxO6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -138,6 +124,20 @@
     <updated>2020-12-18T18:07:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/fm5oGHBCvGQxXUhcAuQHNw</id>
     <link href="https://mp.weixin.qq.com/s/fm5oGHBCvGQxXUhcAuQHNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>亲测好用的Kubernetes&amp;DevOps工具</title>
+    <updated>2020-12-17T22:23:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/TLtsnd1js7uU976tuAXaMA</id>
+    <link href="https://mp.weixin.qq.com/s/TLtsnd1js7uU976tuAXaMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Nginx高效核心-IO复用模型</title>
+    <updated>2020-12-17T22:23:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/QBXOyMUaWyS3-OWj6AatAw</id>
+    <link href="https://mp.weixin.qq.com/s/QBXOyMUaWyS3-OWj6AatAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
