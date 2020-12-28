@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>食酒 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T07:38:44+08:00</updated>
+  <updated>2020-12-29T02:01:33+08:00</updated>
   <subtitle>我是dr.ink墨水酒吧的19，这里写一些关于酒和人要紧和不要紧的事。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>hi 鸟人</title>
+    <updated>2020-12-29T00:08:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/IRbFd3hpigbRUojebs2hyg</id>
+    <link href="https://mp.weixin.qq.com/s/IRbFd3hpigbRUojebs2hyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>hi 学生</title>
     <updated>2020-12-28T00:16:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T22:30:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/WT_PekQ-OtZwU6YbNJDvJQ</id>
     <link href="https://mp.weixin.qq.com/s/WT_PekQ-OtZwU6YbNJDvJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>hi，我已确信我是自己的</title>
-    <updated>2020-12-19T23:18:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/9sg8DRaKhEaYabX_lFHxsw</id>
-    <link href="https://mp.weixin.qq.com/s/9sg8DRaKhEaYabX_lFHxsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

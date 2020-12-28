@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T20:30:32+08:00</updated>
+  <updated>2020-12-29T01:47:52+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【请收藏】首届中国Rust语言大会回放地址</title>
+    <updated>2020-12-28T23:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ZdzA4xZeL3Mgr4uaHygscw</id>
+    <link href="https://mp.weixin.qq.com/s/ZdzA4xZeL3Mgr4uaHygscw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mike 关于首届Rust大会的一些心里话</title>
+    <updated>2020-12-28T23:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/WJoXFrl23V6dzUMS2sBnFw</id>
+    <link href="https://mp.weixin.qq.com/s/WJoXFrl23V6dzUMS2sBnFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-12-28 Rust中的闭包</title>
+    <updated>2020-12-28T23:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/DCx9RcUzUcqVnT3ep_wm7Q</id>
+    <link href="https://mp.weixin.qq.com/s/DCx9RcUzUcqVnT3ep_wm7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-12-27 Rust 开发 Windows 驱动程序</title>
+    <updated>2020-12-28T23:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ybakS4e-06rYw04NaiDLfA</id>
+    <link href="https://mp.weixin.qq.com/s/ybakS4e-06rYw04NaiDLfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-12-26 Rust no-std FAQ</title>
+    <updated>2020-12-28T23:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/CUBIZ7nSllrSmF2pUXZehg</id>
+    <link href="https://mp.weixin.qq.com/s/CUBIZ7nSllrSmF2pUXZehg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust大会第二天，太震撼了！！！&#xA;&#xA;---&#xA;这次不能纯净水，双手奉上回看地址：&#xA;&#xA;26号：https://live.csdn.net/room/u012067469/3VT3jORs&#xA;27号：&#xA;https://live.csdn.net/room/u012067469/51UUkkjG&#xA;&#xA;震撼不震撼，你们慢慢看。小编开心的去吃烧烤了[跳跳][转圈][跳跳][转圈]，啦啦啦&#xA;</title>
     <updated>2020-12-27T18:42:39+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-20T22:36:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/4aVunFAD5mWSgtBYz_bthw</id>
     <link href="https://mp.weixin.qq.com/s/4aVunFAD5mWSgtBYz_bthw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【实习】[开源软件] Casbin-RS 开源软件 GSoC 远程预选+实习生</title>
-    <updated>2020-12-20T22:36:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/q9XWQST4nKJiJhhosxdxyA</id>
-    <link href="https://mp.weixin.qq.com/s/q9XWQST4nKJiJhhosxdxyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【每周一库】 laboratory - A simple, expressive unit test framework</title>
-    <updated>2020-12-19T22:50:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/qNDhYogac1GoqsY-snyhiw</id>
-    <link href="https://mp.weixin.qq.com/s/qNDhYogac1GoqsY-snyhiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-19 Niko的2020年度总结，wasm-2048</title>
-    <updated>2020-12-19T22:50:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/Q82Gxsh2iHCT21fy1unueg</id>
-    <link href="https://mp.weixin.qq.com/s/Q82Gxsh2iHCT21fy1unueg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-18 tab-rs - Rust实现的Terminal Multiplexer</title>
-    <updated>2020-12-18T23:22:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/sxdII28SjO2Z__bU8V2B8g</id>
-    <link href="https://mp.weixin.qq.com/s/sxdII28SjO2Z__bU8V2B8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[活动预告] In Rust We Trust</title>
-    <updated>2020-12-18T23:22:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/qaCmu2hGC0UAbHeD2JIy5g</id>
-    <link href="https://mp.weixin.qq.com/s/qaCmu2hGC0UAbHeD2JIy5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

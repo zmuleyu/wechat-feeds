@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T23:09:15+08:00</updated>
+  <updated>2020-12-29T01:40:16+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你真的理解图像处理经典算法 SIFT 吗？最深入、最全面综述：尺度不变特征转换</title>
+    <updated>2020-12-28T22:42:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3KdM8p0CQ5xjYmWXLJWSXw</id>
+    <link href="https://mp.weixin.qq.com/s/3KdM8p0CQ5xjYmWXLJWSXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>多模态深度学习：用深度学习的方式融合各种信息</title>
+    <updated>2020-12-28T22:42:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/0CUGispeZS04D6NhGkrucw</id>
+    <link href="https://mp.weixin.qq.com/s/0CUGispeZS04D6NhGkrucw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GNN综述：从deepwalk到GraphSAGE，GCN，GAT</title>
+    <updated>2020-12-28T22:42:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/6toHOBVlPtWn-JSklKX9fA</id>
+    <link href="https://mp.weixin.qq.com/s/6toHOBVlPtWn-JSklKX9fA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>苹果M1芯片机器学习向测评：Mini 比RTX 2080Ti 快14％，Air好于Pro</title>
+    <updated>2020-12-28T22:42:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/OKa1r9rBE2oTbQdhOFa2Gw</id>
+    <link href="https://mp.weixin.qq.com/s/OKa1r9rBE2oTbQdhOFa2Gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万字综述：用于深度神经网络加速的Shift操作</title>
     <updated>2020-12-27T22:15:27+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-24T18:40:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/0An618vFFSZfm7_hQ-omfA</id>
     <link href="https://mp.weixin.qq.com/s/0An618vFFSZfm7_hQ-omfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通道注意力新突破！从频域角度出发，浙大提出FcaNet：仅需修改一行代码，简洁又高效</title>
-    <updated>2020-12-23T21:19:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/V3pZhymN9XKURBoVasNV_g</id>
-    <link href="https://mp.weixin.qq.com/s/V3pZhymN9XKURBoVasNV_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>快速回顾：U-Net Family方法汇总</title>
-    <updated>2020-12-23T21:19:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/21h62T0Ig5gubVLwyLsdbg</id>
-    <link href="https://mp.weixin.qq.com/s/21h62T0Ig5gubVLwyLsdbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MFSAN：同时对齐分布和分类器，一种高效的多源领域自适应方法</title>
-    <updated>2020-12-23T21:19:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/TDNsMtVH_dDjsP06wSJcEw</id>
-    <link href="https://mp.weixin.qq.com/s/TDNsMtVH_dDjsP06wSJcEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我的哥大计算机视觉读博五年总结</title>
-    <updated>2020-12-23T21:19:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/OcGabOmEEE-NUu-Jh5duNg</id>
-    <link href="https://mp.weixin.qq.com/s/OcGabOmEEE-NUu-Jh5duNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
