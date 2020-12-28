@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T20:11:03+08:00</updated>
+  <updated>2020-12-28T20:19:26+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Chimera Painter：使用 GAN 构建大量风格奇幻的卡牌游戏图像</title>
+    <updated>2020-12-28T18:28:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/7RqD-rM-UIG-x-YSYzYdxg</id>
+    <link href="https://mp.weixin.qq.com/s/7RqD-rM-UIG-x-YSYzYdxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社区分享 | 带你学 AI 与 TensorFlow 2 实战之入门初探</title>
     <updated>2020-12-25T19:01:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-11T17:38:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/ROrUerYIa72S5ssS-LJKlw</id>
     <link href="https://mp.weixin.qq.com/s/ROrUerYIa72S5ssS-LJKlw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 TensorFlow Lite 中优化 MobileDet 目标检测模型</title>
-    <updated>2020-12-10T18:15:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/cDz9wtUadlVA-A6VzSQQoQ</id>
-    <link href="https://mp.weixin.qq.com/s/cDz9wtUadlVA-A6VzSQQoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T20:17:10+08:00</updated>
+  <updated>2020-12-28T20:26:28+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 入门&amp;进阶实战</title>
+    <updated>2020-12-28T17:52:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/mUF0AEncu3T2yDqKyt-0Ow</id>
+    <link href="https://mp.weixin.qq.com/s/mUF0AEncu3T2yDqKyt-0Ow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据分析利器：XGBoost算法最佳解析</title>
     <updated>2020-12-25T15:02:47+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-09T15:39:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/8bMRn48xdV5e5JQ_ULxhuw</id>
     <link href="https://mp.weixin.qq.com/s/8bMRn48xdV5e5JQ_ULxhuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字详文阐释程序员修炼之道</title>
-    <updated>2020-12-07T17:05:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/XIwfj_AdZqX_vHM4VIq9EA</id>
-    <link href="https://mp.weixin.qq.com/s/XIwfj_AdZqX_vHM4VIq9EA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

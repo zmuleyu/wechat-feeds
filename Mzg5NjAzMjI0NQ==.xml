@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T20:10:58+08:00</updated>
+  <updated>2020-12-28T20:24:06+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入JVM--探索Java虚拟机的类加载机制</title>
+    <updated>2020-12-28T16:07:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Q4IP7fuZrI-dWoPth9jB9w</id>
+    <link href="https://mp.weixin.qq.com/s/Q4IP7fuZrI-dWoPth9jB9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今日头条优化实践： iOS 包大小二进制优化，一行代码减少 60 MB 下载大小</title>
+    <updated>2020-12-28T16:07:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/YhobUyWZ0GKiTGlf7Qk-kQ</id>
+    <link href="https://mp.weixin.qq.com/s/YhobUyWZ0GKiTGlf7Qk-kQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GitHub 2020 报告：全球开发者工作与生活平衡情况年度分析</title>
     <updated>2020-12-25T14:30:23+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-17T17:34:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/qxKZoojaTh8ieLh9-o3OwA</id>
     <link href="https://mp.weixin.qq.com/s/qxKZoojaTh8ieLh9-o3OwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Raft 协议实战系列（六）—— 线性一致性与读性能优化</title>
-    <updated>2020-12-16T16:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/JENA1f2YdBiYxtQOxiX8dA</id>
-    <link href="https://mp.weixin.qq.com/s/JENA1f2YdBiYxtQOxiX8dA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>穿了好几个马甲，差点没认出来是二分查找</title>
-    <updated>2020-12-16T16:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/PZlR2lNx0jXiHt_hcdc7CA</id>
-    <link href="https://mp.weixin.qq.com/s/PZlR2lNx0jXiHt_hcdc7CA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

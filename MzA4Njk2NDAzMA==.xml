@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T20:28:49+08:00</updated>
+  <updated>2020-12-28T20:18:51+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>携程 Redis 治理演进之路</title>
+    <updated>2020-12-28T20:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/SXNabv4Tx3bV_ESLAQLrBQ</id>
+    <link href="https://mp.weixin.qq.com/s/SXNabv4Tx3bV_ESLAQLrBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Google、Facebook 开始支持的 HTTP3 到底是什么？</title>
     <updated>2020-12-27T20:00:21+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-12-15T21:56:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/IbVjpQf5X6rx1gOxazH51w</id>
     <link href="https://mp.weixin.qq.com/s/IbVjpQf5X6rx1gOxazH51w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一些好用的生产力工具</title>
-    <updated>2020-12-14T20:00:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/RU41FaFx1t3LnhqzSWAEXw</id>
-    <link href="https://mp.weixin.qq.com/s/RU41FaFx1t3LnhqzSWAEXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>技术变化那么快，如何做到不被淘汰呢？</title>
-    <updated>2020-12-14T20:00:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/df7C_IPtDluxVqqA5dBv8w</id>
-    <link href="https://mp.weixin.qq.com/s/df7C_IPtDluxVqqA5dBv8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
