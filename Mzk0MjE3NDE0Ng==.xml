@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T11:20:11+08:00</updated>
+  <updated>2020-12-28T11:33:35+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>您的营业执照显示态关闭</title>
+    <updated>2020-12-27T20:39:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/DwT-sUR-pasxGREtS3md-g</id>
+    <link href="https://mp.weixin.qq.com/s/DwT-sUR-pasxGREtS3md-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>显微镜下的 i++ 与 ++i</title>
     <updated>2020-12-23T16:46:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T09:21:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/1Nq_izUkOGmtvkIQ9c0QRQ</id>
     <link href="https://mp.weixin.qq.com/s/1Nq_izUkOGmtvkIQ9c0QRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis 数据结构之字符串的那些骚操作</title>
-    <updated>2020-11-16T22:19:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/3yk9PyT3V91As-6WnDtIFQ</id>
-    <link href="https://mp.weixin.qq.com/s/3yk9PyT3V91As-6WnDtIFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T23:26:56+08:00</updated>
+  <updated>2020-12-28T11:39:21+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端从入门到放弃，是因为你没有这份高薪成长路线</title>
+    <updated>2020-12-27T16:24:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/CLWfJ3YRCrjFiQkNTPO28w</id>
+    <link href="https://mp.weixin.qq.com/s/CLWfJ3YRCrjFiQkNTPO28w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ruby 3.0发布，比 Ruby2快3倍</title>
+    <updated>2020-12-27T16:24:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/ULAouQzAEtWQ3cGyRStKXQ</id>
+    <link href="https://mp.weixin.qq.com/s/ULAouQzAEtWQ3cGyRStKXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见！百度网盘 VIP！！！</title>
     <updated>2020-12-27T16:13:02+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2020-12-19T16:21:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/xwWW8td_THFWRYr3EYlhhw</id>
     <link href="https://mp.weixin.qq.com/s/xwWW8td_THFWRYr3EYlhhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从0到1带你开发一个人脸识别考勤小程序</title>
-    <updated>2020-12-17T20:56:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/9oaSwVsfQiHb9UHoZxcH8w</id>
-    <link href="https://mp.weixin.qq.com/s/9oaSwVsfQiHb9UHoZxcH8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云吸猫 | 用 Azure 架设猫咪直播</title>
-    <updated>2020-12-17T20:56:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/fhGoKutZ_KEVXeX-_9m82w</id>
-    <link href="https://mp.weixin.qq.com/s/fhGoKutZ_KEVXeX-_9m82w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

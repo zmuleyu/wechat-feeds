@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一瓜技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T13:19:15+08:00</updated>
+  <updated>2020-12-28T11:33:02+08:00</updated>
   <subtitle>冬瓜的技术号，移动端技术与算法相关技术文章。只发原创，只发干货，只发硬核文章！（原让技术一瓜共食）</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用 Swift 编写 CLI 工具的入门教程</title>
+    <updated>2020-12-28T09:53:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/V4IdsYUouKGr68ULyb88Qw</id>
+    <link href="https://mp.weixin.qq.com/s/V4IdsYUouKGr68ULyb88Qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apple Developer 上新出了三个 Tech Talk，关于 Render Opt 的，看完感觉很有帮助，总结一下：&#xA;&#xA;1. 提出了 Hitch Time Ratio 概念 &#xA;2. Instruments 以及 Xcode 里增加了很多对 Render Opt 有帮助的功能 &#xA;3. 讲解了 offscreen 效率相对较低的原因是有 Rollback 行为，以及为什么需要 Rollback &#xA;4. 一些大家都知道但是不管知不知道都很容易不这么做的优化技巧&#xA;&#xA;视频链接见留言部分&#xA;&#xA;群友 @Sakuta 的总结，博客 folobe26.github.io</title>
     <updated>2020-12-24T11:56:56+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-08-30T22:24:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-30:/s/i07DpJsqnF62LovOXymNCQ</id>
     <link href="https://mp.weixin.qq.com/s/i07DpJsqnF62LovOXymNCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ex1. CocoaPods 中的 Ruby 特性之 Mix-in</title>
-    <updated>2020-08-26T10:04:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-26:/s/uZx4cgbsNgE2iuguAOzbow</id>
-    <link href="https://mp.weixin.qq.com/s/uZx4cgbsNgE2iuguAOzbow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

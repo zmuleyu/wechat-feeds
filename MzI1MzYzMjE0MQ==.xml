@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T11:39:17+08:00</updated>
+  <updated>2020-12-28T11:18:05+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今日头条优化实践： iOS 包大小二进制优化，一行代码减少 60 MB 下载大小</title>
+    <updated>2020-12-28T08:34:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/TnqAqpmuXsGFfpcSUqZ9GQ</id>
+    <link href="https://mp.weixin.qq.com/s/TnqAqpmuXsGFfpcSUqZ9GQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动开源云原生机器学习平台 Klever</title>
     <updated>2020-12-23T23:06:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T08:50:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/mziNsab2lLrhvYLHjFMYqA</id>
     <link href="https://mp.weixin.qq.com/s/mziNsab2lLrhvYLHjFMYqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>UME - 丰富的Flutter调试工具</title>
-    <updated>2020-11-22T20:34:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/9GjXB9Eu-OP3fIjdQWKklg</id>
-    <link href="https://mp.weixin.qq.com/s/9GjXB9Eu-OP3fIjdQWKklg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阮一峰的网络日志 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T11:28:59+08:00</updated>
+  <updated>2020-12-28T11:44:00+08:00</updated>
   <subtitle>互联网开发，个人生活随感</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Fetch API 教程</title>
+    <updated>2020-12-28T08:45:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ge7EkrOHb0NbOpxc7OX2eA</id>
+    <link href="https://mp.weixin.qq.com/s/ge7EkrOHb0NbOpxc7OX2eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>科技爱好者周刊（第 139 期）：生物学的可怕进展</title>
     <updated>2020-12-25T08:41:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-13T08:41:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/KsXzN-dJuX9UaKji5RCWvQ</id>
     <link href="https://mp.weixin.qq.com/s/KsXzN-dJuX9UaKji5RCWvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>科技爱好者周刊（第 132 期）：快能力和慢能力</title>
-    <updated>2020-11-06T08:40:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/Ujk-09tKtLfLwI8lHzwBCQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ujk-09tKtLfLwI8lHzwBCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
