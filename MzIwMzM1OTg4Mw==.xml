@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T16:28:58+08:00</updated>
+  <updated>2020-12-28T23:08:00+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署</title>
+    <updated>2020-12-28T21:03:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/_T2JS_ChgO5hqwf0WdngIg</id>
+    <link href="https://mp.weixin.qq.com/s/_T2JS_ChgO5hqwf0WdngIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我整理了近300篇文献，写了一篇SCI综述</title>
     <updated>2020-12-27T13:40:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T17:54:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/2dTEC6ZjU5FlhWHVEeFBQA</id>
     <link href="https://mp.weixin.qq.com/s/2dTEC6ZjU5FlhWHVEeFBQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计算机视觉与模式识别/图像处理学术论文速递[12.16]</title>
-    <updated>2020-12-16T18:10:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/E9khDV9mgLp5hiKPqYSCMw</id>
-    <link href="https://mp.weixin.qq.com/s/E9khDV9mgLp5hiKPqYSCMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

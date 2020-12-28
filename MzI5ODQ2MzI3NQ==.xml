@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T20:15:50+08:00</updated>
+  <updated>2020-12-28T23:26:03+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>监视与可观察性：有什么区别？</title>
+    <updated>2020-12-28T20:41:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Juu2g-ip1QMX-koFLqITpw</id>
+    <link href="https://mp.weixin.qq.com/s/Juu2g-ip1QMX-koFLqITpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>6款备份工具，助力企业保障容器应用安全！</title>
     <updated>2020-12-27T18:56:25+08:00</updated>
@@ -43,24 +50,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
-    <updated>2020-12-24T10:18:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/QVgzl3UVYq_e0ibpqgjfeA</id>
-    <link href="https://mp.weixin.qq.com/s/QVgzl3UVYq_e0ibpqgjfeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>ormb开源工具：像管理 Docker 容器镜像一样管理机器学习模型</title>
     <updated>2020-12-24T10:18:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/6kP9oXmwnyvXxSwRHZrFDw</id>
     <link href="https://mp.weixin.qq.com/s/6kP9oXmwnyvXxSwRHZrFDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超牛逼的 Java 项目实战，没有之一！</title>
-    <updated>2020-12-22T22:47:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/xZyKhQhoLSnd8nZFmBza6w</id>
-    <link href="https://mp.weixin.qq.com/s/xZyKhQhoLSnd8nZFmBza6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -71,24 +64,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
-    <updated>2020-12-22T12:49:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/qlQrl_fztbAhI9M4zujUQA</id>
-    <link href="https://mp.weixin.qq.com/s/qlQrl_fztbAhI9M4zujUQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Serverless中微服务的优缺点和最佳实践</title>
     <updated>2020-12-22T12:49:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/zYO03h-QSGSjtTD6ZQLPxQ</id>
     <link href="https://mp.weixin.qq.com/s/zYO03h-QSGSjtTD6ZQLPxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>涨薪通知，保证你涨薪30%的正确打开方式...</title>
-    <updated>2020-12-20T23:47:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/sf3SkEX3wc_rIWQHFGZHOg</id>
-    <link href="https://mp.weixin.qq.com/s/sf3SkEX3wc_rIWQHFGZHOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,13 +89,6 @@
     <updated>2020-12-19T12:09:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/SXC0UZt1svJrlR3pmN759Q</id>
     <link href="https://mp.weixin.qq.com/s/SXC0UZt1svJrlR3pmN759Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 云原生走向何处？｜CNBPS2020演讲实录</title>
-    <updated>2020-12-18T11:37:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/lwaN4abpbb7nfDQpG7tQzg</id>
-    <link href="https://mp.weixin.qq.com/s/lwaN4abpbb7nfDQpG7tQzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
