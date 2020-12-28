@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-27T23:18:02+08:00</updated>
+  <updated>2020-12-28T13:26:23+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这样死磕 Redis，面试官看了都得跪！</title>
+    <updated>2020-12-28T10:59:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/JzF-xSdNmlvnrLWUnYZ_qg</id>
+    <link href="https://mp.weixin.qq.com/s/JzF-xSdNmlvnrLWUnYZ_qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
+    <updated>2020-12-28T10:59:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/eVVAnTB8SlQLbR2daxC4qw</id>
+    <link href="https://mp.weixin.qq.com/s/eVVAnTB8SlQLbR2daxC4qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官灵魂拷问：为什么 SQL 语句不要过多的 join？</title>
+    <updated>2020-12-28T10:59:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/8-slevlO0opp8V_kompoiw</id>
+    <link href="https://mp.weixin.qq.com/s/8-slevlO0opp8V_kompoiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中台不是万能药，关于中台的思考和尝试</title>
     <updated>2020-12-27T13:52:46+08:00</updated>
@@ -103,13 +124,6 @@
     <updated>2020-12-19T16:26:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/7c3JrQOyXivvMQ26ZiVqmQ</id>
     <link href="https://mp.weixin.qq.com/s/7c3JrQOyXivvMQ26ZiVqmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Prometheus + Granafa 构建高大上的MySQL监控平台</title>
-    <updated>2020-12-17T22:43:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/ioqmDrBAUDOjmG4mbkzgtQ</id>
-    <link href="https://mp.weixin.qq.com/s/ioqmDrBAUDOjmG4mbkzgtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
