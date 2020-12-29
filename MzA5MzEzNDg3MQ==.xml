@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微信安全中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-25T20:32:22+08:00</updated>
+  <updated>2020-12-29T20:21:50+08:00</updated>
   <subtitle>提供微信安全相关自助服务，发布最新微信安全动态和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今天你的努力白费了吗？</title>
+    <updated>2020-12-29T18:07:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/9FgB5oAjgxHwSWPDnoKPig</id>
+    <link href="https://mp.weixin.qq.com/s/9FgB5oAjgxHwSWPDnoKPig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何解决长辈的“微信中老年危机”？</title>
     <updated>2020-12-25T18:01:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-25T12:42:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-25:/s/rzQBscqutKxoDQtM47Ku4A</id>
     <link href="https://mp.weixin.qq.com/s/rzQBscqutKxoDQtM47Ku4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>视频号里的“李鬼”们请看过来</title>
-    <updated>2020-10-20T18:05:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-20:/s/ZYormEifsVUgV_G9dI2dyg</id>
-    <link href="https://mp.weixin.qq.com/s/ZYormEifsVUgV_G9dI2dyg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

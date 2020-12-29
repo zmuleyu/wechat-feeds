@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:17:07+08:00</updated>
+  <updated>2020-12-29T20:17:28+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C++并发编程（C++11到C++17）</title>
+    <updated>2020-12-29T17:52:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/SRyp7wLHSE1ROkniTptEVQ</id>
+    <link href="https://mp.weixin.qq.com/s/SRyp7wLHSE1ROkniTptEVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>七年零故障支撑 双11 的消息中间件 RocketMQ，怎么做到的？</title>
     <updated>2020-12-28T16:39:33+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-17T21:52:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/x3XJ91sXXIsx2DcGxlKlDw</id>
     <link href="https://mp.weixin.qq.com/s/x3XJ91sXXIsx2DcGxlKlDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>编辑器思维与系统设计思想</title>
-    <updated>2020-12-16T16:43:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/qfcBf4B8LOqMOb0r4aTY1Q</id>
-    <link href="https://mp.weixin.qq.com/s/qfcBf4B8LOqMOb0r4aTY1Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

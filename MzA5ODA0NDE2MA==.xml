@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:34:51+08:00</updated>
+  <updated>2020-12-29T20:36:59+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>病毒作者利用破解去广告腾讯视频噱头投递CS后门</title>
+    <updated>2020-12-29T17:54:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/DvHxND_0gSRIPiAMZKQ7iw</id>
+    <link href="https://mp.weixin.qq.com/s/DvHxND_0gSRIPiAMZKQ7iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>整形医院数据被盗，既丢照片也失面子</title>
+    <updated>2020-12-29T17:54:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Casn7EieuKP8bSf1su6pgg</id>
+    <link href="https://mp.weixin.qq.com/s/Casn7EieuKP8bSf1su6pgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Json Web Token 2020 攻击指南</title>
+    <updated>2020-12-29T17:54:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/yHHscVt21JHACbVqNEMUhw</id>
+    <link href="https://mp.weixin.qq.com/s/yHHscVt21JHACbVqNEMUhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>入侵检测系列1（下）：基于私有协议的加密流量分析思路（Teamviewer篇）</title>
     <updated>2020-12-28T17:35:41+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-22T17:50:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/p4JhQFEGL91krbarQslE3g</id>
     <link href="https://mp.weixin.qq.com/s/p4JhQFEGL91krbarQslE3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>强网杯2020决赛RealWord的Chrome逃逸——GOOexec（GOO）</title>
-    <updated>2020-12-21T17:25:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/1irpK7oNHbqHu1zET_Bpmg</id>
-    <link href="https://mp.weixin.qq.com/s/1irpK7oNHbqHu1zET_Bpmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | 美团招聘研发安全专家</title>
-    <updated>2020-12-21T17:25:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/6y8gbNrjK9Vd0e8ZSobHQQ</id>
-    <link href="https://mp.weixin.qq.com/s/6y8gbNrjK9Vd0e8ZSobHQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2016-3510——WebLogic反序列化初探</title>
-    <updated>2020-12-21T17:25:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/-U9KSRliuNYLuRYnbmnFjw</id>
-    <link href="https://mp.weixin.qq.com/s/-U9KSRliuNYLuRYnbmnFjw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

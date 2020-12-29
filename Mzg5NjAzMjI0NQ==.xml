@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:24:06+08:00</updated>
+  <updated>2020-12-29T20:24:31+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>vue3实战 | 快速入门</title>
+    <updated>2020-12-29T18:07:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/wLWMID0kd7v11LZ997p-6g</id>
+    <link href="https://mp.weixin.qq.com/s/wLWMID0kd7v11LZ997p-6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何用 Babel 为代码自动引入依赖</title>
+    <updated>2020-12-29T18:07:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/rDIJ2EfiAdKVZ0YSYtRLDA</id>
+    <link href="https://mp.weixin.qq.com/s/rDIJ2EfiAdKVZ0YSYtRLDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入JVM--探索Java虚拟机的类加载机制</title>
     <updated>2020-12-28T16:07:05+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-18T16:36:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/6XTgzdWQdAl2rRZw90PDVg</id>
     <link href="https://mp.weixin.qq.com/s/6XTgzdWQdAl2rRZw90PDVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JavaScript 中模块的导入和导出——最最最简明教程</title>
-    <updated>2020-12-17T17:34:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/qCE9kzJhjnxvXbTydaHiqQ</id>
-    <link href="https://mp.weixin.qq.com/s/qCE9kzJhjnxvXbTydaHiqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Raft实战（番外篇）—— 线性一致性介绍</title>
-    <updated>2020-12-17T17:34:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/qxKZoojaTh8ieLh9-o3OwA</id>
-    <link href="https://mp.weixin.qq.com/s/qxKZoojaTh8ieLh9-o3OwA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

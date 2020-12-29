@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T23:26:37+08:00</updated>
+  <updated>2020-12-29T20:31:27+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微信适配国产操作系统：原生支持 Linux</title>
+    <updated>2020-12-29T14:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/9E8mgLX4uoDfo7LbP71prw</id>
+    <link href="https://mp.weixin.qq.com/s/9E8mgLX4uoDfo7LbP71prw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>打马赛克就安全？AI消除马赛克神器公布</title>
+    <updated>2020-12-29T14:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/IK4eqeg7Fga1UwUp1XAsqg</id>
+    <link href="https://mp.weixin.qq.com/s/IK4eqeg7Fga1UwUp1XAsqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度操作系统deepin20.1发布，采用全新Kernel5.8内核</title>
+    <updated>2020-12-29T14:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/TvVsb8ucpXtnx302fotnCA</id>
+    <link href="https://mp.weixin.qq.com/s/TvVsb8ucpXtnx302fotnCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货|关于微博评论功能的设计与思考</title>
+    <updated>2020-12-29T14:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/KxRLfy_AfzRQgH6uBPGm-w</id>
+    <link href="https://mp.weixin.qq.com/s/KxRLfy_AfzRQgH6uBPGm-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux 5.10 Btrfs性能严重衰退：原本15秒解压时间现在要5分钟</title>
     <updated>2020-12-28T21:03:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-24T16:44:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/EipvDYOEBz7Zcgv8JNAuRA</id>
     <link href="https://mp.weixin.qq.com/s/EipvDYOEBz7Zcgv8JNAuRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go on ARM 以及移植计划</title>
-    <updated>2020-12-24T16:44:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/7X9JG0WIbwqznuWY-7348g</id>
-    <link href="https://mp.weixin.qq.com/s/7X9JG0WIbwqznuWY-7348g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rocky Linux 成立开源基金会</title>
-    <updated>2020-12-24T16:44:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/UNv_408_Aoftu_eAOGXMMQ</id>
-    <link href="https://mp.weixin.qq.com/s/UNv_408_Aoftu_eAOGXMMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专访阿里云 Serverless负责人：无服务器不会让后端失业</title>
-    <updated>2020-12-23T17:37:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/mm4boOVX28hGhZEsV4fe-Q</id>
-    <link href="https://mp.weixin.qq.com/s/mm4boOVX28hGhZEsV4fe-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>龙芯 .NET正式发布，相关代码已开源</title>
-    <updated>2020-12-23T17:37:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Y5RHsqCtPLdbsZMhSreWhQ</id>
-    <link href="https://mp.weixin.qq.com/s/Y5RHsqCtPLdbsZMhSreWhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

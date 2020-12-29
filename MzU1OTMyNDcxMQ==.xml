@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:19:26+08:00</updated>
+  <updated>2020-12-29T20:20:33+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow Quantum 模拟发现量子机器学习的优势</title>
+    <updated>2020-12-29T18:44:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Io1goxFaoj1R1-oEM5nAtQ</id>
+    <link href="https://mp.weixin.qq.com/s/Io1goxFaoj1R1-oEM5nAtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>社区分享 | TensorFlow 2 实战之从零开始构建 YOLOv3 目标检测网络</title>
+    <updated>2020-12-29T18:44:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/wjm2EaSZxK-95uYeosHhwA</id>
+    <link href="https://mp.weixin.qq.com/s/wjm2EaSZxK-95uYeosHhwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chimera Painter：使用 GAN 构建大量风格奇幻的卡牌游戏图像</title>
     <updated>2020-12-28T18:28:45+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-12-15T11:38:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/22p6IGQlRXTxfc6mt7iJTA</id>
     <link href="https://mp.weixin.qq.com/s/22p6IGQlRXTxfc6mt7iJTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>社区分享 | 图算法在58广告反作弊的应用</title>
-    <updated>2020-12-11T17:38:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/ROrUerYIa72S5ssS-LJKlw</id>
-    <link href="https://mp.weixin.qq.com/s/ROrUerYIa72S5ssS-LJKlw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

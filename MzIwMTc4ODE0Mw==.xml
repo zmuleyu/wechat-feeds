@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:30:49+08:00</updated>
+  <updated>2020-12-29T20:32:19+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>RealFormer：把残差转移到Attention矩阵上面去</title>
+    <updated>2020-12-29T18:35:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/h9_5BrDZZHNemOWxhdm_rQ</id>
+    <link href="https://mp.weixin.qq.com/s/h9_5BrDZZHNemOWxhdm_rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么算法专家都建议学好C++？</title>
     <updated>2020-12-28T18:23:20+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-12-20T18:51:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/bSOHfuwKZRY7WkqfXVkAPA</id>
     <link href="https://mp.weixin.qq.com/s/bSOHfuwKZRY7WkqfXVkAPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>导师实验室对学生影响有多大？</title>
-    <updated>2020-12-19T19:51:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/VpKH2jfwdLwr73PVeDChgg</id>
-    <link href="https://mp.weixin.qq.com/s/VpKH2jfwdLwr73PVeDChgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​NeurIPS 2020 | 面向张量分解知识图谱补全的对偶诱导正则</title>
-    <updated>2020-12-19T19:51:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/iFM1DGOVGpFmuh0OJa1vuA</id>
-    <link href="https://mp.weixin.qq.com/s/iFM1DGOVGpFmuh0OJa1vuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
