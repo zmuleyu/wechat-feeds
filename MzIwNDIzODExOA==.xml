@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-18T13:18:52+08:00</updated>
+  <updated>2020-12-29T11:23:06+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Envoy WASM 源码抽丝剥茧</title>
+    <updated>2020-12-28T22:11:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/1H_J-lY1mk4Tblm435Uf0Q</id>
+    <link href="https://mp.weixin.qq.com/s/1H_J-lY1mk4Tblm435Uf0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>首届 IstioCon 演讲嘉宾招募中</title>
     <updated>2020-12-18T11:40:27+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-18T11:16:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/xHp4VD9QFOy5FF18QmO1FA</id>
     <link href="https://mp.weixin.qq.com/s/xHp4VD9QFOy5FF18QmO1FA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欢迎报名云原生社区第一期 meetup 上海站</title>
-    <updated>2020-11-13T11:41:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/6qxQBBr7TDLi98x5Asnzwg</id>
-    <link href="https://mp.weixin.qq.com/s/6qxQBBr7TDLi98x5Asnzwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

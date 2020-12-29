@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T11:39:21+08:00</updated>
+  <updated>2020-12-29T11:37:43+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自己的代码难维护，怎么办？</title>
+    <updated>2020-12-28T23:08:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/8nX7-d9A39eN2Rl0tjbyKA</id>
+    <link href="https://mp.weixin.qq.com/s/8nX7-d9A39eN2Rl0tjbyKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端从入门到放弃，是因为你没有这份高薪成长路线</title>
     <updated>2020-12-27T16:24:10+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-19T22:15:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/JZvInODDEwwrF0a5RI1ycA</id>
     <link href="https://mp.weixin.qq.com/s/JZvInODDEwwrF0a5RI1ycA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VS Code Java 11 月更新，来啦！配置 Java 运行环境更加方便！</title>
-    <updated>2020-12-19T16:21:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/xwWW8td_THFWRYr3EYlhhw</id>
-    <link href="https://mp.weixin.qq.com/s/xwWW8td_THFWRYr3EYlhhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

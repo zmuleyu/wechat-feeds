@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T11:39:47+08:00</updated>
+  <updated>2020-12-29T11:35:44+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生时代，容器技术对个人的发展有多重要？</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/ARI9pqzxCF7oLpUqh_a3Lw</id>
+    <link href="https://mp.weixin.qq.com/s/ARI9pqzxCF7oLpUqh_a3Lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在 WSL Ubuntu 上使用 .NET 进行跨平台开发新手入门</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/hQ-IyMMZON2kwYXUu3p_Dw</id>
+    <link href="https://mp.weixin.qq.com/s/hQ-IyMMZON2kwYXUu3p_Dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IdentityServer4系列 | 支持数据持久化</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/-eki_Hkh_GMB69xiy0RU2A</id>
+    <link href="https://mp.weixin.qq.com/s/-eki_Hkh_GMB69xiy0RU2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>引入Jaeger——封装</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/H-YxZZ1j6JVqC5OLAOT6dA</id>
+    <link href="https://mp.weixin.qq.com/s/H-YxZZ1j6JVqC5OLAOT6dA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BeetleX自定义http/websocket压测用例视频</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/0EvGc_lQfJbcow-RgZosEA</id>
+    <link href="https://mp.weixin.qq.com/s/0EvGc_lQfJbcow-RgZosEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>明源云·天际，地产⾏业的Salesforce Lightning Platform</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/sssR_SND7_e9RBmr7vXIwA</id>
+    <link href="https://mp.weixin.qq.com/s/sssR_SND7_e9RBmr7vXIwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>asp.net core中使用cookie身份验证</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/jHyJRmUzUC14keuaX3-8yw</id>
+    <link href="https://mp.weixin.qq.com/s/jHyJRmUzUC14keuaX3-8yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Vue】Vue与ASP.NET Core WebAPI的集成</title>
+    <updated>2020-12-29T08:19:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/BVHLOOcbQadaRvszul0JAA</id>
+    <link href="https://mp.weixin.qq.com/s/BVHLOOcbQadaRvszul0JAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚转Java？那准备转回.NET5吧！</title>
     <updated>2020-12-28T08:16:16+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2020-12-26T17:18:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/iiC1Mh__-6K_yEoqb_lqCg</id>
     <link href="https://mp.weixin.qq.com/s/iiC1Mh__-6K_yEoqb_lqCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Core AWS S3云存储</title>
-    <updated>2020-12-26T17:18:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/193vvJquFGyokGr7yMTm3A</id>
-    <link href="https://mp.weixin.qq.com/s/193vvJquFGyokGr7yMTm3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 C# 在异步代码中处理异常</title>
-    <updated>2020-12-26T17:18:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/hmoDhHHLozfBLEy2ZkkjCg</id>
-    <link href="https://mp.weixin.qq.com/s/hmoDhHHLozfBLEy2ZkkjCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对 Redis 中的有序集合SortedSet的理解</title>
-    <updated>2020-12-26T17:18:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/clcZKuJQ6U9cqH1fdqNkHA</id>
-    <link href="https://mp.weixin.qq.com/s/clcZKuJQ6U9cqH1fdqNkHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>代码质量在「内卷时代」的重要性</title>
-    <updated>2020-12-26T17:18:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/x8ln70lLQQYEIG-MqgQnrA</id>
-    <link href="https://mp.weixin.qq.com/s/x8ln70lLQQYEIG-MqgQnrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Abp小试牛刀之 图片上传</title>
-    <updated>2020-12-25T20:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/NYh4-JKruhdp9AVXs_g2-Q</id>
-    <link href="https://mp.weixin.qq.com/s/NYh4-JKruhdp9AVXs_g2-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Select.HtmlToPdf 把html内容生成pdf文件</title>
-    <updated>2020-12-25T20:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/ermq8MrAFXIE2yDUmNHlmQ</id>
-    <link href="https://mp.weixin.qq.com/s/ermq8MrAFXIE2yDUmNHlmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>叮咚！你有一份来自明源云的圣诞邀约</title>
-    <updated>2020-12-25T20:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Hja9_J1qlbQyynqp3JrL8Q</id>
-    <link href="https://mp.weixin.qq.com/s/Hja9_J1qlbQyynqp3JrL8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻量级消息队列RedisQueue</title>
-    <updated>2020-12-25T20:55:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/_dtmk7-7ZN8DFz7StX7HWA</id>
-    <link href="https://mp.weixin.qq.com/s/_dtmk7-7ZN8DFz7StX7HWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

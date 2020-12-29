@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T11:23:57+08:00</updated>
+  <updated>2020-12-29T11:25:09+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>API 分页设计与实现</title>
+    <updated>2020-12-29T08:53:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/TQ248e9171jOHSYxdgLBWA</id>
+    <link href="https://mp.weixin.qq.com/s/TQ248e9171jOHSYxdgLBWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust 和 C 性能对比：排序</title>
     <updated>2020-12-28T08:51:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T20:46:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/UeRLaoJyL6WOmvNfy5wujQ</id>
     <link href="https://mp.weixin.qq.com/s/UeRLaoJyL6WOmvNfy5wujQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式任务调度系统设计：详解Go实现任务编排与工作流</title>
-    <updated>2020-12-16T21:01:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/NEwq58ebJPGSNogc6orKTQ</id>
-    <link href="https://mp.weixin.qq.com/s/NEwq58ebJPGSNogc6orKTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

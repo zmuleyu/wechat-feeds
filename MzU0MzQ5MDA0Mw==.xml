@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T13:26:23+08:00</updated>
+  <updated>2020-12-29T11:30:15+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里开源新一代单元测试 Mock 工具！</title>
+    <updated>2020-12-28T22:44:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3UM6BgZfWZzZ4-_d9t7hag</id>
+    <link href="https://mp.weixin.qq.com/s/3UM6BgZfWZzZ4-_d9t7hag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这样死磕 Redis，面试官看了都得跪！</title>
     <updated>2020-12-28T10:59:20+08:00</updated>
@@ -36,24 +43,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>在阿里当外包，是一种什么工作体验？</title>
-    <updated>2020-12-25T20:53:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/kxcMtS5VNH5cUJnIu8EF9g</id>
-    <link href="https://mp.weixin.qq.com/s/kxcMtS5VNH5cUJnIu8EF9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>建议收藏 | 全面解析 50+条 SQL 语句性能优化策略</title>
     <updated>2020-12-25T20:53:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/sLVbM2bHblnrAEPiaCfZmA</id>
     <link href="https://mp.weixin.qq.com/s/sLVbM2bHblnrAEPiaCfZmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>被BAT大厂疯传的ClickHouse到底是什么？</title>
-    <updated>2020-12-24T22:07:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/55KCrQ5fZ5hpnxc73bW_cQ</id>
-    <link href="https://mp.weixin.qq.com/s/55KCrQ5fZ5hpnxc73bW_cQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +110,6 @@
     <updated>2020-12-20T01:08:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/eb2gtvaB2B7iPi2N0p8lxA</id>
     <link href="https://mp.weixin.qq.com/s/eb2gtvaB2B7iPi2N0p8lxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文彻底揭秘高可用「异地多活」架构设计！</title>
-    <updated>2020-12-19T16:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/7c3JrQOyXivvMQ26ZiVqmQ</id>
-    <link href="https://mp.weixin.qq.com/s/7c3JrQOyXivvMQ26ZiVqmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
