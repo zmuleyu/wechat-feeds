@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>支付宝技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:12:12+08:00</updated>
+  <updated>2020-12-29T13:21:46+08:00</updated>
   <subtitle>这里分享支付宝技术团队的前沿技术创新与洞察。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>重磅｜《人工智能安全白皮书（2020）》发布（完整版）</title>
+    <updated>2020-12-29T11:40:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/aYJRsa1Dp1ArMAkcs_EEeA</id>
+    <link href="https://mp.weixin.qq.com/s/aYJRsa1Dp1ArMAkcs_EEeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DTCC 2020 | 解密OceanBase原生分布式数据库</title>
     <updated>2020-12-28T18:17:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T17:06:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/0p-jjeC6vgSWpZ44HnuqKg</id>
     <link href="https://mp.weixin.qq.com/s/0p-jjeC6vgSWpZ44HnuqKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>山东移动核心系统采用蚂蚁集团自研数据库OceanBase</title>
-    <updated>2020-11-30T18:35:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/ku66CtXAPcjjS0AloehJgg</id>
-    <link href="https://mp.weixin.qq.com/s/ku66CtXAPcjjS0AloehJgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
