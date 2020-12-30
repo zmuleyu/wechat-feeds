@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:51:12+08:00</updated>
+  <updated>2020-12-30T16:37:08+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年，你应该知道的Python打包指南</title>
+    <updated>2020-12-29T22:31:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/90eXT6YtJNLygnfBtBUFoA</id>
+    <link href="https://mp.weixin.qq.com/s/90eXT6YtJNLygnfBtBUFoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何从工程的角度深入理解Python？</title>
     <updated>2020-12-28T21:29:51+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-20T19:12:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/oQUfFIX3BK8_5-cRz-BaRg</id>
     <link href="https://mp.weixin.qq.com/s/oQUfFIX3BK8_5-cRz-BaRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为了追求更快，CPU、内存、I/O都做了哪些努力？</title>
-    <updated>2020-12-17T22:38:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/FvQahBNwoDOhBbM2c32x8Q</id>
-    <link href="https://mp.weixin.qq.com/s/FvQahBNwoDOhBbM2c32x8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

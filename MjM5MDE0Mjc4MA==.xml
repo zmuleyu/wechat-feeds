@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T11:28:08+08:00</updated>
+  <updated>2020-12-30T16:19:08+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年，不能错过的十大技术趋势 | InfoQ特别策划</title>
+    <updated>2020-12-30T13:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/gKMrhRbJOSMRH1ibn71Hlg</id>
+    <link href="https://mp.weixin.qq.com/s/gKMrhRbJOSMRH1ibn71Hlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>框架在左网格在右，云原生时代的微服务路在何方？</title>
+    <updated>2020-12-30T13:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/PsyFOfgS4XATjaV_WJ-1rQ</id>
+    <link href="https://mp.weixin.qq.com/s/PsyFOfgS4XATjaV_WJ-1rQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>10+位机器学习大神测评 Amazon SageMaker 全流程实战</title>
+    <updated>2020-12-30T13:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/7XeTcpv5NkX8_VfNb9JcjQ</id>
+    <link href="https://mp.weixin.qq.com/s/7XeTcpv5NkX8_VfNb9JcjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>移动应用发展趋势生变，AppGallery Connect一站式服务解决应用全生命周期难点</title>
+    <updated>2020-12-30T13:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/K_geRazYhUOOreYl6BcNJQ</id>
+    <link href="https://mp.weixin.qq.com/s/K_geRazYhUOOreYl6BcNJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kafka不是数据库</title>
+    <updated>2020-12-30T13:55:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/XYTuqDMVuJac-mWGBiAmwA</id>
+    <link href="https://mp.weixin.qq.com/s/XYTuqDMVuJac-mWGBiAmwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>代码可维护性差？给你套实用的“代码坏味道”自查清单 ｜ 极客时间</title>
     <updated>2020-12-28T20:36:08+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-26T00:00:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/wclHO-iZPDQqZV_oxGFHhA</id>
     <link href="https://mp.weixin.qq.com/s/wclHO-iZPDQqZV_oxGFHhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>业务架构设计迭代演进思路</title>
-    <updated>2020-12-26T00:00:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/pQvn1wL34ESxo0YLZbqqbw</id>
-    <link href="https://mp.weixin.qq.com/s/pQvn1wL34ESxo0YLZbqqbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解读 WebAssembly 的 2020：Web 以外的进展与计划</title>
-    <updated>2020-12-26T00:00:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/YfqoXUME99ZKRkGEKihc0g</id>
-    <link href="https://mp.weixin.qq.com/s/YfqoXUME99ZKRkGEKihc0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NVIDIA技术大咖亲授！教你30分钟实现基于Python的路况目标跟踪系统 ｜ Q推荐</title>
-    <updated>2020-12-26T00:00:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/mKArGyRjMgxRONekS7v-yA</id>
-    <link href="https://mp.weixin.qq.com/s/mKArGyRjMgxRONekS7v-yA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我真的逃不掉拼多多真香定律</title>
-    <updated>2020-12-25T13:49:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/dSPK7Ipoy7Ls2Fm6RWG0Ag</id>
-    <link href="https://mp.weixin.qq.com/s/dSPK7Ipoy7Ls2Fm6RWG0Ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这5个程序员，改变了世界</title>
-    <updated>2020-12-25T13:49:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/WP8hm_6rpTTrP7TQx3jZQQ</id>
-    <link href="https://mp.weixin.qq.com/s/WP8hm_6rpTTrP7TQx3jZQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
