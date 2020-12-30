@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软研究院AI头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T20:12:03+08:00</updated>
+  <updated>2020-12-30T20:19:44+08:00</updated>
   <subtitle>专注科研22年，盛产黑科技</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软亚洲研究院2020技术精选集</title>
+    <updated>2020-12-30T17:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Y4kjQq8gKcsEsVadjdwnEQ</id>
+    <link href="https://mp.weixin.qq.com/s/Y4kjQq8gKcsEsVadjdwnEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于Transformer的高效、低延时、流式语音识别模型</title>
     <updated>2020-12-29T17:05:05+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-09T17:07:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/vsJv7lsgjEi-ALYUz4CvtQ</id>
     <link href="https://mp.weixin.qq.com/s/vsJv7lsgjEi-ALYUz4CvtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SIGGRAPH ASIA 2020 微软亚洲研究院论文精选</title>
-    <updated>2020-12-08T17:26:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/fSUXoHg6lhJaY8XCG1t0lA</id>
-    <link href="https://mp.weixin.qq.com/s/fSUXoHg6lhJaY8XCG1t0lA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

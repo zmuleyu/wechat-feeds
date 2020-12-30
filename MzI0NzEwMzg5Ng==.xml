@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习与系统 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:24:21+08:00</updated>
+  <updated>2020-12-30T20:15:52+08:00</updated>
   <subtitle>问渠那得清如许，为有源头活水来菜鸡研发工程师，幼儿园编程水平</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ClickHouse是如何批量写入的？</title>
+    <updated>2020-12-30T19:43:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/KysKorwR_h4H31_X8nf_ew</id>
+    <link href="https://mp.weixin.qq.com/s/KysKorwR_h4H31_X8nf_ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>性能提高15倍！只是把MySQL换成了ClickHouse</title>
     <updated>2020-12-13T10:09:36+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-07T22:24:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-07:/s/b2e7XkVU686yjSoo7wIBsw</id>
     <link href="https://mp.weixin.qq.com/s/b2e7XkVU686yjSoo7wIBsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub要改默认分支名了，你的开源项目受影响了吗？</title>
-    <updated>2020-08-05T23:05:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-05:/s/0naUU7B8L0Lql590pqfCIA</id>
-    <link href="https://mp.weixin.qq.com/s/0naUU7B8L0Lql590pqfCIA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

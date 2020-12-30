@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:35:55+08:00</updated>
+  <updated>2020-12-30T20:23:52+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go 开源说第二期：GORM 剖析与最佳实践</title>
+    <updated>2020-12-30T19:16:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/vfn8zdAm52tO4Ry2W-dF2A</id>
+    <link href="https://mp.weixin.qq.com/s/vfn8zdAm52tO4Ry2W-dF2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TiDB Hackathon 2020 启动 | 战火重燃、奖金加码，TiDB Hackathon 2020 有你才精彩</title>
+    <updated>2020-12-30T19:16:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/NAmWVNAhOZm8AUC-dFCNng</id>
+    <link href="https://mp.weixin.qq.com/s/NAmWVNAhOZm8AUC-dFCNng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GO 编程模式系列（二）：错误处理</title>
     <updated>2020-12-29T11:59:39+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-13T10:40:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/jMKX_ulIvOGx1s7kAy6rrA</id>
     <link href="https://mp.weixin.qq.com/s/jMKX_ulIvOGx1s7kAy6rrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在M1 Mac上编译使用arm64原生go</title>
-    <updated>2020-12-12T11:32:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/AyvGVCASaLE8YMIRBn1WPw</id>
-    <link href="https://mp.weixin.qq.com/s/AyvGVCASaLE8YMIRBn1WPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

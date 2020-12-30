@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:33:49+08:00</updated>
+  <updated>2020-12-30T20:22:18+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>容器云平台在法律科技领域的落地实践</title>
+    <updated>2020-12-30T19:05:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Py1SanxHNhm3y7sg-wSIOw</id>
+    <link href="https://mp.weixin.qq.com/s/Py1SanxHNhm3y7sg-wSIOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《边缘计算安全白皮书》深度解析</title>
     <updated>2020-12-29T17:41:47+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-17T17:22:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/0Yo50nU-zeUJx7jKqTjX2A</id>
     <link href="https://mp.weixin.qq.com/s/0Yo50nU-zeUJx7jKqTjX2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>服务网格数据面技术现状与发展趋势</title>
-    <updated>2020-12-16T17:00:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/4sI1wpk97RvW3rL88kruGA</id>
-    <link href="https://mp.weixin.qq.com/s/4sI1wpk97RvW3rL88kruGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>12月19日北京站｜云原生AI大数据Meetup正在报名中</title>
-    <updated>2020-12-16T17:00:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/pESz2FEfHaGsxie6SfykJA</id>
-    <link href="https://mp.weixin.qq.com/s/pESz2FEfHaGsxie6SfykJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

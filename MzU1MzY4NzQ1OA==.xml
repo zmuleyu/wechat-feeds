@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:19:12+08:00</updated>
+  <updated>2020-12-30T20:11:18+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在 Kubernetes 中部署高可用 Harbor 镜像仓库</title>
+    <updated>2020-12-30T17:36:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/pRr8DxRvzyq-C-lmVgg6yw</id>
+    <link href="https://mp.weixin.qq.com/s/pRr8DxRvzyq-C-lmVgg6yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高性能 Nginx HTTPS 调优 - 如何为 HTTPS 提速 30%</title>
     <updated>2020-12-29T12:11:18+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-21T16:43:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/Sj-Iza8N481U_2EA233ekw</id>
     <link href="https://mp.weixin.qq.com/s/Sj-Iza8N481U_2EA233ekw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 arm64 架构上一键部署高可用 k8s v1.20.0 集群</title>
-    <updated>2020-12-20T19:10:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/U-lVk5qTa-as4Bb6ztOxxA</id>
-    <link href="https://mp.weixin.qq.com/s/U-lVk5qTa-as4Bb6ztOxxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

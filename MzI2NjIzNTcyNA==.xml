@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T23:12:09+08:00</updated>
+  <updated>2020-12-30T20:24:38+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>未来展望：边缘计算与CDN</title>
+    <updated>2020-12-30T20:19:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/X16735Z1vvXbty_3A1OyOw</id>
+    <link href="https://mp.weixin.qq.com/s/X16735Z1vvXbty_3A1OyOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>All-IP Camera演进</title>
     <updated>2020-12-29T20:33:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T14:46:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/T2NVca5jMLrNMpKD99jqNg</id>
     <link href="https://mp.weixin.qq.com/s/T2NVca5jMLrNMpKD99jqNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>扩展不同视频播放中的读取操作</title>
-    <updated>2020-12-18T22:12:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/0ouOAPSL6D9mhCVnB69GDg</id>
-    <link href="https://mp.weixin.qq.com/s/0ouOAPSL6D9mhCVnB69GDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

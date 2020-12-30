@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T20:31:27+08:00</updated>
+  <updated>2020-12-30T20:21:57+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>专访CNCF大使张磊：让云原生不再是大厂专属</title>
+    <updated>2020-12-30T17:33:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/9Tmjpe3cihkXIW_yQLmrvg</id>
+    <link href="https://mp.weixin.qq.com/s/9Tmjpe3cihkXIW_yQLmrvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来了！请查收你的2021年度关键词&gt;&gt;&gt;</title>
+    <updated>2020-12-30T17:33:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/iW-PlTIDLcKatIApTEYIMg</id>
+    <link href="https://mp.weixin.qq.com/s/iW-PlTIDLcKatIApTEYIMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>发布即开源：小米开源新机Mi 11内核源码</title>
+    <updated>2020-12-30T17:33:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/KVAWGYV3VfvXh35yy6TgLQ</id>
+    <link href="https://mp.weixin.qq.com/s/KVAWGYV3VfvXh35yy6TgLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>42亿亏损再创新高！DeepMind持续多年亏损后，仍无商业化市场！</title>
+    <updated>2020-12-30T17:33:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/_GxLjUpJHCigXD5v7pcbkA</id>
+    <link href="https://mp.weixin.qq.com/s/_GxLjUpJHCigXD5v7pcbkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Qt 6 for Python 发布</title>
+    <updated>2020-12-30T17:33:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/4zHaiN2Nut7u_2WvQFGSVA</id>
+    <link href="https://mp.weixin.qq.com/s/4zHaiN2Nut7u_2WvQFGSVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微信适配国产操作系统：原生支持 Linux</title>
     <updated>2020-12-29T14:53:47+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-25T18:01:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/VuLTckLYGlKuNQobHZwx8A</id>
     <link href="https://mp.weixin.qq.com/s/VuLTckLYGlKuNQobHZwx8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tokio 1.0发布，Rust异步编程框架</title>
-    <updated>2020-12-25T18:01:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/McxjQZTPUzIaduTEdtC2_g</id>
-    <link href="https://mp.weixin.qq.com/s/McxjQZTPUzIaduTEdtC2_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货|SwiftUI 编程指南</title>
-    <updated>2020-12-25T18:01:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/lRzK9HrL0HOJFqupoo1VIg</id>
-    <link href="https://mp.weixin.qq.com/s/lRzK9HrL0HOJFqupoo1VIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>红帽为杀死CentOS发行版辩护：Stream可覆盖95%的用户工作负载</title>
-    <updated>2020-12-24T16:44:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/bSTYim7YejkGMlBBo0_9lQ</id>
-    <link href="https://mp.weixin.qq.com/s/bSTYim7YejkGMlBBo0_9lQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里开源量子模拟器 “太章 2.0”,支持量子算法和纠错探索</title>
-    <updated>2020-12-24T16:44:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/IMEdqw0r_y2iRtR8tn8HSg</id>
-    <link href="https://mp.weixin.qq.com/s/IMEdqw0r_y2iRtR8tn8HSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>V (Vlang)首个主要版本0.2发布，安全快速可编译的静态语言</title>
-    <updated>2020-12-24T16:44:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/EipvDYOEBz7Zcgv8JNAuRA</id>
-    <link href="https://mp.weixin.qq.com/s/EipvDYOEBz7Zcgv8JNAuRA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

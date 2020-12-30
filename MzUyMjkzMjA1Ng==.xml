@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:44:53+08:00</updated>
+  <updated>2020-12-30T20:32:27+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>StreamNative CEO 郭斯杰带你深度解析“消息、流、存储”三位一体融合趋势</title>
+    <updated>2020-12-30T19:17:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/9XUdhLr4JzSEsFucf_bE2Q</id>
+    <link href="https://mp.weixin.qq.com/s/9XUdhLr4JzSEsFucf_bE2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>批流融合：Pulsar Flink Connector 2.7.0 发布</title>
     <updated>2020-12-29T18:24:12+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-17T17:24:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/y6JYAekbjUvRAxgtN-_dtQ</id>
     <link href="https://mp.weixin.qq.com/s/y6JYAekbjUvRAxgtN-_dtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>视频回顾 | Pulsar Summit Asia 2020 · 场景案例(下)：覆盖 IoT、电商、联邦学习、能源互联网等行业</title>
-    <updated>2020-12-16T19:26:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/xY07GbNDRP-p1SiD1t8PBQ</id>
-    <link href="https://mp.weixin.qq.com/s/xY07GbNDRP-p1SiD1t8PBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pulsar 社区周报｜ 2020-12-05 ~ 2020-12-11</title>
-    <updated>2020-12-16T19:26:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/QH3P-XVww2Y2mnEw0lkttA</id>
-    <link href="https://mp.weixin.qq.com/s/QH3P-XVww2Y2mnEw0lkttA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

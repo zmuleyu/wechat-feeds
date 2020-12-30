@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云加社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:42:37+08:00</updated>
+  <updated>2020-12-30T20:31:13+08:00</updated>
   <subtitle>腾讯云官方社区公众号，汇聚技术开发者群体，分享技术干货，打造技术影响力交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯云基于Alluxio优化计算存储分离架构的最佳实践</title>
+    <updated>2020-12-30T17:44:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/WUcuGRJwOnlfNW4XjS0JiA</id>
+    <link href="https://mp.weixin.qq.com/s/WUcuGRJwOnlfNW4XjS0JiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云+社区杂货摊年终上新，定制礼盒发发发！</title>
     <updated>2020-12-29T18:37:24+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-18T19:16:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/M0PJhsXcm1cNAna_vniOqQ</id>
     <link href="https://mp.weixin.qq.com/s/M0PJhsXcm1cNAna_vniOqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云链结合，区块链服务BaaS平台实践与应用</title>
-    <updated>2020-12-17T20:00:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/cIao3WNo5woCLxxOEN4AYQ</id>
-    <link href="https://mp.weixin.qq.com/s/cIao3WNo5woCLxxOEN4AYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>星星海探秘：下一代软硬一体化的云计算基础设施</title>
-    <updated>2020-12-17T20:00:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/NAV_GFTMOLKvMEmbGToCmQ</id>
-    <link href="https://mp.weixin.qq.com/s/NAV_GFTMOLKvMEmbGToCmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

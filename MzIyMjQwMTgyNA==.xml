@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>java金融 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:26:17+08:00</updated>
+  <updated>2020-12-30T20:16:39+08:00</updated>
   <subtitle>关注【java金融】后台回复「666」 领取一份面试资料《Java面试BATJ通关手册》，覆盖了Java核心技术、JVM、Java并发、SSM、微服务、数据库、数据结构简历等等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看了CopyOnWriteArrayList后自己实现了一个CopyOnWriteHashMap</title>
+    <updated>2020-12-29T23:21:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/8RFSyMhUg7Ve6rQlBNs2yg</id>
+    <link href="https://mp.weixin.qq.com/s/8RFSyMhUg7Ve6rQlBNs2yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5种SpringMvc的异步处理方式你都了解吗？</title>
     <updated>2020-12-22T00:18:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-27T23:56:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/05MeFXah_7IYDHumAIM5Fg</id>
     <link href="https://mp.weixin.qq.com/s/05MeFXah_7IYDHumAIM5Fg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>hashMap的循环姿势你真的使用对了吗？</title>
-    <updated>2020-09-18T00:23:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-18:/s/gheVR7-9Eor_vSfuoO3wsQ</id>
-    <link href="https://mp.weixin.qq.com/s/gheVR7-9Eor_vSfuoO3wsQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

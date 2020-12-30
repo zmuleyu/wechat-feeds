@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink 中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:29:07+08:00</updated>
+  <updated>2020-12-30T20:17:58+08:00</updated>
   <subtitle>Apache Flink 官微，Flink PMC 维护</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数仓实时化改造：Hudi on Flink 在顺丰的实践应用</title>
+    <updated>2020-12-30T19:16:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/ufvvGCh7xxu8keQ-j0bjEA</id>
+    <link href="https://mp.weixin.qq.com/s/ufvvGCh7xxu8keQ-j0bjEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从 RxJS 到 Flink：如何处理数据流？</title>
     <updated>2020-12-28T21:43:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-06T22:16:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/JSkHzakwZd5BWnxIaUo7fg</id>
     <link href="https://mp.weixin.qq.com/s/JSkHzakwZd5BWnxIaUo7fg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink SQL 实战：双流 join 场景应用</title>
-    <updated>2020-12-03T21:13:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/GV9-u7Madd8DMBk_5lcE4Q</id>
-    <link href="https://mp.weixin.qq.com/s/GV9-u7Madd8DMBk_5lcE4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
