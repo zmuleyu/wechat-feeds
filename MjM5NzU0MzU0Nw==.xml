@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T23:09:02+08:00</updated>
+  <updated>2020-12-30T23:21:16+08:00</updated>
   <subtitle>最专业的Python社区，有每日推送，免费电子书，真人辅导，资源下载，各类工具。我已委托“维权骑士”（rightknights.com）为我的文章进行维权行动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>完爆Docker，原来它才是最强王者！</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/NhOYiXkpLAYtybzUIOpWWA</id>
+    <link href="https://mp.weixin.qq.com/s/NhOYiXkpLAYtybzUIOpWWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5道变态的Python基础题，能做出来算你厉害！</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/ZHgFsoTD7b4efiyCBK4TLA</id>
+    <link href="https://mp.weixin.qq.com/s/ZHgFsoTD7b4efiyCBK4TLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>三行Python代码，让数据预处理速度提高2到6倍</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/iOC5YxiAkRlZiE2LbhpR4w</id>
+    <link href="https://mp.weixin.qq.com/s/iOC5YxiAkRlZiE2LbhpR4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年最值得学习的5种编程语言</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/qBQsT6PeSkULkFtoXuRiMg</id>
+    <link href="https://mp.weixin.qq.com/s/qBQsT6PeSkULkFtoXuRiMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用 sklearn 优雅地进行数据挖掘？</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/b40QQ0qAzMeZzK6sZgHRkQ</id>
+    <link href="https://mp.weixin.qq.com/s/b40QQ0qAzMeZzK6sZgHRkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一款爆红的开源爬虫工具箱</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/YK6g88qTbwVmef_pOZWB9w</id>
+    <link href="https://mp.weixin.qq.com/s/YK6g88qTbwVmef_pOZWB9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华最强本科毕业生Top10出炉，「从来没有什么天才学霸」</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/CuMHuI0wmHlVSIRyk-zXsQ</id>
+    <link href="https://mp.weixin.qq.com/s/CuMHuI0wmHlVSIRyk-zXsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>五分钟看懂抓包神技：DPDK</title>
+    <updated>2020-12-30T23:00:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/bmbUxY_0ysIaC9eMwEqoIA</id>
+    <link href="https://mp.weixin.qq.com/s/bmbUxY_0ysIaC9eMwEqoIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动员工晒出税后工资，网友：怀疑你是日薪</title>
     <updated>2020-12-28T23:20:26+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2020-12-27T23:53:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/oo4LrB3md8AetivCnQS2Yw</id>
     <link href="https://mp.weixin.qq.com/s/oo4LrB3md8AetivCnQS2Yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 基于 Socket 实现群聊</title>
-    <updated>2020-12-27T23:53:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/e5TzCNNkqBgJNEceXdKsxw</id>
-    <link href="https://mp.weixin.qq.com/s/e5TzCNNkqBgJNEceXdKsxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么企业里用 VS Code 的这么多？</title>
-    <updated>2020-12-27T23:53:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/SadzIZMPzv78OeUGUFZ1_Q</id>
-    <link href="https://mp.weixin.qq.com/s/SadzIZMPzv78OeUGUFZ1_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百度股价接连暴涨的背后，看Apollo的2020</title>
-    <updated>2020-12-27T23:53:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/dXV6N4HQ1L6lzrg98cWU4w</id>
-    <link href="https://mp.weixin.qq.com/s/dXV6N4HQ1L6lzrg98cWU4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这款Python版终端资源监控器，火了！</title>
-    <updated>2020-12-26T15:56:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/1iw0yl31Z7Fit-cD4LahMg</id>
-    <link href="https://mp.weixin.qq.com/s/1iw0yl31Z7Fit-cD4LahMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>撸码必备神器，新款苹果耳机真牛逼！免费包邮送到家！</title>
-    <updated>2020-12-26T15:56:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/08mg70yNzb9_Cw_ETfzq2Q</id>
-    <link href="https://mp.weixin.qq.com/s/08mg70yNzb9_Cw_ETfzq2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>B站，被扫黄了</title>
-    <updated>2020-12-26T15:56:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/ZsxXc3aLeHpZkxQRihIqVg</id>
-    <link href="https://mp.weixin.qq.com/s/ZsxXc3aLeHpZkxQRihIqVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 最烂密码 TOP 200 大曝光，霸榜的竟然是它？</title>
-    <updated>2020-12-26T15:56:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/lXcgC4bdhP9TjcZxlPGmkA</id>
-    <link href="https://mp.weixin.qq.com/s/lXcgC4bdhP9TjcZxlPGmkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看了这份《算法中文手册》笔记，就再也不怕字节了~</title>
-    <updated>2020-12-26T15:56:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/4FyQsl4c_bwxhDTI5AvdWA</id>
-    <link href="https://mp.weixin.qq.com/s/4FyQsl4c_bwxhDTI5AvdWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

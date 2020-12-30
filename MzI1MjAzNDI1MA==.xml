@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T23:17:10+08:00</updated>
+  <updated>2020-12-30T23:23:35+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust 日报】2020-12-30 Rust 1.49 预发布测试，欢迎参与</title>
+    <updated>2020-12-30T22:17:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/oc2MEGh3OryjH9fOe0i0Ew</id>
+    <link href="https://mp.weixin.qq.com/s/oc2MEGh3OryjH9fOe0i0Ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2020-12-29 《Tokio 1.0 接口概览》</title>
     <updated>2020-12-29T22:26:22+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-21T20:26:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/g73Bfv5xBEWA0plD5O9s8Q</id>
     <link href="https://mp.weixin.qq.com/s/g73Bfv5xBEWA0plD5O9s8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动预告】您收到一封来自NEAR的年终聚会邀请</title>
-    <updated>2020-12-21T20:26:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Daw-xKImReyLyt4znS3utA</id>
-    <link href="https://mp.weixin.qq.com/s/Daw-xKImReyLyt4znS3utA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
