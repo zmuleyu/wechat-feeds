@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>编程指北 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T13:16:45+08:00</updated>
+  <updated>2020-12-30T13:25:21+08:00</updated>
   <subtitle>编程学习之路的好帮手、指南针~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>小北揭秘 | 在鹅厂用 C++ 开发是种什么样的体验？</title>
+    <updated>2020-12-30T01:01:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/OZ3y9SV_oEMovcWS4Yi4ww</id>
+    <link href="https://mp.weixin.qq.com/s/OZ3y9SV_oEMovcWS4Yi4ww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何自学编程？3个月拿下大厂offer！</title>
     <updated>2020-12-28T00:56:02+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-07T02:41:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/HSOd4sc1O_TmzvuI_1DlJg</id>
     <link href="https://mp.weixin.qq.com/s/HSOd4sc1O_TmzvuI_1DlJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我揭开了「对象」的神秘面纱，就这？</title>
-    <updated>2020-12-01T08:05:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/MSISZP_LyiQVek0RU09vcg</id>
-    <link href="https://mp.weixin.qq.com/s/MSISZP_LyiQVek0RU09vcg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

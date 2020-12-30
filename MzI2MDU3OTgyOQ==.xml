@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜索与推荐Wiki | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:51:30+08:00</updated>
+  <updated>2020-12-30T13:46:11+08:00</updated>
   <subtitle>专注于搜索和推荐系统，以系列分享为主，持续打造精品内容！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这是一份从入门到精通NLP的知识点清单</title>
+    <updated>2020-12-30T08:58:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Mapk2eH30Rp8DjDNZh0fmA</id>
+    <link href="https://mp.weixin.qq.com/s/Mapk2eH30Rp8DjDNZh0fmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>可解释机器学习的发展和常见方法！</title>
     <updated>2020-12-27T21:15:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-06T18:15:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/FQ5AGRo7aoRi-rcKWUmVww</id>
     <link href="https://mp.weixin.qq.com/s/FQ5AGRo7aoRi-rcKWUmVww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>论文｜万物皆可Vector之Word2vec：2个模型、2个优化及实战使用</title>
-    <updated>2020-12-04T12:12:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/Yy-mAPOdIEj0u65mxCwzaQ</id>
-    <link href="https://mp.weixin.qq.com/s/Yy-mAPOdIEj0u65mxCwzaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
