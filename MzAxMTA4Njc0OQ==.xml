@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Go语言中文网 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:21:59+08:00</updated>
+  <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>由 C# 改为 Go，用更少的资源将 API 的响应时间减少了 87％</title>
+    <updated>2020-12-29T23:52:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/VcW9IPIpkUm6TYH62EYGKw</id>
+    <link href="https://mp.weixin.qq.com/s/VcW9IPIpkUm6TYH62EYGKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>长沙也有 Go 职位了：映客直播招聘 Go 开发高级工程师</title>
+    <updated>2020-12-29T23:52:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/viLyJjvPS6W1bpLNc6H-nQ</id>
+    <link href="https://mp.weixin.qq.com/s/viLyJjvPS6W1bpLNc6H-nQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 30：错误处理</title>
+    <updated>2020-12-29T23:52:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/IDpVEQC_qRmTDH1k6tS5lQ</id>
+    <link href="https://mp.weixin.qq.com/s/IDpVEQC_qRmTDH1k6tS5lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里彻底拆中台了！大厂架构设计所追求的到底是什么？</title>
+    <updated>2020-12-28T22:42:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/eSGjPJhtgjYw2Exhosb5BA</id>
+    <link href="https://mp.weixin.qq.com/s/eSGjPJhtgjYw2Exhosb5BA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 项目实战：实现一个 Redis(8) 之TCC分布式事务</title>
+    <updated>2020-12-28T22:42:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/43ksyukuCOHh4ZJZUHvZEQ</id>
+    <link href="https://mp.weixin.qq.com/s/43ksyukuCOHh4ZJZUHvZEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 28：Defer</title>
+    <updated>2020-12-28T22:42:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/4SNs84CJPvO8siIcuaNJ6A</id>
+    <link href="https://mp.weixin.qq.com/s/4SNs84CJPvO8siIcuaNJ6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 1.16 的这个新变化需要适应下：go get 和 go install 的变化</title>
+    <updated>2020-12-28T22:42:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/zXWJCQsfQl11ctu2yVXF5w</id>
+    <link href="https://mp.weixin.qq.com/s/zXWJCQsfQl11ctu2yVXF5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么资深程序员都建议学习C++？</title>
+    <updated>2020-12-27T23:27:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/YMg2T_aRBME0BTPkuQT9nQ</id>
+    <link href="https://mp.weixin.qq.com/s/YMg2T_aRBME0BTPkuQT9nQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 微服务过载保护原理与实战</title>
+    <updated>2020-12-27T23:27:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/ImCJ62t4Ie4ZOf_ZmHb6-Q</id>
+    <link href="https://mp.weixin.qq.com/s/ImCJ62t4Ie4ZOf_ZmHb6-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>hystrix-go 使用与原理</title>
+    <updated>2020-12-27T23:27:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/50mG7woUHc3PmMaSXtIGYA</id>
+    <link href="https://mp.weixin.qq.com/s/50mG7woUHc3PmMaSXtIGYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详解 Go 内联优化</title>
+    <updated>2020-12-27T23:27:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/89QLSqGzH0yUM6cO6V4zmQ</id>
+    <link href="https://mp.weixin.qq.com/s/89QLSqGzH0yUM6cO6V4zmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go语言爱好者周刊：第 75 期</title>
+    <updated>2020-12-27T11:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/azW-S6-nJOiciUFBo1oJwA</id>
+    <link href="https://mp.weixin.qq.com/s/azW-S6-nJOiciUFBo1oJwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 28：多态</title>
+    <updated>2020-12-27T11:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/A737eVVpUQgQgVDdaNZlkQ</id>
+    <link href="https://mp.weixin.qq.com/s/A737eVVpUQgQgVDdaNZlkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详解 Go 逃逸分析</title>
+    <updated>2020-12-27T11:03:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/xhBVv6JEPY8R3kCJlbirYw</id>
+    <link href="https://mp.weixin.qq.com/s/xhBVv6JEPY8R3kCJlbirYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何避免将密码提交到代码库了？详解 Go 中的环境变量</title>
+    <updated>2020-12-26T11:48:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/1mJBaAyxdg1SnLyU5nG6RA</id>
+    <link href="https://mp.weixin.qq.com/s/1mJBaAyxdg1SnLyU5nG6RA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>除了 fmt.Errorf() 之外—Go 中的日常错误对象：CockroachDB errors 库（第4篇）</title>
+    <updated>2020-12-26T11:48:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/7DmmKjoRdf9nd9_CXe47mw</id>
+    <link href="https://mp.weixin.qq.com/s/7DmmKjoRdf9nd9_CXe47mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 27：组合取代继承​​</title>
+    <updated>2020-12-26T11:48:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/x7458REmr2mM-PHZo1i62g</id>
+    <link href="https://mp.weixin.qq.com/s/x7458REmr2mM-PHZo1i62g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go error 打印灾难 —  CockroachDB errors 库（第3篇）</title>
+    <updated>2020-12-24T23:46:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/YNy8opP0DVNZniLNuMeHqw</id>
+    <link href="https://mp.weixin.qq.com/s/YNy8opP0DVNZniLNuMeHqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 26：结构体取代类​</title>
+    <updated>2020-12-24T23:46:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/74EK0JLTk_4PmXsTJ8KnAg</id>
+    <link href="https://mp.weixin.qq.com/s/74EK0JLTk_4PmXsTJ8KnAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang最细节篇— struct{} 空结构体究竟是啥？</title>
+    <updated>2020-12-24T23:46:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/hFfOueeABfCxRxbo8mYsSg</id>
+    <link href="https://mp.weixin.qq.com/s/hFfOueeABfCxRxbo8mYsSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

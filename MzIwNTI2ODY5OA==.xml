@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TopCoder | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:25:42+08:00</updated>
+  <subtitle>关注程序员技术成长，用简洁的文字，分享复杂的技术。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>CompletableFuture 原理浅析</title>
+    <updated>2020-11-22T18:54:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/1EzwE5zQ9HZZqCpblyvbhw</id>
+    <link href="https://mp.weixin.qq.com/s/1EzwE5zQ9HZZqCpblyvbhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CompletableFuture 应用实践</title>
+    <updated>2020-11-21T23:31:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/xUbdGFxavLYr1hlg1FVMQw</id>
+    <link href="https://mp.weixin.qq.com/s/xUbdGFxavLYr1hlg1FVMQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java线程池实现原理</title>
+    <updated>2020-11-07T00:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/77mhDHZKoYevsn28EkiQDg</id>
+    <link href="https://mp.weixin.qq.com/s/77mhDHZKoYevsn28EkiQDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入理解Java线程池</title>
+    <updated>2020-11-05T09:56:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/-2UlmwtTAGlKHnBPBrUjRw</id>
+    <link href="https://mp.weixin.qq.com/s/-2UlmwtTAGlKHnBPBrUjRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JMM Java内存模型</title>
+    <updated>2020-11-04T20:56:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-04:/s/lJKqkfZS724EbcWVDCTFZA</id>
+    <link href="https://mp.weixin.qq.com/s/lJKqkfZS724EbcWVDCTFZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>happens-before那些事儿</title>
+    <updated>2020-10-31T23:51:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/itiYQJIHU9ZQy-Ml0aut7Q</id>
+    <link href="https://mp.weixin.qq.com/s/itiYQJIHU9ZQy-Ml0aut7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么说LockSupport是Java并发的基石？</title>
+    <updated>2020-10-31T13:13:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/fBBUxmnpUrSl4CXyJVOoMw</id>
+    <link href="https://mp.weixin.qq.com/s/fBBUxmnpUrSl4CXyJVOoMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>FutureTask 原理剖析</title>
+    <updated>2020-10-28T20:39:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/JzA4BGqbpVNlNwC-PTf62Q</id>
+    <link href="https://mp.weixin.qq.com/s/JzA4BGqbpVNlNwC-PTf62Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你的ThreadLocal线程安全么</title>
+    <updated>2020-10-26T08:21:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-26:/s/JJKkl-v3YN1qBRW9YenWiQ</id>
+    <link href="https://mp.weixin.qq.com/s/JJKkl-v3YN1qBRW9YenWiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入浅出 Thread.interrupt</title>
+    <updated>2020-10-24T08:29:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-24:/s/YKCKXTLUjvdqJ8FiZe52BQ</id>
+    <link href="https://mp.weixin.qq.com/s/YKCKXTLUjvdqJ8FiZe52BQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

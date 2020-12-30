@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T11:25:09+08:00</updated>
+  <updated>2020-12-30T11:25:54+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务架构三高极端场景负载均衡方案解析</title>
+    <updated>2020-12-30T09:25:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/UqyZTyJi0B91RTmvCT4fTQ</id>
+    <link href="https://mp.weixin.qq.com/s/UqyZTyJi0B91RTmvCT4fTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>API 分页设计与实现</title>
     <updated>2020-12-29T08:53:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-18T17:48:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/FtfAqXXDef6-bhuGyPDK7w</id>
     <link href="https://mp.weixin.qq.com/s/FtfAqXXDef6-bhuGyPDK7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>支持百万级TPS，Kafka是怎么做到的？</title>
-    <updated>2020-12-17T20:46:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/UeRLaoJyL6WOmvNfy5wujQ</id>
-    <link href="https://mp.weixin.qq.com/s/UeRLaoJyL6WOmvNfy5wujQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

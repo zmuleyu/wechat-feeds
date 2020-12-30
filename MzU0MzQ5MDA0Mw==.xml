@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T11:30:15+08:00</updated>
+  <updated>2020-12-30T11:23:07+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux 系统故障排查，怕了怕了！</title>
+    <updated>2020-12-29T21:50:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/110HKE16ABxvPM_Ja7igjw</id>
+    <link href="https://mp.weixin.qq.com/s/110HKE16ABxvPM_Ja7igjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址</title>
+    <updated>2020-12-29T21:50:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/KM-mWwd5TivJScBVCQyEBQ</id>
+    <link href="https://mp.weixin.qq.com/s/KM-mWwd5TivJScBVCQyEBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里开源新一代单元测试 Mock 工具！</title>
     <updated>2020-12-28T22:44:59+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-21T11:14:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/94VmZsSM1kQzCOn_b5b9gA</id>
     <link href="https://mp.weixin.qq.com/s/94VmZsSM1kQzCOn_b5b9gA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字详解本地缓存之王 Caffeine</title>
-    <updated>2020-12-20T01:08:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/eb2gtvaB2B7iPi2N0p8lxA</id>
-    <link href="https://mp.weixin.qq.com/s/eb2gtvaB2B7iPi2N0p8lxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>云原生实验室 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:19:12+08:00</updated>
+  <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>高性能 Nginx HTTPS 调优 - 如何为 HTTPS 提速 30%</title>
+    <updated>2020-12-29T12:11:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/rPJvhiGlap-632rUu3Sm9g</id>
+    <link href="https://mp.weixin.qq.com/s/rPJvhiGlap-632rUu3Sm9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从 0 到 1，搭建一个生产级别的 Kubernetes 集群</title>
+    <updated>2020-12-27T23:07:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/t8wSJdi4ZQZgZt0wcJ6gCg</id>
+    <link href="https://mp.weixin.qq.com/s/t8wSJdi4ZQZgZt0wcJ6gCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dockerd 资源泄露怎么办</title>
+    <updated>2020-12-27T23:07:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/DMco5nVWY4S1O_LKsMy14w</id>
+    <link href="https://mp.weixin.qq.com/s/DMco5nVWY4S1O_LKsMy14w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Containerd 中的 Snapshot 到底是个什么鬼？</title>
+    <updated>2020-12-27T14:12:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/QRpZoTI9xB2JGiVpuS9NpA</id>
+    <link href="https://mp.weixin.qq.com/s/QRpZoTI9xB2JGiVpuS9NpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>百度为什么掉队了</title>
+    <updated>2020-12-26T12:39:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/YdHZGpa7Bg2SkXq20Xm6VQ</id>
+    <link href="https://mp.weixin.qq.com/s/YdHZGpa7Bg2SkXq20Xm6VQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WireGuard 真的很香吗？香个屁！</title>
+    <updated>2020-12-25T00:09:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/OvqpL9aO6oMSL4GgjE6zbw</id>
+    <link href="https://mp.weixin.qq.com/s/OvqpL9aO6oMSL4GgjE6zbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前58技术委员会主席总结的系统架构设计思维和方法论</title>
+    <updated>2020-12-24T01:14:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/RTgv_p0hImYFfs9K8lcEUA</id>
+    <link href="https://mp.weixin.qq.com/s/RTgv_p0hImYFfs9K8lcEUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>别看 DNS 污染闹得欢，现在我用 CoreDNS 将它拉清单</title>
+    <updated>2020-12-24T01:14:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/RQvACT3vga6suKwgr5hsrw</id>
+    <link href="https://mp.weixin.qq.com/s/RQvACT3vga6suKwgr5hsrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus hang 住问题定位解决</title>
+    <updated>2020-12-23T18:05:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/xFhHOHV9-Vy4RdTF0IgZzg</id>
+    <link href="https://mp.weixin.qq.com/s/xFhHOHV9-Vy4RdTF0IgZzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>运维总监怒怼开发：你真的需要K8S吗？</title>
+    <updated>2020-12-21T23:10:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/qL73F5XxLmAKqTCOaIkwZA</id>
+    <link href="https://mp.weixin.qq.com/s/qL73F5XxLmAKqTCOaIkwZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MacBook Pro M1 通过 Rosetta 2 安装 Homebrew 教程</title>
+    <updated>2020-12-21T23:10:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/LaTWFsOFQmLcbzZEk3CSuw</id>
+    <link href="https://mp.weixin.qq.com/s/LaTWFsOFQmLcbzZEk3CSuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 1.16 中关于 go get 和 go install 你必须注意的地方</title>
+    <updated>2020-12-21T16:43:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Sj-Iza8N481U_2EA233ekw</id>
+    <link href="https://mp.weixin.qq.com/s/Sj-Iza8N481U_2EA233ekw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在 arm64 架构上一键部署高可用 k8s v1.20.0 集群</title>
+    <updated>2020-12-20T19:10:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/U-lVk5qTa-as4Bb6ztOxxA</id>
+    <link href="https://mp.weixin.qq.com/s/U-lVk5qTa-as4Bb6ztOxxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

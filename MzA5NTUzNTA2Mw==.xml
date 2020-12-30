@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>搬运工来架构 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:23:50+08:00</updated>
+  <subtitle>关注Java领域，Java后端开发、Netty、Zookeeper、Kafka、分布式、微服务、架构等。分享技术干货，架构设计，实战经验等。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>MyBatis 框架下 SQL 注入攻击的 3 种方式，真是防不胜防！</title>
+    <updated>2020-09-01T20:12:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-01:/s/MP_vwdNLUP1MiF7NqqCeSQ</id>
+    <link href="https://mp.weixin.qq.com/s/MP_vwdNLUP1MiF7NqqCeSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>记一次网络请求连接超时的事故</title>
+    <updated>2020-08-22T23:40:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-22:/s/FCjOedILFthcuLkXR7mjEw</id>
+    <link href="https://mp.weixin.qq.com/s/FCjOedILFthcuLkXR7mjEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Eureka 客户端配置注册地址为什么要加eureka做后缀？</title>
+    <updated>2020-08-10T21:27:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-10:/s/0tdDTv_uIwB9ScW5DVLTAA</id>
+    <link href="https://mp.weixin.qq.com/s/0tdDTv_uIwB9ScW5DVLTAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kafka如何选择合适的分区数，你选对了吗</title>
+    <updated>2020-08-04T07:50:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-04:/s/7UNUjv_6SFTKbqy4rHD0iQ</id>
+    <link href="https://mp.weixin.qq.com/s/7UNUjv_6SFTKbqy4rHD0iQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>记一次天猫商城系统高并发的优化</title>
+    <updated>2020-07-30T07:02:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-30:/s/uf5M9fw9ESj-iWozrzwVTA</id>
+    <link href="https://mp.weixin.qq.com/s/uf5M9fw9ESj-iWozrzwVTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这些MQ概念你都懂吗：死信队列、重试队列、消息回溯等</title>
+    <updated>2020-07-28T07:09:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-28:/s/RlTZZLmEyblzJWOlc3PYrg</id>
+    <link href="https://mp.weixin.qq.com/s/RlTZZLmEyblzJWOlc3PYrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用了@Autowired注入，竟然被警告</title>
+    <updated>2020-07-09T08:34:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-09:/s/PKtBqGXWtcmJqGQtF6TClg</id>
+    <link href="https://mp.weixin.qq.com/s/PKtBqGXWtcmJqGQtF6TClg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：Redis监控指标有哪些？</title>
+    <updated>2020-06-23T20:23:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-23:/s/9rb9U_DBHTzoKvvtIoDhGg</id>
+    <link href="https://mp.weixin.qq.com/s/9rb9U_DBHTzoKvvtIoDhGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>互联网分步式系统架构分享</title>
+    <updated>2020-06-15T21:36:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-15:/s/Wk4B3AlHQoTH1zqO3jni8A</id>
+    <link href="https://mp.weixin.qq.com/s/Wk4B3AlHQoTH1zqO3jni8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>笔记 | 面试又挂了，只因问了：TCP三次握手和四次挥手</title>
+    <updated>2020-06-12T23:35:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-12:/s/GQTVytNus8EcoGEkOSTUog</id>
+    <link href="https://mp.weixin.qq.com/s/GQTVytNus8EcoGEkOSTUog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>dubbo流量上线时的非平滑问题</title>
+    <updated>2020-06-12T23:35:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-12:/s/FphWLE7c4bjVOCY6GTyxqQ</id>
+    <link href="https://mp.weixin.qq.com/s/FphWLE7c4bjVOCY6GTyxqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

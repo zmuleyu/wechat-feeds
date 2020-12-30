@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>脑子进煎鱼了 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:37:15+08:00</updated>
+  <subtitle>分享 Go 语言、微服务架构和各类奇怪的系统设计。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>大龄 Go 程序员都去哪了？</title>
+    <updated>2020-12-28T23:09:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Q6uDQyFU0U_Bx-ggcxcb0A</id>
+    <link href="https://mp.weixin.qq.com/s/Q6uDQyFU0U_Bx-ggcxcb0A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 程序员为什么要懂架构设计？</title>
+    <updated>2020-12-28T16:36:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/aLxe9TNZFkYJm70ddeU4hg</id>
+    <link href="https://mp.weixin.qq.com/s/aLxe9TNZFkYJm70ddeU4hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货满满的 Go Modules 知识分享</title>
+    <updated>2020-12-27T10:00:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/uUNTH06_s6yzy5urtjPMsg</id>
+    <link href="https://mp.weixin.qq.com/s/uUNTH06_s6yzy5urtjPMsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>吐血整理 | 快速学习大厂们的软件案例经验</title>
+    <updated>2020-12-24T00:43:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/Eb2TDqxs69300S-RTGH0Jg</id>
+    <link href="https://mp.weixin.qq.com/s/Eb2TDqxs69300S-RTGH0Jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 并发：一些有趣的现象和要避开的 “坑”</title>
+    <updated>2020-12-21T21:31:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/k6ioEP4Yp_jMFGGFvvXxxQ</id>
+    <link href="https://mp.weixin.qq.com/s/k6ioEP4Yp_jMFGGFvvXxxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 错误处理：用 panic 取代 err != nil 的模式</title>
+    <updated>2020-12-15T23:51:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/p77V3_LkREuXPVLdebmmmQ</id>
+    <link href="https://mp.weixin.qq.com/s/p77V3_LkREuXPVLdebmmmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万字长文 | 从实践到原理，带你参透 gRPC</title>
+    <updated>2020-12-13T23:48:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/o-K7G9ywCdmW7et6Q4WMeA</id>
+    <link href="https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>先睹为快，Go2 Error 的挣扎之路</title>
+    <updated>2020-12-06T18:05:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/XILveKzh07BOQnqxYDKQsA</id>
+    <link href="https://mp.weixin.qq.com/s/XILveKzh07BOQnqxYDKQsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>某大厂招 Go 中高工程师/DevOps</title>
+    <updated>2020-12-06T18:05:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/KJi-uiTcisMjUvUgsr2YSQ</id>
+    <link href="https://mp.weixin.qq.com/s/KJi-uiTcisMjUvUgsr2YSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>必须要学的 Go 进程诊断工具 gops</title>
+    <updated>2020-12-02T17:48:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/iS7R0NTZcTlonUw8bq0jKQ</id>
+    <link href="https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 Go 的泛型一拖再拖？</title>
+    <updated>2020-11-20T22:38:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/ftmuA9g7QPAwSwiswRuSuw</id>
+    <link href="https://mp.weixin.qq.com/s/ftmuA9g7QPAwSwiswRuSuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>肥朝 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:46:16+08:00</updated>
+  <subtitle>肥朝 是一个专注于 原理、源码、开发技巧的技术公众号，号内原创专题式源码解析、真实场景源码原理实战（重点）。关注肥朝，让本该造火箭的你，不再拧螺丝！</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>kafka中生产者是如何把消息投递到哪个分区的？消费者又是怎么选择分区的？</title>
+    <updated>2020-12-29T11:25:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/HoMArnyPUGJbgbn4jbmpJw</id>
+    <link href="https://mp.weixin.qq.com/s/HoMArnyPUGJbgbn4jbmpJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯，干掉 Redis 项目，正式开源、太牛逼啦！</title>
+    <updated>2020-12-27T21:22:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/_xBqGB2EG10XI1oe_il5Bg</id>
+    <link href="https://mp.weixin.qq.com/s/_xBqGB2EG10XI1oe_il5Bg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Validation最佳实践及其实现原理，参数校验没那么简单！</title>
+    <updated>2020-12-26T23:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/q-Fh_YGPW7s8lyg6o9DXgA</id>
+    <link href="https://mp.weixin.qq.com/s/q-Fh_YGPW7s8lyg6o9DXgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty实现心跳机制与断线重连</title>
+    <updated>2020-12-26T20:32:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/mr_e5XRtOC1-3u_yw-di7w</id>
+    <link href="https://mp.weixin.qq.com/s/mr_e5XRtOC1-3u_yw-di7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万字详解本地缓存之王 Caffeine</title>
+    <updated>2020-12-25T18:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Ed7DkcIsVTdog9LS9rbo5A</id>
+    <link href="https://mp.weixin.qq.com/s/Ed7DkcIsVTdog9LS9rbo5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>网易游戏基于 Flink 的流式 ETL 建设</title>
+    <updated>2020-12-23T21:20:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/jszBs9eYbU1UBuxsoecQwg</id>
+    <link href="https://mp.weixin.qq.com/s/jszBs9eYbU1UBuxsoecQwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里开源新一代单元测试 Mock 工具！</title>
+    <updated>2020-12-23T11:48:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/vPesQnbHORtsGjxYnGIKiQ</id>
+    <link href="https://mp.weixin.qq.com/s/vPesQnbHORtsGjxYnGIKiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>美滋滋的开源数据库模型建模工具！</title>
+    <updated>2020-12-22T17:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/OCVMxi2kqTU7DZKvVrNkCw</id>
+    <link href="https://mp.weixin.qq.com/s/OCVMxi2kqTU7DZKvVrNkCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>实例告诉你如何把 if-else 重构成高质量代码！</title>
+    <updated>2020-12-20T11:53:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/uhGyqjOPtg-piBf9vX8y9w</id>
+    <link href="https://mp.weixin.qq.com/s/uhGyqjOPtg-piBf9vX8y9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus + Granafa 构建高大上的MySQL监控平台</title>
+    <updated>2020-12-19T15:54:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/BMtTT4Bd_lyN0J9MRQEUSQ</id>
+    <link href="https://mp.weixin.qq.com/s/BMtTT4Bd_lyN0J9MRQEUSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

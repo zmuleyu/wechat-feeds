@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T11:40:04+08:00</updated>
+  <updated>2020-12-30T11:44:17+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何实现Java类隔离加载？</title>
+    <updated>2020-12-29T17:54:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/oK6A3viNP3XafEvl7rzjKA</id>
+    <link href="https://mp.weixin.qq.com/s/oK6A3viNP3XafEvl7rzjKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021十大科技趋势来了！阿里巴巴达摩院全新发布</title>
     <updated>2020-12-28T18:08:50+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T18:11:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/0EluripD7qNZtx7-aCstkw</id>
     <link href="https://mp.weixin.qq.com/s/0EluripD7qNZtx7-aCstkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何让东南亚消费者过好双11？Lazada揭秘7大技术保障</title>
-    <updated>2020-12-14T17:57:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/FHPkB1G1vIVamVoCuF4gbQ</id>
-    <link href="https://mp.weixin.qq.com/s/FHPkB1G1vIVamVoCuF4gbQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

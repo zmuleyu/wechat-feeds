@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>网管叨bi叨 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:50:53+08:00</updated>
+  <subtitle>每周分享技术类原创文章</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>并发编程--用SingleFlight合并重复请求</title>
+    <updated>2020-12-28T15:52:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/dlCzH96u9Qo8_p3GIIrq4Q</id>
+    <link href="https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>觉得WaitGroup不好用？试试ErrorGroup吧！</title>
+    <updated>2020-12-23T15:16:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/AUNXmKkQGI9uotwPoweg3A</id>
+    <link href="https://mp.weixin.qq.com/s/AUNXmKkQGI9uotwPoweg3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>常用限流算法的应用场景和实现原理</title>
+    <updated>2020-12-20T10:28:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/krrUFEHVBw4c-47ziXOK2w</id>
+    <link href="https://mp.weixin.qq.com/s/krrUFEHVBw4c-47ziXOK2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>并发编程-信号量的使用方法和其实现原理</title>
+    <updated>2020-12-15T17:34:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/QAMgkj-pDe36leDeGigu4Q</id>
+    <link href="https://mp.weixin.qq.com/s/QAMgkj-pDe36leDeGigu4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>项目改用GoModules管理依赖的方法和经验总结</title>
+    <updated>2020-12-09T18:04:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/xtvTUl2IZFQ79dSR_m-b7A</id>
+    <link href="https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入理解StatefulSet，用Kubernetes编排有状态应用</title>
+    <updated>2020-12-07T08:28:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-07:/s/y60q0-RMh8isd4u4PuLfUg</id>
+    <link href="https://mp.weixin.qq.com/s/y60q0-RMh8isd4u4PuLfUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang程序性能分析（三）用pprof分析gRPC服务的性能</title>
+    <updated>2020-12-02T07:30:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/jbAMf0M0G1yRRttTte3jcQ</id>
+    <link href="https://mp.weixin.qq.com/s/jbAMf0M0G1yRRttTte3jcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>周末本来想写完StatefulSet的文章，但是写清楚HeadlessService就花掉两个上午。HeadlessService我在前面文章中简单说过，这次StatefulSet的文章会花大篇幅用例子解释它的用途以及跟普通Service的区别。&#xA;&#xA;StatefulSet和Deployment应对于不同编排场景，后者会认为所有Pod是一样的，可以随意扩展调度，而StatefulSet在调度时会严格保证Pod的调度顺序和匹配存储&#xA;&#xA;有时间的同学建议复习下下面的文章，为理解StatefulSet打好基础&#xA;&#xA;K8s Deployment全教程！&#xA;学练结合，快速掌握Kubernetes Service</title>
+    <updated>2020-11-29T13:28:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/CChQapLxwwNOxYAQMphawQ</id>
+    <link href="https://mp.weixin.qq.com/s/CChQapLxwwNOxYAQMphawQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang程序性能分析（二）在Echo和Gin框架中使用pprof</title>
+    <updated>2020-11-26T08:55:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/m68JmVxEW2NebjM7PMnE1A</id>
+    <link href="https://mp.weixin.qq.com/s/m68JmVxEW2NebjM7PMnE1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go语言init函数你必须记住的六个特征</title>
+    <updated>2020-11-22T09:51:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/P-BhuQy1Vd3lxlYgClDAJA</id>
+    <link href="https://mp.weixin.qq.com/s/P-BhuQy1Vd3lxlYgClDAJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

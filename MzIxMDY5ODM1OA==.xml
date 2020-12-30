@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>伪架构师 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2020-12-30T11:27:19+08:00</updated>
+  <subtitle>容器、网格相关的原创以及译文。 中老年IT工人的闲言碎语。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>（译）Docker 中的 PID-1、孤儿、僵尸和信号</title>
+    <updated>2020-12-13T15:41:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/B2NCisoDBuhVpgfPjezOLA</id>
+    <link href="https://mp.weixin.qq.com/s/B2NCisoDBuhVpgfPjezOLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于 wasm 的 openssl 实践</title>
+    <updated>2020-12-13T15:41:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/g-vJJdyyyWnLu6tUpmcG2Q</id>
+    <link href="https://mp.weixin.qq.com/s/g-vJJdyyyWnLu6tUpmcG2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>（闲聊）听说 K8s 要甩了 Docker 了</title>
+    <updated>2020-12-02T22:14:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-02:/s/wccn3fD7xACVimijCC-MAw</id>
+    <link href="https://mp.weixin.qq.com/s/wccn3fD7xACVimijCC-MAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus 的告警迭代小窍门</title>
+    <updated>2020-11-29T22:06:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/bBSNj5AVKfQ5yrvwPUp7Mg</id>
+    <link href="https://mp.weixin.qq.com/s/bBSNj5AVKfQ5yrvwPUp7Mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 最佳安全实践指南</title>
+    <updated>2020-11-29T22:06:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/lPmlEtkBU2TsLcos4jB_Iw</id>
+    <link href="https://mp.weixin.qq.com/s/lPmlEtkBU2TsLcos4jB_Iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>（译）云原生安全白皮书</title>
+    <updated>2020-11-24T22:55:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/uH7M7vR1m0CJhoVfr-DisQ</id>
+    <link href="https://mp.weixin.qq.com/s/uH7M7vR1m0CJhoVfr-DisQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[译]eBPF 概念和基本原理</title>
+    <updated>2020-11-16T00:21:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/4w_NAR8sZMTRZENPu4lSJQ</id>
+    <link href="https://mp.weixin.qq.com/s/4w_NAR8sZMTRZENPu4lSJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【go-libp2p源码剖析】Swarm拨号</title>
+    <updated>2020-11-16T00:21:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/4eBAvxNmuygBkfw3LtSsCA</id>
+    <link href="https://mp.weixin.qq.com/s/4eBAvxNmuygBkfw3LtSsCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>介绍一个不太小的工具：Shell Operator</title>
+    <updated>2020-11-08T00:32:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/Z3kQWfqlYJFnFK9SaLkv6A</id>
+    <link href="https://mp.weixin.qq.com/s/Z3kQWfqlYJFnFK9SaLkv6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>做个 openEuler 的容器镜像</title>
+    <updated>2020-11-05T17:37:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-05:/s/KzRjvGScZ9-5-OMSOD-V4g</id>
+    <link href="https://mp.weixin.qq.com/s/KzRjvGScZ9-5-OMSOD-V4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清理镜像库空间的一个思路</title>
+    <updated>2020-11-02T01:15:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/Ue4UUM96x4uJOwtof60CIw</id>
+    <link href="https://mp.weixin.qq.com/s/Ue4UUM96x4uJOwtof60CIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么需要 libp2p-rs ？</title>
+    <updated>2020-11-02T01:15:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/PlircFVl1wMV1Q8DsJnpVQ</id>
+    <link href="https://mp.weixin.qq.com/s/PlircFVl1wMV1Q8DsJnpVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Loki迎来2.0重大更新，LogQL语法大幅增强​！</title>
+    <updated>2020-11-02T01:15:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-02:/s/RhOnfRed4kjJLdeoGwWhcA</id>
+    <link href="https://mp.weixin.qq.com/s/RhOnfRed4kjJLdeoGwWhcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>libp2p-rs 开源项目的落地实现</title>
+    <updated>2020-10-28T23:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/oLCnpyvudXYQcDokdAWgXw</id>
+    <link href="https://mp.weixin.qq.com/s/oLCnpyvudXYQcDokdAWgXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>（译）用 Notary 和 OPA 在 Kubernetes 上使用内容签名</title>
+    <updated>2020-10-17T01:16:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/js4KKNWNnfx32YJauU1f2Q</id>
+    <link href="https://mp.weixin.qq.com/s/js4KKNWNnfx32YJauU1f2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>再谈 Send 与 Sync | Rust学习笔记</title>
+    <updated>2020-10-17T01:16:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-17:/s/TVmAeHVa61iYBkfO4E5zmw</id>
+    <link href="https://mp.weixin.qq.com/s/TVmAeHVa61iYBkfO4E5zmw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>
