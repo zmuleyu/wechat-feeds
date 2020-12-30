@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知了一笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:51:22+08:00</updated>
+  <updated>2020-12-31T02:07:43+08:00</updated>
   <subtitle>积累是一个孤独且枯燥的过程</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据应用场景之标签管理体系</title>
+    <updated>2020-12-30T23:49:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/rDUOsFUsWYxMj2s0m4oJow</id>
+    <link href="https://mp.weixin.qq.com/s/rDUOsFUsWYxMj2s0m4oJow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据全景洞察概念简介</title>
     <updated>2020-12-26T22:04:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-19T23:52:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/0yrKkeEdRAZFxJLYJmYR3g</id>
     <link href="https://mp.weixin.qq.com/s/0yrKkeEdRAZFxJLYJmYR3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构设计：分布式结构下，服务部署发布</title>
-    <updated>2020-11-14T15:31:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/NUTzTeg2entXLSEgd2fYVQ</id>
-    <link href="https://mp.weixin.qq.com/s/NUTzTeg2entXLSEgd2fYVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

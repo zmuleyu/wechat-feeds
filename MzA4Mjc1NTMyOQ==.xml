@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Golang语言开发栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:38:59+08:00</updated>
+  <updated>2020-12-31T01:56:59+08:00</updated>
   <subtitle>学习Go语言，和我一起吧。致力于golang技术教程分享。专注于go面试题，go标准库，go三方库，go框架，go orm，go 微服务，分布式，设计模式，数据结构与算法，RPC应用，数据中台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Golang语言使用 jwt-go 库生成和解析 token</title>
+    <updated>2020-12-30T23:13:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/SLuQ6oIaA4tEm7nbdbvDPg</id>
+    <link href="https://mp.weixin.qq.com/s/SLuQ6oIaA4tEm7nbdbvDPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Golang 语言的值验证库 Validator 怎么使用？</title>
     <updated>2020-12-28T16:52:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T15:07:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/AQsFLaXXz363yBjM59SfyQ</id>
     <link href="https://mp.weixin.qq.com/s/AQsFLaXXz363yBjM59SfyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang 语言使用标准库 net/rpc/jsonrpc 包跨语言远程调用</title>
-    <updated>2020-12-09T12:29:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/Zhg5FBgB6XPC37kA0GcgKg</id>
-    <link href="https://mp.weixin.qq.com/s/Zhg5FBgB6XPC37kA0GcgKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
