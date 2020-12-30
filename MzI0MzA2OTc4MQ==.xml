@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农UP2U | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:25:51+08:00</updated>
+  <updated>2020-12-31T07:18:33+08:00</updated>
   <subtitle>关于码农，或技术，或总结！学习交流，共同进步！码农 up to you，码农UP2U!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 年回顾</title>
+    <updated>2020-12-31T06:20:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/yRxVQLkubKmDb0F9eCAlqg</id>
+    <link href="https://mp.weixin.qq.com/s/yRxVQLkubKmDb0F9eCAlqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis | 事务源码阅读</title>
     <updated>2020-12-24T06:34:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-06T00:03:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/SLE1O9q3jxxB99-PZv-HtA</id>
     <link href="https://mp.weixin.qq.com/s/SLE1O9q3jxxB99-PZv-HtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis | SpringBoot整合Redis</title>
-    <updated>2020-11-03T06:42:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/T08ubyVbNrSqCNM712Eyow</id>
-    <link href="https://mp.weixin.qq.com/s/T08ubyVbNrSqCNM712Eyow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
