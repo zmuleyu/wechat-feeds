@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微信安全中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T20:21:50+08:00</updated>
+  <updated>2020-12-31T20:22:09+08:00</updated>
   <subtitle>提供微信安全相关自助服务，发布最新微信安全动态和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年度朋友圈十大谣言</title>
+    <updated>2020-12-31T18:38:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/N7bQ4X6qf8ecyNir6LzTvw</id>
+    <link href="https://mp.weixin.qq.com/s/N7bQ4X6qf8ecyNir6LzTvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今天你的努力白费了吗？</title>
     <updated>2020-12-29T18:07:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-30T18:19:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/G3FVdUo9fwAUoSpK1ojAHg</id>
     <link href="https://mp.weixin.qq.com/s/G3FVdUo9fwAUoSpK1ojAHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常回家看看之TA的心思你别猜</title>
-    <updated>2020-10-25T12:42:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/rzQBscqutKxoDQtM47Ku4A</id>
-    <link href="https://mp.weixin.qq.com/s/rzQBscqutKxoDQtM47Ku4A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

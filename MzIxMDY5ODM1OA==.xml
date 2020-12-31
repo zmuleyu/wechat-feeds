@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>伪架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:27:19+08:00</updated>
+  <updated>2020-12-31T20:35:15+08:00</updated>
   <subtitle>容器、网格相关的原创以及译文。 中老年IT工人的闲言碎语。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生喝酒 SIG 2020 年度总结</title>
+    <updated>2020-12-31T18:01:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/T64GmVD3AppwbDbJq9cuLg</id>
+    <link href="https://mp.weixin.qq.com/s/T64GmVD3AppwbDbJq9cuLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>（译）Docker 中的 PID-1、孤儿、僵尸和信号</title>
     <updated>2020-12-13T15:41:17+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-10-28T23:44:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/oLCnpyvudXYQcDokdAWgXw</id>
     <link href="https://mp.weixin.qq.com/s/oLCnpyvudXYQcDokdAWgXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>（译）用 Notary 和 OPA 在 Kubernetes 上使用内容签名</title>
-    <updated>2020-10-17T01:16:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/js4KKNWNnfx32YJauU1f2Q</id>
-    <link href="https://mp.weixin.qq.com/s/js4KKNWNnfx32YJauU1f2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再谈 Send 与 Sync | Rust学习笔记</title>
-    <updated>2020-10-17T01:16:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-17:/s/TVmAeHVa61iYBkfO4E5zmw</id>
-    <link href="https://mp.weixin.qq.com/s/TVmAeHVa61iYBkfO4E5zmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:33:00+08:00</updated>
+  <updated>2020-12-31T20:24:28+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SWA：让你的目标检测模型无痛涨点1% AP</title>
+    <updated>2020-12-31T18:14:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/H3NLjSXI6_1C6lGbklCF7Q</id>
+    <link href="https://mp.weixin.qq.com/s/H3NLjSXI6_1C6lGbklCF7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今天来捋一捋pytorch官方Faster R-CNN代码</title>
+    <updated>2020-12-31T18:14:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/lMPpnMneXvGJszhtwcq7vw</id>
+    <link href="https://mp.weixin.qq.com/s/lMPpnMneXvGJszhtwcq7vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>tinygrad：一个不到1000行代码的深度学习框架</title>
+    <updated>2020-12-31T18:14:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/3CSX64JsniTJqxWA84_GJA</id>
+    <link href="https://mp.weixin.qq.com/s/3CSX64JsniTJqxWA84_GJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于NLP相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱、信息抽取、序列模型、深度学习、语法分析、文本处理</title>
     <updated>2020-12-30T18:14:10+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-20T20:05:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/yjMt088oMWQpkXH7aeqDzw</id>
     <link href="https://mp.weixin.qq.com/s/yjMt088oMWQpkXH7aeqDzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyTorch 源码解读之 torch.autograd</title>
-    <updated>2020-12-20T20:05:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/oyRaMAfaMAcAu5llRwRhsg</id>
-    <link href="https://mp.weixin.qq.com/s/oyRaMAfaMAcAu5llRwRhsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>限时删除！机器学习岗十大必备项目，15G视频资料！</title>
-    <updated>2020-12-17T17:04:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/3zBySALau0hF62DmasSrvw</id>
-    <link href="https://mp.weixin.qq.com/s/3zBySALau0hF62DmasSrvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MMDetection新版本V2.7发布，支持DETR，还有YOLOV4在路上!</title>
-    <updated>2020-12-17T17:04:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/pEHslCl_gCTz1lug-nJgkQ</id>
-    <link href="https://mp.weixin.qq.com/s/pEHslCl_gCTz1lug-nJgkQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:34:11+08:00</updated>
+  <updated>2020-12-31T20:29:32+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 379 期：框架带来了什么？</title>
+    <updated>2020-12-31T17:06:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/tCJNVcvXaSHqVKJw7rjsTA</id>
+    <link href="https://mp.weixin.qq.com/s/tCJNVcvXaSHqVKJw7rjsTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 MonoRepo 管理前端项目</title>
     <updated>2020-12-30T15:17:19+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-22T19:55:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/JOlq2xgdKpBivFtNRMoOAg</id>
     <link href="https://mp.weixin.qq.com/s/JOlq2xgdKpBivFtNRMoOAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从Context源码实现谈React性能优化</title>
-    <updated>2020-12-21T15:29:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/n-id4fn5tRqlnBmw0ngzqQ</id>
-    <link href="https://mp.weixin.qq.com/s/n-id4fn5tRqlnBmw0ngzqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

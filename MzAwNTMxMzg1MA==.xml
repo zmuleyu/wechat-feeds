@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:42:14+08:00</updated>
+  <updated>2020-12-31T20:23:28+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/u-I-KFkh_d0IkewkAKiaNA</id>
+    <link href="https://mp.weixin.qq.com/s/u-I-KFkh_d0IkewkAKiaNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dapr微服务应用开发系列3：服务调用构件块</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/F5F259IpuxaLNIpIYH_E5w</id>
+    <link href="https://mp.weixin.qq.com/s/F5F259IpuxaLNIpIYH_E5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【源码解读】Vue与ASP.NET Core WebAPI的集成</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/sqlqGG4aFy2JWxj96kGnPg</id>
+    <link href="https://mp.weixin.qq.com/s/sqlqGG4aFy2JWxj96kGnPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>玩转git-flow工作流-分支解析</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/KQBgo7OAOGNJIhlqavV6WQ</id>
+    <link href="https://mp.weixin.qq.com/s/KQBgo7OAOGNJIhlqavV6WQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 ASP.NET Core 中使用 ActionFilter</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/dYzTqsJaEVwBlF2Jj8GlJg</id>
+    <link href="https://mp.weixin.qq.com/s/dYzTqsJaEVwBlF2Jj8GlJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>引入Jaeger——使用</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/NsP-sWzm1m7T8XnacJcu9A</id>
+    <link href="https://mp.weixin.qq.com/s/NsP-sWzm1m7T8XnacJcu9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>灵魂拷问：你和大佬，技术差距有多大？</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Uc1-C4tL1GA3NT0OOeqmZQ</id>
+    <link href="https://mp.weixin.qq.com/s/Uc1-C4tL1GA3NT0OOeqmZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>年终将至，回顾我们一起走过的 2020</title>
+    <updated>2020-12-31T19:29:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/N8e05GpfTq_jBXbQ1wRRBw</id>
+    <link href="https://mp.weixin.qq.com/s/N8e05GpfTq_jBXbQ1wRRBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>蚂蚁调度AntJob-分布式任务调度系统</title>
     <updated>2020-12-30T07:48:25+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2020-12-29T08:19:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/H-YxZZ1j6JVqC5OLAOT6dA</id>
     <link href="https://mp.weixin.qq.com/s/H-YxZZ1j6JVqC5OLAOT6dA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BeetleX自定义http/websocket压测用例视频</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/0EvGc_lQfJbcow-RgZosEA</id>
-    <link href="https://mp.weixin.qq.com/s/0EvGc_lQfJbcow-RgZosEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明源云·天际，地产⾏业的Salesforce Lightning Platform</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/sssR_SND7_e9RBmr7vXIwA</id>
-    <link href="https://mp.weixin.qq.com/s/sssR_SND7_e9RBmr7vXIwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>asp.net core中使用cookie身份验证</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/jHyJRmUzUC14keuaX3-8yw</id>
-    <link href="https://mp.weixin.qq.com/s/jHyJRmUzUC14keuaX3-8yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Vue】Vue与ASP.NET Core WebAPI的集成</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/BVHLOOcbQadaRvszul0JAA</id>
-    <link href="https://mp.weixin.qq.com/s/BVHLOOcbQadaRvszul0JAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刚转Java？那准备转回.NET5吧！</title>
-    <updated>2020-12-28T08:16:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/1OAMkYGvcl4AKGkWrkOuQQ</id>
-    <link href="https://mp.weixin.qq.com/s/1OAMkYGvcl4AKGkWrkOuQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>龙芯.NET正式发布 稳步推进生态建设</title>
-    <updated>2020-12-28T08:16:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/M6g8lsb2lti6WnYTGoqbYg</id>
-    <link href="https://mp.weixin.qq.com/s/M6g8lsb2lti6WnYTGoqbYg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 xunit 测试项目中使用依赖注入</title>
-    <updated>2020-12-28T08:16:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/lGH0uGHo5KVxBumjK2phQQ</id>
-    <link href="https://mp.weixin.qq.com/s/lGH0uGHo5KVxBumjK2phQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何解决在ASP.NET Core中找不到图像时设置默认图像</title>
-    <updated>2020-12-28T08:16:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3gSH79ODorlT7fDAX34D7g</id>
-    <link href="https://mp.weixin.qq.com/s/3gSH79ODorlT7fDAX34D7g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

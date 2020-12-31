@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:37:57+08:00</updated>
+  <updated>2020-12-31T20:31:25+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>34c3ctf-v9</title>
+    <updated>2020-12-31T17:38:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/wPLh7CuOBzTIhJzWVemx0Q</id>
+    <link href="https://mp.weixin.qq.com/s/wPLh7CuOBzTIhJzWVemx0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CVE-2016-4952漏洞复现———Qemu拒绝服务漏洞</title>
+    <updated>2020-12-31T17:38:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/YTjZB5dgGoD7rJXR8G7EVA</id>
+    <link href="https://mp.weixin.qq.com/s/YTjZB5dgGoD7rJXR8G7EVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详解模板注入漏洞（上）</title>
+    <updated>2020-12-31T17:38:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/qJZ0IuA_6sB_8CGaal76gA</id>
+    <link href="https://mp.weixin.qq.com/s/qJZ0IuA_6sB_8CGaal76gA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 蓝帽杯线下赛PWN WriteUp</title>
     <updated>2020-12-30T17:33:58+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-24T17:52:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/LalioxgMTXJ6oHYyDN5gCw</id>
     <link href="https://mp.weixin.qq.com/s/LalioxgMTXJ6oHYyDN5gCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HTTP协议攻击方法汇总（下）</title>
-    <updated>2020-12-23T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/042teA1qFJE_OxGEB8qyEA</id>
-    <link href="https://mp.weixin.qq.com/s/042teA1qFJE_OxGEB8qyEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | VIPKID招聘安全工程师</title>
-    <updated>2020-12-23T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/zb5JDf1aBFlsLvdWQvfPVQ</id>
-    <link href="https://mp.weixin.qq.com/s/zb5JDf1aBFlsLvdWQvfPVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>非侵入式负载监测中的隐私保护：不同的隐私视角</title>
-    <updated>2020-12-23T17:45:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/LCDBDhOfBA8apL7QtHBqFw</id>
-    <link href="https://mp.weixin.qq.com/s/LCDBDhOfBA8apL7QtHBqFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

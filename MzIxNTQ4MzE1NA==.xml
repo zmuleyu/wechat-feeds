@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>why技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:22:58+08:00</updated>
+  <updated>2020-12-31T20:33:27+08:00</updated>
   <subtitle>一个被代码耽误的文学创作者，不是大佬，但是喜欢分享，是一个又暖又有料的四川好男人。在这里我会分享一些java技术相关的知识，用匠心敲代码，对每一行代码负责。偶尔也会荒腔走板的聊一聊生活，写一写书评、影评。感谢你的关注，愿你我共同进步。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这一年，我交卷了：《2020，我这一年。》&#xA;很长，别看了。点击链接之后，直接拉到留言区吧。</title>
+    <updated>2020-12-31T18:28:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/V-gjLfIlSbmPDknY6sMEeQ</id>
+    <link href="https://mp.weixin.qq.com/s/V-gjLfIlSbmPDknY6sMEeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>其实吧，LRU也就那么回事。</title>
     <updated>2020-12-28T02:13:17+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-23T22:07:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/7WrQbNLUeb49afRX3lqy0g</id>
     <link href="https://mp.weixin.qq.com/s/7WrQbNLUeb49afRX3lqy0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官问我：什么是高并发下的请求合并？</title>
-    <updated>2020-11-22T23:29:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/v8VmQKveQEF76gecGXCQZQ</id>
-    <link href="https://mp.weixin.qq.com/s/v8VmQKveQEF76gecGXCQZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

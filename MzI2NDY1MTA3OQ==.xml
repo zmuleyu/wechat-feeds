@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>铭毅天下Elasticsearch | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:23:07+08:00</updated>
+  <updated>2020-12-31T20:33:36+08:00</updated>
   <subtitle>Elasticsearch技术基础、进阶、实战第一公众号！ 和你一起，死磕ELK Stack（Elasticsearch/Logstash/Kibana/Beats）!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>靠写作杀出一条“血”路——我的2020年终总结</title>
+    <updated>2020-12-31T18:11:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/_fHgMtwp2MjO9p14te-plA</id>
+    <link href="https://mp.weixin.qq.com/s/_fHgMtwp2MjO9p14te-plA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Elasticsearch 高基数聚合性能提升3倍，改动了什么？</title>
     <updated>2020-12-28T23:25:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T22:26:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/_at38HfkKotB8pdp4wgItg</id>
     <link href="https://mp.weixin.qq.com/s/_at38HfkKotB8pdp4wgItg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从一个实战问题再谈 Elasticsearch 数据建模</title>
-    <updated>2020-11-28T00:55:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/lGrNd-O_hmlEQcTc7OykmQ</id>
-    <link href="https://mp.weixin.qq.com/s/lGrNd-O_hmlEQcTc7OykmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

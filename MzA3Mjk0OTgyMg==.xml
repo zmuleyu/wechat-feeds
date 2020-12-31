@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>VALSE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T23:14:27+08:00</updated>
+  <updated>2020-12-31T20:22:55+08:00</updated>
   <subtitle>VALSE（Vision and Learning Seminar） 年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者提供一个深层次学术交流的舞台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VALSE Webinar 2021-01期，总第225期 视频理解技术</title>
+    <updated>2020-12-31T18:16:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/LNPxA50VNqOOEiehydOLZQ</id>
+    <link href="https://mp.weixin.qq.com/s/LNPxA50VNqOOEiehydOLZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VALSE Webinar 20-31期 医学图像分割</title>
     <updated>2020-12-24T22:00:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-16T19:10:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/uJxM_pHPbm5PcJZzau6Mag</id>
     <link href="https://mp.weixin.qq.com/s/uJxM_pHPbm5PcJZzau6Mag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VALSE Webinar 20-25期 自监督学习</title>
-    <updated>2020-10-09T19:01:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-09:/s/ISYWChHxC-vaLHEftLm44w</id>
-    <link href="https://mp.weixin.qq.com/s/ISYWChHxC-vaLHEftLm44w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

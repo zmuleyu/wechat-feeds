@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云加社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:31:13+08:00</updated>
+  <updated>2020-12-31T20:22:58+08:00</updated>
   <subtitle>腾讯云官方社区公众号，汇聚技术开发者群体，分享技术干货，打造技术影响力交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年大前端技术趋势解读</title>
+    <updated>2020-12-31T18:43:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/JEkX2mqxvq1-hCCX7btjcQ</id>
+    <link href="https://mp.weixin.qq.com/s/JEkX2mqxvq1-hCCX7btjcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯云基于Alluxio优化计算存储分离架构的最佳实践</title>
     <updated>2020-12-30T17:44:30+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-18T18:49:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/VZB9pyPaP9Cz5cnYEm4C_A</id>
     <link href="https://mp.weixin.qq.com/s/VZB9pyPaP9Cz5cnYEm4C_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯云Elasticsearch集群多可用区容灾实现原理及最佳实践</title>
-    <updated>2020-12-18T19:16:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/7VzmoK4ZsVfnJflEs_B9tA</id>
-    <link href="https://mp.weixin.qq.com/s/7VzmoK4ZsVfnJflEs_B9tA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Techo Park-腾讯连连IoT开发大赛等你挑战</title>
-    <updated>2020-12-18T19:16:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/M0PJhsXcm1cNAna_vniOqQ</id>
-    <link href="https://mp.weixin.qq.com/s/M0PJhsXcm1cNAna_vniOqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

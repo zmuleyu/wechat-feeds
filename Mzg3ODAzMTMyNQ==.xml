@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:30:46+08:00</updated>
+  <updated>2020-12-31T20:13:35+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 探针详解！</title>
+    <updated>2020-12-31T18:36:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/djxuuiZZT-f52vkF8nsWNA</id>
+    <link href="https://mp.weixin.qq.com/s/djxuuiZZT-f52vkF8nsWNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>周一见 | Vitess 项目报告、Kafka v2.7.0 正式发布、机器学习平台 Klever 开源</title>
     <updated>2020-12-28T18:43:54+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-04T18:11:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/KlaPtXZICxr45avaI9h2Ow</id>
     <link href="https://mp.weixin.qq.com/s/KlaPtXZICxr45avaI9h2Ow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 调度详解！</title>
-    <updated>2020-12-02T18:21:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/5J0Ojq95d3Yj1u36e3WQfQ</id>
-    <link href="https://mp.weixin.qq.com/s/5J0Ojq95d3Yj1u36e3WQfQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

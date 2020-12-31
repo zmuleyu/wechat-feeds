@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Netwarps | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:47:01+08:00</updated>
+  <updated>2020-12-31T20:25:11+08:00</updated>
   <subtitle>互联网安全存储基础设施提供商</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Netwarps 祝大家元旦快乐！</title>
+    <updated>2020-12-31T13:25:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Ab-T--njxUcZNHXf6yxYsQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ab-T--njxUcZNHXf6yxYsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Netwarps与Rust中文社区共同推动Rust落地实践</title>
     <updated>2020-12-28T14:50:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-10T18:55:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-10:/s/r0bM5wcFvvL0bkblLbPLCQ</id>
     <link href="https://mp.weixin.qq.com/s/r0bM5wcFvvL0bkblLbPLCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么需要 libp2p-rs ？</title>
-    <updated>2020-10-30T16:52:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/muWs5xuyoABn2Kpx2t9ENw</id>
-    <link href="https://mp.weixin.qq.com/s/muWs5xuyoABn2Kpx2t9ENw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

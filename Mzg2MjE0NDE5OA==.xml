@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:18:06+08:00</updated>
+  <updated>2020-12-31T20:12:20+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: 复盘LWN 2020年的预测！</title>
+    <updated>2020-12-31T16:50:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/-OREzoepv4-g86EZ_dpyHA</id>
+    <link href="https://mp.weixin.qq.com/s/-OREzoepv4-g86EZ_dpyHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: GNU Octave发布新版本！</title>
     <updated>2020-12-30T11:37:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T19:10:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/rHt5suR7zSPgwOL6MXoC4w</id>
     <link href="https://mp.weixin.qq.com/s/rHt5suR7zSPgwOL6MXoC4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: 更加不对称的Arm系统上如何调度？</title>
-    <updated>2020-12-15T16:29:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/smfaNdaZJlHOKymueXUMQg</id>
-    <link href="https://mp.weixin.qq.com/s/smfaNdaZJlHOKymueXUMQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
