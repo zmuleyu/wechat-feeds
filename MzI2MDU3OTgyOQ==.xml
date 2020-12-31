@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜索与推荐Wiki | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T13:46:11+08:00</updated>
+  <updated>2020-12-31T13:44:38+08:00</updated>
   <subtitle>专注于搜索和推荐系统，以系列分享为主，持续打造精品内容！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GNN之从deepwalk到GraphSAGE、GCN、GAT</title>
+    <updated>2020-12-31T09:52:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/dh6ermw3n3bqfJ85SU_vbw</id>
+    <link href="https://mp.weixin.qq.com/s/dh6ermw3n3bqfJ85SU_vbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这是一份从入门到精通NLP的知识点清单</title>
     <updated>2020-12-30T08:58:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T11:58:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/xXYkySG7JHuCux862jXwcQ</id>
     <link href="https://mp.weixin.qq.com/s/xXYkySG7JHuCux862jXwcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊一聊海量公众号下我是如何进行筛选和内容消费的</title>
-    <updated>2020-12-06T18:15:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/FQ5AGRo7aoRi-rcKWUmVww</id>
-    <link href="https://mp.weixin.qq.com/s/FQ5AGRo7aoRi-rcKWUmVww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

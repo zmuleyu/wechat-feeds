@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T11:25:09+08:00</updated>
+  <updated>2020-12-31T13:37:23+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>40张图看懂分布式追踪系统原理及实践</title>
+    <updated>2020-12-31T11:03:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/MTk6WF161Ob8sBdpnboFgg</id>
+    <link href="https://mp.weixin.qq.com/s/MTk6WF161Ob8sBdpnboFgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一杯茶的功夫，上手Redis持久化机制</title>
     <updated>2020-12-29T09:35:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T10:15:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/P_KTvzZohFG4DwUVl7nQ7A</id>
     <link href="https://mp.weixin.qq.com/s/P_KTvzZohFG4DwUVl7nQ7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>顺丰快递：请签收MySQL灵魂十连</title>
-    <updated>2020-12-15T09:45:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/KB73550tKpNccW-WKxT7-A</id>
-    <link href="https://mp.weixin.qq.com/s/KB73550tKpNccW-WKxT7-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

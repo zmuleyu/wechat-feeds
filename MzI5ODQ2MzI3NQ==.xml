@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T23:15:36+08:00</updated>
+  <updated>2020-12-31T13:29:35+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>啥？Java不行了？别开玩笑，大厂现在抢着要！</title>
+    <updated>2020-12-31T11:28:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ndM0wxj4Ds8O_mzGxyxObg</id>
+    <link href="https://mp.weixin.qq.com/s/ndM0wxj4Ds8O_mzGxyxObg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes服务类型浅析：从概念到实践</title>
+    <updated>2020-12-31T11:28:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/4LTSt0e_6VQu3RIlGJTumw</id>
+    <link href="https://mp.weixin.qq.com/s/4LTSt0e_6VQu3RIlGJTumw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>年终盘点 | 2020年，国内私有云正式进入3.0时代</title>
     <updated>2020-12-30T20:35:11+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>淘宝千万级并发架构之nginx！</title>
-    <updated>2020-12-25T10:47:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/bCSMbQy2tqaOk6Q_29RQjw</id>
-    <link href="https://mp.weixin.qq.com/s/bCSMbQy2tqaOk6Q_29RQjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Apache Kafka 2.7.0发布，加速移除Zookeeper</title>
     <updated>2020-12-25T10:47:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/C2s5RMH6H0dXLtbvTVzGxA</id>
@@ -89,13 +96,6 @@
     <updated>2020-12-22T12:49:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/zYO03h-QSGSjtTD6ZQLPxQ</id>
     <link href="https://mp.weixin.qq.com/s/zYO03h-QSGSjtTD6ZQLPxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>替代Kubernetes？容器调度工具HashiCorp Nomad发布1.0版，可扩展超过1万个节点</title>
-    <updated>2020-12-20T23:47:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/C434PJyEFQCt5F-OebSMkw</id>
-    <link href="https://mp.weixin.qq.com/s/C434PJyEFQCt5F-OebSMkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
