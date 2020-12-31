@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:23:52+08:00</updated>
+  <updated>2020-12-31T23:16:13+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GoCN社区：2020感谢有你，2021一起加油</title>
+    <updated>2020-12-31T21:00:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ReKKgxASAKr9ZV6COStx5Q</id>
+    <link href="https://mp.weixin.qq.com/s/ReKKgxASAKr9ZV6COStx5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go 开源说第二期：GORM 剖析与最佳实践</title>
     <updated>2020-12-30T19:16:30+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-14T16:02:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/xElA-MR67C8MFb1BOcxAwA</id>
     <link href="https://mp.weixin.qq.com/s/xElA-MR67C8MFb1BOcxAwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[好书推荐] Kubernetes微服务实战文档</title>
-    <updated>2020-12-13T10:40:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/jMKX_ulIvOGx1s7kAy6rrA</id>
-    <link href="https://mp.weixin.qq.com/s/jMKX_ulIvOGx1s7kAy6rrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
