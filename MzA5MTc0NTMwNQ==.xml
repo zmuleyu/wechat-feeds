@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:20:20+08:00</updated>
+  <updated>2020-12-31T11:47:15+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Twitter 如何将 Kafka 当做一个存储系统</title>
+    <updated>2020-12-31T08:52:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/lIQ_Vtqn90b1z7-pjGWYIA</id>
+    <link href="https://mp.weixin.qq.com/s/lIQ_Vtqn90b1z7-pjGWYIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最新大数据资料合集.pdf</title>
+    <updated>2020-12-31T08:52:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/a3dKeB2LABSWi_PBj_XJsw</id>
+    <link href="https://mp.weixin.qq.com/s/a3dKeB2LABSWi_PBj_XJsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>学历内卷，可我竟在一线大厂混得很好！</title>
     <updated>2020-12-29T09:45:27+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-21T17:28:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/_v2oaWL-PFU15LsscVL6hw</id>
     <link href="https://mp.weixin.qq.com/s/_v2oaWL-PFU15LsscVL6hw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>贝壳找房 OLAP 平台实践</title>
-    <updated>2020-12-20T18:52:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/dZQviKlHwX5tCV3LRozyaQ</id>
-    <link href="https://mp.weixin.qq.com/s/dZQviKlHwX5tCV3LRozyaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

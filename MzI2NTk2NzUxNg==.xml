@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端巅峰 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:38:06+08:00</updated>
+  <updated>2020-12-31T11:45:49+08:00</updated>
   <subtitle>前端、Node.js、算法、架构、源码，你想要的都有</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一位普通前端的2020年总结</title>
+    <updated>2020-12-30T23:41:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/1MTQda93JSOx8ohsjDDeBA</id>
+    <link href="https://mp.weixin.qq.com/s/1MTQda93JSOx8ohsjDDeBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「1.5W字进阶」年终送给react开发者的八条优化建议</title>
     <updated>2020-12-29T23:56:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T19:20:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/JUwZQzOW3NhPo_0vysBYqA</id>
     <link href="https://mp.weixin.qq.com/s/JUwZQzOW3NhPo_0vysBYqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Node.js实现自动生成重复代码</title>
-    <updated>2020-12-14T17:09:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/gsZX0IDvb6HxYOUrHyfTug</id>
-    <link href="https://mp.weixin.qq.com/s/gsZX0IDvb6HxYOUrHyfTug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

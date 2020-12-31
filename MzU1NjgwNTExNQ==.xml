@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:33:54+08:00</updated>
+  <updated>2020-12-31T11:32:28+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 最后一天了，今天上硬货！</title>
+    <updated>2020-12-30T22:29:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/F8QMwck-IepG9UGlfkDuKQ</id>
+    <link href="https://mp.weixin.qq.com/s/F8QMwck-IepG9UGlfkDuKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>发布即开源：小米11已开源内核代码</title>
+    <updated>2020-12-30T22:29:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Jo1_awL4GQHuwMOCtQkeIw</id>
+    <link href="https://mp.weixin.qq.com/s/Jo1_awL4GQHuwMOCtQkeIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Android 站队 Kotlin 后，JetBrains 估值 70 亿美元</title>
     <updated>2020-12-29T20:18:29+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-12-21T21:07:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/lKn2Hs1Xh9jbiN2OBLOttQ</id>
     <link href="https://mp.weixin.qq.com/s/lKn2Hs1Xh9jbiN2OBLOttQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为这场开发者年终活动让我怀疑人生！</title>
-    <updated>2020-12-21T18:09:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/eGuv3u0AvIW-547MAsjTYA</id>
-    <link href="https://mp.weixin.qq.com/s/eGuv3u0AvIW-547MAsjTYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>英特尔危机到来，继苹果之后微软也开始自研芯片</title>
-    <updated>2020-12-21T18:09:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/OwCb2rpgIGiyoE1FgdP1sA</id>
-    <link href="https://mp.weixin.qq.com/s/OwCb2rpgIGiyoE1FgdP1sA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

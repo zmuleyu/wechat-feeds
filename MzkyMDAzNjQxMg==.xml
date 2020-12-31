@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新世界杂货铺 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T20:37:50+08:00</updated>
+  <updated>2020-12-31T11:32:24+08:00</updated>
   <subtitle>作为一名Gopher， 我愿称之为Go的干(杂)货铺子！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020总结：稍微努力了一下，依旧是咸鱼一条</title>
+    <updated>2020-12-30T23:35:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/lVS79SlnF25uaXobuEAABg</id>
+    <link href="https://mp.weixin.qq.com/s/lVS79SlnF25uaXobuEAABg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>灵魂一问：数据库连接池到底该怎么配？</title>
     <updated>2020-12-23T13:42:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-14T18:06:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-14:/s/lpyMcc9FWfZRYM4TiK5S-g</id>
     <link href="https://mp.weixin.qq.com/s/lpyMcc9FWfZRYM4TiK5S-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我是Redis，MySQL大哥被我害惨了！</title>
-    <updated>2020-10-12T09:07:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/wQoLPXDlkuXoR65rbMmEFw</id>
-    <link href="https://mp.weixin.qq.com/s/wQoLPXDlkuXoR65rbMmEFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

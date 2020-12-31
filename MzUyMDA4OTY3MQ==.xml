@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:41:20+08:00</updated>
+  <updated>2020-12-31T11:35:38+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于Flink打造实时计算平台为企业赋能</title>
+    <updated>2020-12-30T23:58:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/wOfq_WsXi_4dGnh6EMpEQw</id>
+    <link href="https://mp.weixin.qq.com/s/wOfq_WsXi_4dGnh6EMpEQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 查询 OS、CPU、内存、硬盘信息</title>
+    <updated>2020-12-30T23:58:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/qqa0RdrLEMH-xb78HQRmGQ</id>
+    <link href="https://mp.weixin.qq.com/s/qqa0RdrLEMH-xb78HQRmGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分享24套IT工程师技能图谱.pdf</title>
     <updated>2020-12-29T23:25:46+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-21T23:25:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/FgT6i3aU7pvYjF7L9d37uA</id>
     <link href="https://mp.weixin.qq.com/s/FgT6i3aU7pvYjF7L9d37uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>回顾·基于Impala平台打造交互查询系统</title>
-    <updated>2020-12-21T08:22:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/aq0IpWpu0W10-Lg1ql_Yag</id>
-    <link href="https://mp.weixin.qq.com/s/aq0IpWpu0W10-Lg1ql_Yag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java实现过滤中文乱码</title>
-    <updated>2020-12-21T08:22:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/OaBXUeCatipH3rcXYoYR3Q</id>
-    <link href="https://mp.weixin.qq.com/s/OaBXUeCatipH3rcXYoYR3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

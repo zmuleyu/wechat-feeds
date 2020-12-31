@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:29:52+08:00</updated>
+  <updated>2020-12-31T11:25:39+08:00</updated>
   <subtitle>分享Java实战技术、职场经历、经验感悟，让抽象的技术通俗易懂！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入Spring Boot (十五)：web.xml去哪了</title>
+    <updated>2020-12-31T08:09:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/MlsgqHZZbe0ioKBvCp9duw</id>
+    <link href="https://mp.weixin.qq.com/s/MlsgqHZZbe0ioKBvCp9duw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入Spring Boot (十四)：jar/war打包解决方案</title>
     <updated>2020-12-21T08:10:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-04-26T08:19:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-04-26:/s/v7BcO6lbXk_9rEj8XLo6NA</id>
     <link href="https://mp.weixin.qq.com/s/v7BcO6lbXk_9rEj8XLo6NA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：SpringBoot中关于日志工具的使用，我想问你几个常见问题</title>
-    <updated>2020-04-21T22:07:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-04-21:/s/OwoLFoo_tisW0qJy_Th7Gw</id>
-    <link href="https://mp.weixin.qq.com/s/OwoLFoo_tisW0qJy_Th7Gw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

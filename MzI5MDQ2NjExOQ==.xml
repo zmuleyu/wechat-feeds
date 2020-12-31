@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>信安之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:48:15+08:00</updated>
+  <updated>2020-12-31T11:40:24+08:00</updated>
   <subtitle>专注信息安全技术和经验的分享，坚持原创，不蹭热点</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>针对后端组件的攻击测试</title>
+    <updated>2020-12-30T20:18:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/naddgyWwEluxF9r8HfvCdw</id>
+    <link href="https://mp.weixin.qq.com/s/naddgyWwEluxF9r8HfvCdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次 PowerShell 免杀实战</title>
     <updated>2020-12-29T22:00:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T09:03:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/WrwqPBFf_PfXjM3uVe40IQ</id>
     <link href="https://mp.weixin.qq.com/s/WrwqPBFf_PfXjM3uVe40IQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>绕过客户端验证进行安全测试</title>
-    <updated>2020-12-01T08:48:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/ZtCsZISCmXZpXl3VWcwUVQ</id>
-    <link href="https://mp.weixin.qq.com/s/ZtCsZISCmXZpXl3VWcwUVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

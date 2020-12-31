@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>酷酷的哀殿 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:38:06+08:00</updated>
+  <updated>2020-12-31T11:45:40+08:00</updated>
   <subtitle>程序员求生技能分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年度 GitHub 盘点 - 酷酷的哀殿</title>
+    <updated>2020-12-30T23:41:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/J19LGpN5nZNya9wu1f7B4w</id>
+    <link href="https://mp.weixin.qq.com/s/J19LGpN5nZNya9wu1f7B4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>iOS 崩溃排查技巧：如何获取系统库源码</title>
     <updated>2020-12-21T21:15:49+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-09-16T09:06:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/Uew8thGAfGL1roB9Sf5NdQ</id>
     <link href="https://mp.weixin.qq.com/s/Uew8thGAfGL1roB9Sf5NdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文看破Swift枚举本质</title>
-    <updated>2020-09-14T22:27:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-14:/s/hUfg9svA-0QZ-OzDBPnIEA</id>
-    <link href="https://mp.weixin.qq.com/s/hUfg9svA-0QZ-OzDBPnIEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

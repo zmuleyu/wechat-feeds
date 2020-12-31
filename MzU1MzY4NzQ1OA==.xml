@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:11:18+08:00</updated>
+  <updated>2020-12-31T11:46:52+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里彻底拆中台了！大厂的架构设计到底追求什么？</title>
+    <updated>2020-12-31T00:19:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Ncy8T8WhvLgW04fe3mChqg</id>
+    <link href="https://mp.weixin.qq.com/s/Ncy8T8WhvLgW04fe3mChqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 Kubernetes 中部署高可用 Harbor 镜像仓库</title>
     <updated>2020-12-30T17:36:12+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-21T23:10:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/LaTWFsOFQmLcbzZEk3CSuw</id>
     <link href="https://mp.weixin.qq.com/s/LaTWFsOFQmLcbzZEk3CSuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 1.16 中关于 go get 和 go install 你必须注意的地方</title>
-    <updated>2020-12-21T16:43:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Sj-Iza8N481U_2EA233ekw</id>
-    <link href="https://mp.weixin.qq.com/s/Sj-Iza8N481U_2EA233ekw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:38:03+08:00</updated>
+  <updated>2020-12-31T11:32:47+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SpringBoot条件注解的底层实现原理</title>
+    <updated>2020-12-31T09:02:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/un9IpOo7j0xakXCypz0CPA</id>
+    <link href="https://mp.weixin.qq.com/s/un9IpOo7j0xakXCypz0CPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文读懂微内核架构</title>
     <updated>2020-12-29T22:31:14+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-19T14:11:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/x9QYMKotHdBRFuicUURdhg</id>
     <link href="https://mp.weixin.qq.com/s/x9QYMKotHdBRFuicUURdhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SQL常见的8种错误用法，你中招了吗？</title>
-    <updated>2020-12-18T11:38:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/zcXQ9cB2ZwdZI6auc22umQ</id>
-    <link href="https://mp.weixin.qq.com/s/zcXQ9cB2ZwdZI6auc22umQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

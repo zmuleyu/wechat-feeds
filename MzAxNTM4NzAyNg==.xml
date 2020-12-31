@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员内点事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T16:19:13+08:00</updated>
+  <updated>2020-12-31T11:25:28+08:00</updated>
   <subtitle>专注于系统架构实战，面试干货分享，Java小白的入门布道，程序员内点事这都有</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020最后一天，送 40 本书，40 个offer</title>
+    <updated>2020-12-30T17:42:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/vIDVABwRnPFuZ6UuJClqvg</id>
+    <link href="https://mp.weixin.qq.com/s/vIDVABwRnPFuZ6UuJClqvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干掉 powerdesigner，设计数据库表用它就够了</title>
     <updated>2020-12-30T16:17:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-12T18:20:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/g2PjQoUz6wWmmtmcT6Elzw</id>
     <link href="https://mp.weixin.qq.com/s/g2PjQoUz6wWmmtmcT6Elzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分库分表的 9种分布式主键ID 生成方案，挺全乎的</title>
-    <updated>2020-11-09T11:22:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/x1gVtnKh2OEAzSwv0sFDxg</id>
-    <link href="https://mp.weixin.qq.com/s/x1gVtnKh2OEAzSwv0sFDxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

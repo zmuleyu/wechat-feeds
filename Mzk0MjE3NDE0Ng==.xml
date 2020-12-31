@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T11:33:35+08:00</updated>
+  <updated>2020-12-31T11:38:13+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自制 os 极简教程 3：你离内核还差十万八千里</title>
+    <updated>2020-12-30T19:53:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/-XSzj74d3tJJT5uGvRVVPQ</id>
+    <link href="https://mp.weixin.qq.com/s/-XSzj74d3tJJT5uGvRVVPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>您的营业执照显示态关闭</title>
     <updated>2020-12-27T20:39:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-29T09:48:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/ba5Ry7hn8Q9A-qLaGnXjcQ</id>
     <link href="https://mp.weixin.qq.com/s/ba5Ry7hn8Q9A-qLaGnXjcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>老板让只懂Java基本语法的我，基于AQS实现一个锁</title>
-    <updated>2020-11-20T09:21:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/1Nq_izUkOGmtvkIQ9c0QRQ</id>
-    <link href="https://mp.weixin.qq.com/s/1Nq_izUkOGmtvkIQ9c0QRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

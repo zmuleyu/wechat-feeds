@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T13:37:05+08:00</updated>
+  <updated>2020-12-31T11:35:19+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 中使用 反射</title>
+    <updated>2020-12-31T10:19:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/4nNcxFgkXD3jC5HcIoEAuw</id>
+    <link href="https://mp.weixin.qq.com/s/4nNcxFgkXD3jC5HcIoEAuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 代码生成二维码方法及代码示例（QRCoder）</title>
+    <updated>2020-12-31T10:19:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/6d1HSJOokBdRAWNktAZ5lg</id>
+    <link href="https://mp.weixin.qq.com/s/6d1HSJOokBdRAWNktAZ5lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>程序员过关斩将--请不要误会redis 6.0 的多线程</title>
+    <updated>2020-12-31T10:19:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/wu6_kcj7DdF8hzIJq_WZNA</id>
+    <link href="https://mp.weixin.qq.com/s/wu6_kcj7DdF8hzIJq_WZNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>自学Python后，获得人生的第一桶金！</title>
+    <updated>2020-12-31T10:19:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/M4ZYeJLR0bLkkaKBewRfuQ</id>
+    <link href="https://mp.weixin.qq.com/s/M4ZYeJLR0bLkkaKBewRfuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.NET Core 中使用 ActionFilter</title>
     <updated>2020-12-30T12:36:19+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-25T15:20:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/A2BcWqCp85vfUZd514COCg</id>
     <link href="https://mp.weixin.qq.com/s/A2BcWqCp85vfUZd514COCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 Buffer</title>
-    <updated>2020-12-25T15:20:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/8lbl-bzUVRKHoe8HTQNjAw</id>
-    <link href="https://mp.weixin.qq.com/s/8lbl-bzUVRKHoe8HTQNjAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET SDK-Style 项目（Core、Standard、.NET5）中的版本号</title>
-    <updated>2020-12-25T15:20:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/5J0umh6sch7wlBbi8P1xJQ</id>
-    <link href="https://mp.weixin.qq.com/s/5J0umh6sch7wlBbi8P1xJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 const，readonly，static</title>
-    <updated>2020-12-24T09:33:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/M5ASyyWVTwhKR1AFszvw8A</id>
-    <link href="https://mp.weixin.qq.com/s/M5ASyyWVTwhKR1AFszvw8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《等的就是爱.NET的你》，一封来自长沙.NET技术社区技术沙龙的活动邀请函</title>
-    <updated>2020-12-24T09:33:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/2Y41VniWz2l8nc9cEj7iZA</id>
-    <link href="https://mp.weixin.qq.com/s/2Y41VniWz2l8nc9cEj7iZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

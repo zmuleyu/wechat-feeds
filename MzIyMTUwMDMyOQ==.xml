@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:32:51+08:00</updated>
+  <updated>2020-12-31T11:38:13+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rancher年终盘点丨历尽千帆，岁月可期</title>
+    <updated>2020-12-31T10:59:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ACasRHO0TSjVTgOACtqy_A</id>
+    <link href="https://mp.weixin.qq.com/s/ACasRHO0TSjVTgOACtqy_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>配置 containerd 镜像仓库完全攻略</title>
     <updated>2020-12-30T16:01:36+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-16T17:21:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/Sl3JTZGaPutgXRIgCt5rBA</id>
     <link href="https://mp.weixin.qq.com/s/Sl3JTZGaPutgXRIgCt5rBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rancher×凡泰极客：移动开发者如何抓住云原生时代红利？</title>
-    <updated>2020-12-15T15:19:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/BNHkfNQdz_kHlK7D9Wzawg</id>
-    <link href="https://mp.weixin.qq.com/s/BNHkfNQdz_kHlK7D9Wzawg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
