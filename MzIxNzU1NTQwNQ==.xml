@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T23:21:02+08:00</updated>
+  <updated>2021-01-01T02:00:54+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>加油，了不起的你！</title>
+    <updated>2020-12-31T23:45:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/EdC4bCaZ1KGhY7miI3mMaQ</id>
+    <link href="https://mp.weixin.qq.com/s/EdC4bCaZ1KGhY7miI3mMaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年最后一天来了一份全民“红包”，康辉：国家有担当</title>
     <updated>2020-12-31T22:37:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T11:35:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/heCTSDu0debfaeoVNFnjmg</id>
     <link href="https://mp.weixin.qq.com/s/heCTSDu0debfaeoVNFnjmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重磅！中国新冠病毒疫苗获批上市</title>
-    <updated>2020-12-31T10:17:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/qhPIIM5-2NjRvTBWGm8eBw</id>
-    <link href="https://mp.weixin.qq.com/s/qhPIIM5-2NjRvTBWGm8eBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

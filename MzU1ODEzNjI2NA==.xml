@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>滴滴技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:24:57+08:00</updated>
+  <updated>2021-01-01T02:03:33+08:00</updated>
   <subtitle>滴滴出行官方技术号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分享图片</title>
+    <updated>2021-01-01T00:22:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/2dvpsevlwKg5_rsk8CCMZg</id>
+    <link href="https://mp.weixin.qq.com/s/2dvpsevlwKg5_rsk8CCMZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>您的滴滴2020年度出行报告，请查收！</title>
     <updated>2020-12-31T19:33:19+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-30T20:08:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/_76SkW3SAzzEhY1pMbOUJg</id>
     <link href="https://mp.weixin.qq.com/s/_76SkW3SAzzEhY1pMbOUJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计价系统在滴滴的应用与实践</title>
-    <updated>2020-11-25T21:58:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/hV0_pDRBisr_vOwKpqjdYQ</id>
-    <link href="https://mp.weixin.qq.com/s/hV0_pDRBisr_vOwKpqjdYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
