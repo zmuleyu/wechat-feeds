@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肥朝 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T16:31:32+08:00</updated>
+  <updated>2020-12-31T16:33:10+08:00</updated>
   <subtitle>肥朝 是一个专注于 原理、源码、开发技巧的技术公众号，号内原创专题式源码解析、真实场景源码原理实战（重点）。关注肥朝，让本该造火箭的你，不再拧螺丝！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务架构中配置中心的选择</title>
+    <updated>2020-12-31T12:37:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/PCw30Yebq6NfiDw9lm5zQA</id>
+    <link href="https://mp.weixin.qq.com/s/PCw30Yebq6NfiDw9lm5zQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次通过Arthas定位解决spring-boot中内嵌tomcat的Bug问题</title>
     <updated>2020-12-30T13:15:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T17:01:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/OCVMxi2kqTU7DZKvVrNkCw</id>
     <link href="https://mp.weixin.qq.com/s/OCVMxi2kqTU7DZKvVrNkCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实例告诉你如何把 if-else 重构成高质量代码！</title>
-    <updated>2020-12-20T11:53:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/uhGyqjOPtg-piBf9vX8y9w</id>
-    <link href="https://mp.weixin.qq.com/s/uhGyqjOPtg-piBf9vX8y9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

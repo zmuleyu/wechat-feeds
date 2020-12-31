@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T16:37:08+08:00</updated>
+  <updated>2020-12-31T16:38:44+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>吐槽：Python正在从简明转向臃肿，从实用转向媚俗</title>
+    <updated>2020-12-30T21:08:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/m9f_l_wP_ivAGQ1OXcpwEA</id>
+    <link href="https://mp.weixin.qq.com/s/m9f_l_wP_ivAGQ1OXcpwEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年，你应该知道的Python打包指南</title>
     <updated>2020-12-29T22:31:09+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-20T20:10:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/pJMS5WxUB1tasdRReLAHoQ</id>
     <link href="https://mp.weixin.qq.com/s/pJMS5WxUB1tasdRReLAHoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 源码混淆与加密</title>
-    <updated>2020-12-20T19:12:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/oQUfFIX3BK8_5-cRz-BaRg</id>
-    <link href="https://mp.weixin.qq.com/s/oQUfFIX3BK8_5-cRz-BaRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

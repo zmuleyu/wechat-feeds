@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T13:40:41+08:00</updated>
+  <updated>2020-12-31T16:35:39+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>贝叶斯分析助你成为优秀的调参侠：自动化搜索物理模型的参数空间</title>
+    <updated>2020-12-31T13:18:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/qou0uUQVsU306KvB5JMKVg</id>
+    <link href="https://mp.weixin.qq.com/s/qou0uUQVsU306KvB5JMKVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>AAAI 2021 | 在手机上实现19FPS实时的YOLObile目标检测</title>
+    <updated>2020-12-31T13:18:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/VOtzSc3g2IYxKLRDUfDjdA</id>
+    <link href="https://mp.weixin.qq.com/s/VOtzSc3g2IYxKLRDUfDjdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>现代 C++ 基础知识，初学者建议收藏！</title>
     <updated>2020-12-30T13:01:33+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-22T12:07:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/i2-tPUqjcQCWKsT6snDRvA</id>
     <link href="https://mp.weixin.qq.com/s/i2-tPUqjcQCWKsT6snDRvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎么样才算是精通 C++？</title>
-    <updated>2020-12-21T12:52:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/DwhR1I1lBy_VINcW8xxmoA</id>
-    <link href="https://mp.weixin.qq.com/s/DwhR1I1lBy_VINcW8xxmoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI 2021 | 从语义关系建模的角度进行句子语义关系匹配</title>
-    <updated>2020-12-21T12:52:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/fEb8nOGMyRNbCch0NKbXIQ</id>
-    <link href="https://mp.weixin.qq.com/s/fEb8nOGMyRNbCch0NKbXIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
