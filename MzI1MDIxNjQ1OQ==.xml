@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>未读代码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:32:50+08:00</updated>
+  <updated>2021-01-02T01:46:50+08:00</updated>
   <subtitle>一线技术工具人的学习、思考与见闻。本公众号专注分享 Java 相关技术干货！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 往日不可追，2021 来日犹可期</title>
+    <updated>2021-01-01T23:57:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/_hk14yTP4XqJRHaxq34ZWg</id>
+    <link href="https://mp.weixin.qq.com/s/_hk14yTP4XqJRHaxq34ZWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringBoot 的多数据源配置</title>
     <updated>2020-12-30T01:13:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-07T08:00:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-07:/s/6JZjVO3rj5WRgdc88XfA0w</id>
     <link href="https://mp.weixin.qq.com/s/6JZjVO3rj5WRgdc88XfA0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>撸了个多线程断点续传下载器，我从中学习到了这些知识</title>
-    <updated>2020-07-27T08:56:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-27:/s/bI5xYq3jUtp-sviKlzHtNg</id>
-    <link href="https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

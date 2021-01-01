@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一瓜技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T11:33:02+08:00</updated>
+  <updated>2021-01-02T01:54:59+08:00</updated>
   <subtitle>冬瓜的技术号，移动端技术与算法相关技术文章。只发原创，只发干货，只发硬核文章！（原让技术一瓜共食）</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 年文章总汇</title>
+    <updated>2021-01-02T00:36:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/71z6vbkxjzk8SzJCmZeFlw</id>
+    <link href="https://mp.weixin.qq.com/s/71z6vbkxjzk8SzJCmZeFlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 Swift 编写 CLI 工具的入门教程</title>
     <updated>2020-12-28T09:53:08+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-09-02T10:12:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-02:/s/JMG04U-7737GGlnoOKg1Fw</id>
     <link href="https://mp.weixin.qq.com/s/JMG04U-7737GGlnoOKg1Fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个双休对一瓜技术博客做了一次阅读体验升级的小改版，下个双休继续撸一个新的小程序。&#xA;做这些事情都可以为开源的互联网知识做出丝毫的贡献，也希望大家多多参与技术讨论与知识分享。只言片语都记录在了我的扯淡号，欢迎大家阅读「技术博客的改版与思考」。</title>
-    <updated>2020-08-30T22:24:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-30:/s/i07DpJsqnF62LovOXymNCQ</id>
-    <link href="https://mp.weixin.qq.com/s/i07DpJsqnF62LovOXymNCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

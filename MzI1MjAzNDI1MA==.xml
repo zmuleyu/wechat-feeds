@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T23:23:53+08:00</updated>
+  <updated>2021-01-02T01:55:38+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust每周一库】generic-array - 长度为范型的静态数组</title>
+    <updated>2021-01-01T23:40:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/ohLQ9XMHQovxMEGp6S9LLA</id>
+    <link href="https://mp.weixin.qq.com/s/ohLQ9XMHQovxMEGp6S9LLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2021-01-01 2021新年快乐！Rust 1.49发布！</title>
+    <updated>2021-01-01T23:40:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/KLmwPwT8TEcGmRbyCB-fIw</id>
+    <link href="https://mp.weixin.qq.com/s/KLmwPwT8TEcGmRbyCB-fIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2020-12-31 2020年最后一次日报</title>
+    <updated>2021-01-01T23:40:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/roWMeSnDprrRFLyvr8DNEw</id>
+    <link href="https://mp.weixin.qq.com/s/roWMeSnDprrRFLyvr8DNEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【每周一库】- sprs - 用Rust实现的稀疏矩阵库</title>
     <updated>2020-12-31T21:47:58+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-23T20:42:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/SJQbw7PFgcQDJXTLH7I7sg</id>
     <link href="https://mp.weixin.qq.com/s/SJQbw7PFgcQDJXTLH7I7sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】 2020-12-22 Bevy 0.4 发布！</title>
-    <updated>2020-12-23T20:42:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/1z3iOnoSoSQCFk4ESPoXgQ</id>
-    <link href="https://mp.weixin.qq.com/s/1z3iOnoSoSQCFk4ESPoXgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-21 Rust vs Go</title>
-    <updated>2020-12-22T20:49:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/CN0U7bRAmSUQQRZy8_ZREg</id>
-    <link href="https://mp.weixin.qq.com/s/CN0U7bRAmSUQQRZy8_ZREg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust China Conf 2020 详细议程揭晓（中）</title>
-    <updated>2020-12-22T20:49:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Lxa6Md-238bewSjlvqkyOQ</id>
-    <link href="https://mp.weixin.qq.com/s/Lxa6Md-238bewSjlvqkyOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
