@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>信安之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:40:24+08:00</updated>
+  <updated>2021-01-01T11:33:18+08:00</updated>
   <subtitle>专注信息安全技术和经验的分享，坚持原创，不蹭热点</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>总结过去，展望未来，活着最重要</title>
+    <updated>2020-12-31T08:50:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/hhs6ToaA1p8GRDMVlllI3w</id>
+    <link href="https://mp.weixin.qq.com/s/hhs6ToaA1p8GRDMVlllI3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>针对后端组件的攻击测试</title>
     <updated>2020-12-30T20:18:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T08:38:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/VnT804rFasv21buLGDlkyQ</id>
     <link href="https://mp.weixin.qq.com/s/VnT804rFasv21buLGDlkyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给哥斯拉 webshell 管理工具加后门</title>
-    <updated>2020-12-07T09:03:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/WrwqPBFf_PfXjM3uVe40IQ</id>
-    <link href="https://mp.weixin.qq.com/s/WrwqPBFf_PfXjM3uVe40IQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

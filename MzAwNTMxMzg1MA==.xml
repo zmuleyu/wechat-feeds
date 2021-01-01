@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:23:28+08:00</updated>
+  <updated>2021-01-01T11:30:29+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/yuIKV-r1SPEOiBDfSV0iXQ</id>
+    <link href="https://mp.weixin.qq.com/s/yuIKV-r1SPEOiBDfSV0iXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IdentityServer4 之Client Credentials走起来</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/PMdgufDZ4-d6mvNZdvmYoQ</id>
+    <link href="https://mp.weixin.qq.com/s/PMdgufDZ4-d6mvNZdvmYoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 9 新特性——init only setter</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/6u82zppJIU3gipu34AsvOA</id>
+    <link href="https://mp.weixin.qq.com/s/6u82zppJIU3gipu34AsvOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>什么是ASP.NET Core静态Web资产？</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/VkTNZI7rRd2FP2NjyHT-ng</id>
+    <link href="https://mp.weixin.qq.com/s/VkTNZI7rRd2FP2NjyHT-ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 C# 中使用 反射</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/immJJxztWHd7a3meBbRj4w</id>
+    <link href="https://mp.weixin.qq.com/s/immJJxztWHd7a3meBbRj4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Windows Terminal 新手入门</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/tJlOPieNI53naCzduMWSRA</id>
+    <link href="https://mp.weixin.qq.com/s/tJlOPieNI53naCzduMWSRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>银河麒麟V10入选2020中国十大科技新闻</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/F2jNnn-loA6GUh-qb0MVEA</id>
+    <link href="https://mp.weixin.qq.com/s/F2jNnn-loA6GUh-qb0MVEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯公测云开发低码！实战评测</title>
+    <updated>2020-12-31T21:43:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/QJ7k5GeHgdQFrKhj79CGmQ</id>
+    <link href="https://mp.weixin.qq.com/s/QJ7k5GeHgdQFrKhj79CGmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
     <updated>2020-12-31T19:29:07+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2020-12-30T07:48:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/oxrxi2gIMHH3VT9UP28mQA</id>
     <link href="https://mp.weixin.qq.com/s/oxrxi2gIMHH3VT9UP28mQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASP.NET Core Authentication and Authorization</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/03XoCeqU4yu50_gsswC5gg</id>
-    <link href="https://mp.weixin.qq.com/s/03XoCeqU4yu50_gsswC5gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASP.NET Core 依赖注入-集成 Autofac</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/5OatTKEZn4T69oBU7XgeYA</id>
-    <link href="https://mp.weixin.qq.com/s/5OatTKEZn4T69oBU7XgeYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>临近年关，发生两起磁盘占满引发的服务下线故障</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/q5ql0sLpnjV2YGiTIg9eRQ</id>
-    <link href="https://mp.weixin.qq.com/s/q5ql0sLpnjV2YGiTIg9eRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中 自定义中间件</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/DJil4vEjZ2NcW_EzkWQw9w</id>
-    <link href="https://mp.weixin.qq.com/s/DJil4vEjZ2NcW_EzkWQw9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生时代，容器技术对个人的发展有多重要？</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/ARI9pqzxCF7oLpUqh_a3Lw</id>
-    <link href="https://mp.weixin.qq.com/s/ARI9pqzxCF7oLpUqh_a3Lw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 WSL Ubuntu 上使用 .NET 进行跨平台开发新手入门</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/hQ-IyMMZON2kwYXUu3p_Dw</id>
-    <link href="https://mp.weixin.qq.com/s/hQ-IyMMZON2kwYXUu3p_Dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IdentityServer4系列 | 支持数据持久化</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/-eki_Hkh_GMB69xiy0RU2A</id>
-    <link href="https://mp.weixin.qq.com/s/-eki_Hkh_GMB69xiy0RU2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>引入Jaeger——封装</title>
-    <updated>2020-12-29T08:19:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/H-YxZZ1j6JVqC5OLAOT6dA</id>
-    <link href="https://mp.weixin.qq.com/s/H-YxZZ1j6JVqC5OLAOT6dA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

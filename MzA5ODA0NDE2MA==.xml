@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:31:25+08:00</updated>
+  <updated>2021-01-01T11:37:21+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分享图片</title>
+    <updated>2020-12-31T18:33:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/29RiIos2TbWQhaMf8yzMyA</id>
+    <link href="https://mp.weixin.qq.com/s/29RiIos2TbWQhaMf8yzMyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>34c3ctf-v9</title>
     <updated>2020-12-31T17:38:17+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-24T17:52:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/VgItbdUxy-dAshVCMh8ajQ</id>
     <link href="https://mp.weixin.qq.com/s/VgItbdUxy-dAshVCMh8ajQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在PLAYSTATION 4中利用WebKit 0-DAY</title>
-    <updated>2020-12-24T17:52:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/LalioxgMTXJ6oHYyDN5gCw</id>
-    <link href="https://mp.weixin.qq.com/s/LalioxgMTXJ6oHYyDN5gCw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>最人物 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T13:41:06+08:00</updated>
+  <updated>2021-01-01T11:34:11+08:00</updated>
   <subtitle>记录最真实的人物</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你好，2021。再见，2020</title>
+    <updated>2021-01-01T09:50:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/wzcbwwuqjBNXTunidIWgTA</id>
+    <link href="https://mp.weixin.qq.com/s/wzcbwwuqjBNXTunidIWgTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>李雪琴，祝你新年快乐</title>
     <updated>2020-12-31T12:16:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T11:48:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/y1UeQBlap4DbHg0iya1cdQ</id>
     <link href="https://mp.weixin.qq.com/s/y1UeQBlap4DbHg0iya1cdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>上课，请玩手机</title>
-    <updated>2020-12-22T11:53:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/QNQIUMRcqLyK6CmUNGJtgA</id>
-    <link href="https://mp.weixin.qq.com/s/QNQIUMRcqLyK6CmUNGJtgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

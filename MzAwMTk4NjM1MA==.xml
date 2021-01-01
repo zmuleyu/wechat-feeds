@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:32:47+08:00</updated>
+  <updated>2021-01-01T11:27:02+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>二零二零，总体还行。二零二一，万事大吉。感恩遇见，感恩相助。祝您新年快乐！四季平安！心想事成！幸福平安！[玫瑰][福]</title>
+    <updated>2021-01-01T09:06:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/xzSAUiOb6RtzcsX4hV0nNA</id>
+    <link href="https://mp.weixin.qq.com/s/xzSAUiOb6RtzcsX4hV0nNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringBoot条件注解的底层实现原理</title>
     <updated>2020-12-31T09:02:24+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-21T11:17:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/utNP7FHgreSwPT_qppiWDQ</id>
     <link href="https://mp.weixin.qq.com/s/utNP7FHgreSwPT_qppiWDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>飞天茅台超卖事故：Redis分布式锁请慎用！</title>
-    <updated>2020-12-19T14:11:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/x9QYMKotHdBRFuicUURdhg</id>
-    <link href="https://mp.weixin.qq.com/s/x9QYMKotHdBRFuicUURdhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

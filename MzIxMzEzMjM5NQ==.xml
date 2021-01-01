@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:48:24+08:00</updated>
+  <updated>2021-01-01T11:39:21+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里钉钉架构师，20页ppt讲透2亿用户的钉钉系统架构实践</title>
+    <updated>2021-01-01T09:42:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/EbCjk6X_WXH-hSSQEtCjaA</id>
+    <link href="https://mp.weixin.qq.com/s/EbCjk6X_WXH-hSSQEtCjaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>审阅“史上”最烂代码</title>
     <updated>2020-12-31T09:25:17+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-22T13:51:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/ZpmtWkxponxM3rlaBv-SHw</id>
     <link href="https://mp.weixin.qq.com/s/ZpmtWkxponxM3rlaBv-SHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电商系统促销模块脚本引擎的应用</title>
-    <updated>2020-12-21T17:08:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Am3Mfbgrscr8B2k0nqkGyA</id>
-    <link href="https://mp.weixin.qq.com/s/Am3Mfbgrscr8B2k0nqkGyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构谈(4) plus:DDD 分层架构如何推动架构演进</title>
-    <updated>2020-12-21T17:08:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/B5oNDMnLeRJeAsF9flWr_w</id>
-    <link href="https://mp.weixin.qq.com/s/B5oNDMnLeRJeAsF9flWr_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
