@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:35:19+08:00</updated>
+  <updated>2021-01-01T16:19:57+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 中使用 Thread</title>
+    <updated>2021-01-01T14:52:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/uMZFIKmKUhyYV3BLc1xq2w</id>
+    <link href="https://mp.weixin.qq.com/s/uMZFIKmKUhyYV3BLc1xq2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET之Hangfire快速入门和使用</title>
+    <updated>2021-01-01T14:52:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/aNqCTQqJCwHKVKINZqjGoQ</id>
+    <link href="https://mp.weixin.qq.com/s/aNqCTQqJCwHKVKINZqjGoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Windows Terminal 新手入门</title>
+    <updated>2021-01-01T14:52:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/ykSHJ4uRhCUf2GVMvEmeyA</id>
+    <link href="https://mp.weixin.qq.com/s/ykSHJ4uRhCUf2GVMvEmeyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 中使用 反射</title>
     <updated>2020-12-31T10:19:23+08:00</updated>
@@ -26,13 +47,6 @@
     <updated>2020-12-31T10:19:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/wu6_kcj7DdF8hzIJq_WZNA</id>
     <link href="https://mp.weixin.qq.com/s/wu6_kcj7DdF8hzIJq_WZNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自学Python后，获得人生的第一桶金！</title>
-    <updated>2020-12-31T10:19:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/M4ZYeJLR0bLkkaKBewRfuQ</id>
-    <link href="https://mp.weixin.qq.com/s/M4ZYeJLR0bLkkaKBewRfuQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2020-12-26T16:17:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/ur41iIiTXrbO3AfZn3B14Q</id>
     <link href="https://mp.weixin.qq.com/s/ur41iIiTXrbO3AfZn3B14Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Abp小试牛刀之 图片上传</title>
-    <updated>2020-12-26T16:17:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/OkPb9nmQslQQQk6eazgOfA</id>
-    <link href="https://mp.weixin.qq.com/s/OkPb9nmQslQQQk6eazgOfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用 URL Rewriting 中间件</title>
-    <updated>2020-12-25T15:20:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/A2BcWqCp85vfUZd514COCg</id>
-    <link href="https://mp.weixin.qq.com/s/A2BcWqCp85vfUZd514COCg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
