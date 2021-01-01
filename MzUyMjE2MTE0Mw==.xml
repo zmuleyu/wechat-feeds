@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:24:28+08:00</updated>
+  <updated>2021-01-01T20:19:42+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>理解Meta Learning 元学习，这篇文章就够了！</title>
+    <updated>2021-01-01T17:03:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/saUyb_OGqZSu9vrTp4EzJQ</id>
+    <link href="https://mp.weixin.qq.com/s/saUyb_OGqZSu9vrTp4EzJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Lifelong Learning 终生学习，涨知识了！</title>
+    <updated>2021-01-01T17:03:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/druQZbyCWWkgUNJ8UkwnDg</id>
+    <link href="https://mp.weixin.qq.com/s/druQZbyCWWkgUNJ8UkwnDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>mmdetection最小复刻版(七)：anchor-base和anchor-free差异分析</title>
+    <updated>2021-01-01T17:03:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/c3D1TT33JsDJVgZJRHd4oQ</id>
+    <link href="https://mp.weixin.qq.com/s/c3D1TT33JsDJVgZJRHd4oQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SWA：让你的目标检测模型无痛涨点1% AP</title>
     <updated>2020-12-31T18:14:26+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-22T16:48:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/RfyMcTlCYyuL_KaMygfqhg</id>
     <link href="https://mp.weixin.qq.com/s/RfyMcTlCYyuL_KaMygfqhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyTorch重大更新：将支持自动混合精度训练！</title>
-    <updated>2020-12-22T16:48:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/3iudZWITWbUAIQPQPkEeVg</id>
-    <link href="https://mp.weixin.qq.com/s/3iudZWITWbUAIQPQPkEeVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyTorch 源码解读之 BN &amp; SyncBN</title>
-    <updated>2020-12-20T20:05:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/gzvMdv7q6xl8hncFzOV0eg</id>
-    <link href="https://mp.weixin.qq.com/s/gzvMdv7q6xl8hncFzOV0eg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>步履不停：TensorFlow 2.4 新功能一览！</title>
-    <updated>2020-12-20T20:05:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/yjMt088oMWQpkXH7aeqDzw</id>
-    <link href="https://mp.weixin.qq.com/s/yjMt088oMWQpkXH7aeqDzw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

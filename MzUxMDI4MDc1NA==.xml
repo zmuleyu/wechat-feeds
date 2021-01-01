@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>脑子进煎鱼了 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T16:17:22+08:00</updated>
+  <updated>2021-01-01T20:14:53+08:00</updated>
   <subtitle>分享 Go 语言、微服务架构和各类奇怪的系统设计。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -19,13 +19,6 @@
     <updated>2020-12-31T00:07:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/onl3sBCSNs8l42uihi_p4A</id>
     <link href="https://mp.weixin.qq.com/s/onl3sBCSNs8l42uihi_p4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大龄 Go 程序员都去哪了？</title>
-    <updated>2020-12-28T23:09:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Q6uDQyFU0U_Bx-ggcxcb0A</id>
-    <link href="https://mp.weixin.qq.com/s/Q6uDQyFU0U_Bx-ggcxcb0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,6 +75,13 @@
     <updated>2020-12-02T17:48:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/iS7R0NTZcTlonUw8bq0jKQ</id>
     <link href="https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 Go 的泛型一拖再拖？</title>
+    <updated>2020-11-20T22:38:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/ftmuA9g7QPAwSwiswRuSuw</id>
+    <link href="https://mp.weixin.qq.com/s/ftmuA9g7QPAwSwiswRuSuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

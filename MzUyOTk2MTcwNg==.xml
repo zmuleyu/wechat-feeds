@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T16:38:44+08:00</updated>
+  <updated>2021-01-01T20:24:09+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年Python文章盘点，我选出了个人TOP10</title>
+    <updated>2021-01-01T17:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/DgYP8TBg2kEWRx6A-cXjgA</id>
+    <link href="https://mp.weixin.qq.com/s/DgYP8TBg2kEWRx6A-cXjgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>吐槽：Python正在从简明转向臃肿，从实用转向媚俗</title>
     <updated>2020-12-30T21:08:03+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-21T22:44:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/CX6QQ3CZEFEqF8rOZxWg9w</id>
     <link href="https://mp.weixin.qq.com/s/CX6QQ3CZEFEqF8rOZxWg9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学会这几招，年底晋升不慌了！</title>
-    <updated>2020-12-20T20:10:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/pJMS5WxUB1tasdRReLAHoQ</id>
-    <link href="https://mp.weixin.qq.com/s/pJMS5WxUB1tasdRReLAHoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

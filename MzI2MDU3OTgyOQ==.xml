@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜索与推荐Wiki | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T13:44:38+08:00</updated>
+  <updated>2021-01-01T20:24:42+08:00</updated>
   <subtitle>专注于搜索和推荐系统，以系列分享为主，持续打造精品内容！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>和过去的自己和2020好好道个别吧！</title>
+    <updated>2021-01-01T17:02:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/qmmBXn2aqVhkeX3bBY_D_Q</id>
+    <link href="https://mp.weixin.qq.com/s/qmmBXn2aqVhkeX3bBY_D_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GNN之从deepwalk到GraphSAGE、GCN、GAT</title>
     <updated>2020-12-31T09:52:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T22:26:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/XEp4XgmW2YnT2Ey2_QXfWw</id>
     <link href="https://mp.weixin.qq.com/s/XEp4XgmW2YnT2Ey2_QXfWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>论文｜Item2vec中值得品味的8个经典tricks</title>
-    <updated>2020-12-07T11:58:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/xXYkySG7JHuCux862jXwcQ</id>
-    <link href="https://mp.weixin.qq.com/s/xXYkySG7JHuCux862jXwcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

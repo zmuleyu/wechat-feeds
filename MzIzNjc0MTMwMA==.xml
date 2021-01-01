@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:16:25+08:00</updated>
+  <updated>2021-01-01T20:12:42+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】认知科学中的迭代模型，何以缓解语言迁移</title>
+    <updated>2021-01-01T18:09:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/ocBZhQI4Qu2u6WKsFM_zyA</id>
+    <link href="https://mp.weixin.qq.com/s/ocBZhQI4Qu2u6WKsFM_zyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】pytorch计算模型FLOPs和Params</title>
+    <updated>2021-01-01T18:09:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/3vqDM0neJ9NeY3wjgofLMQ</id>
+    <link href="https://mp.weixin.qq.com/s/3vqDM0neJ9NeY3wjgofLMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI95×CRIPAC 因果推理专题</title>
+    <updated>2021-01-01T18:09:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/E7FYhIVnWbgJywOrvs46vg</id>
+    <link href="https://mp.weixin.qq.com/s/E7FYhIVnWbgJywOrvs46vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【他山之石】保姆级教程：个人深度学习工作站配置指南</title>
     <updated>2020-12-31T17:58:10+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-25T18:17:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/t0xzOV8KOxFby2VQqxlNuw</id>
     <link href="https://mp.weixin.qq.com/s/t0xzOV8KOxFby2VQqxlNuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI94×CRIPAC 人脸生成专题</title>
-    <updated>2020-12-25T18:17:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/YHnn4pq9joIMw2HaQTVHEg</id>
-    <link href="https://mp.weixin.qq.com/s/YHnn4pq9joIMw2HaQTVHEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【综述专栏】类脑运算：脉冲神经网络（Spiking Neural Network）叙述</title>
-    <updated>2020-12-24T18:01:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/UAQJxMpAqfdKLt3qCW0ohg</id>
-    <link href="https://mp.weixin.qq.com/s/UAQJxMpAqfdKLt3qCW0ohg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】Rethinking Self-Attention in Transformer Models</title>
-    <updated>2020-12-24T18:01:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/IKdSMvYYG50Dk2SXKATt8w</id>
-    <link href="https://mp.weixin.qq.com/s/IKdSMvYYG50Dk2SXKATt8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈修仙之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:45:39+08:00</updated>
+  <updated>2021-01-01T20:24:18+08:00</updated>
   <subtitle>聚焦全栈，专注分享 TypeScript、Web API、Node.js、Deno 等技术干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021 年一起加油吧 [来抢红包咯]</title>
+    <updated>2021-01-01T18:06:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/RxCR48uQBfOFE2JFTXbkkw</id>
+    <link href="https://mp.weixin.qq.com/s/RxCR48uQBfOFE2JFTXbkkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从零实现React官方脚手架create-react-app</title>
     <updated>2020-12-31T08:12:25+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-21T07:52:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/Mw7Qle6XfgJhXGJf6ouFiQ</id>
     <link href="https://mp.weixin.qq.com/s/Mw7Qle6XfgJhXGJf6ouFiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想要复制图像？Clipboard API 了解一下</title>
-    <updated>2020-12-20T23:34:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/0pkFjeXD_ZpsEM-Vnb7g6g</id>
-    <link href="https://mp.weixin.qq.com/s/0pkFjeXD_ZpsEM-Vnb7g6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

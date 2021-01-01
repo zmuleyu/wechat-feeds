@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新亮笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:39:37+08:00</updated>
+  <updated>2021-01-01T20:16:19+08:00</updated>
   <subtitle>以技术驱动业务发展。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见 2020，你好 2021！</title>
+    <updated>2021-01-01T17:23:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/aemIeBhMoIhlwQ2dDLrTqQ</id>
+    <link href="https://mp.weixin.qq.com/s/aemIeBhMoIhlwQ2dDLrTqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go - 统一定义 API 错误码</title>
     <updated>2020-12-24T20:07:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-13T18:03:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-13:/s/DjF_N1Kd3K517KJkhLSmiw</id>
     <link href="https://mp.weixin.qq.com/s/DjF_N1Kd3K517KJkhLSmiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go - json.Unmarshal 遇到的小坑</title>
-    <updated>2020-07-09T23:02:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-09:/s/ykZCZb9IAXJaKAx_cO7YjA</id>
-    <link href="https://mp.weixin.qq.com/s/ykZCZb9IAXJaKAx_cO7YjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
