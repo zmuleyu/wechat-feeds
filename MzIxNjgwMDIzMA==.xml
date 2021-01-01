@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈前端精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T13:41:32+08:00</updated>
+  <updated>2021-01-01T13:32:39+08:00</updated>
   <subtitle>内容为王，精选为则。从前端到全栈，定期分享前端、客户端、Node、面试、职场感悟等相关高质量文章。小白的大神养成记，你我共勉！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你的Tree-Shaking并没什么卵用</title>
+    <updated>2020-12-31T11:32:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/pGxDmT24-suLyaAb8-DSTQ</id>
+    <link href="https://mp.weixin.qq.com/s/pGxDmT24-suLyaAb8-DSTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微信昵称可以加雪花了，个性又好看</title>
     <updated>2020-12-30T14:27:57+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-21T10:04:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/DXvDbk0CiPy_1Cl4iFyi4g</id>
     <link href="https://mp.weixin.qq.com/s/DXvDbk0CiPy_1Cl4iFyi4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>送你一份玩转 Github 的秘诀</title>
-    <updated>2020-12-19T14:05:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/HdYSJwr5deeQ9E4o1MFwCg</id>
-    <link href="https://mp.weixin.qq.com/s/HdYSJwr5deeQ9E4o1MFwCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 前端发展史的江湖恩怨情仇</title>
-    <updated>2020-12-19T14:05:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/fnsYBHKCluGa74N0yhvsqg</id>
-    <link href="https://mp.weixin.qq.com/s/fnsYBHKCluGa74N0yhvsqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

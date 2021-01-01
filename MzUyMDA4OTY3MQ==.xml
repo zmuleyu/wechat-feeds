@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:35:38+08:00</updated>
+  <updated>2021-01-01T13:27:26+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kafka丢失数据问题优化总结</title>
+    <updated>2021-01-01T12:01:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/KmR4qACOwPYNfYIXchzYTA</id>
+    <link href="https://mp.weixin.qq.com/s/KmR4qACOwPYNfYIXchzYTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>涨姿势了！delete后加 limit是个好习惯么？</title>
+    <updated>2021-01-01T12:01:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/6HaX88esQ6etBtpJ7NJK3Q</id>
+    <link href="https://mp.weixin.qq.com/s/6HaX88esQ6etBtpJ7NJK3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于Flink打造实时计算平台为企业赋能</title>
     <updated>2020-12-30T23:58:45+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-23T08:52:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/tQsqXNqqDxnTmAKSdxqthA</id>
     <link href="https://mp.weixin.qq.com/s/tQsqXNqqDxnTmAKSdxqthA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大数据OLAP系统（2）——开源组件篇</title>
-    <updated>2020-12-21T23:25:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/y1FJI_u3NtHFXS3VEqIjmA</id>
-    <link href="https://mp.weixin.qq.com/s/y1FJI_u3NtHFXS3VEqIjmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大数据OLAP系统（1）——概念篇</title>
-    <updated>2020-12-21T23:25:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/FgT6i3aU7pvYjF7L9d37uA</id>
-    <link href="https://mp.weixin.qq.com/s/FgT6i3aU7pvYjF7L9d37uA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:17:58+08:00</updated>
+  <updated>2021-01-01T13:23:08+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一起学习可视化图表库及字节小程序适配</title>
+    <updated>2020-12-31T17:11:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/2Aux3PkvBpEsPQ2STVlAmQ</id>
+    <link href="https://mp.weixin.qq.com/s/2Aux3PkvBpEsPQ2STVlAmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端进阶：如何设计统一登录业务</title>
+    <updated>2020-12-31T17:11:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/GzJogA-D6XzKk8wAxThPdA</id>
+    <link href="https://mp.weixin.qq.com/s/GzJogA-D6XzKk8wAxThPdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redux源码解读与编程艺术</title>
     <updated>2020-12-31T17:37:48+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-21T16:46:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/LRaBhg_ZT8Y68ppwyHvcCw</id>
     <link href="https://mp.weixin.qq.com/s/LRaBhg_ZT8Y68ppwyHvcCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端上手M1芯片Mac测评（基础篇）</title>
-    <updated>2020-12-20T18:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/Wx_bLtYp6lW2uyHeuFAENw</id>
-    <link href="https://mp.weixin.qq.com/s/Wx_bLtYp6lW2uyHeuFAENw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>简单介绍就能理解的 React Portals（传送门）</title>
-    <updated>2020-12-20T18:20:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/6JIbK6Bk65f8NjlSvLKJtA</id>
-    <link href="https://mp.weixin.qq.com/s/6JIbK6Bk65f8NjlSvLKJtA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
