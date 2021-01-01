@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:18:08+08:00</updated>
+  <updated>2021-01-01T23:13:12+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万能 Transformer，你应该知道的一切</title>
+    <updated>2021-01-01T22:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/2qO3sTW8_3shBSefQJ7-4w</id>
+    <link href="https://mp.weixin.qq.com/s/2qO3sTW8_3shBSefQJ7-4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>综述系列 | 多标签学习的新趋势</title>
+    <updated>2021-01-01T22:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/qqMAYmcrZ0TRmlsrWzwGjA</id>
+    <link href="https://mp.weixin.qq.com/s/qqMAYmcrZ0TRmlsrWzwGjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用Python+OpenCV+yolov5实现行人目标检测</title>
+    <updated>2021-01-01T22:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/puXoYGICFHovyyrRSG-OQw</id>
+    <link href="https://mp.weixin.qq.com/s/puXoYGICFHovyyrRSG-OQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>UNIMO：百度提出统一模态学习方法，同时解决单模与多模任务</title>
     <updated>2020-12-31T19:19:50+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-26T17:54:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/5QRaBN4OPObRL5Jp_Do-Rg</id>
     <link href="https://mp.weixin.qq.com/s/5QRaBN4OPObRL5Jp_Do-Rg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tensorflow 的 NCE-Loss 的实现和 word2vec</title>
-    <updated>2020-12-26T17:54:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/i02rWLdO0Y4MoZvRRaXjmw</id>
-    <link href="https://mp.weixin.qq.com/s/i02rWLdO0Y4MoZvRRaXjmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>搞懂Transformer结构，看这篇PyTorch实现就够了</title>
-    <updated>2020-12-25T17:48:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/DPVe5IID51hRY9dZvhBZew</id>
-    <link href="https://mp.weixin.qq.com/s/DPVe5IID51hRY9dZvhBZew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习和计算机视觉的前20个图像数据集</title>
-    <updated>2020-12-25T17:48:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/ZRSRI4kOr9u6XY5jVsr2yw</id>
-    <link href="https://mp.weixin.qq.com/s/ZRSRI4kOr9u6XY5jVsr2yw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
