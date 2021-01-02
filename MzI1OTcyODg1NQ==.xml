@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T23:17:21+08:00</updated>
+  <updated>2021-01-02T23:18:11+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>常用的Linux 系统备份、恢复命令</title>
+    <updated>2021-01-02T22:37:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/6e0iMbYWL6oZca2er84Zjw</id>
+    <link href="https://mp.weixin.qq.com/s/6e0iMbYWL6oZca2er84Zjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>同样是数据分析岗，为什么有的人拿不到20K？</title>
+    <updated>2021-01-02T22:37:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZRdmnXRbUSK5-pRyqOm0JA</id>
+    <link href="https://mp.weixin.qq.com/s/ZRdmnXRbUSK5-pRyqOm0JA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang从入门到精通——Golang类型转换</title>
+    <updated>2021-01-02T22:37:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/tDQbeZv2WuWR8XZWbALDhg</id>
+    <link href="https://mp.weixin.qq.com/s/tDQbeZv2WuWR8XZWbALDhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker 极简入门指南，10 分钟就能看懂</title>
     <updated>2021-01-01T20:22:40+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-27T21:30:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/IVDx2S59qBppeIfAc1lpNg</id>
     <link href="https://mp.weixin.qq.com/s/IVDx2S59qBppeIfAc1lpNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang从入门到精通——helloworld</title>
-    <updated>2020-12-27T21:30:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/T36Oi5KVWHruxaFMB3etHQ</id>
-    <link href="https://mp.weixin.qq.com/s/T36Oi5KVWHruxaFMB3etHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>审计 Linux 系统的操作行为的 5 种方案对比</title>
-    <updated>2020-12-26T21:51:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/gNrRP2Eu3gXCT7QMbCE6Mg</id>
-    <link href="https://mp.weixin.qq.com/s/gNrRP2Eu3gXCT7QMbCE6Mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang从入门到精通——背景介绍</title>
-    <updated>2020-12-26T21:51:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/F6xaIqZ9GtnwsvOdOBxO6g</id>
-    <link href="https://mp.weixin.qq.com/s/F6xaIqZ9GtnwsvOdOBxO6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
