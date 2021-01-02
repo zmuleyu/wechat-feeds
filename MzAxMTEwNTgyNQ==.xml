@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国电影资料馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T20:22:29+08:00</updated>
+  <updated>2021-01-02T20:26:02+08:00</updated>
   <subtitle>定期发布资料馆信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明日放映 | 睡着也好 醒来也罢</title>
+    <updated>2021-01-02T17:37:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/CyTjjiZWR3UuhJ6Uiwu0zw</id>
+    <link href="https://mp.weixin.qq.com/s/CyTjjiZWR3UuhJ6Uiwu0zw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新年礼物！《警察故事》三部曲——重温香港动作电影的辉煌年代</title>
     <updated>2021-01-01T14:44:48+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-23T18:48:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/S8f5dxip6LE5OPKaucW2og</id>
     <link href="https://mp.weixin.qq.com/s/S8f5dxip6LE5OPKaucW2og" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《如果声音不记得》：如何讲出动人的情话</title>
-    <updated>2020-12-22T17:02:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/M8nnDSvRz_qhwMCg2wsQzg</id>
-    <link href="https://mp.weixin.qq.com/s/M8nnDSvRz_qhwMCg2wsQzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明日放映 | 没有剧本，没有小说，金鸡四奖</title>
-    <updated>2020-12-22T17:02:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/q49cUq7ifYcmynC71xEpEw</id>
-    <link href="https://mp.weixin.qq.com/s/q49cUq7ifYcmynC71xEpEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

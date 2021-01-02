@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>健康北京 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:37:27+08:00</updated>
+  <updated>2021-01-02T20:31:04+08:00</updated>
   <subtitle>北京市卫生健康委员会和新京报健康周刊共同运维的官方公众平台。关注健康北京，了解新鲜的医疗卫生政策、权威健康指导和就诊攻略。如果您有医疗健康、公共卫生方面的疑问，欢迎留言哦~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>疫情防控 | 1月2日起，北京中风险地区增至7个</title>
+    <updated>2021-01-02T16:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/YtC-tjXOLOLpCaZEeQMWJQ</id>
+    <link href="https://mp.weixin.qq.com/s/YtC-tjXOLOLpCaZEeQMWJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>疫情发布丨北京1月1日新增1例本地新冠肺炎确诊病例</title>
     <updated>2021-01-02T07:55:49+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-30T16:04:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/Z9XM_xSLvGpVGj_g5H7ptQ</id>
     <link href="https://mp.weixin.qq.com/s/Z9XM_xSLvGpVGj_g5H7ptQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>疫情发布丨北京12月29日新增1例本地新冠肺炎确诊病例</title>
-    <updated>2020-12-30T07:51:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/gUuwEc5mtWlg8Zz9uk1qiQ</id>
-    <link href="https://mp.weixin.qq.com/s/gUuwEc5mtWlg8Zz9uk1qiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

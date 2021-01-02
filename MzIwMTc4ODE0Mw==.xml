@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T20:24:51+08:00</updated>
+  <updated>2021-01-02T20:27:50+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无监督中文分词算法近年研究进展</title>
+    <updated>2021-01-02T18:27:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/nrPekcKL_V4wZQdBi9A3WA</id>
+    <link href="https://mp.weixin.qq.com/s/nrPekcKL_V4wZQdBi9A3WA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MIT开源高性能自动微分框架Enzyme：速度提升4.5倍</title>
+    <updated>2021-01-02T18:27:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/dbF9DDnylI4yPBINR0Oh8g</id>
+    <link href="https://mp.weixin.qq.com/s/dbF9DDnylI4yPBINR0Oh8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么Kaggle竞赛的奖金这么低？</title>
     <updated>2021-01-01T17:48:51+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-12-24T12:37:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/phbAkw8V0CnsZ2kBJxd37g</id>
     <link href="https://mp.weixin.qq.com/s/phbAkw8V0CnsZ2kBJxd37g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AI框架你只会调包，这种想法很危险！</title>
-    <updated>2020-12-23T20:30:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/nI7mRnBa-HcWb7Yl-geIxg</id>
-    <link href="https://mp.weixin.qq.com/s/nI7mRnBa-HcWb7Yl-geIxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:32:51+08:00</updated>
+  <updated>2021-01-02T20:25:32+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>夜听丨2021，我们准备好了</title>
+    <updated>2021-01-02T11:54:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZysQCXUe5WRzBA2UsOJSqA</id>
+    <link href="https://mp.weixin.qq.com/s/ZysQCXUe5WRzBA2UsOJSqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我国大部地区天气晴好，但这里将出现降雪！</title>
     <updated>2021-01-02T10:57:47+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T17:01:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/Eb0EyUKtl35idhrBoX_PVw</id>
     <link href="https://mp.weixin.qq.com/s/Eb0EyUKtl35idhrBoX_PVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>担当时代使命，推动高质量发展！回看“十三五”气象现代化发展进程</title>
-    <updated>2020-12-30T14:17:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/LwshAIgz91LtWgPmVdZEMg</id>
-    <link href="https://mp.weixin.qq.com/s/LwshAIgz91LtWgPmVdZEMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
