@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T23:25:29+08:00</updated>
+  <updated>2021-01-02T13:43:11+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我的 Promtheus 到底啥时候报警？</title>
+    <updated>2021-01-02T11:00:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/NOdjVY_W6RwSyCLuA9Zhwg</id>
+    <link href="https://mp.weixin.qq.com/s/NOdjVY_W6RwSyCLuA9Zhwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>当 Go struct 遇上 Mutex：也许不太一样了</title>
+    <updated>2021-01-02T11:00:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/9LumAomY-Ql7D-tMe9vnvQ</id>
+    <link href="https://mp.weixin.qq.com/s/9LumAomY-Ql7D-tMe9vnvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>​Go 经典入门系列 33：函数是一等公民（头等函数）</title>
+    <updated>2021-01-02T11:00:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/VtydcvQ1es-4M1t66RCJRg</id>
+    <link href="https://mp.weixin.qq.com/s/VtydcvQ1es-4M1t66RCJRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go 语言中文网 2020 年回顾暨 2021 年工作计划</title>
     <updated>2021-01-01T20:16:08+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-27T23:27:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/89QLSqGzH0yUM6cO6V4zmQ</id>
     <link href="https://mp.weixin.qq.com/s/89QLSqGzH0yUM6cO6V4zmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go语言爱好者周刊：第 75 期</title>
-    <updated>2020-12-27T11:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/azW-S6-nJOiciUFBo1oJwA</id>
-    <link href="https://mp.weixin.qq.com/s/azW-S6-nJOiciUFBo1oJwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 经典入门系列 28：多态</title>
-    <updated>2020-12-27T11:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/A737eVVpUQgQgVDdaNZlkQ</id>
-    <link href="https://mp.weixin.qq.com/s/A737eVVpUQgQgVDdaNZlkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解 Go 逃逸分析</title>
-    <updated>2020-12-27T11:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/xhBVv6JEPY8R3kCJlbirYw</id>
-    <link href="https://mp.weixin.qq.com/s/xhBVv6JEPY8R3kCJlbirYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T20:25:10+08:00</updated>
+  <updated>2021-01-02T13:40:59+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员修炼之路：你该知道的 7 个必经阶段</title>
+    <updated>2021-01-01T20:08:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/H7L3LVwrVVOUza5bTfB96A</id>
+    <link href="https://mp.weixin.qq.com/s/H7L3LVwrVVOUza5bTfB96A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我参与阿里巴巴 ASoC-Seata 的一些感悟</title>
+    <updated>2021-01-01T20:08:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/6DfHtHzQ7S-HtEB6hGaqvw</id>
+    <link href="https://mp.weixin.qq.com/s/6DfHtHzQ7S-HtEB6hGaqvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ChaosBlade 在工商银行混沌工程体系中的应用实践</title>
     <updated>2020-12-31T19:04:37+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-23T13:02:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/MAvkFGW78kMr0cyxoEZq3g</id>
     <link href="https://mp.weixin.qq.com/s/MAvkFGW78kMr0cyxoEZq3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>揭开阿里巴巴复杂任务资源混合调度技术面纱</title>
-    <updated>2020-12-22T20:51:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/wj0hrHIRHnBUNZZXnRm5xg</id>
-    <link href="https://mp.weixin.qq.com/s/wj0hrHIRHnBUNZZXnRm5xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 20 分钟内给你的 K8s PaaS 上线一个新功能？</title>
-    <updated>2020-12-22T20:51:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/bW0ypGKP180unxPdOEfqbg</id>
-    <link href="https://mp.weixin.qq.com/s/bW0ypGKP180unxPdOEfqbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

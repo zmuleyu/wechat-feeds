@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T13:24:51+08:00</updated>
+  <updated>2021-01-02T13:27:21+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>限时福利，2h删！！！</title>
+    <updated>2021-01-02T11:56:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/5Dwk0ARqXZzdzJL9OOJyMw</id>
+    <link href="https://mp.weixin.qq.com/s/5Dwk0ARqXZzdzJL9OOJyMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从技术视角看考拉海购的云原生之路</title>
+    <updated>2021-01-02T11:56:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/1F6OCEBZUC0e20LhjTU5Vw</id>
+    <link href="https://mp.weixin.qq.com/s/1F6OCEBZUC0e20LhjTU5Vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生景观：编排和管理层解决了什么问题？如何解决的？</title>
     <updated>2021-01-01T11:59:06+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-24T10:18:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/6kP9oXmwnyvXxSwRHZrFDw</id>
     <link href="https://mp.weixin.qq.com/s/6kP9oXmwnyvXxSwRHZrFDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 原生 CI/CD 构建框架 Tekton 详解！</title>
-    <updated>2020-12-22T22:47:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/xlSL95NxWv7Wl_lwuoLzUg</id>
-    <link href="https://mp.weixin.qq.com/s/xlSL95NxWv7Wl_lwuoLzUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
