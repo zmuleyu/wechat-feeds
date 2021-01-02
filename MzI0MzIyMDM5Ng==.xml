@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端Q | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:35:03+08:00</updated>
+  <updated>2021-01-02T11:33:54+08:00</updated>
   <subtitle>本公众号主要分享一些技术圈(前端圈为主)相关的技术文章、工具资源、学习资料、招聘信息及其他有趣的东西...</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新年快乐，JavaScript 第四版红宝书送 20 本！</title>
+    <updated>2021-01-01T22:23:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/5AICq5l9pMdr8f5eeYQGMg</id>
+    <link href="https://mp.weixin.qq.com/s/5AICq5l9pMdr8f5eeYQGMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>winty的Github年度报告大公开(附获取报告方式)</title>
     <updated>2020-12-31T23:17:11+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-21T22:59:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/t3xN01OOTEMxbt--ZooIwA</id>
     <link href="https://mp.weixin.qq.com/s/t3xN01OOTEMxbt--ZooIwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>15道ES6 Promise实战练习题，助你快速理解Promise</title>
-    <updated>2020-12-21T01:13:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/ON4m0uNF6u-FjLHYih8JIA</id>
-    <link href="https://mp.weixin.qq.com/s/ON4m0uNF6u-FjLHYih8JIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>代码规范之-理解ESLint、Prettier、EditorConfig</title>
-    <updated>2020-12-21T01:13:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/zdBEwafS-0V-KBINcaRdrQ</id>
-    <link href="https://mp.weixin.qq.com/s/zdBEwafS-0V-KBINcaRdrQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

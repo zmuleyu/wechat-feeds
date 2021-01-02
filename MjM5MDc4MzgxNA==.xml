@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端自习课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:22:33+08:00</updated>
+  <updated>2021-01-02T11:21:20+08:00</updated>
   <subtitle>每日清晨，享受一篇前端优秀文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【React】826- 浅谈 React 中的 XSS 攻击</title>
+    <updated>2021-01-01T20:31:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/jL3KspqVG0VJT59YJ-Ahlw</id>
+    <link href="https://mp.weixin.qq.com/s/jL3KspqVG0VJT59YJ-Ahlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【TS】825- 了不起的 TypeScript 入门教程</title>
     <updated>2020-12-31T21:57:35+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-24T15:36:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/jFMo-9uSxTcApJ1gvL8dEA</id>
     <link href="https://mp.weixin.qq.com/s/jFMo-9uSxTcApJ1gvL8dEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【JS】816- 从V8引擎来看JS中这个&#34;假数组&#34;</title>
-    <updated>2020-12-22T21:42:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Ku9OX4YsyysTKuwhtHVv2g</id>
-    <link href="https://mp.weixin.qq.com/s/Ku9OX4YsyysTKuwhtHVv2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

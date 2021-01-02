@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:30:29+08:00</updated>
+  <updated>2021-01-02T11:29:05+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET 5 开源工作流框架elsa技术研究</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/mjOhNeMsR3m3_t4g-wvKwg</id>
+    <link href="https://mp.weixin.qq.com/s/mjOhNeMsR3m3_t4g-wvKwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿星Plus：基于abp vNext开源一个博客网站</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/cp1og-ixxzlf4euQDYFj0w</id>
+    <link href="https://mp.weixin.qq.com/s/cp1og-ixxzlf4euQDYFj0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C#-WinForm跨线程修改UI界面</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZfPVqj4w_K8yBYSRE3cSaA</id>
+    <link href="https://mp.weixin.qq.com/s/ZfPVqj4w_K8yBYSRE3cSaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>代码改变世界，也改变了我</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/hw0ztYmviAxR_bnzHZmKUg</id>
+    <link href="https://mp.weixin.qq.com/s/hw0ztYmviAxR_bnzHZmKUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Amazing 2020</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/9ruXShlCTEqolYCM1hGnGQ</id>
+    <link href="https://mp.weixin.qq.com/s/9ruXShlCTEqolYCM1hGnGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Entity Framework Core 5中实现批量更新、删除</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/EsIJzW7pss7fDy9C3VSu3w</id>
+    <link href="https://mp.weixin.qq.com/s/EsIJzW7pss7fDy9C3VSu3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Git】Git-常用命令备忘录（一）</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZzDYOymwX-EH0BAUTPG_1A</id>
+    <link href="https://mp.weixin.qq.com/s/ZzDYOymwX-EH0BAUTPG_1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021，未来可期</title>
+    <updated>2021-01-02T10:01:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/XmlG-KMclr1HIhAW15YFXA</id>
+    <link href="https://mp.weixin.qq.com/s/XmlG-KMclr1HIhAW15YFXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
     <updated>2020-12-31T21:43:22+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2020-12-31T19:29:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/KQBgo7OAOGNJIhlqavV6WQ</id>
     <link href="https://mp.weixin.qq.com/s/KQBgo7OAOGNJIhlqavV6WQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用 ActionFilter</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/dYzTqsJaEVwBlF2Jj8GlJg</id>
-    <link href="https://mp.weixin.qq.com/s/dYzTqsJaEVwBlF2Jj8GlJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>引入Jaeger——使用</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/NsP-sWzm1m7T8XnacJcu9A</id>
-    <link href="https://mp.weixin.qq.com/s/NsP-sWzm1m7T8XnacJcu9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>灵魂拷问：你和大佬，技术差距有多大？</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Uc1-C4tL1GA3NT0OOeqmZQ</id>
-    <link href="https://mp.weixin.qq.com/s/Uc1-C4tL1GA3NT0OOeqmZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年终将至，回顾我们一起走过的 2020</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/N8e05GpfTq_jBXbQ1wRRBw</id>
-    <link href="https://mp.weixin.qq.com/s/N8e05GpfTq_jBXbQ1wRRBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>蚂蚁调度AntJob-分布式任务调度系统</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/e-YHG6ytW2FOelJNr8SL5g</id>
-    <link href="https://mp.weixin.qq.com/s/e-YHG6ytW2FOelJNr8SL5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 内核复杂又难懂，到底有啥用？</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/nWcog2KC3UAaTub7wpkTFA</id>
-    <link href="https://mp.weixin.qq.com/s/nWcog2KC3UAaTub7wpkTFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 9 新特性 —— 增强的 foreach</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/BHmTIQZCFh8uld835-Ct8w</id>
-    <link href="https://mp.weixin.qq.com/s/BHmTIQZCFh8uld835-Ct8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员过关斩将--少年派登录安全的奇幻遐想</title>
-    <updated>2020-12-30T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/oxrxi2gIMHH3VT9UP28mQA</id>
-    <link href="https://mp.weixin.qq.com/s/oxrxi2gIMHH3VT9UP28mQA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

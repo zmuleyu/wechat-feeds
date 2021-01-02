@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿天地 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:35:49+08:00</updated>
+  <updated>2021-01-02T11:34:24+08:00</updated>
   <subtitle>猿天地由《Spring Cloud微服务-全栈技术与案例解析》, 《Spring Cloud微服务 入门 实战与进阶》作者尹吉欢创建。 资深Java技术专家和微服务技术专家，在Spring Cloud和微服务方面有丰富的经验。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>好书送不停，21年继续40本包邮！</title>
+    <updated>2021-01-01T15:34:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/MMubr3-QeWnSwd5M-PST_A</id>
+    <link href="https://mp.weixin.qq.com/s/MMubr3-QeWnSwd5M-PST_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>互联网后端基础设施</title>
+    <updated>2021-01-01T15:34:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/iJchrx2YjxM8REYA8YxNvw</id>
+    <link href="https://mp.weixin.qq.com/s/iJchrx2YjxM8REYA8YxNvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>typora神器？Markdown是“垃圾”？</title>
     <updated>2020-12-31T19:16:48+08:00</updated>
@@ -33,13 +47,6 @@
     <updated>2020-12-30T14:11:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/A6PWyA__GU59g3PAFDdocw</id>
     <link href="https://mp.weixin.qq.com/s/A6PWyA__GU59g3PAFDdocw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欢哥又来送书了，包邮送40本Java经典书籍！</title>
-    <updated>2020-12-29T11:55:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/ceoMq2R0ZQkVFv1_-EEHsw</id>
-    <link href="https://mp.weixin.qq.com/s/ceoMq2R0ZQkVFv1_-EEHsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +103,6 @@
     <updated>2020-12-22T11:06:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/PYultMjNgyYmI4J-oVDE1g</id>
     <link href="https://mp.weixin.qq.com/s/PYultMjNgyYmI4J-oVDE1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！</title>
-    <updated>2020-12-21T17:36:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/4Jx9vsVNU_cltjYhkOnPLQ</id>
-    <link href="https://mp.weixin.qq.com/s/4Jx9vsVNU_cltjYhkOnPLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

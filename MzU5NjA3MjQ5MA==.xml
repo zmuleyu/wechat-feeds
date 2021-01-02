@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java旅途 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:24:39+08:00</updated>
+  <updated>2021-01-02T11:39:52+08:00</updated>
   <subtitle>『Java旅途』专注于Java技术分享，包含但不局限于Spring Boot、Spring Cloud、消息队列、redis、JVM、Mysql、面经等，欢迎关注，一起学习、一起成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>史上最详细的postman使用介绍</title>
+    <updated>2021-01-02T09:16:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/RfISyCLeuem3RdvByo952A</id>
+    <link href="https://mp.weixin.qq.com/s/RfISyCLeuem3RdvByo952A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Boot 解决跨域问题的 3 种方案！</title>
     <updated>2020-12-30T19:35:51+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-21T18:28:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/vHBE2bGgrPZTISVWI4i7AQ</id>
     <link href="https://mp.weixin.qq.com/s/vHBE2bGgrPZTISVWI4i7AQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>750分 or 750万？</title>
-    <updated>2020-12-21T08:37:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/0Q7MgGO-IgDb6s1X9kisdA</id>
-    <link href="https://mp.weixin.qq.com/s/0Q7MgGO-IgDb6s1X9kisdA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

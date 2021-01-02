@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>健康北京 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T20:27:12+08:00</updated>
+  <updated>2021-01-02T11:37:27+08:00</updated>
   <subtitle>北京市卫生健康委员会和新京报健康周刊共同运维的官方公众平台。关注健康北京，了解新鲜的医疗卫生政策、权威健康指导和就诊攻略。如果您有医疗健康、公共卫生方面的疑问，欢迎留言哦~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>疫情发布丨北京1月1日新增1例本地新冠肺炎确诊病例</title>
+    <updated>2021-01-02T07:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/difawpHpBEWq-FJ2aMHV5g</id>
+    <link href="https://mp.weixin.qq.com/s/difawpHpBEWq-FJ2aMHV5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>疫情防控 | 1月1日起，北京中风险地区增至6个</title>
     <updated>2021-01-01T16:41:23+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-30T07:51:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/gUuwEc5mtWlg8Zz9uk1qiQ</id>
     <link href="https://mp.weixin.qq.com/s/gUuwEc5mtWlg8Zz9uk1qiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>疫情防控 | 12月29日起，北京中风险地区增至4个</title>
-    <updated>2020-12-29T18:06:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/0QlDy-YHaz3QRzWviSDzyw</id>
-    <link href="https://mp.weixin.qq.com/s/0QlDy-YHaz3QRzWviSDzyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北京新增7例病例均在地坛医院隔离治疗，确诊前处于集中隔离状态</title>
-    <updated>2020-12-29T18:06:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/YOlvAV0cqJ2XbkyW0pSkxw</id>
-    <link href="https://mp.weixin.qq.com/s/YOlvAV0cqJ2XbkyW0pSkxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
