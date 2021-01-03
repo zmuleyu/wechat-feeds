@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T13:24:33+08:00</updated>
+  <updated>2021-01-03T13:24:29+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
-    <title>重磅开源 | 机器学习圣经《模式识别与机器学习》中文版PDF！</title>
-    <updated>2021-01-02T09:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/az0qNLcZRvVphKZy61YwIw</id>
-    <link href="https://mp.weixin.qq.com/s/az0qNLcZRvVphKZy61YwIw" rel="alternate"></link>
+    <title>福利，PyTorch中文版官方教程来啦（附下载）</title>
+    <updated>2021-01-03T09:43:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/vkcqh1O5QDqIvPrk776hwg</id>
+    <link href="https://mp.weixin.qq.com/s/vkcqh1O5QDqIvPrk776hwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>个人深度学习工作站配置指南</title>
+    <updated>2021-01-03T09:43:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/cnniT5lzZsasG3NXylg2eA</id>
+    <link href="https://mp.weixin.qq.com/s/cnniT5lzZsasG3NXylg2eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一般人不清楚--博士群体的择偶标准是什么?</title>
+    <updated>2021-01-03T09:43:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/l19diuEn2S08HEvznVuwQw</id>
+    <link href="https://mp.weixin.qq.com/s/l19diuEn2S08HEvznVuwQw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2020-12-26T10:40:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/DRbfXEIHVEf0CfBb1u5Xew</id>
     <link href="https://mp.weixin.qq.com/s/DRbfXEIHVEf0CfBb1u5Xew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序运行慢？你怕是写的假 Python</title>
-    <updated>2020-12-24T23:22:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/ghbJ8j54d7QnQFYEJlyVyg</id>
-    <link href="https://mp.weixin.qq.com/s/ghbJ8j54d7QnQFYEJlyVyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图像处理基础：颜色空间及其OpenCV实现</title>
-    <updated>2020-12-24T23:22:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/7z6pzoqM5O6phP7QdKllnw</id>
-    <link href="https://mp.weixin.qq.com/s/7z6pzoqM5O6phP7QdKllnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

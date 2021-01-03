@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T13:29:50+08:00</updated>
+  <updated>2021-01-03T13:29:55+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>通过编写一个简单的游戏来学习 Rust | Linux 中国</title>
+    <updated>2021-01-03T12:03:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/kTt0eWAjpkxDExGyfYRAwg</id>
+    <link href="https://mp.weixin.qq.com/s/kTt0eWAjpkxDExGyfYRAwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用 heredoc 作为一个文本编辑器 | Linux 中国</title>
+    <updated>2021-01-03T12:03:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/79s5oS79m1AL-9hwqcBlYQ</id>
+    <link href="https://mp.weixin.qq.com/s/79s5oS79m1AL-9hwqcBlYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中国电信推出业内首款量子安全通话产品“量子密话” | 新闻拍一拍</title>
+    <updated>2021-01-03T12:03:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/yzdQQ7taWzL89vNwXUp_aA</id>
+    <link href="https://mp.weixin.qq.com/s/yzdQQ7taWzL89vNwXUp_aA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 Linux 让旧 MacBook 重获新生 | Linux 中国</title>
     <updated>2021-01-02T12:04:17+08:00</updated>
@@ -123,27 +144,6 @@
     <updated>2020-12-28T08:35:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/hUAEqlXtgXli-tdsfqvU6g</id>
     <link href="https://mp.weixin.qq.com/s/hUAEqlXtgXli-tdsfqvU6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里云发布 Anolis OS，欲替代 CentOS | 新闻拍一拍</title>
-    <updated>2020-12-28T08:35:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/1b1zmm-pYQnsx0LwR6LmRA</id>
-    <link href="https://mp.weixin.qq.com/s/1b1zmm-pYQnsx0LwR6LmRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>初次登录 Linux 服务器马上要做的 9 件事 | Linux 中国</title>
-    <updated>2020-12-27T16:45:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/EcnR8kwRCCCGOVYf1qNGCQ</id>
-    <link href="https://mp.weixin.qq.com/s/EcnR8kwRCCCGOVYf1qNGCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 Fedora Linux 上安装 RPM 文件 | Linux 中国</title>
-    <updated>2020-12-27T16:45:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/HEnq_1tHVtneiZDLyNeDEw</id>
-    <link href="https://mp.weixin.qq.com/s/HEnq_1tHVtneiZDLyNeDEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
