@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈码农画像 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T02:10:47+08:00</updated>
+  <updated>2021-01-03T16:36:48+08:00</updated>
   <subtitle>一线码农错题本，坚持分享原创硬核干货，内容考究，关注大前端、.NetCore、容器云 &amp; Devops 全技术链，#码农画像 #技术护城河</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>对CORS OPTIONS预检请求的一些思考</title>
+    <updated>2021-01-03T15:40:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/a3sqzxUA0q1_DWllD9MqUA</id>
+    <link href="https://mp.weixin.qq.com/s/a3sqzxUA0q1_DWllD9MqUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【源码解读】Vue与ASP.NET Core WebAPI的集成</title>
+    <updated>2021-01-03T15:40:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/jBWvakcWrHXCgmtnRHYfIg</id>
+    <link href="https://mp.weixin.qq.com/s/jBWvakcWrHXCgmtnRHYfIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>临近年关，发生两起磁盘占满引发的服务下线故障</title>
     <updated>2020-12-28T18:54:08+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-10-30T16:48:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/w4v2Vi6foBcMMlMOkUqf_w</id>
     <link href="https://mp.weixin.qq.com/s/w4v2Vi6foBcMMlMOkUqf_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学完这篇依赖注入，与面试官扯皮就没有问题了。</title>
-    <updated>2020-10-18T23:03:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/DWK_5XRJOJ-SWjzyo0Fy5A</id>
-    <link href="https://mp.weixin.qq.com/s/DWK_5XRJOJ-SWjzyo0Fy5A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

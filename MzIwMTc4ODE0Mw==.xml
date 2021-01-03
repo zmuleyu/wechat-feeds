@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:27:50+08:00</updated>
+  <updated>2021-01-03T16:34:45+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>知识表示与融入技术前沿进展及应用</title>
+    <updated>2021-01-03T13:38:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/necu4iBO6SZG7ImCPMKS4w</id>
+    <link href="https://mp.weixin.qq.com/s/necu4iBO6SZG7ImCPMKS4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>岗位内推 | 阿里巴巴达摩院对话团队招聘研究型实习生</title>
+    <updated>2021-01-03T13:38:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/hy7NuT604-AKFlIdXY59Lw</id>
+    <link href="https://mp.weixin.qq.com/s/hy7NuT604-AKFlIdXY59Lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>无监督中文分词算法近年研究进展</title>
     <updated>2021-01-02T18:27:18+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-25T18:01:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/-sG0X6NRdN9LCRIXjnkDRg</id>
     <link href="https://mp.weixin.qq.com/s/-sG0X6NRdN9LCRIXjnkDRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从动力学角度看优化算法：为什么SimSiam不退化？</title>
-    <updated>2020-12-24T12:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/IJhoouyNezdwINjqOpAp_g</id>
-    <link href="https://mp.weixin.qq.com/s/IJhoouyNezdwINjqOpAp_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何理解 Graph Convolutional Network (GCN)？</title>
-    <updated>2020-12-24T12:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/phbAkw8V0CnsZ2kBJxd37g</id>
-    <link href="https://mp.weixin.qq.com/s/phbAkw8V0CnsZ2kBJxd37g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

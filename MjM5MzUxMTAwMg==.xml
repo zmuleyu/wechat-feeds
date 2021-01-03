@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EDN电子技术设计 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:24:42+08:00</updated>
+  <updated>2021-01-03T16:32:13+08:00</updated>
   <subtitle>EDN China电子技术设计为电子设计工程师和设计经理人提供前沿深度的电子资讯、设计实例应用方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PCB与FPC之间有什么区别？你都知道吗？</title>
+    <updated>2021-01-03T16:26:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/8jqXzSzQGfs8iGaDfQF2bw</id>
+    <link href="https://mp.weixin.qq.com/s/8jqXzSzQGfs8iGaDfQF2bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CPU如何计算1+1？如何进行四则运算的？</title>
+    <updated>2021-01-03T16:26:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/5UDFfJ_fZwaof94KLiPasw</id>
+    <link href="https://mp.weixin.qq.com/s/5UDFfJ_fZwaof94KLiPasw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>抖动 — 噪声二元性与眼图的剖析</title>
+    <updated>2021-01-03T16:26:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/gSisU5vBfWeAjoJ-yYfHQA</id>
+    <link href="https://mp.weixin.qq.com/s/gSisU5vBfWeAjoJ-yYfHQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C语言太简单？这14道C语言谜题，你能答对几个？</title>
     <updated>2021-01-02T18:24:27+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-30T12:59:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/OWt36Rhar2iVZsGWG4h93A</id>
     <link href="https://mp.weixin.qq.com/s/OWt36Rhar2iVZsGWG4h93A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无人机远程识别有什么用？美国FAA公布UAV Remote ID最终规定，中国呢？</title>
-    <updated>2020-12-29T15:35:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/2AF14z_0TDHP2QOs5IT-vQ</id>
-    <link href="https://mp.weixin.qq.com/s/2AF14z_0TDHP2QOs5IT-vQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NFC开发设计大赛前三甲是什么？</title>
-    <updated>2020-12-29T15:35:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/H3bg97Qpy1-UsQGFJRd7Ww</id>
-    <link href="https://mp.weixin.qq.com/s/H3bg97Qpy1-UsQGFJRd7Ww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>艾睿电子毫米波雷达存在检测方案联合研讨会</title>
-    <updated>2020-12-29T15:35:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/PIvKeBzjpOPFTLWXt4fDQA</id>
-    <link href="https://mp.weixin.qq.com/s/PIvKeBzjpOPFTLWXt4fDQA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

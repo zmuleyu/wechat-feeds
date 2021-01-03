@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:25:59+08:00</updated>
+  <updated>2021-01-03T16:17:49+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何成为一名区块链开发者（一）</title>
+    <updated>2021-01-03T14:58:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/A_fu8fuO7cqIqH3r8uT8Sg</id>
+    <link href="https://mp.weixin.qq.com/s/A_fu8fuO7cqIqH3r8uT8Sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构中的熔断器设计与实现（ Golang 版）</title>
     <updated>2020-12-31T04:31:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T10:01:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/YeNW_x6CIvM8Jcq2J2ZA3Q</id>
     <link href="https://mp.weixin.qq.com/s/YeNW_x6CIvM8Jcq2J2ZA3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工程师应培养哪些基本功？听美团技术大咖怎么说</title>
-    <updated>2020-12-20T15:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/DIOi0xqqKVXvtKo9lVN1Uw</id>
-    <link href="https://mp.weixin.qq.com/s/DIOi0xqqKVXvtKo9lVN1Uw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
