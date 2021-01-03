@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:29:05+08:00</updated>
+  <updated>2021-01-03T11:34:16+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“开源、共享、创新” 2020 中国.NET开发者大会小结</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/DXVX70VD18QLhao0OJ-UNw</id>
+    <link href="https://mp.weixin.qq.com/s/DXVX70VD18QLhao0OJ-UNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内存泄漏问题分析之非托管资源泄漏</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/fWE4BXgwUVFbYYRIPPfChw</id>
+    <link href="https://mp.weixin.qq.com/s/fWE4BXgwUVFbYYRIPPfChw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ML.NET生成器带来了许多错误修复和增强功能以及新功能</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/oOoog2y9ty1PQUGzhrUTSA</id>
+    <link href="https://mp.weixin.qq.com/s/oOoog2y9ty1PQUGzhrUTSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 ML.NET 识别乐高颜色块</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/4hTePscJh2bi_hcpnmbRig</id>
+    <link href="https://mp.weixin.qq.com/s/4hTePscJh2bi_hcpnmbRig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>写给自己，2020的年终总结</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/rhMN2LtVmAutnZihREkRnA</id>
+    <link href="https://mp.weixin.qq.com/s/rhMN2LtVmAutnZihREkRnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我的2020年终总结：新的角色，新的开始</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/9CA0c8xjbfoe5g6dm2Q27g</id>
+    <link href="https://mp.weixin.qq.com/s/9CA0c8xjbfoe5g6dm2Q27g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flash 生命终止，HTML5能否完美替代？</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/GNG6bx5t9QA6IfsLsY87mA</id>
+    <link href="https://mp.weixin.qq.com/s/GNG6bx5t9QA6IfsLsY87mA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微信适配国产操作系统：原生支持 Linux</title>
+    <updated>2021-01-02T17:11:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/QVgMgm1erJYRVXrdvI-o5w</id>
+    <link href="https://mp.weixin.qq.com/s/QVgMgm1erJYRVXrdvI-o5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET 5 开源工作流框架elsa技术研究</title>
     <updated>2021-01-02T10:01:51+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2020-12-31T21:43:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/VkTNZI7rRd2FP2NjyHT-ng</id>
     <link href="https://mp.weixin.qq.com/s/VkTNZI7rRd2FP2NjyHT-ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 反射</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/immJJxztWHd7a3meBbRj4w</id>
-    <link href="https://mp.weixin.qq.com/s/immJJxztWHd7a3meBbRj4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Windows Terminal 新手入门</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/tJlOPieNI53naCzduMWSRA</id>
-    <link href="https://mp.weixin.qq.com/s/tJlOPieNI53naCzduMWSRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>银河麒麟V10入选2020中国十大科技新闻</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/F2jNnn-loA6GUh-qb0MVEA</id>
-    <link href="https://mp.weixin.qq.com/s/F2jNnn-loA6GUh-qb0MVEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯公测云开发低码！实战评测</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/QJ7k5GeHgdQFrKhj79CGmQ</id>
-    <link href="https://mp.weixin.qq.com/s/QJ7k5GeHgdQFrKhj79CGmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/u-I-KFkh_d0IkewkAKiaNA</id>
-    <link href="https://mp.weixin.qq.com/s/u-I-KFkh_d0IkewkAKiaNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dapr微服务应用开发系列3：服务调用构件块</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/F5F259IpuxaLNIpIYH_E5w</id>
-    <link href="https://mp.weixin.qq.com/s/F5F259IpuxaLNIpIYH_E5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源码解读】Vue与ASP.NET Core WebAPI的集成</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/sqlqGG4aFy2JWxj96kGnPg</id>
-    <link href="https://mp.weixin.qq.com/s/sqlqGG4aFy2JWxj96kGnPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>玩转git-flow工作流-分支解析</title>
-    <updated>2020-12-31T19:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/KQBgo7OAOGNJIhlqavV6WQ</id>
-    <link href="https://mp.weixin.qq.com/s/KQBgo7OAOGNJIhlqavV6WQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

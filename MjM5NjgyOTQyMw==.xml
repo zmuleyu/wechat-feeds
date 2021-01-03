@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:25:32+08:00</updated>
+  <updated>2021-01-03T11:38:42+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这篇推送，事关你的冬日快乐 | 手绘</title>
+    <updated>2021-01-02T17:59:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/489PzC-zhYfprLrFEVg0UA</id>
+    <link href="https://mp.weixin.qq.com/s/489PzC-zhYfprLrFEVg0UA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>夜听丨2021，我们准备好了</title>
     <updated>2021-01-02T11:54:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T15:11:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/cgOvaV9NWXlobvBgqF6-Jw</id>
     <link href="https://mp.weixin.qq.com/s/cgOvaV9NWXlobvBgqF6-Jw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《人民日报》：测风云气象，守皓月晴空！</title>
-    <updated>2020-12-30T17:01:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Eb0EyUKtl35idhrBoX_PVw</id>
-    <link href="https://mp.weixin.qq.com/s/Eb0EyUKtl35idhrBoX_PVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

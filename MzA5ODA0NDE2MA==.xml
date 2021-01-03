@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:35:52+08:00</updated>
+  <updated>2021-01-03T11:42:42+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>越南已经成为复杂供应链攻击的主要目标</title>
+    <updated>2021-01-02T00:23:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/A12GPyitAyyaEn4R3aKIvg</id>
+    <link href="https://mp.weixin.qq.com/s/A12GPyitAyyaEn4R3aKIvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>芬兰议会称议员邮箱遭黑客入侵</title>
     <updated>2021-01-02T00:22:35+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-25T17:48:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/cNdiR1BPC769nK2jUxK4Yg</id>
     <link href="https://mp.weixin.qq.com/s/cNdiR1BPC769nK2jUxK4Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>渗透测试中的Exchange</title>
-    <updated>2020-12-24T17:52:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/-xaqZ-4mD0iOPYSnvFkZSg</id>
-    <link href="https://mp.weixin.qq.com/s/-xaqZ-4mD0iOPYSnvFkZSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

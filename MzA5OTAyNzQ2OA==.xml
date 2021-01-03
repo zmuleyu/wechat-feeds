@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:30:35+08:00</updated>
+  <updated>2021-01-03T11:35:52+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>严选DevOps工具链的建设</title>
+    <updated>2021-01-02T17:52:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/w7Z48ehh3uleXfbkyp75KA</id>
+    <link href="https://mp.weixin.qq.com/s/w7Z48ehh3uleXfbkyp75KA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2021-01-02T17:52:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/K4bPlXGCcaTig88dOinRag</id>
+    <link href="https://mp.weixin.qq.com/s/K4bPlXGCcaTig88dOinRag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年Kubernetes的7种最佳日志管理工具</title>
     <updated>2021-01-01T21:21:25+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-25T07:13:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/NANf40RTMk6s8MFfhURPHw</id>
     <link href="https://mp.weixin.qq.com/s/NANf40RTMk6s8MFfhURPHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>假如重新设计Kubernetes</title>
-    <updated>2020-12-24T07:07:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/QgROwPVRgpE-jF7vMtjJcQ</id>
-    <link href="https://mp.weixin.qq.com/s/QgROwPVRgpE-jF7vMtjJcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训</title>
-    <updated>2020-12-24T07:07:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/zX0y3dsfDLgRIlJQ90rU8Q</id>
-    <link href="https://mp.weixin.qq.com/s/zX0y3dsfDLgRIlJQ90rU8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

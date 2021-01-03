@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EdisonTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:38:37+08:00</updated>
+  <updated>2021-01-03T11:46:59+08:00</updated>
   <subtitle>技术•产品•管理•读书•成长</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最近回顾了张磊老师《深入剖析K8s》课程里的小鲸鱼大事记，我将其整理成了一张脑图。它展示了容器技术圈2013~2019年间的风云变幻，Docker横空出世对传统PaaS项目降维打击，Kubernetes从三足鼎立中突出重围成为了容器编排的事实标准，简直就像观看了一部电视剧。</title>
+    <updated>2021-01-02T10:47:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/5Bx5NExI8YWbu1r0lkQs3w</id>
+    <link href="https://mp.weixin.qq.com/s/5Bx5NExI8YWbu1r0lkQs3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分享一张从郑晔老师《软件设计之美》课程中学到的程序语言发展简史。在主流路径中，C和C++将我们带入了不用太过关注计算机硬件细节的时代，但是它们仍然存在内存难以管理的问题，使得支持GC的Java开始崭露头角，并在企业级市场大放异彩。跨平台的C#则在语言特性上领先了Java近10年。</title>
     <updated>2021-01-01T21:16:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T16:39:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/Rj1HJDPTJyxN2idraobErA</id>
     <link href="https://mp.weixin.qq.com/s/Rj1HJDPTJyxN2idraobErA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>敏捷 | 如何做好服务型Scrum Master？</title>
-    <updated>2020-12-23T16:25:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/MjGKczmIMEoR7duEJ763Ig</id>
-    <link href="https://mp.weixin.qq.com/s/MjGKczmIMEoR7duEJ763Ig" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

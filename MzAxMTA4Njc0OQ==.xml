@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T13:43:11+08:00</updated>
+  <updated>2021-01-03T11:45:45+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go语言爱好者周刊：第 76 期 — 新年做计划了吗？</title>
+    <updated>2021-01-03T10:18:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/c1lKqHNBf8T4ZM3xFI-BvA</id>
+    <link href="https://mp.weixin.qq.com/s/c1lKqHNBf8T4ZM3xFI-BvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谁说杭州 Go 职位少？哈啰出行招人了</title>
+    <updated>2021-01-03T10:18:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/cHE5OELXjKWGg-k8972PdQ</id>
+    <link href="https://mp.weixin.qq.com/s/cHE5OELXjKWGg-k8972PdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 34：反射</title>
+    <updated>2021-01-03T10:18:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/0BAGtxfhAx9A7uwYtvYMLg</id>
+    <link href="https://mp.weixin.qq.com/s/0BAGtxfhAx9A7uwYtvYMLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我的 Promtheus 到底啥时候报警？</title>
     <updated>2021-01-02T11:00:23+08:00</updated>
@@ -92,13 +113,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>阿里彻底拆中台了！大厂架构设计所追求的到底是什么？</title>
-    <updated>2020-12-28T22:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/eSGjPJhtgjYw2Exhosb5BA</id>
-    <link href="https://mp.weixin.qq.com/s/eSGjPJhtgjYw2Exhosb5BA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Go 项目实战：实现一个 Redis(8) 之TCC分布式事务</title>
     <updated>2020-12-28T22:42:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/43ksyukuCOHh4ZJZUHvZEQ</id>
@@ -120,13 +134,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为什么资深程序员都建议学习C++？</title>
-    <updated>2020-12-27T23:27:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/YMg2T_aRBME0BTPkuQT9nQ</id>
-    <link href="https://mp.weixin.qq.com/s/YMg2T_aRBME0BTPkuQT9nQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Go 微服务过载保护原理与实战</title>
     <updated>2020-12-27T23:27:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/ImCJ62t4Ie4ZOf_ZmHb6-Q</id>
@@ -138,13 +145,6 @@
     <updated>2020-12-27T23:27:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/50mG7woUHc3PmMaSXtIGYA</id>
     <link href="https://mp.weixin.qq.com/s/50mG7woUHc3PmMaSXtIGYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解 Go 内联优化</title>
-    <updated>2020-12-27T23:27:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/89QLSqGzH0yUM6cO6V4zmQ</id>
-    <link href="https://mp.weixin.qq.com/s/89QLSqGzH0yUM6cO6V4zmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

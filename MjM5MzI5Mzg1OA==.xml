@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T13:29:26+08:00</updated>
+  <updated>2021-01-03T11:32:15+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 ASP.NET Core 中使用 NLog 的高级特性</title>
+    <updated>2021-01-03T11:11:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/iFoopNbeZbNnzoOEPxTuYg</id>
+    <link href="https://mp.weixin.qq.com/s/iFoopNbeZbNnzoOEPxTuYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET/C#程序开发中如何更优美地实现失败任务重试的逻辑？</title>
+    <updated>2021-01-03T11:11:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/UXAHrhvHZnw1CdATkXYeSg</id>
+    <link href="https://mp.weixin.qq.com/s/UXAHrhvHZnw1CdATkXYeSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 7. 数字类型介绍</title>
+    <updated>2021-01-03T11:11:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/7YtBwd1cV7aQlltqNQPOnw</id>
+    <link href="https://mp.weixin.qq.com/s/7YtBwd1cV7aQlltqNQPOnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.NET Core 中 使用 cookies</title>
     <updated>2021-01-02T12:08:02+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-28T11:16:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/OrTsH_b25pYGcS1u5k33MQ</id>
     <link href="https://mp.weixin.qq.com/s/OrTsH_b25pYGcS1u5k33MQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 投影(Projection)</title>
-    <updated>2020-12-27T15:26:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/PcJMCwJfNZE1k_3FKJ63lw</id>
-    <link href="https://mp.weixin.qq.com/s/PcJMCwJfNZE1k_3FKJ63lw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>利用 C# 中的 FileSystemWatcher 制作一个文件夹监控小工具</title>
-    <updated>2020-12-27T15:26:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/PGkHEkrNopxK6OfOYjh3Yg</id>
-    <link href="https://mp.weixin.qq.com/s/PGkHEkrNopxK6OfOYjh3Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何解决在ASP.NET Core中找不到图像时设置默认图像</title>
-    <updated>2020-12-27T15:26:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/KxxcaqYvKCNpk9mQoAdM0Q</id>
-    <link href="https://mp.weixin.qq.com/s/KxxcaqYvKCNpk9mQoAdM0Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
