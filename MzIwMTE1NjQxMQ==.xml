@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱计算机视觉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T07:32:38+08:00</updated>
+  <updated>2021-01-04T01:55:35+08:00</updated>
   <subtitle>关注计算机视觉与机器学习技术的最前沿，“有价值有深度”，分享开源技术与最新论文解读，传播CVML技术的业内最佳实践。www.52cv.net QQ群: 805388940，CV君个人账号：Your-Word。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无中生有！没有视觉信号的视觉语音增强</title>
+    <updated>2021-01-03T23:59:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/PqQmF3ONMEw7M0KJqHueUQ</id>
+    <link href="https://mp.weixin.qq.com/s/PqQmF3ONMEw7M0KJqHueUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>即插即用！视频超分中的涨点神器：iSeeBetter</title>
     <updated>2021-01-02T23:35:22+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-28T16:39:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/fMQBWcGecY_iyIXo7VPvog</id>
     <link href="https://mp.weixin.qq.com/s/fMQBWcGecY_iyIXo7VPvog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Facebook开源高效图像Transformer，速度、准确率与泛化性能媲美SOTA CNN</title>
-    <updated>2020-12-27T19:56:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/FmlCX1okXxOiJeBPQ6wuOQ</id>
-    <link href="https://mp.weixin.qq.com/s/FmlCX1okXxOiJeBPQ6wuOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

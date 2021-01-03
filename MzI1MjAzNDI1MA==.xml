@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T23:21:15+08:00</updated>
+  <updated>2021-01-04T01:58:30+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2021-01-03 为什么2021年将成为系统程序员的Rust年？</title>
+    <updated>2021-01-03T22:47:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/kjhOTye67fA_Y3-uGU2VsA</id>
+    <link href="https://mp.weixin.qq.com/s/kjhOTye67fA_Y3-uGU2VsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】dcli 0.0.7 发布</title>
+    <updated>2021-01-03T22:47:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/NUWMM7YCNgeOuWiuYshhmw</id>
+    <link href="https://mp.weixin.qq.com/s/NUWMM7YCNgeOuWiuYshhmw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】文件上传服务</title>
+    <updated>2021-01-03T22:47:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/27gFtBJfDf-NC4gsBth1Sw</id>
+    <link href="https://mp.weixin.qq.com/s/27gFtBJfDf-NC4gsBth1Sw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【请收藏】RustChinaConf2020 B站和Github地址</title>
     <updated>2021-01-02T22:20:31+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-27T18:42:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/oD4kf5gsoXjSAynmYkGQUw</id>
     <link href="https://mp.weixin.qq.com/s/oD4kf5gsoXjSAynmYkGQUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust大会第一天，震撼！！！</title>
-    <updated>2020-12-26T23:58:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/B4tPk83xjBrAmHxgUSpdSQ</id>
-    <link href="https://mp.weixin.qq.com/s/B4tPk83xjBrAmHxgUSpdSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-25 第一届Rust China Conf明天正式开幕</title>
-    <updated>2020-12-25T23:49:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/ibrEwHO-gCK0FbYvhpKMGQ</id>
-    <link href="https://mp.weixin.qq.com/s/ibrEwHO-gCK0FbYvhpKMGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust大会展区介绍：各种精美奖品等你来拿</title>
-    <updated>2020-12-24T23:17:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/qls_Dc2MJSkuc7M-1QjRBQ</id>
-    <link href="https://mp.weixin.qq.com/s/qls_Dc2MJSkuc7M-1QjRBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
