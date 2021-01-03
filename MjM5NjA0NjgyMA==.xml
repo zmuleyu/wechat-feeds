@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:19:02+08:00</updated>
+  <updated>2021-01-03T20:18:10+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一次文件读取漏洞的“危害升级”历程</title>
+    <updated>2021-01-03T12:11:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/BFJcrzP12v2Coi078s7iVQ</id>
+    <link href="https://mp.weixin.qq.com/s/BFJcrzP12v2Coi078s7iVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用wsb-detect检测你是否在Windows沙盒中</title>
+    <updated>2021-01-03T12:11:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/PqkYgCwhObm3SNHiNSuTSQ</id>
+    <link href="https://mp.weixin.qq.com/s/PqkYgCwhObm3SNHiNSuTSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Emotet银行木马分析报告</title>
+    <updated>2021-01-03T12:11:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/hjY3kyPCObnzlcbCfHF4uw</id>
+    <link href="https://mp.weixin.qq.com/s/hjY3kyPCObnzlcbCfHF4uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DNSX：一款功能强大的多用途DNS工具包</title>
+    <updated>2021-01-03T12:11:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/LX8ul6KhTigrUn5Zs1TAFA</id>
+    <link href="https://mp.weixin.qq.com/s/LX8ul6KhTigrUn5Zs1TAFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据安全运营视角下的数据资产安全治理</title>
     <updated>2021-01-02T18:41:27+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-29T21:30:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/KO-sAJx8SyQYtdsTjCHlJw</id>
     <link href="https://mp.weixin.qq.com/s/KO-sAJx8SyQYtdsTjCHlJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Medusalocker勒索病毒，小心勒索加密无得解</title>
-    <updated>2020-12-29T21:30:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/-TyLDwLQKfdFnkFGje9irg</id>
-    <link href="https://mp.weixin.qq.com/s/-TyLDwLQKfdFnkFGje9irg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>相约明日，不见不散 | CIS 2020参会指南</title>
-    <updated>2020-12-28T18:48:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/0Td5PGvNBmhFRky0qIS2lg</id>
-    <link href="https://mp.weixin.qq.com/s/0Td5PGvNBmhFRky0qIS2lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用Go365对Office365用户进行渗透</title>
-    <updated>2020-12-27T20:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/zkh8mFJ7GyAFlZBk4B0wVw</id>
-    <link href="https://mp.weixin.qq.com/s/zkh8mFJ7GyAFlZBk4B0wVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>疑似双尾蝎APT组织以CIA资助哈马斯相关信息为诱饵</title>
-    <updated>2020-12-27T20:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/5jEBcqTAC-00oX-aj1vbNA</id>
-    <link href="https://mp.weixin.qq.com/s/5jEBcqTAC-00oX-aj1vbNA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:17:44+08:00</updated>
+  <updated>2021-01-03T20:17:17+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>亚马逊“AWS”商标被判侵权：停止使用，赔偿7646万元</title>
+    <updated>2021-01-03T13:17:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/B2-Nx_dNhNi8fvQgMGMyBg</id>
+    <link href="https://mp.weixin.qq.com/s/B2-Nx_dNhNi8fvQgMGMyBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>华为向Linux Kernel 5.10提交的补丁数量排名第一</title>
+    <updated>2021-01-03T13:17:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/SHNVdMD72vRJ1GnF-qeohA</id>
+    <link href="https://mp.weixin.qq.com/s/SHNVdMD72vRJ1GnF-qeohA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年全球程序员收入报告出炉，字节跳动成唯一上榜中国公司</title>
     <updated>2021-01-02T12:32:08+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-29T14:53:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/KxRLfy_AfzRQgH6uBPGm-w</id>
     <link href="https://mp.weixin.qq.com/s/KxRLfy_AfzRQgH6uBPGm-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 5.10 Btrfs性能严重衰退：原本15秒解压时间现在要5分钟</title>
-    <updated>2020-12-28T21:03:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/OlbzedD9s7C8ncl1Qt6AtA</id>
-    <link href="https://mp.weixin.qq.com/s/OlbzedD9s7C8ncl1Qt6AtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计算机巨星陨落！图灵奖得主 Edmund Clarke 因感染“新冠”逝世</title>
-    <updated>2020-12-28T21:03:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/-UtdWfbm40irvwZnZq4rsw</id>
-    <link href="https://mp.weixin.qq.com/s/-UtdWfbm40irvwZnZq4rsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
