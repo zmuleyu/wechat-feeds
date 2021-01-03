@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:11:17+08:00</updated>
+  <updated>2021-01-03T23:09:16+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021 搞定 Kafka，这篇就够了！</title>
+    <updated>2021-01-02T19:23:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/OrULkL3HTnJVUiXUF9-EVg</id>
+    <link href="https://mp.weixin.qq.com/s/OrULkL3HTnJVUiXUF9-EVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Idea公司真牛逼，发行最适合程序员编程字体~</title>
+    <updated>2021-01-02T19:23:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/CL6dAmDMxgmBqoOu-uiVWg</id>
+    <link href="https://mp.weixin.qq.com/s/CL6dAmDMxgmBqoOu-uiVWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构中配置中心的选择</title>
     <updated>2021-01-02T15:46:33+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-23T22:27:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/ozhc1_5Z-Ltg2ds_-hACYA</id>
     <link href="https://mp.weixin.qq.com/s/ozhc1_5Z-Ltg2ds_-hACYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网易游戏基于 Flink 的流式 ETL 建设</title>
-    <updated>2020-12-22T14:40:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/pGUYjzsla3Jlfe-6ALBBGQ</id>
-    <link href="https://mp.weixin.qq.com/s/pGUYjzsla3Jlfe-6ALBBGQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

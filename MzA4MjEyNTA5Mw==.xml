@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T23:29:03+08:00</updated>
+  <updated>2021-01-03T23:27:37+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么黑客从不用鼠标，一直在敲键盘？看完长见识了</title>
+    <updated>2021-01-03T22:02:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/QS0Ihph2JzgaQhI1cauHcA</id>
+    <link href="https://mp.weixin.qq.com/s/QS0Ihph2JzgaQhI1cauHcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>自动化测试基础篇：Selenium unittest 简介</title>
+    <updated>2021-01-03T22:02:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/D_2fYADN4Ypc2PzfTYPo4Q</id>
+    <link href="https://mp.weixin.qq.com/s/D_2fYADN4Ypc2PzfTYPo4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从踩坑学Python内部原理（13）：​None和元组的那点事儿</title>
+    <updated>2021-01-03T22:02:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/-LgO5tVk4qQD6ChyhdYkVg</id>
+    <link href="https://mp.weixin.qq.com/s/-LgO5tVk4qQD6ChyhdYkVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谁是2020年最强Python库？年度Top10出炉</title>
     <updated>2021-01-02T22:18:07+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-27T19:16:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/jqRSpNnSU4Bs-qNk2RoN5Q</id>
     <link href="https://mp.weixin.qq.com/s/jqRSpNnSU4Bs-qNk2RoN5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从踩坑学Python内部原理（6）：出人意料的 is ！</title>
-    <updated>2020-12-27T19:16:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/3Ajj-NNrBIRGxMbSoWNn8g</id>
-    <link href="https://mp.weixin.qq.com/s/3Ajj-NNrBIRGxMbSoWNn8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5.4k Star！简单又全面的容器漏洞扫描工具：Trivy</title>
-    <updated>2020-12-27T19:16:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/idKxfMCipj6zGISHR1VFvQ</id>
-    <link href="https://mp.weixin.qq.com/s/idKxfMCipj6zGISHR1VFvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么企业里用 VS Code 的这么多？</title>
-    <updated>2020-12-26T21:58:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/el-vYoyXCKqdqGsKIS30xw</id>
-    <link href="https://mp.weixin.qq.com/s/el-vYoyXCKqdqGsKIS30xw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
