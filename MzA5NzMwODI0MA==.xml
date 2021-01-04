@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知识小集 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:30:55+08:00</updated>
+  <updated>2021-01-04T11:27:25+08:00</updated>
   <subtitle>追踪移动大前端最新技术和行业发展，关注移动研发的架构、性能、底层探索、工程化和跨平台方案</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>养小鱼 - 写给三十岁前的自己</title>
+    <updated>2021-01-03T22:01:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/RLPsrxiD2ILbhLU6drvaYQ</id>
+    <link href="https://mp.weixin.qq.com/s/RLPsrxiD2ILbhLU6drvaYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>百度App Objective-C/Swift 组件化混编之路（一）</title>
     <updated>2020-12-29T22:58:44+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-16T23:04:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/h8XWWgTXJknjA80xaQQMeg</id>
     <link href="https://mp.weixin.qq.com/s/h8XWWgTXJknjA80xaQQMeg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从实际问题看 SwiftUI 和 Widget 编程</title>
-    <updated>2020-12-16T08:04:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/xCX6x9YMoU-E-tcY_o0rZg</id>
-    <link href="https://mp.weixin.qq.com/s/xCX6x9YMoU-E-tcY_o0rZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

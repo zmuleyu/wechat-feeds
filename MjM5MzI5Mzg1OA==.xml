@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T11:32:15+08:00</updated>
+  <updated>2021-01-04T11:36:18+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 ASP.NET Core 中 使用 功能开关</title>
+    <updated>2021-01-04T10:11:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/PGdmMR80ySU2dxBa9nFJzg</id>
+    <link href="https://mp.weixin.qq.com/s/PGdmMR80ySU2dxBa9nFJzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ASP.NET Core Controller与IOC的羁绊</title>
+    <updated>2021-01-04T10:11:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/R6EuLX_GViGMOehcPonuGg</id>
+    <link href="https://mp.weixin.qq.com/s/R6EuLX_GViGMOehcPonuGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 10. string 拼接 和 format 介绍</title>
+    <updated>2021-01-04T10:11:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/JA6-W6rOOOi94O4nrBhTSA</id>
+    <link href="https://mp.weixin.qq.com/s/JA6-W6rOOOi94O4nrBhTSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.NET Core 中使用 NLog 的高级特性</title>
     <updated>2021-01-03T11:11:48+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T12:25:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/bjNucOIeItW43QyHI2jT2Q</id>
     <link href="https://mp.weixin.qq.com/s/bjNucOIeItW43QyHI2jT2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用 静态文件</title>
-    <updated>2020-12-28T11:16:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/x5QCO5Ly3RCVvLI8VcajgA</id>
-    <link href="https://mp.weixin.qq.com/s/x5QCO5Ly3RCVvLI8VcajgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 WSL Ubuntu 上使用 .NET 进行跨平台开发新手入门</title>
-    <updated>2020-12-28T11:16:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/R2f9orjcgGGTuU5c-Lpj4w</id>
-    <link href="https://mp.weixin.qq.com/s/R2f9orjcgGGTuU5c-Lpj4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎样使用C# 获取WIFI的连接状态？</title>
-    <updated>2020-12-28T11:16:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/OrTsH_b25pYGcS1u5k33MQ</id>
-    <link href="https://mp.weixin.qq.com/s/OrTsH_b25pYGcS1u5k33MQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

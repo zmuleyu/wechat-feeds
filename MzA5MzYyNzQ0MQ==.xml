@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T20:18:53+08:00</updated>
+  <updated>2021-01-04T11:37:00+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我们月刊最受欢迎的开源项目 Top10（2020 年）</title>
+    <updated>2021-01-03T19:40:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/dQ4Bww6kgpMqM1B-oJSyEA</id>
+    <link href="https://mp.weixin.qq.com/s/dQ4Bww6kgpMqM1B-oJSyEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>要放假了吧？送你几本 Python 图书庆祝下</title>
     <updated>2020-12-30T17:31:13+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T09:17:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/OiZUgNlI1m-BHloKbY2zDg</id>
     <link href="https://mp.weixin.qq.com/s/OiZUgNlI1m-BHloKbY2zDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub 邀您加入拥有 5600 万开发者的新社区</title>
-    <updated>2020-12-15T21:56:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/RIY8ZN6fMlPz_H7eLvh-kg</id>
-    <link href="https://mp.weixin.qq.com/s/RIY8ZN6fMlPz_H7eLvh-kg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

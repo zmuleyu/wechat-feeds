@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:38:13+08:00</updated>
+  <updated>2021-01-04T11:39:59+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用十小时涨粉一百万</title>
+    <updated>2021-01-03T13:24:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/_OBoSTJYU5V_CSEC6Bir1Q</id>
+    <link href="https://mp.weixin.qq.com/s/_OBoSTJYU5V_CSEC6Bir1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自制 os 极简教程 3：你离内核还差十万八千里</title>
     <updated>2020-12-30T19:53:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T16:45:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/zBfvjq3gry2zsMoMir6oZA</id>
     <link href="https://mp.weixin.qq.com/s/zBfvjq3gry2zsMoMir6oZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给1000个粉丝的一封信</title>
-    <updated>2020-11-29T09:48:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/ba5Ry7hn8Q9A-qLaGnXjcQ</id>
-    <link href="https://mp.weixin.qq.com/s/ba5Ry7hn8Q9A-qLaGnXjcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

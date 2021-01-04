@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android技术之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:43:36+08:00</updated>
+  <updated>2021-01-04T11:38:21+08:00</updated>
   <subtitle>主要分享Android相关技术文章、移动互联网的相关产品和资讯。关注你将学习到更多基础以及框架相关的知识，为您的工作助力！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>震惊！Android子线程也能修改UI？</title>
+    <updated>2021-01-04T08:35:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/R0B60xeQwIX7XE28GjCHfw</id>
+    <link href="https://mp.weixin.qq.com/s/R0B60xeQwIX7XE28GjCHfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯 Code Review 规范出炉！你还敢乱写代码？？</title>
+    <updated>2021-01-04T08:35:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/wy0ST2FZiFbPmI9GB4404g</id>
+    <link href="https://mp.weixin.qq.com/s/wy0ST2FZiFbPmI9GB4404g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kotlin 实战经验中的那些坑+最佳实践</title>
     <updated>2020-12-29T08:46:12+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-10T08:16:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/IJcWHEp818t4NzTUQGnTBQ</id>
     <link href="https://mp.weixin.qq.com/s/IJcWHEp818t4NzTUQGnTBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>xCrash 详解与源码分析</title>
-    <updated>2020-12-07T15:44:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/eXeW2Y0D6jTt2DAlsXjzXQ</id>
-    <link href="https://mp.weixin.qq.com/s/eXeW2Y0D6jTt2DAlsXjzXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

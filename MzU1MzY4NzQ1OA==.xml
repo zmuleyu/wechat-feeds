@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T16:36:02+08:00</updated>
+  <updated>2021-01-04T11:45:55+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里宣布拆中台，首当其冲就是优化数据中台架构？</title>
+    <updated>2021-01-03T22:37:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/9QQrBXr4abVDWrwnnUDVFg</id>
+    <link href="https://mp.weixin.qq.com/s/9QQrBXr4abVDWrwnnUDVFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Cilium 源码解析：Node 之间的健康探测（health probe）机制</title>
+    <updated>2021-01-03T22:37:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/iLvQTVwoUIewKsidJgVYhg</id>
+    <link href="https://mp.weixin.qq.com/s/iLvQTVwoUIewKsidJgVYhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>容器网络一直在颤抖，罪魁祸首竟然是 ipvs 定时器</title>
     <updated>2021-01-03T15:37:42+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-24T01:14:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/RQvACT3vga6suKwgr5hsrw</id>
     <link href="https://mp.weixin.qq.com/s/RQvACT3vga6suKwgr5hsrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Prometheus hang 住问题定位解决</title>
-    <updated>2020-12-23T18:05:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/xFhHOHV9-Vy4RdTF0IgZzg</id>
-    <link href="https://mp.weixin.qq.com/s/xFhHOHV9-Vy4RdTF0IgZzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

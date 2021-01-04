@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python小二 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:26:49+08:00</updated>
+  <updated>2021-01-04T11:27:36+08:00</updated>
   <subtitle>专注于Python基础入门教程、网络爬虫、自动化办公、数据可视化、数据分析、小游戏、Web开发以及PyCharm等常用开发工具分享。回复1024有惊喜。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见 Windows XP</title>
+    <updated>2021-01-03T17:11:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/1Frr6cLpeXCqlEXVU8SRtA</id>
+    <link href="https://mp.weixin.qq.com/s/1Frr6cLpeXCqlEXVU8SRtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软开源 Python 自动化神器 Playwright</title>
+    <updated>2021-01-03T17:11:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/WbpZjP45cHRcIueqbWIUXA</id>
+    <link href="https://mp.weixin.qq.com/s/WbpZjP45cHRcIueqbWIUXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微信这样发消息，好友以为手机拿反了</title>
     <updated>2020-12-31T06:52:54+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-12T10:38:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/onxZJ9QLqaR1AJz6IQVNSg</id>
     <link href="https://mp.weixin.qq.com/s/onxZJ9QLqaR1AJz6IQVNSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pandas从小白到大师学习指南</title>
-    <updated>2020-12-10T21:40:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/RScg4GqQn0Qm0qwxJMAgMA</id>
-    <link href="https://mp.weixin.qq.com/s/RScg4GqQn0Qm0qwxJMAgMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文学会用Python操作Excel+Word+CSV</title>
-    <updated>2020-12-10T21:40:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/OBsLjMY_oCuFgI04Knx1Rg</id>
-    <link href="https://mp.weixin.qq.com/s/OBsLjMY_oCuFgI04Knx1Rg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

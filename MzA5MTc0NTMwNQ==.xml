@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T23:25:53+08:00</updated>
+  <updated>2021-01-04T11:46:27+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>揭秘PB级大数据中台架构设计方案！OLTP、OLAP架构场景剖析</title>
+    <updated>2021-01-03T18:02:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/FIm16ekiUDskCsM3YzhUvA</id>
+    <link href="https://mp.weixin.qq.com/s/FIm16ekiUDskCsM3YzhUvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大数据权限安全在滴滴的实践</title>
+    <updated>2021-01-03T18:02:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/KFIG_b5j25wHPR5GJ_kwVA</id>
+    <link href="https://mp.weixin.qq.com/s/KFIG_b5j25wHPR5GJ_kwVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker 被禁，K8S 救火！</title>
     <updated>2021-01-03T18:05:01+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-12-25T09:04:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/DwyPt5YZgqE0O0HYEC1ZMQ</id>
     <link href="https://mp.weixin.qq.com/s/DwyPt5YZgqE0O0HYEC1ZMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>eBay 广告数据平台的 OLAP 系统演进实战</title>
-    <updated>2020-12-23T22:12:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/j9qxoSPUePK8CTrnd14koA</id>
-    <link href="https://mp.weixin.qq.com/s/j9qxoSPUePK8CTrnd14koA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>陶陶技术笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:49:57+08:00</updated>
+  <updated>2021-01-04T11:42:38+08:00</updated>
   <subtitle>陶陶的技术学习与分享，专注Java、SpringBoot、SpringCloud、分布式系统/微服务、中间件等领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大数据量查询容易OOM？试试MySQL流式查询</title>
+    <updated>2021-01-03T23:41:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/PStUk7LoHx64xacJnHp5ew</id>
+    <link href="https://mp.weixin.qq.com/s/PStUk7LoHx64xacJnHp5ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Elasticsearch索引生命周期管理方案</title>
     <updated>2020-12-30T00:34:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-14T09:18:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-14:/s/VkfEKwB97BYR66rvLs5NaQ</id>
     <link href="https://mp.weixin.qq.com/s/VkfEKwB97BYR66rvLs5NaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redisson 分布式锁详解与可视化监控方案</title>
-    <updated>2020-07-06T12:47:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-06:/s/siPZH--eql6ZDDX0hPmqZQ</id>
-    <link href="https://mp.weixin.qq.com/s/siPZH--eql6ZDDX0hPmqZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

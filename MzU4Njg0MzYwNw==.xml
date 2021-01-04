@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知了一笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T02:07:43+08:00</updated>
+  <updated>2021-01-04T11:44:15+08:00</updated>
   <subtitle>积累是一个孤独且枯燥的过程</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据仓库组件：Hive环境搭建和基础用法</title>
+    <updated>2021-01-04T07:59:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/FvBLX5e_ZAnCgTgo6ShoQQ</id>
+    <link href="https://mp.weixin.qq.com/s/FvBLX5e_ZAnCgTgo6ShoQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据应用场景之标签管理体系</title>
     <updated>2020-12-30T23:49:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-22T22:24:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/KXb9caKgJKsU5yVLsrfWDQ</id>
     <link href="https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构设计：微服务模式下，实现灰度发布模式</title>
-    <updated>2020-11-19T23:52:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/0yrKkeEdRAZFxJLYJmYR3g</id>
-    <link href="https://mp.weixin.qq.com/s/0yrKkeEdRAZFxJLYJmYR3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

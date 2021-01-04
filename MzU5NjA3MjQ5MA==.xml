@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java旅途 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T11:48:42+08:00</updated>
+  <updated>2021-01-04T11:52:08+08:00</updated>
   <subtitle>『Java旅途』专注于Java技术分享，包含但不局限于Spring Boot、Spring Cloud、消息队列、redis、JVM、Mysql、面经等，欢迎关注，一起学习、一起成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>生成随机数，居然有这么多花样！</title>
+    <updated>2021-01-03T23:00:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/jFqR7505Fy0uZ0CKIU2hzA</id>
+    <link href="https://mp.weixin.qq.com/s/jFqR7505Fy0uZ0CKIU2hzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java项目权威排名，第一名你绝对想不到！</title>
+    <updated>2021-01-03T23:00:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/vAOaEH7WieJ3sy77VF_KmQ</id>
+    <link href="https://mp.weixin.qq.com/s/vAOaEH7WieJ3sy77VF_KmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Validation最佳实践及实现原理</title>
     <updated>2021-01-03T09:39:08+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-24T20:50:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/A53lcxlzujsST_h0lDYXGw</id>
     <link href="https://mp.weixin.qq.com/s/A53lcxlzujsST_h0lDYXGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一张图看懂字节跳动8年创业史，太励志了吧</title>
-    <updated>2020-12-22T21:14:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/h6HLQ68TPZ0u_8WDOa2-ug</id>
-    <link href="https://mp.weixin.qq.com/s/h6HLQ68TPZ0u_8WDOa2-ug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

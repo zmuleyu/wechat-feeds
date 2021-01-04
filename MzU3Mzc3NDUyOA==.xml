@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>魔笛手CTO | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:42:29+08:00</updated>
+  <updated>2021-01-04T11:37:31+08:00</updated>
   <subtitle>光写代码不学习，早晚性能出问题！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>通过WSL本地启动Nacos</title>
+    <updated>2021-01-03T21:22:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/QwuX3iy4zvOkwtGFf6J4Ng</id>
+    <link href="https://mp.weixin.qq.com/s/QwuX3iy4zvOkwtGFf6J4Ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用LeetCode官方推荐的动画解《买卖股票的最佳时机》</title>
     <updated>2020-11-03T08:48:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-04-13T22:24:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-04-13:/s/8wt8NB-wTZTAHBhpbb-ISA</id>
     <link href="https://mp.weixin.qq.com/s/8wt8NB-wTZTAHBhpbb-ISA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>nohup · VS · screen</title>
-    <updated>2020-04-12T22:38:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-04-12:/s/n4OzSDr_Yw2h79-hHd4ERA</id>
-    <link href="https://mp.weixin.qq.com/s/n4OzSDr_Yw2h79-hHd4ERA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

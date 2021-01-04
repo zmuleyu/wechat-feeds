@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端自习课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T11:24:17+08:00</updated>
+  <updated>2021-01-04T11:27:44+08:00</updated>
   <subtitle>每日清晨，享受一篇前端优秀文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【CSS】828- 纯CSS导航栏下划线跟随效果</title>
+    <updated>2021-01-03T22:09:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/umva-l9IPaikMnwxPwpP_Q</id>
+    <link href="https://mp.weixin.qq.com/s/umva-l9IPaikMnwxPwpP_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【JS】827- 彻底搞懂Object.defineProperty</title>
     <updated>2021-01-03T09:59:29+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-25T22:35:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/iNoWW9U9DgZdXdVvSqU-bA</id>
     <link href="https://mp.weixin.qq.com/s/iNoWW9U9DgZdXdVvSqU-bA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Web 技术】818- 一文带你层层解锁「文件下载」的奥秘</title>
-    <updated>2020-12-24T22:47:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/jvovah3m9y01FXF6YKm3Zw</id>
-    <link href="https://mp.weixin.qq.com/s/jvovah3m9y01FXF6YKm3Zw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

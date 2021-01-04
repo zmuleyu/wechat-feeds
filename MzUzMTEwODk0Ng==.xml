@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T23:20:05+08:00</updated>
+  <updated>2021-01-04T11:40:42+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>统计了一个栏目的阅读量后发现？？</title>
+    <updated>2021-01-04T10:09:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Hcfe4_Kku5zU_8zRGEa_Dg</id>
+    <link href="https://mp.weixin.qq.com/s/Hcfe4_Kku5zU_8zRGEa_Dg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对单细胞表达矩阵做gsea分析</title>
     <updated>2021-01-03T21:38:45+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-12-26T21:34:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/PORyv8NOrm7M0M0z6xaOVw</id>
     <link href="https://mp.weixin.qq.com/s/PORyv8NOrm7M0M0z6xaOVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人人都能学会的单细胞聚类分群注释</title>
-    <updated>2020-12-25T23:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/mfxhWzIwbW9bln4iymAMHw</id>
-    <link href="https://mp.weixin.qq.com/s/mfxhWzIwbW9bln4iymAMHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国测序数据另外一个中心CNGBdb</title>
-    <updated>2020-12-25T23:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/9T14J4rjnobyI3xvVLCu8g</id>
-    <link href="https://mp.weixin.qq.com/s/9T14J4rjnobyI3xvVLCu8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

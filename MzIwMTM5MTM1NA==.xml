@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端向后 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:49:07+08:00</updated>
+  <updated>2021-01-04T11:41:52+08:00</updated>
   <subtitle>知无涯，端无界</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>偷师 Next.js：我学到的 6 个设计技巧</title>
+    <updated>2021-01-03T01:51:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/F_4yg-0hsX0PSQ1oEOopZg</id>
+    <link href="https://mp.weixin.qq.com/s/F_4yg-0hsX0PSQ1oEOopZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>鱼和熊掌兼得：Next.js 混合渲染</title>
     <updated>2020-12-13T23:37:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-12T03:48:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/9bS7E1CO9oUHncS8pf1dvg</id>
     <link href="https://mp.weixin.qq.com/s/9bS7E1CO9oUHncS8pf1dvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>假如 Web 当初不支持动态化</title>
-    <updated>2020-10-03T15:26:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/MssledyYt_2gqZ5Q7xgjFg</id>
-    <link href="https://mp.weixin.qq.com/s/MssledyYt_2gqZ5Q7xgjFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

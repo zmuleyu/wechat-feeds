@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T11:45:54+08:00</updated>
+  <updated>2021-01-04T11:48:50+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一家城商行外部数据管理平台的诞生</title>
+    <updated>2021-01-03T23:10:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/b5OfMlIIkRyjzRusiOEt-A</id>
+    <link href="https://mp.weixin.qq.com/s/b5OfMlIIkRyjzRusiOEt-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里技术专家：数据一致性检测的应用场景与最佳实践</title>
+    <updated>2021-01-03T23:10:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/DqQeSNFRZPHpECX-i7BVPQ</id>
+    <link href="https://mp.weixin.qq.com/s/DqQeSNFRZPHpECX-i7BVPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里高级技术专家谈开源DDD框架：COLA4.0，分离架构和组件</title>
     <updated>2021-01-02T16:48:24+08:00</updated>
@@ -50,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>腾讯云TVP专家孙玄：真正的顶级微服务架构，和你想的不同！</title>
-    <updated>2020-12-28T21:57:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/UiEDC4oSOVtQpswKfLUXeQ</id>
-    <link href="https://mp.weixin.qq.com/s/UiEDC4oSOVtQpswKfLUXeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>谷歌可靠性工程的设计经验</title>
     <updated>2020-12-28T21:57:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/VNE6v77QgwJ1NVYOmJPL3A</id>
@@ -89,13 +96,6 @@
     <updated>2020-12-26T12:55:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/FFu8yC9_n6fYvjuYLcgdlg</id>
     <link href="https://mp.weixin.qq.com/s/FFu8yC9_n6fYvjuYLcgdlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前阿里资深总监：最开始反对中台的人，结果还是选择了中台</title>
-    <updated>2020-12-24T00:25:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/ozkYd5482FQePtXyXi_Eeg</id>
-    <link href="https://mp.weixin.qq.com/s/ozkYd5482FQePtXyXi_Eeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

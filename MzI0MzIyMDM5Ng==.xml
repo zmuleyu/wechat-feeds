@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端Q | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:33:54+08:00</updated>
+  <updated>2021-01-04T11:42:50+08:00</updated>
   <subtitle>本公众号主要分享一些技术圈(前端圈为主)相关的技术文章、工具资源、学习资料、招聘信息及其他有趣的东西...</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>React 灵魂 23 问，你能答对几个？</title>
+    <updated>2021-01-04T10:34:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/tDqkTL0VWnw4DLzixdDPGQ</id>
+    <link href="https://mp.weixin.qq.com/s/tDqkTL0VWnw4DLzixdDPGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>巧用CSS3的calc()宽度计算做响应模式布局</title>
+    <updated>2021-01-04T10:34:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/x65HS-OKAssB2nyx3Rc59Q</id>
+    <link href="https://mp.weixin.qq.com/s/x65HS-OKAssB2nyx3Rc59Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新年快乐，JavaScript 第四版红宝书送 20 本！</title>
     <updated>2021-01-01T22:23:39+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-22T23:16:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/mpYSMaxzHya7xeCuoZFYGA</id>
     <link href="https://mp.weixin.qq.com/s/mpYSMaxzHya7xeCuoZFYGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前后端分离之让前端开发脱离接口束缚（mock）</title>
-    <updated>2020-12-21T22:59:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/t3xN01OOTEMxbt--ZooIwA</id>
-    <link href="https://mp.weixin.qq.com/s/t3xN01OOTEMxbt--ZooIwA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
