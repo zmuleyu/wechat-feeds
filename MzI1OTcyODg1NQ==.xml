@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T01:55:35+08:00</updated>
+  <updated>2021-01-05T02:06:45+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux系统inodes资源耗尽问题</title>
+    <updated>2021-01-04T22:55:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/CdojLvqhtwCNIjjH0yvvqA</id>
+    <link href="https://mp.weixin.qq.com/s/CdojLvqhtwCNIjjH0yvvqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>去参加了字节的面试，感觉被羞辱！！真想找个地缝钻进去！！</title>
+    <updated>2021-01-04T22:55:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/fG5fMDOyD_A_S4-I5U6cfA</id>
+    <link href="https://mp.weixin.qq.com/s/fG5fMDOyD_A_S4-I5U6cfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang从入门到精通——goto&amp;label</title>
+    <updated>2021-01-04T22:55:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/f32GVpIALJfZCGM5WtNovw</id>
+    <link href="https://mp.weixin.qq.com/s/f32GVpIALJfZCGM5WtNovw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux应急响应入门——入侵排查</title>
     <updated>2021-01-03T22:35:15+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-30T21:43:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/Pmjq5T3oA3_x_C1ABIrttQ</id>
     <link href="https://mp.weixin.qq.com/s/Pmjq5T3oA3_x_C1ABIrttQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给你一份年薪65w的工作，你能接住吗？</title>
-    <updated>2020-12-29T18:40:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/FKWR7Ur84_StPJ__oVVBsw</id>
-    <link href="https://mp.weixin.qq.com/s/FKWR7Ur84_StPJ__oVVBsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超详细Prometheus入门教程！（内含141页可复制官方文档下载方式）</title>
-    <updated>2020-12-29T18:40:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/WyeSh76_G9fcC55bOWgWDw</id>
-    <link href="https://mp.weixin.qq.com/s/WyeSh76_G9fcC55bOWgWDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux操作系统加固</title>
-    <updated>2020-12-28T22:10:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/znvgZanQ3fbXqGcwQW3VNw</id>
-    <link href="https://mp.weixin.qq.com/s/znvgZanQ3fbXqGcwQW3VNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
