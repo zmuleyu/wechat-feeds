@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肥朝 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T16:23:13+08:00</updated>
+  <updated>2021-01-04T16:27:15+08:00</updated>
   <subtitle>肥朝 是一个专注于 原理、源码、开发技巧的技术公众号，号内原创专题式源码解析、真实场景源码原理实战（重点）。关注肥朝，让本该造火箭的你，不再拧螺丝！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>优雅的对象转换解决方案-MapStruct使用进阶</title>
+    <updated>2021-01-03T21:09:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/eGSoYQC4E2NuvlHQzj_RHg</id>
+    <link href="https://mp.weixin.qq.com/s/eGSoYQC4E2NuvlHQzj_RHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员只能吃青春饭？NO！！！</title>
     <updated>2020-12-31T22:53:32+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-23T21:20:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/jszBs9eYbU1UBuxsoecQwg</id>
     <link href="https://mp.weixin.qq.com/s/jszBs9eYbU1UBuxsoecQwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里开源新一代单元测试 Mock 工具！</title>
-    <updated>2020-12-23T11:48:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/vPesQnbHORtsGjxYnGIKiQ</id>
-    <link href="https://mp.weixin.qq.com/s/vPesQnbHORtsGjxYnGIKiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

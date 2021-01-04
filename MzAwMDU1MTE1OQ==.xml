@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T16:17:49+08:00</updated>
+  <updated>2021-01-04T16:20:04+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于Consul服务注册中心：一次故障分析及优化</title>
+    <updated>2021-01-04T15:08:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/j1F6KU-q3B890S5tEbTH5A</id>
+    <link href="https://mp.weixin.qq.com/s/j1F6KU-q3B890S5tEbTH5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何成为一名区块链开发者（一）</title>
     <updated>2021-01-03T14:58:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T17:29:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/_Ih4AyL2c1JjyLwKCPmphg</id>
     <link href="https://mp.weixin.qq.com/s/_Ih4AyL2c1JjyLwKCPmphg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里P9级微服务架构师是如何赚钱的？</title>
-    <updated>2020-12-21T10:01:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/YeNW_x6CIvM8Jcq2J2ZA3Q</id>
-    <link href="https://mp.weixin.qq.com/s/YeNW_x6CIvM8Jcq2J2ZA3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
