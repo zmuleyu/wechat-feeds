@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:11:22+08:00</updated>
+  <updated>2021-01-04T13:45:28+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>机器学习 Study Jam 第三季报名启动！组队通关，快乐 x 3！</title>
+    <updated>2021-01-04T11:53:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/GHIOgyWjUWI7OQgdS9F3DA</id>
+    <link href="https://mp.weixin.qq.com/s/GHIOgyWjUWI7OQgdS9F3DA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Model Card Toolkit：助力 TensorFlow 模型透明度的工具包</title>
     <updated>2020-12-30T18:33:58+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-17T19:22:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/-9BpPOuVU4yBSoJLkegMpg</id>
     <link href="https://mp.weixin.qq.com/s/-9BpPOuVU4yBSoJLkegMpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>案例分享 | TensorFlow 在医学图像的应用 — 皮肤病自查小程序“体素肤知汇”</title>
-    <updated>2020-12-16T18:17:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/bYJ0TGnjrczzQuXJIhA-ow</id>
-    <link href="https://mp.weixin.qq.com/s/bYJ0TGnjrczzQuXJIhA-ow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AWS云计算 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T13:41:32+08:00</updated>
+  <updated>2021-01-04T13:39:50+08:00</updated>
   <subtitle>AWS 官方公众号，第一时间获取关于 AWS 国内外服务的资讯。AWS 中国（宁夏）区域由西云数据运营，AWS 中国（北京）区域由光环新网运营。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>re:Invent 灵魂之问：亚马逊 Day 1 的运营方式</title>
+    <updated>2021-01-04T12:00:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/pdUuAMzfAGJXOpWbeuKEZw</id>
+    <link href="https://mp.weixin.qq.com/s/pdUuAMzfAGJXOpWbeuKEZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>致 2020 AWS 与你在一起的每一天</title>
     <updated>2020-12-31T13:29:43+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-23T12:16:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/2wvJAtglnabCMxotiBPCDg</id>
     <link href="https://mp.weixin.qq.com/s/2wvJAtglnabCMxotiBPCDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>白皮书合集 | 想要加速行业创新，你需要让数据“发言”！</title>
-    <updated>2020-12-22T12:46:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/w3SHf1nu3BRWPaS7ChYf_Q</id>
-    <link href="https://mp.weixin.qq.com/s/w3SHf1nu3BRWPaS7ChYf_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

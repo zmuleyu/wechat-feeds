@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T13:24:29+08:00</updated>
+  <updated>2021-01-04T13:25:56+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
-    <title>福利，PyTorch中文版官方教程来啦（附下载）</title>
-    <updated>2021-01-03T09:43:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/vkcqh1O5QDqIvPrk776hwg</id>
-    <link href="https://mp.weixin.qq.com/s/vkcqh1O5QDqIvPrk776hwg" rel="alternate"></link>
+    <title>与其疯狂读源码，不如自己造源码！</title>
+    <updated>2021-01-04T08:42:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/BwgBYclrpX-BHeHKe9pznQ</id>
+    <link href="https://mp.weixin.qq.com/s/BwgBYclrpX-BHeHKe9pznQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用Python+OpenCV+yolov5实现行人目标检测</title>
+    <updated>2021-01-04T08:42:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/A2FLcLuxBLoWWonB32a7eQ</id>
+    <link href="https://mp.weixin.qq.com/s/A2FLcLuxBLoWWonB32a7eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>附pdf下载 | 中文版《可解释的机器学习》</title>
+    <updated>2021-01-04T08:42:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/-rMY9ZlNp1LARBp599xtEA</id>
+    <link href="https://mp.weixin.qq.com/s/-rMY9ZlNp1LARBp599xtEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我为什么读博， 以及我为什么不读博？这是个问题！</title>
+    <updated>2021-01-04T08:42:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/vXbm4Xc6KW_BBNxtlblM1g</id>
+    <link href="https://mp.weixin.qq.com/s/vXbm4Xc6KW_BBNxtlblM1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,27 +145,6 @@
     <updated>2020-12-26T22:05:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/MNfW1gODRK0aVYil7H5MxA</id>
     <link href="https://mp.weixin.qq.com/s/MNfW1gODRK0aVYil7H5MxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>YOLO 算法最全综述：从 YOLOv1 到 YOLOv5</title>
-    <updated>2020-12-26T22:05:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/6gG2Pu3U1bOUuUKxtffr5w</id>
-    <link href="https://mp.weixin.qq.com/s/6gG2Pu3U1bOUuUKxtffr5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>25个常用Matplotlib图的Python代码，收藏收藏！</title>
-    <updated>2020-12-26T10:40:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/F_sHSlUDVwIZ9WmGVHoCSg</id>
-    <link href="https://mp.weixin.qq.com/s/F_sHSlUDVwIZ9WmGVHoCSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyCharm 教程详解</title>
-    <updated>2020-12-26T10:40:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/DRbfXEIHVEf0CfBb1u5Xew</id>
-    <link href="https://mp.weixin.qq.com/s/DRbfXEIHVEf0CfBb1u5Xew" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
