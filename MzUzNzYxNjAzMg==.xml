@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T13:40:59+08:00</updated>
+  <updated>2021-01-04T23:31:01+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenKruise 2021 规划曝光：More than workloads</title>
+    <updated>2021-01-04T20:40:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/-5mRxIlmNcEOyH05a45c5w</id>
+    <link href="https://mp.weixin.qq.com/s/-5mRxIlmNcEOyH05a45c5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员修炼之路：你该知道的 7 个必经阶段</title>
     <updated>2021-01-01T20:08:10+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-24T20:06:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/s6yK33S-1ygWhR8lqZyjAw</id>
     <link href="https://mp.weixin.qq.com/s/s6yK33S-1ygWhR8lqZyjAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>引领云原生发展浪潮  阿里云开启云原生大规模落地元年</title>
-    <updated>2020-12-23T13:02:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/SiAu7BqK4h7WiXxCDH51Zw</id>
-    <link href="https://mp.weixin.qq.com/s/SiAu7BqK4h7WiXxCDH51Zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我们把《深入理解 Spring Cloud 与实战》作者请到了上海 Meetup 现场，你来吗？</title>
-    <updated>2020-12-23T13:02:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/MAvkFGW78kMr0cyxoEZq3g</id>
-    <link href="https://mp.weixin.qq.com/s/MAvkFGW78kMr0cyxoEZq3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:36:38+08:00</updated>
+  <updated>2021-01-04T23:30:13+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>过去的 2020 年，我经历了什么？</title>
+    <updated>2021-01-04T21:00:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZT5Y_OAuxc3fjX3mwSOfbw</id>
+    <link href="https://mp.weixin.qq.com/s/ZT5Y_OAuxc3fjX3mwSOfbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新年快乐</title>
     <updated>2021-01-01T08:29:14+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-12-18T21:00:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/N-ul7zC-wDrC5W8Wo8wdTg</id>
     <link href="https://mp.weixin.qq.com/s/N-ul7zC-wDrC5W8Wo8wdTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构师的成长之路，第一步该怎么迈？</title>
-    <updated>2020-12-17T15:30:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/VXF9VkPExRd8Hs_lXCirGg</id>
-    <link href="https://mp.weixin.qq.com/s/VXF9VkPExRd8Hs_lXCirGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 字节跳动开源的一款通用内存快照裁剪压缩工具</title>
-    <updated>2020-12-17T15:30:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/P1mnM7tbD7a2lUWNGZkOBg</id>
-    <link href="https://mp.weixin.qq.com/s/P1mnM7tbD7a2lUWNGZkOBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

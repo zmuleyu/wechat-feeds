@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T13:40:29+08:00</updated>
+  <updated>2021-01-04T23:28:04+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -57,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>【通知】12月底，程序员可以免费学金融了！限时招募200人，手慢无！</title>
-    <updated>2020-12-26T12:26:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/TAd8ZfiBuAxBW0ZgsHzoEw</id>
-    <link href="https://mp.weixin.qq.com/s/TAd8ZfiBuAxBW0ZgsHzoEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>总结 Python 常见的验证正则表达式</title>
     <updated>2020-12-26T12:25:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/JCrsegMTTh4YtBkSAMHdpA</id>
@@ -89,6 +82,13 @@
     <updated>2020-12-22T19:46:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/HoqrQls_xmuXe7123AI4sQ</id>
     <link href="https://mp.weixin.qq.com/s/HoqrQls_xmuXe7123AI4sQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微信朋友圈被折叠？会自动化不存在的（下）</title>
+    <updated>2020-12-21T19:29:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/VUKAgM3ju5a0f6nbwvXtOQ</id>
+    <link href="https://mp.weixin.qq.com/s/VUKAgM3ju5a0f6nbwvXtOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

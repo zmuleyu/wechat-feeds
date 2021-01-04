@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>趣谈前端 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T11:26:04+08:00</updated>
+  <updated>2021-01-04T23:16:23+08:00</updated>
   <subtitle>徐小夕【知乎专栏作家】掘金优秀作者，定期分享前端工程化，可视化，企业实战项目知识，深度复盘企业中经常遇到的500+技术问题解决方案。【关注趣谈前端，前端路上不迷茫】</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>可插拔的跨域聊天机器人实现方案复盘(postMessage版)</title>
+    <updated>2021-01-04T21:56:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/6doi_KWJIxY2Urfg5EGEfA</id>
+    <link href="https://mp.weixin.qq.com/s/6doi_KWJIxY2Urfg5EGEfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020年全球程序员收入报告出炉，字节跳动成唯一上榜中国公司</title>
+    <updated>2021-01-04T21:56:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/baneh2EY8O26gVNBvh2NQQ</id>
+    <link href="https://mp.weixin.qq.com/s/baneh2EY8O26gVNBvh2NQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年国内前端团队都做了些什么?</title>
     <updated>2021-01-02T11:16:13+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-14T23:07:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/eC_Uny0BkP0yHacoF2rorA</id>
     <link href="https://mp.weixin.qq.com/s/eC_Uny0BkP0yHacoF2rorA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何搭积木式的快速开发H5页面?</title>
-    <updated>2020-12-11T14:28:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/x641dX459AtobIiXpftDCQ</id>
-    <link href="https://mp.weixin.qq.com/s/x641dX459AtobIiXpftDCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
