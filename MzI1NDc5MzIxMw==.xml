@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>58技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:19:19+08:00</updated>
+  <updated>2021-01-04T20:18:56+08:00</updated>
   <subtitle>58官方技术号，58技术创新、分享与交流平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于Flink构建实时数仓实践</title>
+    <updated>2021-01-04T17:55:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/7cTu6Nrlf2pRNxCXwksI5Q</id>
+    <link href="https://mp.weixin.qq.com/s/7cTu6Nrlf2pRNxCXwksI5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见，2020！</title>
     <updated>2020-12-31T17:02:11+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-14T16:48:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/DFA21j_sHy26a6d_0DeAEg</id>
     <link href="https://mp.weixin.qq.com/s/DFA21j_sHy26a6d_0DeAEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>语音识别中的WFST和语言模型</title>
-    <updated>2020-12-11T17:57:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/UUbYxv2L6A7iTxuFS52VRA</id>
-    <link href="https://mp.weixin.qq.com/s/UUbYxv2L6A7iTxuFS52VRA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

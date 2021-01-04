@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>进击的Coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T01:46:23+08:00</updated>
+  <updated>2021-01-04T20:15:16+08:00</updated>
   <subtitle>分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web 开发等方向。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一位 15 年资深 HR 直言：裁掉 35 岁以上老程序员，早已是公开秘密</title>
+    <updated>2021-01-04T19:31:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/TFtVldW-IGMrrPTZpOkejQ</id>
+    <link href="https://mp.weixin.qq.com/s/TFtVldW-IGMrrPTZpOkejQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跟 ofo，说最后一声再见</title>
+    <updated>2021-01-04T19:31:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/XEkDpFjja2mBpH1txISmXg</id>
+    <link href="https://mp.weixin.qq.com/s/XEkDpFjja2mBpH1txISmXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谁是 2020 年最强 Python 库？年度 Top 10 出炉！</title>
     <updated>2021-01-02T23:15:51+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>数据分析师需要掌握的 10 个商业模型</title>
-    <updated>2020-12-28T16:31:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/FkLiArrqCuUnbF8mv7f34w</id>
-    <link href="https://mp.weixin.qq.com/s/FkLiArrqCuUnbF8mv7f34w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>马赛克已经不安全了？！</title>
     <updated>2020-12-28T16:31:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/XRTNU2z8J1_9klyCm_PbQQ</id>
@@ -99,13 +106,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>用造轮子的方式学 Vue3.0 源码，真香！</title>
-    <updated>2020-12-24T18:44:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/cK21RgnYoaPkJS13vjbmMw</id>
-    <link href="https://mp.weixin.qq.com/s/cK21RgnYoaPkJS13vjbmMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Docker 的第二次死亡</title>
     <updated>2020-12-24T18:44:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/SZM_4beiLE00hgq2qDQOSA</id>
@@ -124,20 +124,6 @@
     <updated>2020-12-23T22:44:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/WP7dVsJGOtqNxZuDeWKTig</id>
     <link href="https://mp.weixin.qq.com/s/WP7dVsJGOtqNxZuDeWKTig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>还记得 Eclipse 吗？它最近宣称要替代 VS Code</title>
-    <updated>2020-12-21T23:41:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/FTtxT9z26aUWiW3FHAPs8A</id>
-    <link href="https://mp.weixin.qq.com/s/FTtxT9z26aUWiW3FHAPs8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>效率提高十倍，Puppeteer 如何启动交互模式？</title>
-    <updated>2020-12-21T23:41:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/I3CEQwPVz5vIc79ZGUBjKg</id>
-    <link href="https://mp.weixin.qq.com/s/I3CEQwPVz5vIc79ZGUBjKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

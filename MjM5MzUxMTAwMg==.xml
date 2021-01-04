@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EDN电子技术设计 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T16:32:13+08:00</updated>
+  <updated>2021-01-04T20:30:16+08:00</updated>
   <subtitle>EDN China电子技术设计为电子设计工程师和设计经理人提供前沿深度的电子资讯、设计实例应用方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>寄存器、锁存器和触发器傻傻分不清？一文让你明辨！</title>
+    <updated>2021-01-04T17:31:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/zXPEX1iRQKH6ooK72K414w</id>
+    <link href="https://mp.weixin.qq.com/s/zXPEX1iRQKH6ooK72K414w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年嵌入式技术五大趋势预测</title>
+    <updated>2021-01-04T17:31:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/EeXRhmxyun7NVpnLTU59yA</id>
+    <link href="https://mp.weixin.qq.com/s/EeXRhmxyun7NVpnLTU59yA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度好文：C语言代码优化方案！</title>
+    <updated>2021-01-04T17:31:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Z_UXqoS3wPDDGabXpJZyLw</id>
+    <link href="https://mp.weixin.qq.com/s/Z_UXqoS3wPDDGabXpJZyLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>是谁动了我的电路稳定性？</title>
+    <updated>2021-01-04T17:31:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/rRFAWYmntzXtpju3Hi5ZsA</id>
+    <link href="https://mp.weixin.qq.com/s/rRFAWYmntzXtpju3Hi5ZsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>电源布局中，竟然有这些不为人知的通用性规则</title>
+    <updated>2021-01-04T17:31:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Z5MboiLaQNO0p03PXJGe3Q</id>
+    <link href="https://mp.weixin.qq.com/s/Z5MboiLaQNO0p03PXJGe3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>什么是仪表放大器？什么时候用它？</title>
+    <updated>2021-01-04T17:31:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/c8Z2UVbndX-0Qywvyo1OjQ</id>
+    <link href="https://mp.weixin.qq.com/s/c8Z2UVbndX-0Qywvyo1OjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PCB与FPC之间有什么区别？你都知道吗？</title>
     <updated>2021-01-03T16:26:58+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2020-12-31T10:41:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/999GhOU-SLHWVMAnLBruhg</id>
     <link href="https://mp.weixin.qq.com/s/999GhOU-SLHWVMAnLBruhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数字系统设计基础教程</title>
-    <updated>2020-12-31T10:41:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Wjp67LWBGzY3n6c7_lbzhA</id>
-    <link href="https://mp.weixin.qq.com/s/Wjp67LWBGzY3n6c7_lbzhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>锂电池新技术专利通过，华为真的不会造车吗？</title>
-    <updated>2020-12-30T12:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/9AMst1_LtZrB7QPHTC_3-A</id>
-    <link href="https://mp.weixin.qq.com/s/9AMst1_LtZrB7QPHTC_3-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>三种降低开关电路中有害dv/dt瞬变的方法</title>
-    <updated>2020-12-30T12:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/-6rTiotjDW0wpPqHxxmLvA</id>
-    <link href="https://mp.weixin.qq.com/s/-6rTiotjDW0wpPqHxxmLvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>经典收藏！stm32最小系统完整版</title>
-    <updated>2020-12-30T12:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/etC_04MEv1A-HPT4QucJyw</id>
-    <link href="https://mp.weixin.qq.com/s/etC_04MEv1A-HPT4QucJyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这么齐的全类电阻解析，一篇足以搞明白！</title>
-    <updated>2020-12-30T12:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/fKhmjGvMrFbQnjvG2B4cbg</id>
-    <link href="https://mp.weixin.qq.com/s/fKhmjGvMrFbQnjvG2B4cbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基础编程：C++入门书</title>
-    <updated>2020-12-30T12:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/OWt36Rhar2iVZsGWG4h93A</id>
-    <link href="https://mp.weixin.qq.com/s/OWt36Rhar2iVZsGWG4h93A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

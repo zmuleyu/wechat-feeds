@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:12:20+08:00</updated>
+  <updated>2021-01-04T20:11:47+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: 通用计算的未来！</title>
+    <updated>2021-01-04T13:17:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/t-8RNGRjihxjB1GnH0W9ig</id>
+    <link href="https://mp.weixin.qq.com/s/t-8RNGRjihxjB1GnH0W9ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: 复盘LWN 2020年的预测！</title>
     <updated>2020-12-31T16:50:22+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T13:16:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/apjKbuS5oNGtPl9TCXu39Q</id>
     <link href="https://mp.weixin.qq.com/s/apjKbuS5oNGtPl9TCXu39Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: epoll_pwait2(), close_range(), and encoded I/O</title>
-    <updated>2020-12-16T19:10:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/rHt5suR7zSPgwOL6MXoC4w</id>
-    <link href="https://mp.weixin.qq.com/s/rHt5suR7zSPgwOL6MXoC4w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

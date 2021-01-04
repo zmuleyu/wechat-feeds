@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:13:35+08:00</updated>
+  <updated>2021-01-04T20:13:18+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>周一见 | CNCF 2020 年度报告、VMware K8s 2020 年度报告、Crossplane v1.0 发布</title>
+    <updated>2021-01-04T18:14:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/HHDXMoFeHsGUcH8GduB1ig</id>
+    <link href="https://mp.weixin.qq.com/s/HHDXMoFeHsGUcH8GduB1ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 探针详解！</title>
     <updated>2020-12-31T18:36:55+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-07T18:17:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/bompALNDT45aZwi53fPG7Q</id>
     <link href="https://mp.weixin.qq.com/s/bompALNDT45aZwi53fPG7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>现在上车云原生还来得及吗？字节跳动火山引擎大量岗位热招中！</title>
-    <updated>2020-12-04T18:11:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/KlaPtXZICxr45avaI9h2Ow</id>
-    <link href="https://mp.weixin.qq.com/s/KlaPtXZICxr45avaI9h2Ow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

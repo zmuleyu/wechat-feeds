@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:37:44+08:00</updated>
+  <updated>2021-01-04T20:35:09+08:00</updated>
   <subtitle>我们的产品：《码农周刊》 http://manong.io/ 、《开发者头条》 http://toutiao.io/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>过去的 2020 年，我经历了什么？</title>
+    <updated>2021-01-04T19:00:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/4B8I8oc-GWDPioS13Qlffw</id>
+    <link href="https://mp.weixin.qq.com/s/4B8I8oc-GWDPioS13Qlffw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新年快乐</title>
     <updated>2021-01-01T07:38:32+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-12-18T15:30:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/6D6EH-cjPHYQJ_GgVa-hRA</id>
     <link href="https://mp.weixin.qq.com/s/6D6EH-cjPHYQJ_GgVa-hRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 索引知识点总结</title>
-    <updated>2020-12-17T21:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/sKPI4YAUbM8g46EQAUjA3w</id>
-    <link href="https://mp.weixin.qq.com/s/sKPI4YAUbM8g46EQAUjA3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 字节跳动开源的一款通用内存快照裁剪压缩工具</title>
-    <updated>2020-12-17T21:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/tuhRt81ZD-mtySPfHH-F-A</id>
-    <link href="https://mp.weixin.qq.com/s/tuhRt81ZD-mtySPfHH-F-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

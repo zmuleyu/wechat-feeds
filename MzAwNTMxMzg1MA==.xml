@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T11:34:16+08:00</updated>
+  <updated>2021-01-04T20:24:45+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>. NET5一出，. NET岗面试普遍喊难，真相是…</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/MSsUnh9aB_4NQKczCMVegw</id>
+    <link href="https://mp.weixin.qq.com/s/MSsUnh9aB_4NQKczCMVegw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 9 新特性 —— 增强的模式匹配</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/NusivofzQ_JGrMKst4cEvg</id>
+    <link href="https://mp.weixin.qq.com/s/NusivofzQ_JGrMKst4cEvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 ASP.NET Core 中使用 NLog 的高级特性</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Yx6sTOqeUoCQxKG2HTaNuw</id>
+    <link href="https://mp.weixin.qq.com/s/Yx6sTOqeUoCQxKG2HTaNuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>强烈推荐：SiteServer CMS开源免费的企业级CMS系统！</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/gNR_YnrE-keQM_9boMjgAw</id>
+    <link href="https://mp.weixin.qq.com/s/gNR_YnrE-keQM_9boMjgAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对CORS OPTIONS预检请求的一些思考</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/WOkeDhgfXhcv_SQPM_x4Kg</id>
+    <link href="https://mp.weixin.qq.com/s/WOkeDhgfXhcv_SQPM_x4Kg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET/C#程序开发中如何更优美地实现失败任务重试的逻辑？</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/00ioTo_Y27zE39pGA33nOQ</id>
+    <link href="https://mp.weixin.qq.com/s/00ioTo_Y27zE39pGA33nOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Git】Git-常用命令备忘录（二）</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/P_mgsDfT5TGOlYkztchLkA</id>
+    <link href="https://mp.weixin.qq.com/s/P_mgsDfT5TGOlYkztchLkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>起点低，是彪悍的最好证明！</title>
+    <updated>2021-01-04T15:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/FDG8ojM8U0yfZwIGyLfOig</id>
+    <link href="https://mp.weixin.qq.com/s/FDG8ojM8U0yfZwIGyLfOig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“开源、共享、创新” 2020 中国.NET开发者大会小结</title>
     <updated>2021-01-02T17:11:05+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-02T10:01:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/hw0ztYmviAxR_bnzHZmKUg</id>
     <link href="https://mp.weixin.qq.com/s/hw0ztYmviAxR_bnzHZmKUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Amazing 2020</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/9ruXShlCTEqolYCM1hGnGQ</id>
-    <link href="https://mp.weixin.qq.com/s/9ruXShlCTEqolYCM1hGnGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Entity Framework Core 5中实现批量更新、删除</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/EsIJzW7pss7fDy9C3VSu3w</id>
-    <link href="https://mp.weixin.qq.com/s/EsIJzW7pss7fDy9C3VSu3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Git】Git-常用命令备忘录（一）</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZzDYOymwX-EH0BAUTPG_1A</id>
-    <link href="https://mp.weixin.qq.com/s/ZzDYOymwX-EH0BAUTPG_1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021，未来可期</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/XmlG-KMclr1HIhAW15YFXA</id>
-    <link href="https://mp.weixin.qq.com/s/XmlG-KMclr1HIhAW15YFXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/yuIKV-r1SPEOiBDfSV0iXQ</id>
-    <link href="https://mp.weixin.qq.com/s/yuIKV-r1SPEOiBDfSV0iXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IdentityServer4 之Client Credentials走起来</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/PMdgufDZ4-d6mvNZdvmYoQ</id>
-    <link href="https://mp.weixin.qq.com/s/PMdgufDZ4-d6mvNZdvmYoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 9 新特性——init only setter</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/6u82zppJIU3gipu34AsvOA</id>
-    <link href="https://mp.weixin.qq.com/s/6u82zppJIU3gipu34AsvOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么是ASP.NET Core静态Web资产？</title>
-    <updated>2020-12-31T21:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/VkTNZI7rRd2FP2NjyHT-ng</id>
-    <link href="https://mp.weixin.qq.com/s/VkTNZI7rRd2FP2NjyHT-ng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

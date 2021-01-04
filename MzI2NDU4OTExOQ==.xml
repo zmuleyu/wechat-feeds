@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云加社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:22:58+08:00</updated>
+  <updated>2021-01-04T20:24:14+08:00</updated>
   <subtitle>腾讯云官方社区公众号，汇聚技术开发者群体，分享技术干货，打造技术影响力交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>技术创作101训练营：从0到1教你搭建自己的技术品牌</title>
+    <updated>2021-01-04T20:18:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Ytuu66MwOrG1mILFp_gQ0Q</id>
+    <link href="https://mp.weixin.qq.com/s/Ytuu66MwOrG1mILFp_gQ0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年大前端技术趋势解读</title>
     <updated>2020-12-31T18:43:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T18:03:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/P4k8o2rtNFC400bYVZsQZA</id>
     <link href="https://mp.weixin.qq.com/s/P4k8o2rtNFC400bYVZsQZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来 Techo 大数据专场，畅聊下一代云端数据仓库</title>
-    <updated>2020-12-18T18:49:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/VZB9pyPaP9Cz5cnYEm4C_A</id>
-    <link href="https://mp.weixin.qq.com/s/VZB9pyPaP9Cz5cnYEm4C_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

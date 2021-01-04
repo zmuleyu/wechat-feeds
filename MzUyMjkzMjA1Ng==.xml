@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:31:22+08:00</updated>
+  <updated>2021-01-04T20:26:11+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Pulsar 2.7.0 新增特性概览：事务支持、Topic 级别策略配置等</title>
+    <updated>2021-01-04T18:43:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/_R3MyQfA7KOhr30kw8MvfQ</id>
+    <link href="https://mp.weixin.qq.com/s/_R3MyQfA7KOhr30kw8MvfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新年伊始🧨🧨🧨 Apache Pulsar 社区祝大家元旦快乐、健康平安！</title>
     <updated>2020-12-31T18:04:55+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-22T18:14:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/_gKLEMJJf58YceFQtajFQw</id>
     <link href="https://mp.weixin.qq.com/s/_gKLEMJJf58YceFQtajFQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apache Pulsar 中文社区先锋奖与年度优秀案例出炉！</title>
-    <updated>2020-12-21T18:14:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/kA7mKJ1AqDwOt2m4drk7Qw</id>
-    <link href="https://mp.weixin.qq.com/s/kA7mKJ1AqDwOt2m4drk7Qw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
