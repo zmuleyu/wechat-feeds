@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:20:38+08:00</updated>
+  <updated>2021-01-05T07:29:41+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今日，小寒</title>
+    <updated>2021-01-05T06:33:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/VqIROMwCQmgf2U24GJ-3eg</id>
+    <link href="https://mp.weixin.qq.com/s/VqIROMwCQmgf2U24GJ-3eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多地汽车零部件外包装检出新冠病毒 李梓萌：两个情况需要警惕</title>
     <updated>2021-01-04T22:29:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-03T22:02:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/Xk-K_LslhF4OP6c4e1KstQ</id>
     <link href="https://mp.weixin.qq.com/s/Xk-K_LslhF4OP6c4e1KstQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“曹晓晓，我要娶你回家！”</title>
-    <updated>2021-01-03T20:42:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/2QOrUSVslLo-zkArb8eHsQ</id>
-    <link href="https://mp.weixin.qq.com/s/2QOrUSVslLo-zkArb8eHsQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
