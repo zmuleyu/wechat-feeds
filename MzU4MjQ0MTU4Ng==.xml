@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>k8s技术圈 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-05T23:14:34+08:00</updated>
+  <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>手游项目运维迁移规划实践</title>
+    <updated>2021-01-05T09:16:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/HWbxnaYnMdCqs76LuREgdg</id>
+    <link href="https://mp.weixin.qq.com/s/HWbxnaYnMdCqs76LuREgdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>B站疯传，一整套人工智能学习资料免费送，不谢！</title>
+    <updated>2021-01-04T09:11:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/rGFNbP-68BO1qWrHeImSeg</id>
+    <link href="https://mp.weixin.qq.com/s/rGFNbP-68BO1qWrHeImSeg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 源码分析之 kubelet(二)</title>
+    <updated>2021-01-04T09:11:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/HG2yzb88SBL9gSQQQwvuEA</id>
+    <link href="https://mp.weixin.qq.com/s/HG2yzb88SBL9gSQQQwvuEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Docker  组件基本介绍</title>
+    <updated>2021-01-03T09:43:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/YdOrlDO9jykSTeO03JEd5Q</id>
+    <link href="https://mp.weixin.qq.com/s/YdOrlDO9jykSTeO03JEd5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes Service APIs 介绍</title>
+    <updated>2020-12-31T10:59:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/HZ82J0dihT0wfCESK5IORQ</id>
+    <link href="https://mp.weixin.qq.com/s/HZ82J0dihT0wfCESK5IORQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试又挂了，竟然被k8s难倒了！</title>
+    <updated>2020-12-30T09:23:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/xWISCnEKWxX_dgBcbmzHtQ</id>
+    <link href="https://mp.weixin.qq.com/s/xWISCnEKWxX_dgBcbmzHtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 源码分析之 kubelet(一)</title>
+    <updated>2020-12-30T09:23:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/RPyG9qoXY0xHADpCL1aIOw</id>
+    <link href="https://mp.weixin.qq.com/s/RPyG9qoXY0xHADpCL1aIOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Traefik 代理 UDP 服务</title>
+    <updated>2020-12-29T15:32:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Xl-9zxlmp337W58n-LnxrQ</id>
+    <link href="https://mp.weixin.qq.com/s/Xl-9zxlmp337W58n-LnxrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万亿级微服务架构进阶，深挖那些高可用高并发高可靠场景</title>
+    <updated>2020-12-28T08:42:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/j9ImT1aBuJfEfLKAWk2XPA</id>
+    <link href="https://mp.weixin.qq.com/s/j9ImT1aBuJfEfLKAWk2XPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何理解同步与异步</title>
+    <updated>2020-12-28T08:42:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ulxmJMphAFL40HeuqKQIQw</id>
+    <link href="https://mp.weixin.qq.com/s/ulxmJMphAFL40HeuqKQIQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开发一个 etcd 备份的 operator</title>
+    <updated>2020-12-26T10:33:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/-mmXPv72GttJU8n0Yw2XwQ</id>
+    <link href="https://mp.weixin.qq.com/s/-mmXPv72GttJU8n0Yw2XwQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Traefik2.3.x 使用大全(更新版)</title>
+    <updated>2020-12-25T11:13:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Y68AbF8yxVMqRcfXQ6iL5Q</id>
+    <link href="https://mp.weixin.qq.com/s/Y68AbF8yxVMqRcfXQ6iL5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里、腾讯举大力做的 Serverless ，你了解多少？</title>
+    <updated>2020-12-24T17:02:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/5_S9WWWoRkNuXPqyRD4lQA</id>
+    <link href="https://mp.weixin.qq.com/s/5_S9WWWoRkNuXPqyRD4lQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>KEDA 工作原理解析</title>
+    <updated>2020-12-24T17:02:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/WDApYOMTSCvU60aXHDO0fg</id>
+    <link href="https://mp.weixin.qq.com/s/WDApYOMTSCvU60aXHDO0fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

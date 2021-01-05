@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:12:37+08:00</updated>
+  <updated>2021-01-05T23:20:39+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Transformer在CV领域有可能替代CNN吗？还有哪些应用前景？</title>
+    <updated>2021-01-05T21:58:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/V43dbrdvJgar1nyi-Uy5GA</id>
+    <link href="https://mp.weixin.qq.com/s/V43dbrdvJgar1nyi-Uy5GA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>消除训练瓶颈，8点PyTorch提速技巧汇总</title>
+    <updated>2021-01-05T21:58:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/rcvLBTE3BU4Rh04giZZH5Q</id>
+    <link href="https://mp.weixin.qq.com/s/rcvLBTE3BU4Rh04giZZH5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Papers with Code 2020 全年回顾（顶流论文+顶流代码+Benchmarks）</title>
+    <updated>2021-01-05T21:58:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/UJwpfgISNgv1fEswAeWvGA</id>
+    <link href="https://mp.weixin.qq.com/s/UJwpfgISNgv1fEswAeWvGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>克劳德·香农：看我如何发明未来</title>
+    <updated>2021-01-05T21:58:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/4ox_Q4Ytws1dRYs06AEqNQ</id>
+    <link href="https://mp.weixin.qq.com/s/4ox_Q4Ytws1dRYs06AEqNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最新综述丨视频超分辨率研究方法</title>
     <updated>2021-01-04T22:02:47+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-31T21:47:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/6fcqXac7ihAeDuwzl_MxPQ</id>
     <link href="https://mp.weixin.qq.com/s/6fcqXac7ihAeDuwzl_MxPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万能 Transformer，你应该知道的一切</title>
-    <updated>2020-12-31T21:47:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/HSR2PiKb_TRl22VqhU6I4A</id>
-    <link href="https://mp.weixin.qq.com/s/HSR2PiKb_TRl22VqhU6I4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吴恩达、李飞飞、沈向洋：2021年的人工智能会是这个样子</title>
-    <updated>2020-12-31T21:47:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/x7WJEbGc394y6MMN-SiZlA</id>
-    <link href="https://mp.weixin.qq.com/s/x7WJEbGc394y6MMN-SiZlA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图解：卷积神经网络数学原理解析</title>
-    <updated>2020-12-30T21:34:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Z02Ygg9jp1jwKK5lbpFtiA</id>
-    <link href="https://mp.weixin.qq.com/s/Z02Ygg9jp1jwKK5lbpFtiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ACCV2020国际细粒度网络图像识别亚军方案总结</title>
-    <updated>2020-12-30T21:34:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/8m5qB0GIOvxdrN0nZCyAZQ</id>
-    <link href="https://mp.weixin.qq.com/s/8m5qB0GIOvxdrN0nZCyAZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

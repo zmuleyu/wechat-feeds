@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Flink实战剖析 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-05T23:32:25+08:00</updated>
+  <subtitle>专注Flink实战技术剖析，以系列方式介绍Exactly-Once、维表关联、窗口应用、去重，还包括运维等实际应用案例，并且提供代码参考</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>Flink-Cep实现规则动态更新</title>
+    <updated>2020-11-30T19:20:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-30:/s/mh--wQvAWQq2tDPKq0-m8Q</id>
+    <link href="https://mp.weixin.qq.com/s/mh--wQvAWQq2tDPKq0-m8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个Flink-Cep使用案例</title>
+    <updated>2020-11-03T21:21:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-03:/s/AHtjvnN6AwYsUeuCBHNoyQ</id>
+    <link href="https://mp.weixin.qq.com/s/AHtjvnN6AwYsUeuCBHNoyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink 实现Locality 模式调度</title>
+    <updated>2020-09-27T21:45:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/RHHzVaza8T8xK6nu9Mn7-w</id>
+    <link href="https://mp.weixin.qq.com/s/RHHzVaza8T8xK6nu9Mn7-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高能揭秘：互联网大厂的数据治理与资产管理实战 | DAMS 2020</title>
+    <updated>2020-09-15T10:14:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-15:/s/ntU6dc-r7OWS5Di_Ibmqxw</id>
+    <link href="https://mp.weixin.qq.com/s/ntU6dc-r7OWS5Di_Ibmqxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Clickhouse LB实践</title>
+    <updated>2020-08-25T20:54:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-25:/s/Ewvr8nDUWqd8etMCKTGrHA</id>
+    <link href="https://mp.weixin.qq.com/s/Ewvr8nDUWqd8etMCKTGrHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>关于EventTime所带来的问题</title>
+    <updated>2020-07-17T23:53:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-17:/s/yr1LYL8HxunOMtq9Z8qkMQ</id>
+    <link href="https://mp.weixin.qq.com/s/yr1LYL8HxunOMtq9Z8qkMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink1.10任务提交流程分析(二)</title>
+    <updated>2020-06-08T23:29:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-08:/s/UPYYArTD8mNTAeb-dlXwWg</id>
+    <link href="https://mp.weixin.qq.com/s/UPYYArTD8mNTAeb-dlXwWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink1.10任务提交流程分析(一)</title>
+    <updated>2020-06-05T22:56:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-05:/s/gPx6q1pZRAuQuJslLER4Mg</id>
+    <link href="https://mp.weixin.qq.com/s/gPx6q1pZRAuQuJslLER4Mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink1.10基于工厂模式的任务提交与SPI机制</title>
+    <updated>2020-06-04T00:19:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-04:/s/HX-JGkkq56ZzWgibsDOzww</id>
+    <link href="https://mp.weixin.qq.com/s/HX-JGkkq56ZzWgibsDOzww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>并行度改变引发的血案</title>
+    <updated>2020-05-02T01:03:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-02:/s/nE-i09EhJ2lC7YtRv9cpTA</id>
+    <link href="https://mp.weixin.qq.com/s/nE-i09EhJ2lC7YtRv9cpTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

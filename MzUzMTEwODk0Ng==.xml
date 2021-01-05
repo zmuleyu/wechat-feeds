@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T11:40:42+08:00</updated>
+  <updated>2021-01-05T23:18:30+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何制备pbmc</title>
+    <updated>2021-01-05T20:34:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/g67czVaz40AG6PktyPsCtw</id>
+    <link href="https://mp.weixin.qq.com/s/g67czVaz40AG6PktyPsCtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>统计了一个栏目的阅读量后发现？？</title>
     <updated>2021-01-04T10:09:05+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-12-26T23:00:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/RwuPTbfiCX6pTdXrje8YNw</id>
     <link href="https://mp.weixin.qq.com/s/RwuPTbfiCX6pTdXrje8YNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【生信文献200篇】01 探究为何一个TNBC对gefitinib过于敏感</title>
-    <updated>2020-12-26T21:34:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/KrlxvJiLibE0RTKOB44t1w</id>
-    <link href="https://mp.weixin.qq.com/s/KrlxvJiLibE0RTKOB44t1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【生信文献200篇】02 用米氏方程解决单细胞转录组dropout现象</title>
-    <updated>2020-12-26T21:34:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/PORyv8NOrm7M0M0z6xaOVw</id>
-    <link href="https://mp.weixin.qq.com/s/PORyv8NOrm7M0M0z6xaOVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

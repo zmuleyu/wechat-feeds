@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:35:09+08:00</updated>
+  <updated>2021-01-05T23:27:13+08:00</updated>
   <subtitle>我们的产品：《码农周刊》 http://manong.io/ 、《开发者头条》 http://toutiao.io/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式系统之 CAP 理论，我们对它的理解和误解</title>
+    <updated>2021-01-05T21:00:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/OlNGVGIgF3kZqlqOlYAuDQ</id>
+    <link href="https://mp.weixin.qq.com/s/OlNGVGIgF3kZqlqOlYAuDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 | 工程师职级胜任力框架</title>
+    <updated>2021-01-05T21:00:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/LruPfSQwsAIg2O0dewx4_A</id>
+    <link href="https://mp.weixin.qq.com/s/LruPfSQwsAIg2O0dewx4_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>过去的 2020 年，我经历了什么？</title>
     <updated>2021-01-04T19:00:27+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-21T22:00:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/zbEXLjzdtD_l21NCnTXv2A</id>
     <link href="https://mp.weixin.qq.com/s/zbEXLjzdtD_l21NCnTXv2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HTTP/2 做错了什么？刚刚辉煌 2 年就要被弃用了！？</title>
-    <updated>2020-12-18T15:30:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/lKl2SARvf1x3PQfcvJxzuw</id>
-    <link href="https://mp.weixin.qq.com/s/lKl2SARvf1x3PQfcvJxzuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，赶紧上车吧！</title>
-    <updated>2020-12-18T15:30:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/6D6EH-cjPHYQJ_GgVa-hRA</id>
-    <link href="https://mp.weixin.qq.com/s/6D6EH-cjPHYQJ_GgVa-hRA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

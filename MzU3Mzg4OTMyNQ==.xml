@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink 中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:17:58+08:00</updated>
+  <updated>2021-01-05T23:32:26+08:00</updated>
   <subtitle>Apache Flink 官微，Flink PMC 维护</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>详解 Flink 容器化环境下的 OOM Killed</title>
+    <updated>2021-01-05T21:22:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/9V00JRtGuEUkYFKJ-SLlng</id>
+    <link href="https://mp.weixin.qq.com/s/9V00JRtGuEUkYFKJ-SLlng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数仓实时化改造：Hudi on Flink 在顺丰的实践应用</title>
     <updated>2020-12-30T19:16:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T20:53:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/cy4--fitz222iBSD1uFusQ</id>
     <link href="https://mp.weixin.qq.com/s/cy4--fitz222iBSD1uFusQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>融合7大领域！Apache Flink 在开源生态下的应用实践</title>
-    <updated>2020-12-06T22:16:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/JSkHzakwZd5BWnxIaUo7fg</id>
-    <link href="https://mp.weixin.qq.com/s/JSkHzakwZd5BWnxIaUo7fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
