@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>支付宝技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T13:45:36+08:00</updated>
+  <updated>2021-01-05T16:30:19+08:00</updated>
   <subtitle>这里分享支付宝技术团队的前沿技术创新与洞察。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>金融级云原生：多活容器集群高可用建设实践</title>
+    <updated>2021-01-05T13:49:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Urwd4FfPIdAF9sjOYlRRfw</id>
+    <link href="https://mp.weixin.qq.com/s/Urwd4FfPIdAF9sjOYlRRfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对话OceanBase CEO杨冰: 11年征程，做数据库我们是认真的!</title>
     <updated>2021-01-04T12:06:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T10:22:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/xtp-GoY2Czm4n3A7C7kpSw</id>
     <link href="https://mp.weixin.qq.com/s/xtp-GoY2Czm4n3A7C7kpSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>抛弃传统集中式架构 江西农信采用云原生技术实现业务系统平滑迁移上云</title>
-    <updated>2020-12-07T16:52:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/K0dx5bGooxSkKK4LeN-XKw</id>
-    <link href="https://mp.weixin.qq.com/s/K0dx5bGooxSkKK4LeN-XKw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
