@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:08:25+08:00</updated>
+  <updated>2021-01-06T07:37:09+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货，OLAP数仓从百万到百亿级数据量实时分析</title>
+    <updated>2021-01-05T21:14:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/XmtCCuzH4Z8DdxZQMtGecw</id>
+    <link href="https://mp.weixin.qq.com/s/XmtCCuzH4Z8DdxZQMtGecw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>详解数据仓库建模方法</title>
     <updated>2021-01-04T20:35:14+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-27T21:35:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/69YuAfh5pO8oBw5vVh4O3g</id>
     <link href="https://mp.weixin.qq.com/s/69YuAfh5pO8oBw5vVh4O3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈优秀工程师的成长因素</title>
-    <updated>2020-12-24T21:47:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/cFb6EOl_TJHYw9hD0W6tuw</id>
-    <link href="https://mp.weixin.qq.com/s/cFb6EOl_TJHYw9hD0W6tuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>eBay广告平台数据OLAP实战</title>
-    <updated>2020-12-24T21:47:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/_D5mY6mrfsx15d3Tf0qQMw</id>
-    <link href="https://mp.weixin.qq.com/s/_D5mY6mrfsx15d3Tf0qQMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
