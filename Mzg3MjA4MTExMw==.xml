@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>漫话编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:20:38+08:00</updated>
+  <updated>2021-01-05T13:34:38+08:00</updated>
   <subtitle>漫画编程，让编程变得更有乐趣。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动这么缺人？不卡学历，不要经验，只要求……</title>
+    <updated>2021-01-04T23:19:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/4RXy89qo9bYhDXzFiTiZLw</id>
+    <link href="https://mp.weixin.qq.com/s/4RXy89qo9bYhDXzFiTiZLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>程序员必备基础：如何安全传输存储用户密码？</title>
+    <updated>2021-01-04T23:19:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/oDSiN0Rv6_xiqsIFWQGoBw</id>
+    <link href="https://mp.weixin.qq.com/s/oDSiN0Rv6_xiqsIFWQGoBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何辨别二逼互联网公司！？</title>
     <updated>2021-01-04T22:14:12+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2020-12-25T20:29:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/NeJH-ucmWllBkenU6PDOQw</id>
     <link href="https://mp.weixin.qq.com/s/NeJH-ucmWllBkenU6PDOQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CTO：再写if-else，逮着罚款1000！</title>
-    <updated>2020-12-25T20:21:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/eGeh8xMFRQCx4ynJamlhLA</id>
-    <link href="https://mp.weixin.qq.com/s/eGeh8xMFRQCx4ynJamlhLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1.3 万亿条数据查询，如何做到毫秒级响应？</title>
-    <updated>2020-12-25T20:21:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/_NAQ5_TgNkobwWIJpWQYLQ</id>
-    <link href="https://mp.weixin.qq.com/s/_NAQ5_TgNkobwWIJpWQYLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

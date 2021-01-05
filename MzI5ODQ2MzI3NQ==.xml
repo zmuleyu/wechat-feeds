@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T13:28:22+08:00</updated>
+  <updated>2021-01-05T13:30:11+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>K8S 如何全面拥抱微服务？揭秘阿里腾讯万亿级微服务架构实战！</title>
+    <updated>2021-01-05T11:35:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Nx-MaTSLzmpm-xHgWAb7DA</id>
+    <link href="https://mp.weixin.qq.com/s/Nx-MaTSLzmpm-xHgWAb7DA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生时代运维开发的年终技术总结</title>
+    <updated>2021-01-05T11:35:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/uelCi1V2a68JJCcUO3aoJQ</id>
+    <link href="https://mp.weixin.qq.com/s/uelCi1V2a68JJCcUO3aoJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生2.0：以应用为中心  构建高效、敏捷的云原生基础设施</title>
     <updated>2021-01-04T12:02:01+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-27T18:56:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/_8ne8FAnGRrhdllKH5IB9A</id>
     <link href="https://mp.weixin.qq.com/s/_8ne8FAnGRrhdllKH5IB9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>冲突域和广播域区别，集线器、交换机和路由器对比</title>
-    <updated>2020-12-26T10:53:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/k3olbDn3hloh9vV6GEks2g</id>
-    <link href="https://mp.weixin.qq.com/s/k3olbDn3hloh9vV6GEks2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

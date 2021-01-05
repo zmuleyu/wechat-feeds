@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿天地 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:42:43+08:00</updated>
+  <updated>2021-01-05T13:41:22+08:00</updated>
   <subtitle>猿天地由《Spring Cloud微服务-全栈技术与案例解析》, 《Spring Cloud微服务 入门 实战与进阶》作者尹吉欢创建。 资深Java技术专家和微服务技术专家，在Spring Cloud和微服务方面有丰富的经验。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新的一年送粉丝新款笔记本电脑一台！</title>
+    <updated>2021-01-05T09:34:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/tmxt69QnOBo0mAGvdrI86g</id>
+    <link href="https://mp.weixin.qq.com/s/tmxt69QnOBo0mAGvdrI86g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java 项目权威排名：Nacos 未上版，Gradle 排名第二，Maven 排名 28</title>
+    <updated>2021-01-05T09:34:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/CuyJ6Vsp-P6MGgjhWyrd_g</id>
+    <link href="https://mp.weixin.qq.com/s/CuyJ6Vsp-P6MGgjhWyrd_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多年面经：跳槽谈薪不被砍价的最大筹码是...</title>
     <updated>2021-01-04T16:43:13+08:00</updated>
@@ -64,27 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>SQL判断是否&#34;存在&#34;，还在用 count 操作？</title>
-    <updated>2020-12-28T17:17:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/o0sqaMPIESiCx_CyJyOuWg</id>
-    <link href="https://mp.weixin.qq.com/s/o0sqaMPIESiCx_CyJyOuWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯，干掉 Redis 项目，正式开源、太牛逼啦！</title>
-    <updated>2020-12-28T17:09:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Bsti8P1lLbdM_i9_raSwHA</id>
-    <link href="https://mp.weixin.qq.com/s/Bsti8P1lLbdM_i9_raSwHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse 官宣，干掉 VS Code ！</title>
-    <updated>2020-12-25T19:06:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Jfs0rLMLeBq8x7_ZCC1vrQ</id>
-    <link href="https://mp.weixin.qq.com/s/Jfs0rLMLeBq8x7_ZCC1vrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>打日志还能打出个线上Bug，太难了。。。</title>
     <updated>2020-12-25T11:46:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/NjWxEgeYxabaln6eIK4LZw</id>
@@ -96,6 +89,13 @@
     <updated>2020-12-24T11:19:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/74RSkqjniWRum28ZZiK3Mw</id>
     <link href="https://mp.weixin.qq.com/s/74RSkqjniWRum28ZZiK3Mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>天天CRUD的我，也想玩玩高大上的Prometheus</title>
+    <updated>2020-12-19T14:48:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/QoAs0-AYy8krWTa3HbmJZA</id>
+    <link href="https://mp.weixin.qq.com/s/QoAs0-AYy8krWTa3HbmJZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

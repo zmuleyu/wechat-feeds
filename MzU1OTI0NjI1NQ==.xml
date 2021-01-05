@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:28:04+08:00</updated>
+  <updated>2021-01-05T13:40:11+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我宣布，这是我找到的史上 AI 最全论文体系！</title>
+    <updated>2021-01-04T20:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/W-QONNnKUFINO79MlPd7Dg</id>
+    <link href="https://mp.weixin.qq.com/s/W-QONNnKUFINO79MlPd7Dg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 进程、线程和协程实战指归</title>
+    <updated>2021-01-04T20:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/P7AFA0-KYY-t_KB8-UvMMw</id>
+    <link href="https://mp.weixin.qq.com/s/P7AFA0-KYY-t_KB8-UvMMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>逆向爬虫时，Python 如何正确调用 JAR 加密逻辑？</title>
     <updated>2021-01-03T23:47:58+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-22T19:46:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/HoqrQls_xmuXe7123AI4sQ</id>
     <link href="https://mp.weixin.qq.com/s/HoqrQls_xmuXe7123AI4sQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信朋友圈被折叠？会自动化不存在的（下）</title>
-    <updated>2020-12-21T19:29:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/VUKAgM3ju5a0f6nbwvXtOQ</id>
-    <link href="https://mp.weixin.qq.com/s/VUKAgM3ju5a0f6nbwvXtOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
