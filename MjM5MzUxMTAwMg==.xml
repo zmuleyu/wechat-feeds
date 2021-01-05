@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EDN电子技术设计 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:30:16+08:00</updated>
+  <updated>2021-01-05T20:18:12+08:00</updated>
   <subtitle>EDN China电子技术设计为电子设计工程师和设计经理人提供前沿深度的电子资讯、设计实例应用方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为 vs 高通：5G毫米波的四大误区</title>
+    <updated>2021-01-05T18:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/HLJirYw9iT4yQaOqCf76RA</id>
+    <link href="https://mp.weixin.qq.com/s/HLJirYw9iT4yQaOqCf76RA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>嵌入式代码的致命漏洞</title>
+    <updated>2021-01-05T18:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/OdBJphKTejbbspOj8-nwVQ</id>
+    <link href="https://mp.weixin.qq.com/s/OdBJphKTejbbspOj8-nwVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>盘点电动汽车续航里程的四大风险因素</title>
+    <updated>2021-01-05T18:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/qa3lXLZv1_HKExwQyhx4eQ</id>
+    <link href="https://mp.weixin.qq.com/s/qa3lXLZv1_HKExwQyhx4eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>模拟基础知识：处理 SAR ADC 输入驱动难题</title>
+    <updated>2021-01-05T18:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/ZWbyjaJ0vYaJZY_DOoby6g</id>
+    <link href="https://mp.weixin.qq.com/s/ZWbyjaJ0vYaJZY_DOoby6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>关于PCB设计，只懂多层板选择原则，却不知叠层设计可不行！</title>
+    <updated>2021-01-05T18:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/i7xMBDZmIt7Ww0oUQVAHSQ</id>
+    <link href="https://mp.weixin.qq.com/s/i7xMBDZmIt7Ww0oUQVAHSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>138个元器件失效分析典型案例</title>
+    <updated>2021-01-05T18:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/TBmeMCMwI92nim_UQUWXRA</id>
+    <link href="https://mp.weixin.qq.com/s/TBmeMCMwI92nim_UQUWXRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>寄存器、锁存器和触发器傻傻分不清？一文让你明辨！</title>
     <updated>2021-01-04T17:31:42+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-01T19:52:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/TQ1kt7XMNwE6mYVj5xxMRQ</id>
     <link href="https://mp.weixin.qq.com/s/TQ1kt7XMNwE6mYVj5xxMRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>模电资料：负反馈和运算放大器基础</title>
-    <updated>2021-01-01T19:52:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/BObQbgavgmt3OqRRubp31A</id>
-    <link href="https://mp.weixin.qq.com/s/BObQbgavgmt3OqRRubp31A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>又到放假煲剧时，视频编码器谁家强？</title>
-    <updated>2020-12-31T10:41:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/3ycM6U34ts1oYIuRk-UzHw</id>
-    <link href="https://mp.weixin.qq.com/s/3ycM6U34ts1oYIuRk-UzHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何接收22kHz以下的无线电波？</title>
-    <updated>2020-12-31T10:41:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/2tmRwTDVKUali3XrjBNWIg</id>
-    <link href="https://mp.weixin.qq.com/s/2tmRwTDVKUali3XrjBNWIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>达摩院2021十大科技趋势预测（原文）</title>
-    <updated>2020-12-31T10:41:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/TDZoqYYpV55TnLDUoGT82g</id>
-    <link href="https://mp.weixin.qq.com/s/TDZoqYYpV55TnLDUoGT82g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常用电路基础公式&amp;换算</title>
-    <updated>2020-12-31T10:41:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/kxHgyH7-kh-HG6gZ2mYDsg</id>
-    <link href="https://mp.weixin.qq.com/s/kxHgyH7-kh-HG6gZ2mYDsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PCB原理图与PCB设计文件的区别</title>
-    <updated>2020-12-31T10:41:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/999GhOU-SLHWVMAnLBruhg</id>
-    <link href="https://mp.weixin.qq.com/s/999GhOU-SLHWVMAnLBruhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

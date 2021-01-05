@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云加社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:24:14+08:00</updated>
+  <updated>2021-01-05T20:13:03+08:00</updated>
   <subtitle>腾讯云官方社区公众号，汇聚技术开发者群体，分享技术干货，打造技术影响力交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图解 VueLoader : .vue 文件是如何被打包的?</title>
+    <updated>2021-01-05T18:57:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/FJzDRLchG_DWA80Wp141Vg</id>
+    <link href="https://mp.weixin.qq.com/s/FJzDRLchG_DWA80Wp141Vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>技术创作101训练营：从0到1教你搭建自己的技术品牌</title>
     <updated>2021-01-04T20:18:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T21:16:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/g37cB0Qvn112yXpkrHKgnQ</id>
     <link href="https://mp.weixin.qq.com/s/g37cB0Qvn112yXpkrHKgnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跻身全球企业贡献前十，腾讯发布开源十年图谱！</title>
-    <updated>2020-12-21T18:03:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/P4k8o2rtNFC400bYVZsQZA</id>
-    <link href="https://mp.weixin.qq.com/s/P4k8o2rtNFC400bYVZsQZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

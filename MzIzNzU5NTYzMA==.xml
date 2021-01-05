@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:12:52+08:00</updated>
+  <updated>2021-01-05T20:30:30+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>应用案例 | 基于Volcano 的锐天离线高性能计算最佳实践</title>
+    <updated>2021-01-05T12:03:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/FDYExtj93lCrXmiFRozBPA</id>
+    <link href="https://mp.weixin.qq.com/s/FDYExtj93lCrXmiFRozBPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生动态周报 | CNCF发布2020年度报告</title>
     <updated>2021-01-04T20:31:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T20:14:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/mqAoVmhf5QemYL-TR8rV0A</id>
     <link href="https://mp.weixin.qq.com/s/mqAoVmhf5QemYL-TR8rV0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生动态周报 | 2020北美KubeCon会议透明度报告发布</title>
-    <updated>2020-12-21T18:19:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/zkWRPJ6ZYHZYhl0qpiTmng</id>
-    <link href="https://mp.weixin.qq.com/s/zkWRPJ6ZYHZYhl0qpiTmng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

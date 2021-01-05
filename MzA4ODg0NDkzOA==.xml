@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:17:20+08:00</updated>
+  <updated>2021-01-05T20:31:37+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>首期 Go 开源说实录：Excelize 开源背后的故事</title>
+    <updated>2021-01-05T18:21:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Kp1Kz9mffLz0ZZA7qWOidA</id>
+    <link href="https://mp.weixin.qq.com/s/Kp1Kz9mffLz0ZZA7qWOidA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「GoTeam 招聘时间」哈啰出行Go中间件、存储系统专家（上海）</title>
+    <updated>2021-01-05T18:21:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/tr4pam0hFJKQjR2zV_sI9w</id>
+    <link href="https://mp.weixin.qq.com/s/tr4pam0hFJKQjR2zV_sI9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个 20 年老司机的 2020 年度技术总结</title>
     <updated>2021-01-04T16:47:04+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-12-16T18:49:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/xETWtdJ9ij2zrCnXg4qErA</id>
     <link href="https://mp.weixin.qq.com/s/xETWtdJ9ij2zrCnXg4qErA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最简单的 K8S 部署文件编写姿势，没有之一！</title>
-    <updated>2020-12-15T19:04:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/sKGjkiJLv5SuUzjFJqnjRw</id>
-    <link href="https://mp.weixin.qq.com/s/sKGjkiJLv5SuUzjFJqnjRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「GoTeam 招聘时间」卓拙科技Golang开发工程师（成都）</title>
-    <updated>2020-12-15T19:04:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/HFYJh68taXJPNTZqpqQHPQ</id>
-    <link href="https://mp.weixin.qq.com/s/HFYJh68taXJPNTZqpqQHPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

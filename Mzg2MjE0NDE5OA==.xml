@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:11:47+08:00</updated>
+  <updated>2021-01-05T20:27:36+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: CentOS中道夭折！</title>
+    <updated>2021-01-05T16:15:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/6o-9eyylotdbGiBWAfAyWg</id>
+    <link href="https://mp.weixin.qq.com/s/6o-9eyylotdbGiBWAfAyWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: 通用计算的未来！</title>
     <updated>2021-01-04T13:17:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-18T17:50:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/kTDu1NlmwUWnKrCP7rhl3Q</id>
     <link href="https://mp.weixin.qq.com/s/kTDu1NlmwUWnKrCP7rhl3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN：如何保护虚拟机不受恶意来源的攻击？</title>
-    <updated>2020-12-17T13:16:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/apjKbuS5oNGtPl9TCXu39Q</id>
-    <link href="https://mp.weixin.qq.com/s/apjKbuS5oNGtPl9TCXu39Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

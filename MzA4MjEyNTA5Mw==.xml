@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:33:47+08:00</updated>
+  <updated>2021-01-05T20:27:54+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>知乎打脸后，拼夕夕是这样回应的…</title>
+    <updated>2021-01-05T16:51:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/V82Xb7EGqx5q3TM0oxt2Yg</id>
+    <link href="https://mp.weixin.qq.com/s/V82Xb7EGqx5q3TM0oxt2Yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画：一台 Linux 服务器最多能支撑多少个 TCP 连接</title>
+    <updated>2021-01-05T16:51:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/PBd2Odx8AKf1AkuvIbk4Fw</id>
+    <link href="https://mp.weixin.qq.com/s/PBd2Odx8AKf1AkuvIbk4Fw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从踩坑学Python内部原理（15）：​bool 和 None</title>
+    <updated>2021-01-05T16:51:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/wi7ITAE1J-oT0ROz_VhzRw</id>
+    <link href="https://mp.weixin.qq.com/s/wi7ITAE1J-oT0ROz_VhzRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再次为王！Python 是 2020 年度编程语言</title>
     <updated>2021-01-04T22:07:03+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T20:53:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/Qn-a8vgzN0_rYZNzqE62xg</id>
     <link href="https://mp.weixin.qq.com/s/Qn-a8vgzN0_rYZNzqE62xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不用GAN，照片生成简笔画，效果惊艳</title>
-    <updated>2020-12-29T20:53:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/4wUoUkeKBUfUgY5WSCgYKQ</id>
-    <link href="https://mp.weixin.qq.com/s/4wUoUkeKBUfUgY5WSCgYKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从踩坑学Python内部原理（8）：is not 与逗号</title>
-    <updated>2020-12-29T20:53:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/dp1dIH929johMyBK0LszBg</id>
-    <link href="https://mp.weixin.qq.com/s/dp1dIH929johMyBK0LszBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年轻人不讲武德，居然在简历中藏木马！</title>
-    <updated>2020-12-28T20:41:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/yTGpU0j7C8JTI4eej3WKbQ</id>
-    <link href="https://mp.weixin.qq.com/s/yTGpU0j7C8JTI4eej3WKbQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

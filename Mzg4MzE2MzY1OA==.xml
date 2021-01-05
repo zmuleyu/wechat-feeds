@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OPPO互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:20:47+08:00</updated>
+  <updated>2021-01-05T20:22:26+08:00</updated>
   <subtitle>OPPO互联网技术干货及技术活动分享平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>揭秘QUIC的性能与安全</title>
+    <updated>2021-01-05T19:25:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/X647em26p5Fz8ka1lkuKgg</id>
+    <link href="https://mp.weixin.qq.com/s/X647em26p5Fz8ka1lkuKgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入理解Flutter的图形图像绘制原理——图形库skia剖析</title>
     <updated>2020-12-25T18:22:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-18T19:06:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/Eztt735ujM07yM0U3WzEWQ</id>
     <link href="https://mp.weixin.qq.com/s/Eztt735ujM07yM0U3WzEWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何用 CI (持续集成) 保证研发质量</title>
-    <updated>2020-11-12T15:41:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/JVTysjXXfWKBvh5MpqwuSA</id>
-    <link href="https://mp.weixin.qq.com/s/JVTysjXXfWKBvh5MpqwuSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

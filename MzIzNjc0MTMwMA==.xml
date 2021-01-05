@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:15:51+08:00</updated>
+  <updated>2021-01-05T20:13:07+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【他山之石】深度学习和机器视觉top组都在研究什么</title>
+    <updated>2021-01-05T17:57:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/wxqTs4YzglkAoZ_9HWtckg</id>
+    <link href="https://mp.weixin.qq.com/s/wxqTs4YzglkAoZ_9HWtckg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【综述专栏】一文讲述LSTM及其变体</title>
+    <updated>2021-01-05T17:57:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/ubBq-E1n-95TFaOyYshY4g</id>
+    <link href="https://mp.weixin.qq.com/s/ubBq-E1n-95TFaOyYshY4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【源头活水】探讨旋转目标检测中anchor匹配机制问题</title>
     <updated>2021-01-04T18:03:48+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-28T17:59:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/kH25VU7uhPOGoWF8K-IWLQ</id>
     <link href="https://mp.weixin.qq.com/s/kH25VU7uhPOGoWF8K-IWLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI95×CRIPAC 因果推理专题</title>
-    <updated>2020-12-28T17:59:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/eqNgHC7M3Y9Ufvi6jzIfow</id>
-    <link href="https://mp.weixin.qq.com/s/eqNgHC7M3Y9Ufvi6jzIfow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】整理 Deep Learning 调参 tricks</title>
-    <updated>2020-12-27T18:04:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/Gw8K0GggRcahwLf3tu4LrA</id>
-    <link href="https://mp.weixin.qq.com/s/Gw8K0GggRcahwLf3tu4LrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

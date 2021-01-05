@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:26:28+08:00</updated>
+  <updated>2021-01-05T20:14:30+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>资深首席架构师预测：2021年云计算的8个首要趋势</title>
+    <updated>2021-01-05T17:26:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/i-LR_HaF_6IPcgN1ZR6ajQ</id>
+    <link href="https://mp.weixin.qq.com/s/i-LR_HaF_6IPcgN1ZR6ajQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>免费在线培训丨超融合基础架构软件 Harvester从入门到实践</title>
     <updated>2021-01-04T17:41:10+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-21T13:20:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/dNACl3el8Shpt_cAymVUzg</id>
     <link href="https://mp.weixin.qq.com/s/dNACl3el8Shpt_cAymVUzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rancher开源Harvester：基于K8S的超融合基础架构软件</title>
-    <updated>2020-12-17T18:13:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/MWcYD0PnvtVQTNrF2NBe9g</id>
-    <link href="https://mp.weixin.qq.com/s/MWcYD0PnvtVQTNrF2NBe9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

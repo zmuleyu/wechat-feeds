@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:38:11+08:00</updated>
+  <updated>2021-01-05T20:29:35+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>DTCC 2020 | 阿里云叶正盛：数据库2025的展望</title>
+    <updated>2021-01-05T15:56:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/gZifQbtuasuwSH_85-Q0OQ</id>
+    <link href="https://mp.weixin.qq.com/s/gZifQbtuasuwSH_85-Q0OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python C 扩展的引用计数问题探讨</title>
     <updated>2021-01-04T16:10:36+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T16:07:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/jze6vHE_wUWu7lrqBBcn3w</id>
     <link href="https://mp.weixin.qq.com/s/jze6vHE_wUWu7lrqBBcn3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盲人也能用，优酷App做了哪些无障碍实践？</title>
-    <updated>2020-12-23T16:18:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/3ttbAN4V1Z5p81AzUtlMXQ</id>
-    <link href="https://mp.weixin.qq.com/s/3ttbAN4V1Z5p81AzUtlMXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

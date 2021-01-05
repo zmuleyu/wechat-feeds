@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:26:11+08:00</updated>
+  <updated>2021-01-05T20:14:13+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>脉冲星 12 月脉动 | Pulsar 2.7.0 发布！</title>
+    <updated>2021-01-05T17:07:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/bXOBI5awU3dfoZu3V_V7-w</id>
+    <link href="https://mp.weixin.qq.com/s/bXOBI5awU3dfoZu3V_V7-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pulsar 2.7.0 新增特性概览：事务支持、Topic 级别策略配置等</title>
     <updated>2021-01-04T18:43:13+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-23T19:45:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/JpbPg1FRUQtcb9pJcANUrg</id>
     <link href="https://mp.weixin.qq.com/s/JpbPg1FRUQtcb9pJcANUrg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>博文推荐｜消息系统的发展趋势：云原生是未来</title>
-    <updated>2020-12-22T18:14:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/TL4zPjlX6Iw_JFozwwKDVg</id>
-    <link href="https://mp.weixin.qq.com/s/TL4zPjlX6Iw_JFozwwKDVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TGIP CN 28 期回顾： Apache Pulsar 延时队列的方方面面</title>
-    <updated>2020-12-22T18:14:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/_gKLEMJJf58YceFQtajFQw</id>
-    <link href="https://mp.weixin.qq.com/s/_gKLEMJJf58YceFQtajFQw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

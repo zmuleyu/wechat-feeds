@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:28:45+08:00</updated>
+  <updated>2021-01-05T20:16:28+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有图有视频   演示横向渗透被火绒拦截过程</title>
+    <updated>2021-01-05T18:19:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/DwEZVLllal4S8VftnaSbkg</id>
+    <link href="https://mp.weixin.qq.com/s/DwEZVLllal4S8VftnaSbkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【火绒安全周报】明星“健康宝”遭泄露    Google 文档漏洞可使黑客窃取私人文档</title>
     <updated>2020-12-31T15:28:27+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-09T19:27:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/tDiIOjwzRVphlU6pqA-QfA</id>
     <link href="https://mp.weixin.qq.com/s/tDiIOjwzRVphlU6pqA-QfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享图片</title>
-    <updated>2020-12-07T18:14:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/PI79oXVXNO7EBHKy0DqirQ</id>
-    <link href="https://mp.weixin.qq.com/s/PI79oXVXNO7EBHKy0DqirQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

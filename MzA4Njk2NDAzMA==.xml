@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T23:30:13+08:00</updated>
+  <updated>2021-01-05T20:25:01+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万字攻略，详解腾讯面试</title>
+    <updated>2021-01-05T19:00:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/IAQNEaltnY2gKp65Q03lDA</id>
+    <link href="https://mp.weixin.qq.com/s/IAQNEaltnY2gKp65Q03lDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 | 《Go 语言高性能编程》</title>
+    <updated>2021-01-05T19:00:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/eJFrFdwh8nDJI9T4wvZYMQ</id>
+    <link href="https://mp.weixin.qq.com/s/eJFrFdwh8nDJI9T4wvZYMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>过去的 2020 年，我经历了什么？</title>
     <updated>2021-01-04T21:00:14+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-21T20:00:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/cVnFhRv6WGJ9DtNLnBSH-w</id>
     <link href="https://mp.weixin.qq.com/s/cVnFhRv6WGJ9DtNLnBSH-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团 Commit Log 规范，了解下？</title>
-    <updated>2020-12-18T21:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/KNiKdwceUkKOxkqQvdLqpw</id>
-    <link href="https://mp.weixin.qq.com/s/KNiKdwceUkKOxkqQvdLqpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，赶紧上车吧！</title>
-    <updated>2020-12-18T21:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/N-ul7zC-wDrC5W8Wo8wdTg</id>
-    <link href="https://mp.weixin.qq.com/s/N-ul7zC-wDrC5W8Wo8wdTg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
