@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PHP饭米粒 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T02:06:16+08:00</updated>
+  <subtitle>一群靠谱的人，愿为PHPer带来一些值得细细品味的精神食粮！</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>高并发高性能服务器是如何实现的</title>
+    <updated>2021-01-04T09:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/F7A-Xg5zPj5ZC3BvD2Pdpg</id>
+    <link href="https://mp.weixin.qq.com/s/F7A-Xg5zPj5ZC3BvD2Pdpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景</title>
+    <updated>2021-01-03T08:53:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/7QmXi8EteSfOJf3qCN0drg</id>
+    <link href="https://mp.weixin.qq.com/s/7QmXi8EteSfOJf3qCN0drg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>索引为什么能提高查询性能....</title>
+    <updated>2020-12-31T09:50:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-31:/s/QempeF46kgcO55oH_NC3xw</id>
+    <link href="https://mp.weixin.qq.com/s/QempeF46kgcO55oH_NC3xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>挑战Redis单实例内存最大极限，“遭遇”NUMA陷阱！</title>
+    <updated>2020-12-29T11:41:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/NMYkAnrCIoifDpe42_vPUw</id>
+    <link href="https://mp.weixin.qq.com/s/NMYkAnrCIoifDpe42_vPUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>带宽、延时、吞吐率、PPS 这些都是啥？</title>
+    <updated>2020-12-28T10:32:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/luI2QcUzhQLVW09jvYEWFw</id>
+    <link href="https://mp.weixin.qq.com/s/luI2QcUzhQLVW09jvYEWFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从内核角度分析 listen() 系统调用的 backlog 参数作用</title>
+    <updated>2020-12-24T10:51:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-24:/s/Osuc1Nm8ReOW89S8G-EHiw</id>
+    <link href="https://mp.weixin.qq.com/s/Osuc1Nm8ReOW89S8G-EHiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画 | 理解了TCP连接的实现以后，客户端的并发也爆发了！</title>
+    <updated>2020-12-23T09:29:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/0v5PRznQwzHDeau2lz-YGQ</id>
+    <link href="https://mp.weixin.qq.com/s/0v5PRznQwzHDeau2lz-YGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>终于明白了，一文彻底理解I/O多路复用</title>
+    <updated>2020-12-21T10:02:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/vqZZpwk4CqejQcjBk0rDuQ</id>
+    <link href="https://mp.weixin.qq.com/s/vqZZpwk4CqejQcjBk0rDuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>read文件一个字节实际会发生多大的磁盘IO？</title>
+    <updated>2020-12-18T14:02:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/hcXXyZ5cuLVFq4Y08Ha7rw</id>
+    <link href="https://mp.weixin.qq.com/s/hcXXyZ5cuLVFq4Y08Ha7rw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画 | 一台Linux服务器最多能支撑多少个TCP连接？</title>
+    <updated>2020-12-16T11:42:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/J0Abwz20IO9N0NxooSEKXQ</id>
+    <link href="https://mp.weixin.qq.com/s/J0Abwz20IO9N0NxooSEKXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

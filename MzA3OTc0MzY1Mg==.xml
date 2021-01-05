@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肉眼品世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:28:45+08:00</updated>
+  <updated>2021-01-06T01:57:32+08:00</updated>
   <subtitle>发现世界之美好,技术、产品、创业，预见与众不同的你</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 项目权威排名：Nacos 未上版，Gradle 排名第二，Maven 排名 28</title>
+    <updated>2021-01-05T21:58:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/iRJdcIuwPkXsGdRxmxS7OQ</id>
+    <link href="https://mp.weixin.qq.com/s/iRJdcIuwPkXsGdRxmxS7OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Flink构建实时数仓实践</title>
+    <updated>2021-01-05T21:58:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/sZOH3n2mamLWJIHEozVxxg</id>
+    <link href="https://mp.weixin.qq.com/s/sZOH3n2mamLWJIHEozVxxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>架构拆分：如何让笨重的系统架构变灵巧？</title>
+    <updated>2021-01-05T21:58:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/nOtl9HgCNvIjFwiBCdjnrQ</id>
+    <link href="https://mp.weixin.qq.com/s/nOtl9HgCNvIjFwiBCdjnrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringBoot中使用注解来实现 Redis 分布式锁</title>
+    <updated>2021-01-05T21:58:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/kSkLVYs9Z6onNkqVHRfIEA</id>
+    <link href="https://mp.weixin.qq.com/s/kSkLVYs9Z6onNkqVHRfIEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>llvm 编译器高级用法：第三方库插桩</title>
+    <updated>2021-01-05T21:58:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/TEPW_DJb3mNQvyf_OJwRlQ</id>
+    <link href="https://mp.weixin.qq.com/s/TEPW_DJb3mNQvyf_OJwRlQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>清华唐杰教授：认知图谱是人工智能的下一个瑰宝（PPT下载）</title>
     <updated>2021-01-04T23:01:54+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-02T21:17:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/T-0h3Zn6MDC8WARovFPqoA</id>
     <link href="https://mp.weixin.qq.com/s/T-0h3Zn6MDC8WARovFPqoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IT 行业研发投入 TOP 100</title>
-    <updated>2021-01-01T22:46:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/C0b7KAbom2dAhV-zBhhQ0g</id>
-    <link href="https://mp.weixin.qq.com/s/C0b7KAbom2dAhV-zBhhQ0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爆料：幸福来得太突然！百度几乎全员发半个月特别奖金！</title>
-    <updated>2021-01-01T22:46:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/LPS9XFcmwK-yRc6az81PzA</id>
-    <link href="https://mp.weixin.qq.com/s/LPS9XFcmwK-yRc6az81PzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务场景下的数据一致性解决方案</title>
-    <updated>2021-01-01T22:46:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/MJ29JtcFfuPyEhn2iM-fDQ</id>
-    <link href="https://mp.weixin.qq.com/s/MJ29JtcFfuPyEhn2iM-fDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 解决跨域问题的 3 种方案！</title>
-    <updated>2021-01-01T22:46:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/rL9I8eqgCIl9F8KACDCOFA</id>
-    <link href="https://mp.weixin.qq.com/s/rL9I8eqgCIl9F8KACDCOFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>涨姿势的52条SQL语句性能优化</title>
-    <updated>2021-01-01T22:46:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/gT34JqJNp3XqauXwbzue6A</id>
-    <link href="https://mp.weixin.qq.com/s/gT34JqJNp3XqauXwbzue6A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

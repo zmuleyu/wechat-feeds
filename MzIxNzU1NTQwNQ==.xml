@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:23:39+08:00</updated>
+  <updated>2021-01-06T01:55:50+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>石家庄最新通报！</title>
+    <updated>2021-01-05T23:04:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/x08IjAdO04--dVl9NshtrQ</id>
+    <link href="https://mp.weixin.qq.com/s/x08IjAdO04--dVl9NshtrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>河北疫情防控提出三“全”三“最” 康辉：希望家乡打赢这场仗！</title>
     <updated>2021-01-05T22:29:56+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-04T22:29:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/XX83GIJ-CRMsnrL9fyHFEA</id>
     <link href="https://mp.weixin.qq.com/s/XX83GIJ-CRMsnrL9fyHFEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开训！</title>
-    <updated>2021-01-04T21:08:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/MCfM7ENGRWTMLhFZOx9Wug</id>
-    <link href="https://mp.weixin.qq.com/s/MCfM7ENGRWTMLhFZOx9Wug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

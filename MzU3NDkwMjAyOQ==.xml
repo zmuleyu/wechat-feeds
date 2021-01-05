@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>码哥字节 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T02:04:13+08:00</updated>
+  <subtitle>分享Java技术，不论基础核心还是分布式、高并发场景。还是 SpringBoot 、MySQL、Redis、 Spring Cloud 等框架原理和源码分析。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>误用Redis命令导致服务器挂了，领导让我写事故报告</title>
+    <updated>2021-01-05T16:33:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Qtgp94D1hLMWD9dFgcIs3A</id>
+    <link href="https://mp.weixin.qq.com/s/Qtgp94D1hLMWD9dFgcIs3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>优秀工程师必备技能之如何高效阅读源码</title>
+    <updated>2021-01-03T20:42:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/9HzNq9INLFxcpFQWWnwmVQ</id>
+    <link href="https://mp.weixin.qq.com/s/9HzNq9INLFxcpFQWWnwmVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分库分表：TIDB，你是来抢生意的？</title>
+    <updated>2020-12-18T14:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-18:/s/4PGBjnXF5fJFxbxQEKLlsA</id>
+    <link href="https://mp.weixin.qq.com/s/4PGBjnXF5fJFxbxQEKLlsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>synchronized 王的后宫总管，线程是王妃</title>
+    <updated>2020-12-16T18:07:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/uc-Egq6iIViqqi11z-G2OQ</id>
+    <link href="https://mp.weixin.qq.com/s/uc-Egq6iIViqqi11z-G2OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我给Apache顶级项目提了个Bug</title>
+    <updated>2020-12-03T11:29:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/eCRHKScL9HLfPjHBs87d3g</id>
+    <link href="https://mp.weixin.qq.com/s/eCRHKScL9HLfPjHBs87d3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高性能实战ElasticSearch合理设置Mapping</title>
+    <updated>2020-11-09T20:13:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/qFJEHlW-UdhnlWd79zgZlw</id>
+    <link href="https://mp.weixin.qq.com/s/qFJEHlW-UdhnlWd79zgZlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>打工人，从 JMM 透析 volatile 与 synchronized 原理</title>
+    <updated>2020-11-01T17:30:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/6HKCnN2HDi84bwjElhZBcQ</id>
+    <link href="https://mp.weixin.qq.com/s/6HKCnN2HDi84bwjElhZBcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：面对千万级、亿级流量怎么处理？</title>
+    <updated>2020-10-29T17:04:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/Y9tAMTGl3QccD3IP61_ayw</id>
+    <link href="https://mp.weixin.qq.com/s/Y9tAMTGl3QccD3IP61_ayw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>AQS实现并发的秘密藏在这30图里</title>
+    <updated>2020-10-18T10:14:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-18:/s/_4-XafizZn8NzA5OeP5DQw</id>
+    <link href="https://mp.weixin.qq.com/s/_4-XafizZn8NzA5OeP5DQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从面试角度一文学完 Kafka</title>
+    <updated>2020-10-12T00:44:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/QF9b9vpncLS24xMzFkanTQ</id>
+    <link href="https://mp.weixin.qq.com/s/QF9b9vpncLS24xMzFkanTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>
