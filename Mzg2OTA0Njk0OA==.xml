@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaGuide | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:18:05+08:00</updated>
+  <updated>2021-01-05T11:30:22+08:00</updated>
   <subtitle>专注Java后端学习和大厂面试的公众号！开源项目—JavaGuide （88k+Star）作者运营维护。学习Java，首选JavaGuide！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>网上搜了一堆秒杀系统方案，究竟真实的线上电商该怎么做？</title>
+    <updated>2021-01-05T09:20:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/B0zlnpehyXzwAmOJUHoWWQ</id>
+    <link href="https://mp.weixin.qq.com/s/B0zlnpehyXzwAmOJUHoWWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个项目三个坑，我懵了</title>
+    <updated>2021-01-05T09:20:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/nkWehyBUBvrqViCZ35WSww</id>
+    <link href="https://mp.weixin.qq.com/s/nkWehyBUBvrqViCZ35WSww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯自研的分布式高性能KV存储开源了！</title>
+    <updated>2021-01-05T09:20:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/qY2C4-ne8llsvHLLQUD0fA</id>
+    <link href="https://mp.weixin.qq.com/s/qY2C4-ne8llsvHLLQUD0fA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 华为|字节|腾讯|京东|网易|滴滴面经分享（6 个 offer）</title>
     <updated>2021-01-04T20:03:49+08:00</updated>
@@ -85,24 +106,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>MySQL做到什么程度才算精通？</title>
-    <updated>2020-12-27T23:45:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/6xtrt_tEfvxn4y9BNTENBg</id>
-    <link href="https://mp.weixin.qq.com/s/6xtrt_tEfvxn4y9BNTENBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Github 2020 年度报告，值得一看 -「编程杂感」第 5 期</title>
     <updated>2020-12-27T22:47:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/xs-NPRENNtVPn_7z7m9Xxw</id>
     <link href="https://mp.weixin.qq.com/s/xs-NPRENNtVPn_7z7m9Xxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020字节/阿里/百度年终Java岗发布＋最新内部面试题</title>
-    <updated>2020-12-26T00:31:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/tYOkPnQEfIKx4LunFo2B4A</id>
-    <link href="https://mp.weixin.qq.com/s/tYOkPnQEfIKx4LunFo2B4A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

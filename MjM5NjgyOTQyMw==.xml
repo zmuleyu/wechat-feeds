@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国气象局 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T16:28:48+08:00</updated>
+  <updated>2021-01-05T11:39:57+08:00</updated>
   <subtitle>发布天气预报、气象预警信息、天气动态消息，普及气象、防灾减灾知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今日小寒 | 寒潮预警发布！最冷时节要来了？</title>
+    <updated>2021-01-05T09:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/vV8t8aedV75rSZl4eeKkRw</id>
+    <link href="https://mp.weixin.qq.com/s/vV8t8aedV75rSZl4eeKkRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>联手广电总局！应急广播将试点播发气象预警</title>
     <updated>2021-01-04T16:09:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T21:16:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/r4Pf-8KHRZLPJeoiUN-bOw</id>
     <link href="https://mp.weixin.qq.com/s/r4Pf-8KHRZLPJeoiUN-bOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国家主席习近平发表二〇二一年新年贺词</title>
-    <updated>2020-12-31T19:35:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ZPkGbYzsIx5Mk71WhG2deg</id>
-    <link href="https://mp.weixin.qq.com/s/ZPkGbYzsIx5Mk71WhG2deg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

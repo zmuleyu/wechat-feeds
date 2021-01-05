@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端全栈开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:43:59+08:00</updated>
+  <updated>2021-01-05T11:42:33+08:00</updated>
   <subtitle>专注分享国内外前端技术、Web全栈开发技术精选文章，大前端技术资讯、优质教程、工具资源等，助力开发者成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实战：使用CSS和JS创建“前后”图像比较效果</title>
+    <updated>2021-01-04T23:22:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/hfA0ZQSSAtoTLQDfw13DFw</id>
+    <link href="https://mp.weixin.qq.com/s/hfA0ZQSSAtoTLQDfw13DFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端从入门到高薪中文指南</title>
     <updated>2020-12-30T20:18:17+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2020-12-13T15:18:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/oem9RSgEltIhm4cgQMfqaA</id>
     <link href="https://mp.weixin.qq.com/s/oem9RSgEltIhm4cgQMfqaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何从0开发一个小程序？</title>
-    <updated>2020-12-10T01:12:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/DUYBVad4AkHMeT9CLcS3IQ</id>
-    <link href="https://mp.weixin.qq.com/s/DUYBVad4AkHMeT9CLcS3IQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有程序员专门的刷题网站吗？</title>
-    <updated>2020-12-10T01:12:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/J6uthGkMErFR3Q_NtSQtUQ</id>
-    <link href="https://mp.weixin.qq.com/s/J6uthGkMErFR3Q_NtSQtUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

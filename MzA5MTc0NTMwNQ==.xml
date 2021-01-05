@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T11:46:27+08:00</updated>
+  <updated>2021-01-05T11:46:38+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>啥？Java不行了？别开玩笑！</title>
+    <updated>2021-01-05T08:20:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/lRDwaZ-mT8z3jPq5dg486w</id>
+    <link href="https://mp.weixin.qq.com/s/lRDwaZ-mT8z3jPq5dg486w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Flink构建实时数仓实践</title>
+    <updated>2021-01-05T08:20:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/UIrE5Z0URB0jv0Ndhpf9TQ</id>
+    <link href="https://mp.weixin.qq.com/s/UIrE5Z0URB0jv0Ndhpf9TQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>揭秘PB级大数据中台架构设计方案！OLTP、OLAP架构场景剖析</title>
     <updated>2021-01-03T18:02:26+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-12-26T08:32:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/D2fn6iDnX_5-lfvaWhzgWg</id>
     <link href="https://mp.weixin.qq.com/s/D2fn6iDnX_5-lfvaWhzgWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解分布式协调服务 ZooKeeper，再也不怕面试问这个了</title>
-    <updated>2020-12-25T09:04:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/DwyPt5YZgqE0O0HYEC1ZMQ</id>
-    <link href="https://mp.weixin.qq.com/s/DwyPt5YZgqE0O0HYEC1ZMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

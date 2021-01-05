@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老司机技术周报 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T11:51:26+08:00</updated>
+  <updated>2021-01-05T11:49:40+08:00</updated>
   <subtitle>每周定期整理与发布业界资讯、开发工具、开源代码、学习资料、求职招聘信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>更现代的 Swift API 设计</title>
+    <updated>2021-01-05T01:47:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/DhtYVLNq5IRu2eUEktXgJg</id>
+    <link href="https://mp.weixin.qq.com/s/DhtYVLNq5IRu2eUEktXgJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】深圳/广州/北京-腾讯微视音视频方向招聘</title>
+    <updated>2021-01-05T01:47:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/g49sWbSHpZJWxWN7luJoXQ</id>
+    <link href="https://mp.weixin.qq.com/s/g49sWbSHpZJWxWN7luJoXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>老司机 iOS 周报 #143 | 2021-01-04</title>
     <updated>2021-01-03T21:59:25+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-18T00:43:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/YTzfp4nNSGxFqhdwAhcRlg</id>
     <link href="https://mp.weixin.qq.com/s/YTzfp4nNSGxFqhdwAhcRlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iOS 性能监控：Runloop 卡顿监控的坑</title>
-    <updated>2020-12-17T00:59:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/vMRQ0VuHLxpaY9oCNd5G8w</id>
-    <link href="https://mp.weixin.qq.com/s/vMRQ0VuHLxpaY9oCNd5G8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【如何加入读者群？】</title>
-    <updated>2020-12-17T00:59:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/zl9XA0oE0QeBHYtzC--a-A</id>
-    <link href="https://mp.weixin.qq.com/s/zl9XA0oE0QeBHYtzC--a-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

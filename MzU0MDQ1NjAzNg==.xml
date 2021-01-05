@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T13:25:56+08:00</updated>
+  <updated>2021-01-05T11:28:55+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -120,13 +120,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>想快速发表自然语言处理论文？推荐一个出论文的好方向！</title>
-    <updated>2020-12-28T10:44:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/LrK1TNmWK2bXO78O5lVLVQ</id>
-    <link href="https://mp.weixin.qq.com/s/LrK1TNmWK2bXO78O5lVLVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>清华大学发布首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型</title>
     <updated>2020-12-28T10:44:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/3VsFgLzjgrHRugfOuYlvrw</id>
@@ -145,6 +138,13 @@
     <updated>2020-12-26T22:05:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/MNfW1gODRK0aVYil7H5MxA</id>
     <link href="https://mp.weixin.qq.com/s/MNfW1gODRK0aVYil7H5MxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>YOLO 算法最全综述：从 YOLOv1 到 YOLOv5</title>
+    <updated>2020-12-26T22:05:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-26:/s/6gG2Pu3U1bOUuUKxtffr5w</id>
+    <link href="https://mp.weixin.qq.com/s/6gG2Pu3U1bOUuUKxtffr5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

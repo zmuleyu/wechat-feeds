@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T16:35:34+08:00</updated>
+  <updated>2021-01-05T11:48:08+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫画：Go 布道师的“神秘”社区在召唤你</title>
+    <updated>2021-01-04T23:50:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/SEhUv9rnLOCc3af-3X8Y-Q</id>
+    <link href="https://mp.weixin.qq.com/s/SEhUv9rnLOCc3af-3X8Y-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 语言同步原语的基石</title>
+    <updated>2021-01-04T23:50:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/BITpMB8KrUsQaFST299YpA</id>
+    <link href="https://mp.weixin.qq.com/s/BITpMB8KrUsQaFST299YpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 经典入门系列 36：写入文件</title>
+    <updated>2021-01-04T23:50:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Ohk--X3tbPIyJKBR8mgDhw</id>
+    <link href="https://mp.weixin.qq.com/s/Ohk--X3tbPIyJKBR8mgDhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go 语言架构师面试有哪些要求？本文告诉你</title>
     <updated>2021-01-04T16:13:37+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T23:52:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/VcW9IPIpkUm6TYH62EYGKw</id>
     <link href="https://mp.weixin.qq.com/s/VcW9IPIpkUm6TYH62EYGKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>长沙也有 Go 职位了：映客直播招聘 Go 开发高级工程师</title>
-    <updated>2020-12-29T23:52:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/viLyJjvPS6W1bpLNc6H-nQ</id>
-    <link href="https://mp.weixin.qq.com/s/viLyJjvPS6W1bpLNc6H-nQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 经典入门系列 30：错误处理</title>
-    <updated>2020-12-29T23:52:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/IDpVEQC_qRmTDH1k6tS5lQ</id>
-    <link href="https://mp.weixin.qq.com/s/IDpVEQC_qRmTDH1k6tS5lQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 项目实战：实现一个 Redis(8) 之TCC分布式事务</title>
-    <updated>2020-12-28T22:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/43ksyukuCOHh4ZJZUHvZEQ</id>
-    <link href="https://mp.weixin.qq.com/s/43ksyukuCOHh4ZJZUHvZEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

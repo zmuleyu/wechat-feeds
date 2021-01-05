@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T01:58:30+08:00</updated>
+  <updated>2021-01-05T11:38:26+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《Rust唠嗑室》第16期 - 一起来聊聊tensorbase高性能数据仓库</title>
+    <updated>2021-01-05T11:04:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/CPvfuKCcDF5lO93-5eNJOQ</id>
+    <link href="https://mp.weixin.qq.com/s/CPvfuKCcDF5lO93-5eNJOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2021-01-04 使用 Rust 创建一个模拟器</title>
+    <updated>2021-01-05T11:04:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/PC0Y7nBwLuaQ12RIL4rl0g</id>
+    <link href="https://mp.weixin.qq.com/s/PC0Y7nBwLuaQ12RIL4rl0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2021-01-03 为什么2021年将成为系统程序员的Rust年？</title>
     <updated>2021-01-03T22:47:04+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-28T23:32:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/ybakS4e-06rYw04NaiDLfA</id>
     <link href="https://mp.weixin.qq.com/s/ybakS4e-06rYw04NaiDLfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-26 Rust no-std FAQ</title>
-    <updated>2020-12-28T23:32:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/CUBIZ7nSllrSmF2pUXZehg</id>
-    <link href="https://mp.weixin.qq.com/s/CUBIZ7nSllrSmF2pUXZehg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust大会第二天，太震撼了！！！&#xA;&#xA;---&#xA;这次不能纯净水，双手奉上回看地址：&#xA;&#xA;26号：https://live.csdn.net/room/u012067469/3VT3jORs&#xA;27号：&#xA;https://live.csdn.net/room/u012067469/51UUkkjG&#xA;&#xA;震撼不震撼，你们慢慢看。小编开心的去吃烧烤了[跳跳][转圈][跳跳][转圈]，啦啦啦&#xA;</title>
-    <updated>2020-12-27T18:42:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/oD4kf5gsoXjSAynmYkGQUw</id>
-    <link href="https://mp.weixin.qq.com/s/oD4kf5gsoXjSAynmYkGQUw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

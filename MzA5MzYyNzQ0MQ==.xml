@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T11:37:00+08:00</updated>
+  <updated>2021-01-05T11:34:40+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自托管服务清单——GitHub 热点速览 v.21.01</title>
+    <updated>2021-01-04T17:01:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/kDhnfoyJAvVlBujxaS5tJQ</id>
+    <link href="https://mp.weixin.qq.com/s/kDhnfoyJAvVlBujxaS5tJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我们月刊最受欢迎的开源项目 Top10（2020 年）</title>
     <updated>2021-01-03T19:40:56+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T20:51:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/aBchN8AeWhNksN6otNNHBA</id>
     <link href="https://mp.weixin.qq.com/s/aBchN8AeWhNksN6otNNHBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 AI 算法让你的圣诞斗图“凡尔赛”起来~</title>
-    <updated>2020-12-17T09:17:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/OiZUgNlI1m-BHloKbY2zDg</id>
-    <link href="https://mp.weixin.qq.com/s/OiZUgNlI1m-BHloKbY2zDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

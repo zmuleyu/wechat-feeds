@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:24:45+08:00</updated>
+  <updated>2021-01-05T11:36:02+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「译」 .NET 5 新增的Http, Sockets, DNS 和 TLS 遥测</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/YP_S6QhLbJ3vx3NJ2YDwSw</id>
+    <link href="https://mp.weixin.qq.com/s/YP_S6QhLbJ3vx3NJ2YDwSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 ASP.NET Core 中 使用 功能开关</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/OY1mClfrMVayuWilNNzP6A</id>
+    <link href="https://mp.weixin.qq.com/s/OY1mClfrMVayuWilNNzP6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>接口 Swagger 部分Web API的隐藏</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/1dCTG_1hJyjCGkVG46Edqw</id>
+    <link href="https://mp.weixin.qq.com/s/1dCTG_1hJyjCGkVG46Edqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务畅想录</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/w3fb2OfhaFEjayEL0xyLnA</id>
+    <link href="https://mp.weixin.qq.com/s/w3fb2OfhaFEjayEL0xyLnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>引入Jaeger——扩展</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/C_fNM8Kn0D8SS23TPDmLhw</id>
+    <link href="https://mp.weixin.qq.com/s/C_fNM8Kn0D8SS23TPDmLhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ASP.NET Core Controller与IOC的羁绊</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/cEpbYDC5n_G1zOyVPKaBtA</id>
+    <link href="https://mp.weixin.qq.com/s/cEpbYDC5n_G1zOyVPKaBtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端数据层落地实践</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/WLvGJNxupDxKPmfxb5CHXA</id>
+    <link href="https://mp.weixin.qq.com/s/WLvGJNxupDxKPmfxb5CHXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Git】Git-常用命令备忘录（三）</title>
+    <updated>2021-01-04T22:02:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/BOjAfFx5e57Cj6ihQCcR1Q</id>
+    <link href="https://mp.weixin.qq.com/s/BOjAfFx5e57Cj6ihQCcR1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>. NET5一出，. NET岗面试普遍喊难，真相是…</title>
     <updated>2021-01-04T15:53:10+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-02T17:11:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/4hTePscJh2bi_hcpnmbRig</id>
     <link href="https://mp.weixin.qq.com/s/4hTePscJh2bi_hcpnmbRig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>写给自己，2020的年终总结</title>
-    <updated>2021-01-02T17:11:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/rhMN2LtVmAutnZihREkRnA</id>
-    <link href="https://mp.weixin.qq.com/s/rhMN2LtVmAutnZihREkRnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我的2020年终总结：新的角色，新的开始</title>
-    <updated>2021-01-02T17:11:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/9CA0c8xjbfoe5g6dm2Q27g</id>
-    <link href="https://mp.weixin.qq.com/s/9CA0c8xjbfoe5g6dm2Q27g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flash 生命终止，HTML5能否完美替代？</title>
-    <updated>2021-01-02T17:11:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/GNG6bx5t9QA6IfsLsY87mA</id>
-    <link href="https://mp.weixin.qq.com/s/GNG6bx5t9QA6IfsLsY87mA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信适配国产操作系统：原生支持 Linux</title>
-    <updated>2021-01-02T17:11:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/QVgMgm1erJYRVXrdvI-o5w</id>
-    <link href="https://mp.weixin.qq.com/s/QVgMgm1erJYRVXrdvI-o5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 5 开源工作流框架elsa技术研究</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/mjOhNeMsR3m3_t4g-wvKwg</id>
-    <link href="https://mp.weixin.qq.com/s/mjOhNeMsR3m3_t4g-wvKwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿星Plus：基于abp vNext开源一个博客网站</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/cp1og-ixxzlf4euQDYFj0w</id>
-    <link href="https://mp.weixin.qq.com/s/cp1og-ixxzlf4euQDYFj0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C#-WinForm跨线程修改UI界面</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZfPVqj4w_K8yBYSRE3cSaA</id>
-    <link href="https://mp.weixin.qq.com/s/ZfPVqj4w_K8yBYSRE3cSaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>代码改变世界，也改变了我</title>
-    <updated>2021-01-02T10:01:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/hw0ztYmviAxR_bnzHZmKUg</id>
-    <link href="https://mp.weixin.qq.com/s/hw0ztYmviAxR_bnzHZmKUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

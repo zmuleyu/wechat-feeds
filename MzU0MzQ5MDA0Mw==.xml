@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T11:27:53+08:00</updated>
+  <updated>2021-01-05T11:26:22+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>超详细解析 | 一致性协议算法-2PC、3PC、Paxos、Raft、ZAB、NWR</title>
+    <updated>2021-01-04T22:58:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/BS6PyJCWjr2X8d5j_LfbXw</id>
+    <link href="https://mp.weixin.qq.com/s/BS6PyJCWjr2X8d5j_LfbXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>和字节老哥聊完SpringBoot，才发现自己差远了！</title>
     <updated>2021-01-03T15:35:24+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-25T20:53:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/sLVbM2bHblnrAEPiaCfZmA</id>
     <link href="https://mp.weixin.qq.com/s/sLVbM2bHblnrAEPiaCfZmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IDEA 15款神级良心插件强烈推荐收藏</title>
-    <updated>2020-12-24T22:07:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/McqOUc42mkRKUkSSCMH1ZQ</id>
-    <link href="https://mp.weixin.qq.com/s/McqOUc42mkRKUkSSCMH1ZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
