@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:38:26+08:00</updated>
+  <updated>2021-01-06T23:34:01+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust 大会最受欢迎的 Topic，Top 10 榜单出炉</title>
+    <updated>2021-01-06T23:08:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ONSY0kywMfde3eiJgs_gBA</id>
+    <link href="https://mp.weixin.qq.com/s/ONSY0kywMfde3eiJgs_gBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2021-01-06 -- C++ 20 与 Rust 2018</title>
+    <updated>2021-01-06T23:08:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/QcIfqAgXLQTdUOQmVYUb_Q</id>
+    <link href="https://mp.weixin.qq.com/s/QcIfqAgXLQTdUOQmVYUb_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2021-01-05 Rust 1.49.0 正式发布</title>
+    <updated>2021-01-06T23:08:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/8IFrcb-oQBaKFiKt6xZdnA</id>
+    <link href="https://mp.weixin.qq.com/s/8IFrcb-oQBaKFiKt6xZdnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《Rust唠嗑室》第16期 - 一起来聊聊tensorbase高性能数据仓库</title>
     <updated>2021-01-05T11:04:39+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-28T23:32:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/ZdzA4xZeL3Mgr4uaHygscw</id>
     <link href="https://mp.weixin.qq.com/s/ZdzA4xZeL3Mgr4uaHygscw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mike 关于首届Rust大会的一些心里话</title>
-    <updated>2020-12-28T23:32:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/WJoXFrl23V6dzUMS2sBnFw</id>
-    <link href="https://mp.weixin.qq.com/s/WJoXFrl23V6dzUMS2sBnFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-28 Rust中的闭包</title>
-    <updated>2020-12-28T23:32:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/DCx9RcUzUcqVnT3ep_wm7Q</id>
-    <link href="https://mp.weixin.qq.com/s/DCx9RcUzUcqVnT3ep_wm7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-27 Rust 开发 Windows 驱动程序</title>
-    <updated>2020-12-28T23:32:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ybakS4e-06rYw04NaiDLfA</id>
-    <link href="https://mp.weixin.qq.com/s/ybakS4e-06rYw04NaiDLfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

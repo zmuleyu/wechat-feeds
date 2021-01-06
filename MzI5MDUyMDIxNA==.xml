@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:20:39+08:00</updated>
+  <updated>2021-01-06T23:38:07+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>综述：图像滤波常用算法实现及原理解析</title>
+    <updated>2021-01-06T21:56:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/nv0v8qFKY0GtuBHSQJ-3qA</id>
+    <link href="https://mp.weixin.qq.com/s/nv0v8qFKY0GtuBHSQJ-3qA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>语言模型将了解视觉世界？OpenAI 120亿参数图像版GPT-3发布</title>
+    <updated>2021-01-06T21:56:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/c9zgalfb1zROpeFVLvKAvA</id>
+    <link href="https://mp.weixin.qq.com/s/c9zgalfb1zROpeFVLvKAvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>机器学习中“距离与相似度”计算汇总</title>
+    <updated>2021-01-06T21:56:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/1FVfb9JSaKFebDunHzTYJg</id>
+    <link href="https://mp.weixin.qq.com/s/1FVfb9JSaKFebDunHzTYJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>人脸识别“抓”错了人，他在监狱呆了10天</title>
+    <updated>2021-01-06T21:56:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/dlPJGgX8xq31_x0puI6QHw</id>
+    <link href="https://mp.weixin.qq.com/s/dlPJGgX8xq31_x0puI6QHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Transformer在CV领域有可能替代CNN吗？还有哪些应用前景？</title>
     <updated>2021-01-05T21:58:28+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-01T21:45:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/K9p26LbD5ClkNwVl3GcETA</id>
     <link href="https://mp.weixin.qq.com/s/K9p26LbD5ClkNwVl3GcETA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图像分割二十年，盘点影响力最大的10篇论文</title>
-    <updated>2021-01-01T21:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/88RboAr8eDoat5jKcbQWfA</id>
-    <link href="https://mp.weixin.qq.com/s/88RboAr8eDoat5jKcbQWfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>极市直播回放丨第75期-方浩：车道线检测新SOTA，RESA：循环特征位移聚合器（AAAI2021）</title>
-    <updated>2021-01-01T21:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/qUljn3NAoTK_nx2fXKpMzg</id>
-    <link href="https://mp.weixin.qq.com/s/qUljn3NAoTK_nx2fXKpMzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开启2021：极市送上蒲公英书、蜥蜴书等5本CV经典书籍！</title>
-    <updated>2020-12-31T21:47:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/QvN9miFM4vEsQzpPWC5M9Q</id>
-    <link href="https://mp.weixin.qq.com/s/QvN9miFM4vEsQzpPWC5M9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“神奇的”标签增强技术（Label Enhancement）</title>
-    <updated>2020-12-31T21:47:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/6fcqXac7ihAeDuwzl_MxPQ</id>
-    <link href="https://mp.weixin.qq.com/s/6fcqXac7ihAeDuwzl_MxPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

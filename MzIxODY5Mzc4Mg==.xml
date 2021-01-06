@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vNext | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:43:06+08:00</updated>
+  <updated>2021-01-06T23:24:52+08:00</updated>
   <subtitle>Go，Golang，Go语言；Rust，Rustlang，Rust语言</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust 入门教程 7.2 - 路径</title>
+    <updated>2021-01-06T21:43:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/KX7j2d7wUoGKwULuWtak_w</id>
+    <link href="https://mp.weixin.qq.com/s/KX7j2d7wUoGKwULuWtak_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust 入门教程 7.1 - 包、Crate、模块</title>
     <updated>2021-01-04T21:51:56+08:00</updated>
@@ -68,34 +75,6 @@
     <updated>2020-12-21T21:05:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/V4sCruIWvPRUFkJB9fITGQ</id>
     <link href="https://mp.weixin.qq.com/s/V4sCruIWvPRUFkJB9fITGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go Web 教程 - 13. HTTP/2</title>
-    <updated>2020-12-20T09:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/P1TyxDp1IRWCbEGMiVE2MQ</id>
-    <link href="https://mp.weixin.qq.com/s/P1TyxDp1IRWCbEGMiVE2MQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go Web 教程 - 14. 测试</title>
-    <updated>2020-12-20T09:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/Ka8qpO9TwFw0S69580mESg</id>
-    <link href="https://mp.weixin.qq.com/s/Ka8qpO9TwFw0S69580mESg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go Web 教程 - 15. 性能分析</title>
-    <updated>2020-12-20T09:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/-iA2cVr0uxkIrdr2iLUPFA</id>
-    <link href="https://mp.weixin.qq.com/s/-iA2cVr0uxkIrdr2iLUPFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go Web 教程 - 16. 部署</title>
-    <updated>2020-12-20T09:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/RevuzO8LWa4AkgtKZUlqxQ</id>
-    <link href="https://mp.weixin.qq.com/s/RevuzO8LWa4AkgtKZUlqxQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

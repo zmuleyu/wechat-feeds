@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:08:14+08:00</updated>
+  <updated>2021-01-06T23:36:51+08:00</updated>
   <subtitle>云原生技术交流阵地，汇聚云原生最新技术资讯、文章、活动，以及云原生产品及用户最佳实践内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何根据不同业务场景调节 HPA 扩缩容灵敏度</title>
+    <updated>2021-01-06T21:02:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/mRwvZBVfWPYvE7hERbGMTA</id>
+    <link href="https://mp.weixin.qq.com/s/mRwvZBVfWPYvE7hERbGMTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个优秀的云原生架构需要注意哪些地方</title>
     <updated>2021-01-05T20:50:32+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-21T12:50:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/RmujKdSK58digZTJOcNw-w</id>
     <link href="https://mp.weixin.qq.com/s/RmujKdSK58digZTJOcNw-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一份3万字的云原生路线图手册待你打开</title>
-    <updated>2020-12-19T15:19:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/vH8CMEyuXwdHXopJ4mqrMg</id>
-    <link href="https://mp.weixin.qq.com/s/vH8CMEyuXwdHXopJ4mqrMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

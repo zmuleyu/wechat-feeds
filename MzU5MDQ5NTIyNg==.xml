@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T23:08:24+08:00</updated>
+  <updated>2021-01-06T23:36:31+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】深入理解Rust中的生命周期</title>
+    <updated>2021-01-06T21:28:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/PdM1Q6eLWie5opfzjXavRg</id>
+    <link href="https://mp.weixin.qq.com/s/PdM1Q6eLWie5opfzjXavRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Reddit看到一份Rust的小书，名为Easy Rust，该书旨在用简单的英语来学习Rust，适合母语不是英语的小伙伴，感兴趣的小伙伴可以阅读一下。[得意]&#xA;&#xA;原版链接：https://dhghomon.github.io/easy_rust/Chapter_0.html&#xA;&#xA;中文版：https://github.com/kumakichi/easy_rust_chs</title>
     <updated>2021-01-03T20:34:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-26T02:30:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/0pkM7rwRI2K-ZbmjHJziTQ</id>
     <link href="https://mp.weixin.qq.com/s/0pkM7rwRI2K-ZbmjHJziTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>收集大家的Repo， 大家可以把自己的Rust的项目放在下面的Issue链接里，有兴趣的项目可以大家一起来做啊 之后会归档。[得意]&#xA;&#xA;Issues  link： https://github.com/Praying/RustBackyard/issues/8</title>
-    <updated>2020-11-20T13:43:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/m7eQ-Kiehee4G-JIgkp9TA</id>
-    <link href="https://mp.weixin.qq.com/s/m7eQ-Kiehee4G-JIgkp9TA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

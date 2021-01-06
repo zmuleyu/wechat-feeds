@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vivo互联网技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-23T23:18:10+08:00</updated>
+  <updated>2021-01-06T23:28:27+08:00</updated>
   <subtitle>分享 vivo 互联网技术干货与沙龙活动，推荐最新行业动态与热门会议。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 并发编程之 JMM &amp; volatile 详解</title>
+    <updated>2021-01-06T17:48:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/M_lpmH4k14k6jOirwvybrg</id>
+    <link href="https://mp.weixin.qq.com/s/M_lpmH4k14k6jOirwvybrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>HyperLogLog 算法原理及其在 Redis 中的实现</title>
+    <updated>2021-01-06T17:48:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/MVxmH5r0tP6sQ9WKVLoDbw</id>
+    <link href="https://mp.weixin.qq.com/s/MVxmH5r0tP6sQ9WKVLoDbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>初识 D3.js ：打造专属可视化</title>
+    <updated>2021-01-06T17:48:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/z9PKGmKyqtWds28ixg2MqA</id>
+    <link href="https://mp.weixin.qq.com/s/z9PKGmKyqtWds28ixg2MqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>vivo 全球商城：订单中心架构设计与实践</title>
     <updated>2020-12-23T18:23:16+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-25T19:33:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/N_y7BxbO9pCTrgJbDq4bOA</id>
     <link href="https://mp.weixin.qq.com/s/N_y7BxbO9pCTrgJbDq4bOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>vivo 调用链 Agent 原理及实践</title>
-    <updated>2020-11-18T18:29:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/vPgBLi-2svhU_t1wN-6ZBA</id>
-    <link href="https://mp.weixin.qq.com/s/vPgBLi-2svhU_t1wN-6ZBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻底搞懂 IO 底层原理</title>
-    <updated>2020-11-18T18:29:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/_Eh7eZLtcUjrp9QiCvLmrw</id>
-    <link href="https://mp.weixin.qq.com/s/_Eh7eZLtcUjrp9QiCvLmrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>源码深度解析 Handler 机制及应用</title>
-    <updated>2020-11-18T18:29:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/71OV_K7YJas7pLtsPY-jeQ</id>
-    <link href="https://mp.weixin.qq.com/s/71OV_K7YJas7pLtsPY-jeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

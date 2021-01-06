@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:30:30+08:00</updated>
+  <updated>2021-01-06T23:38:27+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>边缘计算安全技术概述</title>
+    <updated>2021-01-06T16:33:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/S2omBSnBKuiWl9e13iloTQ</id>
+    <link href="https://mp.weixin.qq.com/s/S2omBSnBKuiWl9e13iloTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>应用案例 | 基于Volcano 的锐天离线高性能计算最佳实践</title>
     <updated>2021-01-05T12:03:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T18:11:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/-CMm-DV6jH-rVaaOE3Rr-Q</id>
     <link href="https://mp.weixin.qq.com/s/-CMm-DV6jH-rVaaOE3Rr-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>精彩回顾｜Cloud Native Days-云原生AI大数据专场</title>
-    <updated>2020-12-22T20:14:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/mqAoVmhf5QemYL-TR8rV0A</id>
-    <link href="https://mp.weixin.qq.com/s/mqAoVmhf5QemYL-TR8rV0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

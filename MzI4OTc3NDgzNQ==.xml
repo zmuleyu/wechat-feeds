@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>itclanCoder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:17:01+08:00</updated>
+  <updated>2021-01-06T23:09:30+08:00</updated>
   <subtitle>读书 | 技术 | 生活 | 笔耕不辍,知行合一,旨在用心交流与快乐分享,做一个具有情怀的先行者</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何将 github pages 迁移到 vercel 上托管</title>
+    <updated>2021-01-06T21:25:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/FXu9Xa2enMoUdPuXXhkY3Q</id>
+    <link href="https://mp.weixin.qq.com/s/FXu9Xa2enMoUdPuXXhkY3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>昔日无痕,沧桑有迹-魔幻般的2020</title>
     <updated>2021-01-03T14:44:22+08:00</updated>
@@ -75,34 +82,6 @@
     <updated>2020-11-11T08:11:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/65fSSJ_ipvfH6UXelE1PBw</id>
     <link href="https://mp.weixin.qq.com/s/65fSSJ_ipvfH6UXelE1PBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>4-小程序-自定义组件-父组件获取子组件数据的第2种方式</title>
-    <updated>2020-11-08T08:09:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/pqlUADUCLXwKIh0m2BFKUQ</id>
-    <link href="https://mp.weixin.qq.com/s/pqlUADUCLXwKIh0m2BFKUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3-小程序-自定义组件-子组件如何向父组件传递数据(下)</title>
-    <updated>2020-11-08T08:09:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/pRx_340Y9wa2huqsf3_IDA</id>
-    <link href="https://mp.weixin.qq.com/s/pRx_340Y9wa2huqsf3_IDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2-小程序-自定义组件-父组件向子组件传递数据(中)</title>
-    <updated>2020-11-08T08:09:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/wTjLJyDyvs99O4onnS4i9Q</id>
-    <link href="https://mp.weixin.qq.com/s/wTjLJyDyvs99O4onnS4i9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1-小程序-自定义组件-加减数字输入框组件布局(上)</title>
-    <updated>2020-11-08T08:09:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/exPwlKn9lzdYmbmtSnpn1A</id>
-    <link href="https://mp.weixin.qq.com/s/exPwlKn9lzdYmbmtSnpn1A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
