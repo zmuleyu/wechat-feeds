@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:37:47+08:00</updated>
+  <updated>2021-01-07T07:35:50+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一口气说出四种幂等性解决方案，面试官露出了姨母笑~</title>
+    <updated>2021-01-06T10:36:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/bn8WWcQzCrBqMADmFzZWRQ</id>
+    <link href="https://mp.weixin.qq.com/s/bn8WWcQzCrBqMADmFzZWRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太强了！百万年薪架构师 7 大顶级思维模型首次曝光！�</title>
     <updated>2021-01-05T19:56:09+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-23T23:29:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/6L2rJVYibZUQKclIR4-gIw</id>
     <link href="https://mp.weixin.qq.com/s/6L2rJVYibZUQKclIR4-gIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>后端接口如何提高性能？从MySQL、ES、HBASE等技术一起探讨下！</title>
-    <updated>2020-12-22T19:30:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/882COTlewFSQrIXrcp7Gdw</id>
-    <link href="https://mp.weixin.qq.com/s/882COTlewFSQrIXrcp7Gdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java8 快速实现List转map 、分组、过滤等操作</title>
-    <updated>2020-12-22T19:30:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/6SVHcRdOTEvzlogQ_4As2A</id>
-    <link href="https://mp.weixin.qq.com/s/6SVHcRdOTEvzlogQ_4As2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

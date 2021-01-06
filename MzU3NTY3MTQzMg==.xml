@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜狐技术产品 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:26:50+08:00</updated>
+  <updated>2021-01-07T07:46:44+08:00</updated>
   <subtitle>这里是搜狐技术产品的知识分享平台。作为中国领先的互联网品牌，在拥有媒体、视频、搜索、游戏四大业务平台和超7亿用户的背后，搜狐始终致力于技术的创新与实践，更多实战干货和技术资讯将在此与您分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>带你实现完整的视频弹幕系统</title>
+    <updated>2021-01-07T07:30:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Y0L1d124V9tWoJA7hYNRMQ</id>
+    <link href="https://mp.weixin.qq.com/s/Y0L1d124V9tWoJA7hYNRMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>特别提示 | 圣诞抽奖活动兑奖通知</title>
+    <updated>2021-01-07T07:30:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ylba10oXM9G0qTsWazqm6A</id>
+    <link href="https://mp.weixin.qq.com/s/ylba10oXM9G0qTsWazqm6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度学习模型压缩与加速综述！</title>
+    <updated>2021-01-07T07:30:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/xTSYYO-B9eVp7YMvn_nghw</id>
+    <link href="https://mp.weixin.qq.com/s/xTSYYO-B9eVp7YMvn_nghw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>UILabel 你真的会用么？深入源码及坑点分析</title>
+    <updated>2021-01-07T07:30:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Wl0EyWjKkzBfieS24smpaw</id>
+    <link href="https://mp.weixin.qq.com/s/Wl0EyWjKkzBfieS24smpaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Vue.js开发移动端经验总结</title>
+    <updated>2021-01-07T07:30:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ruHDBb-PLf5k1G64sl0KkA</id>
+    <link href="https://mp.weixin.qq.com/s/ruHDBb-PLf5k1G64sl0KkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>100%中奖的圣诞活动，它来咯！</title>
     <updated>2020-12-23T19:33:15+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-02T17:18:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/6W5JBkGjAEfY6b5R8F74Vg</id>
     <link href="https://mp.weixin.qq.com/s/6W5JBkGjAEfY6b5R8F74Vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>chrome 开发者工具——前端实用功能总结</title>
-    <updated>2020-12-02T17:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/celDoooD5oO6xQWBE-OFkw</id>
-    <link href="https://mp.weixin.qq.com/s/celDoooD5oO6xQWBE-OFkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iOS 是如何获取夜间模式启动图的？</title>
-    <updated>2020-12-02T17:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/sFuLJ-iG3SGB6OVMgUXD5w</id>
-    <link href="https://mp.weixin.qq.com/s/sFuLJ-iG3SGB6OVMgUXD5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Webpack的异步加载原理及分包策略(深度好文，建议收藏)</title>
-    <updated>2020-12-02T17:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/ErAfcSxHhrWGTfT7dYu21g</id>
-    <link href="https://mp.weixin.qq.com/s/ErAfcSxHhrWGTfT7dYu21g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>据说这些段子只有程序员看得懂？</title>
-    <updated>2020-12-02T17:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/nw6Y0W-dysPvSvbTnALKRA</id>
-    <link href="https://mp.weixin.qq.com/s/nw6Y0W-dysPvSvbTnALKRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何实现图片的扭曲效果，窗帘效果及仿真水波纹效果，修图技术之瘦身瘦脸效果的实现(android-drawBitmapMesh)</title>
-    <updated>2020-11-25T11:44:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/qqoBLsjU69YpWjkzBGgM_w</id>
-    <link href="https://mp.weixin.qq.com/s/qqoBLsjU69YpWjkzBGgM_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
