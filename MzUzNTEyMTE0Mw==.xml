@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>宽字节安全 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:38:24+08:00</updated>
+  <subtitle>二十年专注安全研究，漏洞分析</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>Java反序列化协议解析 一</title>
+    <updated>2020-12-28T17:59:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/OoBuU8vUVueb5auz5cIImQ</id>
+    <link href="https://mp.weixin.qq.com/s/OoBuU8vUVueb5auz5cIImQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Struts2 s2-061 Poc分析</title>
+    <updated>2020-12-09T15:55:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-09:/s/skV6BsARvie33vV2R6SZKw</id>
+    <link href="https://mp.weixin.qq.com/s/skV6BsARvie33vV2R6SZKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CVE-2020-27131 思科安全管理器反序列化漏洞 POC</title>
+    <updated>2020-11-17T23:50:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/6X09PZ9gjaPL-auWPEaoeg</id>
+    <link href="https://mp.weixin.qq.com/s/6X09PZ9gjaPL-auWPEaoeg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货满满的几个安全技术公众号</title>
+    <updated>2020-11-16T13:56:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/MqBsniP7O1tYhpqnCSQJCw</id>
+    <link href="https://mp.weixin.qq.com/s/MqBsniP7O1tYhpqnCSQJCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CVE-2020-17083 Microsoft Exchange Server任意代码执行漏洞 POC</title>
+    <updated>2020-11-12T18:10:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-12:/s/LMUMmuGfT3nmKN88O5hBAA</id>
+    <link href="https://mp.weixin.qq.com/s/LMUMmuGfT3nmKN88O5hBAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>HackingClub首场线下技术趴报名通道正式开启！</title>
+    <updated>2020-11-10T16:56:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/MbT79a99Rm5qKzIRIgUx2w</id>
+    <link href="https://mp.weixin.qq.com/s/MbT79a99Rm5qKzIRIgUx2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>cve-2020-14882 weblogic 越权绕过登录分析</title>
+    <updated>2020-10-29T15:05:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/_zNr5Jw7tH_6XlUdudhMhA</id>
+    <link href="https://mp.weixin.qq.com/s/_zNr5Jw7tH_6XlUdudhMhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CVE-2020-14882 weblogic 未授权命令执行复现</title>
+    <updated>2020-10-28T19:19:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-28:/s/48VIwTkyFVXUTS78kNByhg</id>
+    <link href="https://mp.weixin.qq.com/s/48VIwTkyFVXUTS78kNByhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>weblogic CVE-2020-2963、CNVD-2020-23019  反序列化漏洞分析与复现</title>
+    <updated>2020-10-23T17:27:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/RlEmkwit1cDxHhRBo-eY8A</id>
+    <link href="https://mp.weixin.qq.com/s/RlEmkwit1cDxHhRBo-eY8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>cve 2020-14841 weblogic jndi注入绕过分析复现 附POC</title>
+    <updated>2020-10-21T20:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-21:/s/qs783sbJSOHgGi8pbpExIA</id>
+    <link href="https://mp.weixin.qq.com/s/qs783sbJSOHgGi8pbpExIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

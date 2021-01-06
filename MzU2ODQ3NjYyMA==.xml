@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大数据技术与数仓 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:42:37+08:00</updated>
+  <subtitle>专注分享数据仓库与大数据技术(Flink/Hadoop/Spark/Hive)相关内容。关注我可以免费领取大数据书籍与视频。我的博客:https://jiamaoxiang.top/</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>Flink on Hive构建流批一体数仓</title>
+    <updated>2021-01-05T21:05:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/YI_7vwbS0vb-O_EFOBi38A</id>
+    <link href="https://mp.weixin.qq.com/s/YI_7vwbS0vb-O_EFOBi38A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>天猫双十一基于Flink的流批一体方案解读（建议收藏）</title>
+    <updated>2021-01-03T20:53:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/iuLTBoYV2So12TiC6XaNEA</id>
+    <link href="https://mp.weixin.qq.com/s/iuLTBoYV2So12TiC6XaNEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画全面解释Spark企业调优点</title>
+    <updated>2021-01-03T20:53:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/k8v-H_9cIPTQEkd2LOfgAQ</id>
+    <link href="https://mp.weixin.qq.com/s/k8v-H_9cIPTQEkd2LOfgAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>往期原创精选集</title>
+    <updated>2021-01-03T20:53:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/wgcjUKDJkCPfUPAJg9Yjzw</id>
+    <link href="https://mp.weixin.qq.com/s/wgcjUKDJkCPfUPAJg9Yjzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Azkaban安装部署</title>
+    <updated>2020-12-27T20:50:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/V8uduzKuLD8enPqE-9lC_g</id>
+    <link href="https://mp.weixin.qq.com/s/V8uduzKuLD8enPqE-9lC_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink集成Hive之Hive Catalog与Hive Dialect--以Flink1.12为例</title>
+    <updated>2020-12-21T21:57:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/YuR-s5zCtBz_5ku_bttbaw</id>
+    <link href="https://mp.weixin.qq.com/s/YuR-s5zCtBz_5ku_bttbaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>往期原创精选集</title>
+    <updated>2020-12-21T21:57:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/xtH-I6axWeadCNg15zFXbg</id>
+    <link href="https://mp.weixin.qq.com/s/xtH-I6axWeadCNg15zFXbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink集成Hive之快速入门--以Flink1.12为例</title>
+    <updated>2020-12-20T20:55:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-20:/s/99ehmNzJVwW3cOrw_UkGsg</id>
+    <link href="https://mp.weixin.qq.com/s/99ehmNzJVwW3cOrw_UkGsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用自定义分区器解决Spark DataSet数据分区不均匀的问题</title>
+    <updated>2020-12-15T21:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/EM1oAruwIHFh_dQLGuRGaQ</id>
+    <link href="https://mp.weixin.qq.com/s/EM1oAruwIHFh_dQLGuRGaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>往期原创精选集</title>
+    <updated>2020-12-15T21:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-15:/s/iugYBIKdBRVd_NHpSeIwHQ</id>
+    <link href="https://mp.weixin.qq.com/s/iugYBIKdBRVd_NHpSeIwHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink 使用 broadcast 实现维表或配置的实时更新</title>
+    <updated>2020-12-13T17:11:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/3aDKa0i4GrhtUSyvv_IJkw</id>
+    <link href="https://mp.weixin.qq.com/s/3aDKa0i4GrhtUSyvv_IJkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何管理Spark的分区</title>
+    <updated>2020-12-06T16:46:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/o30K2Rdjx8fqu9Vapcvb1Q</id>
+    <link href="https://mp.weixin.qq.com/s/o30K2Rdjx8fqu9Vapcvb1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>秒懂推荐系统-Spark平台下基于物品的协同过滤推荐系统构建</title>
+    <updated>2020-12-01T23:41:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/Hu4VYMae2Xm8f2nJqJzxHA</id>
+    <link href="https://mp.weixin.qq.com/s/Hu4VYMae2Xm8f2nJqJzxHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用功不求太猛，但求有恒</title>
+    <updated>2020-12-01T23:41:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-01:/s/RR4yTc23vlQ2NBLCGD0oow</id>
+    <link href="https://mp.weixin.qq.com/s/RR4yTc23vlQ2NBLCGD0oow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数仓|几种SQL隐藏的错误，你遇到过吗？</title>
+    <updated>2020-11-26T22:07:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/JwRJ4fkPqNqPoV4JlOY1LA</id>
+    <link href="https://mp.weixin.qq.com/s/JwRJ4fkPqNqPoV4JlOY1LA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>往期干货一览</title>
+    <updated>2020-11-26T22:07:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/BNYKeQA5Nv7SLYVz_AZr7g</id>
+    <link href="https://mp.weixin.qq.com/s/BNYKeQA5Nv7SLYVz_AZr7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

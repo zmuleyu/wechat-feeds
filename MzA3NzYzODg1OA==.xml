@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Linux内核那些事 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:49:54+08:00</updated>
+  <subtitle>主要介绍Linux内核的原理和Linux内核开发等</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>好书推荐</title>
+    <updated>2021-01-01T19:30:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/RkHaDdkXZ0gJQreniyFNtg</id>
+    <link href="https://mp.weixin.qq.com/s/RkHaDdkXZ0gJQreniyFNtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从内核角度分析 listen() 系统调用的 backlog 参数作用</title>
+    <updated>2020-12-23T15:39:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/DfJvIoLpaU5G1H-462qjRQ</id>
+    <link href="https://mp.weixin.qq.com/s/DfJvIoLpaU5G1H-462qjRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>关于关闭一个还有没发送数据完的TCP连接思考</title>
+    <updated>2020-11-26T13:15:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-26:/s/zCwSGGt__HB8wUri_xwd0g</id>
+    <link href="https://mp.weixin.qq.com/s/zCwSGGt__HB8wUri_xwd0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 直接I/O 原理与实现</title>
+    <updated>2020-11-20T13:05:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-20:/s/pjVhG4xodS2RNdM_lhl08A</id>
+    <link href="https://mp.weixin.qq.com/s/pjVhG4xodS2RNdM_lhl08A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>自己动手写一个 strace</title>
+    <updated>2020-11-17T14:34:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/kqiRNt8cbsuxoL3m6amUMw</id>
+    <link href="https://mp.weixin.qq.com/s/kqiRNt8cbsuxoL3m6amUMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux文件系统之 — 通用块处理层</title>
+    <updated>2020-11-16T14:56:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/tqtBmEdV46FUzOkxttARig</id>
+    <link href="https://mp.weixin.qq.com/s/tqtBmEdV46FUzOkxttARig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux系统调用原理</title>
+    <updated>2020-11-09T16:45:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-09:/s/21XE1ZT_wUk7W8WXwqqO6Q</id>
+    <link href="https://mp.weixin.qq.com/s/21XE1ZT_wUk7W8WXwqqO6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GDB原理之ptrace实现原理</title>
+    <updated>2020-11-01T15:43:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/cQVCWtFYQsww080VG0ktrw</id>
+    <link href="https://mp.weixin.qq.com/s/cQVCWtFYQsww080VG0ktrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>vmalloc原理与实现</title>
+    <updated>2020-10-22T15:36:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-22:/s/Cck_hQ2_Ob3c2vaOtll1qg</id>
+    <link href="https://mp.weixin.qq.com/s/Cck_hQ2_Ob3c2vaOtll1qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis 模块机制 - 模块编写篇</title>
+    <updated>2020-08-08T14:34:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-08:/s/YFZoErNF5Y9u1blLB-uOiw</id>
+    <link href="https://mp.weixin.qq.com/s/YFZoErNF5Y9u1blLB-uOiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

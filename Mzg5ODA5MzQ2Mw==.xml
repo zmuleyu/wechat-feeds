@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端下午茶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:18:10+08:00</updated>
+  <updated>2021-01-06T11:28:31+08:00</updated>
   <subtitle>分享有关前端的技术博客、精选文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用 Babel 为代码自动引入依赖</title>
+    <updated>2021-01-06T00:27:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/KbRZNEIq5GDTqs1K1mTqPg</id>
+    <link href="https://mp.weixin.qq.com/s/KbRZNEIq5GDTqs1K1mTqPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>来一起用 Vue3.0 做个飞机大战游戏</title>
     <updated>2021-01-04T19:57:01+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-24T23:30:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/AEonXI5w6EZpDTfalu_bZw</id>
     <link href="https://mp.weixin.qq.com/s/AEonXI5w6EZpDTfalu_bZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让一个技术人员主动离职的20个妙招</title>
-    <updated>2020-12-23T10:26:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/_WuzmpQThsPVk9V_RDAlbw</id>
-    <link href="https://mp.weixin.qq.com/s/_WuzmpQThsPVk9V_RDAlbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你可能需要一个优质 前端 交流群</title>
-    <updated>2020-12-23T10:26:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/H0fSbyBXC9n5_0e1KQb40Q</id>
-    <link href="https://mp.weixin.qq.com/s/H0fSbyBXC9n5_0e1KQb40Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

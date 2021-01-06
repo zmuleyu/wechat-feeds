@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>程序员果果 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:29:57+08:00</updated>
+  <subtitle>分享Java、SpringBoot、SpringCloud、Dubbo、Golang、Docker等等的一些知识与技巧</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>RocketMQ 简介</title>
+    <updated>2021-01-06T08:01:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/qSsHBNDghZAlkUVBYM6LDA</id>
+    <link href="https://mp.weixin.qq.com/s/qSsHBNDghZAlkUVBYM6LDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 使用 JSR303 实现参数验证</title>
+    <updated>2020-05-19T08:21:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-19:/s/Wq1pHIExP6WKUFMV5EJ_sg</id>
+    <link href="https://mp.weixin.qq.com/s/Wq1pHIExP6WKUFMV5EJ_sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 集成 Seata 解决分布式事务问题</title>
+    <updated>2020-01-13T09:10:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-01-13:/s/aDhGG3Y2t4lPYetK01Wmxg</id>
+    <link href="https://mp.weixin.qq.com/s/aDhGG3Y2t4lPYetK01Wmxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Feign调用丢失Header的解决方案</title>
+    <updated>2019-11-20T08:05:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-11-20:/s/a99TeOxgZGNgFkpT6gmA3g</id>
+    <link href="https://mp.weixin.qq.com/s/a99TeOxgZGNgFkpT6gmA3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot Actuator 整合 Prometheus</title>
+    <updated>2019-10-22T08:00:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-10-22:/s/MWQImwMhcFglmHZ4lIcxVA</id>
+    <link href="https://mp.weixin.qq.com/s/MWQImwMhcFglmHZ4lIcxVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus 集成 Node Exporter</title>
+    <updated>2019-08-15T07:43:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-08-15:/s/40ULB9UWbXVA21MxqnjBxw</id>
+    <link href="https://mp.weixin.qq.com/s/40ULB9UWbXVA21MxqnjBxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus 整合 AlertManager</title>
+    <updated>2019-07-30T08:18:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-07-30:/s/wkfIQc3IQD_6y7eCsGd_Rw</id>
+    <link href="https://mp.weixin.qq.com/s/wkfIQc3IQD_6y7eCsGd_Rw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus 与 Grafana 集成</title>
+    <updated>2019-07-01T08:06:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-07-01:/s/GImvM_F2XlMjO0a5xnJuFg</id>
+    <link href="https://mp.weixin.qq.com/s/GImvM_F2XlMjO0a5xnJuFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus 入门</title>
+    <updated>2019-06-25T07:54:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-06-25:/s/BjZyNcWEgflJMnjfceiluw</id>
+    <link href="https://mp.weixin.qq.com/s/BjZyNcWEgflJMnjfceiluw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Eureka 源码分析之 Eureka Server</title>
+    <updated>2019-06-12T13:34:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-06-12:/s/FfJrAGQuHyVrsedtbr0Ihw</id>
+    <link href="https://mp.weixin.qq.com/s/FfJrAGQuHyVrsedtbr0Ihw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

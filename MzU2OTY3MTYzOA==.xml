@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNET技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:14:12+08:00</updated>
+  <updated>2021-01-06T11:50:16+08:00</updated>
   <subtitle>面向DotNET的线上技术社区。社区宗旨：以弘扬互联网精神为己任，致力于打造开放，分享，互利，共赢的互联网技术社区。打破闭塞，拉进你我，分享知识，共同进步，努力创造更加友善进取的.NET技术圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OrchardCore实现模块化核心原理分析</title>
+    <updated>2021-01-05T22:55:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/i2O8gCDMit9edgfXRtq_IA</id>
+    <link href="https://mp.weixin.qq.com/s/i2O8gCDMit9edgfXRtq_IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何禁用控制台窗口的关闭按钮？</title>
+    <updated>2021-01-05T22:55:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/UhDUNL8fifMI-EAremBukg</id>
+    <link href="https://mp.weixin.qq.com/s/UhDUNL8fifMI-EAremBukg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>源码解析：ASP.NET Core Controller与IOC的羁绊</title>
     <updated>2021-01-04T18:21:17+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-24T19:41:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/lsw5thhCd9tuOsGmaosGRA</id>
     <link href="https://mp.weixin.qq.com/s/lsw5thhCd9tuOsGmaosGRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《等的就是爱.NET的你》，一封来自长沙.NET技术社区技术沙龙的活动邀请函</title>
-    <updated>2020-12-24T05:30:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/O2oqGPG3hb0lWFiHXE16Zg</id>
-    <link href="https://mp.weixin.qq.com/s/O2oqGPG3hb0lWFiHXE16Zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

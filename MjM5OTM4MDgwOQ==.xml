@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>1024译站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:22:08+08:00</updated>
+  <updated>2021-01-06T11:33:01+08:00</updated>
   <subtitle>茶余饭后翻一翻，说不定又涨姿势了呢？1024 的世界，程序员最懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我可能不适合做前端，你呢？</title>
+    <updated>2021-01-05T17:27:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/cbT8adUXsanXJwqwpq8hKg</id>
+    <link href="https://mp.weixin.qq.com/s/cbT8adUXsanXJwqwpq8hKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>很多人只是会用 Vue.js，而我却学到了这几点</title>
     <updated>2021-01-04T18:35:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T07:42:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/uIaBK5q9RTEx9nyJhJhtBQ</id>
     <link href="https://mp.weixin.qq.com/s/uIaBK5q9RTEx9nyJhJhtBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NPM 私有仓库搭建完全指南</title>
-    <updated>2020-12-21T08:26:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Cfi3-AtR75Hmk4MkaU4kow</id>
-    <link href="https://mp.weixin.qq.com/s/Cfi3-AtR75Hmk4MkaU4kow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

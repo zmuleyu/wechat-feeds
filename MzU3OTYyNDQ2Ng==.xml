@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>晨晓 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:28:28+08:00</updated>
+  <subtitle>一个也许有料也有趣的创作者，写代码，也写文字。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>Mac电脑通过Configurator2下载iOS应用安装包</title>
+    <updated>2020-11-19T15:39:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/WYYeWD5yKfOsFC5y_UUXPA</id>
+    <link href="https://mp.weixin.qq.com/s/WYYeWD5yKfOsFC5y_UUXPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>悉数Python函数传参的语法糖</title>
+    <updated>2020-11-01T19:56:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/gUuVNOdpYVnjXBuR_WKfIQ</id>
+    <link href="https://mp.weixin.qq.com/s/gUuVNOdpYVnjXBuR_WKfIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Geohash——「附近的人」背后的秘密</title>
+    <updated>2020-10-31T21:16:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/x-ovJCxEoQ7R3uCc9RRCTA</id>
+    <link href="https://mp.weixin.qq.com/s/x-ovJCxEoQ7R3uCc9RRCTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《乡土中国》札记·一</title>
+    <updated>2020-10-25T18:08:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/0niwgoVYeLVT8_2fhOhqDQ</id>
+    <link href="https://mp.weixin.qq.com/s/0niwgoVYeLVT8_2fhOhqDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>宏定义的黑魔法，C语言模拟命名参数</title>
+    <updated>2020-10-23T18:29:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-23:/s/F2Tvy4nQldeB52Qq_drYqA</id>
+    <link href="https://mp.weixin.qq.com/s/F2Tvy4nQldeB52Qq_drYqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>忍不住吐槽《忘掉 Snowflake，感受一下性能高出 587 倍的全局唯一 ID 生成算法》知乎首页文章。&#xA;&#xA;首先，文章提出UUID生成的ID不是纯数字格式，所以不能单调递增。WTF？？？编程入门书籍第一章都会讲进制，16进制数也是数，怎么不能单调递增？&#xA;&#xA;其次，Snowflake是分布式ID生成算法。通过ID前半部分单调递增，后半部分随机生成。唯不唯一全看天意咯？那倒不如去掉随机因子，不影响单机唯一性，性能还更出众。&#xA;&#xA;看到200+点赞，忍不住提醒各位。学好英语，多读最新、原文官方文档；学会提取关键字，用好stackoverflow和github。&#xA;&#xA;屏蔽“韦世东”，或者屏蔽我。</title>
+    <updated>2020-07-04T17:51:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-04:/s/0rGEctrYv7cm56TxRBQ5Jg</id>
+    <link href="https://mp.weixin.qq.com/s/0rGEctrYv7cm56TxRBQ5Jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>宏定义的黑魔法，C语言模拟函数重载</title>
+    <updated>2020-05-16T22:15:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-16:/s/XHwVHD8uy4yWjtdseAoAvw</id>
+    <link href="https://mp.weixin.qq.com/s/XHwVHD8uy4yWjtdseAoAvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fuzzing ImageIO：iOS图像解析0click攻击</title>
+    <updated>2020-05-09T16:04:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-09:/s/Y7FW_oSgbLBI6ynBjnjt_w</id>
+    <link href="https://mp.weixin.qq.com/s/Y7FW_oSgbLBI6ynBjnjt_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Psychic Paper, 0行代码实现iOS沙箱逃逸</title>
+    <updated>2020-05-07T11:44:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-07:/s/kQX1eIzTlX4UK0pwStAg7w</id>
+    <link href="https://mp.weixin.qq.com/s/kQX1eIzTlX4UK0pwStAg7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【技巧】Git日志的一些用法</title>
+    <updated>2020-01-01T19:42:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-01-01:/s/Cvs4NnSxebZqCQ9TlnHKHA</id>
+    <link href="https://mp.weixin.qq.com/s/Cvs4NnSxebZqCQ9TlnHKHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

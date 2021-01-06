@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:48:08+08:00</updated>
+  <updated>2021-01-06T11:45:41+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何搭建一个PB级大数据中台？我之前是这么搞的！</title>
+    <updated>2021-01-05T22:49:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/_wV07wmwwifaoRB3JYfUTg</id>
+    <link href="https://mp.weixin.qq.com/s/_wV07wmwwifaoRB3JYfUTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>有哪些厂应届生招聘 Go 工程师</title>
+    <updated>2021-01-05T22:49:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/znfDb3FndgHS8i2eRJf9Sw</id>
+    <link href="https://mp.weixin.qq.com/s/znfDb3FndgHS8i2eRJf9Sw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>每日一库之通过cobra开发天气查询小工具</title>
+    <updated>2021-01-05T22:49:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/ieu8lBMaLrwhpFVCR_E1TA</id>
+    <link href="https://mp.weixin.qq.com/s/ieu8lBMaLrwhpFVCR_E1TA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 精妙的互斥锁设计</title>
+    <updated>2021-01-05T22:49:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/j0NCgrU6M8ps0zIOkOT3FQ</id>
+    <link href="https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：Go 布道师的“神秘”社区在召唤你</title>
     <updated>2021-01-04T23:50:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-01T20:16:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/INzvMdnWc8K4mnbV3R4Mrw</id>
     <link href="https://mp.weixin.qq.com/s/INzvMdnWc8K4mnbV3R4Mrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>像跟踪分布式服务调用那样跟踪Go函数调用链</title>
-    <updated>2020-12-30T21:25:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/WAKBipoBNzCKraIjyLaYdA</id>
-    <link href="https://mp.weixin.qq.com/s/WAKBipoBNzCKraIjyLaYdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 经典入门系列 31：自定义错误</title>
-    <updated>2020-12-30T21:25:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/HSpnBA6sR5uWYbu8P3nCHw</id>
-    <link href="https://mp.weixin.qq.com/s/HSpnBA6sR5uWYbu8P3nCHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一篇文章带你了解Go语言基础之网络编程</title>
-    <updated>2020-12-30T21:25:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/d0fODPAO3jfHcVZW2l-2UA</id>
-    <link href="https://mp.weixin.qq.com/s/d0fODPAO3jfHcVZW2l-2UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>由 C# 改为 Go，用更少的资源将 API 的响应时间减少了 87％</title>
-    <updated>2020-12-29T23:52:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/VcW9IPIpkUm6TYH62EYGKw</id>
-    <link href="https://mp.weixin.qq.com/s/VcW9IPIpkUm6TYH62EYGKw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

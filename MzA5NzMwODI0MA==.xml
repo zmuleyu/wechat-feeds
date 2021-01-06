@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知识小集 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:25:52+08:00</updated>
+  <updated>2021-01-06T11:49:37+08:00</updated>
   <subtitle>追踪移动大前端最新技术和行业发展，关注移动研发的架构、性能、底层探索、工程化和跨平台方案</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>arm64 objc_msgSend 源码解读</title>
+    <updated>2021-01-05T22:27:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/EvsKylCWew8-pCZwMqw2og</id>
+    <link href="https://mp.weixin.qq.com/s/EvsKylCWew8-pCZwMqw2og" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Clang插件统计方法耗时</title>
     <updated>2021-01-04T22:46:18+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-21T09:09:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/5J4yddqpJDg6679ib10fPw</id>
     <link href="https://mp.weixin.qq.com/s/5J4yddqpJDg6679ib10fPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iOS 稳定性：如何在开发中规避安全风险</title>
-    <updated>2020-12-17T22:54:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/kJXKTl47B6bolkIwy9Tybw</id>
-    <link href="https://mp.weixin.qq.com/s/kJXKTl47B6bolkIwy9Tybw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

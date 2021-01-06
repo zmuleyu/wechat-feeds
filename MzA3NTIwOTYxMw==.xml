@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>博客园 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:04:41+08:00</updated>
+  <updated>2021-01-06T11:47:25+08:00</updated>
   <subtitle>知识改变世界： 我们不求多，只求精，每周一、三、五定期推送3篇园子内精华文章；文章类型不仅涉及精简的技术，丰富的经验，还有程序猿的生活感悟，愿在紧张工作之余，给您带来一定的启发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>高并发，你真的理解透彻了吗？</title>
+    <updated>2021-01-05T22:47:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/8twDF_24J9FuZexXcwZGEA</id>
+    <link href="https://mp.weixin.qq.com/s/8twDF_24J9FuZexXcwZGEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020互联网没有新故事，只有新品牌</title>
+    <updated>2021-01-05T22:47:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/cLk1kuygr3dNmZIesZ72kQ</id>
+    <link href="https://mp.weixin.qq.com/s/cLk1kuygr3dNmZIesZ72kQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>神奇的 SQL 之 HAVING → 容易被轻视的主角</title>
     <updated>2021-01-04T23:43:01+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-24T00:05:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/qJ4Teiu9wbNSKnRotCw2Uw</id>
     <link href="https://mp.weixin.qq.com/s/qJ4Teiu9wbNSKnRotCw2Uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[C/C++]为什么手搓一个简版 CNN 并不难</title>
-    <updated>2020-12-22T22:52:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/fZzwf88tLQNjxFBtO15NoQ</id>
-    <link href="https://mp.weixin.qq.com/s/fZzwf88tLQNjxFBtO15NoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数学好＝编程能力强？MIT新发现：二者激活大脑区域并不同</title>
-    <updated>2020-12-22T22:52:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/4Hc9nU9bzTNX7XAoQ6W4Rg</id>
-    <link href="https://mp.weixin.qq.com/s/4Hc9nU9bzTNX7XAoQ6W4Rg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

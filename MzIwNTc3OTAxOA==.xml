@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师修行之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:25:08+08:00</updated>
+  <updated>2021-01-06T11:36:02+08:00</updated>
   <subtitle>一个坚持把架构做到极致的技术人，热衷于互联网技术。混迹互联网十几年，热衷于高性能、高并发、分布式技术领域的研究。 不忘初心，每篇文章都精心打磨，助力10万程序员成为更合格的架构师。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构拆分：如何让笨重的系统架构变灵巧？</title>
+    <updated>2021-01-05T20:44:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/3Z5kE7dBRKPQs9iwuNazGg</id>
+    <link href="https://mp.weixin.qq.com/s/3Z5kE7dBRKPQs9iwuNazGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CTO点名要搞个灰度发布系统，不慌！</title>
     <updated>2021-01-04T18:30:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T21:39:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/wEr6MmbMcKv9se3HXcneDw</id>
     <link href="https://mp.weixin.qq.com/s/wEr6MmbMcKv9se3HXcneDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员过关斩将--请不要误会redis 6.0 的多线程</title>
-    <updated>2020-12-14T21:16:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/UujJn1GIZDlAqw5BxbXD4w</id>
-    <link href="https://mp.weixin.qq.com/s/UujJn1GIZDlAqw5BxbXD4w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

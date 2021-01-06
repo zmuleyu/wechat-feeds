@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:21:44+08:00</updated>
+  <updated>2021-01-06T11:32:37+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>金融级云原生：多活容器集群高可用建设实践</title>
+    <updated>2021-01-06T10:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/WxjOv4iImm0CaNF2FFU4Hg</id>
+    <link href="https://mp.weixin.qq.com/s/WxjOv4iImm0CaNF2FFU4Hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个优秀的云原生架构需要注意哪些地方</title>
+    <updated>2021-01-06T10:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/pwb-13WFUckzU7oNF0LfiA</id>
+    <link href="https://mp.weixin.qq.com/s/pwb-13WFUckzU7oNF0LfiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 源码分析之 kubelet(五)</title>
+    <updated>2021-01-06T10:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/QKr7jc41qvq9DjQa-gB0IQ</id>
+    <link href="https://mp.weixin.qq.com/s/QKr7jc41qvq9DjQa-gB0IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>应用案例 | 基于Volcano 的锐天离线高性能计算最佳实践</title>
+    <updated>2021-01-06T10:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Eke3QuQ-603SxVOq52LlMg</id>
+    <link href="https://mp.weixin.qq.com/s/Eke3QuQ-603SxVOq52LlMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OpenYurt 入门 - 在树莓派上玩转 OpenYurt</title>
+    <updated>2021-01-06T10:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/dLRS3Ir_W7Duk0M9fSpAbw</id>
+    <link href="https://mp.weixin.qq.com/s/dLRS3Ir_W7Duk0M9fSpAbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新的一年，新的最终用户推荐计划！</title>
     <updated>2021-01-05T10:33:05+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-30T10:28:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/asa1y0Yv5elXRkE6q11rXA</id>
     <link href="https://mp.weixin.qq.com/s/asa1y0Yv5elXRkE6q11rXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>镜像批量迁移利器：image-transfer</title>
-    <updated>2020-12-30T10:28:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Z7F_MbuFy-yuWvltzFfP7g</id>
-    <link href="https://mp.weixin.qq.com/s/Z7F_MbuFy-yuWvltzFfP7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重磅！Kubernetes安全专家预约优惠计划正式启动</title>
-    <updated>2020-12-30T10:28:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/yGFQGtdjoSmuDy4swF9ZnQ</id>
-    <link href="https://mp.weixin.qq.com/s/yGFQGtdjoSmuDy4swF9ZnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生社区 meetup 第三期杭州站讲师及议题正在招募中</title>
-    <updated>2020-12-30T10:28:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/uG9nQQdkdFRZVI5WrY-z-w</id>
-    <link href="https://mp.weixin.qq.com/s/uG9nQQdkdFRZVI5WrY-z-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ArgoCD + KubeVela：以开发者为中心的GitOps</title>
-    <updated>2020-12-29T10:08:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/HGn5ug4RtDO7fBbmCrdBkQ</id>
-    <link href="https://mp.weixin.qq.com/s/HGn5ug4RtDO7fBbmCrdBkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Volcano在中科类脑云OS中的落地实践</title>
-    <updated>2020-12-29T10:08:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/MEu5C_Yqr7wxCt4pnu4OQg</id>
-    <link href="https://mp.weixin.qq.com/s/MEu5C_Yqr7wxCt4pnu4OQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

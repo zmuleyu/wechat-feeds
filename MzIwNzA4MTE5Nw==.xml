@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一起源码分析 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:46:42+08:00</updated>
+  <subtitle>学习、理解、应用高质量开源代码</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>JVM实现原理分析之safepoint</title>
+    <updated>2020-05-18T10:04:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-18:/s/_WlfOHMv36gakePEcFMlfg</id>
+    <link href="https://mp.weixin.qq.com/s/_WlfOHMv36gakePEcFMlfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JVMTI实战-入门和编写打印已加载类工具</title>
+    <updated>2020-04-25T14:29:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-04-25:/s/XDpgvl_2xv-lV0KFWCGd5Q</id>
+    <link href="https://mp.weixin.qq.com/s/XDpgvl_2xv-lV0KFWCGd5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手把手教你构建、debug、开发Java虚拟机</title>
+    <updated>2020-04-06T13:38:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-04-06:/s/RAV6cDmBOHGF_gORb9JcXQ</id>
+    <link href="https://mp.weixin.qq.com/s/RAV6cDmBOHGF_gORb9JcXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java代码热更新工具，节省宝贵开发时间</title>
+    <updated>2020-04-05T21:25:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-04-05:/s/4xsk8hQMU123kAwEnpBn4g</id>
+    <link href="https://mp.weixin.qq.com/s/4xsk8hQMU123kAwEnpBn4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>lambda表达式实现原理分析</title>
+    <updated>2020-03-28T20:18:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-03-28:/s/zbBQrvNRDz-vXOwOXk8cMg</id>
+    <link href="https://mp.weixin.qq.com/s/zbBQrvNRDz-vXOwOXk8cMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码分析-8-ChannelOutboundBuffer</title>
+    <updated>2018-08-09T22:04:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-08-09:/s/dd1b0Yd9EMHUWh33LhQV8g</id>
+    <link href="https://mp.weixin.qq.com/s/dd1b0Yd9EMHUWh33LhQV8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码分析7-MessageToByteEncoder</title>
+    <updated>2018-07-25T09:14:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-25:/s/MW37r7ox_NCBa3GFaYMgHw</id>
+    <link href="https://mp.weixin.qq.com/s/MW37r7ox_NCBa3GFaYMgHw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码分析6-SimpleChannelInboundHandler</title>
+    <updated>2018-07-22T19:42:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-22:/s/2FN-Nna33CLH-s-1pG-JFQ</id>
+    <link href="https://mp.weixin.qq.com/s/2FN-Nna33CLH-s-1pG-JFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Garbage First G1收集器 理解和原理分析</title>
+    <updated>2018-07-22T19:42:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-22:/s/gFRoNcoR5IntwM-dW8FWsg</id>
+    <link href="https://mp.weixin.qq.com/s/gFRoNcoR5IntwM-dW8FWsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码分析5-LengthFieldBasedFrameDecoder</title>
+    <updated>2018-07-20T09:06:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-20:/s/iXR8CjdrMg3oXF_sAJUdng</id>
+    <link href="https://mp.weixin.qq.com/s/iXR8CjdrMg3oXF_sAJUdng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>RPC原理和实现</title>
+    <updated>2018-07-20T09:06:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-20:/s/mNaggVZG9jAJRbPjhSxtFQ</id>
+    <link href="https://mp.weixin.qq.com/s/mNaggVZG9jAJRbPjhSxtFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码分析4 - ByteToMessageDecoder</title>
+    <updated>2018-07-19T08:43:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-19:/s/cOx7kufuVfLUpUHgPnKcPQ</id>
+    <link href="https://mp.weixin.qq.com/s/cOx7kufuVfLUpUHgPnKcPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>研究明白这些JVM知识点，就可以通过大部分面试和满足平时的使用了</title>
+    <updated>2018-07-19T08:43:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2018-07-19:/s/AGU9IgnZe1X8qDgKH4U4lA</id>
+    <link href="https://mp.weixin.qq.com/s/AGU9IgnZe1X8qDgKH4U4lA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

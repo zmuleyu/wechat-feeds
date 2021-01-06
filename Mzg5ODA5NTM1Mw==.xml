@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端工匠 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:16:53+08:00</updated>
+  <updated>2021-01-06T11:27:17+08:00</updated>
   <subtitle>我是浪里行舟，Github博客5000+star作者，掘金、CSDN社区活跃作者，致力于打造一系列能够帮助前端工程师提高的优质文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你用得上的25个JS技巧</title>
+    <updated>2021-01-06T00:21:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/DOoho9E-dqwYS2EpHZLREg</id>
+    <link href="https://mp.weixin.qq.com/s/DOoho9E-dqwYS2EpHZLREg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>或许这就是下一代组件库</title>
     <updated>2021-01-05T08:34:54+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T09:08:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/amZyKXVnvkEQlmJ3iCRnMw</id>
     <link href="https://mp.weixin.qq.com/s/amZyKXVnvkEQlmJ3iCRnMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Math.random() 还能这样玩？</title>
-    <updated>2020-12-23T22:59:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/XDv_bxOsf1XRsxXeFiC-1Q</id>
-    <link href="https://mp.weixin.qq.com/s/XDv_bxOsf1XRsxXeFiC-1Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

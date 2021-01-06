@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>代码与远方 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:35:49+08:00</updated>
+  <subtitle>我们,除了代码还有诗和远方。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>当 Go struct 遇上 Mutex</title>
+    <updated>2021-01-05T00:34:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/v6WEcA-Go-X_1vj4rJpJtg</id>
+    <link href="https://mp.weixin.qq.com/s/v6WEcA-Go-X_1vj4rJpJtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>探索Golang协程实现——从v1.0开始</title>
+    <updated>2021-01-05T00:20:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/foG3tUl2U2nTh6L-f4wktA</id>
+    <link href="https://mp.weixin.qq.com/s/foG3tUl2U2nTh6L-f4wktA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang 之微服务为什么发现不了</title>
+    <updated>2021-01-04T08:57:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/s9G6yDqfeFepbKT6DJASng</id>
+    <link href="https://mp.weixin.qq.com/s/s9G6yDqfeFepbKT6DJASng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>教你一分钟内导出 Grafana 所有的 Dashboard</title>
+    <updated>2021-01-02T00:21:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/8ayWanXDEPuUoqFeCE9iVQ</id>
+    <link href="https://mp.weixin.qq.com/s/8ayWanXDEPuUoqFeCE9iVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>别看 DNS 污染闹得欢，现在我用 CoreDNS 将它拉清单</title>
+    <updated>2021-01-01T00:52:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/friB1yy6HAZFu1D-e4Y6YQ</id>
+    <link href="https://mp.weixin.qq.com/s/friB1yy6HAZFu1D-e4Y6YQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>看完这篇还不懂高并发中的线程与线程池你来打我(内含20张图)</title>
+    <updated>2021-01-01T00:48:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/5y_BT4CQaY7R3uNJCreqUA</id>
+    <link href="https://mp.weixin.qq.com/s/5y_BT4CQaY7R3uNJCreqUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes学习笔记之LRU算法源码解析</title>
+    <updated>2020-12-30T00:34:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/1RppuWcyHwzAPH1pMVpfrw</id>
+    <link href="https://mp.weixin.qq.com/s/1RppuWcyHwzAPH1pMVpfrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 学习笔记之 ServiceAccount TokensController 源码解析</title>
+    <updated>2020-12-29T23:21:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/NG4mH9GgHV-HjMoOflFsUg</id>
+    <link href="https://mp.weixin.qq.com/s/NG4mH9GgHV-HjMoOflFsUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 学习笔记之 ServiceAccount AdmissionController 源码解析</title>
+    <updated>2020-12-28T22:23:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/rZGEAsMevBfTDdR3anA7-g</id>
+    <link href="https://mp.weixin.qq.com/s/rZGEAsMevBfTDdR3anA7-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prometheus监控神器-Kubernetes篇（三）</title>
+    <updated>2020-12-27T22:33:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/5Dj0Ju8ZTZyp-lVlx-RI2g</id>
+    <link href="https://mp.weixin.qq.com/s/5Dj0Ju8ZTZyp-lVlx-RI2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

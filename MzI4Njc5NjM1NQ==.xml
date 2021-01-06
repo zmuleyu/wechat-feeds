@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:14:42+08:00</updated>
+  <updated>2021-01-06T11:28:54+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
+    <updated>2021-01-05T19:29:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/fb-3DDhiSBrPSijou1u3cg</id>
+    <link href="https://mp.weixin.qq.com/s/fb-3DDhiSBrPSijou1u3cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL为Null会导致5个问题，个个致命！</title>
+    <updated>2021-01-05T19:29:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/a7OdVYxmsnzV9O3tGdUoRQ</id>
+    <link href="https://mp.weixin.qq.com/s/a7OdVYxmsnzV9O3tGdUoRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JetBrains出品，一款好用到爆的数据库工具，惊艳到了！！！</title>
+    <updated>2021-01-05T19:29:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/NF0bfozsFFE-Vdy5WONdpw</id>
+    <link href="https://mp.weixin.qq.com/s/NF0bfozsFFE-Vdy5WONdpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>离不开的“微服务”架构，脱不开的RPC细节（收藏）</title>
     <updated>2021-01-04T22:37:53+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T18:38:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/Mo56vuzeh69-wyc7wkSk8A</id>
     <link href="https://mp.weixin.qq.com/s/Mo56vuzeh69-wyc7wkSk8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神奇的 SQL 之 ICP → 索引条件下推</title>
-    <updated>2020-12-29T18:38:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/8e8rz6FFSSNIJLNmh_MoLQ</id>
-    <link href="https://mp.weixin.qq.com/s/8e8rz6FFSSNIJLNmh_MoLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于SpringBoot，来实现MySQL读写分离技术</title>
-    <updated>2020-12-28T20:31:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/res7h5A6uxkH0z5Ovi9hRg</id>
-    <link href="https://mp.weixin.qq.com/s/res7h5A6uxkH0z5Ovi9hRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几行代码，轻松带你实现Java生成二维码功能！</title>
-    <updated>2020-12-28T20:31:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3ntIAvxyg3ECiotuHXb7aA</id>
-    <link href="https://mp.weixin.qq.com/s/3ntIAvxyg3ECiotuHXb7aA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

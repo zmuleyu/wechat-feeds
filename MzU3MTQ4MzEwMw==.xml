@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QMQ开源消息队列 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:24:53+08:00</updated>
+  <subtitle>用于分享开源消息队列相关技术</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>ACK简史 - RocketMQ篇</title>
+    <updated>2020-06-23T11:55:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-23:/s/CJv2OPuK7k3EWZRshOZYgw</id>
+    <link href="https://mp.weixin.qq.com/s/CJv2OPuK7k3EWZRshOZYgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ACK简史(一): 开篇-Kafka</title>
+    <updated>2020-06-22T10:06:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-22:/s/IDDoMsoCVxCtOGUBLEyE1w</id>
+    <link href="https://mp.weixin.qq.com/s/IDDoMsoCVxCtOGUBLEyE1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>类型化消息</title>
+    <updated>2020-04-24T13:22:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-04-24:/s/UzjZbsYAhftFpql9pyThOg</id>
+    <link href="https://mp.weixin.qq.com/s/UzjZbsYAhftFpql9pyThOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QMQ源码分析之Actor</title>
+    <updated>2019-04-11T20:23:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-04-11:/s/R7z9u1EU6ooSJ-kZRevJfQ</id>
+    <link href="https://mp.weixin.qq.com/s/R7z9u1EU6ooSJ-kZRevJfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>qmq源码分析-broker接收消息逻辑</title>
+    <updated>2019-03-05T09:27:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-03-05:/s/ND1Fpu9zhpLzc87YMq3T8g</id>
+    <link href="https://mp.weixin.qq.com/s/ND1Fpu9zhpLzc87YMq3T8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QMQ顺序消息设计与实现(下)</title>
+    <updated>2019-02-28T10:15:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-02-28:/s/bkHD00HD6hiIApKx_-gBBA</id>
+    <link href="https://mp.weixin.qq.com/s/bkHD00HD6hiIApKx_-gBBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QMQ顺序消息设计与实现(上)</title>
+    <updated>2019-02-25T09:07:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-02-25:/s/v2JkSxxAUurXNqb28cwPmA</id>
+    <link href="https://mp.weixin.qq.com/s/v2JkSxxAUurXNqb28cwPmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QMQ源码分析－浅入qmq-client</title>
+    <updated>2019-02-22T18:31:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-02-22:/s/Klj7sUGivwZxV46y-TmVSw</id>
+    <link href="https://mp.weixin.qq.com/s/Klj7sUGivwZxV46y-TmVSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QMQ源码分析 - 开发环境搭建(用户投稿)</title>
+    <updated>2019-02-20T17:29:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-02-20:/s/3qOLGQHNo-ZWTa0ZjjuLjw</id>
+    <link href="https://mp.weixin.qq.com/s/3qOLGQHNo-ZWTa0ZjjuLjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>QMQ延时消息设计与实现</title>
+    <updated>2019-02-18T14:26:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-02-18:/s/_NWEmku7vRAu5cc-mKDxKA</id>
+    <link href="https://mp.weixin.qq.com/s/_NWEmku7vRAu5cc-mKDxKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

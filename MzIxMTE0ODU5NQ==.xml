@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:31:23+08:00</updated>
+  <updated>2021-01-06T11:43:02+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何搭建一个PB级大数据中台？我之前是这么搞的！</title>
+    <updated>2021-01-05T21:53:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/0QWg6kX-Oi4DAYFm5ZYVXg</id>
+    <link href="https://mp.weixin.qq.com/s/0QWg6kX-Oi4DAYFm5ZYVXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink 维表 Join 实践|附四种方式的源码</title>
+    <updated>2021-01-05T21:53:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/F14ErNxl8Eeir-XmJHL5GQ</id>
+    <link href="https://mp.weixin.qq.com/s/F14ErNxl8Eeir-XmJHL5GQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink on Yarn Kerberos安全认证</title>
     <updated>2021-01-05T08:59:50+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-23T23:31:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/c3vjQzj0CE_IXjp5UJXdIA</id>
     <link href="https://mp.weixin.qq.com/s/c3vjQzj0CE_IXjp5UJXdIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 数据湖 助力美团数仓增量生产</title>
-    <updated>2020-12-23T00:02:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Wss5T_1oLKdrREvpFuZoXQ</id>
-    <link href="https://mp.weixin.qq.com/s/Wss5T_1oLKdrREvpFuZoXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

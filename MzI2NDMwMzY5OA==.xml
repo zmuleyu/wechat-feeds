@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>有文化的技术人 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-06T11:47:01+08:00</updated>
+  <subtitle>定期分享自己的原创技术文章，源码剖析、架构设计、工程实践</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>微服务系统consul初探</title>
+    <updated>2020-12-19T18:55:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/tyafDS44VmL3gTexwNPXmA</id>
+    <link href="https://mp.weixin.qq.com/s/tyafDS44VmL3gTexwNPXmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Haproxy关于SSL的各种场景配置</title>
+    <updated>2020-12-13T17:00:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/pfACjRgleiL2Xuz5mRfhLA</id>
+    <link href="https://mp.weixin.qq.com/s/pfACjRgleiL2Xuz5mRfhLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CAS之单点登出逻辑详解</title>
+    <updated>2020-11-18T13:53:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-18:/s/SF4CJjhmX-Ilt3RdzGcZDQ</id>
+    <link href="https://mp.weixin.qq.com/s/SF4CJjhmX-Ilt3RdzGcZDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CAS之单点登录client逻辑详解</title>
+    <updated>2020-11-17T10:16:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-17:/s/Oo-4-fl4Sd0Z53--RX-2HA</id>
+    <link href="https://mp.weixin.qq.com/s/Oo-4-fl4Sd0Z53--RX-2HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringCloudConsul服务注册原理</title>
+    <updated>2020-11-16T14:50:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-16:/s/i5_dnOYN1h84apOKDrJtOg</id>
+    <link href="https://mp.weixin.qq.com/s/i5_dnOYN1h84apOKDrJtOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用SpringFramework+CXF实现rest服务</title>
+    <updated>2020-11-15T09:11:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/NO7EMH_PJJKaW2kt91fpmA</id>
+    <link href="https://mp.weixin.qq.com/s/NO7EMH_PJJKaW2kt91fpmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用SpringFramework+Restlet实现rest服务</title>
+    <updated>2020-11-14T14:29:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-14:/s/ThUtyb8ruHa-yPnOFL8UQQ</id>
+    <link href="https://mp.weixin.qq.com/s/ThUtyb8ruHa-yPnOFL8UQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring、Spring MVC和Spring Boot</title>
+    <updated>2020-11-13T21:36:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-13:/s/YXh2EVfSgqI2b9OOVKobWA</id>
+    <link href="https://mp.weixin.qq.com/s/YXh2EVfSgqI2b9OOVKobWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>进程间通信详解</title>
+    <updated>2020-07-16T20:50:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-16:/s/unfw4PDUnsbyX7VVnufWPA</id>
+    <link href="https://mp.weixin.qq.com/s/unfw4PDUnsbyX7VVnufWPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python中的GIL机制详解</title>
+    <updated>2020-07-11T20:55:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-07-11:/s/lgdR9kFGZwO_Nx0vrN0wnQ</id>
+    <link href="https://mp.weixin.qq.com/s/lgdR9kFGZwO_Nx0vrN0wnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

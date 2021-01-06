@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T16:16:53+08:00</updated>
+  <updated>2021-01-06T11:28:32+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SpringCloud Alibaba微服务运维一 - 集成SkyWalking</title>
+    <updated>2021-01-06T09:34:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/McZK0BezMM2CDwbp6GDv1g</id>
+    <link href="https://mp.weixin.qq.com/s/McZK0BezMM2CDwbp6GDv1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>生产环境如何定位JVM问题？</title>
     <updated>2021-01-05T13:04:42+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-26T22:03:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/fvipitQjozz6Wyz5jTKUkw</id>
     <link href="https://mp.weixin.qq.com/s/fvipitQjozz6Wyz5jTKUkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想用好Elasticsearch，这三点你不得不知！</title>
-    <updated>2020-12-24T12:37:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/Z2z_X1Vp4HBWQlbCMyWZpQ</id>
-    <link href="https://mp.weixin.qq.com/s/Z2z_X1Vp4HBWQlbCMyWZpQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

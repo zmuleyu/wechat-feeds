@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:34:16+08:00</updated>
+  <updated>2021-01-06T11:45:38+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Socket粘包问题的3种解决方案，最后一种最完美！</title>
+    <updated>2021-01-05T22:16:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/ODxGlLrohCveH-2m-BSDWQ</id>
+    <link href="https://mp.weixin.qq.com/s/ODxGlLrohCveH-2m-BSDWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐一款开源数据库设计工具，比PowerDesigner更好用！</title>
     <updated>2021-01-04T16:37:54+08:00</updated>
@@ -19,13 +26,6 @@
     <updated>2021-01-03T20:52:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/rYq11QUgTZk-sq6vb79OqA</id>
     <link href="https://mp.weixin.qq.com/s/rYq11QUgTZk-sq6vb79OqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java的统治地位要被推翻了？</title>
-    <updated>2021-01-02T20:32:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/aSOMLKarp1PWIO5U-H7QlQ</id>
-    <link href="https://mp.weixin.qq.com/s/aSOMLKarp1PWIO5U-H7QlQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +75,6 @@
     <updated>2020-12-23T22:50:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/2v5YoqcLvM4D8WnLWJZaHg</id>
     <link href="https://mp.weixin.qq.com/s/2v5YoqcLvM4D8WnLWJZaHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>文件写入的6种方法，这种方法性能最好</title>
-    <updated>2020-12-21T22:09:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/58M72ybgGtjAQJP8_6hDEw</id>
-    <link href="https://mp.weixin.qq.com/s/58M72ybgGtjAQJP8_6hDEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

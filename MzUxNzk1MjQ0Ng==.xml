@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员成长指北 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:34:34+08:00</updated>
+  <updated>2021-01-06T11:46:02+08:00</updated>
   <subtitle>专注 Node.js 技术栈分享，从 前端 到 Node.js 再到 后端数据库，祝您成为优秀的高级 Node.js 全栈工程师。一个有趣的且乐于分享的人。座右铭：今天未完成的，明天更不会完成。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vue.js开发移动端经验总结</title>
+    <updated>2021-01-06T08:40:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/cT1s-KytLFIZeEPM78FGdg</id>
+    <link href="https://mp.weixin.qq.com/s/cT1s-KytLFIZeEPM78FGdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用NodeJS实现JWT原理</title>
+    <updated>2021-01-06T08:40:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/MwSA0qHY4SYEEtA60hLXOQ</id>
+    <link href="https://mp.weixin.qq.com/s/MwSA0qHY4SYEEtA60hLXOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何发布 npm 包</title>
+    <updated>2021-01-06T08:40:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ByTlVFJ2HKLlAhWZTToiKQ</id>
+    <link href="https://mp.weixin.qq.com/s/ByTlVFJ2HKLlAhWZTToiKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文搞懂 Web Worker(原理到实践)</title>
     <updated>2021-01-05T08:39:56+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T08:45:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/BeV8ZWVvDu3LpksuFaz2tQ</id>
     <link href="https://mp.weixin.qq.com/s/BeV8ZWVvDu3LpksuFaz2tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从面试官角度看一次前端面试经历（6 个考察点）</title>
-    <updated>2020-12-28T08:38:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/4wt-ulMx6EKcV75W5ioPrw</id>
-    <link href="https://mp.weixin.qq.com/s/4wt-ulMx6EKcV75W5ioPrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VSCode 花式玩法（摸鱼）了解一下</title>
-    <updated>2020-12-28T08:38:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/IFNZvSL5Sty8gQSY7GvrMg</id>
-    <link href="https://mp.weixin.qq.com/s/IFNZvSL5Sty8gQSY7GvrMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>React 灵魂 23 问，你能答对几个？</title>
-    <updated>2020-12-26T21:11:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/AGY6ZV4gIuNX1HLsUbXbAg</id>
-    <link href="https://mp.weixin.qq.com/s/AGY6ZV4gIuNX1HLsUbXbAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
