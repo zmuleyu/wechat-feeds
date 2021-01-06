@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:21:49+08:00</updated>
+  <updated>2021-01-06T20:15:53+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GPT-3的最强落地方式？陈丹琦提出小样本微调方法，比普通微调提升11%</title>
+    <updated>2021-01-06T19:24:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/nFuN2kwf-1JbgZflVrkf6w</id>
+    <link href="https://mp.weixin.qq.com/s/nFuN2kwf-1JbgZflVrkf6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CRSLab：可能是最适合你的对话推荐系统开源库</title>
+    <updated>2021-01-06T19:24:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/n9xP9R7gY7n3d890W0TXvw</id>
+    <link href="https://mp.weixin.qq.com/s/n9xP9R7gY7n3d890W0TXvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>达摩院基于元学习的对话系统</title>
+    <updated>2021-01-06T19:24:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NCum-Qi8j6nTcPU-fm-uvA</id>
+    <link href="https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐模型之用户行为序列处理</title>
+    <updated>2021-01-06T19:24:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/osor94Qti9CKbPh0RNO6VQ</id>
+    <link href="https://mp.weixin.qq.com/s/osor94Qti9CKbPh0RNO6VQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>算法在岗一年的经验总结</title>
+    <updated>2021-01-06T19:24:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/5q-Du1kbpb-ZYqnktsUMaQ</id>
+    <link href="https://mp.weixin.qq.com/s/5q-Du1kbpb-ZYqnktsUMaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于NLP相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱、信息抽取、序列模型、深度学习、语法分析、文本处理</title>
     <updated>2021-01-05T19:05:18+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-03T18:56:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/5EtLDC4ox3Yy5kkj2W4DIg</id>
     <link href="https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>四化大业：论算法工程师的自我修养</title>
-    <updated>2021-01-02T20:17:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/qaSaVsYtvWG5EDDOUi82oA</id>
-    <link href="https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NewBeeNLP 年度 | 文章收藏列表</title>
-    <updated>2021-01-02T20:17:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/K6LO6OmQtI8CLjrWzA9j2g</id>
-    <link href="https://mp.weixin.qq.com/s/K6LO6OmQtI8CLjrWzA9j2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Transformer为啥在NER上表现不好</title>
-    <updated>2021-01-02T20:17:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/FVPR_PkMcgygTr8LbyRPIw</id>
-    <link href="https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐模型之DeepMCP模型</title>
-    <updated>2021-01-02T20:17:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/q2gEnuFoJK77qPZw7JoBKg</id>
-    <link href="https://mp.weixin.qq.com/s/q2gEnuFoJK77qPZw7JoBKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>赛尔笔记 | 概念体系自动构建</title>
-    <updated>2021-01-02T20:17:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ihYxmCSCNhO-i2-4q_I4fQ</id>
-    <link href="https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

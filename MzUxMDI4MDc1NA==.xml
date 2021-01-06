@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>脑子进煎鱼了 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:18:36+08:00</updated>
+  <updated>2021-01-06T20:14:47+08:00</updated>
   <subtitle>分享 Go 语言、微服务架构和各类奇怪的系统设计。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐一个牛逼的技术社区：ECUG</title>
+    <updated>2021-01-06T19:12:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/zQ2XJOhlGvUaPazdqBuCBg</id>
+    <link href="https://mp.weixin.qq.com/s/zQ2XJOhlGvUaPazdqBuCBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面大厂必备 | 如何应对面试官的架构设计问题？</title>
     <updated>2021-01-04T16:49:51+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-06T18:05:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/KJi-uiTcisMjUvUgsr2YSQ</id>
     <link href="https://mp.weixin.qq.com/s/KJi-uiTcisMjUvUgsr2YSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>必须要学的 Go 进程诊断工具 gops</title>
-    <updated>2020-12-02T17:48:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/iS7R0NTZcTlonUw8bq0jKQ</id>
-    <link href="https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

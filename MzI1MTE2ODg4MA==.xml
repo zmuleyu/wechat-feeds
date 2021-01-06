@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大邓和他的Python | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:36:51+08:00</updated>
+  <updated>2021-01-06T20:20:00+08:00</updated>
   <subtitle>管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求原创文章末尾附有实验代码和数据，方便大家看后动手练习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>利用Python每天早上定时给女神微信发送慰问，终于打动了女神！</title>
+    <updated>2021-01-06T19:32:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/BH2HfmtLwOV3AnTZkKT3eA</id>
+    <link href="https://mp.weixin.qq.com/s/BH2HfmtLwOV3AnTZkKT3eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>限时白嫖 | 数据分析大佬珍藏实战经验，真香！</title>
     <updated>2021-01-04T19:22:28+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-26T13:15:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/8BgnIs9PW_f69PWIim8xYA</id>
     <link href="https://mp.weixin.qq.com/s/8BgnIs9PW_f69PWIim8xYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python数据挖掘与Stata应用实证寒假工作坊</title>
-    <updated>2020-12-25T20:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/33EMLT26PffD3XqyUQIDQw</id>
-    <link href="https://mp.weixin.qq.com/s/33EMLT26PffD3XqyUQIDQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用了 Google 这么久，竟然不知道还有这些高级技巧</title>
-    <updated>2020-12-25T20:33:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Qn7mho51bZhtK9GosuGkvQ</id>
-    <link href="https://mp.weixin.qq.com/s/Qn7mho51bZhtK9GosuGkvQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

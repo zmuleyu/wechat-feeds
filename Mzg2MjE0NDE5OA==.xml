@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:27:36+08:00</updated>
+  <updated>2021-01-06T20:35:22+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: Fedora和各种edition！</title>
+    <updated>2021-01-06T13:34:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/luseiAEUHW8ccJME5Q32Wg</id>
+    <link href="https://mp.weixin.qq.com/s/luseiAEUHW8ccJME5Q32Wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: CentOS中道夭折！</title>
     <updated>2021-01-05T16:15:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T09:50:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/vOgXzfsPa01xLzBvpMIm0w</id>
     <link href="https://mp.weixin.qq.com/s/vOgXzfsPa01xLzBvpMIm0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: XFS以及稳定内核发布！</title>
-    <updated>2020-12-18T17:50:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/kTDu1NlmwUWnKrCP7rhl3Q</id>
-    <link href="https://mp.weixin.qq.com/s/kTDu1NlmwUWnKrCP7rhl3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

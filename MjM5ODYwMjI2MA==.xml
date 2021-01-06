@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:15:51+08:00</updated>
+  <updated>2021-01-06T20:35:26+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“噪音猎人”</title>
+    <updated>2021-01-06T15:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/RbtQrLzAQyJ9IkpixRxGSg</id>
+    <link href="https://mp.weixin.qq.com/s/RbtQrLzAQyJ9IkpixRxGSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大型 web 前端架构设计-面向抽象编程入门</title>
     <updated>2021-01-04T17:12:15+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-16T15:51:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/XyAURoVLAiARIQVa2jyj0Q</id>
     <link href="https://mp.weixin.qq.com/s/XyAURoVLAiARIQVa2jyj0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 索引知识点总结</title>
-    <updated>2020-12-14T17:56:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/QduIxKOykMmoZp13UGF1XQ</id>
-    <link href="https://mp.weixin.qq.com/s/QduIxKOykMmoZp13UGF1XQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

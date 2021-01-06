@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:16:04+08:00</updated>
+  <updated>2021-01-06T20:14:58+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linus新年第一怼：英特尔正在扼杀整个ECC产业</title>
+    <updated>2021-01-06T17:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/VShlVspPp1ILsQdeTIkU7w</id>
+    <link href="https://mp.weixin.qq.com/s/VShlVspPp1ILsQdeTIkU7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工程师：FAT32格式化32G限制是个不能被原谅的致命错误</title>
+    <updated>2021-01-06T17:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/rq9DCDQvzJ1BkEt1AjKVEA</id>
+    <link href="https://mp.weixin.qq.com/s/rq9DCDQvzJ1BkEt1AjKVEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mozilla正在修改Firefox UI，计划5月份公布新设计</title>
+    <updated>2021-01-06T17:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0eDBX9ZPDYpQmSVHNx6b6w</id>
+    <link href="https://mp.weixin.qq.com/s/0eDBX9ZPDYpQmSVHNx6b6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌员工罕见成立工会,美媒:员工维权行动已席卷硅谷!</title>
+    <updated>2021-01-06T17:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0Ge6KK8s-58NshfMwd9rAA</id>
+    <link href="https://mp.weixin.qq.com/s/0Ge6KK8s-58NshfMwd9rAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货 | 快速读懂 JS 原型链</title>
+    <updated>2021-01-06T17:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/5BR2qCp3Uq02cf2Hzq7Zcw</id>
+    <link href="https://mp.weixin.qq.com/s/5BR2qCp3Uq02cf2Hzq7Zcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>卫剑钒，开源圈的“世外高手”</title>
     <updated>2021-01-05T16:05:26+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-31T17:44:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/JTfM8RqSiIYV8QCnubalvQ</id>
     <link href="https://mp.weixin.qq.com/s/JTfM8RqSiIYV8QCnubalvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA 2020.3.1 发布</title>
-    <updated>2020-12-31T17:44:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/WX3-1AtY6T_m109ElYfBoQ</id>
-    <link href="https://mp.weixin.qq.com/s/WX3-1AtY6T_m109ElYfBoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apache Dubbo-js重大更新，采用全新架构</title>
-    <updated>2020-12-31T17:44:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/0qskhwrwxXLLVYQ3niUMmw</id>
-    <link href="https://mp.weixin.qq.com/s/0qskhwrwxXLLVYQ3niUMmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>话题|开发者提交issue向开源项目表达谢意是否合适？</title>
-    <updated>2020-12-31T17:44:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/hDKK7em5YnzD7CP7EyhLQQ</id>
-    <link href="https://mp.weixin.qq.com/s/hDKK7em5YnzD7CP7EyhLQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专访CNCF大使张磊：让云原生不再是大厂专属</title>
-    <updated>2020-12-30T17:33:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/9Tmjpe3cihkXIW_yQLmrvg</id>
-    <link href="https://mp.weixin.qq.com/s/9Tmjpe3cihkXIW_yQLmrvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来了！请查收你的2021年度关键词&gt;&gt;&gt;</title>
-    <updated>2020-12-30T17:33:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/iW-PlTIDLcKatIApTEYIMg</id>
-    <link href="https://mp.weixin.qq.com/s/iW-PlTIDLcKatIApTEYIMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

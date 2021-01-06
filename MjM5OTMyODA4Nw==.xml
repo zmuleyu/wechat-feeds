@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python Web与Django开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:35:58+08:00</updated>
+  <updated>2021-01-06T20:22:21+08:00</updated>
   <subtitle>大江狗的Python Django原创基础教程, 技术总结与开发实战。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用SQL语言了解Django ORM中的分组(group by)和聚合(aggregation)查询</title>
+    <updated>2021-01-06T18:06:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/cSED-2GDQbyh6-Aah3K6Gg</id>
+    <link href="https://mp.weixin.qq.com/s/cSED-2GDQbyh6-Aah3K6Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>学习Python Django开发如何3年内年薪超200万?</title>
     <updated>2020-12-31T09:05:11+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-14T11:49:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/pz2me8JKnZpD8MVYlBU9aQ</id>
     <link href="https://mp.weixin.qq.com/s/pz2me8JKnZpD8MVYlBU9aQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用python异步框架aiohttp从NASA抓取火星图片</title>
-    <updated>2020-12-11T11:36:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/labQaB0VPetdyVN8SZsyCQ</id>
-    <link href="https://mp.weixin.qq.com/s/labQaB0VPetdyVN8SZsyCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

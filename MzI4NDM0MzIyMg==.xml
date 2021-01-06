@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>转角遇到GitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:39:10+08:00</updated>
+  <updated>2021-01-06T20:25:11+08:00</updated>
   <subtitle>发现 GitHub 好项目，开源爱好者！包括但不限于 Python、Java、Go、Rust、JavaScript、AI 等技术，开源学习和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>厚着脸皮要来的阿里、美团内部资料！看完只能说：牛逼！果然牛逼！</title>
+    <updated>2021-01-06T10:13:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/bKvsr0q9OTvDLT36MbC6fg</id>
+    <link href="https://mp.weixin.qq.com/s/bKvsr0q9OTvDLT36MbC6fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>通过这个 Go 项目搭建一个图片服务器竟然这么简单</title>
     <updated>2021-01-05T17:24:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-19T15:42:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/GaMR7SizRGvEW81VipTnHg</id>
     <link href="https://mp.weixin.qq.com/s/GaMR7SizRGvEW81VipTnHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>转 Go 的 PHPer 总是忘不了 PHP 的好？试试这个开源项目</title>
-    <updated>2020-12-17T10:51:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/Ry_fzDQHZHBKx16k2M_OVg</id>
-    <link href="https://mp.weixin.qq.com/s/Ry_fzDQHZHBKx16k2M_OVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

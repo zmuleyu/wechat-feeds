@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>polarisxu | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:32:22+08:00</updated>
+  <updated>2021-01-06T20:14:39+08:00</updated>
   <subtitle>北京大学毕业；码农，创业者；Go语言中文网站长；著有《Go语言编程之旅》；爱 Go，也是 PHPer，还做过 Java；聊技术、聊职场、聊创业~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈配置文件</title>
+    <updated>2021-01-06T14:52:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/BDH9jc3tA-Sk-ZF2geJRxg</id>
+    <link href="https://mp.weixin.qq.com/s/BDH9jc3tA-Sk-ZF2geJRxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从一份 2020 年大厂加班榜说起</title>
     <updated>2021-01-05T18:39:37+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-24T17:11:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/KZLQQvwU9sWZpGWDbvrIJQ</id>
     <link href="https://mp.weixin.qq.com/s/KZLQQvwU9sWZpGWDbvrIJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软引入 Rust，这门语言终于要火了吗？</title>
-    <updated>2020-12-23T14:52:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/tZ5E-dUDpqrlCLF4TE5QuA</id>
-    <link href="https://mp.weixin.qq.com/s/tZ5E-dUDpqrlCLF4TE5QuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>同时会 Go 和 Rust 的优势：这个岗位推荐入职了奖励 0.5 个比特币</title>
-    <updated>2020-12-23T14:52:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Aw3sOK7tg1kr8uo3WDikVA</id>
-    <link href="https://mp.weixin.qq.com/s/Aw3sOK7tg1kr8uo3WDikVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

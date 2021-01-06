@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>专知 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:33:13+08:00</updated>
+  <updated>2021-01-06T20:16:45+08:00</updated>
   <subtitle>专知，为人工智能从业者服务，提供专业可信的人工智能知识与技术服务，让认知协作更快更好！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>详解NLP技术中的：预训练模型、图神经网络、模型压缩、知识图谱</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/F8fI5JpBZyu8VLQThQmLqA</id>
+    <link href="https://mp.weixin.qq.com/s/F8fI5JpBZyu8VLQThQmLqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《图卷积神经网络》硬核课程，NTU-Xavier Bresson教授讲解，附视频与80页PPT</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/7-sGDcwN57pLAc3vqHsUGQ</id>
+    <link href="https://mp.weixin.qq.com/s/7-sGDcwN57pLAc3vqHsUGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>斯坦福经典《统计学习要素》最新版，中文翻译、代码实现及其习题解答，附764页下载</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Ay26T7Aw5tt-VQyuuTRHUw</id>
+    <link href="https://mp.weixin.qq.com/s/Ay26T7Aw5tt-VQyuuTRHUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【AAAI2021】图卷积网络中的低频和高频信息作用</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/H2aEkyOARDff-VL3uebQ2w</id>
+    <link href="https://mp.weixin.qq.com/s/H2aEkyOARDff-VL3uebQ2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>3月20号截止！2021年度国家自然科学基金项目申请与结题等有关事项的通告</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/JYGNcTErY-UkViqKTs2EEQ</id>
+    <link href="https://mp.weixin.qq.com/s/JYGNcTErY-UkViqKTs2EEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最新《从观察数据发现因果性》，150页ppt</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/rSCzhnzazgHfmtQOy9pvSw</id>
+    <link href="https://mp.weixin.qq.com/s/rSCzhnzazgHfmtQOy9pvSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数字化健康白皮书，17页pdf</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/c1zSD1BYjHlx1Sx3huKW5Q</id>
+    <link href="https://mp.weixin.qq.com/s/c1zSD1BYjHlx1Sx3huKW5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>100+篇必看2020综述论文《小样本/GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合</title>
+    <updated>2021-01-06T17:39:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/tWzVZYnubOc_QOs9DB_-Ig</id>
+    <link href="https://mp.weixin.qq.com/s/tWzVZYnubOc_QOs9DB_-Ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>近期必读的五篇AAAI 2021【对比学习】相关论文和代码</title>
     <updated>2021-01-05T17:45:21+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-04T18:42:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/-0uFK6P7cZ9XdKIiJUEUdg</id>
     <link href="https://mp.weixin.qq.com/s/-0uFK6P7cZ9XdKIiJUEUdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【普林斯顿陈丹琦团队】使预训练语言模型成为更好的少样本学习器</title>
-    <updated>2021-01-04T18:42:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/mfAaywMzMfphy0b6DaAj2w</id>
-    <link href="https://mp.weixin.qq.com/s/mfAaywMzMfphy0b6DaAj2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知识图谱补全技术</title>
-    <updated>2021-01-04T18:42:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/zOoDpH_uchapIJZvbXg1iA</id>
-    <link href="https://mp.weixin.qq.com/s/zOoDpH_uchapIJZvbXg1iA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021科技、传媒和电信行业预测，124页pdf</title>
-    <updated>2021-01-04T18:42:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/axSSzS8ZTUZinVUiGSD92A</id>
-    <link href="https://mp.weixin.qq.com/s/axSSzS8ZTUZinVUiGSD92A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>100+篇必看2020综述论文《小样本/GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合</title>
-    <updated>2021-01-04T18:42:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/laY4i5uLX0Vfu32AgGI4Sg</id>
-    <link href="https://mp.weixin.qq.com/s/laY4i5uLX0Vfu32AgGI4Sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MIT《计算机教育中缺失的一课》中文版，学习计算机或人工智能都必须上的一课</title>
-    <updated>2021-01-03T16:34:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/7m-4AVJsUo2AXys1uPQJ2w</id>
-    <link href="https://mp.weixin.qq.com/s/7m-4AVJsUo2AXys1uPQJ2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《高级线性代数:基础到前沿》新书，638页pdf阐述线性代数高级主题</title>
-    <updated>2021-01-03T16:34:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Lmyqi2dJyWKVvz-XgIPdCA</id>
-    <link href="https://mp.weixin.qq.com/s/Lmyqi2dJyWKVvz-XgIPdCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI 2021论文接收列表放出! 1692篇论文都在这儿了！</title>
-    <updated>2021-01-03T16:34:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/RnyYSz1x7JqV80HsqzSUtg</id>
-    <link href="https://mp.weixin.qq.com/s/RnyYSz1x7JqV80HsqzSUtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【AAAI2021】学习场景图之间的相似度实现图像到图像的检索</title>
-    <updated>2021-01-03T16:34:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/8b_tgGATRZzA-ZNK9F8KvA</id>
-    <link href="https://mp.weixin.qq.com/s/8b_tgGATRZzA-ZNK9F8KvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

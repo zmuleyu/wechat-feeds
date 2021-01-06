@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:14:13+08:00</updated>
+  <updated>2021-01-06T20:19:52+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Pulsar Committer |  Apache Pulsar 迎接新 Committer 成员林琳</title>
+    <updated>2021-01-06T14:43:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/97wpvJ1Gm1EDTJWjKidHgw</id>
+    <link href="https://mp.weixin.qq.com/s/97wpvJ1Gm1EDTJWjKidHgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>脉冲星 12 月脉动 | Pulsar 2.7.0 发布！</title>
     <updated>2021-01-05T17:07:00+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-24T18:30:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/u2ZHebPpQdIaCBhRQhgluA</id>
     <link href="https://mp.weixin.qq.com/s/u2ZHebPpQdIaCBhRQhgluA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pulsar和Kafka基准测试：Pulsar性能精准解析（完整版）</title>
-    <updated>2020-12-23T19:45:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/xhjoCst_o_HbpDnhyHZYFg</id>
-    <link href="https://mp.weixin.qq.com/s/xhjoCst_o_HbpDnhyHZYFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apache Pulsar PMC 成员翟佳入选「2020 中国开源先锋 33 人」</title>
-    <updated>2020-12-23T19:45:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/JpbPg1FRUQtcb9pJcANUrg</id>
-    <link href="https://mp.weixin.qq.com/s/JpbPg1FRUQtcb9pJcANUrg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

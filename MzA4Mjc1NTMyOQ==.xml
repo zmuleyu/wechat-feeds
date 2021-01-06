@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Golang语言开发栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T13:25:45+08:00</updated>
+  <updated>2021-01-06T20:16:06+08:00</updated>
   <subtitle>学习Go语言，和我一起吧。致力于golang技术教程分享。专注于go面试题，go标准库，go三方库，go框架，go orm，go 微服务，分布式，设计模式，数据结构与算法，RPC应用，数据中台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Golang 语言怎么使用 gomail 库发送邮件？</title>
+    <updated>2021-01-06T18:00:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/is2PnBNwjgrk_p-2hxNAzw</id>
+    <link href="https://mp.weixin.qq.com/s/is2PnBNwjgrk_p-2hxNAzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见 2020，你好 2021</title>
     <updated>2021-01-01T12:30:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-09T12:29:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/Zhg5FBgB6XPC37kA0GcgKg</id>
     <link href="https://mp.weixin.qq.com/s/Zhg5FBgB6XPC37kA0GcgKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang语言标准库 sync 包的 Once 怎么使用？</title>
-    <updated>2020-12-06T17:13:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/gOvi0KuimvXvHQ8Iy-hZlA</id>
-    <link href="https://mp.weixin.qq.com/s/gOvi0KuimvXvHQ8Iy-hZlA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

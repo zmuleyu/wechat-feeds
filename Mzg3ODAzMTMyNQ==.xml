@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T20:13:18+08:00</updated>
+  <updated>2021-01-06T20:36:02+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>速收藏 | 2020 年开源项目推荐合集</title>
+    <updated>2021-01-06T19:28:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/iFkFHwjzmIEgDQtAg6SPMw</id>
+    <link href="https://mp.weixin.qq.com/s/iFkFHwjzmIEgDQtAg6SPMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>周一见 | CNCF 2020 年度报告、VMware K8s 2020 年度报告、Crossplane v1.0 发布</title>
     <updated>2021-01-04T18:14:06+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-09T12:18:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/sOsZKG73eE2hMRKULrSuvw</id>
     <link href="https://mp.weixin.qq.com/s/sOsZKG73eE2hMRKULrSuvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>周一见 | Kubernetes 弃用 Docker 来龙去脉</title>
-    <updated>2020-12-07T18:17:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/bompALNDT45aZwi53fPG7Q</id>
-    <link href="https://mp.weixin.qq.com/s/bompALNDT45aZwi53fPG7Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

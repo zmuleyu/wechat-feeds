@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:14:30+08:00</updated>
+  <updated>2021-01-06T20:20:06+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>1款工具实现自动K8S部署，提升开发速度！</title>
+    <updated>2021-01-06T17:55:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/LKfrPQyQJ_23iPMxqsLygg</id>
+    <link href="https://mp.weixin.qq.com/s/LKfrPQyQJ_23iPMxqsLygg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>资深首席架构师预测：2021年云计算的8个首要趋势</title>
     <updated>2021-01-05T17:26:07+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-22T18:06:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/WNhwVvQWWRNiCBmNaYnlog</id>
     <link href="https://mp.weixin.qq.com/s/WNhwVvQWWRNiCBmNaYnlog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rancher荣获《金融电子化》2020金融科技产品创新突出贡献奖</title>
-    <updated>2020-12-21T13:20:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/dNACl3el8Shpt_cAymVUzg</id>
-    <link href="https://mp.weixin.qq.com/s/dNACl3el8Shpt_cAymVUzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

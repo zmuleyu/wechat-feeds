@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink 中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:32:26+08:00</updated>
+  <updated>2021-01-06T20:35:13+08:00</updated>
   <subtitle>Apache Flink 官微，Flink PMC 维护</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开发效率提升15倍！批流融合实时平台在好未来的应用实践</title>
+    <updated>2021-01-06T17:29:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/dfpe8LwZeyzIatFZRxtFtw</id>
+    <link href="https://mp.weixin.qq.com/s/dfpe8LwZeyzIatFZRxtFtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>详解 Flink 容器化环境下的 OOM Killed</title>
     <updated>2021-01-05T21:22:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T23:24:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/PFAgduVsR8FjDqtL2jhATA</id>
     <link href="https://mp.weixin.qq.com/s/PFAgduVsR8FjDqtL2jhATA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全场景解析！基于 Flink 的12个实时数仓生产实践</title>
-    <updated>2020-12-07T20:53:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/cy4--fitz222iBSD1uFusQ</id>
-    <link href="https://mp.weixin.qq.com/s/cy4--fitz222iBSD1uFusQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

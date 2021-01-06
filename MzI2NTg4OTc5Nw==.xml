@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码卫士 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:46:49+08:00</updated>
+  <updated>2021-01-06T20:32:31+08:00</updated>
   <subtitle>奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Node.js TLSWrap 实现中的释放后使用漏洞分析</title>
+    <updated>2021-01-06T17:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Z8kLTNr9zXvwDMJ7CEX5YQ</id>
+    <link href="https://mp.weixin.qq.com/s/Z8kLTNr9zXvwDMJ7CEX5YQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拥有开源安全背景的开发员当选白宫技术总监</title>
+    <updated>2021-01-06T17:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/G5siJ-HoSr202BLVKCBb_w</id>
+    <link href="https://mp.weixin.qq.com/s/G5siJ-HoSr202BLVKCBb_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>朝鲜 APT37被指发动软件供应链攻击，瞄准股票投资人</title>
+    <updated>2021-01-06T17:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/wKjH5kzsUA9_HB7JMKFWkQ</id>
+    <link href="https://mp.weixin.qq.com/s/wKjH5kzsUA9_HB7JMKFWkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>3年后准确率仍达97%：利用谷歌语音转文本 API 绕过reCAPTCHA</title>
+    <updated>2021-01-06T17:52:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/aN2VkR9ln2twd7V7ethQng</id>
+    <link href="https://mp.weixin.qq.com/s/aN2VkR9ln2twd7V7ethQng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>21家大厂的2021年安全趋势预测</title>
     <updated>2021-01-05T18:38:58+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-28T20:29:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/YWWyUNSQmOaJ9y3eW0R56w</id>
     <link href="https://mp.weixin.qq.com/s/YWWyUNSQmOaJ9y3eW0R56w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>攻击者滥用 Citrix NetScaler 设备 0day，发动DDoS放大攻击</title>
-    <updated>2020-12-28T20:29:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Uu_MlqWcuYUKdk-p--ZLew</id>
-    <link href="https://mp.weixin.qq.com/s/Uu_MlqWcuYUKdk-p--ZLew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊猎洞的残酷真相：一腔孤勇，为爱发电</title>
-    <updated>2020-12-25T16:11:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/iiN0MjWZhmFRoUsdCXhGhQ</id>
-    <link href="https://mp.weixin.qq.com/s/iiN0MjWZhmFRoUsdCXhGhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HackerOne 平台诞生首个收入超200万美元的赏金猎人</title>
-    <updated>2020-12-25T16:11:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/lVLF0yLyhM-MiOpzynw5Ng</id>
-    <link href="https://mp.weixin.qq.com/s/lVLF0yLyhM-MiOpzynw5Ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>补丁不给力，Windows漏洞 (CVE-2020-0986) 沦为新0day，或于2021年修复</title>
-    <updated>2020-12-24T17:31:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/FOaDlmCXYGK2iubG-EYo3A</id>
-    <link href="https://mp.weixin.qq.com/s/FOaDlmCXYGK2iubG-EYo3A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

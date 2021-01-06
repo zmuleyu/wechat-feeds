@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷石安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:27:26+08:00</updated>
+  <updated>2021-01-06T20:14:26+08:00</updated>
   <subtitle>雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>雷石安全实验室2020年终总结</title>
+    <updated>2021-01-06T17:22:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/uxreAFXhg3TR7yMtBviBrg</id>
+    <link href="https://mp.weixin.qq.com/s/uxreAFXhg3TR7yMtBviBrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【漏洞报送】Apache Flink 高危漏洞预警（CVE-2020-17518/CVE-2020-17519）</title>
+    <updated>2021-01-06T17:22:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0AJa7Vnihn88-57O8Ntclg</id>
+    <link href="https://mp.weixin.qq.com/s/0AJa7Vnihn88-57O8Ntclg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FreeMarker模板注入</title>
     <updated>2021-01-05T17:14:35+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-12-23T16:05:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/KhOA9vLFRl_1ZclsFHMUlg</id>
     <link href="https://mp.weixin.qq.com/s/KhOA9vLFRl_1ZclsFHMUlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​Apache Solr未授权上传漏洞复现及验证POC编写</title>
-    <updated>2020-12-22T17:32:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/GRc9kNBvbyafTcN8bl6iAg</id>
-    <link href="https://mp.weixin.qq.com/s/GRc9kNBvbyafTcN8bl6iAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

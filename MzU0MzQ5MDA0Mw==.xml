@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:26:22+08:00</updated>
+  <updated>2021-01-06T20:18:12+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你想进大厂打工？作为大厂打工人，我给你提两点建议</title>
+    <updated>2021-01-06T13:28:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/2lkLpnlJm_FOpDKX4ZA00A</id>
+    <link href="https://mp.weixin.qq.com/s/2lkLpnlJm_FOpDKX4ZA00A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里技术专家：数据一致性检测的应用场景与最佳实践</title>
+    <updated>2021-01-06T13:28:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Z60mjqiegpzNr3X2XDeU3g</id>
+    <link href="https://mp.weixin.qq.com/s/Z60mjqiegpzNr3X2XDeU3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超详细解析 | 一致性协议算法-2PC、3PC、Paxos、Raft、ZAB、NWR</title>
     <updated>2021-01-04T22:58:53+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-27T13:52:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/lh75prHmrwSWF33lCiVL8g</id>
     <link href="https://mp.weixin.qq.com/s/lh75prHmrwSWF33lCiVL8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>建议收藏 | 全面解析 50+条 SQL 语句性能优化策略</title>
-    <updated>2020-12-25T20:53:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/sLVbM2bHblnrAEPiaCfZmA</id>
-    <link href="https://mp.weixin.qq.com/s/sLVbM2bHblnrAEPiaCfZmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
