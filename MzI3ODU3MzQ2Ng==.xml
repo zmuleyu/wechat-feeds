@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码上观世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:09:11+08:00</updated>
+  <updated>2021-01-07T02:22:12+08:00</updated>
   <subtitle>本公众号专注于计算机领域解决问题的通用方法和技术原理，问题域从实际出发，内容包含但不局限于计算机基础理论、数据结构、算法、编程语言和分布式系统。创作秉承“三不写”原则：没理解的内容不写，重复无营养的不写，非体系化的不写。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink实时流处理开发入门指南</title>
+    <updated>2021-01-07T00:08:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/GEP-hLfYVO8FfyJ-OPTHPA</id>
+    <link href="https://mp.weixin.qq.com/s/GEP-hLfYVO8FfyJ-OPTHPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于对象导航图语言（OGNL）的动态 SQL 生成实现原理</title>
     <updated>2020-12-17T09:42:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-06-18T12:22:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-06-18:/s/VE9cjXPlbMH9h6izcziy-g</id>
     <link href="https://mp.weixin.qq.com/s/VE9cjXPlbMH9h6izcziy-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>左耳朵耗子：技术人如何更好地把控发展趋势？</title>
-    <updated>2020-06-14T22:01:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-14:/s/k0Lq58_PV7uBSRAsgbi99A</id>
-    <link href="https://mp.weixin.qq.com/s/k0Lq58_PV7uBSRAsgbi99A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

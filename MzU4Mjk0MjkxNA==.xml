@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武培轩 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:31:41+08:00</updated>
+  <updated>2021-01-07T02:02:29+08:00</updated>
   <subtitle>专注分享后端技术干货，包括 Java 基础、Java 并发、JVM、Elasticsearch、Zookeeper、Nginx、微服务、消息队列、源码解析、数据库、设计模式、面经等，助你编程之路少走弯路。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干掉 PowerDesigner，设计数据库表用它就够了</title>
+    <updated>2021-01-06T23:49:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9j2xUahddSayS6hjkBbF4g</id>
+    <link href="https://mp.weixin.qq.com/s/9j2xUahddSayS6hjkBbF4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>10亿+PV 并发！12306 的系统也太狠了吧？</title>
     <updated>2021-01-05T09:07:26+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-14T09:11:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/kx2UWC6E-MP98y1Spga1Yw</id>
     <link href="https://mp.weixin.qq.com/s/kx2UWC6E-MP98y1Spga1Yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你真的确定Spring AOP的执行顺序吗</title>
-    <updated>2020-12-08T22:27:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/e20pR3P7Gf-vsflELesanw</id>
-    <link href="https://mp.weixin.qq.com/s/e20pR3P7Gf-vsflELesanw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

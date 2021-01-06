@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:49:45+08:00</updated>
+  <updated>2021-01-07T02:20:32+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ASIC芯片技术和知识介绍</title>
+    <updated>2021-01-06T22:16:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/LAfK822uIkO2eV38mmJr4Q</id>
+    <link href="https://mp.weixin.qq.com/s/LAfK822uIkO2eV38mmJr4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>资深架构师怎么处理高并发？</title>
     <updated>2021-01-05T22:39:35+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-28T23:00:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/7Vpn6zfsJotRS6PwxreKPg</id>
     <link href="https://mp.weixin.qq.com/s/7Vpn6zfsJotRS6PwxreKPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯云TVP专家孙玄：揭秘腾讯阿里系统架构设计思维和方法论</title>
-    <updated>2020-12-27T23:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/ykC2cSjxskDAoNmco0cDjA</id>
-    <link href="https://mp.weixin.qq.com/s/ykC2cSjxskDAoNmco0cDjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据中心综合布线系统技术</title>
-    <updated>2020-12-27T23:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/UDLjFeaMke5jmYPT0tg0FQ</id>
-    <link href="https://mp.weixin.qq.com/s/UDLjFeaMke5jmYPT0tg0FQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

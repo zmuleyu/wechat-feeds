@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>amazingdotnet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:24:03+08:00</updated>
+  <updated>2021-01-07T02:06:03+08:00</updated>
   <subtitle>dotnet 开发知识库，了不起的 dotnet，dotnet 奇淫怪巧</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C# 9 新特性 —— 补充篇</title>
+    <updated>2021-01-06T23:52:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/11mA2k-hHr-pKCiNeai51w</id>
+    <link href="https://mp.weixin.qq.com/s/11mA2k-hHr-pKCiNeai51w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C# 9 新特性 — record 解读</title>
     <updated>2021-01-04T07:43:36+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-14T23:30:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/5kz5AMkHZDwtnIbr0MMryw</id>
     <link href="https://mp.weixin.qq.com/s/5kz5AMkHZDwtnIbr0MMryw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lambda 表达式深度解析</title>
-    <updated>2020-12-12T09:59:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/0532dqbY1zU4wAKn73E5Zg</id>
-    <link href="https://mp.weixin.qq.com/s/0532dqbY1zU4wAKn73E5Zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

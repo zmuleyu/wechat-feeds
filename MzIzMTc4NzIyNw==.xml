@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端时空 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:21:29+08:00</updated>
+  <updated>2021-01-07T02:03:28+08:00</updated>
   <subtitle>1024.Cool 前端技术社区，发现前端之美。HTML5、CSS3、JavaScript、Typescript、Vue、React、Angular、Node、Serverless、Three、Cesium、Echarts、Github。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端 mock 完美解决方案实战</title>
+    <updated>2021-01-06T23:39:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/I5G-roPSg9oZ5Mg14yRWQg</id>
+    <link href="https://mp.weixin.qq.com/s/I5G-roPSg9oZ5Mg14yRWQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>15 点搞定 Vue 前端架构</title>
     <updated>2021-01-04T04:01:11+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-13T21:37:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/t5CpnwsLmzi2mmJ7y3QXiQ</id>
     <link href="https://mp.weixin.qq.com/s/t5CpnwsLmzi2mmJ7y3QXiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AI火爆，但最关键的还是在于应用场景落地</title>
-    <updated>2020-11-10T12:40:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/gNMK9RRa0Cs8GwdeeJ81EA</id>
-    <link href="https://mp.weixin.qq.com/s/gNMK9RRa0Cs8GwdeeJ81EA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

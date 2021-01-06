@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序新视界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:37:12+08:00</updated>
+  <updated>2021-01-07T02:07:48+08:00</updated>
   <subtitle>编程，读书，职场感悟，带你开启新的程序视界！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不要再用main方法测试代码性能了，用这款JDK自带工具</title>
+    <updated>2021-01-06T19:15:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0Tq_a3wdNwKUuCx25lIuVA</id>
+    <link href="https://mp.weixin.qq.com/s/0Tq_a3wdNwKUuCx25lIuVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>学习算法必备：时间复杂度与空间复杂度，你了解多少</title>
     <updated>2021-01-03T12:11:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-14T21:15:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/3u2yi0aCS1xhIrm5xQ3frg</id>
     <link href="https://mp.weixin.qq.com/s/3u2yi0aCS1xhIrm5xQ3frg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知道这些IntelliJ IDEA实用小技巧，能让你少写1,000行代码！</title>
-    <updated>2020-12-13T21:19:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/bfsbwvMsyQdcaf5XhYAcWQ</id>
-    <link href="https://mp.weixin.qq.com/s/bfsbwvMsyQdcaf5XhYAcWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
