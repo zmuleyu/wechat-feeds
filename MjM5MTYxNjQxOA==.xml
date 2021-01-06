@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:24:44+08:00</updated>
+  <updated>2021-01-06T16:27:45+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>午夜漫谈：一次推测未知服务的过程</title>
+    <updated>2021-01-06T15:08:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/gqYHaRC3bbTGfJeG-IVxCQ</id>
+    <link href="https://mp.weixin.qq.com/s/gqYHaRC3bbTGfJeG-IVxCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次曲折的后台 getshell 过程</title>
     <updated>2021-01-05T14:41:58+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-23T11:12:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/zb__2w09oKIluR4MFeiFsg</id>
     <link href="https://mp.weixin.qq.com/s/zb__2w09oKIluR4MFeiFsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>骑士CMS模版注入+文件包含getshell复现</title>
-    <updated>2020-12-22T12:16:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/e0aLBuJ5z9Flbjkia0LmyA</id>
-    <link href="https://mp.weixin.qq.com/s/e0aLBuJ5z9Flbjkia0LmyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多地降温限电，凭什么这里热度不减！</title>
-    <updated>2020-12-22T12:16:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/ZxqbV3D3rEi-5xYWGkUT8g</id>
-    <link href="https://mp.weixin.qq.com/s/ZxqbV3D3rEi-5xYWGkUT8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
