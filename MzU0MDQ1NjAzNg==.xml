@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:28:26+08:00</updated>
+  <updated>2021-01-06T13:28:29+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python数据分析思维导图分享 | 附下载方法</title>
+    <updated>2021-01-05T23:28:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/ulxQFywMa2olsiyIlnNOSA</id>
+    <link href="https://mp.weixin.qq.com/s/ulxQFywMa2olsiyIlnNOSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>收藏 | CNN的一些可视化方法！</title>
+    <updated>2021-01-05T23:28:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/WtA8hTpp221Pud3zvYXEpg</id>
+    <link href="https://mp.weixin.qq.com/s/WtA8hTpp221Pud3zvYXEpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华 CVer 对自监督学习的一些思考</title>
+    <updated>2021-01-05T23:28:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Rk-vGZci6gX2RfmccNtCkw</id>
+    <link href="https://mp.weixin.qq.com/s/Rk-vGZci6gX2RfmccNtCkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>史上最强：numpy实现全部机器学习算法</title>
     <updated>2021-01-05T10:17:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T23:00:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/AQHXSodXkrJAzP4iGHDx1g</id>
     <link href="https://mp.weixin.qq.com/s/AQHXSodXkrJAzP4iGHDx1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习必学10大算法</title>
-    <updated>2020-12-28T23:21:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/jNe3e66OJlUt3IJNdtVucg</id>
-    <link href="https://mp.weixin.qq.com/s/jNe3e66OJlUt3IJNdtVucg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学唐杰教授：人工智能的下个十年</title>
-    <updated>2020-12-28T23:21:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/J0Qr6FhvBe8kHwB3WwuO6g</id>
-    <link href="https://mp.weixin.qq.com/s/J0Qr6FhvBe8kHwB3WwuO6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学发布首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型</title>
-    <updated>2020-12-28T10:44:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3VsFgLzjgrHRugfOuYlvrw</id>
-    <link href="https://mp.weixin.qq.com/s/3VsFgLzjgrHRugfOuYlvrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

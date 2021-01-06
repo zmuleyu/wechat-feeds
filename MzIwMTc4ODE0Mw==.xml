@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:42:21+08:00</updated>
+  <updated>2021-01-06T13:38:48+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>BP反向传播矩阵推导图示详解​</title>
+    <updated>2021-01-06T13:15:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Ub3CMQszkx7pGKoPcB0bYA</id>
+    <link href="https://mp.weixin.qq.com/s/Ub3CMQszkx7pGKoPcB0bYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CRSLab：可能是最适合你的对话推荐系统开源库</title>
+    <updated>2021-01-06T13:15:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Z4-bd6lE9VAJ8Kf9peMM_g</id>
+    <link href="https://mp.weixin.qq.com/s/Z4-bd6lE9VAJ8Kf9peMM_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | COLING 2020：利用近义知识增强中文成语阅读理解</title>
+    <updated>2021-01-06T13:15:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Karn5oxh3GSkypNpEkqN9A</id>
+    <link href="https://mp.weixin.qq.com/s/Karn5oxh3GSkypNpEkqN9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>6折倒计时 | 2020中国大数据技术大会（BDTC）首轮讲师阵容震撼来袭！</title>
     <updated>2021-01-05T13:21:00+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-28T18:23:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/egcckC8jSzOSFVrmL4UUDQ</id>
     <link href="https://mp.weixin.qq.com/s/egcckC8jSzOSFVrmL4UUDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文详解神经网络与激活函数的基本原理</title>
-    <updated>2020-12-28T18:23:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/sfJGycgzgLNG_j39nYdA-w</id>
-    <link href="https://mp.weixin.qq.com/s/sfJGycgzgLNG_j39nYdA-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10万奖金怎么得？往届获胜选手直播讲解，助你赢大奖</title>
-    <updated>2020-12-27T20:03:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/30aFSzXuV3yhcvoVOo8I9A</id>
-    <link href="https://mp.weixin.qq.com/s/30aFSzXuV3yhcvoVOo8I9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Facebook开源数据高效图像Transformer，媲美SOTA CNN</title>
-    <updated>2020-12-27T20:03:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/xhd4h9yQMlQNstxovP4dpA</id>
-    <link href="https://mp.weixin.qq.com/s/xhd4h9yQMlQNstxovP4dpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

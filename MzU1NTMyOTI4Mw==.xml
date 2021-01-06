@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:32:20+08:00</updated>
+  <updated>2021-01-06T13:46:10+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Presto在滴滴的探索与实践</title>
+    <updated>2021-01-06T12:50:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/mpPYsLMdRJWEAhVCQEsQpg</id>
+    <link href="https://mp.weixin.qq.com/s/mpPYsLMdRJWEAhVCQEsQpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大数据Spark企业级实战与Hadoop实战 | PDF&amp; PPT</title>
+    <updated>2021-01-06T12:50:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xbs96I_kTvJdwSwTvjeKig</id>
+    <link href="https://mp.weixin.qq.com/s/xbs96I_kTvJdwSwTvjeKig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内推：来自凯飞老师的大数据+算法岗</title>
+    <updated>2021-01-06T12:50:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/v5OqGIpJkqth1lzwfoL4fQ</id>
+    <link href="https://mp.weixin.qq.com/s/v5OqGIpJkqth1lzwfoL4fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink Forward Asia 2020 -- Keynote 总结</title>
     <updated>2021-01-05T20:16:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-31T19:52:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/WAkctvKHSo-y4_nlbGB7ug</id>
     <link href="https://mp.weixin.qq.com/s/WAkctvKHSo-y4_nlbGB7ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内推：阿里云实时计算部大数据岗</title>
-    <updated>2020-12-31T19:52:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/O92H6-h4wyQpmpm4sUJM6w</id>
-    <link href="https://mp.weixin.qq.com/s/O92H6-h4wyQpmpm4sUJM6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>达摩院基于元学习的对话系统</title>
-    <updated>2020-12-30T18:29:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Ji_-hTe5vwpnyu-whj3PXg</id>
-    <link href="https://mp.weixin.qq.com/s/Ji_-hTe5vwpnyu-whj3PXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看懂这个PPT合集的人据说都跳槽了。。。</title>
-    <updated>2020-12-30T18:29:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/xE-pHkq5-Sko1iE9QUDtEQ</id>
-    <link href="https://mp.weixin.qq.com/s/xE-pHkq5-Sko1iE9QUDtEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:44:37+08:00</updated>
+  <updated>2021-01-06T13:41:46+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>8h删！这波福利....请笑纳</title>
+    <updated>2021-01-06T12:13:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/dDcg7OPcXZFa_AafwdHCQQ</id>
+    <link href="https://mp.weixin.qq.com/s/dDcg7OPcXZFa_AafwdHCQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内存泄露，内存泄露，手把手教你快速定位！</title>
+    <updated>2021-01-06T12:13:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/k0sCokn5J1tZ5cPcmiVdHg</id>
+    <link href="https://mp.weixin.qq.com/s/k0sCokn5J1tZ5cPcmiVdHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>容易被轻视的主角，神奇的 SQL 之 HAVING</title>
     <updated>2021-01-05T09:05:34+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-12-27T20:03:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/Ha1cxMmu2ywqiapUTUFFVA</id>
     <link href="https://mp.weixin.qq.com/s/Ha1cxMmu2ywqiapUTUFFVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>史上最轻量​！阿里开源了新型单元测试Mock工具</title>
-    <updated>2020-12-26T09:10:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/JXciyLHYpPWAF5bpP108CA</id>
-    <link href="https://mp.weixin.qq.com/s/JXciyLHYpPWAF5bpP108CA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

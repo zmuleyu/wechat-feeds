@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:40:11+08:00</updated>
+  <updated>2021-01-06T13:35:04+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为了帮助剪辑小姐姐少熬夜，我用 Python 硬肝了一次短视频音频创作</title>
+    <updated>2021-01-06T10:22:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/x21Z5ttIylFzxH5A6GZpiA</id>
+    <link href="https://mp.weixin.qq.com/s/x21Z5ttIylFzxH5A6GZpiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我宣布，这是我找到的史上 AI 最全论文体系！</title>
     <updated>2021-01-04T20:33:15+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-23T23:04:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/sLo5jt8AAZhEbrWwHggZlg</id>
     <link href="https://mp.weixin.qq.com/s/sLo5jt8AAZhEbrWwHggZlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 中为什么不建议使用 time.sleep 实现定时功能？</title>
-    <updated>2020-12-22T19:46:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/HoqrQls_xmuXe7123AI4sQ</id>
-    <link href="https://mp.weixin.qq.com/s/HoqrQls_xmuXe7123AI4sQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

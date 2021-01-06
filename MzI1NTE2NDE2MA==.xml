@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cloud Native Community | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:33:13+08:00</updated>
+  <updated>2021-01-06T13:31:45+08:00</updated>
   <subtitle>云原生社区是一个企业中立的云原生终端用户社区，致力于推广云原生技术，构建开发者生态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>解读：云原生下的可观察性发展方向</title>
+    <updated>2021-01-06T12:01:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/4Hs-CC1CMBoaQkguHajN_A</id>
+    <link href="https://mp.weixin.qq.com/s/4Hs-CC1CMBoaQkguHajN_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>还在手写 Operator？是时候使用 Kubebuilder 了</title>
     <updated>2020-12-30T17:11:00+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-18T18:17:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/irc77nWpVXCiS_g7gd5XqA</id>
     <link href="https://mp.weixin.qq.com/s/irc77nWpVXCiS_g7gd5XqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生生态大会2020开幕在即</title>
-    <updated>2020-12-15T11:30:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/Dn3VyO8Dqy-REVeqmV_zaQ</id>
-    <link href="https://mp.weixin.qq.com/s/Dn3VyO8Dqy-REVeqmV_zaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生社区 meetup 第二期北京站倒计时 4 天</title>
-    <updated>2020-12-15T11:30:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/pbufM1TcrbnDkGHNvDlbNg</id>
-    <link href="https://mp.weixin.qq.com/s/pbufM1TcrbnDkGHNvDlbNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

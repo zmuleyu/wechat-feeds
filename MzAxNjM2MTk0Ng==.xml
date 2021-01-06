@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:30:44+08:00</updated>
+  <updated>2021-01-06T13:29:04+08:00</updated>
   <subtitle>码农的所思所悟，码农的百科全书，码农的知识星球。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java要凉？那是你不懂！</title>
+    <updated>2021-01-05T19:44:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/2owy0de5YWAXzILhbA93ng</id>
+    <link href="https://mp.weixin.qq.com/s/2owy0de5YWAXzILhbA93ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务架构下请求调用失败了怎么办?</title>
+    <updated>2021-01-05T19:44:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/RTn3Rsss2_RjmX7hETFrhA</id>
+    <link href="https://mp.weixin.qq.com/s/RTn3Rsss2_RjmX7hETFrhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太敏感！限时删除！！！</title>
     <updated>2021-01-04T21:17:56+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-12-28T22:22:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/KhAt5TXPdbsSc-ZxVY7J0A</id>
     <link href="https://mp.weixin.qq.com/s/KhAt5TXPdbsSc-ZxVY7J0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>老大甩给我 30G 文件，让我几天内全部导入到数据库</title>
-    <updated>2020-12-26T21:41:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/pvwJWf-IJM4VZNcjJK6V9w</id>
-    <link href="https://mp.weixin.qq.com/s/pvwJWf-IJM4VZNcjJK6V9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

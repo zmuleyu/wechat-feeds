@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:14:34+08:00</updated>
+  <updated>2021-01-06T13:24:01+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于 F5 和 Cilium 的 Kubernetes 集群网络架构设计</title>
+    <updated>2021-01-06T12:25:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/lr-usDIiiiClA1HjENSYQw</id>
+    <link href="https://mp.weixin.qq.com/s/lr-usDIiiiClA1HjENSYQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>手游项目运维迁移规划实践</title>
     <updated>2021-01-05T09:16:37+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-25T11:13:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/Y68AbF8yxVMqRcfXQ6iL5Q</id>
     <link href="https://mp.weixin.qq.com/s/Y68AbF8yxVMqRcfXQ6iL5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里、腾讯举大力做的 Serverless ，你了解多少？</title>
-    <updated>2020-12-24T17:02:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/5_S9WWWoRkNuXPqyRD4lQA</id>
-    <link href="https://mp.weixin.qq.com/s/5_S9WWWoRkNuXPqyRD4lQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KEDA 工作原理解析</title>
-    <updated>2020-12-24T17:02:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/WDApYOMTSCvU60aXHDO0fg</id>
-    <link href="https://mp.weixin.qq.com/s/WDApYOMTSCvU60aXHDO0fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

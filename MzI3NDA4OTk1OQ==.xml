@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:43:59+08:00</updated>
+  <updated>2021-01-06T13:40:59+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL 实现主从复制</title>
+    <updated>2021-01-05T17:19:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/p9oqd1JqRNWHzyII40Ik2w</id>
+    <link href="https://mp.weixin.qq.com/s/p9oqd1JqRNWHzyII40Ik2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL 慌了！这个分库分表方法论，要火了？</title>
     <updated>2021-01-04T21:31:08+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-21T17:40:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/y1oowtlE4dkXclCpAz-yCQ</id>
     <link href="https://mp.weixin.qq.com/s/y1oowtlE4dkXclCpAz-yCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>打钱！我的数据库被黑客勒索了！</title>
-    <updated>2020-12-20T17:01:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/JfVUpdXj-lJKIO0mCh3euQ</id>
-    <link href="https://mp.weixin.qq.com/s/JfVUpdXj-lJKIO0mCh3euQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

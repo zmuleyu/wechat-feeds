@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:48:11+08:00</updated>
+  <updated>2021-01-06T13:44:48+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>典型案例：一个数据平台的十二年架构演变历程</title>
+    <updated>2021-01-06T12:03:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xdR5t0QFBzTETc1MMFL7MQ</id>
+    <link href="https://mp.weixin.qq.com/s/xdR5t0QFBzTETc1MMFL7MQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生时代，电信运营商的微服务架构适用性</title>
+    <updated>2021-01-06T12:03:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/lSpXJQU5DzycWkGowaHE9w</id>
+    <link href="https://mp.weixin.qq.com/s/lSpXJQU5DzycWkGowaHE9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>解读容器的 2020：寻找云原生的下一站</title>
     <updated>2021-01-05T11:48:48+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-28T11:40:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/O1LbwEIzqxwyLDA3a_Ee_g</id>
     <link href="https://mp.weixin.qq.com/s/O1LbwEIzqxwyLDA3a_Ee_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>改变世界的五位程序员</title>
-    <updated>2020-12-26T21:48:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/UC-s4tBTJZfqTYA7gi03LQ</id>
-    <link href="https://mp.weixin.qq.com/s/UC-s4tBTJZfqTYA7gi03LQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务时代的调用链追踪系统设计 | InfoQ公开课</title>
-    <updated>2020-12-26T21:48:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/uPIBrGdpRaz6o8IvFkkpmQ</id>
-    <link href="https://mp.weixin.qq.com/s/uPIBrGdpRaz6o8IvFkkpmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

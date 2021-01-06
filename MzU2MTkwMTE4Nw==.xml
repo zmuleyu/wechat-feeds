@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:09:30+08:00</updated>
+  <updated>2021-01-06T13:47:37+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>内推字节的那个同学被HR卡学历了 T_T</title>
+    <updated>2021-01-06T10:14:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/h37vZkwcUPKur6a7XoF7sA</id>
+    <link href="https://mp.weixin.qq.com/s/h37vZkwcUPKur6a7XoF7sA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文详解负载均衡和反向代理的真实区别</title>
+    <updated>2021-01-06T10:14:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NSz9JsLSaD4jxjBSTywgFQ</id>
+    <link href="https://mp.weixin.qq.com/s/NSz9JsLSaD4jxjBSTywgFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>线程安全代码到底是怎么编写的？</title>
+    <updated>2021-01-06T10:14:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xCMbbGY0cqGsvKSL-RVoPg</id>
+    <link href="https://mp.weixin.qq.com/s/xCMbbGY0cqGsvKSL-RVoPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你知道du和df的统计结果为什么不一样</title>
+    <updated>2021-01-06T10:14:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ALyVaHfEfgPsT-N1KCGS3w</id>
+    <link href="https://mp.weixin.qq.com/s/ALyVaHfEfgPsT-N1KCGS3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我曾拼命逃离996</title>
     <updated>2021-01-05T09:16:15+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-31T10:47:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/PE8YEY-z7q1lPTKikreUOw</id>
     <link href="https://mp.weixin.qq.com/s/PE8YEY-z7q1lPTKikreUOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年底了，谈谈我玩知乎五年，赚了多少钱？</title>
-    <updated>2020-12-30T11:44:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/DpoJg7gS3RkA-PiqveoAHQ</id>
-    <link href="https://mp.weixin.qq.com/s/DpoJg7gS3RkA-PiqveoAHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>40岁C++没有中年危机</title>
-    <updated>2020-12-29T11:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/QcpgWbDbaQZEJqdDIMVrhg</id>
-    <link href="https://mp.weixin.qq.com/s/QcpgWbDbaQZEJqdDIMVrhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis持久化机制上手</title>
-    <updated>2020-12-29T11:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Dsz3D987BdyZt8G5PhfriQ</id>
-    <link href="https://mp.weixin.qq.com/s/Dsz3D987BdyZt8G5PhfriQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>监控系统选型解析</title>
-    <updated>2020-12-29T11:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/donTVjZFrkUFleswiJr-Bg</id>
-    <link href="https://mp.weixin.qq.com/s/donTVjZFrkUFleswiJr-Bg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

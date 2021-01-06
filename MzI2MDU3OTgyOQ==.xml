@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜索与推荐Wiki | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:42:22+08:00</updated>
+  <updated>2021-01-06T13:41:04+08:00</updated>
   <subtitle>专注于搜索和推荐系统，以系列分享为主，持续打造精品内容！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自学3年Python的我成了数据分析师，总结成一张思维导图</title>
+    <updated>2021-01-05T21:14:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/K1THWa7H-8BObZEJAUoQEQ</id>
+    <link href="https://mp.weixin.qq.com/s/K1THWa7H-8BObZEJAUoQEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>常见的200道机器学习&amp;深度学习面试题都在这里了，建议先码再看！</title>
     <updated>2021-01-04T20:30:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T18:20:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/A7BfRPRY30xlt3L0iXwG3g</id>
     <link href="https://mp.weixin.qq.com/s/A7BfRPRY30xlt3L0iXwG3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>论文｜Doc2vec的算法原理、代码实现及应用启发</title>
-    <updated>2020-12-14T22:32:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/eskrJxfgfF7xvWRmurz20A</id>
-    <link href="https://mp.weixin.qq.com/s/eskrJxfgfF7xvWRmurz20A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

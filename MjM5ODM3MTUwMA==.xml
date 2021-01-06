@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>哔哩哔哩 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:40:29+08:00</updated>
+  <updated>2021-01-06T13:35:21+08:00</updated>
   <subtitle>你感兴趣的视频，都在B站！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>B站老年UP主的快乐生活</title>
+    <updated>2021-01-06T11:47:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/38Hpo2KEJqaSV9sFFdg6MA</id>
+    <link href="https://mp.weixin.qq.com/s/38Hpo2KEJqaSV9sFFdg6MA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么说京阿尼是一家温柔的公司？</title>
     <updated>2021-01-05T12:07:31+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-25T20:16:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/gI8p83uu4ET7hGJMbr382g</id>
     <link href="https://mp.weixin.qq.com/s/gI8p83uu4ET7hGJMbr382g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>孙悟空才是真正的撩妹高手</title>
-    <updated>2020-12-25T12:09:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/6f7hzjRAXZcVI4Jcag0zFw</id>
-    <link href="https://mp.weixin.qq.com/s/6f7hzjRAXZcVI4Jcag0zFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来B站感受不一样的潮流！</title>
-    <updated>2020-12-25T12:09:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/s5PgtSszouJYPXpa2uT6lQ</id>
-    <link href="https://mp.weixin.qq.com/s/s5PgtSszouJYPXpa2uT6lQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

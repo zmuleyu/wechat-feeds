@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿天地 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:41:22+08:00</updated>
+  <updated>2021-01-06T13:39:52+08:00</updated>
   <subtitle>猿天地由《Spring Cloud微服务-全栈技术与案例解析》, 《Spring Cloud微服务 入门 实战与进阶》作者尹吉欢创建。 资深Java技术专家和微服务技术专家，在Spring Cloud和微服务方面有丰富的经验。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>爽啊！有Java电商经验的被抢着捞！新型电商疯狂崛起！</title>
+    <updated>2021-01-05T21:56:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/H_p-oacdW6OE6J3baLeWCQ</id>
+    <link href="https://mp.weixin.qq.com/s/H_p-oacdW6OE6J3baLeWCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 @Value 可以获取配置中心的值？</title>
+    <updated>2021-01-05T21:56:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/hjkVi2acMf_ItlMPPsGP_g</id>
+    <link href="https://mp.weixin.qq.com/s/hjkVi2acMf_ItlMPPsGP_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新的一年送粉丝新款笔记本电脑一台！</title>
     <updated>2021-01-05T09:34:16+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-24T11:19:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/74RSkqjniWRum28ZZiK3Mw</id>
     <link href="https://mp.weixin.qq.com/s/74RSkqjniWRum28ZZiK3Mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>天天CRUD的我，也想玩玩高大上的Prometheus</title>
-    <updated>2020-12-19T14:48:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/QoAs0-AYy8krWTa3HbmJZA</id>
-    <link href="https://mp.weixin.qq.com/s/QoAs0-AYy8krWTa3HbmJZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
