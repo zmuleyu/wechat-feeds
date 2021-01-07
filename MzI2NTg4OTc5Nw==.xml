@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码卫士 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:32:31+08:00</updated>
+  <updated>2021-01-07T16:38:56+08:00</updated>
   <subtitle>奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇安信代码安全实验室帮助谷歌修复 Chrome 沙箱外高危漏洞，获官方致谢</title>
+    <updated>2021-01-07T15:27:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/sxo4ejm2M3mIsx3wM8H9cg</id>
+    <link href="https://mp.weixin.qq.com/s/sxo4ejm2M3mIsx3wM8H9cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Git 仓库配置不当 日产北美公司的源代码遭泄露</title>
+    <updated>2021-01-07T15:27:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/-HgYw2_qQaHbbupMJrKBeA</id>
+    <link href="https://mp.weixin.qq.com/s/-HgYw2_qQaHbbupMJrKBeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js TLSWrap 实现中的释放后使用漏洞分析</title>
     <updated>2021-01-06T17:52:37+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-29T17:40:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/txL8pfPlmuerJTSHvQjUnQ</id>
     <link href="https://mp.weixin.qq.com/s/txL8pfPlmuerJTSHvQjUnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有人公开了Avast、McAfee 等杀软中的 8 个 0day</title>
-    <updated>2020-12-28T20:29:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/l1c-J6rr3u3IZGHopXiXIQ</id>
-    <link href="https://mp.weixin.qq.com/s/l1c-J6rr3u3IZGHopXiXIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FireEye动态：SolarWinds Orion 新 0day用于安装SUPERNOVA</title>
-    <updated>2020-12-28T20:29:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/YWWyUNSQmOaJ9y3eW0R56w</id>
-    <link href="https://mp.weixin.qq.com/s/YWWyUNSQmOaJ9y3eW0R56w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

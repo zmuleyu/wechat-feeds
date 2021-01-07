@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>此刻在天涯 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:35:54+08:00</updated>
+  <updated>2021-01-07T16:19:07+08:00</updated>
   <subtitle>诗人北岛创建的文化工作室。「此刻」，「在天涯」。天涯，在此刻。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>另一个 | 北岛</title>
+    <updated>2021-01-07T13:33:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/_3eyh6grNNw6UINiDoz5xg</id>
+    <link href="https://mp.weixin.qq.com/s/_3eyh6grNNw6UINiDoz5xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>忠诚 | 北岛</title>
     <updated>2021-01-05T11:17:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T14:31:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/k_uThbAFoY9SIzYjYu4Y_g</id>
     <link href="https://mp.weixin.qq.com/s/k_uThbAFoY9SIzYjYu4Y_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>毒药 | 北岛</title>
-    <updated>2020-12-15T12:06:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/41_8qo6ZjvAWFRpR2_Wybg</id>
-    <link href="https://mp.weixin.qq.com/s/41_8qo6ZjvAWFRpR2_Wybg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

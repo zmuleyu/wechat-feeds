@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:13:52+08:00</updated>
+  <updated>2021-01-07T16:24:19+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go+，下一个十年</title>
+    <updated>2021-01-07T14:34:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/OASpRWq--YBr61e0tvykQg</id>
+    <link href="https://mp.weixin.qq.com/s/OASpRWq--YBr61e0tvykQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GO 编程模式系列（三）：FUNCTIONAL OPTIONS</title>
     <updated>2021-01-06T18:09:57+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-21T17:41:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/l3rm44oHq27vv5RFeq4sXA</id>
     <link href="https://mp.weixin.qq.com/s/l3rm44oHq27vv5RFeq4sXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go on ARM和未来，Apple M1 支持来了</title>
-    <updated>2020-12-18T14:27:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/Et9haBeLwr5lcpsZRVVFJw</id>
-    <link href="https://mp.weixin.qq.com/s/Et9haBeLwr5lcpsZRVVFJw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

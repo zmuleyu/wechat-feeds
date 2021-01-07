@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>金融级分布式架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:40:16+08:00</updated>
+  <updated>2021-01-07T16:45:29+08:00</updated>
   <subtitle>致力于打造一流的分布式技术在金融场景应用实践的技术交流平台，专注于交流金融科技行业内最前沿、可供参考的技术方案与实施路线。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SOFAEnclave：蚂蚁机密计算如何解决现实挑战？</title>
+    <updated>2021-01-07T16:13:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/DXnuKdhdzoau8PyES70sAQ</id>
+    <link href="https://mp.weixin.qq.com/s/DXnuKdhdzoau8PyES70sAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SOFA Weekly | SOFA 社区元旦快乐，MOSN 荣获 2020 中国优秀开源项目</title>
     <updated>2020-12-31T16:30:17+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-06T16:18:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/1AQpP0x7eSPgAKWN6qV76w</id>
     <link href="https://mp.weixin.qq.com/s/1AQpP0x7eSPgAKWN6qV76w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SOFA Weekly | MOSN 项目更新及直播预告</title>
-    <updated>2020-10-30T17:13:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/J4ZwyErVpDcS4ggCdivwDQ</id>
-    <link href="https://mp.weixin.qq.com/s/J4ZwyErVpDcS4ggCdivwDQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员内点事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-02T20:10:00+08:00</updated>
+  <updated>2021-01-07T16:19:38+08:00</updated>
   <subtitle>专注于系统架构实战，面试干货分享，Java小白的入门布道，程序员内点事这都有</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>MySQL不会丢失数据的秘密，就藏在它的 7种日志里</title>
+    <updated>2021-01-07T12:42:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/-v6CHvvAwtuznG-bzZKQ0w</id>
+    <link href="https://mp.weixin.qq.com/s/-v6CHvvAwtuznG-bzZKQ0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>为啥Kafka能支撑百万级TPS ? 其实都归功于这些特性</title>
     <updated>2021-01-02T16:01:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/TPPRSxDPZfT8jdlbigZhFw</id>
     <link href="https://mp.weixin.qq.com/s/TPPRSxDPZfT8jdlbigZhFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>包邮 送 40 本书</title>
-    <updated>2021-01-02T16:01:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/QLG3suVHj2tPDIbhNm3KYg</id>
-    <link href="https://mp.weixin.qq.com/s/QLG3suVHj2tPDIbhNm3KYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +75,6 @@
     <updated>2020-11-19T11:30:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/9W_NUXojzPcZrl4Ux5hDpw</id>
     <link href="https://mp.weixin.qq.com/s/9W_NUXojzPcZrl4Ux5hDpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 基础夺命连环16问（面试硬核敲门砖 ）</title>
-    <updated>2020-11-12T18:20:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/g2PjQoUz6wWmmtmcT6Elzw</id>
-    <link href="https://mp.weixin.qq.com/s/g2PjQoUz6wWmmtmcT6Elzw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
