@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:31:13+08:00</updated>
+  <updated>2021-01-07T20:21:52+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫谈千亿级数据优化实践：数据倾斜</title>
+    <updated>2021-01-07T09:21:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Yx85Y63qF8hqInLhM_uPRw</id>
+    <link href="https://mp.weixin.qq.com/s/Yx85Y63qF8hqInLhM_uPRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深渊之刃 | Greenplum数据库之拉链表的实现</title>
+    <updated>2021-01-07T09:21:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/5HYa6vojMeZtdSm-NqLMtA</id>
+    <link href="https://mp.weixin.qq.com/s/5HYa6vojMeZtdSm-NqLMtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何搭建一个PB级大数据中台？我之前是这么搞的！</title>
     <updated>2021-01-05T22:31:19+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-12-28T22:45:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/H3M47yZ-n8VASpGS9V_gWw</id>
     <link href="https://mp.weixin.qq.com/s/H3M47yZ-n8VASpGS9V_gWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ElasticSearch 亿级数据检索深度优化！</title>
-    <updated>2020-12-28T00:07:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Tpbq31KogG2T2qo7qLmsJA</id>
-    <link href="https://mp.weixin.qq.com/s/Tpbq31KogG2T2qo7qLmsJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

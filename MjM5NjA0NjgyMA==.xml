@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:32:17+08:00</updated>
+  <updated>2021-01-07T20:24:01+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>企业FRP安全实践</title>
+    <updated>2021-01-07T17:58:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/QqzZaZyZnVnIm34IHPrc4A</id>
+    <link href="https://mp.weixin.qq.com/s/QqzZaZyZnVnIm34IHPrc4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Facebook Messenger向第三方应用泄露用户访问令牌</title>
+    <updated>2021-01-07T17:58:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/BD63G_uGqSzyD7i_PTt0VQ</id>
+    <link href="https://mp.weixin.qq.com/s/BD63G_uGqSzyD7i_PTt0VQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于fiddler插件的代理扫描系统：越权漏洞检测</title>
+    <updated>2021-01-07T17:58:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/nqo8hX0wv2wgD_BDZvURug</id>
+    <link href="https://mp.weixin.qq.com/s/nqo8hX0wv2wgD_BDZvURug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Bash Shell的一个审计脚本</title>
+    <updated>2021-01-07T17:58:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lzHAAlYxqcalmQK7ZsFDKA</id>
+    <link href="https://mp.weixin.qq.com/s/lzHAAlYxqcalmQK7ZsFDKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>威胁诱捕类产品（蜜罐）能力评测邀请 | 中国信通院安全研究所&amp;FreeBuf咨询</title>
     <updated>2021-01-06T18:24:21+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-03T12:11:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/LX8ul6KhTigrUn5Zs1TAFA</id>
     <link href="https://mp.weixin.qq.com/s/LX8ul6KhTigrUn5Zs1TAFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据安全运营视角下的数据资产安全治理</title>
-    <updated>2021-01-02T18:41:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/89ZIQH5OMab3s4r45L9y0w</id>
-    <link href="https://mp.weixin.qq.com/s/89ZIQH5OMab3s4r45L9y0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring全家桶各类RCE漏洞浅析</title>
-    <updated>2021-01-02T18:41:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/g3FKo1FkUEVdN8x2OM1H_Q</id>
-    <link href="https://mp.weixin.qq.com/s/g3FKo1FkUEVdN8x2OM1H_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>安全研究 | 如何使用Pytmipe实现Windows上的令牌篡改和提权</title>
-    <updated>2021-01-02T18:41:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/FQlbrwg6bnpCU_1skwZW4g</id>
-    <link href="https://mp.weixin.qq.com/s/FQlbrwg6bnpCU_1skwZW4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tracee：如何使用eBPF来追踪容器和系统事件</title>
-    <updated>2021-01-02T18:41:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/u9Z137vVk15y2kYkzXrIEA</id>
-    <link href="https://mp.weixin.qq.com/s/u9Z137vVk15y2kYkzXrIEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cloud Native Community | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:31:45+08:00</updated>
+  <updated>2021-01-07T20:24:34+08:00</updated>
   <subtitle>云原生社区是一个企业中立的云原生终端用户社区，致力于推广云原生技术，构建开发者生态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>直播预告 | Envoy/Istio WebAssembly 扩展实现原理</title>
+    <updated>2021-01-07T15:32:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/9NNWxuPL0DBDHk72d-s5SA</id>
+    <link href="https://mp.weixin.qq.com/s/9NNWxuPL0DBDHk72d-s5SA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>解读：云原生下的可观察性发展方向</title>
     <updated>2021-01-06T12:01:11+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-21T18:06:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/9IJupDrsQ7zwQ5drQy5xDw</id>
     <link href="https://mp.weixin.qq.com/s/9IJupDrsQ7zwQ5drQy5xDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生社区 meetup 第二期北京站参会通知</title>
-    <updated>2020-12-18T18:17:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/irc77nWpVXCiS_g7gd5XqA</id>
-    <link href="https://mp.weixin.qq.com/s/irc77nWpVXCiS_g7gd5XqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

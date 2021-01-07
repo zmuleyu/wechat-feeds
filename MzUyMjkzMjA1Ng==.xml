@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:19:52+08:00</updated>
+  <updated>2021-01-07T20:24:05+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货分享 | 深度解析云原生消息队列 AMQP</title>
+    <updated>2021-01-07T18:33:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/zXk0rKPpt_KIUUOxQ5LyIg</id>
+    <link href="https://mp.weixin.qq.com/s/zXk0rKPpt_KIUUOxQ5LyIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pulsar 社区周报｜ 2020-12-28 ~ 2021-01-03</title>
+    <updated>2021-01-07T18:33:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/yIvmcdRNudSTNBBKMv-qMw</id>
+    <link href="https://mp.weixin.qq.com/s/yIvmcdRNudSTNBBKMv-qMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pulsar Committer |  Apache Pulsar 迎接新 Committer 成员林琳</title>
     <updated>2021-01-06T14:43:07+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2020-12-25T17:15:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/xP8um80d_GntX4FNTiYhnA</id>
     <link href="https://mp.weixin.qq.com/s/xP8um80d_GntX4FNTiYhnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pulsar 社区周报｜ 2020-12-12 ~ 2020-12.18</title>
-    <updated>2020-12-24T18:30:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/QAVwXrTtz5m4CKy_pMxHqw</id>
-    <link href="https://mp.weixin.qq.com/s/QAVwXrTtz5m4CKy_pMxHqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>共塑 Pulsar 未来，抽取 Pulsar 周边</title>
-    <updated>2020-12-24T18:30:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/u2ZHebPpQdIaCBhRQhgluA</id>
-    <link href="https://mp.weixin.qq.com/s/u2ZHebPpQdIaCBhRQhgluA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

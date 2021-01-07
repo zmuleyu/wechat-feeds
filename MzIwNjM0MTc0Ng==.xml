@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:35:09+08:00</updated>
+  <updated>2021-01-07T20:36:47+08:00</updated>
   <subtitle>分享数据分析、大数据技术、数仓建设相关的技术、方法论、案例、解决方案</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>怎么做好大数据安全访问管控？彭文华</title>
+    <updated>2021-01-06T20:52:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/we-ouxZjud94aM6O21WXDQ</id>
+    <link href="https://mp.weixin.qq.com/s/we-ouxZjud94aM6O21WXDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>怎么给大爷讲清楚“什么是大数据”？彭文华</title>
     <updated>2021-01-05T21:11:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T09:08:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/Ph7HJ-AoLlq3Qou1PC-S5w</id>
     <link href="https://mp.weixin.qq.com/s/Ph7HJ-AoLlq3Qou1PC-S5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手摸手搭建一个实时数据仓库[坏笑]</title>
-    <updated>2020-12-16T15:34:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/byAZSyC0ZWLHd_UIxfwkhA</id>
-    <link href="https://mp.weixin.qq.com/s/byAZSyC0ZWLHd_UIxfwkhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

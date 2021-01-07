@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TalkWithMobile | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:55:24+08:00</updated>
+  <updated>2021-01-07T20:39:15+08:00</updated>
   <subtitle>主要关注移动端，发技术文章新闻，由@Gemini运营</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊 APK —— AAR 的合并进 APK</title>
+    <updated>2021-01-07T19:50:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/GjefguUkNMsj2a05siuj1Q</id>
+    <link href="https://mp.weixin.qq.com/s/GjefguUkNMsj2a05siuj1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Webview.apk —— Google 官方的私有插件化方案</title>
     <updated>2020-07-12T09:15:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2019-11-07T11:01:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2019-11-07:/s/IK1AbWbAHG1wPUq7YOL6kw</id>
     <link href="https://mp.weixin.qq.com/s/IK1AbWbAHG1wPUq7YOL6kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gradle Builds Everything —— 基础概念</title>
-    <updated>2019-11-06T08:18:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2019-11-06:/s/EY1NYUU6T1B1c3M5S4bp_Q</id>
-    <link href="https://mp.weixin.qq.com/s/EY1NYUU6T1B1c3M5S4bp_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

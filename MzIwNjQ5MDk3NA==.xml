@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP开源社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:16:35+08:00</updated>
+  <updated>2021-01-07T20:17:18+08:00</updated>
   <subtitle>免费提供10GPHP进阶架构师学习教程，关注即可免费领取。每天推送PHP最新资讯技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万字详解！Git 入门最佳实践</title>
+    <updated>2021-01-07T14:15:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/DiZUH2lcaV3oT14bge2i1w</id>
+    <link href="https://mp.weixin.qq.com/s/DiZUH2lcaV3oT14bge2i1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>监控、链路追踪、日志的区别，傻傻分不清？</title>
+    <updated>2021-01-07T14:15:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/4wL5xuRpIO_06_ck5xWImA</id>
+    <link href="https://mp.weixin.qq.com/s/4wL5xuRpIO_06_ck5xWImA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>审计 Linux 系统的操作行为的 5 种方案对比</title>
     <updated>2021-01-06T15:37:42+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-27T13:59:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/5v5qtKztO4x0b2rDNxOQ6Q</id>
     <link href="https://mp.weixin.qq.com/s/5v5qtKztO4x0b2rDNxOQ6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>12月全国程序员平均工资出炉，你有没有拖后腿？</title>
-    <updated>2020-12-26T16:54:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/kp7eyoQK98K5GlZdC-o8-Q</id>
-    <link href="https://mp.weixin.qq.com/s/kp7eyoQK98K5GlZdC-o8-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这满屏的 if/ else，交接的兄弟快被逼疯！</title>
-    <updated>2020-12-26T16:54:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/eMMcyStcUntSGCEknVhMgw</id>
-    <link href="https://mp.weixin.qq.com/s/eMMcyStcUntSGCEknVhMgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:30:14+08:00</updated>
+  <updated>2021-01-07T20:36:43+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Serverless 在 SaaS 领域的最佳实践</title>
+    <updated>2021-01-07T16:57:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ngRKlpL_I_APLDnF7vXFaA</id>
+    <link href="https://mp.weixin.qq.com/s/ngRKlpL_I_APLDnF7vXFaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见 2020！Apache RocketMQ 发布 4.8.0，DLedger 模式全面提升！</title>
     <updated>2021-01-06T18:20:44+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-28T18:00:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/nShELZj8rjeeWRh_zuSbFw</id>
     <link href="https://mp.weixin.qq.com/s/nShELZj8rjeeWRh_zuSbFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你真的会学习吗？从结构化思维说起</title>
-    <updated>2020-12-25T20:54:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/qoaq8likU7W-ff113hhdJQ</id>
-    <link href="https://mp.weixin.qq.com/s/qoaq8likU7W-ff113hhdJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>绿盟科技研究通讯 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:24:26+08:00</updated>
+  <updated>2021-01-07T20:27:07+08:00</updated>
   <subtitle>绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>k0otkit: Hack K8s in a K8s Way</title>
+    <updated>2021-01-06T14:26:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/H48WNRRtlJil9uLt-O9asw</id>
+    <link href="https://mp.weixin.qq.com/s/H48WNRRtlJil9uLt-O9asw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AISecOps白皮书精华解读之背景内涵篇</title>
     <updated>2021-01-05T15:59:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T14:16:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/vjxVREXQEdrMLmSwCdTLmQ</id>
     <link href="https://mp.weixin.qq.com/s/vjxVREXQEdrMLmSwCdTLmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云安全的下半场：原生安全</title>
-    <updated>2020-12-17T12:21:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/OoaWFJgJkZwDTm7usSoxJQ</id>
-    <link href="https://mp.weixin.qq.com/s/OoaWFJgJkZwDTm7usSoxJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

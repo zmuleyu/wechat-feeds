@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>长亭安全课堂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:32:39+08:00</updated>
+  <updated>2021-01-07T20:36:39+08:00</updated>
   <subtitle>长亭科技专注于为企业提供网络安全解决方案。分享专业的网络安全知识，网络威胁情报。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>区块链金融借贷平台WarpFinance 500万美元损失攻击事件分析</title>
+    <updated>2021-01-07T16:17:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/YXRATmsHMpE2N62N9wKCQg</id>
+    <link href="https://mp.weixin.qq.com/s/YXRATmsHMpE2N62N9wKCQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漏洞风险提示 | Apache Flink 目录穿越漏洞（CVE-2020-17518/CVE-2020-17519）</title>
     <updated>2021-01-06T18:59:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-04T17:18:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/k-wY5G2iqZ82e-f9fwjUbA</id>
     <link href="https://mp.weixin.qq.com/s/k-wY5G2iqZ82e-f9fwjUbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漏洞风险提示 | WebLogic Console 权限认证绕过漏洞 CVE-2020-14750</title>
-    <updated>2020-11-02T20:09:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/1cZQfjC5C6b2P-xbt760uQ</id>
-    <link href="https://mp.weixin.qq.com/s/1cZQfjC5C6b2P-xbt760uQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

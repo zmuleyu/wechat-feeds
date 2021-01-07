@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:20:18+08:00</updated>
+  <updated>2021-01-07T20:38:33+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务架构 10 个最重要的设计模式</title>
+    <updated>2021-01-07T20:00:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/wXlRZw15R1kf5KFshodu-w</id>
+    <link href="https://mp.weixin.qq.com/s/wXlRZw15R1kf5KFshodu-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 | 工程师职级胜任力框架</title>
+    <updated>2021-01-07T20:00:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/RFMvZS6EIARxWBk6TtVfVQ</id>
+    <link href="https://mp.weixin.qq.com/s/RFMvZS6EIARxWBk6TtVfVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>支撑 700 亿数据量的 ClickHouse 高可用架构实践</title>
     <updated>2021-01-06T19:00:22+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-24T20:00:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/qxjZF30NCz_eyo4L5o-8UQ</id>
     <link href="https://mp.weixin.qq.com/s/qxjZF30NCz_eyo4L5o-8UQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>英雄联盟 Go 语言实战分享</title>
-    <updated>2020-12-22T20:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/kVaAgFg1LliwTvBcisL3zQ</id>
-    <link href="https://mp.weixin.qq.com/s/kVaAgFg1LliwTvBcisL3zQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 滴滴开源的基于 Jacoco、git 二次开发打造的一站式 Java 代码全量/diff 覆盖率收集平台</title>
-    <updated>2020-12-22T20:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/UuWj9CwlnmCMxoMaxc2ovw</id>
-    <link href="https://mp.weixin.qq.com/s/UuWj9CwlnmCMxoMaxc2ovw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

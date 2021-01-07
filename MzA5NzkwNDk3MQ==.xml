@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:19:37+08:00</updated>
+  <updated>2021-01-07T20:38:06+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>node_modules 困境</title>
+    <updated>2021-01-07T19:52:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/9FZhxSz0WUgeiM49PCCU1w</id>
+    <link href="https://mp.weixin.qq.com/s/9FZhxSz0WUgeiM49PCCU1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团- 招高级iOS开发工程师</title>
+    <updated>2021-01-07T19:52:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/tIrr2hZC4ZQ8FTXb1kDjyA</id>
+    <link href="https://mp.weixin.qq.com/s/tIrr2hZC4ZQ8FTXb1kDjyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2021-01-07T19:52:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/LwwMT6GPTz-yt7P9BWik-A</id>
+    <link href="https://mp.weixin.qq.com/s/LwwMT6GPTz-yt7P9BWik-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>可视化拖拽组件库一些技术要点原理分析</title>
     <updated>2021-01-06T14:24:20+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-28T19:23:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/SbD4EnnFp_Cx4z_zYqBWcA</id>
     <link href="https://mp.weixin.qq.com/s/SbD4EnnFp_Cx4z_zYqBWcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团- 招高级iOS开发工程师</title>
-    <updated>2020-12-28T19:23:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/HhgRIf1_tZUPdisax8ObHA</id>
-    <link href="https://mp.weixin.qq.com/s/HhgRIf1_tZUPdisax8ObHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-12-28T19:23:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/yCuJ62kcfDZZlbnzII-evQ</id>
-    <link href="https://mp.weixin.qq.com/s/yCuJ62kcfDZZlbnzII-evQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞周刊第 378 期：2020 年大前端技术趋势解读</title>
-    <updated>2020-12-25T18:36:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Y0Ok8YrY11lWUai-TFDtEg</id>
-    <link href="https://mp.weixin.qq.com/s/Y0Ok8YrY11lWUai-TFDtEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

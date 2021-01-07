@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>携程技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:51:26+08:00</updated>
+  <updated>2021-01-07T20:36:09+08:00</updated>
   <subtitle>携程技术官方账号，分享交流成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货 | CrateDb在携程机票BI的实践</title>
+    <updated>2021-01-07T14:26:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/8mLllQZq6E0eePutkr_L1A</id>
+    <link href="https://mp.weixin.qq.com/s/8mLllQZq6E0eePutkr_L1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>沙龙回看 | 携程技术沙龙——前端测试技术创新与实践</title>
+    <updated>2021-01-07T14:26:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/wXSmAh50aH_7E9W7eFkU-Q</id>
+    <link href="https://mp.weixin.qq.com/s/wXSmAh50aH_7E9W7eFkU-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干货 | 携程Redis治理演进之路（二）</title>
     <updated>2020-12-24T17:33:28+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-05T16:47:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/2PRX_vVhi3SygrZydBfG6w</id>
     <link href="https://mp.weixin.qq.com/s/2PRX_vVhi3SygrZydBfG6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | PID算法在广告成本控制领域的应用</title>
-    <updated>2020-11-05T16:47:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/4iX1hB_f8zQYrG0EQ2u3wA</id>
-    <link href="https://mp.weixin.qq.com/s/4iX1hB_f8zQYrG0EQ2u3wA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播报名 | 携程技术沙龙大数据与AI技术实践</title>
-    <updated>2020-11-05T16:47:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/pt1etJKMfNhtWY087oEtKA</id>
-    <link href="https://mp.weixin.qq.com/s/pt1etJKMfNhtWY087oEtKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

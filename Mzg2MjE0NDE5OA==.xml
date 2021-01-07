@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:35:22+08:00</updated>
+  <updated>2021-01-07T20:12:48+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN：Linux 5.11 合并窗口第一部分！</title>
+    <updated>2021-01-07T12:03:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/YwTYw8twxd2uE3jXOI_3Yw</id>
+    <link href="https://mp.weixin.qq.com/s/YwTYw8twxd2uE3jXOI_3Yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: Fedora和各种edition！</title>
     <updated>2021-01-06T13:34:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T10:58:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/MoA_afMOjXVEPtoqmS6TmQ</id>
     <link href="https://mp.weixin.qq.com/s/MoA_afMOjXVEPtoqmS6TmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: 用DMEMFS来更高效地管理部分内存！</title>
-    <updated>2020-12-21T09:50:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/vOgXzfsPa01xLzBvpMIm0w</id>
-    <link href="https://mp.weixin.qq.com/s/vOgXzfsPa01xLzBvpMIm0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

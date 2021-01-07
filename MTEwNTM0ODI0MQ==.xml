@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯大讲堂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:16:44+08:00</updated>
+  <updated>2021-01-07T20:17:26+08:00</updated>
   <subtitle>给成长加点料！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【干货】腾讯微卡开放指南-让你的App、小程序拥有专属的电子卡能力</title>
+    <updated>2021-01-07T18:42:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/qrQ4MG-fCRDy1wj7IzRB_Q</id>
+    <link href="https://mp.weixin.qq.com/s/qrQ4MG-fCRDy1wj7IzRB_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>巧用腾讯问卷逻辑语言DSL，复杂问卷逻辑不再愁</title>
     <updated>2021-01-06T18:46:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T18:21:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/5lz33Ny_PT38v2U-CtSDjA</id>
     <link href="https://mp.weixin.qq.com/s/5lz33Ny_PT38v2U-CtSDjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“关注”漫谈——对产品设计中“关注”功能的思考</title>
-    <updated>2020-12-24T18:12:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/yQbyx723mpQIDXq4-YQUhw</id>
-    <link href="https://mp.weixin.qq.com/s/yQbyx723mpQIDXq4-YQUhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

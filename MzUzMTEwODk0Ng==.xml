@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:28:22+08:00</updated>
+  <updated>2021-01-07T20:23:32+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Seurat Weekly NO.06 || Scanpy2Seurat</title>
+    <updated>2021-01-07T20:09:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/1rYAGlpDFkeAeY1zeUWnWg</id>
+    <link href="https://mp.weixin.qq.com/s/1rYAGlpDFkeAeY1zeUWnWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ggplot2快速入门</title>
     <updated>2021-01-06T21:28:59+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-28T15:36:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/sF6jYWxFKtPVws97zerQbg</id>
     <link href="https://mp.weixin.qq.com/s/sF6jYWxFKtPVws97zerQbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>构建单细胞亚群网络（类似于细胞通讯分析）</title>
-    <updated>2020-12-28T15:33:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3AL-oWi9zS40Lm9h5VT0Zg</id>
-    <link href="https://mp.weixin.qq.com/s/3AL-oWi9zS40Lm9h5VT0Zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>细胞通讯分析结果的解读</title>
-    <updated>2020-12-28T15:33:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/d-8NuIMyryXA7R_H4C3tnw</id>
-    <link href="https://mp.weixin.qq.com/s/d-8NuIMyryXA7R_H4C3tnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
