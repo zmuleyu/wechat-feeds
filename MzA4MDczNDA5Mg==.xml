@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>KK架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:54:07+08:00</updated>
+  <updated>2021-01-07T23:34:06+08:00</updated>
   <subtitle>大数据技术与架构方向，一个有深度，有情怀，有趣的公众号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink SQL 核心概念剖析与编程案例实战</title>
+    <updated>2021-01-07T23:26:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/eLiPK0vS-bJtb4znLYOgMQ</id>
+    <link href="https://mp.weixin.qq.com/s/eLiPK0vS-bJtb4znLYOgMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink Table API/SQL 是如何变成程序运行的</title>
     <updated>2020-12-26T23:55:43+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-29T16:57:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/ylK5j9Q8DgYcdIL5vbBHfQ</id>
     <link href="https://mp.weixin.qq.com/s/ylK5j9Q8DgYcdIL5vbBHfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大数据快速入门（10）：Hive窗口函数</title>
-    <updated>2020-11-07T16:35:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/9mVgm1DdnTBcZ6bOxzQF0g</id>
-    <link href="https://mp.weixin.qq.com/s/9mVgm1DdnTBcZ6bOxzQF0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

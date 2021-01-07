@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>未闻Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:48:45+08:00</updated>
+  <updated>2021-01-07T23:30:11+08:00</updated>
   <subtitle>博主喜欢Python和爬虫，已经出了两本书。这里是他灵感的发源地。关注这个公众号，你的生产效率在三天内就会得到提高。P.S.: 这个公众号日更。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一日一技：如何处理配置文件中的重复值？</title>
+    <updated>2021-01-07T20:37:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/I4Uyw8Zrkf7bwzbyR8dE_A</id>
+    <link href="https://mp.weixin.qq.com/s/I4Uyw8Zrkf7bwzbyR8dE_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一日两计：各种符号转数字与快速获取 IP</title>
     <updated>2021-01-05T20:58:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T21:13:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/wTL0WepOeX7oQq1uj02U6Q</id>
     <link href="https://mp.weixin.qq.com/s/wTL0WepOeX7oQq1uj02U6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一日一技：如何写出更稳定的Python 代码？</title>
-    <updated>2020-12-18T22:24:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/O2fnNXrBEwmXSc6q2asygw</id>
-    <link href="https://mp.weixin.qq.com/s/O2fnNXrBEwmXSc6q2asygw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

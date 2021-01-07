@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T16:26:32+08:00</updated>
+  <updated>2021-01-07T23:31:56+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>4 种主流的API架构风格对比</title>
+    <updated>2021-01-07T22:04:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/JXI_402EbGdrjX-REiJDcg</id>
+    <link href="https://mp.weixin.qq.com/s/JXI_402EbGdrjX-REiJDcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>重写 500 Lines or Less 项目 - A Simple Object Model</title>
     <updated>2021-01-04T21:15:12+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-27T21:28:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/ESFLCswIXuGWoyJSuS-oQw</id>
     <link href="https://mp.weixin.qq.com/s/ESFLCswIXuGWoyJSuS-oQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>揭开Python对象的神秘面纱！</title>
-    <updated>2020-12-25T21:49:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/4oI9M1z-2o8IIEbf2LCQbg</id>
-    <link href="https://mp.weixin.qq.com/s/4oI9M1z-2o8IIEbf2LCQbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

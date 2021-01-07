@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI启蒙者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:36:46+08:00</updated>
+  <updated>2021-01-07T23:18:28+08:00</updated>
   <subtitle>专注于AI工业级应用案例分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>联盟广告平台架构及实践</title>
+    <updated>2021-01-07T20:20:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ns0GtvI0NDFAZf-Q1TlYbA</id>
+    <link href="https://mp.weixin.qq.com/s/ns0GtvI0NDFAZf-Q1TlYbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Angle在腾讯云TI-ONE机器学习平台上的应用</title>
     <updated>2021-01-05T20:11:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T21:07:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/ojC33RsSd4cr4E5RoNBVIA</id>
     <link href="https://mp.weixin.qq.com/s/ojC33RsSd4cr4E5RoNBVIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DataFunTalk年终大会：回顾2020年大数据与AI的最新技术实践</title>
-    <updated>2020-12-18T20:50:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/WGOlYxm8aKbSIkdPmxwinw</id>
-    <link href="https://mp.weixin.qq.com/s/WGOlYxm8aKbSIkdPmxwinw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

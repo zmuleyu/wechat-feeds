@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:38:07+08:00</updated>
+  <updated>2021-01-07T23:20:19+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>搞懂 Vision Transformer 原理和代码，看这篇技术综述就够了</title>
+    <updated>2021-01-07T22:06:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/hn4EMcVJuBSjfGxJ_qM3Tw</id>
+    <link href="https://mp.weixin.qq.com/s/hn4EMcVJuBSjfGxJ_qM3Tw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SGD有多种改进的形式，为什么大多数论文中仍然用SGD？</title>
+    <updated>2021-01-07T22:06:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/M9ZxbRQS8hMuyVCwpodvFA</id>
+    <link href="https://mp.weixin.qq.com/s/M9ZxbRQS8hMuyVCwpodvFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MRAN：简单而有效的多表示迁移网络结构</title>
+    <updated>2021-01-07T22:06:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7cllDqfYfZso86CNUrCe7A</id>
+    <link href="https://mp.weixin.qq.com/s/7cllDqfYfZso86CNUrCe7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020年度arXiv十大热门论文来了！YOLOv4、SimCLR和GPT-3均上榜</title>
+    <updated>2021-01-07T22:06:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/C02rI2_LkmwDV61dWgf3PQ</id>
+    <link href="https://mp.weixin.qq.com/s/C02rI2_LkmwDV61dWgf3PQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>综述：图像滤波常用算法实现及原理解析</title>
     <updated>2021-01-06T21:56:23+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-03T21:57:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/cftZcYyg2vq7D1WUTIgyGg</id>
     <link href="https://mp.weixin.qq.com/s/cftZcYyg2vq7D1WUTIgyGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>令人“细思极恐”的Faster-R-CNN</title>
-    <updated>2021-01-02T22:06:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/yMg_WNMQwpjcJgZYwvzXjA</id>
-    <link href="https://mp.weixin.qq.com/s/yMg_WNMQwpjcJgZYwvzXjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从频率角度理解为什么深度可以加速神经网络的训练</title>
-    <updated>2021-01-02T22:06:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/Mgm9A_880m6PAql5qlZFjw</id>
-    <link href="https://mp.weixin.qq.com/s/Mgm9A_880m6PAql5qlZFjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习模型压缩与加速综述</title>
-    <updated>2021-01-02T22:06:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/XER31_QXG-kcwpu8gOL4WA</id>
-    <link href="https://mp.weixin.qq.com/s/XER31_QXG-kcwpu8gOL4WA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>四万字全面详解 | 深度学习中的注意力机制（下）</title>
-    <updated>2021-01-01T21:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/K9p26LbD5ClkNwVl3GcETA</id>
-    <link href="https://mp.weixin.qq.com/s/K9p26LbD5ClkNwVl3GcETA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

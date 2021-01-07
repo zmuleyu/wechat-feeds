@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生CTO | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:52:21+08:00</updated>
+  <updated>2021-01-07T23:32:39+08:00</updated>
   <subtitle>热衷于云原生技术K8s、docker、devops、gitops、Go分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何高效管理kubernetes节点资源</title>
+    <updated>2021-01-07T22:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/00PQeZ0Oz-qkLSHCX97rVg</id>
+    <link href="https://mp.weixin.qq.com/s/00PQeZ0Oz-qkLSHCX97rVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在kubernetes部署与发布go应用程序</title>
     <updated>2020-12-26T22:28:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-19T23:28:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/rMY7iUmMhwk6qa9Wt_DAGg</id>
     <link href="https://mp.weixin.qq.com/s/rMY7iUmMhwk6qa9Wt_DAGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Knative在Kubernetes上实现无服务器</title>
-    <updated>2020-11-18T23:15:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/sTByMtA6JXROFw9lIgQovA</id>
-    <link href="https://mp.weixin.qq.com/s/sTByMtA6JXROFw9lIgQovA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

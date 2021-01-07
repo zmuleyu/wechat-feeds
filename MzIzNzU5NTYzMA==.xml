@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:38:27+08:00</updated>
+  <updated>2021-01-07T23:13:10+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes生产环境最佳实践</title>
+    <updated>2021-01-07T17:22:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/wOvLkPQHn2XExRAqMmZWxA</id>
+    <link href="https://mp.weixin.qq.com/s/wOvLkPQHn2XExRAqMmZWxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>边缘计算安全技术概述</title>
     <updated>2021-01-06T16:33:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T20:41:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/HS6RzzqztBJsHQX7P5T5ww</id>
     <link href="https://mp.weixin.qq.com/s/HS6RzzqztBJsHQX7P5T5ww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为云云原生基础设施来帮忙，农作物基因测序不再难</title>
-    <updated>2020-12-23T18:11:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/-CMm-DV6jH-rVaaOE3Rr-Q</id>
-    <link href="https://mp.weixin.qq.com/s/-CMm-DV6jH-rVaaOE3Rr-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:29:14+08:00</updated>
+  <updated>2021-01-07T23:33:11+08:00</updated>
   <subtitle>我们的产品：《码农周刊》 http://manong.io/ 、《开发者头条》 http://toutiao.io/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生时代架构师的十大核心能力</title>
+    <updated>2021-01-07T22:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/8H2bJiLXyFUTrtAxS3e6NA</id>
+    <link href="https://mp.weixin.qq.com/s/8H2bJiLXyFUTrtAxS3e6NA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资料 | 《Go 语言高性能编程》</title>
+    <updated>2021-01-07T22:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/1VH2WmDslg4FcGayO0lGdg</id>
+    <link href="https://mp.weixin.qq.com/s/1VH2WmDslg4FcGayO0lGdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>求你了，别再随便打日志了，教你动态修改日志级别</title>
     <updated>2021-01-06T21:00:16+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-24T22:00:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/dLI4EDvBHprJHCPYwnaiPA</id>
     <link href="https://mp.weixin.qq.com/s/dLI4EDvBHprJHCPYwnaiPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你在教我做事啊？Mac 节约生命的使用方法</title>
-    <updated>2020-12-22T22:00:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/sy8Iks9ZP_PU6a1uUUUVCA</id>
-    <link href="https://mp.weixin.qq.com/s/sy8Iks9ZP_PU6a1uUUUVCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 滴滴开源的基于 Jacoco、git 二次开发打造的一站式 Java 代码全量/diff 覆盖率收集平台</title>
-    <updated>2020-12-22T22:00:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/4ork4oxG28NWSeDMy7YeFg</id>
-    <link href="https://mp.weixin.qq.com/s/4ork4oxG28NWSeDMy7YeFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

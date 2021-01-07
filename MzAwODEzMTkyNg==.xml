@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:34:35+08:00</updated>
+  <updated>2021-01-07T23:33:33+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「领域驱动设计」集成有界上下文的策略</title>
+    <updated>2021-01-07T20:18:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/GgjrQKlEtIXBRJBAiXlG8w</id>
+    <link href="https://mp.weixin.qq.com/s/GgjrQKlEtIXBRJBAiXlG8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「深度学习」深度学习工具集-概述</title>
+    <updated>2021-01-07T20:18:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ms_-jc17Ap2BDAeLxCdfcA</id>
+    <link href="https://mp.weixin.qq.com/s/ms_-jc17Ap2BDAeLxCdfcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「机器学习」DVC:面向机器学习项目的开源版本控制系统</title>
     <updated>2021-01-06T21:39:45+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-31T21:22:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/NvxMX5irOgIBhp7xByhQtg</id>
     <link href="https://mp.weixin.qq.com/s/NvxMX5irOgIBhp7xByhQtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「数字化战略」人工智能和营销，商业的新引擎</title>
-    <updated>2020-12-31T21:22:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/90XzRTNtGHgAwQoOfy4dOQ</id>
-    <link href="https://mp.weixin.qq.com/s/90XzRTNtGHgAwQoOfy4dOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【分部式架构】分布式系统的挑战</title>
-    <updated>2020-12-30T21:34:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/iREjHsugAnvdIIdM3vt6Gg</id>
-    <link href="https://mp.weixin.qq.com/s/iREjHsugAnvdIIdM3vt6Gg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

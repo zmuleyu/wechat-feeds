@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-29T23:17:59+08:00</updated>
+  <updated>2021-01-07T23:15:10+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>群消息已读回执（这个屌），究竟是推还是拉？</title>
+    <updated>2021-01-07T21:13:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Vp4nIFPTMrIvgup1B-PC4A</id>
+    <link href="https://mp.weixin.qq.com/s/Vp4nIFPTMrIvgup1B-PC4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink太强了！据说SparkStreaming不是对手？</title>
     <updated>2020-12-29T22:21:31+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-15T21:29:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/xyxSlwisGlc1JdkOk_BfEQ</id>
     <link href="https://mp.weixin.qq.com/s/xyxSlwisGlc1JdkOk_BfEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个大厂首席架构师的忠告：决定你工资上限的，是这件事</title>
-    <updated>2020-12-14T07:15:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/QGFNH8mNSaKIoOZf_PpHBA</id>
-    <link href="https://mp.weixin.qq.com/s/QGFNH8mNSaKIoOZf_PpHBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
