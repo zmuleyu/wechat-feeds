@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nodejs技术栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:50:16+08:00</updated>
+  <updated>2021-01-07T11:57:14+08:00</updated>
   <subtitle>聚集所有 Nodejs 爱好者，共建互帮互助的 Nodejs 技术栈交流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Node.js 对于 Java 开发者而言是什么？</title>
+    <updated>2021-01-06T22:04:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/c9HmHY0cDE-U3MCCEsl-IQ</id>
+    <link href="https://mp.weixin.qq.com/s/c9HmHY0cDE-U3MCCEsl-IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 Node.js 搭建一个 API 网关(助力微服务)</title>
     <updated>2021-01-05T20:54:47+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-27T22:02:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/j3rA3GnBgk3O--2RAkryRQ</id>
     <link href="https://mp.weixin.qq.com/s/j3rA3GnBgk3O--2RAkryRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Electron + Vue 从零开始打造一个本地播放器</title>
-    <updated>2020-12-26T13:06:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/C4B2bSRuCRXoktwE1tSblA</id>
-    <link href="https://mp.weixin.qq.com/s/C4B2bSRuCRXoktwE1tSblA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欢迎 Nodejs 的一些爱好者、学习者和开发者入群共同交流</title>
-    <updated>2020-12-26T13:06:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/qOMW21-hkY-N5LqKijynLQ</id>
-    <link href="https://mp.weixin.qq.com/s/qOMW21-hkY-N5LqKijynLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

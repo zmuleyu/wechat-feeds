@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈自学社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:31:40+08:00</updated>
+  <updated>2021-01-07T11:48:19+08:00</updated>
   <subtitle>全栈自学社区，专注于编程技术的讲解与分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis三种特殊类型</title>
+    <updated>2021-01-07T11:03:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/2lL8cLYKRI5cHndPH82-zg</id>
+    <link href="https://mp.weixin.qq.com/s/2lL8cLYKRI5cHndPH82-zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>实锤！2020年全球程序员收入报告，字节跳动工程师年薪竟然......</title>
+    <updated>2021-01-07T11:03:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/j9hwdfIw05AYXeiS3HlAAA</id>
+    <link href="https://mp.weixin.qq.com/s/j9hwdfIw05AYXeiS3HlAAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>生产环境如何定位JVM问题？</title>
     <updated>2021-01-05T18:41:12+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-12-11T12:50:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/C1CRynNlb-0UcflqDbLt6w</id>
     <link href="https://mp.weixin.qq.com/s/C1CRynNlb-0UcflqDbLt6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>少侠，收下这套Java面试题</title>
-    <updated>2020-12-09T18:36:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/lXbZlXbK-T3MPZFQR0blEg</id>
-    <link href="https://mp.weixin.qq.com/s/lXbZlXbK-T3MPZFQR0blEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:41:16+08:00</updated>
+  <updated>2021-01-07T11:52:21+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大电商只能用Java? 单日10亿GMV，纯.NET Core架构更强！</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/_wWBUC4n8fTVKfIwi4pZnA</id>
+    <link href="https://mp.weixin.qq.com/s/_wWBUC4n8fTVKfIwi4pZnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>AgileConfig-如何使用AgileConfig.Client读取配置</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/uP54Z3tpM-3YiDS3We78eQ</id>
+    <link href="https://mp.weixin.qq.com/s/uP54Z3tpM-3YiDS3We78eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【gRPC】 在.Net core中使用gRPC</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/fSD65lxnHB-PTr6B4EX-OQ</id>
+    <link href="https://mp.weixin.qq.com/s/fSD65lxnHB-PTr6B4EX-OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C#实现网页加载后将页面截取成长图片</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/DrRODLM3GSIHDZfv5f0aAg</id>
+    <link href="https://mp.weixin.qq.com/s/DrRODLM3GSIHDZfv5f0aAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>整合.NET WebAPI和 Vuejs——在.NET单体应用中使用 Vuejs 和 ElementUI</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/VR7FD9KfMqRUQcLKgI91vg</id>
+    <link href="https://mp.weixin.qq.com/s/VR7FD9KfMqRUQcLKgI91vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>老人言：尽量用异步</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/PCb77OMffpawUdzfGnVqAA</id>
+    <link href="https://mp.weixin.qq.com/s/PCb77OMffpawUdzfGnVqAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>“既然计划没有变化快，那制订计划还有个卵用啊！”</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NpLeEi16472gzAw1Nqk7bA</id>
+    <link href="https://mp.weixin.qq.com/s/NpLeEi16472gzAw1Nqk7bA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 在自定义的控制台输出重定向类中整合调用方信息</title>
+    <updated>2021-01-06T22:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/LyCNsL5tCEO8QNjPoNQX7Q</id>
+    <link href="https://mp.weixin.qq.com/s/LyCNsL5tCEO8QNjPoNQX7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「译」 用 Blazor WebAssembly 实现微前端</title>
     <updated>2021-01-05T20:09:39+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-04T22:02:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/w3fb2OfhaFEjayEL0xyLnA</id>
     <link href="https://mp.weixin.qq.com/s/w3fb2OfhaFEjayEL0xyLnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>引入Jaeger——扩展</title>
-    <updated>2021-01-04T22:02:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/C_fNM8Kn0D8SS23TPDmLhw</id>
-    <link href="https://mp.weixin.qq.com/s/C_fNM8Kn0D8SS23TPDmLhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASP.NET Core Controller与IOC的羁绊</title>
-    <updated>2021-01-04T22:02:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/cEpbYDC5n_G1zOyVPKaBtA</id>
-    <link href="https://mp.weixin.qq.com/s/cEpbYDC5n_G1zOyVPKaBtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端数据层落地实践</title>
-    <updated>2021-01-04T22:02:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/WLvGJNxupDxKPmfxb5CHXA</id>
-    <link href="https://mp.weixin.qq.com/s/WLvGJNxupDxKPmfxb5CHXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Git】Git-常用命令备忘录（三）</title>
-    <updated>2021-01-04T22:02:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/BOjAfFx5e57Cj6ihQCcR1Q</id>
-    <link href="https://mp.weixin.qq.com/s/BOjAfFx5e57Cj6ihQCcR1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>. NET5一出，. NET岗面试普遍喊难，真相是…</title>
-    <updated>2021-01-04T15:53:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/MSsUnh9aB_4NQKczCMVegw</id>
-    <link href="https://mp.weixin.qq.com/s/MSsUnh9aB_4NQKczCMVegw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 9 新特性 —— 增强的模式匹配</title>
-    <updated>2021-01-04T15:53:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/NusivofzQ_JGrMKst4cEvg</id>
-    <link href="https://mp.weixin.qq.com/s/NusivofzQ_JGrMKst4cEvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用 NLog 的高级特性</title>
-    <updated>2021-01-04T15:53:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Yx6sTOqeUoCQxKG2HTaNuw</id>
-    <link href="https://mp.weixin.qq.com/s/Yx6sTOqeUoCQxKG2HTaNuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>强烈推荐：SiteServer CMS开源免费的企业级CMS系统！</title>
-    <updated>2021-01-04T15:53:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/gNR_YnrE-keQM_9boMjgAw</id>
-    <link href="https://mp.weixin.qq.com/s/gNR_YnrE-keQM_9boMjgAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

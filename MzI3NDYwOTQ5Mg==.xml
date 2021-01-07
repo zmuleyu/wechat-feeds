@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>恩智浦MCU加油站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-24T11:32:48+08:00</updated>
+  <updated>2021-01-07T11:37:47+08:00</updated>
   <subtitle>迎来到恩智浦MCU加油站，在这里您可以了解到关于恩智浦MCU产品的各种信息，开发技巧、各种教程文档、研讨会培训课程的预告等，我们还会与您分享最新的产品和产业动态。 如果您对恩智浦的产品和本公众号，有什么好的建议和意见，可以在此留言或来稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈LPC5500上面的摄像头接口</title>
+    <updated>2021-01-06T17:56:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/6_JCU21DohRnWySc3G1iLA</id>
+    <link href="https://mp.weixin.qq.com/s/6_JCU21DohRnWySc3G1iLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>智能车竞赛，AI视觉组赛题浅析</title>
+    <updated>2021-01-06T17:56:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/T_rRYQWw4iOgoBlIEYiiGw</id>
+    <link href="https://mp.weixin.qq.com/s/T_rRYQWw4iOgoBlIEYiiGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>探索跨界处理器的星辰大海，i.MX RT1170无限可能</title>
     <updated>2020-12-23T20:23:20+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-28T23:03:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/YvSYaxChy4ZD-QV8YlEdcw</id>
     <link href="https://mp.weixin.qq.com/s/YvSYaxChy4ZD-QV8YlEdcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LPC55S69物趣系列之②：15分钟调通OV7670</title>
-    <updated>2020-10-28T23:03:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/4uTdeWHBCvBT-Njr8n9nEg</id>
-    <link href="https://mp.weixin.qq.com/s/4uTdeWHBCvBT-Njr8n9nEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>灯厂们背后的MCU，看LPC如何花式点灯(之五)</title>
-    <updated>2020-10-21T21:15:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/x_IeFApIjvfDKbOdTckXFQ</id>
-    <link href="https://mp.weixin.qq.com/s/x_IeFApIjvfDKbOdTckXFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

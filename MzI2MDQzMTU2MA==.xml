@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>binecy | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-07T11:56:38+08:00</updated>
+  <subtitle>分享原创的后端开发技术</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>Reactive Spring实战 -- 理解Reactor的设计与实现</title>
+    <updated>2020-12-22T22:05:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/z-2DycNmvO4d1N39hIt8bw</id>
+    <link href="https://mp.weixin.qq.com/s/z-2DycNmvO4d1N39hIt8bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- FastThreadLocal与HashedWheelTimer</title>
+    <updated>2020-11-29T20:11:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/eIY8JtuYvG60nhugfBJbYg</id>
+    <link href="https://mp.weixin.qq.com/s/eIY8JtuYvG60nhugfBJbYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- 对象池Recycler实现原理</title>
+    <updated>2020-11-22T19:39:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/YEcokrVQSbsFRrSzM3aa2Q</id>
+    <link href="https://mp.weixin.qq.com/s/YEcokrVQSbsFRrSzM3aa2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- PoolChunk实现原理(jemalloc 3的算法)</title>
+    <updated>2020-11-15T17:06:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/uvrcQjZ190LPP1SNOP3tiQ</id>
+    <link href="https://mp.weixin.qq.com/s/uvrcQjZ190LPP1SNOP3tiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- PoolSubpage实现原理</title>
+    <updated>2020-11-08T20:48:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/7942kjO6IQFy24JZ6rystg</id>
+    <link href="https://mp.weixin.qq.com/s/7942kjO6IQFy24JZ6rystg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- PoolChunk实现原理</title>
+    <updated>2020-11-08T20:25:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/o4T8s-g7LlSlfJQl05i92A</id>
+    <link href="https://mp.weixin.qq.com/s/o4T8s-g7LlSlfJQl05i92A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- 内存对齐类SizeClasses</title>
+    <updated>2020-11-07T11:26:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-07:/s/2a1Kc1deDYaZZoydxfArSg</id>
+    <link href="https://mp.weixin.qq.com/s/2a1Kc1deDYaZZoydxfArSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- 内存池与PoolArena</title>
+    <updated>2020-11-01T16:00:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-01:/s/q_u6OkcxGWIQ3nV3rIAh8w</id>
+    <link href="https://mp.weixin.qq.com/s/q_u6OkcxGWIQ3nV3rIAh8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- 零拷贝机制与ByteBuf</title>
+    <updated>2020-10-29T15:10:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-29:/s/70321Q-mzR24KgJrNmKJMQ</id>
+    <link href="https://mp.weixin.qq.com/s/70321Q-mzR24KgJrNmKJMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netty源码解析 -- ChannelOutboundBuffer实现与Flush过程</title>
+    <updated>2020-10-25T19:46:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-25:/s/mVLZ-JUF9QrTKAnGhPRdlg</id>
+    <link href="https://mp.weixin.qq.com/s/mVLZ-JUF9QrTKAnGhPRdlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

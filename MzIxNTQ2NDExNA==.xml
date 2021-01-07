@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端日志 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:27:21+08:00</updated>
+  <updated>2021-01-07T11:31:03+08:00</updated>
   <subtitle>前端一二线大厂日常工作、技术分享、实战总结。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Github 图床配置实践</title>
+    <updated>2021-01-07T08:18:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/IVD92qCSNAeRbtvGuT_mXg</id>
+    <link href="https://mp.weixin.qq.com/s/IVD92qCSNAeRbtvGuT_mXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>写C端，如何优雅的处理多个弹框的显示？(附带源码)</title>
     <updated>2020-12-30T23:10:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-28T08:11:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-28:/s/R8a0ByDBQ8TXqRHuUYPJNA</id>
     <link href="https://mp.weixin.qq.com/s/R8a0ByDBQ8TXqRHuUYPJNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue 骚技巧，策略模式实现动态表单验证</title>
-    <updated>2020-07-21T21:56:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-21:/s/HesBVUIt_ZfE88z-cQnXcA</id>
-    <link href="https://mp.weixin.qq.com/s/HesBVUIt_ZfE88z-cQnXcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

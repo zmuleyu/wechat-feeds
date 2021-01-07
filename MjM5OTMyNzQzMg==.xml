@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java之道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:49:59+08:00</updated>
+  <updated>2021-01-07T11:55:56+08:00</updated>
   <subtitle>有道无术，术可成；有术无道，止于道；「Java之道」致力于为广大Javaer传道授业解惑。以术识道，以道御术；</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>第一门编程语言为什么选择Java？</title>
+    <updated>2021-01-06T21:56:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/T7Tmy_O5bCz01JRESEkitw</id>
+    <link href="https://mp.weixin.qq.com/s/T7Tmy_O5bCz01JRESEkitw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java 项目权威排名：Nacos 未上版，Gradle 排名第二，Maven 排名 28</title>
+    <updated>2021-01-06T21:56:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/BoxxJ60iy3zDYfLwoNVfqw</id>
+    <link href="https://mp.weixin.qq.com/s/BoxxJ60iy3zDYfLwoNVfqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 华为|字节|腾讯|京东|网易|滴滴面经分享（6 个 offer）</title>
     <updated>2021-01-05T21:58:39+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-28T21:29:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/phfpZlWZzf1YrADj_xDb2Q</id>
     <link href="https://mp.weixin.qq.com/s/phfpZlWZzf1YrADj_xDb2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拥抱 Java 8 并行流吧，让执行速度飞起！</title>
-    <updated>2020-12-27T22:28:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/T01NMbOyB0RzIMQBXVUY-Q</id>
-    <link href="https://mp.weixin.qq.com/s/T01NMbOyB0RzIMQBXVUY-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

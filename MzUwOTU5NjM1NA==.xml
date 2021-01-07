@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小小架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:35:07+08:00</updated>
+  <updated>2021-01-07T11:36:14+08:00</updated>
   <subtitle>10年软件开发经验，对计算机底层、操作系统、网络、数据库、软件设计、编码规范有深刻的认识，熟悉.net core平台，了解java、python、js等。欢迎大家关注，一定让你满载而归。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈CLR基础知识</title>
+    <updated>2021-01-07T09:20:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/VZMOnCTurEC1rkZ_KSZeeQ</id>
+    <link href="https://mp.weixin.qq.com/s/VZMOnCTurEC1rkZ_KSZeeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务畅想录</title>
     <updated>2021-01-04T18:25:19+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-27T08:48:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-27:/s/HZgpA9zVinbskOrBaHUg_Q</id>
     <link href="https://mp.weixin.qq.com/s/HZgpA9zVinbskOrBaHUg_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C#中几种拼接字符串的方法</title>
-    <updated>2020-10-22T11:32:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/mqfpFeb_TecqSSeVgeGIYQ</id>
-    <link href="https://mp.weixin.qq.com/s/mqfpFeb_TecqSSeVgeGIYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

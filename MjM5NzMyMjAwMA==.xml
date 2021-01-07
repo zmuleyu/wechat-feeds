@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:50:10+08:00</updated>
+  <updated>2021-01-07T11:57:05+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>内存泄露的原因找到了，罪魁祸首居然是Java TheadLocal</title>
+    <updated>2021-01-06T23:13:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/jUScXVVWWhvBdcjl-fRd5A</id>
+    <link href="https://mp.weixin.qq.com/s/jUScXVVWWhvBdcjl-fRd5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL 慌了！这个分库分表方法论，要火了？</title>
+    <updated>2021-01-06T23:13:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/mcJ9KhkS0FHOcCODQGAJjA</id>
+    <link href="https://mp.weixin.qq.com/s/mcJ9KhkS0FHOcCODQGAJjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java 是编程语言“常青树”？这也太强了！</title>
     <updated>2021-01-05T21:10:39+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-28T23:03:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/BY7L2X2gtR16t2Z3bFvPzg</id>
     <link href="https://mp.weixin.qq.com/s/BY7L2X2gtR16t2Z3bFvPzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>52条SQL语句性能优化策略，建议收藏</title>
-    <updated>2020-12-28T14:41:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Oem_weRbhT_wZimRw2R_Vg</id>
-    <link href="https://mp.weixin.qq.com/s/Oem_weRbhT_wZimRw2R_Vg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

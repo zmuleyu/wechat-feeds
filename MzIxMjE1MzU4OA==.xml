@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人人都是极客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:26:33+08:00</updated>
+  <updated>2021-01-07T11:57:20+08:00</updated>
   <subtitle>针对嵌入式人工智能，物联网等专业技术分享和交流平台，内容涉及arm，linux，android等各方面。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>神器必会！“世界上最好的编辑器Source Insight”</title>
+    <updated>2021-01-06T23:00:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/TOVTIHK08Not_btAmP2JKA</id>
+    <link href="https://mp.weixin.qq.com/s/TOVTIHK08Not_btAmP2JKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kernel Exception 问题分析详解</title>
     <updated>2021-01-05T22:52:59+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-17T21:54:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/HTBI4WuBMdaZ3qeUvEWB_g</id>
     <link href="https://mp.weixin.qq.com/s/HTBI4WuBMdaZ3qeUvEWB_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux页框分配器之内存碎片化整理</title>
-    <updated>2020-12-15T08:48:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/BmCSg0R8yZcOYnDUQw44pw</id>
-    <link href="https://mp.weixin.qq.com/s/BmCSg0R8yZcOYnDUQw44pw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

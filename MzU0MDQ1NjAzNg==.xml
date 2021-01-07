@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:16:31+08:00</updated>
+  <updated>2021-01-07T11:44:39+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三天挑战自己构建深度学习框架，你敢来尝试吗~</title>
+    <updated>2021-01-06T23:24:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/JL7Q_d1T319WNrLbJc4yNQ</id>
+    <link href="https://mp.weixin.qq.com/s/JL7Q_d1T319WNrLbJc4yNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>21张让你代码能力突飞猛进的速查表（神经网络、线性代数、可视化等）</title>
+    <updated>2021-01-06T23:24:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NNJ8Qu9z-NnoEZiogGKvag</id>
+    <link href="https://mp.weixin.qq.com/s/NNJ8Qu9z-NnoEZiogGKvag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Numpy和Pandas的区别</title>
+    <updated>2021-01-06T23:24:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NqX2tBZb84cpxn8_b6Cafw</id>
+    <link href="https://mp.weixin.qq.com/s/NqX2tBZb84cpxn8_b6Cafw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 的 __name__ 变量，到底是个什么东西？</title>
+    <updated>2021-01-06T23:24:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/tlnAjYKqUhAlPBd6b2qGRw</id>
+    <link href="https://mp.weixin.qq.com/s/tlnAjYKqUhAlPBd6b2qGRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python数据分析思维导图分享 | 附下载方法</title>
     <updated>2021-01-05T23:28:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-29T23:00:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/N0DbAdlN_4nZiVAKd0YJKg</id>
     <link href="https://mp.weixin.qq.com/s/N0DbAdlN_4nZiVAKd0YJKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一代计算机巨星的陨落！图灵奖得主 Edmund Clarke 因感染“新冠”逝世</title>
-    <updated>2020-12-29T23:00:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/AQHXSodXkrJAzP4iGHDx1g</id>
-    <link href="https://mp.weixin.qq.com/s/AQHXSodXkrJAzP4iGHDx1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习必学10大算法</title>
-    <updated>2020-12-28T23:21:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/jNe3e66OJlUt3IJNdtVucg</id>
-    <link href="https://mp.weixin.qq.com/s/jNe3e66OJlUt3IJNdtVucg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学唐杰教授：人工智能的下个十年</title>
-    <updated>2020-12-28T23:21:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/J0Qr6FhvBe8kHwB3WwuO6g</id>
-    <link href="https://mp.weixin.qq.com/s/J0Qr6FhvBe8kHwB3WwuO6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学发布首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型</title>
-    <updated>2020-12-28T10:44:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3VsFgLzjgrHRugfOuYlvrw</id>
-    <link href="https://mp.weixin.qq.com/s/3VsFgLzjgrHRugfOuYlvrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

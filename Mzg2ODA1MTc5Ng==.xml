@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>莲花童子哪吒 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:15:30+08:00</updated>
+  <updated>2021-01-07T11:31:07+08:00</updated>
   <subtitle>专注于高效，用知识和工具撰写故事的人。乐于分享深度的技术内容与职场经验，用接地气文章伴你一身成长</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大厂都拿捏的缓存方案，平台级&amp;分布式缓存，什么业务才合适？</title>
+    <updated>2021-01-07T02:07:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/-xKD1wXmyNwliHYx-NSsYg</id>
+    <link href="https://mp.weixin.qq.com/s/-xKD1wXmyNwliHYx-NSsYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>知道高效理论但结果不以为然？教你三招做事大局观，轻松做出好成绩</title>
     <updated>2020-12-18T08:30:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-01T12:28:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-01:/s/q1a_YAC_iXp7klypmQz7Sw</id>
     <link href="https://mp.weixin.qq.com/s/q1a_YAC_iXp7klypmQz7Sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>缓存架构系统就谈多级缓存，可我就知Redis。Nginx缓存代理助力提升</title>
-    <updated>2020-08-06T08:11:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-06:/s/yIJOFVwkEegpNlUxB7Ccaw</id>
-    <link href="https://mp.weixin.qq.com/s/yIJOFVwkEegpNlUxB7Ccaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

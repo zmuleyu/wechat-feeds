@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:48:51+08:00</updated>
+  <updated>2021-01-07T11:54:13+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>能挣钱的，开源 SpringBoot 商城系统，功能超全，超漂亮！</title>
+    <updated>2021-01-06T22:06:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/cYojGgjzSyD4KnNok0gyXA</id>
+    <link href="https://mp.weixin.qq.com/s/cYojGgjzSyD4KnNok0gyXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java实战项目，附带源码+视频教程，收藏！</title>
+    <updated>2021-01-06T22:06:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xUvnKWUgfxFwyHnpXBUdjg</id>
+    <link href="https://mp.weixin.qq.com/s/xUvnKWUgfxFwyHnpXBUdjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringBoot集成WebSocket，实现后台向前端推送信息</title>
+    <updated>2021-01-06T22:06:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/nDfsc7OPY3JvDFgg-5mZLQ</id>
+    <link href="https://mp.weixin.qq.com/s/nDfsc7OPY3JvDFgg-5mZLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>给IDEA换个酷炫的主题，有点好看！</title>
+    <updated>2021-01-06T22:06:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/S3eRdCL55Cee3AY67e7cCg</id>
+    <link href="https://mp.weixin.qq.com/s/S3eRdCL55Cee3AY67e7cCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里 94 年 P7 员工晒出工资，网友：搞好“微服务” = 百万年薪？</title>
     <updated>2021-01-06T09:06:10+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-31T17:49:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/KcvjnRKygjYbgh8nRPtW5w</id>
     <link href="https://mp.weixin.qq.com/s/KcvjnRKygjYbgh8nRPtW5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>介绍一款基于 SpringBoot 开发 OA 开源产品 ！</title>
-    <updated>2020-12-31T17:49:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/9Xgt43ClGJHFmADLThhZHQ</id>
-    <link href="https://mp.weixin.qq.com/s/9Xgt43ClGJHFmADLThhZHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小心了！通过一张照片我能找到你拍照的精确位置！</title>
-    <updated>2020-12-31T17:49:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/swlJuQuaeDGppNqcAPGmxg</id>
-    <link href="https://mp.weixin.qq.com/s/swlJuQuaeDGppNqcAPGmxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用基于 SpringMVC 的透明 RPC 开发微服务</title>
-    <updated>2020-12-31T17:49:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/UHaNuqxaBkRqRctHDRTo2g</id>
-    <link href="https://mp.weixin.qq.com/s/UHaNuqxaBkRqRctHDRTo2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优秀程序员早就学会用“状态模式”代替if-else了</title>
-    <updated>2020-12-30T09:17:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/98no2fVUrTgJY5CyQnUdWA</id>
-    <link href="https://mp.weixin.qq.com/s/98no2fVUrTgJY5CyQnUdWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

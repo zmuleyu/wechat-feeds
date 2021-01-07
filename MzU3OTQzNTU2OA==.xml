@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>算法美食屋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:36:42+08:00</updated>
+  <updated>2021-01-07T11:41:13+08:00</updated>
   <subtitle>把复杂的算法做成美食</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10万+字的机器学习理论笔记&amp;特征工程tips分享，附PDF下载</title>
+    <updated>2021-01-06T21:24:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Tx6nEJm7NoZnDTp5AQ4BNg</id>
+    <link href="https://mp.weixin.qq.com/s/Tx6nEJm7NoZnDTp5AQ4BNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>白话NLP中的语义匹配方法</title>
     <updated>2021-01-05T23:03:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T18:50:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/DRkD56ve7f5OQKnO_obe1w</id>
     <link href="https://mp.weixin.qq.com/s/DRkD56ve7f5OQKnO_obe1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2小时入门Spark之RDD编程</title>
-    <updated>2020-12-28T09:47:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3Pbn4S9SUS9IBtHNw6y78Q</id>
-    <link href="https://mp.weixin.qq.com/s/3Pbn4S9SUS9IBtHNw6y78Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

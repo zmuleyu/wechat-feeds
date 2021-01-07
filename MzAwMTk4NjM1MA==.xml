@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:28:32+08:00</updated>
+  <updated>2021-01-07T11:35:12+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入理解微服务中的服务容错思想及模式</title>
+    <updated>2021-01-07T08:57:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/PFy0dhWUejNBFDlHlmDNzA</id>
+    <link href="https://mp.weixin.qq.com/s/PFy0dhWUejNBFDlHlmDNzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringCloud Alibaba微服务运维一 - 集成SkyWalking</title>
     <updated>2021-01-06T09:34:08+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T09:28:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/ATT-JkpGQ7YS1VvKwlb77Q</id>
     <link href="https://mp.weixin.qq.com/s/ATT-JkpGQ7YS1VvKwlb77Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#34;锟斤拷&#34;的前世今生</title>
-    <updated>2020-12-26T22:03:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/fvipitQjozz6Wyz5jTKUkw</id>
-    <link href="https://mp.weixin.qq.com/s/fvipitQjozz6Wyz5jTKUkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

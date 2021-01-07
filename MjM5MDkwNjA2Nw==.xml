@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>T00ls | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:31:32+08:00</updated>
+  <updated>2021-01-07T11:33:04+08:00</updated>
   <subtitle>T00ls，十年民间网络安全老牌社区，聚合安全领域最优秀的人群，低调研究潜心学习讨论各类网络安全知识，为推动中国网络安全进步与技术创新贡献力量！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>T00ls第八届（2020）年度人物风云榜 会员投票正式启动</title>
+    <updated>2021-01-06T21:48:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9FwSQbUgB-z7o-h1EOcfQg</id>
+    <link href="https://mp.weixin.qq.com/s/9FwSQbUgB-z7o-h1EOcfQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次渗透实例</title>
     <updated>2020-12-04T08:55:03+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-08-10T22:02:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-10:/s/rE1F1fjrY9KK03mTM7XeLw</id>
     <link href="https://mp.weixin.qq.com/s/rE1F1fjrY9KK03mTM7XeLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CMD命令混淆浅析</title>
-    <updated>2020-07-24T09:57:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-24:/s/1x4bNQFM7ekkmBv3pTpJwA</id>
-    <link href="https://mp.weixin.qq.com/s/1x4bNQFM7ekkmBv3pTpJwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【奇技淫巧】关于Burp Intruder模块的小技巧</title>
-    <updated>2020-07-24T09:57:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-24:/s/E-Dlhbduf5TSjKeZWL25xw</id>
-    <link href="https://mp.weixin.qq.com/s/E-Dlhbduf5TSjKeZWL25xw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

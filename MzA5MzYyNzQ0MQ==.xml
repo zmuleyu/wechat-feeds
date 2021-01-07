@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:31:41+08:00</updated>
+  <updated>2021-01-07T11:37:33+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不想加班开发管理后台了，试试这个 Java 开源项目吧！</title>
+    <updated>2021-01-06T12:45:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/UrYzYAJtkc5aG8wDmZ3hOA</id>
+    <link href="https://mp.weixin.qq.com/s/UrYzYAJtkc5aG8wDmZ3hOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>打通任督二脉的 24 张 IT 技能图谱！</title>
     <updated>2021-01-05T19:44:05+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T21:32:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/af_s-fvAPIaFqxbfYolNjQ</id>
     <link href="https://mp.weixin.qq.com/s/af_s-fvAPIaFqxbfYolNjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>它听键盘声就知道你敲的是什么——GitHub 热点速览 Vol.51</title>
-    <updated>2020-12-21T17:35:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/pUoWdz32-Qlac-7iIA0twg</id>
-    <link href="https://mp.weixin.qq.com/s/pUoWdz32-Qlac-7iIA0twg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

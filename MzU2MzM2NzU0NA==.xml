@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端森林 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:25:31+08:00</updated>
+  <updated>2021-01-07T11:41:06+08:00</updated>
   <subtitle>一个有温度的前端号，关注行业前沿。从基础到架构，携手你我共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>增量 DOM 与虚拟 DOM 的对比使用</title>
+    <updated>2021-01-06T21:25:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/wmTte_nlEZ01asWtncMvAg</id>
+    <link href="https://mp.weixin.qq.com/s/wmTte_nlEZ01asWtncMvAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>十分钟了解git那些“不常用”命令</title>
     <updated>2021-01-03T23:29:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-09T20:52:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/h0uasBnTYVQG4alXEk1UiA</id>
     <link href="https://mp.weixin.qq.com/s/h0uasBnTYVQG4alXEk1UiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨端浪潮下前端开发者的机遇与挑战</title>
-    <updated>2020-12-08T09:33:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/jnJbxcgDf9mLgxUi-bVV1g</id>
-    <link href="https://mp.weixin.qq.com/s/jnJbxcgDf9mLgxUi-bVV1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

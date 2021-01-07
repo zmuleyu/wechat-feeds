@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:32:37+08:00</updated>
+  <updated>2021-01-07T11:37:14+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用Lens管理多云Kubernetes</title>
+    <updated>2021-01-07T11:34:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/bWKqezJUjeuVsqC5n8X9Nw</id>
+    <link href="https://mp.weixin.qq.com/s/bWKqezJUjeuVsqC5n8X9Nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何根据不同业务场景调节 HPA 扩缩容灵敏度</title>
+    <updated>2021-01-07T11:34:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0KXS7xzkPoLpWZ-Io6mVKQ</id>
+    <link href="https://mp.weixin.qq.com/s/0KXS7xzkPoLpWZ-Io6mVKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于 F5 和 Cilium 的 Kubernetes 集群网络架构设计</title>
+    <updated>2021-01-07T11:34:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lDC9wB3PCcwBWaz-aZY1rw</id>
+    <link href="https://mp.weixin.qq.com/s/lDC9wB3PCcwBWaz-aZY1rw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解读：云原生下的可观察性发展方向</title>
+    <updated>2021-01-07T11:34:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/XHWG5Oi8FIvsvPB_hcpewQ</id>
+    <link href="https://mp.weixin.qq.com/s/XHWG5Oi8FIvsvPB_hcpewQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>边缘计算安全技术概述</title>
+    <updated>2021-01-07T11:34:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/uMTp25GTm_xfnqzKr5VWGw</id>
+    <link href="https://mp.weixin.qq.com/s/uMTp25GTm_xfnqzKr5VWGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TiDB Hackathon 2020 报名即将结束！</title>
+    <updated>2021-01-07T11:34:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/X6KQ-noXS4sOgt22rKXFxg</id>
+    <link href="https://mp.weixin.qq.com/s/X6KQ-noXS4sOgt22rKXFxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>金融级云原生：多活容器集群高可用建设实践</title>
     <updated>2021-01-06T10:39:06+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-04T10:42:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/aHsC-l_E0d8uKttheCq1ww</id>
     <link href="https://mp.weixin.qq.com/s/aHsC-l_E0d8uKttheCq1ww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>配置 containerd 镜像仓库完全攻略</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/zdBXWJjLIhXUqx3ws-J5JQ</id>
-    <link href="https://mp.weixin.qq.com/s/zdBXWJjLIhXUqx3ws-J5JQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生制品那些事(3)：OCI 制品Artifact</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/wZLmudn8G_CSeX_T2zxN6Q</id>
-    <link href="https://mp.weixin.qq.com/s/wZLmudn8G_CSeX_T2zxN6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CNCF Weekly 20-53</title>
-    <updated>2021-01-01T00:07:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/nZ4UucO2EP-0_u0U_sIVJw</id>
-    <link href="https://mp.weixin.qq.com/s/nZ4UucO2EP-0_u0U_sIVJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你填了吗？10人将获赠CNCF商店$100美元礼券！</title>
-    <updated>2020-12-31T07:42:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/eiT_54SAoChqS33W0Vajdw</id>
-    <link href="https://mp.weixin.qq.com/s/eiT_54SAoChqS33W0Vajdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2019年CNCF中国云原生调查报告</title>
-    <updated>2020-12-31T07:42:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/MGt-gA6oa3PAGk7mLaJvWg</id>
-    <link href="https://mp.weixin.qq.com/s/MGt-gA6oa3PAGk7mLaJvWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年CNCF年度报告</title>
-    <updated>2020-12-30T10:28:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/asa1y0Yv5elXRkE6q11rXA</id>
-    <link href="https://mp.weixin.qq.com/s/asa1y0Yv5elXRkE6q11rXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

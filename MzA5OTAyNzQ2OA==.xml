@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:28:09+08:00</updated>
+  <updated>2021-01-07T11:48:19+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据中台已成气候！大数据架构师如何站上风口？</title>
+    <updated>2021-01-06T21:18:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NSdmQEikWFgRdMe0Hprejg</id>
+    <link href="https://mp.weixin.qq.com/s/NSdmQEikWFgRdMe0Hprejg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>监控告警成长之路</title>
+    <updated>2021-01-06T21:18:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/YeE-Y1mdaWDlNz66NfqKVw</id>
+    <link href="https://mp.weixin.qq.com/s/YeE-Y1mdaWDlNz66NfqKVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>网易伏羲云原生游戏中间件平台实践</title>
     <updated>2021-01-06T07:28:37+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-29T07:38:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/8swySY3B2PuKibPkCYv0kg</id>
     <link href="https://mp.weixin.qq.com/s/8swySY3B2PuKibPkCYv0kg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源API网关Kong基本介绍和安装验证</title>
-    <updated>2020-12-28T07:40:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/rHyRQopx0lZntZlWPl4oMQ</id>
-    <link href="https://mp.weixin.qq.com/s/rHyRQopx0lZntZlWPl4oMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
-    <updated>2020-12-28T07:40:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/FE4SVdqNiY3Ifm9npIJueg</id>
-    <link href="https://mp.weixin.qq.com/s/FE4SVdqNiY3Ifm9npIJueg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

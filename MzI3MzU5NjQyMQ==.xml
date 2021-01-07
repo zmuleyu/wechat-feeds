@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>晓飞的算法工程笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:07:02+08:00</updated>
+  <updated>2021-01-07T11:56:09+08:00</updated>
   <subtitle>work-life balance.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>FoveaBox：细节差别，另一种DenseBox+FPN的Anchor-free方案 | IEEE TIP 2020</title>
+    <updated>2021-01-06T23:43:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/kpWsl9i3Ehd09yKFRH5aqw</id>
+    <link href="https://mp.weixin.qq.com/s/kpWsl9i3Ehd09yKFRH5aqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Guided Anchoring：在线稀疏anchor生成方案，嵌入即提2AP | CVPR 2019</title>
     <updated>2021-01-04T20:43:33+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-26T12:16:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-26:/s/7NYaUJhploDb_STXjJhHrw</id>
     <link href="https://mp.weixin.qq.com/s/7NYaUJhploDb_STXjJhHrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每日新文推荐：计算机视觉方向 [2020-11-25]</title>
-    <updated>2020-11-25T11:48:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-25:/s/qz8P0IN6siHuOoXmkcDJtQ</id>
-    <link href="https://mp.weixin.qq.com/s/qz8P0IN6siHuOoXmkcDJtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中间件兴趣圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:28:26+08:00</updated>
+  <updated>2021-01-07T11:44:08+08:00</updated>
   <subtitle>《RocketMQ技术内幕》作者维护，主打成体系剖析JAVA主流中间件架构与设计原理，为构建完备的互联网分布式架构体系而努力，助力突破职场瓶颈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试官：缓存一致性问题怎么解决？</title>
+    <updated>2021-01-06T20:31:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xB-z5jLxRSVABPAZxEF9qA</id>
+    <link href="https://mp.weixin.qq.com/s/xB-z5jLxRSVABPAZxEF9qA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Sentinel 漏桶匀速限流</title>
     <updated>2021-01-04T22:44:10+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-13T22:58:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/5dlUN0bzW3aKfcg1PSR5Ow</id>
     <link href="https://mp.weixin.qq.com/s/5dlUN0bzW3aKfcg1PSR5Ow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>仰望星空</title>
-    <updated>2020-12-08T23:40:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/K2Ffzffxtjw3tEC-eQtsjw</id>
-    <link href="https://mp.weixin.qq.com/s/K2Ffzffxtjw3tEC-eQtsjw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

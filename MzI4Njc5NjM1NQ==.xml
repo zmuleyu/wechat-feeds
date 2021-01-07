@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:28:54+08:00</updated>
+  <updated>2021-01-07T11:32:23+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我为什么要放弃RESTful，选择拥抱GraphQL</title>
+    <updated>2021-01-06T23:40:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/YwUGg_pNTd3DUkgkcTeOxA</id>
+    <link href="https://mp.weixin.qq.com/s/YwUGg_pNTd3DUkgkcTeOxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微信小程序练手实战：前端+后端（Java）</title>
+    <updated>2021-01-06T23:40:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/-UErGddg1KUs6Hc8WOfZfw</id>
+    <link href="https://mp.weixin.qq.com/s/-UErGddg1KUs6Hc8WOfZfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
     <updated>2021-01-05T19:29:52+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-30T16:33:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/uCYI6OBd7efydEdkx_lgyw</id>
     <link href="https://mp.weixin.qq.com/s/uCYI6OBd7efydEdkx_lgyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 解决跨域问题的 3 种方案！</title>
-    <updated>2020-12-30T16:33:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/waJymWJNxnvlu1APO6hTzA</id>
-    <link href="https://mp.weixin.qq.com/s/waJymWJNxnvlu1APO6hTzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>系统的性能瓶颈，排查该从哪些方面入手，如何定位？</title>
-    <updated>2020-12-29T18:38:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Mo56vuzeh69-wyc7wkSk8A</id>
-    <link href="https://mp.weixin.qq.com/s/Mo56vuzeh69-wyc7wkSk8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

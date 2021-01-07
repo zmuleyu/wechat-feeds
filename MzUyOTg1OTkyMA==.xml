@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>月伴飞鱼 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-07T11:29:10+08:00</updated>
+  <subtitle>这里主要分享计算机基础，Java，Go，Python，分布式，数据库，源码等精品原创文章，一起进步</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>一文带大家快速掌握RabbitMQ</title>
+    <updated>2020-12-27T20:17:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-27:/s/lITowwcRqRUAvd6qUhx7ug</id>
+    <link href="https://mp.weixin.qq.com/s/lITowwcRqRUAvd6qUhx7ug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>写出好的Join语句，前提你得懂这些</title>
+    <updated>2020-12-12T17:48:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-12:/s/8XuX9Su1qvHrMLWcQzKTaQ</id>
+    <link href="https://mp.weixin.qq.com/s/8XuX9Su1qvHrMLWcQzKTaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis如何解决频繁的命令往返造成的性能瓶颈</title>
+    <updated>2020-12-05T14:25:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-05:/s/HDBD5iUwzrMGT9mscTARTA</id>
+    <link href="https://mp.weixin.qq.com/s/HDBD5iUwzrMGT9mscTARTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从源码角度解析ArrayList.subList的几个坑</title>
+    <updated>2020-11-28T15:48:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-28:/s/DNXAP3PGHE1zX_ax0TyA3Q</id>
+    <link href="https://mp.weixin.qq.com/s/DNXAP3PGHE1zX_ax0TyA3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文搞懂Kafka核心基础知识</title>
+    <updated>2020-11-24T23:49:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-24:/s/7-5VntlU_WD2IOSYP2pYjw</id>
+    <link href="https://mp.weixin.qq.com/s/7-5VntlU_WD2IOSYP2pYjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>条件语句的多层嵌套问题优化，助你写出不让同事吐槽的代码</title>
+    <updated>2020-11-23T01:03:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-23:/s/7i-TPFovLwrSmbWaIiX8dQ</id>
+    <link href="https://mp.weixin.qq.com/s/7i-TPFovLwrSmbWaIiX8dQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>常用的Lambda表达式案例解析，工作中都会用到</title>
+    <updated>2020-11-22T00:44:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-22:/s/6FB3Et6SetUtvWthk3pcpg</id>
+    <link href="https://mp.weixin.qq.com/s/6FB3Et6SetUtvWthk3pcpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>记一次集合去重导致的线上问题</title>
+    <updated>2020-11-15T20:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-15:/s/9c_3M9yc5qzkTw_GFbO7-Q</id>
+    <link href="https://mp.weixin.qq.com/s/9c_3M9yc5qzkTw_GFbO7-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ReentrantLock核心原理，绝对干货</title>
+    <updated>2020-11-08T23:36:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-08:/s/gC8Uj8otLGnOKN6ryb1uZQ</id>
+    <link href="https://mp.weixin.qq.com/s/gC8Uj8otLGnOKN6ryb1uZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊JIT是如何影响JVM性能的</title>
+    <updated>2020-10-31T18:07:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-31:/s/DE3mgtQlnCPqodgVY6seFg</id>
+    <link href="https://mp.weixin.qq.com/s/DE3mgtQlnCPqodgVY6seFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

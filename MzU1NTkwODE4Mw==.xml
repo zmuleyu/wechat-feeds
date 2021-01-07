@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:45:38+08:00</updated>
+  <updated>2021-01-07T11:51:51+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java三年还不懂它，离被优化就不远了...</title>
+    <updated>2021-01-06T20:46:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/LkfcKUKoyTuLO7VYRY_J9A</id>
+    <link href="https://mp.weixin.qq.com/s/LkfcKUKoyTuLO7VYRY_J9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从String中移除空白字符的多种方式！？差别竟然这么大！</title>
+    <updated>2021-01-06T20:46:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/P2LehA5B9FZpnLWu0hwrzg</id>
+    <link href="https://mp.weixin.qq.com/s/P2LehA5B9FZpnLWu0hwrzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Socket粘包问题的3种解决方案，最后一种最完美！</title>
     <updated>2021-01-05T22:16:09+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-12-24T18:29:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/RUD4sQwrH49YgHNgDgpLmA</id>
     <link href="https://mp.weixin.qq.com/s/RUD4sQwrH49YgHNgDgpLmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>定时任务的实现原理，看完就能手撸一个！</title>
-    <updated>2020-12-23T22:50:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/2v5YoqcLvM4D8WnLWJZaHg</id>
-    <link href="https://mp.weixin.qq.com/s/2v5YoqcLvM4D8WnLWJZaHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

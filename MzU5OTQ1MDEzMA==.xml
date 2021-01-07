@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:29:58+08:00</updated>
+  <updated>2021-01-07T11:46:27+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink 特性 | Flink 流批一体太强了！全方位超越 Spark Streaming？</title>
+    <updated>2021-01-07T08:25:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/uWkmIMF474oaW56P4wnbkg</id>
+    <link href="https://mp.weixin.qq.com/s/uWkmIMF474oaW56P4wnbkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink 实践 | 开发效率提升15倍！批流融合实时平台在好未来的应用实践</title>
+    <updated>2021-01-07T08:25:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/X64-rSRcfK0DwoZySmCo-Q</id>
+    <link href="https://mp.weixin.qq.com/s/X64-rSRcfK0DwoZySmCo-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据湖风暴来袭，EMR重磅发布Apache Hudi</title>
     <updated>2021-01-04T21:50:35+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-22T19:50:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/wOcPadxrP1zscOZL1zyI6A</id>
     <link href="https://mp.weixin.qq.com/s/wOcPadxrP1zscOZL1zyI6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HBase方案 | 基于Lindorm的互联网账单解决方案</title>
-    <updated>2020-12-21T19:31:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/8OTFaqDbviPAYIgIjhgJYQ</id>
-    <link href="https://mp.weixin.qq.com/s/8OTFaqDbviPAYIgIjhgJYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

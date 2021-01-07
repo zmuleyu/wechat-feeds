@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:45:50+08:00</updated>
+  <updated>2021-01-07T11:55:56+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里技术专家详解DDD系列 第三讲 - Repository模式</title>
+    <updated>2021-01-06T17:23:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9efoPbvp0GaMi24V0RxFcw</id>
+    <link href="https://mp.weixin.qq.com/s/9efoPbvp0GaMi24V0RxFcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里云MVP专家：重塑万亿级企业三高微服务架构设计实战案例</title>
     <updated>2021-01-05T20:13:35+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-28T21:57:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/VNE6v77QgwJ1NVYOmJPL3A</id>
     <link href="https://mp.weixin.qq.com/s/VNE6v77QgwJ1NVYOmJPL3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>左耳朵耗子凭什么成为业内男神？</title>
-    <updated>2020-12-27T23:57:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/PzNWfEVqASS8z3yb6pkKtg</id>
-    <link href="https://mp.weixin.qq.com/s/PzNWfEVqASS8z3yb6pkKtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术专家甘盘：浅谈双十一背后的支付宝LDC架构和其CAP分析</title>
-    <updated>2020-12-27T23:57:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/Cnzz5riMc9RH19zdjToyDg</id>
-    <link href="https://mp.weixin.qq.com/s/Cnzz5riMc9RH19zdjToyDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

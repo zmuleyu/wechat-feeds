@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:38:48+08:00</updated>
+  <updated>2021-01-07T11:43:35+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有“声”以来，语音如何识别？</title>
+    <updated>2021-01-07T11:40:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/69K4SOFJ6BUCxoeS9StV3g</id>
+    <link href="https://mp.weixin.qq.com/s/69K4SOFJ6BUCxoeS9StV3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>决策树是如何选择特征和分裂点？</title>
+    <updated>2021-01-07T11:40:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/mHZBDY_uFfwVBvHgFXQuqw</id>
+    <link href="https://mp.weixin.qq.com/s/mHZBDY_uFfwVBvHgFXQuqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>BP反向传播矩阵推导图示详解​</title>
     <updated>2021-01-06T13:15:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-30T13:01:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/aEXi3XqcrWpAtdcMkFhBxw</id>
     <link href="https://mp.weixin.qq.com/s/aEXi3XqcrWpAtdcMkFhBxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RealFormer：把残差转移到Attention矩阵上面去</title>
-    <updated>2020-12-29T18:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/h9_5BrDZZHNemOWxhdm_rQ</id>
-    <link href="https://mp.weixin.qq.com/s/h9_5BrDZZHNemOWxhdm_rQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么算法专家都建议学好C++？</title>
-    <updated>2020-12-28T18:23:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/egcckC8jSzOSFVrmL4UUDQ</id>
-    <link href="https://mp.weixin.qq.com/s/egcckC8jSzOSFVrmL4UUDQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

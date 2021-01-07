@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:50:15+08:00</updated>
+  <updated>2021-01-07T11:56:27+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>卸载Navicat！操作所有的数据库靠它就够了</title>
+    <updated>2021-01-07T07:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/V7G2Qd9e-T1yiC3euYNGUQ</id>
+    <link href="https://mp.weixin.qq.com/s/V7G2Qd9e-T1yiC3euYNGUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 Docker 中运行 Mac OS 是什么样的体验？</title>
     <updated>2021-01-06T07:59:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T08:10:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/klSRsVKjf9oP9s2cyGYBVA</id>
     <link href="https://mp.weixin.qq.com/s/klSRsVKjf9oP9s2cyGYBVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse 官宣，干掉 VS Code ！</title>
-    <updated>2020-12-28T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3bveNV0lVeGkbwAxIQ3YRA</id>
-    <link href="https://mp.weixin.qq.com/s/3bveNV0lVeGkbwAxIQ3YRA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

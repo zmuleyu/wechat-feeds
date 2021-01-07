@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>aoho求索 | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-07T11:39:20+08:00</updated>
+  <subtitle>aoho 求索是一个分享服务端开发技术的公众号，主要涉及 Java、Golang 等语言，介绍微服务架构和高并发相关的实践。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>没做过架构的人，如何应对面试官的架构设计问题</title>
+    <updated>2021-01-04T17:34:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/jSV9Lj_YST9Rwx7hjgH9Mw</id>
+    <link href="https://mp.weixin.qq.com/s/jSV9Lj_YST9Rwx7hjgH9Mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>先睹为快，Go2 Error 的挣扎之路</title>
+    <updated>2021-01-04T17:34:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/U9YtARHaGF7NE6Uc42VFnQ</id>
+    <link href="https://mp.weixin.qq.com/s/U9YtARHaGF7NE6Uc42VFnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021 新一年的期望！谈谈数学期望在生活中的应用</title>
+    <updated>2021-01-03T20:10:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Gro-Q1y_gb38xlrUxwO_rw</id>
+    <link href="https://mp.weixin.qq.com/s/Gro-Q1y_gb38xlrUxwO_rw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>正确规避常见的 Go 并发陷阱</title>
+    <updated>2020-12-23T18:20:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-23:/s/MyEKjsmiWGW6r_yQn7bNiw</id>
+    <link href="https://mp.weixin.qq.com/s/MyEKjsmiWGW6r_yQn7bNiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>当 Redis 发生高延迟时，到底发生了什么</title>
+    <updated>2020-12-21T15:58:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-21:/s/qCz5K51vDzUqhR9ZDJ8NGg</id>
+    <link href="https://mp.weixin.qq.com/s/qCz5K51vDzUqhR9ZDJ8NGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>没有 try-catch，该如何处理 Go 错误异常？</title>
+    <updated>2020-12-16T18:56:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/S0IIpQ4kx3RcjAz9Beepdg</id>
+    <link href="https://mp.weixin.qq.com/s/S0IIpQ4kx3RcjAz9Beepdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用 Prometheus 和 Grafana 监控预警服务集群？</title>
+    <updated>2020-12-10T17:19:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-10:/s/bjrQrLCQJpQiDre9yX3-IQ</id>
+    <link href="https://mp.weixin.qq.com/s/bjrQrLCQJpQiDre9yX3-IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一万字详解 Redis Cluster Gossip 协议</title>
+    <updated>2020-12-06T16:40:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-06:/s/HOWIy_c5QUHDoauvsF6W5w</id>
+    <link href="https://mp.weixin.qq.com/s/HOWIy_c5QUHDoauvsF6W5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>还不了解 etcd？一文带你快速入门（万字长文）</title>
+    <updated>2020-11-27T17:05:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-27:/s/f9loVQr7jbjnDKqRWXz8sQ</id>
+    <link href="https://mp.weixin.qq.com/s/f9loVQr7jbjnDKqRWXz8sQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>周末漫谈 | 什么是 Serverless 架构</title>
+    <updated>2020-11-21T09:16:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/N3UZ8Nst6T9bJvdfzP9ZGg</id>
+    <link href="https://mp.weixin.qq.com/s/N3UZ8Nst6T9bJvdfzP9ZGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL 的 join 功能弱爆了？</title>
+    <updated>2020-11-21T09:16:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-21:/s/hQHAroGhAY-7NR-ElHHueg</id>
+    <link href="https://mp.weixin.qq.com/s/hQHAroGhAY-7NR-ElHHueg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务架构中进行日志采集以及统一处理</title>
+    <updated>2020-11-10T16:09:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-10:/s/luYFq7DkYv-PPzRSmCk1WA</id>
+    <link href="https://mp.weixin.qq.com/s/luYFq7DkYv-PPzRSmCk1WA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

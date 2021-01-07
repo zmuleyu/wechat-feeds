@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>程序猿菜刚RyuGou | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-07T11:32:27+08:00</updated>
+  <subtitle>分享挨踢人的技术文章</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>聊聊什么是慢查、如何监控？如何排查？</title>
+    <updated>2020-11-11T20:21:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-11:/s/tse9rflUSW2Sz_2hJYjDcQ</id>
+    <link href="https://mp.weixin.qq.com/s/tse9rflUSW2Sz_2hJYjDcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么Go语言不允许循环引入?</title>
+    <updated>2020-06-24T15:10:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-06-24:/s/6Dd2HcO5PAdlR6jVhQGiKA</id>
+    <link href="https://mp.weixin.qq.com/s/6Dd2HcO5PAdlR6jVhQGiKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么数组要从零开始？</title>
+    <updated>2020-05-05T22:31:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-05:/s/kYTfxeWpkHie2z4RStXZtA</id>
+    <link href="https://mp.weixin.qq.com/s/kYTfxeWpkHie2z4RStXZtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解Go的unsafe.Pointer</title>
+    <updated>2020-03-16T00:43:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-03-16:/s/VhzfBshYVpTSzs4qRleK6Q</id>
+    <link href="https://mp.weixin.qq.com/s/VhzfBshYVpTSzs4qRleK6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解go反射实现原理</title>
+    <updated>2020-02-15T21:43:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-02-15:/s/bfcD9rtgXEVvDXpLDhjhhg</id>
+    <link href="https://mp.weixin.qq.com/s/bfcD9rtgXEVvDXpLDhjhhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mysql执行计划explain图解</title>
+    <updated>2020-01-10T00:28:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-01-10:/s/YldwtW6dIcn_8YL9E56dfw</id>
+    <link href="https://mp.weixin.qq.com/s/YldwtW6dIcn_8YL9E56dfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>秒懂innodb的锁</title>
+    <updated>2020-01-08T00:33:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-01-08:/s/T2JbV9Atb2Pl80K0Me7i-g</id>
+    <link href="https://mp.weixin.qq.com/s/T2JbV9Atb2Pl80K0Me7i-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>迁移公告</title>
+    <updated>2020-01-07T17:26:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-01-07:/s/7nIk6Z4c68XAwovXVPVuog</id>
+    <link href="https://mp.weixin.qq.com/s/7nIk6Z4c68XAwovXVPVuog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解redis五种数据结构底层实现(动图哦)</title>
+    <updated>2019-12-02T00:59:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-12-02:/s/-NFlyGcaFY4bsCFI7oIvIg</id>
+    <link href="https://mp.weixin.qq.com/s/-NFlyGcaFY4bsCFI7oIvIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>动图了解I/O多路复用</title>
+    <updated>2019-11-11T01:00:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-11-11:/s/wEnUZ2yLGkbEvvsxF8coPw</id>
+    <link href="https://mp.weixin.qq.com/s/wEnUZ2yLGkbEvvsxF8coPw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

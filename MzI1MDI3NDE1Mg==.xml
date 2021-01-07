@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>int32bit | wechat-feeds</title>
+  <id>https://github.com/hellodword/wechat-feeds</id>
+  <updated>2021-01-07T11:51:55+08:00</updated>
+  <subtitle>该公众号主要记录本人OpenStack 、Docker、Kubernetes等相关技术学习，由于水平有限，知识无限，如有错误，欢迎指正。如需转发图文，请私信我开通白名单。</subtitle>
+  <link href="https://github.com/hellodword/wechat-feeds"></link>
+  <author>
+    <name>hellodword</name>
+  </author>
+  <entry>
+    <title>基于Packer+Ansible实现云平台黄金镜像统一构建和发布</title>
+    <updated>2020-12-22T20:49:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/FnnMnu9i6gFNrAjIlzaNnQ</id>
+    <link href="https://mp.weixin.qq.com/s/FnnMnu9i6gFNrAjIlzaNnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes扩展神器Argo实践</title>
+    <updated>2020-08-12T20:51:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-12:/s/zQOIurmiaT_4cGmTtA1wFw</id>
+    <link href="https://mp.weixin.qq.com/s/zQOIurmiaT_4cGmTtA1wFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020年五一CKA/CKAD双证考试心得</title>
+    <updated>2020-05-05T17:29:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-05-05:/s/u7YALFVXpNjssBlt3jJqpA</id>
+    <link href="https://mp.weixin.qq.com/s/u7YALFVXpNjssBlt3jJqpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes云原生开源分布式存储介绍</title>
+    <updated>2020-04-25T14:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-04-25:/s/ha_zaOdUp4n6pQpXDHCfCw</id>
+    <link href="https://mp.weixin.qq.com/s/ha_zaOdUp4n6pQpXDHCfCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>轻量级Kubernetes k3s初探</title>
+    <updated>2020-04-05T02:59:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-04-05:/s/gtw6k-jmtatlk8LSkMzGiA</id>
+    <link href="https://mp.weixin.qq.com/s/gtw6k-jmtatlk8LSkMzGiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Serverless函数计算介绍以及典型场景实践</title>
+    <updated>2020-02-25T02:25:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-02-25:/s/ynCAAdmq0jkJUinmCbD7IQ</id>
+    <link href="https://mp.weixin.qq.com/s/ynCAAdmq0jkJUinmCbD7IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云资源安全合规基线自动化检查与配置</title>
+    <updated>2020-01-13T22:55:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-01-13:/s/PfcSfZGGDxYG6Rl3B7N5SQ</id>
+    <link href="https://mp.weixin.qq.com/s/PfcSfZGGDxYG6Rl3B7N5SQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>回味：那些年折腾过的Linux操作系统</title>
+    <updated>2019-12-21T11:00:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-12-21:/s/SsxtpCMsPb8WyW-XD1hPQg</id>
+    <link href="https://mp.weixin.qq.com/s/SsxtpCMsPb8WyW-XD1hPQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes基于kubevirt调度虚拟机</title>
+    <updated>2019-12-19T19:22:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-12-19:/s/0svwF3KYs5dDHTEs-s2O7Q</id>
+    <link href="https://mp.weixin.qq.com/s/0svwF3KYs5dDHTEs-s2O7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>kubernetes数字证书体系浅析</title>
+    <updated>2019-12-18T21:26:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2019-12-18:/s/yCRD5uBdeikPJ3ipNdn2xw</id>
+    <link href="https://mp.weixin.qq.com/s/yCRD5uBdeikPJ3ipNdn2xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

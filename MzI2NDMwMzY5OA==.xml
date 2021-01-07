@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>有文化的技术人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:47:01+08:00</updated>
+  <updated>2021-01-07T11:51:19+08:00</updated>
   <subtitle>定期分享自己的原创技术文章，源码剖析、架构设计、工程实践</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式存储系统etcd初探</title>
+    <updated>2021-01-07T10:18:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/SBPgdAAOxHzlZvY5aB83Tg</id>
+    <link href="https://mp.weixin.qq.com/s/SBPgdAAOxHzlZvY5aB83Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务系统consul初探</title>
     <updated>2020-12-19T18:55:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-16T20:50:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-16:/s/unfw4PDUnsbyX7VVnufWPA</id>
     <link href="https://mp.weixin.qq.com/s/unfw4PDUnsbyX7VVnufWPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python中的GIL机制详解</title>
-    <updated>2020-07-11T20:55:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-11:/s/lgdR9kFGZwO_Nx0vrN0wnQ</id>
-    <link href="https://mp.weixin.qq.com/s/lgdR9kFGZwO_Nx0vrN0wnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
