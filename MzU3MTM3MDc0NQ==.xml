@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:56:27+08:00</updated>
+  <updated>2021-01-08T02:25:25+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入理解Presto基本原理</title>
+    <updated>2021-01-07T23:34:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Hv3LezVhgYvbwiP391-mEw</id>
+    <link href="https://mp.weixin.qq.com/s/Hv3LezVhgYvbwiP391-mEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Presto在滴滴的探索与实践</title>
+    <updated>2021-01-07T23:34:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ixLGhZiwy0MBmUvtQYdnDg</id>
+    <link href="https://mp.weixin.qq.com/s/ixLGhZiwy0MBmUvtQYdnDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SUSE 12安装CDH 6.1.0操作步骤【附CDH/HDP安装资料】</title>
     <updated>2021-01-06T15:18:25+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-28T23:01:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/2HrPgR5IL8EeEHLU4AmW4Q</id>
     <link href="https://mp.weixin.qq.com/s/2HrPgR5IL8EeEHLU4AmW4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文看齐，主流大数据技术总结（下）</title>
-    <updated>2020-12-26T09:09:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/iHITR4ckI1J6XU5RMq1-BQ</id>
-    <link href="https://mp.weixin.qq.com/s/iHITR4ckI1J6XU5RMq1-BQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里拆中台，都说要歇菜，问我怎么看？点进来！彭文华</title>
-    <updated>2020-12-26T09:09:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/VH-evhJhm8zV_iQ0ZI5iFA</id>
-    <link href="https://mp.weixin.qq.com/s/VH-evhJhm8zV_iQ0ZI5iFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

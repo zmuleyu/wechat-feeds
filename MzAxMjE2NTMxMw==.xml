@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>amazingdotnet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T02:06:03+08:00</updated>
+  <updated>2021-01-08T02:08:40+08:00</updated>
   <subtitle>dotnet 开发知识库，了不起的 dotnet，dotnet 奇淫怪巧</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.net 5.0 中的 JsonConsole</title>
+    <updated>2021-01-08T00:45:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/jS5UTskRrVma5lRtv586iA</id>
+    <link href="https://mp.weixin.qq.com/s/jS5UTskRrVma5lRtv586iA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C# 9 新特性 —— 补充篇</title>
     <updated>2021-01-06T23:52:36+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-18T22:50:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/H4HBglutZGnDTgl63GyYcA</id>
     <link href="https://mp.weixin.qq.com/s/H4HBglutZGnDTgl63GyYcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>定了!. NET大会日程公布！行程亮点全曝光！</title>
-    <updated>2020-12-14T23:30:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/DRvs_hOqmyqjoyGO3vE20w</id>
-    <link href="https://mp.weixin.qq.com/s/DRvs_hOqmyqjoyGO3vE20w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>邀请函|WorkShop报名通道开启，来就送礼！</title>
-    <updated>2020-12-14T23:30:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/5kz5AMkHZDwtnIbr0MMryw</id>
-    <link href="https://mp.weixin.qq.com/s/5kz5AMkHZDwtnIbr0MMryw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

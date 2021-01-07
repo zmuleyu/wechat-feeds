@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:31:47+08:00</updated>
+  <updated>2021-01-08T01:57:22+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C#爬虫-Selenium ChromeDriver 设置代理</title>
+    <updated>2021-01-07T09:17:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/bzo0oZITPsvMx0EJJ5WB7A</id>
+    <link href="https://mp.weixin.qq.com/s/bzo0oZITPsvMx0EJJ5WB7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于Redis的分布式锁和Redlock算法</title>
     <updated>2021-01-06T09:08:53+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-29T17:16:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/Jm8pBvT4tbNelLxbJlLAKA</id>
     <link href="https://mp.weixin.qq.com/s/Jm8pBvT4tbNelLxbJlLAKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASP.NET Core 依赖注入-集成 Autofac</title>
-    <updated>2020-12-28T09:16:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/jddDy1xh5dNQRiIQ5c6Ysw</id>
-    <link href="https://mp.weixin.qq.com/s/jddDy1xh5dNQRiIQ5c6Ysw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
