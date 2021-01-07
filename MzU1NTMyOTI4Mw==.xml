@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:46:10+08:00</updated>
+  <updated>2021-01-07T13:26:44+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入剖析阿里电商大数据中台架构实践</title>
+    <updated>2021-01-07T09:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7V6Mw2t4ZY6fhoX4xwPxRQ</id>
+    <link href="https://mp.weixin.qq.com/s/7V6Mw2t4ZY6fhoX4xwPxRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>贝壳用户偏好挖掘的思考与实践</title>
+    <updated>2021-01-07T09:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/3y1C2qhdqhVVb35r_XfNJw</id>
+    <link href="https://mp.weixin.qq.com/s/3y1C2qhdqhVVb35r_XfNJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内推：跟谁学大数据岗</title>
+    <updated>2021-01-07T09:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/E7IMmoBPnq0zBfOIJZiEFA</id>
+    <link href="https://mp.weixin.qq.com/s/E7IMmoBPnq0zBfOIJZiEFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Presto在滴滴的探索与实践</title>
     <updated>2021-01-06T12:50:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-01T19:20:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/B6x2BNXjGxotnt9KscNelg</id>
     <link href="https://mp.weixin.qq.com/s/B6x2BNXjGxotnt9KscNelg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团算法方向内推火热来袭，回复快，快人一步拿Offer!</title>
-    <updated>2021-01-01T19:20:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/9M0jikitj8LPq99VdZV_-Q</id>
-    <link href="https://mp.weixin.qq.com/s/9M0jikitj8LPq99VdZV_-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3天，让你的C++从入门到精通</title>
-    <updated>2020-12-31T19:52:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/SoXXuY7k768Nw2QdjCa_-Q</id>
-    <link href="https://mp.weixin.qq.com/s/SoXXuY7k768Nw2QdjCa_-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Angel图神经网络算法在推荐场景下的实践</title>
-    <updated>2020-12-31T19:52:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/WAkctvKHSo-y4_nlbGB7ug</id>
-    <link href="https://mp.weixin.qq.com/s/WAkctvKHSo-y4_nlbGB7ug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

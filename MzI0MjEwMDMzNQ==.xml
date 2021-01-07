@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP饭米粒 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:06:16+08:00</updated>
+  <updated>2021-01-07T13:53:12+08:00</updated>
   <subtitle>一群靠谱的人，愿为PHPer带来一些值得细细品味的精神食粮！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Swoole v4.6.0 版本发布，支持原生 curl 协程客户端</title>
+    <updated>2021-01-07T11:20:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/RyS0nHVi3ZRaWqpOlEOpuQ</id>
+    <link href="https://mp.weixin.qq.com/s/RyS0nHVi3ZRaWqpOlEOpuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高并发高性能服务器是如何实现的</title>
     <updated>2021-01-04T09:30:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-18T14:02:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/hcXXyZ5cuLVFq4Y08Ha7rw</id>
     <link href="https://mp.weixin.qq.com/s/hcXXyZ5cuLVFq4Y08Ha7rw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 一台Linux服务器最多能支撑多少个TCP连接？</title>
-    <updated>2020-12-16T11:42:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/J0Abwz20IO9N0NxooSEKXQ</id>
-    <link href="https://mp.weixin.qq.com/s/J0Abwz20IO9N0NxooSEKXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

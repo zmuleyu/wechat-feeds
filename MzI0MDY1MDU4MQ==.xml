@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>嘶吼专业版 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:54:47+08:00</updated>
+  <updated>2021-01-07T13:52:54+08:00</updated>
   <subtitle>为您带来每日最新最专业的互联网安全专业信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年：邮箱攻击事态严重的一年</title>
+    <updated>2021-01-07T10:56:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/sDFApWQ2B9yaPXR4Ik7fMA</id>
+    <link href="https://mp.weixin.qq.com/s/sDFApWQ2B9yaPXR4Ik7fMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机</title>
+    <updated>2021-01-07T10:56:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/w3K-hoF6rY-TUi2UZ0_Xpg</id>
+    <link href="https://mp.weixin.qq.com/s/w3K-hoF6rY-TUi2UZ0_Xpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>构建自定义的Mimikatz二进制文件</title>
+    <updated>2021-01-07T10:56:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/CK6GDYbiVSDjr_ZVdAA-eA</id>
+    <link href="https://mp.weixin.qq.com/s/CK6GDYbiVSDjr_ZVdAA-eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入考察解释型语言背后隐藏的攻击面，Part 2（四）</title>
+    <updated>2021-01-07T10:56:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7RgumLK7pp5xlPLmoJMg3A</id>
+    <link href="https://mp.weixin.qq.com/s/7RgumLK7pp5xlPLmoJMg3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020网络安全行业全领域白皮书大盘点</title>
     <updated>2021-01-06T11:14:06+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-02T12:59:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZJ9fqDTX3-OJ8EXK2AyBUA</id>
     <link href="https://mp.weixin.qq.com/s/ZJ9fqDTX3-OJ8EXK2AyBUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GPS定位欺骗浮出水面</title>
-    <updated>2020-12-31T15:15:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/qY1kRTJjO3CBZsqV01dXpA</id>
-    <link href="https://mp.weixin.qq.com/s/qY1kRTJjO3CBZsqV01dXpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ubuntu Desktop D-Bus 协议漏洞分析</title>
-    <updated>2020-12-31T15:15:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/C1-oB4l58oHTbtMW_2SbDQ</id>
-    <link href="https://mp.weixin.qq.com/s/C1-oB4l58oHTbtMW_2SbDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google Docs漏洞可窃取私有文档截图</title>
-    <updated>2020-12-31T10:21:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/E_sZlIEydyFsLYbnlvbstg</id>
-    <link href="https://mp.weixin.qq.com/s/E_sZlIEydyFsLYbnlvbstg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PoS终端的安全问题使消费者容易受骗</title>
-    <updated>2020-12-31T10:21:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/VXvt7JmizU9qnZAb91s76Q</id>
-    <link href="https://mp.weixin.qq.com/s/VXvt7JmizU9qnZAb91s76Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

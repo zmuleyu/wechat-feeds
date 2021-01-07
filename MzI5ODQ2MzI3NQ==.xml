@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:45:00+08:00</updated>
+  <updated>2021-01-07T13:41:37+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>搞技术永远绕不开MySQL？</title>
+    <updated>2021-01-07T11:51:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/HvvKL6xOvP4UA48uQgdh5Q</id>
+    <link href="https://mp.weixin.qq.com/s/HvvKL6xOvP4UA48uQgdh5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java开发环境IntelliJ IDEA开始支持M1晶片！</title>
+    <updated>2021-01-07T11:51:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ru8DCJO0l52XTi6jv-lyTw</id>
+    <link href="https://mp.weixin.qq.com/s/ru8DCJO0l52XTi6jv-lyTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云计算的再次变迁：从 容器云到数据云丨报告下载</title>
     <updated>2021-01-06T11:51:10+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-29T19:08:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/HQqNwHGSbajJGmhxzHDfKw</id>
     <link href="https://mp.weixin.qq.com/s/HQqNwHGSbajJGmhxzHDfKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>监视与可观察性：有什么区别？</title>
-    <updated>2020-12-28T20:41:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Juu2g-ip1QMX-koFLqITpw</id>
-    <link href="https://mp.weixin.qq.com/s/Juu2g-ip1QMX-koFLqITpw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

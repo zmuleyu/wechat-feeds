@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>漫话编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:30:28+08:00</updated>
+  <updated>2021-01-07T13:37:30+08:00</updated>
   <subtitle>漫画编程，让编程变得更有乐趣。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java：辟一下谣，我还是最能打的！</title>
+    <updated>2021-01-06T21:22:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/FsRPJo6Ox1lSCt7iT5KV0Q</id>
+    <link href="https://mp.weixin.qq.com/s/FsRPJo6Ox1lSCt7iT5KV0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈 Java 并发下的乐观锁</title>
+    <updated>2021-01-06T21:22:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Zes3vpt33Uk2yiJKKIB77A</id>
+    <link href="https://mp.weixin.qq.com/s/Zes3vpt33Uk2yiJKKIB77A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>IntelliJ IDEA 卡成球了？</title>
     <updated>2021-01-06T12:04:11+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-28T11:24:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/7h_IOg7RgR3bFscgbGnGFw</id>
     <link href="https://mp.weixin.qq.com/s/7h_IOg7RgR3bFscgbGnGFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卧槽，QQ号 也能改了！！！</title>
-    <updated>2020-12-27T17:16:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/xMadnSdJxWTIPBKFQ6VHmw</id>
-    <link href="https://mp.weixin.qq.com/s/xMadnSdJxWTIPBKFQ6VHmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 集成 Seata 解决分布式事务问题</title>
-    <updated>2020-12-27T17:16:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/9aZIGLJx7W9b51QA91fGLw</id>
-    <link href="https://mp.weixin.qq.com/s/9aZIGLJx7W9b51QA91fGLw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿天地 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T16:34:07+08:00</updated>
+  <updated>2021-01-07T13:50:40+08:00</updated>
   <subtitle>猿天地由《Spring Cloud微服务-全栈技术与案例解析》, 《Spring Cloud微服务 入门 实战与进阶》作者尹吉欢创建。 资深Java技术专家和微服务技术专家，在Spring Cloud和微服务方面有丰富的经验。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>写了一个慢接口，年终妥妥的325</title>
+    <updated>2021-01-06T15:01:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/FWUVpIq4DFKiR3B0mWABpA</id>
+    <link href="https://mp.weixin.qq.com/s/FWUVpIq4DFKiR3B0mWABpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google 开源的依赖注入库，比 Spring 更小更快！</title>
+    <updated>2021-01-06T15:01:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/p6OqWMBuQraXuhTKyLXeUg</id>
+    <link href="https://mp.weixin.qq.com/s/p6OqWMBuQraXuhTKyLXeUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>爽啊！有Java电商经验的被抢着捞！新型电商疯狂崛起！</title>
     <updated>2021-01-05T21:56:57+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-24T11:19:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/74RSkqjniWRum28ZZiK3Mw</id>
     <link href="https://mp.weixin.qq.com/s/74RSkqjniWRum28ZZiK3Mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>天天CRUD的我，也想玩玩高大上的Prometheus</title>
-    <updated>2020-12-19T14:48:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/QoAs0-AYy8krWTa3HbmJZA</id>
-    <link href="https://mp.weixin.qq.com/s/QoAs0-AYy8krWTa3HbmJZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

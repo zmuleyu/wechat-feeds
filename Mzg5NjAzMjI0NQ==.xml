@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:20:51+08:00</updated>
+  <updated>2021-01-07T13:29:10+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实战|Android后台启动Activity实践之路</title>
+    <updated>2021-01-06T15:37:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NQfHDdxnqhHeOUw8vxazKQ</id>
+    <link href="https://mp.weixin.qq.com/s/NQfHDdxnqhHeOUw8vxazKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你不知道的 DOM 变动观察器：Mutation observer</title>
+    <updated>2021-01-06T15:37:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/aO_-f1D_8dlTIYH1IQ9bBQ</id>
+    <link href="https://mp.weixin.qq.com/s/aO_-f1D_8dlTIYH1IQ9bBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你一定没见过的高扩展性 React/Vue 修饰器</title>
     <updated>2021-01-05T17:02:30+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-25T14:30:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/4QIsheam-c7_oIcndfBjtA</id>
     <link href="https://mp.weixin.qq.com/s/4QIsheam-c7_oIcndfBjtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>总结我对Vue项目团队开发的一些基本配置封装分享</title>
-    <updated>2020-12-24T15:29:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/BunmNP-U4USGQ7r_cUq-aw</id>
-    <link href="https://mp.weixin.qq.com/s/BunmNP-U4USGQ7r_cUq-aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你“情”我愿｜扶旗打卡赢好礼！</title>
-    <updated>2020-12-24T15:29:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/Txjq9RT0puWpgPWjUwucLQ</id>
-    <link href="https://mp.weixin.qq.com/s/Txjq9RT0puWpgPWjUwucLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一个优秀的废人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:36:21+08:00</updated>
+  <updated>2021-01-07T13:38:45+08:00</updated>
   <subtitle>说点你不知道的。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>啥？小胖连 JVM 对锁做了那些优化都不知道？真的菜！</title>
+    <updated>2021-01-06T23:46:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/TSq7uF0kG0Y7S7VWtU2vBA</id>
+    <link href="https://mp.weixin.qq.com/s/TSq7uF0kG0Y7S7VWtU2vBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动扩招一万人？这也太香了！</title>
     <updated>2021-01-05T20:51:52+08:00</updated>
@@ -26,13 +33,6 @@
     <updated>2021-01-04T22:02:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/_iyoCd2u-EmOe9XFV1tiow</id>
     <link href="https://mp.weixin.qq.com/s/_iyoCd2u-EmOe9XFV1tiow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来一起手写Vue3.0核心源码，面试源码问题一网打尽！</title>
-    <updated>2021-01-03T21:35:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/45r1EJksj2yPc0Bro0ArJA</id>
-    <link href="https://mp.weixin.qq.com/s/45r1EJksj2yPc0Bro0ArJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2020-12-23T21:30:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/bQNOQNGeGn5sBt6_s7xbEg</id>
     <link href="https://mp.weixin.qq.com/s/bQNOQNGeGn5sBt6_s7xbEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小胖：远哥，几万行数据导出超时了怎么办？</title>
-    <updated>2020-12-23T00:24:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/Ym1rw-_YaIlYCTYHCtwFaA</id>
-    <link href="https://mp.weixin.qq.com/s/Ym1rw-_YaIlYCTYHCtwFaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

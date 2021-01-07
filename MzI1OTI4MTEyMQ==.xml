@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>红宸笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:43:48+08:00</updated>
+  <updated>2021-01-07T13:43:24+08:00</updated>
   <subtitle>技术，生活，娱乐</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>c++11-17 模板核心知识（十一）—— 编写泛型库需要的基本技术</title>
+    <updated>2021-01-07T11:49:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/14e6aULAAZBloIwAy7fgiQ</id>
+    <link href="https://mp.weixin.qq.com/s/14e6aULAAZBloIwAy7fgiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>c++11-17 模板核心知识（十）—— 区分万能引用(universal references)和右值引用</title>
     <updated>2021-01-02T10:03:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T19:13:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/B_Y_8nZ_7YP0c3vLv01wZw</id>
     <link href="https://mp.weixin.qq.com/s/B_Y_8nZ_7YP0c3vLv01wZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>c++11-17 模板核心知识（一）—— 函数模板</title>
-    <updated>2020-12-21T23:20:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/V9Ge6_J0J4TWS5D2RnIivQ</id>
-    <link href="https://mp.weixin.qq.com/s/V9Ge6_J0J4TWS5D2RnIivQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

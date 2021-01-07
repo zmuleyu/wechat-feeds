@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T16:39:11+08:00</updated>
+  <updated>2021-01-07T13:50:35+08:00</updated>
   <subtitle>鬼哥，五年前端人，专注分享前端技术干货，工作实用文章！关注前端人，关注鬼哥</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vue.js开发移动端经验总结</title>
+    <updated>2021-01-07T12:51:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/l08G0skVlHJikYW9Y2FL2Q</id>
+    <link href="https://mp.weixin.qq.com/s/l08G0skVlHJikYW9Y2FL2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>纯CSS实现常见的UI，多么朴实无华的CSS3</title>
     <updated>2021-01-06T13:28:04+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-22T11:52:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/dLLtLzLKmJEhCokMyc66Vw</id>
     <link href="https://mp.weixin.qq.com/s/dLLtLzLKmJEhCokMyc66Vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几个月nuxt.js项目使用后，实用知识点总结【干货】</title>
-    <updated>2020-12-18T12:40:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/xw6dShrNiWqWDGRZ0ZRErw</id>
-    <link href="https://mp.weixin.qq.com/s/xw6dShrNiWqWDGRZ0ZRErw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

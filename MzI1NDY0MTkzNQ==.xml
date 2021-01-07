@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>江南一点雨 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:15:17+08:00</updated>
+  <updated>2021-01-07T13:31:01+08:00</updated>
   <subtitle>一站式Java全栈技术学习平台！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个注解搞定 Spring Boot 读写分离</title>
+    <updated>2021-01-07T10:22:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/jGY_fb8yFwEdfP-h5SF8gA</id>
+    <link href="https://mp.weixin.qq.com/s/jGY_fb8yFwEdfP-h5SF8gA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>手把手教大家搭建 MySQL 主从复制</title>
     <updated>2021-01-05T09:35:47+08:00</updated>
@@ -50,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>程序员又又又降薪了？</title>
-    <updated>2020-12-27T22:09:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/T3svDeyD0Iw3jC3wDHiEaA</id>
-    <link href="https://mp.weixin.qq.com/s/T3svDeyD0Iw3jC3wDHiEaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>使用 Nginx 部署前后端分离项目，解决跨域问题</title>
     <updated>2020-12-27T22:09:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/9Yc8hwUXQ3bVMqh3GZc14g</id>
@@ -75,13 +75,6 @@
     <updated>2020-12-25T10:32:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/pxHjq0ejT0Fy9v7-dpg0Tw</id>
     <link href="https://mp.weixin.qq.com/s/pxHjq0ejT0Fy9v7-dpg0Tw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手教大家整一个代码自动生成工具（二）</title>
-    <updated>2020-12-24T10:39:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/2m3cGlYmNOBe-1s5TT5DjA</id>
-    <link href="https://mp.weixin.qq.com/s/2m3cGlYmNOBe-1s5TT5DjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>哔哩哔哩 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:35:21+08:00</updated>
+  <updated>2021-01-07T13:43:00+08:00</updated>
   <subtitle>你感兴趣的视频，都在B站！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“原来，世界上真的有奥特曼”</title>
+    <updated>2021-01-07T12:00:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/KZ6-s46qk2AbDVXky8fivw</id>
+    <link href="https://mp.weixin.qq.com/s/KZ6-s46qk2AbDVXky8fivw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>B站老年UP主的快乐生活</title>
     <updated>2021-01-06T11:47:02+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-28T12:03:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/mAGKL-IK1cwlDUROGxVsBQ</id>
     <link href="https://mp.weixin.qq.com/s/mAGKL-IK1cwlDUROGxVsBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021，40多部B站新动画陪你开年</title>
-    <updated>2020-12-25T20:16:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/gI8p83uu4ET7hGJMbr382g</id>
-    <link href="https://mp.weixin.qq.com/s/gI8p83uu4ET7hGJMbr382g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

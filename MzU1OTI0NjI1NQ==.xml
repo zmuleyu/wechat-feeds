@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:35:04+08:00</updated>
+  <updated>2021-01-07T13:42:39+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>余额宝，凉了！！！</title>
+    <updated>2021-01-07T10:09:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/6IxL05Myg7s2H3fTzb3hIQ</id>
+    <link href="https://mp.weixin.qq.com/s/6IxL05Myg7s2H3fTzb3hIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为了帮助剪辑小姐姐少熬夜，我用 Python 硬肝了一次短视频音频创作</title>
     <updated>2021-01-06T10:22:48+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-24T20:47:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/MsnK9VggmgbprylV49544w</id>
     <link href="https://mp.weixin.qq.com/s/MsnK9VggmgbprylV49544w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | Jmeter 如何保证抢购、秒杀活动正常运行？</title>
-    <updated>2020-12-23T23:04:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/sLo5jt8AAZhEbrWwHggZlg</id>
-    <link href="https://mp.weixin.qq.com/s/sLo5jt8AAZhEbrWwHggZlg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
