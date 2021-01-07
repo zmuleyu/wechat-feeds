@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>桂迹 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:55:31+08:00</updated>
+  <updated>2021-01-08T07:49:29+08:00</updated>
   <subtitle>记录自己的痕迹：技术，爱好，见闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>单一职责在.NET中</title>
+    <updated>2021-01-07T10:49:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/bu35xdcap214nc1RX-xIWQ</id>
+    <link href="https://mp.weixin.qq.com/s/bu35xdcap214nc1RX-xIWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>老人言：尽量用异步</title>
     <updated>2021-01-05T20:42:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T18:54:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/E46I9L7pQ6GrkI6QgUV3sg</id>
     <link href="https://mp.weixin.qq.com/s/E46I9L7pQ6GrkI6QgUV3sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GraphQL：Descriptor Attributes</title>
-    <updated>2020-12-15T20:22:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/jU21hiMgPoAyB7zbVWjKGw</id>
-    <link href="https://mp.weixin.qq.com/s/jU21hiMgPoAyB7zbVWjKGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

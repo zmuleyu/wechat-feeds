@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端早读课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T07:46:04+08:00</updated>
+  <updated>2021-01-08T07:42:53+08:00</updated>
   <subtitle>关注前端，产品体验设计，更关注前端同行的成长。  每天清晨五点早读，七万+同行相伴成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【第2170期】在Web应用中减少CORS预检时间的4种方法</title>
+    <updated>2021-01-08T05:52:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/WqCgnpFgJsy0AJlVU-uRHQ</id>
+    <link href="https://mp.weixin.qq.com/s/WqCgnpFgJsy0AJlVU-uRHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【第2169期】盒马中后台跨端方案探索</title>
     <updated>2021-01-07T05:51:11+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-28T05:51:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/RpxAO4S2JfrmSx7mdu5sig</id>
     <link href="https://mp.weixin.qq.com/s/RpxAO4S2JfrmSx7mdu5sig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【第2160期】钉钉表格，从零到一打造在线 Excel</title>
-    <updated>2020-12-27T06:40:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/NiseW0URtcj5HSPcCltZWw</id>
-    <link href="https://mp.weixin.qq.com/s/NiseW0URtcj5HSPcCltZWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Serverless 如何落地？揭秘阿里核心业务大规模落地实现</title>
-    <updated>2020-12-27T06:40:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/qTnE99_gV-erSV_NBO8ojg</id>
-    <link href="https://mp.weixin.qq.com/s/qTnE99_gV-erSV_NBO8ojg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

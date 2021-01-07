@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>铭毅天下Elasticsearch | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:33:36+08:00</updated>
+  <updated>2021-01-08T07:50:13+08:00</updated>
   <subtitle>Elasticsearch技术基础、进阶、实战第一公众号！ 和你一起，死磕ELK Stack（Elasticsearch/Logstash/Kibana/Beats）!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Elasticsearch 缓存深入详解</title>
+    <updated>2021-01-08T00:11:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/x-3C3Nekv3pYoagGgQ8Q-A</id>
+    <link href="https://mp.weixin.qq.com/s/x-3C3Nekv3pYoagGgQ8Q-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>靠写作杀出一条“血”路——我的2020年终总结</title>
     <updated>2020-12-31T18:11:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-05T23:49:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/ImQ70xMKHRShE06uGXYMRQ</id>
     <link href="https://mp.weixin.qq.com/s/ImQ70xMKHRShE06uGXYMRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Elasticsearch 如何实现查询/聚合不区分大小写？</title>
-    <updated>2020-12-02T22:26:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/_at38HfkKotB8pdp4wgItg</id>
-    <link href="https://mp.weixin.qq.com/s/_at38HfkKotB8pdp4wgItg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
