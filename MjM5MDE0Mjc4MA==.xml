@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T16:25:01+08:00</updated>
+  <updated>2021-01-08T16:23:44+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>比特币首次突破40000美元，10年涨千万倍但依然极具风险</title>
+    <updated>2021-01-08T12:49:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/rJiMuAxXUvhAzqZQ4SIdxw</id>
+    <link href="https://mp.weixin.qq.com/s/rJiMuAxXUvhAzqZQ4SIdxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中小团队开始回归单体架构，那么电信运营商该不该用微服务？</title>
+    <updated>2021-01-08T12:49:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/y9PZLgHhVcdsMuTzAyIMsQ</id>
+    <link href="https://mp.weixin.qq.com/s/y9PZLgHhVcdsMuTzAyIMsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fit健身APP联手HarmonyOS，升级在线健身体验</title>
+    <updated>2021-01-08T12:49:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HeLFbfzWQCM1wpzlagx3gQ</id>
+    <link href="https://mp.weixin.qq.com/s/HeLFbfzWQCM1wpzlagx3gQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年Web开发的7大趋势</title>
+    <updated>2021-01-08T12:49:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/2brswsEtEqeVmzsj1tkNMQ</id>
+    <link href="https://mp.weixin.qq.com/s/2brswsEtEqeVmzsj1tkNMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Docker镜像优化：从1.16GB到22.4MB</title>
+    <updated>2021-01-08T12:49:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/g9-HDyEcxm3Ez04SsApGgg</id>
+    <link href="https://mp.weixin.qq.com/s/g9-HDyEcxm3Ez04SsApGgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kotlin开发团队惹上麻烦了</title>
     <updated>2021-01-07T12:50:11+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-05T13:09:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/xtQbPTW6iDqHH-muu_Vlcg</id>
     <link href="https://mp.weixin.qq.com/s/xtQbPTW6iDqHH-muu_Vlcg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国三大电信运营商被迫从美股退市，商务部：将采取必要措施</title>
-    <updated>2021-01-04T13:11:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/1cFYQY7BGz1dSpqULHTYKA</id>
-    <link href="https://mp.weixin.qq.com/s/1cFYQY7BGz1dSpqULHTYKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解读物联网的2020：生态梦从何说起</title>
-    <updated>2021-01-04T13:11:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/2eQ1-5d79WTdrW4lIVEJ1g</id>
-    <link href="https://mp.weixin.qq.com/s/2eQ1-5d79WTdrW4lIVEJ1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术实战：数十万云服务器如何高效运维？｜ QCon</title>
-    <updated>2021-01-04T13:11:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/CZVBCNU10A1_q12kKbzjJg</id>
-    <link href="https://mp.weixin.qq.com/s/CZVBCNU10A1_q12kKbzjJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TDWI： 2021数据分析与商业智能预测</title>
-    <updated>2021-01-04T13:11:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/0RfR2jVBZZQIH-caqjvAJA</id>
-    <link href="https://mp.weixin.qq.com/s/0RfR2jVBZZQIH-caqjvAJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>改善代码可读性的5种方法</title>
-    <updated>2021-01-04T13:11:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/7dhcXUOy_IuWCC-IFl6_Pg</id>
-    <link href="https://mp.weixin.qq.com/s/7dhcXUOy_IuWCC-IFl6_Pg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

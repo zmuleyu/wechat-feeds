@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>第59号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:44:30+08:00</updated>
+  <updated>2021-01-08T16:36:12+08:00</updated>
   <subtitle>美创科技旗下安全实验室，专注于数据库安全技术、勒索病毒研究，第一时间传递美创安全动态与最新前沿行业资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>安全实验室 | 内网渗透—利用ICMP实现命令控制</title>
+    <updated>2021-01-08T14:22:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/hMnaxB3w2mEyCjD5lU82rg</id>
+    <link href="https://mp.weixin.qq.com/s/hMnaxB3w2mEyCjD5lU82rg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>每周安全速递¹⁴³｜温哥华交通运输公司TransLink确认数据泄露</title>
+    <updated>2021-01-08T14:22:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/VRge_c4747nyEBgJjllCnQ</id>
+    <link href="https://mp.weixin.qq.com/s/VRge_c4747nyEBgJjllCnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《数据安全能力成熟度模型》实践指南：数据销毁处置</title>
     <updated>2021-01-05T17:51:44+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-09T16:03:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/pJjneP7K7c8LmFUngQ_Azg</id>
     <link href="https://mp.weixin.qq.com/s/pJjneP7K7c8LmFUngQ_Azg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>老柳谈安全 | 零信任架构2.0的进化：以加密重构新边界（3A加密）</title>
-    <updated>2020-12-07T18:14:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/tarzI7ZRDupQqen0jN7c8w</id>
-    <link href="https://mp.weixin.qq.com/s/tarzI7ZRDupQqen0jN7c8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
