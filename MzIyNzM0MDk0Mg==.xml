@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TonyBai | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:29:05+08:00</updated>
+  <updated>2021-01-08T13:45:49+08:00</updated>
   <subtitle>与技术博客tonybai.com同源。近期关注Kubernetes、Docker、Golang、儿童编程、DevOps、云计算平台和机器学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>通过实例理解Go标准库http包是如何处理keep-alive连接的</title>
+    <updated>2021-01-08T09:40:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/uH4lmsMs-hq5B3Ivq2jR5w</id>
+    <link href="https://mp.weixin.qq.com/s/uH4lmsMs-hq5B3Ivq2jR5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go实现的5G核心网开源项目free5gc源码分析系列 | Gopher Daily (2021.01.08) ʕ◔ϖ◔ʔ</title>
+    <updated>2021-01-08T09:40:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/OvkUAUZWgexeQgg7giQD1w</id>
+    <link href="https://mp.weixin.qq.com/s/OvkUAUZWgexeQgg7giQD1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go语言很无聊...其实它妙不可言！[译]</title>
     <updated>2021-01-07T17:00:36+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-30T10:57:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/s0JNDT1Q5lVQwp4Ud41coA</id>
     <link href="https://mp.weixin.qq.com/s/s0JNDT1Q5lVQwp4Ud41coA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go的错误处理准则 | Gopher Daily (2020.12.29) ʕ◔ϖ◔ʔ</title>
-    <updated>2020-12-29T17:01:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/k8XuyQfwl-ct43wjWIDd_w</id>
-    <link href="https://mp.weixin.qq.com/s/k8XuyQfwl-ct43wjWIDd_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

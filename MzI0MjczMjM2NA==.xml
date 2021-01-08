@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱奇艺技术产品团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:28:19+08:00</updated>
+  <updated>2021-01-08T13:34:21+08:00</updated>
   <subtitle>爱奇艺的技术产品团队</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>优化无止境，爱奇艺中后台 Web 应用性能优化实践</title>
+    <updated>2021-01-08T12:06:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/H88469QNdE-IChc8u-pBaQ</id>
+    <link href="https://mp.weixin.qq.com/s/H88469QNdE-IChc8u-pBaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>领域驱动设计在爱奇艺打赏业务的实践</title>
+    <updated>2021-01-08T12:06:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/5lhqLGnRg3QcSJIKhpVZaQ</id>
+    <link href="https://mp.weixin.qq.com/s/5lhqLGnRg3QcSJIKhpVZaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>爱奇艺SOAR探索与实践</title>
+    <updated>2021-01-08T12:06:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/NJd1jMhAJqT8pMO_tRstSQ</id>
+    <link href="https://mp.weixin.qq.com/s/NJd1jMhAJqT8pMO_tRstSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>来了！2020年度盘点，一次get全年最热技术好文（内！附！福！利！）</title>
     <updated>2020-12-31T19:00:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-13T18:14:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/fJ22y7MQvkcNJkiAnMwcUg</id>
     <link href="https://mp.weixin.qq.com/s/fJ22y7MQvkcNJkiAnMwcUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爱奇艺数据仓库平台和服务建设实践</title>
-    <updated>2020-11-13T18:14:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/BsBWm_sXEzRXF_pb7yY_6Q</id>
-    <link href="https://mp.weixin.qq.com/s/BsBWm_sXEzRXF_pb7yY_6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TensorFlow Ranking框架在海外推荐业务中的实践与应用</title>
-    <updated>2020-11-06T18:22:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/hPHETfj3qrZlvcJDFezSkA</id>
-    <link href="https://mp.weixin.qq.com/s/hPHETfj3qrZlvcJDFezSkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明天见 | 大数据应用与数据中台实践沙龙——不见不散</title>
-    <updated>2020-11-06T18:22:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/jBEMXnl05f0bA6LtuTXLYg</id>
-    <link href="https://mp.weixin.qq.com/s/jBEMXnl05f0bA6LtuTXLYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈前端精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:41:33+08:00</updated>
+  <updated>2021-01-08T13:43:52+08:00</updated>
   <subtitle>内容为王，精选为则。从前端到全栈，定期分享前端、客户端、Node、面试、职场感悟等相关高质量文章。小白的大神养成记，你我共勉！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么那么多自学Web前端的人后来都放弃了?</title>
+    <updated>2021-01-07T19:08:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/eEu8AVwJd6dxLj_abtuXTg</id>
+    <link href="https://mp.weixin.qq.com/s/eEu8AVwJd6dxLj_abtuXTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你所不知道的 CSS 负值技巧与细节</title>
+    <updated>2021-01-07T19:08:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/E2_quJ059J1w5LxpzH7aWg</id>
+    <link href="https://mp.weixin.qq.com/s/E2_quJ059J1w5LxpzH7aWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>厌倦了写活动页？快来撸一个页面生成器吧！</title>
     <updated>2021-01-07T10:32:30+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-28T10:24:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/CHX1b-khbNVBsHTuhcpvBw</id>
     <link href="https://mp.weixin.qq.com/s/CHX1b-khbNVBsHTuhcpvBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>可视化拖拽组件库一些技术要点原理分析</title>
-    <updated>2020-12-24T11:31:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/AL1g--hJDEs60xMQjhTuZg</id>
-    <link href="https://mp.weixin.qq.com/s/AL1g--hJDEs60xMQjhTuZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:48:32+08:00</updated>
+  <updated>2021-01-08T13:50:52+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊微服务的通信模式</title>
+    <updated>2021-01-08T12:02:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/0QwUywzjsET0fjQK_P0djA</id>
+    <link href="https://mp.weixin.qq.com/s/0QwUywzjsET0fjQK_P0djA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021 年，这8种编程语言最流行</title>
+    <updated>2021-01-08T12:02:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ch6ItWvMLknBuY48tYGXIA</id>
+    <link href="https://mp.weixin.qq.com/s/ch6ItWvMLknBuY48tYGXIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>每天扫描超300亿行代码，DevSecOps在华为的落地与实践</title>
     <updated>2021-01-07T11:36:22+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-30T11:32:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/5N0MSDYM9ozuX9pAeBfjRA</id>
     <link href="https://mp.weixin.qq.com/s/5N0MSDYM9ozuX9pAeBfjRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>框架在左网格在右，云原生时代的微服务路在何方？</title>
-    <updated>2020-12-29T11:46:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/JhAPll1y66G5oAXzArof6g</id>
-    <link href="https://mp.weixin.qq.com/s/JhAPll1y66G5oAXzArof6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你还在用 REST API 吗？</title>
-    <updated>2020-12-29T11:46:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/QTmSLGeNGeW_Nlum5L9uDg</id>
-    <link href="https://mp.weixin.qq.com/s/QTmSLGeNGeW_Nlum5L9uDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

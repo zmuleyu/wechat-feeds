@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>闲鱼技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T13:42:38+08:00</updated>
+  <updated>2021-01-08T13:54:01+08:00</updated>
   <subtitle>阿里巴巴-闲鱼技术团队官方账号。 招服务端／客户端／前端／算法／架构／质量工程师，简历投递guicai.gxy@alibaba-inc.com</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>闲鱼是如何实践一套完整的埋点自动化验证方案的？</title>
+    <updated>2021-01-08T11:11:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/jzFZUuj8C5mTUTZjjJ63GQ</id>
+    <link href="https://mp.weixin.qq.com/s/jzFZUuj8C5mTUTZjjJ63GQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让你的react代码跑在svelte引擎上</title>
     <updated>2021-01-05T11:59:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-11T23:33:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/sl498SZZqScza-cYIKSXpg</id>
     <link href="https://mp.weixin.qq.com/s/sl498SZZqScza-cYIKSXpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对闲鱼分享组件升级后，才知道什么叫灵活可扩展...</title>
-    <updated>2020-12-10T12:09:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/D0QZQ3Bwuwel0pztkyguUw</id>
-    <link href="https://mp.weixin.qq.com/s/D0QZQ3Bwuwel0pztkyguUw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

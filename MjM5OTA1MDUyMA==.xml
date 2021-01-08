@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员的那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:39:24+08:00</updated>
+  <updated>2021-01-08T13:41:32+08:00</updated>
   <subtitle>日常分享程序员相关的精选文章和热点资讯；外加每天一张程序员减压的IT趣图，笑的有高度；还有难得一见的程序员相亲，一不小心就脱单了 :)</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“Java 死了吗？” 年年都能看到这个论调，但 Java 依然好好的</title>
+    <updated>2021-01-08T10:50:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bGS69IBzeVuQPSwMHKvJCg</id>
+    <link href="https://mp.weixin.qq.com/s/bGS69IBzeVuQPSwMHKvJCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linus 新年第一怼：英特尔正在扼杀整个 ECC 产业</title>
+    <updated>2021-01-08T10:50:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/wWb1TM0jrGTXUm2dKjmc6w</id>
+    <link href="https://mp.weixin.qq.com/s/wWb1TM0jrGTXUm2dKjmc6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>趣图：我敢打赌，很多程序员搞副业创业都有这样的经历</title>
+    <updated>2021-01-08T10:50:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Aw0V0y7u1npEKIIekd7Ueg</id>
+    <link href="https://mp.weixin.qq.com/s/Aw0V0y7u1npEKIIekd7Ueg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>无锁队列的实现</title>
+    <updated>2021-01-08T10:50:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/_gCy5JNG00JctM8pTDiBjg</id>
+    <link href="https://mp.weixin.qq.com/s/_gCy5JNG00JctM8pTDiBjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚刚，腾讯发布了一个重磅白皮书！和程序员有关</title>
     <updated>2021-01-07T11:23:44+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-04T19:21:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/tUuh1-0fICRbZunHLGL_CA</id>
     <link href="https://mp.weixin.qq.com/s/tUuh1-0fICRbZunHLGL_CA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>远离 996！一位亚马逊程序员的心声</title>
-    <updated>2021-01-03T21:24:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/u42hQpYgJFHSYEw2AxCn2g</id>
-    <link href="https://mp.weixin.qq.com/s/u42hQpYgJFHSYEw2AxCn2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>6 万 Star！史上最全面的 Go 语言开发资源</title>
-    <updated>2021-01-03T21:24:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/gBD56yo040N1W__-PrxDBQ</id>
-    <link href="https://mp.weixin.qq.com/s/gBD56yo040N1W__-PrxDBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>趣图：祖传老代码，不要乱动</title>
-    <updated>2021-01-03T21:24:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Thfv_61gE6PONsVngSFQ9Q</id>
-    <link href="https://mp.weixin.qq.com/s/Thfv_61gE6PONsVngSFQ9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不用 GAN，照片生成简笔画，效果惊艳</title>
-    <updated>2021-01-03T21:24:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/430f2l9QZGFb0DMVmRLuDA</id>
-    <link href="https://mp.weixin.qq.com/s/430f2l9QZGFb0DMVmRLuDA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

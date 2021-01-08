@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:45:39+08:00</updated>
+  <updated>2021-01-08T13:48:25+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CTO 写的代码，真是绝了</title>
+    <updated>2021-01-07T17:43:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/UAXFfsbP3WE6Mq43l_HrSw</id>
+    <link href="https://mp.weixin.qq.com/s/UAXFfsbP3WE6Mq43l_HrSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL为Null会导致5个问题，个个致命！</title>
     <updated>2021-01-06T17:49:17+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-23T17:36:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/bv_YUgqJUwCTakQ0BQg-UQ</id>
     <link href="https://mp.weixin.qq.com/s/bv_YUgqJUwCTakQ0BQg-UQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来一起用 Vue3.0 做个飞机大战游戏</title>
-    <updated>2020-12-22T19:30:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Q5U9uY34f3Cf6jGglJdN8A</id>
-    <link href="https://mp.weixin.qq.com/s/Q5U9uY34f3Cf6jGglJdN8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 的历史 !</title>
-    <updated>2020-12-22T19:30:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/70VEdWLMWmLANftb3kuPPw</id>
-    <link href="https://mp.weixin.qq.com/s/70VEdWLMWmLANftb3kuPPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

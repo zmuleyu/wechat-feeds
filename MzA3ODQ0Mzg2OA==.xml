@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:54:13+08:00</updated>
+  <updated>2021-01-08T13:54:20+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分享基于 Spring Cloud +OAuth2 的权限管理系统</title>
+    <updated>2021-01-08T11:57:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/SXCPSG-4swAgmQpAC9Ejxg</id>
+    <link href="https://mp.weixin.qq.com/s/SXCPSG-4swAgmQpAC9Ejxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>链家程序员删公司9TB 数据 被判7年</title>
+    <updated>2021-01-08T11:57:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/cbYTUsIvDj4BP-bwXbrO4g</id>
+    <link href="https://mp.weixin.qq.com/s/cbYTUsIvDj4BP-bwXbrO4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工作10年后，再看String s = new String(&#34;xyz&#34;) 创建了几个对象？</title>
+    <updated>2021-01-08T11:57:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gXmXVgkhvbAmb4m9RpRkrA</id>
+    <link href="https://mp.weixin.qq.com/s/gXmXVgkhvbAmb4m9RpRkrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>能挣钱的，开源 SpringBoot 商城系统，功能超全，超漂亮！</title>
     <updated>2021-01-06T22:06:31+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-01T10:42:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/Jm5jqOWpvkGXholRfW0Vmw</id>
     <link href="https://mp.weixin.qq.com/s/Jm5jqOWpvkGXholRfW0Vmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>写“好”代码的十九条准则</title>
-    <updated>2021-01-01T10:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/tuLV39DRPtflQZv8trpUuw</id>
-    <link href="https://mp.weixin.qq.com/s/tuLV39DRPtflQZv8trpUuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐几款 Redis 可视化工具</title>
-    <updated>2021-01-01T10:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/Qe4X52kIKkBppbwrLvhi7A</id>
-    <link href="https://mp.weixin.qq.com/s/Qe4X52kIKkBppbwrLvhi7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Github 买 Star?</title>
-    <updated>2020-12-31T17:49:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/KcvjnRKygjYbgh8nRPtW5w</id>
-    <link href="https://mp.weixin.qq.com/s/KcvjnRKygjYbgh8nRPtW5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
