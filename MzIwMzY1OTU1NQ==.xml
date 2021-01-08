@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:46:03+08:00</updated>
+  <updated>2021-01-08T11:50:13+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在 IDEA 中用了热部署神器 JRebel 之后，开发效率提升10倍！</title>
+    <updated>2021-01-08T08:48:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Yw3c3Q-haMYZSTAqf2ATzQ</id>
+    <link href="https://mp.weixin.qq.com/s/Yw3c3Q-haMYZSTAqf2ATzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官问：服务的心跳机制与断线重连，Netty底层是怎么实现的？懵了</title>
     <updated>2021-01-07T09:29:36+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-12-29T08:39:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/cwrjn_k4Fn8nnLHsi2SLvA</id>
     <link href="https://mp.weixin.qq.com/s/cwrjn_k4Fn8nnLHsi2SLvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot2.X 官方推荐，万字详解本地缓存之王 Caffeine</title>
-    <updated>2020-12-28T09:58:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/lvf6yu0M2S_-dTM1TtdF7w</id>
-    <link href="https://mp.weixin.qq.com/s/lvf6yu0M2S_-dTM1TtdF7w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

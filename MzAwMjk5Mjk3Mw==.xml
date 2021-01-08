@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武哥聊编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:40:10+08:00</updated>
+  <updated>2021-01-08T11:43:30+08:00</updated>
   <subtitle>在这里，每天进步一点点。你若对得起时间，时间便对得起你！感谢关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CDN 加速原理</title>
+    <updated>2021-01-08T01:11:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HcLQj2BbvnDKB2lXxWHA8w</id>
+    <link href="https://mp.weixin.qq.com/s/HcLQj2BbvnDKB2lXxWHA8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5年前的Dubbo，2年前的Spring Cloud，都输给了这个架构！</title>
     <updated>2021-01-06T22:23:49+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-30T01:59:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/gtFzyNLtSS_30PamOXFQFw</id>
     <link href="https://mp.weixin.qq.com/s/gtFzyNLtSS_30PamOXFQFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你还在用分页？试试 MyBatis 流式查询，真心强大！</title>
-    <updated>2020-12-30T01:59:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/JaG3eykXlUKSfkJC1wmslg</id>
-    <link href="https://mp.weixin.qq.com/s/JaG3eykXlUKSfkJC1wmslg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

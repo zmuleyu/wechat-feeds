@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端迷 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T16:39:58+08:00</updated>
+  <updated>2021-01-08T11:53:08+08:00</updated>
   <subtitle>专注于vue/react/常见前端面试/最新web前端技术的分享；致力于算法以数据结构及前端底层原理、源码技术研究探讨；独具匠心，用心去打造一个一流的前端交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>工作中如何巧妙的使用发布订阅模式</title>
+    <updated>2021-01-08T10:46:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/nmBLo11NKcfeISyklQEdBA</id>
+    <link href="https://mp.weixin.qq.com/s/nmBLo11NKcfeISyklQEdBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>两小时搞定ES6：原理讲解+项目实战</title>
     <updated>2021-01-06T11:39:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T22:07:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/AHDAogScDN2TVKkGuxD88A</id>
     <link href="https://mp.weixin.qq.com/s/AHDAogScDN2TVKkGuxD88A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试偶尔问的 Vue2 中 slot 和 slot-scope 的原理</title>
-    <updated>2020-12-22T22:25:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/akgAdbwnr2m3JK5VWLHgOA</id>
-    <link href="https://mp.weixin.qq.com/s/akgAdbwnr2m3JK5VWLHgOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

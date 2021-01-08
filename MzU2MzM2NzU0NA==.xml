@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端森林 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:41:06+08:00</updated>
+  <updated>2021-01-08T11:45:23+08:00</updated>
   <subtitle>一个有温度的前端号，关注行业前沿。从基础到架构，携手你我共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么那么多自学Web前端的人后来都放弃了?</title>
+    <updated>2021-01-07T21:55:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/gJP4ssMGagjlkMF-O9Mk9Q</id>
+    <link href="https://mp.weixin.qq.com/s/gJP4ssMGagjlkMF-O9Mk9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>增量 DOM 与虚拟 DOM 的对比使用</title>
     <updated>2021-01-06T21:25:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T22:58:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/7TRsKrL7ZZyheyqcB0Zlbw</id>
     <link href="https://mp.weixin.qq.com/s/7TRsKrL7ZZyheyqcB0Zlbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>17张思维导图，2021年前端面试最全复习大纲</title>
-    <updated>2020-12-09T20:52:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/h0uasBnTYVQG4alXEk1UiA</id>
-    <link href="https://mp.weixin.qq.com/s/h0uasBnTYVQG4alXEk1UiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

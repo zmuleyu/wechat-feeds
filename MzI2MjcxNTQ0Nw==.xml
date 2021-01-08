@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈修仙之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:43:06+08:00</updated>
+  <updated>2021-01-08T11:54:26+08:00</updated>
   <subtitle>聚焦全栈，专注分享 TypeScript、Web API、Node.js、Deno 等技术干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CORS和CSRF修炼宝典</title>
+    <updated>2021-01-08T08:25:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/QpT1K63Iod9e3dm4doIm5Q</id>
+    <link href="https://mp.weixin.qq.com/s/QpT1K63Iod9e3dm4doIm5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让你页面速度飞起来的前端性能优化方案</title>
     <updated>2021-01-06T07:14:58+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-24T07:58:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/CMEb-VxSov3ZAwjPFBua3w</id>
     <link href="https://mp.weixin.qq.com/s/CMEb-VxSov3ZAwjPFBua3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学习 sentry 源码整体架构，打造属于自己的前端异常监控SDK</title>
-    <updated>2020-12-23T07:55:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/ALxDDpT33v_sTp9MZTTU1g</id>
-    <link href="https://mp.weixin.qq.com/s/ALxDDpT33v_sTp9MZTTU1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

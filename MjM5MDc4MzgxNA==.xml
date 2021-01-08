@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端自习课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:30:58+08:00</updated>
+  <updated>2021-01-08T11:33:18+08:00</updated>
   <subtitle>每日清晨，享受一篇前端优秀文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【JS】832- 位运算符在 JS 中的妙用</title>
+    <updated>2021-01-07T22:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/4JeB1jps5bAdDaueEZNMNA</id>
+    <link href="https://mp.weixin.qq.com/s/4JeB1jps5bAdDaueEZNMNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【拓展】831- 前端进阶不可错过的 10 个 Github 仓库</title>
     <updated>2021-01-06T22:54:32+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-30T15:07:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/MIyjIsiNLUQgRPjkDTE3Dg</id>
     <link href="https://mp.weixin.qq.com/s/MIyjIsiNLUQgRPjkDTE3Dg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【浏览器】822- 使用 Performance 看看浏览器在做些什么</title>
-    <updated>2020-12-28T23:56:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/KCO109Uuedh1mIo3_pD6jw</id>
-    <link href="https://mp.weixin.qq.com/s/KCO109Uuedh1mIo3_pD6jw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

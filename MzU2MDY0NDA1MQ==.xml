@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一个优秀的废人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:38:45+08:00</updated>
+  <updated>2021-01-08T11:43:25+08:00</updated>
   <subtitle>说点你不知道的。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>肝了三天，我给小胖整理了 24 条技术路线！</title>
+    <updated>2021-01-07T23:17:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/55CCiNv91j5_VhfOjp-mGg</id>
+    <link href="https://mp.weixin.qq.com/s/55CCiNv91j5_VhfOjp-mGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>小胖问我：SpringBoot 怎么实现 MySQL 读写分离呀？</title>
+    <updated>2021-01-07T23:17:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/I7aSVCm628chUj3Lj6r13Q</id>
+    <link href="https://mp.weixin.qq.com/s/I7aSVCm628chUj3Lj6r13Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>啥？小胖连 JVM 对锁做了那些优化都不知道？真的菜！</title>
     <updated>2021-01-06T23:46:22+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-28T00:01:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/pK8FYKprJ7eznPH31Kt_Xg</id>
     <link href="https://mp.weixin.qq.com/s/pK8FYKprJ7eznPH31Kt_Xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小胖：远哥，什么是 Zookeeper 的选举机制？</title>
-    <updated>2020-12-23T21:30:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/bQNOQNGeGn5sBt6_s7xbEg</id>
-    <link href="https://mp.weixin.qq.com/s/bQNOQNGeGn5sBt6_s7xbEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

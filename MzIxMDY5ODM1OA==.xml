@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>伪架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T20:35:15+08:00</updated>
+  <updated>2021-01-08T11:59:21+08:00</updated>
   <subtitle>容器、网格相关的原创以及译文。 中老年IT工人的闲言碎语。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>送容器下乡？</title>
+    <updated>2021-01-08T11:24:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/sgZ9LW3zA8olcpPQNr59dA</id>
+    <link href="https://mp.weixin.qq.com/s/sgZ9LW3zA8olcpPQNr59dA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生喝酒 SIG 2020 年度总结</title>
     <updated>2020-12-31T18:01:21+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-02T01:15:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/RhOnfRed4kjJLdeoGwWhcA</id>
     <link href="https://mp.weixin.qq.com/s/RhOnfRed4kjJLdeoGwWhcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>libp2p-rs 开源项目的落地实现</title>
-    <updated>2020-10-28T23:44:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/oLCnpyvudXYQcDokdAWgXw</id>
-    <link href="https://mp.weixin.qq.com/s/oLCnpyvudXYQcDokdAWgXw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈自学社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:48:19+08:00</updated>
+  <updated>2021-01-08T11:52:03+08:00</updated>
   <subtitle>全栈自学社区，专注于编程技术的讲解与分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>线性表概述</title>
+    <updated>2021-01-08T10:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/5kcz4q5sLeBfwvRWax93hw</id>
+    <link href="https://mp.weixin.qq.com/s/5kcz4q5sLeBfwvRWax93hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis事务与监控</title>
+    <updated>2021-01-08T10:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/wuW2PU9u1M3UYUbS04kIGw</id>
+    <link href="https://mp.weixin.qq.com/s/wuW2PU9u1M3UYUbS04kIGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你真的会正确使用日志吗？</title>
+    <updated>2021-01-08T10:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/LRhnCMAt9ONkAmsd5X1VXQ</id>
+    <link href="https://mp.weixin.qq.com/s/LRhnCMAt9ONkAmsd5X1VXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Redis三种特殊类型</title>
     <updated>2021-01-07T11:03:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/2lL8cLYKRI5cHndPH82-zg</id>
     <link href="https://mp.weixin.qq.com/s/2lL8cLYKRI5cHndPH82-zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实锤！2020年全球程序员收入报告，字节跳动工程师年薪竟然......</title>
-    <updated>2021-01-07T11:03:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/j9hwdfIw05AYXeiS3HlAAA</id>
-    <link href="https://mp.weixin.qq.com/s/j9hwdfIw05AYXeiS3HlAAA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +131,6 @@
     <updated>2020-12-16T10:53:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/SlZP15Nq9HJqyO5IVhB8rQ</id>
     <link href="https://mp.weixin.qq.com/s/SlZP15Nq9HJqyO5IVhB8rQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里10年：一个普通技术人的成长之路</title>
-    <updated>2020-12-11T12:50:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/C1CRynNlb-0UcflqDbLt6w</id>
-    <link href="https://mp.weixin.qq.com/s/C1CRynNlb-0UcflqDbLt6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

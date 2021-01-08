@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱笑的架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:38:14+08:00</updated>
+  <updated>2021-01-08T11:34:46+08:00</updated>
   <subtitle>华中科技大学硕士，大厂打工中……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谈谈拼夕夕事件！为什么我们拼尽全力却还要996</title>
+    <updated>2021-01-08T08:27:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/3WVde2dAKfqKv0DBt5dGLw</id>
+    <link href="https://mp.weixin.qq.com/s/3WVde2dAKfqKv0DBt5dGLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5分钟带你快速了解ServiceMesh的前世今生</title>
     <updated>2021-01-05T17:31:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-12T17:05:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/TScpvjpIlyZyj62e8EwOPg</id>
     <link href="https://mp.weixin.qq.com/s/TScpvjpIlyZyj62e8EwOPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>经理让我复盘上次Redis缓存雪崩事故</title>
-    <updated>2020-11-09T12:33:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/g3DcfgF7vBd_n_ArOo8UTg</id>
-    <link href="https://mp.weixin.qq.com/s/g3DcfgF7vBd_n_ArOo8UTg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

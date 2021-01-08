@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端Q | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:42:58+08:00</updated>
+  <updated>2021-01-08T11:47:49+08:00</updated>
   <subtitle>本公众号主要分享一些技术圈(前端圈为主)相关的技术文章、工具资源、学习资料、招聘信息及其他有趣的东西...</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>整个行业都缺Web前端工程师，你还在问Web前端工作好找吗？</title>
+    <updated>2021-01-07T19:38:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/MJf0FCqTz5HXNGQFcBEHcg</id>
+    <link href="https://mp.weixin.qq.com/s/MJf0FCqTz5HXNGQFcBEHcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>总结了工作中常用的 ES6 代码片段，整理后的 24 个值得拥有</title>
     <updated>2021-01-06T23:10:46+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-28T22:48:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/N3B8McDNERQ-c23hQL-b8A</id>
     <link href="https://mp.weixin.qq.com/s/N3B8McDNERQ-c23hQL-b8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年12月程序员工资新出炉，你拖后腿了吗？</title>
-    <updated>2020-12-28T02:14:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/pf4EpAsU8_fhrnJqZI9QgQ</id>
-    <link href="https://mp.weixin.qq.com/s/pf4EpAsU8_fhrnJqZI9QgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这6种组织CSS的方式，可以帮助你解决CSS扩展维护难的问题</title>
-    <updated>2020-12-28T02:14:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/VD7RZlZVQxFOhW-mi8LO0Q</id>
-    <link href="https://mp.weixin.qq.com/s/VD7RZlZVQxFOhW-mi8LO0Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

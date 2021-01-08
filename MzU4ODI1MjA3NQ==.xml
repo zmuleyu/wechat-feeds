@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CodeSheep | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:54:02+08:00</updated>
+  <updated>2021-01-08T11:55:20+08:00</updated>
   <subtitle>一只爱技术的程序羊，想把分享变成一种习惯！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分析了近百个Java岗要求，总结了这6点</title>
+    <updated>2021-01-08T09:20:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/mwT0m-nan3lxaLHrUGushg</id>
+    <link href="https://mp.weixin.qq.com/s/mwT0m-nan3lxaLHrUGushg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>两台计算机之间究竟是如何通信的？</title>
+    <updated>2021-01-08T09:20:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ZCddesfN0qISh3Rqo2jbWA</id>
+    <link href="https://mp.weixin.qq.com/s/ZCddesfN0qISh3Rqo2jbWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我司服务器上几个常用的监控工具，俺全瞟来了</title>
     <updated>2021-01-06T23:12:39+08:00</updated>
@@ -50,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>如何在最短的时间内搞定数据结构和算法，应付大厂面试？</title>
-    <updated>2021-01-04T09:43:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/aLH6rlLAhe_7oWJLJ4wEvg</id>
-    <link href="https://mp.weixin.qq.com/s/aLH6rlLAhe_7oWJLJ4wEvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>章鱼猫2020发育得可以哇，数据蹭蹭地，涨！</title>
     <updated>2021-01-02T23:28:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/t7NUCquxaRM59B0PQTUtRg</id>
@@ -89,13 +96,6 @@
     <updated>2020-12-28T22:39:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/d7Zfat2fP6IX5DMKKtEIjQ</id>
     <link href="https://mp.weixin.qq.com/s/d7Zfat2fP6IX5DMKKtEIjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个算法工程师的日常</title>
-    <updated>2020-12-28T10:08:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/-vBrii3kn5lNn0Bj4rzAdg</id>
-    <link href="https://mp.weixin.qq.com/s/-vBrii3kn5lNn0Bj4rzAdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

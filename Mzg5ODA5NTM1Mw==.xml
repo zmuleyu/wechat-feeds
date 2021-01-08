@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端工匠 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:32:31+08:00</updated>
+  <updated>2021-01-08T11:35:02+08:00</updated>
   <subtitle>我是浪里行舟，Github博客5000+star作者，掘金、CSDN社区活跃作者，致力于打造一系列能够帮助前端工程师提高的优质文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新的跨域策略：COOP、COEP</title>
+    <updated>2021-01-07T23:40:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/i43KH-bb1dVE9sQNp5VSiQ</id>
+    <link href="https://mp.weixin.qq.com/s/i43KH-bb1dVE9sQNp5VSiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>来一起学Vue3源码，为年后跳槽做准备！</title>
     <updated>2021-01-06T20:24:42+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T00:01:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/R9ie_F4FhBgzzDscIqcX8A</id>
     <link href="https://mp.weixin.qq.com/s/R9ie_F4FhBgzzDscIqcX8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这些高阶的函数技术，你掌握了么</title>
-    <updated>2020-12-25T22:43:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/MtlazhwlKObRUgVDgaNtEQ</id>
-    <link href="https://mp.weixin.qq.com/s/MtlazhwlKObRUgVDgaNtEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

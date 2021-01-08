@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:44:13+08:00</updated>
+  <updated>2021-01-08T11:49:26+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动2021年Java岗发布（附内部面试题）</title>
+    <updated>2021-01-08T10:28:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/azH_v6Vjfk7dfZ4wAQ5GDw</id>
+    <link href="https://mp.weixin.qq.com/s/azH_v6Vjfk7dfZ4wAQ5GDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>9 个爱不释手的 JSON 工具</title>
+    <updated>2021-01-08T10:28:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/_N-EYzK78r973IOBPB4rpg</id>
+    <link href="https://mp.weixin.qq.com/s/_N-EYzK78r973IOBPB4rpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>线上出现死锁怎么解决？不看别后悔！！！</title>
+    <updated>2021-01-08T10:28:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/LRTYSQiVuWeN2J-vhnVOeg</id>
+    <link href="https://mp.weixin.qq.com/s/LRTYSQiVuWeN2J-vhnVOeg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis性能问题排查解决手册（值得收藏）</title>
     <updated>2021-01-06T22:09:34+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-01T17:01:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/WWqjX3ezNvWtvtQBF1PiwQ</id>
     <link href="https://mp.weixin.qq.com/s/WWqjX3ezNvWtvtQBF1PiwQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>强大的MySQL 官方压测神器，简单、易用！</title>
-    <updated>2020-12-31T18:21:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/E_C86nx871ef7rCsOHebQA</id>
-    <link href="https://mp.weixin.qq.com/s/E_C86nx871ef7rCsOHebQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全网最全的程序员常用资源工具集合（建议收藏）</title>
-    <updated>2020-12-31T18:21:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/YC7sFyopjn9jdAhMlNSqSA</id>
-    <link href="https://mp.weixin.qq.com/s/YC7sFyopjn9jdAhMlNSqSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构，配置中心的技术选型</title>
-    <updated>2020-12-30T21:00:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Eq_RfF6XR37dk5CIE-jmKA</id>
-    <link href="https://mp.weixin.qq.com/s/Eq_RfF6XR37dk5CIE-jmKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

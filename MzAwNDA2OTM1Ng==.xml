@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>三太子敖丙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T16:27:52+08:00</updated>
+  <updated>2021-01-08T11:40:00+08:00</updated>
   <subtitle>一个文绉绉的程序员</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>说个特俗，但大家心里都想的事儿。</title>
+    <updated>2021-01-07T23:52:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/VpRdev3etd7l4i2aR2jlSw</id>
+    <link href="https://mp.weixin.qq.com/s/VpRdev3etd7l4i2aR2jlSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：缓存一致性问题怎么解决？</title>
+    <updated>2021-01-07T23:52:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/dYvM8_6SQnYRB6KjPsprbw</id>
+    <link href="https://mp.weixin.qq.com/s/dYvM8_6SQnYRB6KjPsprbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Christina问我：你都是如何设计索引的？</title>
     <updated>2021-01-06T22:29:07+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-28T00:29:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/I9PGsWo7-ykGf2diKklGtA</id>
     <link href="https://mp.weixin.qq.com/s/I9PGsWo7-ykGf2diKklGtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂面试Linux就这5个问题</title>
-    <updated>2020-12-27T18:33:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/24vBHgtw5efC9V9yYqknNg</id>
-    <link href="https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

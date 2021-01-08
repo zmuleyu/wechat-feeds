@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>beetlex | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:51:48+08:00</updated>
+  <updated>2021-01-08T11:54:13+08:00</updated>
   <subtitle>专注于开源通讯框架开发</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用BeetleX.ESDoc构建文档搜索功能</title>
+    <updated>2021-01-08T10:19:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/l3RYlgv37AXkDTUgYnjZAg</id>
+    <link href="https://mp.weixin.qq.com/s/l3RYlgv37AXkDTUgYnjZAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Xamarin使XRPC实现接口/委托远程调用</title>
     <updated>2021-01-07T10:10:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T10:33:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/RDWUweUZDygMoLpWFxuzaA</id>
     <link href="https://mp.weixin.qq.com/s/RDWUweUZDygMoLpWFxuzaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BeetleX使用Vue开发web应用入门视频</title>
-    <updated>2020-12-19T10:04:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/8yk7sUyIIpiJs63qG2yQdQ</id>
-    <link href="https://mp.weixin.qq.com/s/8yk7sUyIIpiJs63qG2yQdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

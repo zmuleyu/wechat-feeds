@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:10:23+08:00</updated>
+  <updated>2021-01-08T11:32:08+08:00</updated>
   <subtitle>人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精 选课程、热点资讯等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节、快手开始大小周，双倍工资的那种！</title>
+    <updated>2021-01-07T22:08:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/fzCpVd_fDuircrxS1CNAog</id>
+    <link href="https://mp.weixin.qq.com/s/fzCpVd_fDuircrxS1CNAog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货整理！10个Python图像处理工具，入门必看，提效大法</title>
+    <updated>2021-01-07T22:08:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/8KioTM4E7ilwg5ejtnztBA</id>
+    <link href="https://mp.weixin.qq.com/s/8KioTM4E7ilwg5ejtnztBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>急死！CPU 被挖矿了，却找不到哪个进程！</title>
     <updated>2021-01-07T20:56:13+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-01T21:58:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/9QcctM66zbJNgkNtLXlc4Q</id>
     <link href="https://mp.weixin.qq.com/s/9QcctM66zbJNgkNtLXlc4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从踩坑学Python内部原理（11）：布尔你咋了 ?</title>
-    <updated>2021-01-01T21:58:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/HuQK7W10XT-ZpDAkPIxG5A</id>
-    <link href="https://mp.weixin.qq.com/s/HuQK7W10XT-ZpDAkPIxG5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>两天狂揽 4k+ Star，抢茅台 Python 脚本霸榜 GitHub</title>
-    <updated>2020-12-31T17:58:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/UrQwt9xj6YoxBQiq38gO-w</id>
-    <link href="https://mp.weixin.qq.com/s/UrQwt9xj6YoxBQiq38gO-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老司机技术周报 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:49:52+08:00</updated>
+  <updated>2021-01-08T11:54:13+08:00</updated>
   <subtitle>每周定期整理与发布业界资讯、开发工具、开源代码、学习资料、求职招聘信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Mac Catalyst 的新功能</title>
+    <updated>2021-01-08T01:57:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/zlmsfTgUtJNKbBZxOgn8KQ</id>
+    <link href="https://mp.weixin.qq.com/s/zlmsfTgUtJNKbBZxOgn8KQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】北京 - 百度如流客户端招聘 iOS/Android/Mac/Windows 研发工程师</title>
+    <updated>2021-01-08T01:57:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/BlDy2WEMWxZsRqkhvdcYQQ</id>
+    <link href="https://mp.weixin.qq.com/s/BlDy2WEMWxZsRqkhvdcYQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文了解 Xcode 生成「静态库」和「动态库」 的流程</title>
     <updated>2021-01-07T01:34:26+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-23T01:46:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/H523kIf0B_QzyRCtkC8qVQ</id>
     <link href="https://mp.weixin.qq.com/s/H523kIf0B_QzyRCtkC8qVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iOS 稳定性：使用 XCTIssue 分析诊断测试失败问题</title>
-    <updated>2020-12-22T00:01:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/O-awF7t4jqJVPNdL-4jidA</id>
-    <link href="https://mp.weixin.qq.com/s/O-awF7t4jqJVPNdL-4jidA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【如何加入读者群？】</title>
-    <updated>2020-12-22T00:01:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/yCO5IvZIQmL9SgcMrci_-A</id>
-    <link href="https://mp.weixin.qq.com/s/yCO5IvZIQmL9SgcMrci_-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

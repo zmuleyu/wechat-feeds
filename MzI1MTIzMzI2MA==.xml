@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>算法爱好者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:12:58+08:00</updated>
+  <updated>2021-01-08T11:35:16+08:00</updated>
   <subtitle>算法是程序员的内功！「算法爱好者」专注分享算法相关文章、工具资源和算法题，帮程序员修炼内功。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>冬天到了，女朋友想让我的网站也下雪，我立马打开电脑撸代码…</title>
+    <updated>2021-01-07T23:04:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7ZRsaoJtBV_xr8t9U_laAA</id>
+    <link href="https://mp.weixin.qq.com/s/7ZRsaoJtBV_xr8t9U_laAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拿到这份“小抄”，字节面试妥了</title>
+    <updated>2021-01-07T23:04:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ZM0pW2kI3CQt-do6O-rtDg</id>
+    <link href="https://mp.weixin.qq.com/s/ZM0pW2kI3CQt-do6O-rtDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫画：一台 Linux 服务器最多能支撑多少个 TCP 连接</title>
     <updated>2021-01-07T20:48:07+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-31T21:32:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/SvVp5L6vo32jZ8IIAAkujA</id>
     <link href="https://mp.weixin.qq.com/s/SvVp5L6vo32jZ8IIAAkujA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不好好学 C++ 还想做好算法？</title>
-    <updated>2020-12-29T23:26:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/zD670fHRBRfZqteWjU-o3A</id>
-    <link href="https://mp.weixin.qq.com/s/zD670fHRBRfZqteWjU-o3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>哲学家进餐问题及其 3 种解决方案</title>
-    <updated>2020-12-29T23:26:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/gPRk_DCzX3s_kSAT7A3F-A</id>
-    <link href="https://mp.weixin.qq.com/s/gPRk_DCzX3s_kSAT7A3F-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

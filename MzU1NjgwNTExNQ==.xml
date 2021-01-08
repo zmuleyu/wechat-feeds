@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:34:47+08:00</updated>
+  <updated>2021-01-08T11:37:46+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动即将再招10000人，但是抱歉，他们只招实干型AI算法工程师</title>
+    <updated>2021-01-07T20:16:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ardRP6rl27WZsApgAKijGA</id>
+    <link href="https://mp.weixin.qq.com/s/ardRP6rl27WZsApgAKijGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub 宣布拆“墙”，恢复伊朗开发者使用权！</title>
+    <updated>2021-01-07T20:16:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/qH3bIAf0cbSSWPvDCu2z8Q</id>
+    <link href="https://mp.weixin.qq.com/s/qH3bIAf0cbSSWPvDCu2z8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>30-60k？2021，微服务还能走多远？</title>
     <updated>2021-01-06T20:46:47+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-12-29T20:18:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/mvcf54RxFwNuOd1DJLR57Q</id>
     <link href="https://mp.weixin.qq.com/s/mvcf54RxFwNuOd1DJLR57Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自己的代码难维护，怎么办？</title>
-    <updated>2020-12-28T23:08:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/8nX7-d9A39eN2Rl0tjbyKA</id>
-    <link href="https://mp.weixin.qq.com/s/8nX7-d9A39eN2Rl0tjbyKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

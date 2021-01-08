@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极客挖掘机 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:43:02+08:00</updated>
+  <updated>2021-01-08T11:47:35+08:00</updated>
   <subtitle>一个破写代码的</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>试试 IntelliJ IDEA 自带的高能神器！</title>
+    <updated>2021-01-07T23:51:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/O90iOoT4GcwQsYRaHSgJOg</id>
+    <link href="https://mp.weixin.qq.com/s/O90iOoT4GcwQsYRaHSgJOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华贵系的期末大作业：奋战三周，造台计算机！</title>
+    <updated>2021-01-07T23:51:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lxnA_8PFoRIFGhgdmxhDUQ</id>
+    <link href="https://mp.weixin.qq.com/s/lxnA_8PFoRIFGhgdmxhDUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>团伙搭建网络“拉皮条”平台，幕后主使竟不到17岁</title>
+    <updated>2021-01-07T23:51:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/KLPW7guFrBx63ITr9775vw</id>
+    <link href="https://mp.weixin.qq.com/s/KLPW7guFrBx63ITr9775vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务架构中配置中心的选择</title>
+    <updated>2021-01-07T23:51:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/kJaFI1DIgGDp93cCQUThVg</id>
+    <link href="https://mp.weixin.qq.com/s/kJaFI1DIgGDp93cCQUThVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯，干掉 Redis 项目，正式开源、太牛逼啦！</title>
+    <updated>2021-01-07T23:51:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/LWfSM6dCKRhrY8-7peOtHQ</id>
+    <link href="https://mp.weixin.qq.com/s/LWfSM6dCKRhrY8-7peOtHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>突发！美国封禁支付宝、QQ、微信支付、WPS 等 8 款中国 App</title>
     <updated>2021-01-07T00:09:06+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-04T00:25:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ARctgmLnkTNjyY2bYtHteQ</id>
     <link href="https://mp.weixin.qq.com/s/ARctgmLnkTNjyY2bYtHteQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 YApi 管理 API 文档、测试、MOCK</title>
-    <updated>2021-01-04T00:25:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/-sBITl0VjegtNn8OiBPQuw</id>
-    <link href="https://mp.weixin.qq.com/s/-sBITl0VjegtNn8OiBPQuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RocketMq架构简析</title>
-    <updated>2021-01-04T00:25:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/cdBkR8GctqaecABKcxxyQg</id>
-    <link href="https://mp.weixin.qq.com/s/cdBkR8GctqaecABKcxxyQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>灰度发布系统架构设计</title>
-    <updated>2021-01-04T00:25:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/45Sey5DzLwHUEN3ze1Hs_A</id>
-    <link href="https://mp.weixin.qq.com/s/45Sey5DzLwHUEN3ze1Hs_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爆料：幸福来得太突然！百度几乎全员发半个月特别奖金！</title>
-    <updated>2021-01-03T01:02:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Le_G_OMp1sN24_rhV_y-Yw</id>
-    <link href="https://mp.weixin.qq.com/s/Le_G_OMp1sN24_rhV_y-Yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你还在使用 try-catch-finally 关闭资源？不太优雅~</title>
-    <updated>2021-01-03T01:02:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/9Z39Pp9kMlumNTdVdQJhIA</id>
-    <link href="https://mp.weixin.qq.com/s/9Z39Pp9kMlumNTdVdQJhIA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EdisonTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:49:12+08:00</updated>
+  <updated>2021-01-08T11:53:31+08:00</updated>
   <subtitle>技术•产品•管理•读书•成长</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>#一图了解可维护的代码# 代码是程序员与机器沟通的桥梁，写好代码是每个程序员的追求，一个专业程序员，追求的不仅是实现功能，还要追求代码可维护。想要达到理想的可维护，我们还得学会用业务语言写代码，这也需要我们尽可能多地学习业务知识，将业务领域的名字用在代码中。推荐：《代码整洁之道》</title>
+    <updated>2021-01-07T16:26:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/s3fz2X4CtM59kf6MC3IB_w</id>
+    <link href="https://mp.weixin.qq.com/s/s3fz2X4CtM59kf6MC3IB_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>设计 | 体会软件设计之美（2）</title>
     <updated>2021-01-06T15:36:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T10:11:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/KlMiKIp5jNqvTXQM8EOJFA</id>
     <link href="https://mp.weixin.qq.com/s/KlMiKIp5jNqvTXQM8EOJFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>读书 | 五分钟商学院工具篇学习总结（上）</title>
-    <updated>2020-12-28T12:44:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/_bRu9QAe7xciSw8lX2mh3w</id>
-    <link href="https://mp.weixin.qq.com/s/_bRu9QAe7xciSw8lX2mh3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

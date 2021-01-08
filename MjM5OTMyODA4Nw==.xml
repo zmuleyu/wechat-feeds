@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python Web与Django开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:37:01+08:00</updated>
+  <updated>2021-01-08T11:40:04+08:00</updated>
   <subtitle>大江狗的Python Django原创基础教程, 技术总结与开发实战。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
+    <updated>2021-01-07T17:15:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/aRQhaCDLw7lGdkvDKK0ebA</id>
+    <link href="https://mp.weixin.qq.com/s/aRQhaCDLw7lGdkvDKK0ebA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python如何打包自己的库到 PYPI(可通过pip安装)</title>
     <updated>2021-01-06T22:54:42+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-16T16:01:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/WJuIP8rudvt8TFIGHbk0vg</id>
     <link href="https://mp.weixin.qq.com/s/WJuIP8rudvt8TFIGHbk0vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​为什么我建议你使用django-extensions</title>
-    <updated>2020-12-15T11:25:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/vDNQbTD62vAungym9EgNvw</id>
-    <link href="https://mp.weixin.qq.com/s/vDNQbTD62vAungym9EgNvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

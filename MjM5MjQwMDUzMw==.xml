@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王Plus | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:38:37+08:00</updated>
+  <updated>2021-01-08T11:47:16+08:00</updated>
   <subtitle>一个二十年的老全栈的技术碎碎念</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET Core 使用Topshelf方式创建Windows服务</title>
+    <updated>2021-01-07T21:44:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Bm7CbQMYFtSE9UDIKNZTWg</id>
+    <link href="https://mp.weixin.qq.com/s/Bm7CbQMYFtSE9UDIKNZTWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 ASP.Net Core MVC 中实现文件上传</title>
+    <updated>2021-01-07T21:44:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/tqkJ4Wi1diShSc3T-S0EmA</id>
+    <link href="https://mp.weixin.qq.com/s/tqkJ4Wi1diShSc3T-S0EmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CentOS7 中使用 Supervisor 部署 dotNET Core 程序</title>
+    <updated>2021-01-07T21:44:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0bWelbF7zz1j4TMmRLLdkw</id>
+    <link href="https://mp.weixin.qq.com/s/0bWelbF7zz1j4TMmRLLdkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.NET Core 中 使用 功能开关</title>
     <updated>2021-01-05T22:43:48+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-22T22:05:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/rQfQRZ8njS4th-gjGnsleA</id>
     <link href="https://mp.weixin.qq.com/s/rQfQRZ8njS4th-gjGnsleA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 中 ConcurrentDictionary 一定线程安全吗？</title>
-    <updated>2020-12-22T22:05:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/sBNSxLy4XBLsSjBcioQhIw</id>
-    <link href="https://mp.weixin.qq.com/s/sBNSxLy4XBLsSjBcioQhIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 C# 的 ETL 大数据并行编程</title>
-    <updated>2020-12-22T22:05:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/aNSF6JyiVsm1pfQlQbi0rA</id>
-    <link href="https://mp.weixin.qq.com/s/aNSF6JyiVsm1pfQlQbi0rA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 数据注解</title>
-    <updated>2020-12-20T20:23:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/_Mp6rN-t1DbPXiWolT3x5A</id>
-    <link href="https://mp.weixin.qq.com/s/_Mp6rN-t1DbPXiWolT3x5A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

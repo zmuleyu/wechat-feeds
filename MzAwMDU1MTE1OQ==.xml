@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T16:42:24+08:00</updated>
+  <updated>2021-01-08T11:54:30+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么我们不用数据库生成 ID？</title>
+    <updated>2021-01-08T09:42:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/kI2BvcIYh4viaFd8gfR9SQ</id>
+    <link href="https://mp.weixin.qq.com/s/kI2BvcIYh4viaFd8gfR9SQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C++服务编译耗时优化原理及实践</title>
     <updated>2021-01-07T14:27:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-27T09:52:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/xCP0lxc9Gc3QiBUmrsDWyg</id>
     <link href="https://mp.weixin.qq.com/s/xCP0lxc9Gc3QiBUmrsDWyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊 Service 命名与设计</title>
-    <updated>2020-12-26T09:26:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/a0VJM4eRcuTHzTGtMTFVWQ</id>
-    <link href="https://mp.weixin.qq.com/s/a0VJM4eRcuTHzTGtMTFVWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:54:12+08:00</updated>
+  <updated>2021-01-08T11:55:47+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前几天是谁说 WireGuard 不香的？看我今天怎么怼你</title>
+    <updated>2021-01-07T21:31:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/FS4DVuCmJcrkK8G85JH3lQ</id>
+    <link href="https://mp.weixin.qq.com/s/FS4DVuCmJcrkK8G85JH3lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高级架构师用三天教会了我高并发秒杀系统，绝了！</title>
     <updated>2021-01-06T21:36:20+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-26T12:39:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/YdHZGpa7Bg2SkXq20Xm6VQ</id>
     <link href="https://mp.weixin.qq.com/s/YdHZGpa7Bg2SkXq20Xm6VQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WireGuard 真的很香吗？香个屁！</title>
-    <updated>2020-12-25T00:09:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/OvqpL9aO6oMSL4GgjE6zbw</id>
-    <link href="https://mp.weixin.qq.com/s/OvqpL9aO6oMSL4GgjE6zbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

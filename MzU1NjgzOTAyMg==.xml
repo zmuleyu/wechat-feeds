@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ms08067安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:41:36+08:00</updated>
+  <updated>2021-01-08T11:45:52+08:00</updated>
   <subtitle>www.ms08067.com</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>intense靶场-获取User权限</title>
+    <updated>2021-01-07T20:57:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/yuLYiSgdrwjgAc_a8Cyuvw</id>
+    <link href="https://mp.weixin.qq.com/s/yuLYiSgdrwjgAc_a8Cyuvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何利用CobalStrike进行批量上线？</title>
     <updated>2021-01-06T21:53:50+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-28T00:06:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/iNqp2yYMwfnnyNxhqSrqVQ</id>
     <link href="https://mp.weixin.qq.com/s/iNqp2yYMwfnnyNxhqSrqVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“二进制逆向星球”--一年授课内容汇总 + 新增课程目录（文末有福利）</title>
-    <updated>2020-12-25T00:35:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/p-cTW4cDAeVtyhRrTVgxoQ</id>
-    <link href="https://mp.weixin.qq.com/s/p-cTW4cDAeVtyhRrTVgxoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

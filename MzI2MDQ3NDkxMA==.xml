@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:36:51+08:00</updated>
+  <updated>2021-01-08T11:39:51+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「译」 用 Blazor WebAssembly 实现微前端</title>
+    <updated>2021-01-08T07:44:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/hEr5_UmYxBUgtW1dnLpWnQ</id>
+    <link href="https://mp.weixin.qq.com/s/hEr5_UmYxBUgtW1dnLpWnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>InfluxDB  2.0  之Flux语法篇</title>
+    <updated>2021-01-08T07:44:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/RxpdTQsv83M83pRHl2HPjA</id>
+    <link href="https://mp.weixin.qq.com/s/RxpdTQsv83M83pRHl2HPjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Prism for WPF 搭建一个简单的模块化开发框架</title>
     <updated>2021-01-07T07:38:31+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-11-28T09:23:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-28:/s/J7mrRTSXkuX73vlxhR5GFQ</id>
     <link href="https://mp.weixin.qq.com/s/J7mrRTSXkuX73vlxhR5GFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WPF有关控件和模板样式设计的微软官方文档</title>
-    <updated>2020-11-26T10:13:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/cIXhaS29KbwlcXDanekuJg</id>
-    <link href="https://mp.weixin.qq.com/s/cIXhaS29KbwlcXDanekuJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

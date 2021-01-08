@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:33:26+08:00</updated>
+  <updated>2021-01-08T11:36:14+08:00</updated>
   <subtitle>专注于Web前端技术文章分享，包含JavaScript、HTML5、CSS3等前端基础知识，以及Vue.js,React,Augular等前端框架</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《2020 年度程序员收入报告》来袭，字节排第 7</title>
+    <updated>2021-01-07T16:44:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/GlNTzkjkKOz5AltI6Fuceg</id>
+    <link href="https://mp.weixin.qq.com/s/GlNTzkjkKOz5AltI6Fuceg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我是如何将网页性能提升5倍的 — 构建优化篇</title>
+    <updated>2021-01-07T16:44:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/xrtzz5Lo9IfqbV9Wy-lvJQ</id>
+    <link href="https://mp.weixin.qq.com/s/xrtzz5Lo9IfqbV9Wy-lvJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Vue 首页秒开实践指南</title>
     <updated>2021-01-06T17:57:31+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2020-12-27T17:58:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/OitrWjE-GNfhawlp6iPQSA</id>
     <link href="https://mp.weixin.qq.com/s/OitrWjE-GNfhawlp6iPQSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端从入门到放弃，是因为你没有这份高薪成长路线</title>
-    <updated>2020-12-25T23:18:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/EGD2qKJ9ASSfSdmnrG7cRw</id>
-    <link href="https://mp.weixin.qq.com/s/EGD2qKJ9ASSfSdmnrG7cRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JS 实现网页截屏五种方法</title>
-    <updated>2020-12-25T23:18:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/QBv63hIAT5khoV5odGGIig</id>
-    <link href="https://mp.weixin.qq.com/s/QBv63hIAT5khoV5odGGIig" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

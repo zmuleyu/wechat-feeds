@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hollis | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:44:00+08:00</updated>
+  <updated>2021-01-08T11:49:21+08:00</updated>
   <subtitle>Hollis，一个对Coding有着独特追求的人。现任阿里巴巴技术专家，《程序员的三门课》联合作者。本公众号专注分享Java相关技术干货！我已加入“维权骑士”(rightknights.com)的版权保护计划</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>IntelliJ IDEA 卡成球了？</title>
+    <updated>2021-01-07T22:33:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lSvnMryt21oov2BSingW4A</id>
+    <link href="https://mp.weixin.qq.com/s/lSvnMryt21oov2BSingW4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么阿里巴巴不允许使用Executors？</title>
+    <updated>2021-01-07T22:33:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/jo-W1_cBpYsoLZE_1jgpOg</id>
+    <link href="https://mp.weixin.qq.com/s/jo-W1_cBpYsoLZE_1jgpOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对比 5 种分布式事务方案，还是宠幸了阿里的 Seata（原理 + 实战）</title>
+    <updated>2021-01-07T22:33:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/KXapS2JGvHM8B47sPOt0ow</id>
+    <link href="https://mp.weixin.qq.com/s/KXapS2JGvHM8B47sPOt0ow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL 慌了！这个分库分表方法论，要火了？</title>
     <updated>2021-01-07T00:18:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-01T21:03:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/pHydKZxZEK0HZLqK3xQ21Q</id>
     <link href="https://mp.weixin.qq.com/s/pHydKZxZEK0HZLqK3xQ21Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你知道 Redis 使用的什么协议吗？</title>
-    <updated>2021-01-01T21:03:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/XNxSZ3uvqS10A3N9yVSstQ</id>
-    <link href="https://mp.weixin.qq.com/s/XNxSZ3uvqS10A3N9yVSstQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>某健康码APP信息泄露，大量明星素颜照被打包出售，2元70张。</title>
-    <updated>2020-12-31T22:35:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Z98SZh_3jn10gOYsPSgZFA</id>
-    <link href="https://mp.weixin.qq.com/s/Z98SZh_3jn10gOYsPSgZFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻底告别烂代码，让实现优雅起来！</title>
-    <updated>2020-12-31T22:35:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/fLYGurxFLPNNIlmEI0-8ng</id>
-    <link href="https://mp.weixin.qq.com/s/fLYGurxFLPNNIlmEI0-8ng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nodejs技术栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:57:14+08:00</updated>
+  <updated>2021-01-08T11:59:43+08:00</updated>
   <subtitle>聚集所有 Nodejs 爱好者，共建互帮互助的 Nodejs 技术栈交流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>复盘 Node.js 项目中遇到的 13+ 常见问题和解决方案</title>
+    <updated>2021-01-07T20:41:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/pXWAHLVLrUWjD8Mw5eNVAQ</id>
+    <link href="https://mp.weixin.qq.com/s/pXWAHLVLrUWjD8Mw5eNVAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js 对于 Java 开发者而言是什么？</title>
     <updated>2021-01-06T22:04:20+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T21:51:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/T8D32XR13dMvcFq6TvjEWg</id>
     <link href="https://mp.weixin.qq.com/s/T8D32XR13dMvcFq6TvjEWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网易智慧企业 Node.js 实践二: 平滑发布和前端代码</title>
-    <updated>2020-12-27T22:02:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/j3rA3GnBgk3O--2RAkryRQ</id>
-    <link href="https://mp.weixin.qq.com/s/j3rA3GnBgk3O--2RAkryRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

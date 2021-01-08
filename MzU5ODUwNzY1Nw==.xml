@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿飞的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:17:27+08:00</updated>
+  <updated>2021-01-08T11:35:36+08:00</updated>
   <subtitle>主要用来分享Java服务端相关的所有技术，坚持原创为主，已累计100+篇原创，包括但不限于：分布式&amp;微服务、JVM&amp;GC、Redis、索引&amp;分库分表、sharding-jdbc、kafka等，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>揭秘：一文彻底搞定高可用「异地多活」架构设计</title>
+    <updated>2021-01-08T08:11:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/q3oD4hyOrvqnBQ9Ji_GM_w</id>
+    <link href="https://mp.weixin.qq.com/s/q3oD4hyOrvqnBQ9Ji_GM_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干掉二阶提交：星巴克是怎么处理分布式事务的？</title>
     <updated>2021-01-05T08:18:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-19T08:09:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/1DvHWtTcwUbZ-OUvS0UIOw</id>
     <link href="https://mp.weixin.qq.com/s/1DvHWtTcwUbZ-OUvS0UIOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>史上最漂亮的ZooKeeper 客户端，美！</title>
-    <updated>2020-12-17T00:11:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/giu6rf1FncEgeFFOLZIr1g</id>
-    <link href="https://mp.weixin.qq.com/s/giu6rf1FncEgeFFOLZIr1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

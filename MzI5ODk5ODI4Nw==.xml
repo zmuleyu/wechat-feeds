@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:37:14+08:00</updated>
+  <updated>2021-01-08T11:40:00+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>K8s 调度系统由浅入深系列：简介</title>
+    <updated>2021-01-08T10:13:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/7vpVVQwe9_AdLXWVUFax1w</id>
+    <link href="https://mp.weixin.qq.com/s/7vpVVQwe9_AdLXWVUFax1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今天中午有直播｜Envoy/Istio WebAssembly 扩展实现原理</title>
+    <updated>2021-01-08T10:13:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/GoVn-C0kfQ-7oU2FwzMrcQ</id>
+    <link href="https://mp.weixin.qq.com/s/GoVn-C0kfQ-7oU2FwzMrcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 OpenEBS 实现 Local PV 动态持久化存储</title>
+    <updated>2021-01-08T10:13:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/wM5hQ8oRkIgyaRZT54cIHg</id>
+    <link href="https://mp.weixin.qq.com/s/wM5hQ8oRkIgyaRZT54cIHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>KubeTEE = Kubernetes + TEE</title>
+    <updated>2021-01-08T10:13:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/earWf6wan5CdeOnigU0PcA</id>
+    <link href="https://mp.weixin.qq.com/s/earWf6wan5CdeOnigU0PcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>欢迎Flagger加入Flux项目</title>
+    <updated>2021-01-08T10:13:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/t_yWQCP27lrxWJarmLs4pw</id>
+    <link href="https://mp.weixin.qq.com/s/t_yWQCP27lrxWJarmLs4pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用Lens管理多云Kubernetes</title>
     <updated>2021-01-07T11:34:50+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-05T10:33:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/pjGViaBudaDW7YeYPy4iyw</id>
     <link href="https://mp.weixin.qq.com/s/pjGViaBudaDW7YeYPy4iyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>安全记分卡和Envoy——自动化供应链分析</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/fM8rYORIP11TqerufuPdEQ</id>
-    <link href="https://mp.weixin.qq.com/s/fM8rYORIP11TqerufuPdEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Admission Webhook 机制实现多集群资源配额控制</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/rmwJIXFvy717wlY3Wsg0CQ</id>
-    <link href="https://mp.weixin.qq.com/s/rmwJIXFvy717wlY3Wsg0CQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 探针详解！</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/8Bcm0LAOgIEfBCWk9bR2GA</id>
-    <link href="https://mp.weixin.qq.com/s/8Bcm0LAOgIEfBCWk9bR2GA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes Service APIs 介绍</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/TI31FQG9ukbYQu-1dJSwnw</id>
-    <link href="https://mp.weixin.qq.com/s/TI31FQG9ukbYQu-1dJSwnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器云平台在法律科技领域的落地实践</title>
-    <updated>2021-01-04T10:42:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/aHsC-l_E0d8uKttheCq1ww</id>
-    <link href="https://mp.weixin.qq.com/s/aHsC-l_E0d8uKttheCq1ww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>飞雪无情 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:34:54+08:00</updated>
+  <updated>2021-01-08T11:57:57+08:00</updated>
   <subtitle>30万字Go系列笔记作者，知乎Go语言专题最高赞回答，专注于Go语言技术分享布道。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自己动手实现一个malloc内存分配器 | 30图</title>
+    <updated>2021-01-07T22:43:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/2muiqz64kHhH8f0ScflOoQ</id>
+    <link href="https://mp.weixin.qq.com/s/2muiqz64kHhH8f0ScflOoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解密 Go 语言之反射 reflect</title>
+    <updated>2021-01-07T22:43:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/RTqcELQQBnVhZxUwaW-beQ</id>
+    <link href="https://mp.weixin.qq.com/s/RTqcELQQBnVhZxUwaW-beQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在net/http标准库做了点手脚</title>
+    <updated>2021-01-07T22:43:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/s642u4rEHjC7nDDI9m0d6w</id>
+    <link href="https://mp.weixin.qq.com/s/s642u4rEHjC7nDDI9m0d6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go精妙的互斥锁设计</title>
+    <updated>2021-01-07T22:43:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/tpasNf81z9W_BBjxFZyNJw</id>
+    <link href="https://mp.weixin.qq.com/s/tpasNf81z9W_BBjxFZyNJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>golang 调试分析的高阶技巧</title>
     <updated>2020-12-27T15:23:38+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-17T19:27:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/qCR-mAjMHCzg9VH7OFbD2A</id>
     <link href="https://mp.weixin.qq.com/s/qCR-mAjMHCzg9VH7OFbD2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何快速打造一款钉钉 Go sdk</title>
-    <updated>2020-12-17T19:27:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/NlmAT8iPmGz4gJXgVaMsTA</id>
-    <link href="https://mp.weixin.qq.com/s/NlmAT8iPmGz4gJXgVaMsTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解逃逸分析</title>
-    <updated>2020-12-14T22:43:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/kJb1730w1ZzvYHDSnu899A</id>
-    <link href="https://mp.weixin.qq.com/s/kJb1730w1ZzvYHDSnu899A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 中的 Goroutine 和其他并发处理方案的对比</title>
-    <updated>2020-12-14T22:43:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/MnIUpgfmO755FhkjfddAyw</id>
-    <link href="https://mp.weixin.qq.com/s/MnIUpgfmO755FhkjfddAyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>必须要学的 Go 进程诊断工具 gops</title>
-    <updated>2020-12-14T22:43:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/_ZoBAZcKxka1wrRGkYFlbA</id>
-    <link href="https://mp.weixin.qq.com/s/_ZoBAZcKxka1wrRGkYFlbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

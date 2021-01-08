@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python爬虫与数据挖掘 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:57:04+08:00</updated>
+  <updated>2021-01-08T11:59:12+08:00</updated>
   <subtitle>人生苦短，我用Python。该公众号专注于分享Python网络爬虫、数据挖掘、数据分析、数据处理、数据可视化、自动化测试、运维、大数据、人工智能、云计算、机器学习等工具资源、热点资讯、相关技术文章、学习视频和学习资料等，期待您的加入~~~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用Scrapy网络爬虫框架小试牛刀</title>
+    <updated>2021-01-07T08:37:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/eClixDQzLKmckHPNG66WVw</id>
+    <link href="https://mp.weixin.qq.com/s/eClixDQzLKmckHPNG66WVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020人工智能学习路线！内附完整自学书籍+知识图谱！</title>
     <updated>2021-01-06T16:21:34+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-29T19:44:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/vKU0Gj0gyzrwi4e6SnqAOQ</id>
     <link href="https://mp.weixin.qq.com/s/vKU0Gj0gyzrwi4e6SnqAOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一篇文章带你了解Django ORM操作（基础篇）</title>
-    <updated>2020-12-28T12:06:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/L8Uumq3apFi0nohqvfqINA</id>
-    <link href="https://mp.weixin.qq.com/s/L8Uumq3apFi0nohqvfqINA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

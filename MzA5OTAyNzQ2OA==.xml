@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:48:19+08:00</updated>
+  <updated>2021-01-08T11:52:25+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>借助 Linux 用户命名空间来增强容器安全性</title>
+    <updated>2021-01-07T23:17:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Mh9bpvXO58EKogW7sPZK9w</id>
+    <link href="https://mp.weixin.qq.com/s/Mh9bpvXO58EKogW7sPZK9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2021-01-07T23:17:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/oPwoun-KbrQoQEmY-secXQ</id>
+    <link href="https://mp.weixin.qq.com/s/oPwoun-KbrQoQEmY-secXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据中台已成气候！大数据架构师如何站上风口？</title>
     <updated>2021-01-06T21:18:51+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-30T07:31:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/NsivfJ9xT3Zqj1JBTfLF0g</id>
     <link href="https://mp.weixin.qq.com/s/NsivfJ9xT3Zqj1JBTfLF0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>利用 eBPF 支撑大规模 Kubernetes Service</title>
-    <updated>2020-12-29T07:38:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/szD-mD9QTJxaabjoQprKAg</id>
-    <link href="https://mp.weixin.qq.com/s/szD-mD9QTJxaabjoQprKAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2020-12-29T07:38:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/8swySY3B2PuKibPkCYv0kg</id>
-    <link href="https://mp.weixin.qq.com/s/8swySY3B2PuKibPkCYv0kg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>C语言与C++编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:34:44+08:00</updated>
+  <updated>2021-01-08T11:37:41+08:00</updated>
   <subtitle>讨论和学习C/C++编程知识，分享C语言和C++开发相关的技术文章和工具资源</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自己动手实现一个malloc内存分配器 | 30图</title>
+    <updated>2021-01-07T17:42:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/oRE2NgMQdlWHTdbwA39gYg</id>
+    <link href="https://mp.weixin.qq.com/s/oRE2NgMQdlWHTdbwA39gYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>代码对比工具，我就用这6个</title>
     <updated>2021-01-06T17:52:04+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-27T19:14:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/ZvrOqMNHiwkU-nFW9QfTZA</id>
     <link href="https://mp.weixin.qq.com/s/ZvrOqMNHiwkU-nFW9QfTZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C/C++代码规范注释有哪些讲究？</title>
-    <updated>2020-12-24T17:37:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/9DyBcxGHtjpyAR2IylvOJQ</id>
-    <link href="https://mp.weixin.qq.com/s/9DyBcxGHtjpyAR2IylvOJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

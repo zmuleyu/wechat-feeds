@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android补给站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:26:38+08:00</updated>
+  <updated>2021-01-08T11:30:42+08:00</updated>
   <subtitle>Android&amp;小程序&amp;前端程序员，目标大前端，终身学习者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ActivityManagerService 启动初探</title>
+    <updated>2021-01-08T00:07:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/5VKMXpreUclSk_KV1XLL9A</id>
+    <link href="https://mp.weixin.qq.com/s/5VKMXpreUclSk_KV1XLL9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文彻底搞懂kotlin inline</title>
     <updated>2021-01-06T01:01:12+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T01:22:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/qzMXI5W_L6HQPMdkoVug-Q</id>
     <link href="https://mp.weixin.qq.com/s/qzMXI5W_L6HQPMdkoVug-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>算法之旅:复杂度分析</title>
-    <updated>2020-12-01T01:24:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/-sstduRIKxdwPLA1LmrQWg</id>
-    <link href="https://mp.weixin.qq.com/s/-sstduRIKxdwPLA1LmrQWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

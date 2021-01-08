@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小生方勤 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T02:07:38+08:00</updated>
+  <updated>2021-01-08T11:41:49+08:00</updated>
   <subtitle>这里是前端人的一片栖息之地，愿你在这里可以解开迷惑，收获喜悦。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试官：说下你的vue项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？</title>
+    <updated>2021-01-07T23:16:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/BGPO0EcChyoETV86vzbtBg</id>
+    <link href="https://mp.weixin.qq.com/s/BGPO0EcChyoETV86vzbtBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官：Vue要做权限管理该怎么做？控制到按钮级别的权限怎么做？</title>
     <updated>2021-01-07T23:15:00+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T20:44:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/-TSH79hvE9LxXTpWjLNOJQ</id>
     <link href="https://mp.weixin.qq.com/s/-TSH79hvE9LxXTpWjLNOJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享一位同学的阿里、百度前端面经</title>
-    <updated>2020-12-22T22:40:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/MmwLxi5oMhkLl2yR9dPoug</id>
-    <link href="https://mp.weixin.qq.com/s/MmwLxi5oMhkLl2yR9dPoug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

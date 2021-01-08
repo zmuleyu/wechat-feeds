@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>苏三说技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:31:31+08:00</updated>
+  <updated>2021-01-08T11:51:55+08:00</updated>
   <subtitle>苏三说技术维护者目前就职于某二线互联网公司，从事开发、架构和部分管理工作。曾待过创业公司、上市公司、国企、知名互联网公司，近期专注于工作经验、技术、架构设计、底层原理分享和日常随笔。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>redis的五大数据类型为什么这么受欢迎？别告诉我你不知道！</title>
+    <updated>2021-01-07T23:05:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/cYpJffAoaxNaSQRfKmlpnQ</id>
+    <link href="https://mp.weixin.qq.com/s/cYpJffAoaxNaSQRfKmlpnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>9条消除if...else的锦囊妙计，助你写出更优雅的代码</title>
     <updated>2021-01-03T15:59:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T18:04:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/yWO6XB_vtW0GQPsluWO6NA</id>
     <link href="https://mp.weixin.qq.com/s/yWO6XB_vtW0GQPsluWO6NA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让人头痛的大事务问题到底要如何解决？</title>
-    <updated>2020-11-30T09:24:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/-8O_sDrbzvpBXcLast8Frg</id>
-    <link href="https://mp.weixin.qq.com/s/-8O_sDrbzvpBXcLast8Frg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

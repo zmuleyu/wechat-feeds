@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:21:52+08:00</updated>
+  <updated>2021-01-08T11:40:23+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>到底要刷多少道算法题面试才稳？</title>
+    <updated>2021-01-08T08:53:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/P5G-ih2e4EKzBe_fZQ1UaQ</id>
+    <link href="https://mp.weixin.qq.com/s/P5G-ih2e4EKzBe_fZQ1UaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>全面解析 52 条 SQL 语句性能优化策略，建议收藏！</title>
+    <updated>2021-01-08T08:53:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/7mb3txsewSyRNHhJXMeWxg</id>
+    <link href="https://mp.weixin.qq.com/s/7mb3txsewSyRNHhJXMeWxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫谈千亿级数据优化实践：数据倾斜</title>
     <updated>2021-01-07T09:21:18+08:00</updated>
@@ -47,13 +61,6 @@
     <updated>2021-01-04T22:47:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/0R4-uuNRhx7Q7NPs6BvftA</id>
     <link href="https://mp.weixin.qq.com/s/0R4-uuNRhx7Q7NPs6BvftA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大数据Spark企业级实战与Hadoop实战 | PDF&amp;PPT</title>
-    <updated>2021-01-03T21:30:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/7CEB8sV-K8IheB741YeIUA</id>
-    <link href="https://mp.weixin.qq.com/s/7CEB8sV-K8IheB741YeIUA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,20 +131,6 @@
     <updated>2020-12-29T23:25:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/VruG2sg4BEPz6pPdkrohHw</id>
     <link href="https://mp.weixin.qq.com/s/VruG2sg4BEPz6pPdkrohHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文深入掌握druid</title>
-    <updated>2020-12-28T22:45:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/1NJOptGsocIotbjBoNFSsw</id>
-    <link href="https://mp.weixin.qq.com/s/1NJOptGsocIotbjBoNFSsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何理解Linux中的load averages？</title>
-    <updated>2020-12-28T22:45:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/H3M47yZ-n8VASpGS9V_gWw</id>
-    <link href="https://mp.weixin.qq.com/s/H3M47yZ-n8VASpGS9V_gWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

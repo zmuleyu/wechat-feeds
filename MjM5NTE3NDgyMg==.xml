@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软中国MSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:40:27+08:00</updated>
+  <updated>2021-01-08T11:38:44+08:00</updated>
   <subtitle>微软云Azure技术生态官方公众平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在线工作坊 | 机器学习模型简介</title>
+    <updated>2021-01-08T09:07:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/paB4CU_sLpdqdBKrS3u8Kg</id>
+    <link href="https://mp.weixin.qq.com/s/paB4CU_sLpdqdBKrS3u8Kg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Azure Migrate：加速云迁移从重人工向自动化与工具化演进</title>
     <updated>2021-01-06T10:20:18+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-23T09:47:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/b4vRwC-VOK3HhTNdMb4MRA</id>
     <link href="https://mp.weixin.qq.com/s/b4vRwC-VOK3HhTNdMb4MRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>断网弱网不用愁，边缘数据不断流</title>
-    <updated>2020-12-22T15:01:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/cfAd9E4fw093e2BLKvblJg</id>
-    <link href="https://mp.weixin.qq.com/s/cfAd9E4fw093e2BLKvblJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

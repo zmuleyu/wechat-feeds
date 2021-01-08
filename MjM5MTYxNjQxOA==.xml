@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T16:31:00+08:00</updated>
+  <updated>2021-01-08T11:43:38+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【红蓝对抗】新年的第一次内网实战</title>
+    <updated>2021-01-08T11:29:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/49AF2-_OTViay9lDYcdzHQ</id>
+    <link href="https://mp.weixin.qq.com/s/49AF2-_OTViay9lDYcdzHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从apt攻击角度思考企业安全防御</title>
+    <updated>2021-01-08T11:29:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/8QgSPiS8CMLvukDimZzfvQ</id>
+    <link href="https://mp.weixin.qq.com/s/8QgSPiS8CMLvukDimZzfvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从访客网络到潜入机房</title>
     <updated>2021-01-07T15:35:34+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-12-25T11:41:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/_L379eq0kufu3CCHN1DdkA</id>
     <link href="https://mp.weixin.qq.com/s/_L379eq0kufu3CCHN1DdkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年网络安全高级研修班邀请函</title>
-    <updated>2020-12-24T12:15:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/aOAVDvdrn2zlxcv7B46zJw</id>
-    <link href="https://mp.weixin.qq.com/s/aOAVDvdrn2zlxcv7B46zJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>渗透某大学从弱口令到 docker 逃逸</title>
-    <updated>2020-12-24T12:15:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/vICT9AmfsLjNB6BDeHp5FA</id>
-    <link href="https://mp.weixin.qq.com/s/vICT9AmfsLjNB6BDeHp5FA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
