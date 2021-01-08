@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武哥聊编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:43:30+08:00</updated>
+  <updated>2021-01-09T07:35:39+08:00</updated>
   <subtitle>在这里，每天进步一点点。你若对得起时间，时间便对得起你！感谢关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -36,13 +36,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>离不开的“微服务”架构，脱不开的RPC细节（收藏）</title>
-    <updated>2021-01-05T02:27:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/7QfEnohWaY-1CZKhI4Ez7w</id>
-    <link href="https://mp.weixin.qq.com/s/7QfEnohWaY-1CZKhI4Ez7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>delete、truncate、drop的区别有哪些，该如何选择？</title>
     <updated>2021-01-05T02:27:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/_Ud3ESB71R1NUl-5RmGa4A</id>
@@ -64,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>这60本Java畅销书！必读！免费送</title>
-    <updated>2021-01-03T20:43:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/s1oKIVysioGslsq3x56XVA</id>
-    <link href="https://mp.weixin.qq.com/s/s1oKIVysioGslsq3x56XVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>用Java实现天天酷跑（附源码），这个真的有点强了！</title>
     <updated>2021-01-03T20:43:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/a6L_N8ncYoISxCpEFj4hTQ</id>
@@ -82,13 +68,6 @@
     <updated>2021-01-03T20:43:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/kNoAKDf6rbcVZFZ-Sat9rQ</id>
     <link href="https://mp.weixin.qq.com/s/kNoAKDf6rbcVZFZ-Sat9rQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我珍藏的清华大学60本好书！包邮送一波~</title>
-    <updated>2021-01-02T10:57:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/qYT6VvXztb67Hov4pPe6xA</id>
-    <link href="https://mp.weixin.qq.com/s/qYT6VvXztb67Hov4pPe6xA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -145,6 +124,20 @@
     <updated>2020-12-30T01:59:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/gtFzyNLtSS_30PamOXFQFw</id>
     <link href="https://mp.weixin.qq.com/s/gtFzyNLtSS_30PamOXFQFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你还在用分页？试试 MyBatis 流式查询，真心强大！</title>
+    <updated>2020-12-30T01:59:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/JaG3eykXlUKSfkJC1wmslg</id>
+    <link href="https://mp.weixin.qq.com/s/JaG3eykXlUKSfkJC1wmslg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5款好用的 REST API 工具，推荐给你！</title>
+    <updated>2020-12-30T01:59:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/lfFWpkTrI5hAH071-X5A9A</id>
+    <link href="https://mp.weixin.qq.com/s/lfFWpkTrI5hAH071-X5A9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
