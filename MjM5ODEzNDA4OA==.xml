@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>杨建荣的学习笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T02:24:24+08:00</updated>
+  <updated>2021-01-09T02:22:42+08:00</updated>
   <subtitle>专注于技术。 人生一世，选条路，不退让，不更改，一直走到尽头，是件幸事：）</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>规避单点故障，MySQL 8.0 MGR软负载怎么选？</title>
+    <updated>2021-01-08T23:54:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bc14EG6escI8Ic_LM7P1Cg</id>
+    <link href="https://mp.weixin.qq.com/s/bc14EG6escI8Ic_LM7P1Cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>揭开服务降级的面纱！！！</title>
     <updated>2021-01-07T23:52:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T23:57:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/2i4OfZtnTVVlu1SAB3_yug</id>
     <link href="https://mp.weixin.qq.com/s/2i4OfZtnTVVlu1SAB3_yug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Rancher搭建K8S测试环境</title>
-    <updated>2020-12-28T23:59:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/vfg7pzSbEJ_gdrsqMmEsaw</id>
-    <link href="https://mp.weixin.qq.com/s/vfg7pzSbEJ_gdrsqMmEsaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

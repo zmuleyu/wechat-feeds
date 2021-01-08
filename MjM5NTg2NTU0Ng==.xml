@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>21CTO | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T02:25:06+08:00</updated>
+  <updated>2021-01-09T02:22:23+08:00</updated>
   <subtitle>21CTO(21CTO.com)是高质量、个性化的技术社区，顶级技术专家的社交平台。连接人与知识，提供 领先的技术，课程、工具及战略，创造未来所需的价值服务。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CTO头条：马斯克成为世界新首富；苹果开始造电动汽车；日产Git服务器源代码泄露；脸书无限封禁特朗普</title>
+    <updated>2021-01-08T23:58:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Ot4kZYSzTxMe4yDHGk2SWA</id>
+    <link href="https://mp.weixin.qq.com/s/Ot4kZYSzTxMe4yDHGk2SWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工商银行核心应用 MySQL 治理实践</title>
+    <updated>2021-01-08T23:58:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/mk4CqJCudtbuNLHJLuccaA</id>
+    <link href="https://mp.weixin.qq.com/s/mk4CqJCudtbuNLHJLuccaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>非常强悍的 RabbitMQ 总结，写得真好！</title>
+    <updated>2021-01-08T23:58:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/vdJCQYtdDyVgeXYKzyt2Gg</id>
+    <link href="https://mp.weixin.qq.com/s/vdJCQYtdDyVgeXYKzyt2Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>认知升级：从首席架构师到CTO</title>
     <updated>2021-01-07T23:59:37+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-02T23:47:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/nHCIOnlwLLkK1WV7yDJRsw</id>
     <link href="https://mp.weixin.qq.com/s/nHCIOnlwLLkK1WV7yDJRsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么不建议把数据库部署在Docker容器内</title>
-    <updated>2021-01-02T23:47:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/-xW2mB1ypmMAh1z9Vwvzqw</id>
-    <link href="https://mp.weixin.qq.com/s/-xW2mB1ypmMAh1z9Vwvzqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让你看透世界的8个底层逻辑</title>
-    <updated>2021-01-02T23:47:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/yNBxGCoaVvQL8P2oKavEHQ</id>
-    <link href="https://mp.weixin.qq.com/s/yNBxGCoaVvQL8P2oKavEHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每个人都了不起！习主席的新年祝福，送给大家！</title>
-    <updated>2021-01-01T23:59:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/GFC8V4wiw1dQgCiga-FdjA</id>
-    <link href="https://mp.weixin.qq.com/s/GFC8V4wiw1dQgCiga-FdjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

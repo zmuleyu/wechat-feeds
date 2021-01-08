@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T02:25:25+08:00</updated>
+  <updated>2021-01-09T02:23:21+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>又一起“删库”：链家程序员怒删公司 9TB 数据，被判 7 年！</title>
+    <updated>2021-01-08T23:53:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/w15zbDM770P083Oy5fS2Ug</id>
+    <link href="https://mp.weixin.qq.com/s/w15zbDM770P083Oy5fS2Ug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink on Hive构建流批一体数仓</title>
+    <updated>2021-01-08T23:53:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/lUXEUw5aEdNAx3q451341g</id>
+    <link href="https://mp.weixin.qq.com/s/lUXEUw5aEdNAx3q451341g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入理解Presto基本原理</title>
     <updated>2021-01-07T23:34:11+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-29T23:53:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/_Zeu8gyuSW3ja8zyeLsQMA</id>
     <link href="https://mp.weixin.qq.com/s/_Zeu8gyuSW3ja8zyeLsQMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hbase、Kudu和ClickHouse全视角对比</title>
-    <updated>2020-12-28T23:01:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/s8tVnQEGSMaA5YpV0pbkEg</id>
-    <link href="https://mp.weixin.qq.com/s/s8tVnQEGSMaA5YpV0pbkEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年轻时不多闯闯，老了拿什么来吹</title>
-    <updated>2020-12-28T23:01:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/2HrPgR5IL8EeEHLU4AmW4Q</id>
-    <link href="https://mp.weixin.qq.com/s/2HrPgR5IL8EeEHLU4AmW4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

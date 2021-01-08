@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>宽字节安全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:38:24+08:00</updated>
+  <updated>2021-01-09T02:06:32+08:00</updated>
   <subtitle>二十年专注安全研究，漏洞分析</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>某远未授权访问分析</title>
+    <updated>2021-01-08T23:39:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bHKDSF7HWsAgQi9rTagBQA</id>
+    <link href="https://mp.weixin.qq.com/s/bHKDSF7HWsAgQi9rTagBQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java反序列化协议解析 一</title>
     <updated>2020-12-28T17:59:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-23T17:27:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/RlEmkwit1cDxHhRBo-eY8A</id>
     <link href="https://mp.weixin.qq.com/s/RlEmkwit1cDxHhRBo-eY8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>cve 2020-14841 weblogic jndi注入绕过分析复现 附POC</title>
-    <updated>2020-10-21T20:55:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-21:/s/qs783sbJSOHgGi8pbpExIA</id>
-    <link href="https://mp.weixin.qq.com/s/qs783sbJSOHgGi8pbpExIA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
