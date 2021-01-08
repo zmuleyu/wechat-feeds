@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据派THU | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:39:54+08:00</updated>
+  <updated>2021-01-08T20:47:57+08:00</updated>
   <subtitle>发布清华校内相关科研动态、教学成果及线下活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>多模态深度学习综述：网络结构设计和模态融合方法汇总</title>
+    <updated>2021-01-08T14:16:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/isma9Z9vdz7xsj2ld9l32g</id>
+    <link href="https://mp.weixin.qq.com/s/isma9Z9vdz7xsj2ld9l32g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>参会邀请 | “新时代与新范式：新兴交叉学科的研究议程与发展路径”——第三届全国计算社会科学高端论坛</title>
+    <updated>2021-01-08T14:16:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/SjKq8as_rMH4uTZ7sy-bhA</id>
+    <link href="https://mp.weixin.qq.com/s/SjKq8as_rMH4uTZ7sy-bhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>独家 | Kaggle 大神Dan Becker与你分享他的数据科学之旅！</title>
     <updated>2021-01-07T10:21:43+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-30T14:16:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/yYstJIeA5spBhgnylLMtVQ</id>
     <link href="https://mp.weixin.qq.com/s/yYstJIeA5spBhgnylLMtVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DeepMind最新发现！神经网络的性能竟然优于神经符号模型</title>
-    <updated>2020-12-30T14:16:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Gaa-kyQbqgxBxxIg_BQQVA</id>
-    <link href="https://mp.weixin.qq.com/s/Gaa-kyQbqgxBxxIg_BQQVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于大规模结构化病例数据的新型冠状病毒传播特征和感染人群分析</title>
-    <updated>2020-12-30T14:16:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/shiJVTeLROWaHnVX1g62Xg</id>
-    <link href="https://mp.weixin.qq.com/s/shiJVTeLROWaHnVX1g62Xg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

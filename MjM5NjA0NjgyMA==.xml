@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:24:01+08:00</updated>
+  <updated>2021-01-08T20:30:40+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux应急响应笔记</title>
+    <updated>2021-01-08T17:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gmvlIJ8j-dJcAeVlR-_ytA</id>
+    <link href="https://mp.weixin.qq.com/s/gmvlIJ8j-dJcAeVlR-_ytA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>关于floor()报错注入，你真的懂了吗？</title>
+    <updated>2021-01-08T17:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gQWPwVCRLF_zRoogQPD2Wg</id>
+    <link href="https://mp.weixin.qq.com/s/gQWPwVCRLF_zRoogQPD2Wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用Hetty对HTTP进行安全研究审计</title>
+    <updated>2021-01-08T17:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/XjRdX75SVntiSiCpjKDKgA</id>
+    <link href="https://mp.weixin.qq.com/s/XjRdX75SVntiSiCpjKDKgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>通过RedShell将命令执行记录在Cobalt Strike团队服务器中</title>
+    <updated>2021-01-08T17:43:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Nx2b9kULlOT2lEuP0WNA8w</id>
+    <link href="https://mp.weixin.qq.com/s/Nx2b9kULlOT2lEuP0WNA8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>企业FRP安全实践</title>
     <updated>2021-01-07T17:58:32+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-04T18:35:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/xTD119ih-n9uJS1xgji-UA</id>
     <link href="https://mp.weixin.qq.com/s/xTD119ih-n9uJS1xgji-UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一次文件读取漏洞的“危害升级”历程</title>
-    <updated>2021-01-03T12:11:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/BFJcrzP12v2Coi078s7iVQ</id>
-    <link href="https://mp.weixin.qq.com/s/BFJcrzP12v2Coi078s7iVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用wsb-detect检测你是否在Windows沙盒中</title>
-    <updated>2021-01-03T12:11:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/PqkYgCwhObm3SNHiNSuTSQ</id>
-    <link href="https://mp.weixin.qq.com/s/PqkYgCwhObm3SNHiNSuTSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Emotet银行木马分析报告</title>
-    <updated>2021-01-03T12:11:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/hjY3kyPCObnzlcbCfHF4uw</id>
-    <link href="https://mp.weixin.qq.com/s/hjY3kyPCObnzlcbCfHF4uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DNSX：一款功能强大的多用途DNS工具包</title>
-    <updated>2021-01-03T12:11:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/LX8ul6KhTigrUn5Zs1TAFA</id>
-    <link href="https://mp.weixin.qq.com/s/LX8ul6KhTigrUn5Zs1TAFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

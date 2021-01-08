@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>绿盟科技研究通讯 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:27:07+08:00</updated>
+  <updated>2021-01-08T20:34:05+08:00</updated>
   <subtitle>绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>XAIGen：自动化攻击特征提取的项目开源啦</title>
+    <updated>2021-01-08T09:48:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/CGS_nAnFAJYhcjmQr6nS3A</id>
+    <link href="https://mp.weixin.qq.com/s/CGS_nAnFAJYhcjmQr6nS3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>k0otkit: Hack K8s in a K8s Way</title>
     <updated>2021-01-06T14:26:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T15:36:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/XFuv0orQ61XhrI2O-CyJSw</id>
     <link href="https://mp.weixin.qq.com/s/XFuv0orQ61XhrI2O-CyJSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【云原生安全】从分布式追踪看云原生应用安全</title>
-    <updated>2020-12-17T14:16:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/vjxVREXQEdrMLmSwCdTLmQ</id>
-    <link href="https://mp.weixin.qq.com/s/vjxVREXQEdrMLmSwCdTLmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

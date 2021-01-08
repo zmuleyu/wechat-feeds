@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:36:02+08:00</updated>
+  <updated>2021-01-08T20:21:34+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 如果是个水族馆</title>
+    <updated>2021-01-08T18:18:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/4YsRHyN-JFGbwb2JEih0Fw</id>
+    <link href="https://mp.weixin.qq.com/s/4YsRHyN-JFGbwb2JEih0Fw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>速收藏 | 2020 年开源项目推荐合集</title>
     <updated>2021-01-06T19:28:39+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-11T18:10:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/-MCAQ4GfL-aJYj08J--8dA</id>
     <link href="https://mp.weixin.qq.com/s/-MCAQ4GfL-aJYj08J--8dA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes v1.20 重磅发布 | 新版本核心主题 &amp; 主要变化解读</title>
-    <updated>2020-12-09T12:18:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/sOsZKG73eE2hMRKULrSuvw</id>
-    <link href="https://mp.weixin.qq.com/s/sOsZKG73eE2hMRKULrSuvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

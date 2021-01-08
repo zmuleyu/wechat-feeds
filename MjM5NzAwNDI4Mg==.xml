@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>七牛云 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:41:18+08:00</updated>
+  <updated>2021-01-08T20:32:55+08:00</updated>
   <subtitle>七牛云是知名云计算及数据服务提供商，在海量文件存储、CDN内容分发、视频点播、互动直播及大规模异构数据的智能分析与处理等技术深度投入，致力以数据科技驱动数字化未来，赋能各行业全面进入数据时代。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go 通道是糟糕的，你应该也觉得很糟糕 | Linux 中国</title>
+    <updated>2021-01-08T17:40:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/D0R8wUo6rm-TnrMpkvggNA</id>
+    <link href="https://mp.weixin.qq.com/s/D0R8wUo6rm-TnrMpkvggNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go+，下一个十年</title>
     <updated>2021-01-06T19:15:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T17:29:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/AyZwxImE245VO_K7LWwUgw</id>
     <link href="https://mp.weixin.qq.com/s/AyZwxImE245VO_K7LWwUgw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>七牛云视频模板 SDK：「剪刀手」是怎样炼成的？</title>
-    <updated>2020-12-14T18:15:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/QMFmMJKgjlHK9KFzmdwOgw</id>
-    <link href="https://mp.weixin.qq.com/s/QMFmMJKgjlHK9KFzmdwOgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

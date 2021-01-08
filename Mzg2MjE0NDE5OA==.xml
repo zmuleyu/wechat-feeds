@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:12:48+08:00</updated>
+  <updated>2021-01-08T20:20:44+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: 利用auxiliary bus管理具有多种功能的硬件设备！</title>
+    <updated>2021-01-07T12:58:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-07:/s/aWjf9gAdoAe8weStE-ARUw</id>
+    <link href="https://mp.weixin.qq.com/s/aWjf9gAdoAe8weStE-ARUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN：Linux 5.11 合并窗口第一部分！</title>
     <updated>2021-01-07T12:03:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T18:12:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/2cyBUaBUtjuFNmMNVc3z2A</id>
     <link href="https://mp.weixin.qq.com/s/2cyBUaBUtjuFNmMNVc3z2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN：32位Linux的未来！</title>
-    <updated>2020-12-23T10:58:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/MoA_afMOjXVEPtoqmS6TmQ</id>
-    <link href="https://mp.weixin.qq.com/s/MoA_afMOjXVEPtoqmS6TmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

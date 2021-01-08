@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:13:10+08:00</updated>
+  <updated>2021-01-08T20:23:41+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>引领云原生2.0，华为云加速云原生全行业落地</title>
+    <updated>2021-01-08T17:21:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/8njkIuUy45Da5OtJicK6NQ</id>
+    <link href="https://mp.weixin.qq.com/s/8njkIuUy45Da5OtJicK6NQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes生产环境最佳实践</title>
     <updated>2021-01-07T17:22:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T19:37:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/t10_ZrZW42AZoYnisVAbpg</id>
     <link href="https://mp.weixin.qq.com/s/t10_ZrZW42AZoYnisVAbpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Volcano在中科类脑云OS中的落地实践</title>
-    <updated>2020-12-24T20:41:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/HS6RzzqztBJsHQX7P5T5ww</id>
-    <link href="https://mp.weixin.qq.com/s/HS6RzzqztBJsHQX7P5T5ww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

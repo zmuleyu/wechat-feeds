@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:38:06+08:00</updated>
+  <updated>2021-01-08T20:45:37+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 380 期：CSS 现状和如何学习？</title>
+    <updated>2021-01-08T18:47:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/z02d5cR13snG7KqY1YMw6w</id>
+    <link href="https://mp.weixin.qq.com/s/z02d5cR13snG7KqY1YMw6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>node_modules 困境</title>
     <updated>2021-01-07T19:52:50+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-29T21:34:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/ESdPDMvUhERAl8i2Uvfdcw</id>
     <link href="https://mp.weixin.qq.com/s/ESdPDMvUhERAl8i2Uvfdcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>静态博客如何高性能插入评论</title>
-    <updated>2020-12-28T19:23:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/SbD4EnnFp_Cx4z_zYqBWcA</id>
-    <link href="https://mp.weixin.qq.com/s/SbD4EnnFp_Cx4z_zYqBWcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

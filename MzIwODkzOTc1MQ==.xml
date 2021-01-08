@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MarkerHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:25:03+08:00</updated>
+  <updated>2021-01-08T20:31:32+08:00</updated>
   <subtitle>专注于梳理java知识，解析开源项目。在Java框架底层、并发编程、网络编程、中间件、高并发、高可用以及测试和运维等领域知识皆有整理，让java学习不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>刚入职一周的小姐姐问我，delete、truncate、drop 的区别有哪些，该如何选择？</title>
+    <updated>2021-01-08T16:36:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/yoyhhai6AuyJzGJGc9XgpQ</id>
+    <link href="https://mp.weixin.qq.com/s/yoyhhai6AuyJzGJGc9XgpQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>跟面试官扯了一个小时的并发编程，全部过程如下？</title>
     <updated>2021-01-06T22:26:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T20:06:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/kilnxryQeBU7qOXagbOfWg</id>
     <link href="https://mp.weixin.qq.com/s/kilnxryQeBU7qOXagbOfWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring IOC 知识点总结</title>
-    <updated>2020-12-29T14:32:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/hXwirJ2EtDXhrJbdOKtmhQ</id>
-    <link href="https://mp.weixin.qq.com/s/hXwirJ2EtDXhrJbdOKtmhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

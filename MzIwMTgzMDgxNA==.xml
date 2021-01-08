@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>呆呆有理 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:33:08+08:00</updated>
+  <updated>2021-01-08T20:43:14+08:00</updated>
   <subtitle>写点产品设计与生活态度之类的文章，主要是个人思考与写字的地方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>拒绝无意义加班被辞退</title>
+    <updated>2021-01-08T16:51:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/NonVAfrqpbM30bUWFOS7qQ</id>
+    <link href="https://mp.weixin.qq.com/s/NonVAfrqpbM30bUWFOS7qQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>禁用按钮应该怎么用</title>
     <updated>2021-01-06T13:29:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T16:12:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/gk502chpuBp9Hguq0O9LNQ</id>
     <link href="https://mp.weixin.qq.com/s/gk502chpuBp9Hguq0O9LNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>怎么判断输入框里放不放清空按钮？</title>
-    <updated>2020-11-18T16:23:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/2tUkhn7ZmcFCNzbyY5QBBg</id>
-    <link href="https://mp.weixin.qq.com/s/2tUkhn7ZmcFCNzbyY5QBBg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

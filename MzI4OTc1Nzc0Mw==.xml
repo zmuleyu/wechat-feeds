@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenResty 软件 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:40:15+08:00</updated>
+  <updated>2021-01-08T20:31:43+08:00</updated>
   <subtitle>OpenResty Inc. 致力于通过机器编程、机器测试、机器调试和机器演示等技术更好地服务于各行各业的企业客户。公司提供 OpenResty Edge、OpenResty Trace 等产品。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenResty 官方发布 Fedora 和 SUSE Linux Enterprise 包发布</title>
+    <updated>2021-01-08T16:42:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/FQqG25wYMs2ug6Q2zCTLWQ</id>
+    <link href="https://mp.weixin.qq.com/s/FQqG25wYMs2ug6Q2zCTLWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>预编译 Lua 模块到 LuaJIT 字节码中以加快 OpenResty 启动速度</title>
+    <updated>2021-01-08T16:42:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/6f8V3PGoxccdR5aKhBfPxg</id>
+    <link href="https://mp.weixin.qq.com/s/6f8V3PGoxccdR5aKhBfPxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 OpenResty 中跨请求共享数据</title>
     <updated>2020-12-08T19:54:51+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-08-23T23:19:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-23:/s/T5-Tt3FrU_GT4hL8_aioAQ</id>
     <link href="https://mp.weixin.qq.com/s/T5-Tt3FrU_GT4hL8_aioAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenResty 和 Nginx 的共享内存区是如何消耗物理内存的</title>
-    <updated>2020-08-09T18:50:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-09:/s/00HE3Y257iejG4HGfYvkhg</id>
-    <link href="https://mp.weixin.qq.com/s/00HE3Y257iejG4HGfYvkhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

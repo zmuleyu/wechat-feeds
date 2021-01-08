@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国电影资料馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:19:46+08:00</updated>
+  <updated>2021-01-08T20:29:36+08:00</updated>
   <subtitle>定期发布资料馆信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>明日放映 | 谈谈哲学与生活</title>
+    <updated>2021-01-08T17:29:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Da3fV8FxTY8dOV8dS4pHrw</id>
+    <link href="https://mp.weixin.qq.com/s/Da3fV8FxTY8dOV8dS4pHrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>优质内容无寒冬，2020贺岁档满意度84分创同档期新高</title>
     <updated>2021-01-07T23:07:04+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2020-12-29T18:51:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/3J9G9CnOmsWBLvg7g7NviA</id>
     <link href="https://mp.weixin.qq.com/s/3J9G9CnOmsWBLvg7g7NviA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>放映预告 | 2021年资料馆1-2月片单</title>
-    <updated>2020-12-28T22:52:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/yP610b6DLpFuHTx4tzFTvA</id>
-    <link href="https://mp.weixin.qq.com/s/yP610b6DLpFuHTx4tzFTvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>明日放映 | 难以预料的爱情</title>
-    <updated>2020-12-28T22:52:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/cGW3ch9gxTVcOtZoqDuQTQ</id>
-    <link href="https://mp.weixin.qq.com/s/cGW3ch9gxTVcOtZoqDuQTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

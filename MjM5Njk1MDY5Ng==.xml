@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OPPO安珀实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T02:22:30+08:00</updated>
+  <updated>2021-01-08T20:47:07+08:00</updated>
   <subtitle>以用户数据安全和隐私保护为核心，开展系列研究工作并向开发者开放技术能力，致力为合作伙伴及用户打造信息安全堡垒，为OPPO终端安全保驾护航</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>移动应用三方SDK安全质量保障实践</title>
+    <updated>2021-01-08T11:22:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ZxI2UToUcbjbyw2d3GPsFQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZxI2UToUcbjbyw2d3GPsFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>增量安装与安卓V4签名简介</title>
     <updated>2020-12-25T16:32:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-31T17:33:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-31:/s/6z6KSpPL6DcT9nfUBhqPeg</id>
     <link href="https://mp.weixin.qq.com/s/6z6KSpPL6DcT9nfUBhqPeg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你真的懂安全吗？</title>
-    <updated>2020-07-31T16:16:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-31:/s/vbWtuNyXJw9A5uezVvnx2Q</id>
-    <link href="https://mp.weixin.qq.com/s/vbWtuNyXJw9A5uezVvnx2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

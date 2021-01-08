@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高德技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:13:37+08:00</updated>
+  <updated>2021-01-08T20:22:59+08:00</updated>
   <subtitle>这里是高德官方技术号，关于高德的技术创新内容均呈现于此</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>高德地理位置兴趣点现势性增强演进之路</title>
+    <updated>2021-01-08T17:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/e6htHPENjtO4tWTsmkegCg</id>
+    <link href="https://mp.weixin.qq.com/s/e6htHPENjtO4tWTsmkegCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>单元测试在高德在线导航业务中的实践</title>
+    <updated>2021-01-08T17:33:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Ep-sCqCOWvXOJpr9fPNu-w</id>
+    <link href="https://mp.weixin.qq.com/s/Ep-sCqCOWvXOJpr9fPNu-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>以高德为例，超级APP启动提速的实践和思考</title>
     <updated>2020-12-30T17:58:45+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-10-16T11:45:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/SoMA-Hdqx2x4mnVGCMUD9g</id>
     <link href="https://mp.weixin.qq.com/s/SoMA-Hdqx2x4mnVGCMUD9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想成为全栈工程师，要做到哪几点？</title>
-    <updated>2020-10-16T11:45:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/GImlNgygEDovHgLeRkr1PQ</id>
-    <link href="https://mp.weixin.qq.com/s/GImlNgygEDovHgLeRkr1PQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里巴巴高德地图首席科学家任小枫：高精算法推动高精地图落地</title>
-    <updated>2020-09-24T11:39:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/Lbwj2diJjcwR5RQuiKkXIw</id>
-    <link href="https://mp.weixin.qq.com/s/Lbwj2diJjcwR5RQuiKkXIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

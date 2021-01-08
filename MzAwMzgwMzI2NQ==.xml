@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-28T20:09:53+08:00</updated>
+  <updated>2021-01-08T20:24:37+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第22节，协程，语言层面的异步并发支持</title>
+    <updated>2021-01-08T17:20:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/0qgllsJ9M52E4DrZrpC8ug</id>
+    <link href="https://mp.weixin.qq.com/s/0qgllsJ9M52E4DrZrpC8ug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go语言直播编程第10节，关联数组Maps，也是哈希也是字典</title>
     <updated>2020-12-28T17:07:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-18T16:32:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/G_OD7voKlSps5LhzsEvupA</id>
     <link href="https://mp.weixin.qq.com/s/G_OD7voKlSps5LhzsEvupA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AI机器人有多恐怖？你不爽打它一拳，它默默为你带上了安全帽</title>
-    <updated>2020-12-15T15:09:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/WLvsLRO9ui-R9czBPTkdaQ</id>
-    <link href="https://mp.weixin.qq.com/s/WLvsLRO9ui-R9czBPTkdaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

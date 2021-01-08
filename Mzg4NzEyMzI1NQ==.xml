@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:39:15+08:00</updated>
+  <updated>2021-01-08T20:46:58+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Serverless 音视频转码 —— 芒果 TV 落地实践（上）</title>
+    <updated>2021-01-08T19:31:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/k0D8NoAFpSUvzYm052p6Cw</id>
+    <link href="https://mp.weixin.qq.com/s/k0D8NoAFpSUvzYm052p6Cw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>国内首款 Serverless MySQL 数据库重磅发布，免费试用！</title>
     <updated>2021-01-07T17:47:17+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-25T17:02:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/B2XcT8W1pvXAS5153-vNBQ</id>
     <link href="https://mp.weixin.qq.com/s/B2XcT8W1pvXAS5153-vNBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯云 Serverless 云函数支持在线调试功能 | 在线分享第十三期</title>
-    <updated>2020-12-24T17:07:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/SjDTuMF2QJ3oWS-sMR76xA</id>
-    <link href="https://mp.weixin.qq.com/s/SjDTuMF2QJ3oWS-sMR76xA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>发布更新｜腾讯云 Serverless 产品动态 20201222</title>
-    <updated>2020-12-24T17:07:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/OB0CaT_15E5u2abtrfMI5A</id>
-    <link href="https://mp.weixin.qq.com/s/OB0CaT_15E5u2abtrfMI5A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

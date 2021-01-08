@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>边缘计算k3s社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:07:12+08:00</updated>
+  <updated>2021-01-08T20:47:20+08:00</updated>
   <subtitle>k3s是由Rancher Labs于2019年年初推出的一款轻量级Kubernetes发行版，满足在边缘计算环境中运行在x86、ARM64和ARMv7处理器上的小型、易于管理的Kubernetes集群日益增长的需求。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文搞定全场景K3s离线安装</title>
+    <updated>2021-01-08T18:03:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/pfUM6tr2HDeFyJExFVAc4Q</id>
+    <link href="https://mp.weixin.qq.com/s/pfUM6tr2HDeFyJExFVAc4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超长干货！在裸机上配置高可用K3s，部署生产就绪工作负载</title>
     <updated>2020-12-24T18:32:33+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-02T19:37:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/BRVhnZ25dBSwzPoXP6hFuw</id>
     <link href="https://mp.weixin.qq.com/s/BRVhnZ25dBSwzPoXP6hFuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>15分钟连接Jetson Nano与K8S，轻松搭建机器学习集群</title>
-    <updated>2020-11-02T18:06:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/qTjQ47y7dDyBWkYP3mfIwA</id>
-    <link href="https://mp.weixin.qq.com/s/qTjQ47y7dDyBWkYP3mfIwA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

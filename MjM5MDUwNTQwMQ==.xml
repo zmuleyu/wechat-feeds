@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农桃花源 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:20:27+08:00</updated>
+  <updated>2021-01-08T20:27:13+08:00</updated>
   <subtitle>一线互联网工程师死磕技术的心路历程、经验教训。欢迎围观！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -19,13 +19,6 @@
     <updated>2020-12-31T09:40:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/r6tvduWWCHemUIHa12gN8g</id>
     <link href="https://mp.weixin.qq.com/s/r6tvduWWCHemUIHa12gN8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你学 Go 的原因是什么？简单 or 并发亦或其他？</title>
-    <updated>2020-12-29T23:15:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/bOpKVjr_ud-CxKnzKOOwrg</id>
-    <link href="https://mp.weixin.qq.com/s/bOpKVjr_ud-CxKnzKOOwrg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,6 +68,13 @@
     <updated>2020-12-03T09:10:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/9FFp0-cj4raPhdUUpSy4Og</id>
     <link href="https://mp.weixin.qq.com/s/9FFp0-cj4raPhdUUpSy4Og" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用 subsetting 限制连接池中的连接数量</title>
+    <updated>2020-11-29T11:25:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-29:/s/x86WcfDaTZMV8uZQ7HEI_g</id>
+    <link href="https://mp.weixin.qq.com/s/x86WcfDaTZMV8uZQ7HEI_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

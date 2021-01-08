@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>面包板社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:24:29+08:00</updated>
+  <updated>2021-01-08T20:31:00+08:00</updated>
   <subtitle>中国电子工程师社区；电子工程专辑、EDN电子技术设计、国际电子商情官方社区；为电子工程师提供论坛、博客、芯语、评测、直播、下载资料、技术文库、学院等功能服务；是电子工程师们喜爱的电子技术交流社区！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ARM与RISC-V架构的区别</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/fxQGOt8gK7TzJlny4fJWzg</id>
+    <link href="https://mp.weixin.qq.com/s/fxQGOt8gK7TzJlny4fJWzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DC/DC电源详解</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/dpI09pp1kgv5hhwbY4fZcw</id>
+    <link href="https://mp.weixin.qq.com/s/dpI09pp1kgv5hhwbY4fZcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CAN总线传输协议</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Ly8TGeao9--E7lH-HAe5xA</id>
+    <link href="https://mp.weixin.qq.com/s/Ly8TGeao9--E7lH-HAe5xA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手把手教你用万用表测量三极管</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/N8ihFjF3Bl0wfzvcBjx47A</id>
+    <link href="https://mp.weixin.qq.com/s/N8ihFjF3Bl0wfzvcBjx47A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>常用天线和无源器件技术参数汇总</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/K6ny4MilBoKkSUWcMqT7-A</id>
+    <link href="https://mp.weixin.qq.com/s/K6ny4MilBoKkSUWcMqT7-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>6种电平转换的优缺点</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/TEdAHqbQhPhLYNtItLvs8A</id>
+    <link href="https://mp.weixin.qq.com/s/TEdAHqbQhPhLYNtItLvs8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IoT走向成熟的一年：IoT市场现状，与未来展望</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ZfUFjZhgIBlBWE3C4i6ULQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZfUFjZhgIBlBWE3C4i6ULQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为万物互联而生的HarmonyOS，是怎么做到跨端开发的？</title>
+    <updated>2021-01-08T17:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HX244S4NX3NyWqXRbTG9tQ</id>
+    <link href="https://mp.weixin.qq.com/s/HX244S4NX3NyWqXRbTG9tQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>串口、COM口、UART口, TTL、RS-232、RS-485区别详解</title>
     <updated>2021-01-07T17:32:41+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-06T17:16:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/gdcQs8REpog3E0Z8452opg</id>
     <link href="https://mp.weixin.qq.com/s/gdcQs8REpog3E0Z8452opg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解PWM原理、频率与占空比</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/wCYKRnCEelB0LRNlrKXYvQ</id>
-    <link href="https://mp.weixin.qq.com/s/wCYKRnCEelB0LRNlrKXYvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PCB上10A的电流需要走多宽的线？需要几个过孔？</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Vu83uCqb2tL-m7pv4YgS2w</id>
-    <link href="https://mp.weixin.qq.com/s/Vu83uCqb2tL-m7pv4YgS2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不容忽视！EMC设计中信号回流的重要性</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/zr8l1dBxqfmFMMVcag2MFA</id>
-    <link href="https://mp.weixin.qq.com/s/zr8l1dBxqfmFMMVcag2MFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我给555定时器，写了一首诗</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/QJECOWrGlgjqtKVyUYyPOw</id>
-    <link href="https://mp.weixin.qq.com/s/QJECOWrGlgjqtKVyUYyPOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从串口驱动到Linux驱动模型，想转Linux的必会！</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Yw-ZrzLRYVz_QVV-vKee9w</id>
-    <link href="https://mp.weixin.qq.com/s/Yw-ZrzLRYVz_QVV-vKee9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文看懂巴伦（功能原理、性能参数、基本类型）</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/SMHt7iOrk5roaXShdwmdtQ</id>
-    <link href="https://mp.weixin.qq.com/s/SMHt7iOrk5roaXShdwmdtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么是电压跟随器，它的作用与特点</title>
-    <updated>2021-01-05T11:40:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/sAez9tcsfuBXyl0uAwItnA</id>
-    <link href="https://mp.weixin.qq.com/s/sAez9tcsfuBXyl0uAwItnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>没想到吧？这些漂亮的首饰都是旧电路板做的，卖得还挺贵！</title>
-    <updated>2021-01-04T17:28:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/wMuTXZ2gSz29_AeasXkRjA</id>
-    <link href="https://mp.weixin.qq.com/s/wMuTXZ2gSz29_AeasXkRjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

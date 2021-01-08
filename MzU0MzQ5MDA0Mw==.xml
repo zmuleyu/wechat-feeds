@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:31:11+08:00</updated>
+  <updated>2021-01-08T20:20:25+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -50,24 +50,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>和字节老哥聊完SpringBoot，才发现自己差远了！</title>
-    <updated>2021-01-03T15:35:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/RtnUcLy1ib8bHQpDQpXE9w</id>
-    <link href="https://mp.weixin.qq.com/s/RtnUcLy1ib8bHQpDQpXE9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>聊聊 Service 命名与设计</title>
     <updated>2021-01-03T15:35:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/lTTto6lIB2HbtXqbrQxsag</id>
     <link href="https://mp.weixin.qq.com/s/lTTto6lIB2HbtXqbrQxsag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Idea公司真牛逼，发行最适合程序员编程字体~</title>
-    <updated>2021-01-02T19:23:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/CL6dAmDMxgmBqoOu-uiVWg</id>
-    <link href="https://mp.weixin.qq.com/s/CL6dAmDMxgmBqoOu-uiVWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,6 +82,13 @@
     <updated>2020-12-29T21:50:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/KM-mWwd5TivJScBVCQyEBQ</id>
     <link href="https://mp.weixin.qq.com/s/KM-mWwd5TivJScBVCQyEBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里开源新一代单元测试 Mock 工具！</title>
+    <updated>2020-12-28T22:44:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3UM6BgZfWZzZ4-_d9t7hag</id>
+    <link href="https://mp.weixin.qq.com/s/3UM6BgZfWZzZ4-_d9t7hag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

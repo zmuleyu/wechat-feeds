@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷神众测 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:37:41+08:00</updated>
+  <updated>2021-01-08T20:26:22+08:00</updated>
   <subtitle>雷神众测，专注于渗透测试技术及全球最新网络攻击技术的分析。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vulnhub 靶机实战系列：DC -5</title>
+    <updated>2021-01-08T19:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/aXHEVeUSDN4pR9h2Tr3WoQ</id>
+    <link href="https://mp.weixin.qq.com/s/aXHEVeUSDN4pR9h2Tr3WoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PostgreSQL从未授权到高权限命令执行</title>
     <updated>2021-01-06T14:38:19+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-29T13:55:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/IRak1fjhSMAibDrUaejEvg</id>
     <link href="https://mp.weixin.qq.com/s/IRak1fjhSMAibDrUaejEvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>叮咚，雷神众测线上校园行已启动！</title>
-    <updated>2020-12-28T15:44:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Hq74EsFEK76g490izKD37A</id>
-    <link href="https://mp.weixin.qq.com/s/Hq74EsFEK76g490izKD37A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>雷神众测漏洞周报2020.12.21-2020.12.27-4</title>
-    <updated>2020-12-28T15:44:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/MI3yX-Cr7GJ00OwGISa2NQ</id>
-    <link href="https://mp.weixin.qq.com/s/MI3yX-Cr7GJ00OwGISa2NQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
