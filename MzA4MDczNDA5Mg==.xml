@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>KK架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:34:06+08:00</updated>
+  <updated>2021-01-08T23:33:43+08:00</updated>
   <subtitle>大数据技术与架构方向，一个有深度，有情怀，有趣的公众号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>职场中有两点非常重要的软实力</title>
+    <updated>2021-01-08T22:34:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/RVylspEMuw5iHX-OZRTjKg</id>
+    <link href="https://mp.weixin.qq.com/s/RVylspEMuw5iHX-OZRTjKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink SQL 核心概念剖析与编程案例实战</title>
     <updated>2021-01-07T23:26:24+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-13T21:47:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/1u8XLMCIGhw-gWyO4KfhQQ</id>
     <link href="https://mp.weixin.qq.com/s/1u8XLMCIGhw-gWyO4KfhQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apache Flink 如何正确处理实时计算场景中的乱序数据</title>
-    <updated>2020-11-29T16:57:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/ylK5j9Q8DgYcdIL5vbBHfQ</id>
-    <link href="https://mp.weixin.qq.com/s/ylK5j9Q8DgYcdIL5vbBHfQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

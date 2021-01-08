@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:33:11+08:00</updated>
+  <updated>2021-01-08T23:33:04+08:00</updated>
   <subtitle>我们的产品：《码农周刊》 http://manong.io/ 、《开发者头条》 http://toutiao.io/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何优雅地重试？</title>
+    <updated>2021-01-08T22:00:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/anYZKQ2Wy6hZxVIlDqk62g</id>
+    <link href="https://mp.weixin.qq.com/s/anYZKQ2Wy6hZxVIlDqk62g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，请查收！</title>
+    <updated>2021-01-08T22:00:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/xTGbRP8DJlFPRhKm3a6kAg</id>
+    <link href="https://mp.weixin.qq.com/s/xTGbRP8DJlFPRhKm3a6kAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生时代架构师的十大核心能力</title>
     <updated>2021-01-07T22:00:21+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-25T21:30:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/X0HAdav1p7ddg6p0MPtz1A</id>
     <link href="https://mp.weixin.qq.com/s/X0HAdav1p7ddg6p0MPtz1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>职场 PUA，管理者的五宗罪</title>
-    <updated>2020-12-24T22:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/zH_JEkWFGGG27weDv5eB1Q</id>
-    <link href="https://mp.weixin.qq.com/s/zH_JEkWFGGG27weDv5eB1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 腾讯开源的分布式高性能 KV 存储数据库</title>
-    <updated>2020-12-24T22:00:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/dLI4EDvBHprJHCPYwnaiPA</id>
-    <link href="https://mp.weixin.qq.com/s/dLI4EDvBHprJHCPYwnaiPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

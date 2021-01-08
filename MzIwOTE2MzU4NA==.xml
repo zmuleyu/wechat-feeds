@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>捡田螺的小男孩 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T02:11:49+08:00</updated>
+  <updated>2021-01-08T23:27:15+08:00</updated>
   <subtitle>专注后端技术栈，热爱分享，热爱交朋友，热爱工作总结。毕业于华南理工大学，软件工程专业~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL不会丢失数据的秘密，就藏在它的 7种日志里</title>
+    <updated>2021-01-08T22:42:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ZXp8jxbVUZ_CnObQVqYDTQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZXp8jxbVUZ_CnObQVqYDTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis：从应用到底层，一文帮你搞定</title>
     <updated>2021-01-06T22:58:41+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T22:01:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/pCmJ6jl62qTft7GoIHOMaw</id>
     <link href="https://mp.weixin.qq.com/s/pCmJ6jl62qTft7GoIHOMaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>顺丰快递：请签收MySQL灵魂十连</title>
-    <updated>2020-12-15T22:40:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/4Ard623yYQvZ8PxkhqvI4Q</id>
-    <link href="https://mp.weixin.qq.com/s/4Ard623yYQvZ8PxkhqvI4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

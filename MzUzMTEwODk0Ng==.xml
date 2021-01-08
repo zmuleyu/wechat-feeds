@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:23:32+08:00</updated>
+  <updated>2021-01-08T23:21:12+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>生信菜鸟团编辑队伍扩充启事</title>
+    <updated>2021-01-08T23:00:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bdkWhrZuCfgR3epqjykPwg</id>
+    <link href="https://mp.weixin.qq.com/s/bdkWhrZuCfgR3epqjykPwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Seurat Weekly NO.06 || Scanpy2Seurat</title>
     <updated>2021-01-07T20:09:25+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-30T08:37:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/2hnctRY1znjpVHDRQ2TXxQ</id>
     <link href="https://mp.weixin.qq.com/s/2hnctRY1znjpVHDRQ2TXxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SCENIC转录因子分析结果的解读</title>
-    <updated>2020-12-28T15:36:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/kM2sDX67CWJTiBjhMBf4DA</id>
-    <link href="https://mp.weixin.qq.com/s/kM2sDX67CWJTiBjhMBf4DA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>把tcga大计划的CNS级别文章标题画一个词云</title>
-    <updated>2020-12-28T15:36:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/sF6jYWxFKtPVws97zerQbg</id>
-    <link href="https://mp.weixin.qq.com/s/sF6jYWxFKtPVws97zerQbg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

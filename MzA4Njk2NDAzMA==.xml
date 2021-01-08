@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:38:33+08:00</updated>
+  <updated>2021-01-08T23:33:19+08:00</updated>
   <subtitle>程序员分享平台 | 官方应用下载地址：http://toutiao.io/download</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何写出一篇技术博客？</title>
+    <updated>2021-01-08T21:01:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/pcKJJO_dYo-9ysp6dMByBA</id>
+    <link href="https://mp.weixin.qq.com/s/pcKJJO_dYo-9ysp6dMByBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「码农周刊 VIP 会员专属邮件周报」今晚发送，请查收！</title>
+    <updated>2021-01-08T21:01:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Yf-rqlUgeAmXXRr8KwU2SQ</id>
+    <link href="https://mp.weixin.qq.com/s/Yf-rqlUgeAmXXRr8KwU2SQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构 10 个最重要的设计模式</title>
     <updated>2021-01-07T20:00:30+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2020-12-25T15:30:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/W4uRyFC0ssyjvhoKU02DVQ</id>
     <link href="https://mp.weixin.qq.com/s/W4uRyFC0ssyjvhoKU02DVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在淘宝，我们是这样衡量代码质量的</title>
-    <updated>2020-12-24T20:00:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/xD-gjKk-_Vsjn8WdGMZrPw</id>
-    <link href="https://mp.weixin.qq.com/s/xD-gjKk-_Vsjn8WdGMZrPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工具 | 腾讯开源的分布式高性能 KV 存储数据库</title>
-    <updated>2020-12-24T20:00:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/qxjZF30NCz_eyo4L5o-8UQ</id>
-    <link href="https://mp.weixin.qq.com/s/qxjZF30NCz_eyo4L5o-8UQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

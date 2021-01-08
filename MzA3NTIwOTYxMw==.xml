@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>博客园 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:54:04+08:00</updated>
+  <updated>2021-01-08T23:33:01+08:00</updated>
   <subtitle>知识改变世界： 我们不求多，只求精，每周一、三、五定期推送3篇园子内精华文章；文章类型不仅涉及精简的技术，丰富的经验，还有程序猿的生活感悟，愿在紧张工作之余，给您带来一定的启发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>神奇的 SQL 之性能优化，让 SQL 飞起来</title>
+    <updated>2021-01-08T22:31:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/KLNnpBT5wjC87lZODXBLFw</id>
+    <link href="https://mp.weixin.qq.com/s/KLNnpBT5wjC87lZODXBLFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>无线耳机，下一个移动互联网硬件入口</title>
+    <updated>2021-01-08T22:31:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/qReyYJYorT8EGKgq7deYkQ</id>
+    <link href="https://mp.weixin.qq.com/s/qReyYJYorT8EGKgq7deYkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>巨大结果集引起疯狂 FullGC 怎么排查</title>
     <updated>2021-01-06T22:44:30+08:00</updated>
@@ -131,13 +145,6 @@
     <updated>2020-12-26T22:17:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/WPnqY8uvMp6xdCUN_wiDbw</id>
     <link href="https://mp.weixin.qq.com/s/WPnqY8uvMp6xdCUN_wiDbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>博客园 x 丝芙兰 - 圣诞特别活动</title>
-    <updated>2020-12-25T00:02:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Hdvx03N9hswmF2urk2Q98Q</id>
-    <link href="https://mp.weixin.qq.com/s/Hdvx03N9hswmF2urk2Q98Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

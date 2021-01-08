@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>麒思妙想 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:31:46+08:00</updated>
+  <updated>2021-01-08T23:13:10+08:00</updated>
   <subtitle>主人是数据科学家，已经一个多礼拜了。这里除了程序，还有一些美食和影评。期待您的支持！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OLAP system selection, choose Apache Kylin or ClickHouse?</title>
+    <updated>2021-01-08T21:48:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/B_S2P1ELcXKXJbfb9H-BrQ</id>
+    <link href="https://mp.weixin.qq.com/s/B_S2P1ELcXKXJbfb9H-BrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再谈SQL-to-SQL翻译器</title>
     <updated>2020-12-29T22:05:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T17:28:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/SttGwj-yUboN9rT9s9Icug</id>
     <link href="https://mp.weixin.qq.com/s/SttGwj-yUboN9rT9s9Icug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式系统课程笔记——2.RPC和线程</title>
-    <updated>2020-11-09T19:09:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/Y2LjnwhS5MgwyCrY9nkJxA</id>
-    <link href="https://mp.weixin.qq.com/s/Y2LjnwhS5MgwyCrY9nkJxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

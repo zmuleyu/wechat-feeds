@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:33:33+08:00</updated>
+  <updated>2021-01-08T23:33:09+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「领域驱动设计」领域驱动设计中的上下文映射</title>
+    <updated>2021-01-08T19:27:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/PTFXU9G_8zG1eOtBehfV-A</id>
+    <link href="https://mp.weixin.qq.com/s/PTFXU9G_8zG1eOtBehfV-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「程序员成长必读」软件工程师资格等级：初级、中级、高级</title>
+    <updated>2021-01-08T19:27:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/TKibjuoBVdH_C9MMjwc5Wg</id>
+    <link href="https://mp.weixin.qq.com/s/TKibjuoBVdH_C9MMjwc5Wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「领域驱动设计」集成有界上下文的策略</title>
     <updated>2021-01-07T20:18:20+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-01T21:02:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/GGmPtL9KK_DSI396gsK2xA</id>
     <link href="https://mp.weixin.qq.com/s/GGmPtL9KK_DSI396gsK2xA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「物联网」Rust系列1:用Rust重写了物联网平台并成功</title>
-    <updated>2021-01-01T21:02:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/SzDyvfg8RsfFGd4u9k7PNg</id>
-    <link href="https://mp.weixin.qq.com/s/SzDyvfg8RsfFGd4u9k7PNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「容器云」k0s 另外一个 Kubernetes 发行版</title>
-    <updated>2020-12-31T21:22:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/NvxMX5irOgIBhp7xByhQtg</id>
-    <link href="https://mp.weixin.qq.com/s/NvxMX5irOgIBhp7xByhQtg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

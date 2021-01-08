@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T02:06:26+08:00</updated>
+  <updated>2021-01-08T23:20:04+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【每周一库】configster - Rust library for parsing configuration files</title>
+    <updated>2021-01-08T22:45:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/W2r9wn6Y-S00bT1SJj9-og</id>
+    <link href="https://mp.weixin.qq.com/s/W2r9wn6Y-S00bT1SJj9-og" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2021-01-08 Rust Search Extension 1.1.0发布</title>
+    <updated>2021-01-08T22:45:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/XmRGxywpjSWg6VijnBmBsw</id>
+    <link href="https://mp.weixin.qq.com/s/XmRGxywpjSWg6VijnBmBsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我们为什么选择Rust开发顶尖实时通信产品？</title>
     <updated>2021-01-07T23:44:06+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-31T21:47:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/XBLKgyF8n4HihSv-r8VXyA</id>
     <link href="https://mp.weixin.qq.com/s/XBLKgyF8n4HihSv-r8VXyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust 日报】2020-12-30 Rust 1.49 预发布测试，欢迎参与</title>
-    <updated>2020-12-30T22:17:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/oc2MEGh3OryjH9fOe0i0Ew</id>
-    <link href="https://mp.weixin.qq.com/s/oc2MEGh3OryjH9fOe0i0Ew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-29 《Tokio 1.0 接口概览》</title>
-    <updated>2020-12-29T22:26:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/QX9-QktbuO0UrKsFjCIczQ</id>
-    <link href="https://mp.weixin.qq.com/s/QX9-QktbuO0UrKsFjCIczQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
