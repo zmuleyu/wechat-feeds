@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:40:23+08:00</updated>
+  <updated>2021-01-09T11:41:50+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何构建数据分析框架？分享3个底层思维框架，小白也能看懂</title>
+    <updated>2021-01-09T09:36:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8lklPrncylH3YnaWp3Nw3A</id>
+    <link href="https://mp.weixin.qq.com/s/8lklPrncylH3YnaWp3Nw3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 系统 inodes 资源耗尽，如何解决？</title>
+    <updated>2021-01-09T09:36:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/AK5-oBset0jvrH6KleylEw</id>
+    <link href="https://mp.weixin.qq.com/s/AK5-oBset0jvrH6KleylEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>到底要刷多少道算法题面试才稳？</title>
     <updated>2021-01-08T08:53:24+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-12-30T23:58:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/qqa0RdrLEMH-xb78HQRmGQ</id>
     <link href="https://mp.weixin.qq.com/s/qqa0RdrLEMH-xb78HQRmGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10个数据清洗小技巧，快速提高你的数据质量</title>
-    <updated>2020-12-29T23:25:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/VruG2sg4BEPz6pPdkrohHw</id>
-    <link href="https://mp.weixin.qq.com/s/VruG2sg4BEPz6pPdkrohHw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

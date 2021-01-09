@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:32:21+08:00</updated>
+  <updated>2021-01-09T11:33:03+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于云原生的 KubeSecOps 流水线设计</title>
+    <updated>2021-01-09T10:32:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/vSu1KiZq5Ny_LZ6Elh4xfA</id>
+    <link href="https://mp.weixin.qq.com/s/vSu1KiZq5Ny_LZ6Elh4xfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据中台已成气候！大数据架构师如何站上风口？</title>
     <updated>2021-01-08T09:13:22+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-29T15:32:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/Xl-9zxlmp337W58n-LnxrQ</id>
     <link href="https://mp.weixin.qq.com/s/Xl-9zxlmp337W58n-LnxrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万亿级微服务架构进阶，深挖那些高可用高并发高可靠场景</title>
-    <updated>2020-12-28T08:42:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/j9ImT1aBuJfEfLKAWk2XPA</id>
-    <link href="https://mp.weixin.qq.com/s/j9ImT1aBuJfEfLKAWk2XPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何理解同步与异步</title>
-    <updated>2020-12-28T08:42:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ulxmJMphAFL40HeuqKQIQw</id>
-    <link href="https://mp.weixin.qq.com/s/ulxmJMphAFL40HeuqKQIQw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

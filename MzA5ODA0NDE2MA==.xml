@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:21:07+08:00</updated>
+  <updated>2021-01-09T11:32:34+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Babuk Locker：2021年第一个新型企业级勒索软件正式上线！</title>
+    <updated>2021-01-08T20:06:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/siM6e3FRKTSAYS8-Lb6pxw</id>
+    <link href="https://mp.weixin.qq.com/s/siM6e3FRKTSAYS8-Lb6pxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Flink 多个漏洞分析</title>
     <updated>2021-01-08T18:39:40+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-31T17:38:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/wPLh7CuOBzTIhJzWVemx0Q</id>
     <link href="https://mp.weixin.qq.com/s/wPLh7CuOBzTIhJzWVemx0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2016-4952漏洞复现———Qemu拒绝服务漏洞</title>
-    <updated>2020-12-31T17:38:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/YTjZB5dgGoD7rJXR8G7EVA</id>
-    <link href="https://mp.weixin.qq.com/s/YTjZB5dgGoD7rJXR8G7EVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

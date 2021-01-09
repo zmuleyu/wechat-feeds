@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:39:51+08:00</updated>
+  <updated>2021-01-09T11:41:25+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文说通C#中的异步迭代器</title>
+    <updated>2021-01-09T09:51:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/bSmMT6aQQZ4O5Pp5ZJtCNA</id>
+    <link href="https://mp.weixin.qq.com/s/bSmMT6aQQZ4O5Pp5ZJtCNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「译」 用 Blazor WebAssembly 实现微前端</title>
     <updated>2021-01-08T07:44:31+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-11-30T09:01:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/AUP8tZF0CLtv-qq7oTjrkw</id>
     <link href="https://mp.weixin.qq.com/s/AUP8tZF0CLtv-qq7oTjrkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020开发者盛会！来苏州一战成名！报销差旅！讲师报名！截止11月29日！</title>
-    <updated>2020-11-28T09:23:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/J7mrRTSXkuX73vlxhR5GFQ</id>
-    <link href="https://mp.weixin.qq.com/s/J7mrRTSXkuX73vlxhR5GFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

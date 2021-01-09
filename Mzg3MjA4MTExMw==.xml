@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>漫话编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T23:20:42+08:00</updated>
+  <updated>2021-01-09T11:44:36+08:00</updated>
   <subtitle>漫画编程，让编程变得更有乐趣。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis慌了！腾讯终于对缓存下手了！！</title>
+    <updated>2021-01-09T11:02:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Ft_6SrlD3CbVyxgFOqYakA</id>
+    <link href="https://mp.weixin.qq.com/s/Ft_6SrlD3CbVyxgFOqYakA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里总结的Java成神之路 PDF 火了，完整版开放下载！</title>
     <updated>2021-01-08T21:46:23+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2020-12-30T10:43:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/71RDiq3OceoCdmI2P1gh3A</id>
     <link href="https://mp.weixin.qq.com/s/71RDiq3OceoCdmI2P1gh3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动再扩招1万人，太猛了。。。</title>
-    <updated>2020-12-29T09:51:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/YCJUaA23WurFl8IVgnCG_Q</id>
-    <link href="https://mp.weixin.qq.com/s/YCJUaA23WurFl8IVgnCG_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

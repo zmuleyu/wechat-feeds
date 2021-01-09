@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:36:14+08:00</updated>
+  <updated>2021-01-09T11:36:30+08:00</updated>
   <subtitle>专注于Web前端技术文章分享，包含JavaScript、HTML5、CSS3等前端基础知识，以及Vue.js,React,Augular等前端框架</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从一个优质开源项目来看前端架构</title>
+    <updated>2021-01-08T15:42:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/dX2jUa6YovoTwaa69mddbQ</id>
+    <link href="https://mp.weixin.qq.com/s/dX2jUa6YovoTwaa69mddbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《2020 年度程序员收入报告》来袭，字节排第 7</title>
     <updated>2021-01-07T16:44:06+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-27T18:07:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/ANSEE6DG3gzjzgfr4WJWRw</id>
     <link href="https://mp.weixin.qq.com/s/ANSEE6DG3gzjzgfr4WJWRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse官宣，干掉VS Code！</title>
-    <updated>2020-12-27T17:58:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/OitrWjE-GNfhawlp6iPQSA</id>
-    <link href="https://mp.weixin.qq.com/s/OitrWjE-GNfhawlp6iPQSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

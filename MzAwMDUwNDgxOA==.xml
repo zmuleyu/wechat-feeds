@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux阅码场 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:20:06+08:00</updated>
+  <updated>2021-01-09T11:31:55+08:00</updated>
   <subtitle>专业的Linux技术社区和Linux操作系统学习平台，内容涉及Linux内核,Linux内存管理,Linux进程管理,Linux文件系统和IO,Linux性能调优,Linux设备驱动以及Linux虚拟化和云计算等各方各面.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《Linux常见锁和lockup检查机制》在线视频课程</title>
+    <updated>2021-01-08T20:09:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Byg1YTUTsVB3VD33sSQ_AQ</id>
+    <link href="https://mp.weixin.qq.com/s/Byg1YTUTsVB3VD33sSQ_AQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见，Intel！GPU直连NVMe SSD！</title>
     <updated>2021-01-08T17:44:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T17:52:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/l75HAp_ed0zMLv1JdKCxiw</id>
     <link href="https://mp.weixin.qq.com/s/l75HAp_ed0zMLv1JdKCxiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux内核工程师是怎么步入内核殿堂的？</title>
-    <updated>2020-12-21T15:20:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/4umBDUJobO2p8hYiEfTRBA</id>
-    <link href="https://mp.weixin.qq.com/s/4umBDUJobO2p8hYiEfTRBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

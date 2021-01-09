@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UFC资讯 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:47:21+08:00</updated>
+  <updated>2021-01-09T11:51:20+08:00</updated>
   <subtitle>懂你更懂UFC.分享UFC最新资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>UFC今日讯1.9—宋亚东出战</title>
+    <updated>2021-01-09T08:36:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/VNvpOBOVoHzdYbKWDlkORA</id>
+    <link href="https://mp.weixin.qq.com/s/VNvpOBOVoHzdYbKWDlkORA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>UFC今日讯1.8—又一场冠军战宣布</title>
     <updated>2021-01-08T08:36:39+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-01T08:17:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/avjSJveOXukjxTpDQeDtCQ</id>
     <link href="https://mp.weixin.qq.com/s/avjSJveOXukjxTpDQeDtCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>UFC今日讯12.31</title>
-    <updated>2020-12-31T08:20:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/r40eECmB8UTSWTXwyIbFSA</id>
-    <link href="https://mp.weixin.qq.com/s/r40eECmB8UTSWTXwyIbFSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

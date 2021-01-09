@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端从进阶到入院 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:37:19+08:00</updated>
+  <updated>2021-01-09T11:51:38+08:00</updated>
   <subtitle>ssh 是字节跳动基础工程团队的一枚前端程序猿，全网 100w 阅读量原创作者，深耕 Vue源码 / React / TS / 浏览器等各个前端领域，他的文章帮助了很多小伙伴进入了「字节、百度、滴滴」等大厂，下一个就是你~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>做一个有趣的前端，关注谭老师了吗？</title>
+    <updated>2021-01-09T11:31:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/yiKAOXWXkTqyemqBa-GMfw</id>
+    <link href="https://mp.weixin.qq.com/s/yiKAOXWXkTqyemqBa-GMfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入浅出 React 全链路性能优化</title>
     <updated>2021-01-08T20:10:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T00:14:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/IQpZrgyNLu1qVlNBfzv33g</id>
     <link href="https://mp.weixin.qq.com/s/IQpZrgyNLu1qVlNBfzv33g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>14W 行代码量的前端页面长什么样</title>
-    <updated>2020-12-27T20:00:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/_GjHCmBr5rEg9sN-jmq0WA</id>
-    <link href="https://mp.weixin.qq.com/s/_GjHCmBr5rEg9sN-jmq0WA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

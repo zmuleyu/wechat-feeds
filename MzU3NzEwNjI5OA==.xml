@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码与远方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:39:56+08:00</updated>
+  <updated>2021-01-09T11:41:33+08:00</updated>
   <subtitle>我们,除了代码还有诗和远方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>并发编程--用SingleFlight合并重复请求</title>
+    <updated>2021-01-08T23:01:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bbxLCA6pK9TGMY4H1hGUrA</id>
+    <link href="https://mp.weixin.qq.com/s/bbxLCA6pK9TGMY4H1hGUrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自己动手实现一个malloc内存分配器 | 30图</title>
     <updated>2021-01-07T23:02:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T00:34:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/1RppuWcyHwzAPH1pMVpfrw</id>
     <link href="https://mp.weixin.qq.com/s/1RppuWcyHwzAPH1pMVpfrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 学习笔记之 ServiceAccount TokensController 源码解析</title>
-    <updated>2020-12-29T23:21:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/NG4mH9GgHV-HjMoOflFsUg</id>
-    <link href="https://mp.weixin.qq.com/s/NG4mH9GgHV-HjMoOflFsUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

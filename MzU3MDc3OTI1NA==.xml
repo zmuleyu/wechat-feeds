@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:58:27+08:00</updated>
+  <updated>2021-01-09T12:01:09+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员该如何把 Windows 系统打造的跟 Mac 一样牛逼？</title>
+    <updated>2021-01-09T08:10:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/kYU7BgLrwF3wV51avnF2eQ</id>
+    <link href="https://mp.weixin.qq.com/s/kYU7BgLrwF3wV51avnF2eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯万字Code Review规范出炉！别再乱写代码了</title>
     <updated>2021-01-08T07:59:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T08:10:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/6hZ8QN0dfx6x5MdAL7b1vA</id>
     <link href="https://mp.weixin.qq.com/s/6hZ8QN0dfx6x5MdAL7b1vA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？</title>
-    <updated>2020-12-30T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/6OdqQdRGmnu7UEiH1-NRKA</id>
-    <link href="https://mp.weixin.qq.com/s/6OdqQdRGmnu7UEiH1-NRKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

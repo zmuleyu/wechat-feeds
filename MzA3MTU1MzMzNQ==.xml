@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>C语言与C++编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:37:41+08:00</updated>
+  <updated>2021-01-09T11:37:53+08:00</updated>
   <subtitle>讨论和学习C/C++编程知识，分享C语言和C++开发相关的技术文章和工具资源</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无意中发现一位大佬的算法刷题pdf笔记</title>
+    <updated>2021-01-08T16:23:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/xiem_g2kPrVDi-HbQoCHUw</id>
+    <link href="https://mp.weixin.qq.com/s/xiem_g2kPrVDi-HbQoCHUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《现代C++教程》：高速上手C++ 11/14/17/20（中文版附下载）</title>
+    <updated>2021-01-08T16:23:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HYMNPOY9HNqrxM8S4ptu4A</id>
+    <link href="https://mp.weixin.qq.com/s/HYMNPOY9HNqrxM8S4ptu4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自己动手实现一个malloc内存分配器 | 30图</title>
     <updated>2021-01-07T17:42:03+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2020-12-28T17:46:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/PwRQS2v4wJD4uJr_fLCL7g</id>
     <link href="https://mp.weixin.qq.com/s/PwRQS2v4wJD4uJr_fLCL7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C ++ 之父拒绝编程语言对比，C++20正式发布，首次公布最重要新特性</title>
-    <updated>2020-12-27T19:14:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/65qY9TahOJGkgF8Acy2nGA</id>
-    <link href="https://mp.weixin.qq.com/s/65qY9TahOJGkgF8Acy2nGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅析C++智能指针和enable_shared_from_this 机制</title>
-    <updated>2020-12-27T19:14:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/ZvrOqMNHiwkU-nFW9QfTZA</id>
-    <link href="https://mp.weixin.qq.com/s/ZvrOqMNHiwkU-nFW9QfTZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

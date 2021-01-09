@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BI使徒 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T11:40:36+08:00</updated>
+  <updated>2021-01-09T11:36:02+08:00</updated>
   <subtitle>专注于Business Intelligence领域，传播知识与实战经验福音的布道者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Power BI 可视化系列笔记——可隐藏的URL超链接</title>
+    <updated>2021-01-08T22:32:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/95AdPny-wSd25kPjzNM5AQ</id>
+    <link href="https://mp.weixin.qq.com/s/95AdPny-wSd25kPjzNM5AQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Power BI 可视化系列笔记——神奇的浮动切片器</title>
     <updated>2020-12-31T17:33:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-21T18:07:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-21:/s/WcVKuD6qT4Lun7QTH-LedA</id>
     <link href="https://mp.weixin.qq.com/s/WcVKuD6qT4Lun7QTH-LedA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 Power Apps 制作上传门户应用 -Azure Blob Storage</title>
-    <updated>2020-08-17T21:54:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-17:/s/bJzEZ-yUYGmtVnMY_Jo_vg</id>
-    <link href="https://mp.weixin.qq.com/s/bJzEZ-yUYGmtVnMY_Jo_vg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

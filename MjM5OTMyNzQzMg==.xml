@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java之道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:57:53+08:00</updated>
+  <updated>2021-01-09T12:00:35+08:00</updated>
   <subtitle>有道无术，术可成；有术无道，止于道；「Java之道」致力于为广大Javaer传道授业解惑。以术识道，以道御术；</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021 几款常用 Redis 可视化工具</title>
+    <updated>2021-01-08T22:14:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/G6scSSTKcKWHClBuEtAeqQ</id>
+    <link href="https://mp.weixin.qq.com/s/G6scSSTKcKWHClBuEtAeqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>求求你，别再随便打日志了，教你动态修改日志级别！</title>
     <updated>2021-01-07T21:42:41+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-31T20:41:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/G9KXh7oruvlyhsmppkx3ng</id>
     <link href="https://mp.weixin.qq.com/s/G9KXh7oruvlyhsmppkx3ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker不香吗？为什么还要用k8s</title>
-    <updated>2020-12-29T22:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/qVMUPgm0wsmEq4lJPM_2jw</id>
-    <link href="https://mp.weixin.qq.com/s/qVMUPgm0wsmEq4lJPM_2jw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>分布式研究小院 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:47:10+08:00</updated>
+  <updated>2021-01-09T11:57:04+08:00</updated>
   <subtitle>分布式系统/设计/实现/过去/未来---Discover Design Distribute</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TiDB 在 Raft 成员变更上踩的坑</title>
+    <updated>2021-01-09T11:51:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/iYng0vLAXgzgotA2KLUY_g</id>
+    <link href="https://mp.weixin.qq.com/s/iYng0vLAXgzgotA2KLUY_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>slimarray: gzip的压缩率, 即时访问</title>
     <updated>2020-11-18T13:01:38+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2019-12-23T15:09:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2019-12-23:/s/bNPRbFE9lTG6NWZARdbPSA</id>
     <link href="https://mp.weixin.qq.com/s/bNPRbFE9lTG6NWZARdbPSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Art of Pull Requests(翻译)</title>
-    <updated>2019-12-20T14:40:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2019-12-20:/s/7Ct6go6XndQQgqHicAhgrA</id>
-    <link href="https://mp.weixin.qq.com/s/7Ct6go6XndQQgqHicAhgrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
