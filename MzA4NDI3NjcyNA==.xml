@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新华社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T02:23:16+08:00</updated>
+  <updated>2021-01-10T07:50:20+08:00</updated>
   <subtitle>新华通讯社官方账号。新华社是中国国家通讯社，现场新闻、原创新闻报道的大本营。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>早知天下事</title>
+    <updated>2021-01-10T00:42:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/1se38NoXcBo-VDqhFGTpDg</id>
+    <link href="https://mp.weixin.qq.com/s/1se38NoXcBo-VDqhFGTpDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今天，110！</title>
     <updated>2021-01-10T00:01:50+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-09T10:42:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/SwaPlV_aEsi_3s8zW5Hswg</id>
     <link href="https://mp.weixin.qq.com/s/SwaPlV_aEsi_3s8zW5Hswg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最新！新增确诊病例33例，其中本土病例17例</title>
-    <updated>2021-01-09T09:03:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Po1k4SF9e8m6MpxEAIsfjg</id>
-    <link href="https://mp.weixin.qq.com/s/Po1k4SF9e8m6MpxEAIsfjg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
