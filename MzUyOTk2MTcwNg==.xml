@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:44:30+08:00</updated>
+  <updated>2021-01-09T20:35:11+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10个中文成语，10种Python新手错误</title>
+    <updated>2021-01-09T16:48:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/ZNOPRsYn41dWQlkRSljYzw</id>
+    <link href="https://mp.weixin.qq.com/s/ZNOPRsYn41dWQlkRSljYzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>15个顶级Python库，你必须要试试！</title>
     <updated>2021-01-08T19:38:23+08:00</updated>
@@ -33,13 +40,6 @@
     <updated>2021-01-03T20:49:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/TkZyo7tr8IuSYMLGdG-rWw</id>
     <link href="https://mp.weixin.qq.com/s/TkZyo7tr8IuSYMLGdG-rWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>精选合辑 | 30个Python数据分析及实战项目(含源码)</title>
-    <updated>2021-01-03T20:26:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Ue9Wz6FlHej_ZGiPDJTmeQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ue9Wz6FlHej_ZGiPDJTmeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +75,6 @@
     <updated>2020-12-28T21:29:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/hR7PlJDiFrlnmfQV6Yw7xQ</id>
     <link href="https://mp.weixin.qq.com/s/hR7PlJDiFrlnmfQV6Yw7xQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 类对象诞生记</title>
-    <updated>2020-12-27T21:38:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/0-4bLlNV_OWjftk7bF1HcQ</id>
-    <link href="https://mp.weixin.qq.com/s/0-4bLlNV_OWjftk7bF1HcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

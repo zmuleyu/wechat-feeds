@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:30:40+08:00</updated>
+  <updated>2021-01-09T20:23:18+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记录一次众测平台邀请码获取</title>
+    <updated>2021-01-09T14:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/r4nMv5dbjSJ7PsTfK6rm4Q</id>
+    <link href="https://mp.weixin.qq.com/s/r4nMv5dbjSJ7PsTfK6rm4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>人在看守所，刚赚2500</title>
+    <updated>2021-01-09T14:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/nq9hR1qQ5eytMrFB_hKCjA</id>
+    <link href="https://mp.weixin.qq.com/s/nq9hR1qQ5eytMrFB_hKCjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>通过一次性登录漏洞获取Workplace用户绑定邮箱</title>
+    <updated>2021-01-09T14:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8O3TfbcIFQ1Dm6tA1Kpg3Q</id>
+    <link href="https://mp.weixin.qq.com/s/8O3TfbcIFQ1Dm6tA1Kpg3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>利用Damn-Vulnerable-Bank学习Android应用程序安全</title>
+    <updated>2021-01-09T14:30:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/GdQcNe0a0xhwMDpD_WT1Xw</id>
+    <link href="https://mp.weixin.qq.com/s/GdQcNe0a0xhwMDpD_WT1Xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Linux应急响应笔记</title>
     <updated>2021-01-08T17:43:08+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-05T19:14:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/j8jwBqXmEDnCxMiEp5kKsQ</id>
     <link href="https://mp.weixin.qq.com/s/j8jwBqXmEDnCxMiEp5kKsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过数据角度来看邮件安全</title>
-    <updated>2021-01-04T18:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/iSEGKrtWEMBHssNm-k_IxQ</id>
-    <link href="https://mp.weixin.qq.com/s/iSEGKrtWEMBHssNm-k_IxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全球超过十万个Zyxel设备被曝存在后门</title>
-    <updated>2021-01-04T18:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/7beYDqjgi1lUE3k0AVK4bw</id>
-    <link href="https://mp.weixin.qq.com/s/7beYDqjgi1lUE3k0AVK4bw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>门罗币挖矿僵尸网络PGMiner瞄准PostgreSQL</title>
-    <updated>2021-01-04T18:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Hyjr2BnNF1RL8awzID5gQQ</id>
-    <link href="https://mp.weixin.qq.com/s/Hyjr2BnNF1RL8awzID5gQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Enum4linux-ng：面向安全专业人士和CTF玩家的下一代Enum4linux</title>
-    <updated>2021-01-04T18:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/xTD119ih-n9uJS1xgji-UA</id>
-    <link href="https://mp.weixin.qq.com/s/xTD119ih-n9uJS1xgji-UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

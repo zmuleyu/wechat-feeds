@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:35:26+08:00</updated>
+  <updated>2021-01-09T20:15:35+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>软件公司与非软件公司区别（纯个人经历及看法）</title>
+    <updated>2021-01-08T22:41:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/XwlwqOw7_HGq15rEZSif_A</id>
+    <link href="https://mp.weixin.qq.com/s/XwlwqOw7_HGq15rEZSif_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>单点登录的三种实现方式</title>
+    <updated>2021-01-08T22:41:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HfdG1P_7ZRfSp8su_z0nkg</id>
+    <link href="https://mp.weixin.qq.com/s/HfdG1P_7ZRfSp8su_z0nkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>刚入职，就被各种 Code Review，真的有必要吗？</title>
+    <updated>2021-01-08T22:41:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/6ZrmTwUYkL-GUs52pwUmjA</id>
+    <link href="https://mp.weixin.qq.com/s/6ZrmTwUYkL-GUs52pwUmjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让美团、京东、搜狐都说好的数据仓库，牛在哪？</title>
     <updated>2021-01-07T17:24:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-01T18:05:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/mJMhhST5Y4KBm3FPrnzpig</id>
     <link href="https://mp.weixin.qq.com/s/mJMhhST5Y4KBm3FPrnzpig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jar 包依赖冲突排查思路和解决方法</title>
-    <updated>2021-01-01T18:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/lfaAsTkmRQzd6jMa7NIYPg</id>
-    <link href="https://mp.weixin.qq.com/s/lfaAsTkmRQzd6jMa7NIYPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构，配置中心的技术选型</title>
-    <updated>2021-01-01T18:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/9I6zTfmGe53j0_Jng68bzA</id>
-    <link href="https://mp.weixin.qq.com/s/9I6zTfmGe53j0_Jng68bzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>进来，送书！</title>
-    <updated>2020-12-31T16:03:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/_kNT86fBSxaeBVrFy7aNeg</id>
-    <link href="https://mp.weixin.qq.com/s/_kNT86fBSxaeBVrFy7aNeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

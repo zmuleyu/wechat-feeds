@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈自学社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:52:03+08:00</updated>
+  <updated>2021-01-09T20:30:06+08:00</updated>
   <subtitle>全栈自学社区，专注于编程技术的讲解与分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>线性表的顺序存储——顺序表</title>
+    <updated>2021-01-09T19:02:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/hjuktWb92Bw9p7MHI1AwcA</id>
+    <link href="https://mp.weixin.qq.com/s/hjuktWb92Bw9p7MHI1AwcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Jedis基础详解</title>
+    <updated>2021-01-09T19:02:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/M7iBxsjVLifI7Tx8CsqjSg</id>
+    <link href="https://mp.weixin.qq.com/s/M7iBxsjVLifI7Tx8CsqjSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>线性表概述</title>
     <updated>2021-01-08T10:44:22+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-21T20:56:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/zquqbMaco9eyBv9xgCDNkQ</id>
     <link href="https://mp.weixin.qq.com/s/zquqbMaco9eyBv9xgCDNkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>巴菲特一生最经典的演讲</title>
-    <updated>2020-12-16T10:53:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/xkhFJodViMNF9f5RznfB4g</id>
-    <link href="https://mp.weixin.qq.com/s/xkhFJodViMNF9f5RznfB4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈二叉树</title>
-    <updated>2020-12-16T10:53:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/SlZP15Nq9HJqyO5IVhB8rQ</id>
-    <link href="https://mp.weixin.qq.com/s/SlZP15Nq9HJqyO5IVhB8rQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

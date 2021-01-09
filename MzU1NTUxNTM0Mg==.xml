@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习研究组订阅号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:31:24+08:00</updated>
+  <updated>2021-01-09T20:23:53+08:00</updated>
   <subtitle>机器学习研究会由百度七剑客雷鸣先生创办，旨在推动AI的技术发展和产业落地。参与组织北大、清华”AI前沿与产业趋势“公开课，广泛的和高校、企业、创业、VC开展合作，自身也参与优秀AI项目的投资和孵化</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenAI祭出120亿参数魔法模型！从文本合成图像栩栩如生，仿佛拥有人类的语言想象力</title>
+    <updated>2021-01-09T18:04:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Rqfuu5jKDo0kt1tKjOW_Tg</id>
+    <link href="https://mp.weixin.qq.com/s/Rqfuu5jKDo0kt1tKjOW_Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华大学2020年毕业生就业质量报告出炉！连续三年无本科毕业生入职阿里</title>
+    <updated>2021-01-09T18:04:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/bw-3Scgrt9q2jFgSRI30vw</id>
+    <link href="https://mp.weixin.qq.com/s/bw-3Scgrt9q2jFgSRI30vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何用深度学习来做检索：度量学习中关于排序损失函数的综述（1）</title>
+    <updated>2021-01-09T18:04:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/tIo7Hr7Vbn4A3woqIISL0g</id>
+    <link href="https://mp.weixin.qq.com/s/tIo7Hr7Vbn4A3woqIISL0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>NLU新里程碑，微软DeBERTa登顶SuperGLUE排行榜，显著超越人类</title>
     <updated>2021-01-08T18:17:21+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-03T19:02:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/XGA4rUh-nbGMFw2jcPVIog</id>
     <link href="https://mp.weixin.qq.com/s/XGA4rUh-nbGMFw2jcPVIog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>李航等提出多粒度AMBERT模型，CLUE、GLUE上优于BERT，中文提升显著</title>
-    <updated>2021-01-03T19:02:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/ua2cnp4QW5jNOKdI6QToBg</id>
-    <link href="https://mp.weixin.qq.com/s/ua2cnp4QW5jNOKdI6QToBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谁是2020年最强Python库？年度Top10出炉</title>
-    <updated>2021-01-02T18:07:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/aplGizWUO4EG6XQTQHtUCA</id>
-    <link href="https://mp.weixin.qq.com/s/aplGizWUO4EG6XQTQHtUCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MIT开源高性能自动微分框架Enzyme：速度提升4.5倍</title>
-    <updated>2021-01-02T18:07:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/f0AvAQrVd7P-Gl6KzNXmxw</id>
-    <link href="https://mp.weixin.qq.com/s/f0AvAQrVd7P-Gl6KzNXmxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

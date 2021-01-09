@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:38:13+08:00</updated>
+  <updated>2021-01-09T20:28:24+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenViDial：一个大规模多模态对话数据集</title>
+    <updated>2021-01-09T19:18:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/dbGrkCaPnmau0TwSROfZ2A</id>
+    <link href="https://mp.weixin.qq.com/s/dbGrkCaPnmau0TwSROfZ2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>法研杯参赛总结：“抽取-生成”式长文本摘要</title>
     <updated>2021-01-08T18:04:00+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-31T13:18:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/qou0uUQVsU306KvB5JMKVg</id>
     <link href="https://mp.weixin.qq.com/s/qou0uUQVsU306KvB5JMKVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI 2021 | 在手机上实现19FPS实时的YOLObile目标检测</title>
-    <updated>2020-12-31T13:18:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/VOtzSc3g2IYxKLRDUfDjdA</id>
-    <link href="https://mp.weixin.qq.com/s/VOtzSc3g2IYxKLRDUfDjdA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

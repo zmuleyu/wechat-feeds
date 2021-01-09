@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:43:48+08:00</updated>
+  <updated>2021-01-09T20:26:18+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有人靠&#34;抢茅台&#34;月入百万，脚本曝光，开源可用！</title>
+    <updated>2021-01-09T18:29:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/UZ32-rEMP5Ujt1oMkGIQaw</id>
+    <link href="https://mp.weixin.qq.com/s/UZ32-rEMP5Ujt1oMkGIQaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>资深首席架构师预测：2021年云计算的8个首要趋势</title>
+    <updated>2021-01-09T18:29:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/aYTYPdPtWLcXKrm9PGwloA</id>
+    <link href="https://mp.weixin.qq.com/s/aYTYPdPtWLcXKrm9PGwloA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>并发量提高十倍？谁来救我的头发...</title>
     <updated>2021-01-07T23:38:02+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-31T11:28:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/4LTSt0e_6VQu3RIlGJTumw</id>
     <link href="https://mp.weixin.qq.com/s/4LTSt0e_6VQu3RIlGJTumw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年终盘点 | 2020年，国内私有云正式进入3.0时代</title>
-    <updated>2020-12-30T20:35:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/hgmZ8GT-JVBrDmKiOMJl0g</id>
-    <link href="https://mp.weixin.qq.com/s/hgmZ8GT-JVBrDmKiOMJl0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

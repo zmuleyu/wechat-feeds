@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:21:53+08:00</updated>
+  <updated>2021-01-09T20:15:39+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【源头活水】Seesaw Loss：一种面向长尾目标检测的平衡损失函数</title>
+    <updated>2021-01-09T19:39:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/YsSdeco4z_EJ2qsEFEqF7w</id>
+    <link href="https://mp.weixin.qq.com/s/YsSdeco4z_EJ2qsEFEqF7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】怎样才能让你的模型更加高效运行？</title>
+    <updated>2021-01-09T19:39:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/nSUnUdAgOicMOH73LoUdIQ</id>
+    <link href="https://mp.weixin.qq.com/s/nSUnUdAgOicMOH73LoUdIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI96×华为云Stack 目标检测专题</title>
+    <updated>2021-01-09T19:39:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/bMa8kvvrdaEV-4wncii-OQ</id>
+    <link href="https://mp.weixin.qq.com/s/bMa8kvvrdaEV-4wncii-OQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【综述专栏】循环神经网络RNN（含LSTM，GRU）小综述</title>
     <updated>2021-01-08T18:05:48+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-01T18:09:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/ocBZhQI4Qu2u6WKsFM_zyA</id>
     <link href="https://mp.weixin.qq.com/s/ocBZhQI4Qu2u6WKsFM_zyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】pytorch计算模型FLOPs和Params</title>
-    <updated>2021-01-01T18:09:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/3vqDM0neJ9NeY3wjgofLMQ</id>
-    <link href="https://mp.weixin.qq.com/s/3vqDM0neJ9NeY3wjgofLMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI95×CRIPAC 因果推理专题</title>
-    <updated>2021-01-01T18:09:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/E7FYhIVnWbgJywOrvs46vg</id>
-    <link href="https://mp.weixin.qq.com/s/E7FYhIVnWbgJywOrvs46vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】保姆级教程：个人深度学习工作站配置指南</title>
-    <updated>2020-12-31T17:58:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/m0xsVOmDMj3Oe9Ae02fAXQ</id>
-    <link href="https://mp.weixin.qq.com/s/m0xsVOmDMj3Oe9Ae02fAXQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

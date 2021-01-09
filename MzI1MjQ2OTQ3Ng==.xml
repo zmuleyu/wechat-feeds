@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据派THU | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:47:57+08:00</updated>
+  <updated>2021-01-09T20:39:39+08:00</updated>
   <subtitle>发布清华校内相关科研动态、教学成果及线下活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>R语言 lightgbm 算法优化：不平衡二分类问题（附代码）</title>
+    <updated>2021-01-09T13:36:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/wTOBv7IHtTPtacARJ9ZKAA</id>
+    <link href="https://mp.weixin.qq.com/s/wTOBv7IHtTPtacARJ9ZKAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华大学发布首个自动图机器学习工具包 AutoGL，开源易用可扩展，支持自定义模型</title>
+    <updated>2021-01-09T13:36:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/c-jHAhuB9rvsFlixl_XR9w</id>
+    <link href="https://mp.weixin.qq.com/s/c-jHAhuB9rvsFlixl_XR9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多模态深度学习综述：网络结构设计和模态融合方法汇总</title>
     <updated>2021-01-08T14:16:33+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-31T14:20:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/A93e1kAWIs4soSPyLX-ldw</id>
     <link href="https://mp.weixin.qq.com/s/A93e1kAWIs4soSPyLX-ldw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一图读懂全国工业和信息化工作会议</title>
-    <updated>2020-12-31T14:20:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/rs49-wyGTNzy8f-Wwrdmog</id>
-    <link href="https://mp.weixin.qq.com/s/rs49-wyGTNzy8f-Wwrdmog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学董家鸿：智慧医疗，肝胆守望</title>
-    <updated>2020-12-30T14:16:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/yYstJIeA5spBhgnylLMtVQ</id>
-    <link href="https://mp.weixin.qq.com/s/yYstJIeA5spBhgnylLMtVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

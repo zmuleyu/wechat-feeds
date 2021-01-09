@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:51:50+08:00</updated>
+  <updated>2021-01-09T20:29:49+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于中台的深度思考和中台实战</title>
+    <updated>2021-01-09T18:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/tmPUuDfY_DkK78gcEz6xqQ</id>
+    <link href="https://mp.weixin.qq.com/s/tmPUuDfY_DkK78gcEz6xqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>几个香饽饽的大数据真实企业项目</title>
     <updated>2021-01-08T08:08:47+08:00</updated>
@@ -29,13 +36,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>如何搭建一个PB级大数据中台？我之前是这么搞的！</title>
-    <updated>2021-01-05T21:53:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/0QWg6kX-Oi4DAYFm5ZYVXg</id>
-    <link href="https://mp.weixin.qq.com/s/0QWg6kX-Oi4DAYFm5ZYVXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Flink 维表 Join 实践|附四种方式的源码</title>
     <updated>2021-01-05T21:53:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/F14ErNxl8Eeir-XmJHL5GQ</id>
@@ -47,13 +47,6 @@
     <updated>2021-01-05T08:59:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/LfhHIPo368KOjIqg0cOorg</id>
     <link href="https://mp.weixin.qq.com/s/LfhHIPo368KOjIqg0cOorg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么我说你的 Spark 学错了！</title>
-    <updated>2021-01-04T08:36:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/z_3mEbd1gOPcLvAwsy3CmA</id>
-    <link href="https://mp.weixin.qq.com/s/z_3mEbd1gOPcLvAwsy3CmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +82,6 @@
     <updated>2020-12-27T22:51:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/uYCWGGUIsiY73nXx2I7V9A</id>
     <link href="https://mp.weixin.qq.com/s/uYCWGGUIsiY73nXx2I7V9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 1.11 中的动态加载 udf jar 包</title>
-    <updated>2020-12-27T19:53:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/fOxemBMsI3pEsRGwc5nKqw</id>
-    <link href="https://mp.weixin.qq.com/s/fOxemBMsI3pEsRGwc5nKqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

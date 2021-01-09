@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T16:27:40+08:00</updated>
+  <updated>2021-01-09T20:21:12+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试官：能说一说Mysql缓存池吗？</title>
+    <updated>2021-01-09T17:21:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/AbiYMbDUJsMWK-_g0mFNwg</id>
+    <link href="https://mp.weixin.qq.com/s/AbiYMbDUJsMWK-_g0mFNwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>假期三天，我肝了万字的Java垃圾回收，看完你还敢说不会？</title>
     <updated>2021-01-08T13:54:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T10:54:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/wMTFQmQste0DwHR8FDgR1g</id>
     <link href="https://mp.weixin.qq.com/s/wMTFQmQste0DwHR8FDgR1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10张图告诉你，MySQL 是如何查找数据的？</title>
-    <updated>2020-12-24T09:54:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/JtHf0AEr7BmapGFFd1tegQ</id>
-    <link href="https://mp.weixin.qq.com/s/JtHf0AEr7BmapGFFd1tegQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

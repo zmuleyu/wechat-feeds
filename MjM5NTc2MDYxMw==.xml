@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>看雪学院 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:45:34+08:00</updated>
+  <updated>2021-01-09T20:35:48+08:00</updated>
   <subtitle>致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用IDA trace来还原ollvm混淆的非标准算法</title>
+    <updated>2021-01-09T14:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/gyuhMvaRP-2iYftEiVLtew</id>
+    <link href="https://mp.weixin.qq.com/s/gyuhMvaRP-2iYftEiVLtew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>心怀梦想笃定前行，科锐40期开始招生啦！</title>
+    <updated>2021-01-09T14:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/C5FsnTJnxJ1kgzt9NHtOCw</id>
+    <link href="https://mp.weixin.qq.com/s/C5FsnTJnxJ1kgzt9NHtOCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何识别糖衣炮弹？高级对抗技术教你通杀恶意程序</title>
+    <updated>2021-01-09T14:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/deoJoP2uylg5JUuO1LvH6w</id>
+    <link href="https://mp.weixin.qq.com/s/deoJoP2uylg5JUuO1LvH6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FormBook样本对抗部分分析</title>
     <updated>2021-01-08T15:47:19+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-03T16:42:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/J8-F7l3ZEmWn8FpowL6V2A</id>
     <link href="https://mp.weixin.qq.com/s/J8-F7l3ZEmWn8FpowL6V2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>即将售罄！《0day安全 软件漏洞分析技术》第三次再版印刷啦！</title>
-    <updated>2021-01-03T16:42:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/9ghkj2B36ZyCgbESsaeBHA</id>
-    <link href="https://mp.weixin.qq.com/s/9ghkj2B36ZyCgbESsaeBHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Ghidra操作手册》带你玩转软件逆向！</title>
-    <updated>2021-01-03T16:42:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Fxjet1x_chtbjpwCXPeQpg</id>
-    <link href="https://mp.weixin.qq.com/s/Fxjet1x_chtbjpwCXPeQpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用unicorn来trace还原ollvm混淆的非标准算法</title>
-    <updated>2021-01-02T09:49:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/PMTEXu4bmctndwUpdR7uFw</id>
-    <link href="https://mp.weixin.qq.com/s/PMTEXu4bmctndwUpdR7uFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TonyBai | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:45:49+08:00</updated>
+  <updated>2021-01-09T20:26:31+08:00</updated>
   <subtitle>与技术博客tonybai.com同源。近期关注Kubernetes、Docker、Golang、儿童编程、DevOps、云计算平台和机器学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>优雅的Go错误处理 | Gopher Daily (2021.01.09) ʕ◔ϖ◔ʔ</title>
+    <updated>2021-01-09T17:16:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/27lCDiTjCyAD52dKV36plQ</id>
+    <link href="https://mp.weixin.qq.com/s/27lCDiTjCyAD52dKV36plQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>通过实例理解Go标准库http包是如何处理keep-alive连接的</title>
     <updated>2021-01-08T09:40:22+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-31T16:07:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/Mah2ob4uDoUt7Ebx2D_yqw</id>
     <link href="https://mp.weixin.qq.com/s/Mah2ob4uDoUt7Ebx2D_yqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年Go语言盘点：新冠大流行阻挡不了Go演进的步伐</title>
-    <updated>2020-12-30T10:57:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/do7slOGxztgAfx4Io4PQkg</id>
-    <link href="https://mp.weixin.qq.com/s/do7slOGxztgAfx4Io4PQkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么Go的Web框架速度还不如Java? | Gopher Daily (2020.12.30) ʕ◔ϖ◔ʔ</title>
-    <updated>2020-12-30T10:57:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/s0JNDT1Q5lVQwp4Ud41coA</id>
-    <link href="https://mp.weixin.qq.com/s/s0JNDT1Q5lVQwp4Ud41coA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

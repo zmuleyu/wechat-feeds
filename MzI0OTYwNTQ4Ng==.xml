@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据生态 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:27:55+08:00</updated>
+  <updated>2021-01-09T20:26:46+08:00</updated>
   <subtitle>火爆数年的大数据圈，让很多人还没弄懂大数据是什么，就已然身处其中。该订阅号对大数据行业中的各个领域进行梳理，有助于业内人士了解大数据生态圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink Savepoint机制</title>
+    <updated>2021-01-09T18:01:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/kEHSkTaKY8XPteX2sUrooQ</id>
+    <link href="https://mp.weixin.qq.com/s/kEHSkTaKY8XPteX2sUrooQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink 任务失败恢复策略</title>
     <updated>2021-01-02T19:06:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T13:25:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/xAr7XsxTsl7iAkWsI8yfmg</id>
     <link href="https://mp.weixin.qq.com/s/xAr7XsxTsl7iAkWsI8yfmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 检查点启用与配置</title>
-    <updated>2020-12-12T22:16:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/xLDsDdLja08w6b3C4yrCdg</id>
-    <link href="https://mp.weixin.qq.com/s/xLDsDdLja08w6b3C4yrCdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>宽字节安全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T02:06:32+08:00</updated>
+  <updated>2021-01-09T20:21:58+08:00</updated>
   <subtitle>二十年专注安全研究，漏洞分析</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>渗透小记 - 中继和委派的实战利用</title>
+    <updated>2021-01-09T16:53:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/rAM3uWimRriY3lKCHhH8Xg</id>
+    <link href="https://mp.weixin.qq.com/s/rAM3uWimRriY3lKCHhH8Xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>某远未授权访问分析</title>
     <updated>2021-01-08T23:39:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-28T19:19:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-28:/s/48VIwTkyFVXUTS78kNByhg</id>
     <link href="https://mp.weixin.qq.com/s/48VIwTkyFVXUTS78kNByhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>weblogic CVE-2020-2963、CNVD-2020-23019  反序列化漏洞分析与复现</title>
-    <updated>2020-10-23T17:27:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-23:/s/RlEmkwit1cDxHhRBo-eY8A</id>
-    <link href="https://mp.weixin.qq.com/s/RlEmkwit1cDxHhRBo-eY8A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

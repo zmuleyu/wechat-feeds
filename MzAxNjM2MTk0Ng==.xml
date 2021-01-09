@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:33:06+08:00</updated>
+  <updated>2021-01-09T20:15:17+08:00</updated>
   <subtitle>码农的所思所悟，码农的百科全书，码农的知识星球。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记住下次看小电影前一定要检查一下域名是不是 HTTPS 的，别说我没提醒你……</title>
+    <updated>2021-01-09T17:04:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/fpSpRwdIEENo9OUqrmY5vQ</id>
+    <link href="https://mp.weixin.qq.com/s/fpSpRwdIEENo9OUqrmY5vQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>白嫖版-2020大数据Flink实时旅游平台</title>
+    <updated>2021-01-09T17:04:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/9PACLmhi1wlUeTW1I7aodQ</id>
+    <link href="https://mp.weixin.qq.com/s/9PACLmhi1wlUeTW1I7aodQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从网上抄来的高并发代码，一上线，崩了……</title>
     <updated>2021-01-07T20:38:24+08:00</updated>
@@ -26,13 +40,6 @@
     <updated>2021-01-06T16:56:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/E0ahtm5aCHSOzNu3CCGhtg</id>
     <link href="https://mp.weixin.qq.com/s/E0ahtm5aCHSOzNu3CCGhtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>白嫖版-Nginx高性能服务器视频2020</title>
-    <updated>2021-01-06T16:56:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/wLXQkXYcKDGL4dJyj8aAkw</id>
-    <link href="https://mp.weixin.qq.com/s/wLXQkXYcKDGL4dJyj8aAkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -78,13 +85,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>阿里的御用框架，它非常牛啤！不服不行！</title>
-    <updated>2021-01-02T17:52:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/U2HBM-BymVMGUl8pJO5FhA</id>
-    <link href="https://mp.weixin.qq.com/s/U2HBM-BymVMGUl8pJO5FhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>在微服务中使用RabbitMQ也需要规范化</title>
     <updated>2021-01-02T17:52:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/C3xFN7rX3sw75XiU0nVoSw</id>
@@ -117,13 +117,6 @@
     <updated>2020-12-30T18:14:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/ibL7kKcj5vLkae1XKHz6Cw</id>
     <link href="https://mp.weixin.qq.com/s/ibL7kKcj5vLkae1XKHz6Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官灵魂的一击：你懂MySQL事务吗？</title>
-    <updated>2020-12-29T15:10:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/N5nK7q0vUD9Ouqdi5EYdSw</id>
-    <link href="https://mp.weixin.qq.com/s/N5nK7q0vUD9Ouqdi5EYdSw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

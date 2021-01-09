@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MarkerHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:31:32+08:00</updated>
+  <updated>2021-01-09T20:23:07+08:00</updated>
   <subtitle>专注于梳理java知识，解析开源项目。在Java框架底层、并发编程、网络编程、中间件、高并发、高可用以及测试和运维等领域知识皆有整理，让java学习不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SpringBoot+Vue 完整的外卖系统，手机端和后台管理，可以玩一下！</title>
+    <updated>2021-01-09T16:27:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/DidVXTTw4pPTSq9oBx2Reg</id>
+    <link href="https://mp.weixin.qq.com/s/DidVXTTw4pPTSq9oBx2Reg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚入职一周的小姐姐问我，delete、truncate、drop 的区别有哪些，该如何选择？</title>
     <updated>2021-01-08T16:36:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T22:32:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/oBWsIhKjlw0fH5C1tUCDYg</id>
     <link href="https://mp.weixin.qq.com/s/oBWsIhKjlw0fH5C1tUCDYg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 泛型 T，E，K，V，?，傻傻分不清？</title>
-    <updated>2020-12-30T20:06:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/kilnxryQeBU7qOXagbOfWg</id>
-    <link href="https://mp.weixin.qq.com/s/kilnxryQeBU7qOXagbOfWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
