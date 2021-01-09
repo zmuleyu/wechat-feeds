@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>杨建荣的学习笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T02:22:42+08:00</updated>
+  <updated>2021-01-10T02:25:25+08:00</updated>
   <subtitle>专注于技术。 人生一世，选条路，不退让，不更改，一直走到尽头，是件幸事：）</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>对于近期工作状态的复盘</title>
+    <updated>2021-01-09T23:59:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/jTDbyLlkk3PEtbz8ZtRuxg</id>
+    <link href="https://mp.weixin.qq.com/s/jTDbyLlkk3PEtbz8ZtRuxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>规避单点故障，MySQL 8.0 MGR软负载怎么选？</title>
     <updated>2021-01-08T23:54:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T22:50:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/hkcMzZ3fPZWEzTyDLtkHAA</id>
     <link href="https://mp.weixin.qq.com/s/hkcMzZ3fPZWEzTyDLtkHAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度学习在视觉搜索和匹配中的应用</title>
-    <updated>2020-12-29T23:57:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/2i4OfZtnTVVlu1SAB3_yug</id>
-    <link href="https://mp.weixin.qq.com/s/2i4OfZtnTVVlu1SAB3_yug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

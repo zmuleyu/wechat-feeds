@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T02:20:20+08:00</updated>
+  <updated>2021-01-10T02:22:46+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入理解CPU和异构计算芯片GPU/FPGA/ASIC</title>
+    <updated>2021-01-09T22:00:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/a1SmaOdPxo-E53YA4Y43LQ</id>
+    <link href="https://mp.weixin.qq.com/s/a1SmaOdPxo-E53YA4Y43LQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>重发：终极版服务器基础知识（附PDF下载）</title>
     <updated>2021-01-08T23:57:25+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-01T08:07:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/1BuqhLe2wkyJTUEOFSPTZg</id>
     <link href="https://mp.weixin.qq.com/s/1BuqhLe2wkyJTUEOFSPTZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盘点：2020分享了哪些硬核技术？</title>
-    <updated>2020-12-30T22:54:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Jm4ej49dWobIr13zCx1pzQ</id>
-    <link href="https://mp.weixin.qq.com/s/Jm4ej49dWobIr13zCx1pzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

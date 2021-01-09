@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T01:55:30+08:00</updated>
+  <updated>2021-01-10T02:29:08+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯万字Code Review规范出炉！别再乱写代码了</title>
+    <updated>2021-01-09T22:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/kRxhOA3riiy-wOUVn4KV6w</id>
+    <link href="https://mp.weixin.qq.com/s/kRxhOA3riiy-wOUVn4KV6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>游戏机械键盘吃鸡太香了，写代码飞起！包邮送一个！</title>
+    <updated>2021-01-09T22:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/nUCAwBnX85FhHp7DPDZ4Ww</id>
+    <link href="https://mp.weixin.qq.com/s/nUCAwBnX85FhHp7DPDZ4Ww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Nginx 凭啥并发数可以达到 3w？</title>
+    <updated>2021-01-09T22:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/XGjEdWXM7ArnaCsA4uChCQ</id>
+    <link href="https://mp.weixin.qq.com/s/XGjEdWXM7ArnaCsA4uChCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国内又一起“删库跑路”事件：程序员怒删公司9TB数据，判刑7年！</title>
+    <updated>2021-01-09T22:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/cIHebU9Z8MgmaHgcjGiFQA</id>
+    <link href="https://mp.weixin.qq.com/s/cIHebU9Z8MgmaHgcjGiFQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>delete后加 limit是个好习惯么</title>
+    <updated>2021-01-09T22:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/CODtBqnpApGielTZeUSR_A</id>
+    <link href="https://mp.weixin.qq.com/s/CODtBqnpApGielTZeUSR_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试阿里被质问：ConcurrentHashMap线程安全吗</title>
+    <updated>2021-01-09T22:29:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/qKrJx7uxc1jqWkz0eZdeBA</id>
+    <link href="https://mp.weixin.qq.com/s/qKrJx7uxc1jqWkz0eZdeBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年必看书单！全面又实用，照着免费送60本准没错！</title>
     <updated>2021-01-08T23:43:50+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-07T00:18:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/CaC2YooJShiIJFbzztJ4tA</id>
     <link href="https://mp.weixin.qq.com/s/CaC2YooJShiIJFbzztJ4tA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Idea公司真牛逼，发行最适合程序员编程字体~</title>
-    <updated>2021-01-07T00:18:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0ByTZP0-uVkV9q6RdbqUdQ</id>
-    <link href="https://mp.weixin.qq.com/s/0ByTZP0-uVkV9q6RdbqUdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>特朗普又搞事情：禁止 8 个中国应用，包括支付宝、微信支付、QQ钱包、腾讯QQ、WPS Office、茄子快传、VMate</title>
-    <updated>2021-01-07T00:18:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Qea8sfi1nIQYoVd9X1_msQ</id>
-    <link href="https://mp.weixin.qq.com/s/Qea8sfi1nIQYoVd9X1_msQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试：你知道Java中的回调机制吗？</title>
-    <updated>2021-01-07T00:18:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Nh3B0u77r8Tf87XiwB9B7A</id>
-    <link href="https://mp.weixin.qq.com/s/Nh3B0u77r8Tf87XiwB9B7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常用的Git命令清单</title>
-    <updated>2021-01-06T00:45:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/SHZewqovoOihrPaqrEmxsQ</id>
-    <link href="https://mp.weixin.qq.com/s/SHZewqovoOihrPaqrEmxsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot 项目模板：摆脱步步搭建</title>
-    <updated>2021-01-06T00:45:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ssGkFO2xp0ZxwclR91AwNA</id>
-    <link href="https://mp.weixin.qq.com/s/ssGkFO2xp0ZxwclR91AwNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 年最棒的 9 个 Java 框架，哪个最香？</title>
-    <updated>2021-01-06T00:45:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/DYmn673EEEkkK60bfAOheQ</id>
-    <link href="https://mp.weixin.qq.com/s/DYmn673EEEkkK60bfAOheQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

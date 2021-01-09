@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T01:58:19+08:00</updated>
+  <updated>2021-01-10T01:59:05+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WinForm捕获全局异常（捕获未处理的异常）</title>
+    <updated>2021-01-09T20:56:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/lfjML1aaYTMnS6kFAaO-hA</id>
+    <link href="https://mp.weixin.qq.com/s/lfjML1aaYTMnS6kFAaO-hA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>asp.net core集成CKEditor实现图片上传功能</title>
     <updated>2021-01-08T20:07:41+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-31T16:11:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/r-l6yNFsjTn7PAZvUHAPGA</id>
     <link href="https://mp.weixin.qq.com/s/r-l6yNFsjTn7PAZvUHAPGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>玩转git-flow工作流-分支解析</title>
-    <updated>2020-12-30T09:30:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Oq-fP3ST9_TyMPc4RVHcOg</id>
-    <link href="https://mp.weixin.qq.com/s/Oq-fP3ST9_TyMPc4RVHcOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
