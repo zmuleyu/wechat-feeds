@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>算法美食屋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T23:23:23+08:00</updated>
+  <updated>2021-01-09T23:25:07+08:00</updated>
   <subtitle>把复杂的算法做成美食</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>tf.keras文本分类小例子</title>
+    <updated>2021-01-09T21:12:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/M3yKycvz15RDqIDt2W67pQ</id>
+    <link href="https://mp.weixin.qq.com/s/M3yKycvz15RDqIDt2W67pQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>31个Python实战项目教你掌握图像处理，PDF开放下载</title>
     <updated>2021-01-08T21:01:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T13:13:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/LLNy4aHjW2sTeVijzt3NSw</id>
     <link href="https://mp.weixin.qq.com/s/LLNy4aHjW2sTeVijzt3NSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2小时入门SparkSQL编程</title>
-    <updated>2020-12-30T22:19:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/77PL48hU1yzhRKek9X1sNg</id>
-    <link href="https://mp.weixin.qq.com/s/77PL48hU1yzhRKek9X1sNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

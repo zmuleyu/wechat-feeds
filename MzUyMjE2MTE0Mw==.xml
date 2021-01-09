@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:30:51+08:00</updated>
+  <updated>2021-01-09T23:23:44+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenAI又放大招：连接文本与图像的CLIP，在ImageNet上效果媲美ResNet50</title>
+    <updated>2021-01-09T22:35:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/pj_Jj7WIfcw1HGKob2o6Hg</id>
+    <link href="https://mp.weixin.qq.com/s/pj_Jj7WIfcw1HGKob2o6Hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SWA：让你的目标检测模型无痛涨点1% AP</title>
+    <updated>2021-01-09T22:35:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/s_nTPMHZ6r7Q-L7I-gCbHQ</id>
+    <link href="https://mp.weixin.qq.com/s/s_nTPMHZ6r7Q-L7I-gCbHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今天来捋一捋pytorch官方Faster R-CNN代码</title>
+    <updated>2021-01-09T22:35:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/qxWBDtqA43bE7lk8dp4XZw</id>
+    <link href="https://mp.weixin.qq.com/s/qxWBDtqA43bE7lk8dp4XZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>理解Meta Learning 元学习，这篇文章就够了！</title>
     <updated>2021-01-08T18:50:37+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-31T18:14:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/H3NLjSXI6_1C6lGbklCF7Q</id>
     <link href="https://mp.weixin.qq.com/s/H3NLjSXI6_1C6lGbklCF7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今天来捋一捋pytorch官方Faster R-CNN代码</title>
-    <updated>2020-12-31T18:14:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/lMPpnMneXvGJszhtwcq7vw</id>
-    <link href="https://mp.weixin.qq.com/s/lMPpnMneXvGJszhtwcq7vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>tinygrad：一个不到1000行代码的深度学习框架</title>
-    <updated>2020-12-31T18:14:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/3CSX64JsniTJqxWA84_GJA</id>
-    <link href="https://mp.weixin.qq.com/s/3CSX64JsniTJqxWA84_GJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于NLP相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱、信息抽取、序列模型、深度学习、语法分析、文本处理</title>
-    <updated>2020-12-30T18:14:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/PG_BLpYI56sB6HxV0axD2A</id>
-    <link href="https://mp.weixin.qq.com/s/PG_BLpYI56sB6HxV0axD2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

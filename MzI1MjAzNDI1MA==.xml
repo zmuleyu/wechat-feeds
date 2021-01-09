@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T23:20:04+08:00</updated>
+  <updated>2021-01-09T23:22:41+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2021-01-09 GTK-RS Channel问题中的多线程处理</title>
+    <updated>2021-01-09T22:47:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/ApqTopIFVx1vo8a0a4X5mw</id>
+    <link href="https://mp.weixin.qq.com/s/ApqTopIFVx1vo8a0a4X5mw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【每周一库】configster - Rust library for parsing configuration files</title>
     <updated>2021-01-08T22:45:13+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-31T21:47:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/eZhoJQVThu1TVmoN0H7zqQ</id>
     <link href="https://mp.weixin.qq.com/s/eZhoJQVThu1TVmoN0H7zqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【投稿】actix-websocket 使用 protocol的一点个人理解</title>
-    <updated>2020-12-31T21:47:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/XBLKgyF8n4HihSv-r8VXyA</id>
-    <link href="https://mp.weixin.qq.com/s/XBLKgyF8n4HihSv-r8VXyA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

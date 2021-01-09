@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vNext | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:27:32+08:00</updated>
+  <updated>2021-01-09T23:30:54+08:00</updated>
   <subtitle>Go，Golang，Go语言；Rust，Rustlang，Rust语言</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust 入门教程 7.4 - use 关键字（上）</title>
+    <updated>2021-01-09T21:04:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/WtzO_tIQXBuWZAnsq1MC5Q</id>
+    <link href="https://mp.weixin.qq.com/s/WtzO_tIQXBuWZAnsq1MC5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust 入门教程 7.3 - 路径（2）</title>
     <updated>2021-01-07T21:22:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T22:04:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/g5eZI7Unb9xlFh9FdebSsQ</id>
     <link href="https://mp.weixin.qq.com/s/g5eZI7Unb9xlFh9FdebSsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 入门教程 5.2 - struct 例子</title>
-    <updated>2020-12-22T17:01:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/T3yv6-mmQKk1xzvzTIhFcQ</id>
-    <link href="https://mp.weixin.qq.com/s/T3yv6-mmQKk1xzvzTIhFcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>有文化的技术人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T16:39:50+08:00</updated>
+  <updated>2021-01-09T23:36:37+08:00</updated>
   <subtitle>定期分享自己的原创技术文章，源码剖析、架构设计、工程实践</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Gossip协议及Consul中的实现</title>
+    <updated>2021-01-09T22:09:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/HWuVaiGlWRycU8A1uqqFTA</id>
+    <link href="https://mp.weixin.qq.com/s/HWuVaiGlWRycU8A1uqqFTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Consul多数据中心及数据同步</title>
     <updated>2021-01-08T14:32:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-14T14:29:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-14:/s/ThUtyb8ruHa-yPnOFL8UQQ</id>
     <link href="https://mp.weixin.qq.com/s/ThUtyb8ruHa-yPnOFL8UQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring、Spring MVC和Spring Boot</title>
-    <updated>2020-11-13T21:36:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/YXh2EVfSgqI2b9OOVKobWA</id>
-    <link href="https://mp.weixin.qq.com/s/YXh2EVfSgqI2b9OOVKobWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
