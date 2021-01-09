@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaGuide | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:37:05+08:00</updated>
+  <updated>2021-01-09T13:34:13+08:00</updated>
   <subtitle>专注Java后端学习和大厂面试的公众号！开源项目—JavaGuide （88k+Star）作者运营维护。学习Java，首选JavaGuide！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>彻夜怒肝！Spring Boot+Sentinel+Nacos高并发已撸完，快要裂开了！</title>
+    <updated>2021-01-08T23:34:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/v6zPPvU6XIk5OzHkvWVfHg</id>
+    <link href="https://mp.weixin.qq.com/s/v6zPPvU6XIk5OzHkvWVfHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>学弟年末面试大厂：这是让我“造火箭”啊！</title>
     <updated>2021-01-07T18:37:29+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-12-29T22:07:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/YgKknhoqcUnXOjMs6YGvHg</id>
     <link href="https://mp.weixin.qq.com/s/YgKknhoqcUnXOjMs6YGvHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么祖传代码会被称为屎山？</title>
-    <updated>2020-12-29T15:31:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/N2ItGh14Fmf-GPNomM5OJQ</id>
-    <link href="https://mp.weixin.qq.com/s/N2ItGh14Fmf-GPNomM5OJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

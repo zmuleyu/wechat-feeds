@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:54:20+08:00</updated>
+  <updated>2021-01-09T13:51:49+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有人靠&#34;抢茅台&#34;月入百万，脚本曝光，开源可用！</title>
+    <updated>2021-01-09T11:03:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/1C8lZ4a0WJMOlAQgAk5rZQ</id>
+    <link href="https://mp.weixin.qq.com/s/1C8lZ4a0WJMOlAQgAk5rZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 打包成的可执行 jar ，为什么不能被其他项目依赖？</title>
+    <updated>2021-01-09T11:03:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/iUEUqBDYvfyrg8_i9PYM2Q</id>
+    <link href="https://mp.weixin.qq.com/s/iUEUqBDYvfyrg8_i9PYM2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分享基于 Spring Cloud +OAuth2 的权限管理系统</title>
     <updated>2021-01-08T11:57:07+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-02T10:32:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/a4j_N4L2ZeJcY5cWl8txYw</id>
     <link href="https://mp.weixin.qq.com/s/a4j_N4L2ZeJcY5cWl8txYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>丁威: 优秀程序员必备技能之如何高效阅读源码(二更)</title>
-    <updated>2021-01-02T10:32:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/-7hXqFO5IxtGUZSrGp8bbw</id>
-    <link href="https://mp.weixin.qq.com/s/-7hXqFO5IxtGUZSrGp8bbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这份资料，良心了！！</title>
-    <updated>2021-01-01T10:42:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/Jm5jqOWpvkGXholRfW0Vmw</id>
-    <link href="https://mp.weixin.qq.com/s/Jm5jqOWpvkGXholRfW0Vmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

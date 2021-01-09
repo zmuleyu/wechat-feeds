@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:38:13+08:00</updated>
+  <updated>2021-01-09T13:35:12+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java日志记录最佳实践</title>
+    <updated>2021-01-09T12:14:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/mrMX-1-0unJuCPkrYIt1vw</id>
+    <link href="https://mp.weixin.qq.com/s/mrMX-1-0unJuCPkrYIt1vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试被吊打系列 - Redis缓存血崩</title>
     <updated>2021-01-08T08:56:54+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-29T22:31:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/FQlttrmnu3yaI0oVM3JZqw</id>
     <link href="https://mp.weixin.qq.com/s/FQlttrmnu3yaI0oVM3JZqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于Prometheus和Grafana的监控平台 - 运维告警</title>
-    <updated>2020-12-29T12:49:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/BsMr86-aU9fXDX-1fIXlCQ</id>
-    <link href="https://mp.weixin.qq.com/s/BsMr86-aU9fXDX-1fIXlCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

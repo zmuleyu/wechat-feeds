@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端全栈开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:51:55+08:00</updated>
+  <updated>2021-01-09T13:50:10+08:00</updated>
   <subtitle>专注分享国内外前端技术、Web全栈开发技术精选文章，大前端技术资讯、优质教程、工具资源等，助力开发者成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《了不起的程序员2021》有了小程序了</title>
+    <updated>2021-01-09T12:10:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/w37QBL5IASdA_BRRsCtq0Q</id>
+    <link href="https://mp.weixin.qq.com/s/w37QBL5IASdA_BRRsCtq0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年全年精选</title>
     <updated>2021-01-07T00:31:08+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-16T22:19:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/jU0V_nGyXRzKts5a_0z5NQ</id>
     <link href="https://mp.weixin.qq.com/s/jU0V_nGyXRzKts5a_0z5NQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vite使Vue CLI过时了吗？</title>
-    <updated>2020-12-14T23:06:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/iggD1idrI4_cTzcweLzfGA</id>
-    <link href="https://mp.weixin.qq.com/s/iggD1idrI4_cTzcweLzfGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cleave.js：Web表单开发之实时格式化显示</title>
-    <updated>2020-12-14T23:06:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/CFm1h5yHYWrXVtvPxe11VA</id>
-    <link href="https://mp.weixin.qq.com/s/CFm1h5yHYWrXVtvPxe11VA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
