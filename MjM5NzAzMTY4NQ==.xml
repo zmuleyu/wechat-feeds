@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老叶茶馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:49:32+08:00</updated>
+  <updated>2021-01-09T16:40:41+08:00</updated>
   <subtitle>老叶茶馆，泡壶茶，聊聊MySQL。 长期专注MySQL，Oracle MySQL ACE Director，鹅厂云最具价值专家</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>InnoDB如何快速杀掉堵塞会话的思考</title>
+    <updated>2021-01-09T15:52:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/FNj_HOjYGLSuo0PWjfu4CA</id>
+    <link href="https://mp.weixin.qq.com/s/FNj_HOjYGLSuo0PWjfu4CA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020再见，2021加油</title>
     <updated>2021-01-01T00:05:18+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-15T10:11:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/C8sXhDLk4G86zjsQeVVwMQ</id>
     <link href="https://mp.weixin.qq.com/s/C8sXhDLk4G86zjsQeVVwMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>slave开启MTS时执行mysqldump引发死锁案例</title>
-    <updated>2020-12-13T18:07:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/_TjoFLWq-9NUPS49zXTk7A</id>
-    <link href="https://mp.weixin.qq.com/s/_TjoFLWq-9NUPS49zXTk7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

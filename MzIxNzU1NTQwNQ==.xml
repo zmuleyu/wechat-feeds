@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T13:33:28+08:00</updated>
+  <updated>2021-01-09T16:21:52+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>习近平向全国人民警察致以诚挚慰问</title>
+    <updated>2021-01-09T14:06:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/3-dvGQXQ67HIm3bCKEYJRw</id>
+    <link href="https://mp.weixin.qq.com/s/3-dvGQXQ67HIm3bCKEYJRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最新！石家庄地铁、公交、出租车全部停运</title>
     <updated>2021-01-09T11:32:34+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-08T16:39:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/FABPvuUxcSoHM7EP7Aut8A</id>
     <link href="https://mp.weixin.qq.com/s/FABPvuUxcSoHM7EP7Aut8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>石家庄检出核酸阳性近300例！专家：疫情未达峰值，但总体可控</title>
-    <updated>2021-01-08T15:32:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/pkgkuiP-WNQ17SXVTt4-vw</id>
-    <link href="https://mp.weixin.qq.com/s/pkgkuiP-WNQ17SXVTt4-vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
