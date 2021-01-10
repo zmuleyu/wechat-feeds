@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:36:30+08:00</updated>
+  <updated>2021-01-11T02:30:12+08:00</updated>
   <subtitle>专注于Web前端技术文章分享，包含JavaScript、HTML5、CSS3等前端基础知识，以及Vue.js,React,Augular等前端框架</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>包邮送8本！第一本ECharts数据可视化书籍出版了！</title>
+    <updated>2021-01-10T23:17:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/royx8KVVojAidVWiYiA-Bg</id>
+    <link href="https://mp.weixin.qq.com/s/royx8KVVojAidVWiYiA-Bg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从一个优质开源项目来看前端架构</title>
     <updated>2021-01-08T15:42:30+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-28T17:54:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/jx3wH9LMno4nhWGVifVC7Q</id>
     <link href="https://mp.weixin.qq.com/s/jx3wH9LMno4nhWGVifVC7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让你页面速度飞起来的前端性能优化方案</title>
-    <updated>2020-12-27T18:07:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/ZhxlCw_HXn0GHdAB3_IrFA</id>
-    <link href="https://mp.weixin.qq.com/s/ZhxlCw_HXn0GHdAB3_IrFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VS Code竟然能约会，找对象不看脸，看编程水平</title>
-    <updated>2020-12-27T18:07:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/ANSEE6DG3gzjzgfr4WJWRw</id>
-    <link href="https://mp.weixin.qq.com/s/ANSEE6DG3gzjzgfr4WJWRw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

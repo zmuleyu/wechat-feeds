@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T01:59:05+08:00</updated>
+  <updated>2021-01-11T02:29:07+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从内存中释放Selenium chromedriver.exe</title>
+    <updated>2021-01-10T16:48:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/qMjA4dLUBNIdxvnYLYrZNA</id>
+    <link href="https://mp.weixin.qq.com/s/qMjA4dLUBNIdxvnYLYrZNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WinForm捕获全局异常（捕获未处理的异常）</title>
     <updated>2021-01-09T20:56:49+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2021-01-01T21:25:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/F3cpgBAIZsSiz8RTciGbhw</id>
     <link href="https://mp.weixin.qq.com/s/F3cpgBAIZsSiz8RTciGbhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>代码改变世界，也改变了我</title>
-    <updated>2020-12-31T16:11:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/yqCxFw3epY877JvuN08DOg</id>
-    <link href="https://mp.weixin.qq.com/s/yqCxFw3epY877JvuN08DOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET之Hangfire快速入门和使用</title>
-    <updated>2020-12-31T16:11:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/r-l6yNFsjTn7PAZvUHAPGA</id>
-    <link href="https://mp.weixin.qq.com/s/r-l6yNFsjTn7PAZvUHAPGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

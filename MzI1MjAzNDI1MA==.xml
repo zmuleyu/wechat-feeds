@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T23:22:41+08:00</updated>
+  <updated>2021-01-11T02:09:51+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust的一些科学计算相关经验（稀疏矩阵计算的相关生态仍有很大欠缺）</title>
+    <updated>2021-01-10T23:01:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/-ElNLnG9HStp-y0OmMj7ow</id>
+    <link href="https://mp.weixin.qq.com/s/-ElNLnG9HStp-y0OmMj7ow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】远程-波士顿：区块链后端工程师</title>
+    <updated>2021-01-10T23:01:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/QK49quUxMNMQYlmrumDzGw</id>
+    <link href="https://mp.weixin.qq.com/s/QK49quUxMNMQYlmrumDzGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2021-01-09 GTK-RS Channel问题中的多线程处理</title>
     <updated>2021-01-09T22:47:18+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-01T23:40:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/KLmwPwT8TEcGmRbyCB-fIw</id>
     <link href="https://mp.weixin.qq.com/s/KLmwPwT8TEcGmRbyCB-fIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2020-12-31 2020年最后一次日报</title>
-    <updated>2021-01-01T23:40:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/roWMeSnDprrRFLyvr8DNEw</id>
-    <link href="https://mp.weixin.qq.com/s/roWMeSnDprrRFLyvr8DNEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【每周一库】- sprs - 用Rust实现的稀疏矩阵库</title>
-    <updated>2020-12-31T21:47:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/eZhoJQVThu1TVmoN0H7zqQ</id>
-    <link href="https://mp.weixin.qq.com/s/eZhoJQVThu1TVmoN0H7zqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

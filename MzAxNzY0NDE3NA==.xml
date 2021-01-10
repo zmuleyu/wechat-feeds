@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>polarisxu | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:14:39+08:00</updated>
+  <updated>2021-01-11T02:02:35+08:00</updated>
   <subtitle>北京大学毕业；码农，创业者；Go语言中文网站长；著有《Go语言编程之旅》；爱 Go，也是 PHPer，还做过 Java；聊技术、聊职场、聊创业~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于 Go1.16 实现静态文件的 HTTP Cache</title>
+    <updated>2021-01-10T23:40:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/dxDQkMGLB9sTsklWzx_pnQ</id>
+    <link href="https://mp.weixin.qq.com/s/dxDQkMGLB9sTsklWzx_pnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈配置文件</title>
     <updated>2021-01-06T14:52:43+08:00</updated>
@@ -40,13 +47,6 @@
     <updated>2020-12-31T16:58:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/ONc1gC4mshKyzzEq9Jmxtg</id>
     <link href="https://mp.weixin.qq.com/s/ONc1gC4mshKyzzEq9Jmxtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>说个特俗，但大家心里都想的事儿。</title>
-    <updated>2020-12-30T15:42:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/ownJdF4fZvbLbAoz37CDPQ</id>
-    <link href="https://mp.weixin.qq.com/s/ownJdF4fZvbLbAoz37CDPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
