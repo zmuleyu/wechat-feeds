@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:56:13+08:00</updated>
+  <updated>2021-01-10T11:59:12+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>每个程序员都应该尝试的项目</title>
+    <updated>2021-01-10T09:33:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/EoEKBX7KvIpTT5hNx79Gkg</id>
+    <link href="https://mp.weixin.qq.com/s/EoEKBX7KvIpTT5hNx79Gkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>链家一员工删除公司9T数据，被判7年；员工在伊朗登陆GitHub 账号，公司账号被封；互联网公司用大数据算法压榨消费者|架构视点</title>
     <updated>2021-01-08T15:40:53+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-31T17:12:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/OOn9GGZ4Uti9Dv-_brjs5Q</id>
     <link href="https://mp.weixin.qq.com/s/OOn9GGZ4Uti9Dv-_brjs5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一家知识付费独角兽的App项目实践：3天开发，获得4重收益</title>
-    <updated>2020-12-31T12:17:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/kEoY4O8G_nEQ_D67AezKiw</id>
-    <link href="https://mp.weixin.qq.com/s/kEoY4O8G_nEQ_D67AezKiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解读Go语言的2020：变革前夜</title>
-    <updated>2020-12-31T12:17:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/TDowYPXAxlOtLWsSv0BkrQ</id>
-    <link href="https://mp.weixin.qq.com/s/TDowYPXAxlOtLWsSv0BkrQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

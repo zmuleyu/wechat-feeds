@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:57:12+08:00</updated>
+  <updated>2021-01-10T12:01:33+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Hook】postman工具的代码生成工具让它锦上添花</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/A5GPZQqKwbaVWVxlL6rPsw</id>
+    <link href="https://mp.weixin.qq.com/s/A5GPZQqKwbaVWVxlL6rPsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Blazor VS React / Angular / Vue.js</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/iChV0yut82i6nvWEYs4Jlg</id>
+    <link href="https://mp.weixin.qq.com/s/iChV0yut82i6nvWEYs4Jlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Blazor VS 传统Web应用程序</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/0ghXzpdEsZycaarIxGLNRg</id>
+    <link href="https://mp.weixin.qq.com/s/0ghXzpdEsZycaarIxGLNRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>asp.net core集成CKEditor实现图片上传功能</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/bhscJDS5_d3VXhKeRdnVcw</id>
+    <link href="https://mp.weixin.qq.com/s/bhscJDS5_d3VXhKeRdnVcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 Web Forms 中引入依赖注入机制</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/9PX13qJ3lK2gTNxt5zb1hA</id>
+    <link href="https://mp.weixin.qq.com/s/9PX13qJ3lK2gTNxt5zb1hA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中台的故事结束了？</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8jtVbTOEu2jeQkMQVg0esg</id>
+    <link href="https://mp.weixin.qq.com/s/8jtVbTOEu2jeQkMQVg0esg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>日产汽车源码遭泄露</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/3da5MuijlisrQdefwoL9AA</id>
+    <link href="https://mp.weixin.qq.com/s/3da5MuijlisrQdefwoL9AA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用BeetleX.ESDoc构建文档搜索功能</title>
+    <updated>2021-01-09T20:27:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/tD_1UzaVbFAxxsqJrMTskw</id>
+    <link href="https://mp.weixin.qq.com/s/tD_1UzaVbFAxxsqJrMTskw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Roslyn 使用 Directory.Build.props 管理多个项目配置</title>
     <updated>2021-01-08T20:50:25+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-07T20:04:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/n337wqKzsvZsrI1_Fa7Uqg</id>
     <link href="https://mp.weixin.qq.com/s/n337wqKzsvZsrI1_Fa7Uqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Asp.Net Core使用Skywalking实现分布式链路追踪</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/gE4PifeUCwtjXkILkMqOPw</id>
-    <link href="https://mp.weixin.qq.com/s/gE4PifeUCwtjXkILkMqOPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈CLR基础知识</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/y5OaiuQExbX4AjaMD6hs9Q</id>
-    <link href="https://mp.weixin.qq.com/s/y5OaiuQExbX4AjaMD6hs9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xamarin使XRPC实现接口/委托远程调用</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Li0ZOn9hFWfB5BEizV76qg</id>
-    <link href="https://mp.weixin.qq.com/s/Li0ZOn9hFWfB5BEizV76qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国会暴乱 社会割裂无法弥合</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/1s1PvudOzOvpYHwoKnepOg</id>
-    <link href="https://mp.weixin.qq.com/s/1s1PvudOzOvpYHwoKnepOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大电商只能用Java? 单日10亿GMV，纯.NET Core架构更强！</title>
-    <updated>2021-01-06T22:24:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/_wWBUC4n8fTVKfIwi4pZnA</id>
-    <link href="https://mp.weixin.qq.com/s/_wWBUC4n8fTVKfIwi4pZnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AgileConfig-如何使用AgileConfig.Client读取配置</title>
-    <updated>2021-01-06T22:24:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/uP54Z3tpM-3YiDS3We78eQ</id>
-    <link href="https://mp.weixin.qq.com/s/uP54Z3tpM-3YiDS3We78eQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【gRPC】 在.Net core中使用gRPC</title>
-    <updated>2021-01-06T22:24:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/fSD65lxnHB-PTr6B4EX-OQ</id>
-    <link href="https://mp.weixin.qq.com/s/fSD65lxnHB-PTr6B4EX-OQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C#实现网页加载后将页面截取成长图片</title>
-    <updated>2021-01-06T22:24:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/DrRODLM3GSIHDZfv5f0aAg</id>
-    <link href="https://mp.weixin.qq.com/s/DrRODLM3GSIHDZfv5f0aAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

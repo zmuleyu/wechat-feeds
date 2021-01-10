@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:59:51+08:00</updated>
+  <updated>2021-01-10T12:05:07+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>写代码用什么笔记本爽？送一台！</title>
+    <updated>2021-01-09T23:20:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/CZ3n5IQEK-EReWF1wG13Kw</id>
+    <link href="https://mp.weixin.qq.com/s/CZ3n5IQEK-EReWF1wG13Kw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对业务系统的可扩展性设计思考</title>
+    <updated>2021-01-09T23:20:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Fvt19Aro-NRNTJoSBixy5Q</id>
+    <link href="https://mp.weixin.qq.com/s/Fvt19Aro-NRNTJoSBixy5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>贝壳金服史海峰：凭一口气，点一盏灯；念念不忘，必有回响</title>
     <updated>2021-01-09T08:46:46+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-01T09:42:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/EbCjk6X_WXH-hSSQEtCjaA</id>
     <link href="https://mp.weixin.qq.com/s/EbCjk6X_WXH-hSSQEtCjaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>审阅“史上”最烂代码</title>
-    <updated>2020-12-31T09:25:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/BW7Nd50iOTU7727FdzrVsw</id>
-    <link href="https://mp.weixin.qq.com/s/BW7Nd50iOTU7727FdzrVsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

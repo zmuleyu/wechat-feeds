@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:52:22+08:00</updated>
+  <updated>2021-01-10T11:54:09+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>沉迷于敲代码？撸一个 IDEA 防沉迷插件</title>
+    <updated>2021-01-09T22:43:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/TAJNfY1WBtlatUR2PITEiA</id>
+    <link href="https://mp.weixin.qq.com/s/TAJNfY1WBtlatUR2PITEiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来扒一扒中台皇帝的外衣！</title>
+    <updated>2021-01-09T22:43:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/N3XjdjeAdISOsP97mWysJA</id>
+    <link href="https://mp.weixin.qq.com/s/N3XjdjeAdISOsP97mWysJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>肝了两周，线上YGC频繁事故分析</title>
+    <updated>2021-01-09T22:43:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/v-1qxNnQnyXtP-mLnwUx3A</id>
+    <link href="https://mp.weixin.qq.com/s/v-1qxNnQnyXtP-mLnwUx3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>API 分页探讨：offset 来分页真的有效率吗？</title>
     <updated>2021-01-08T19:04:30+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-03T19:11:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/H0tsVftpci0gQ9KLge6v6w</id>
     <link href="https://mp.weixin.qq.com/s/H0tsVftpci0gQ9KLge6v6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用了 3 年 Apollo，最后我选择了 Nacos，原因不多说了</title>
-    <updated>2021-01-02T23:17:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/6Aq_dgSVP_Ej5esL7_TTWw</id>
-    <link href="https://mp.weixin.qq.com/s/6Aq_dgSVP_Ej5esL7_TTWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>将你的应用打包成docker镜像并部署到服务器？仅需一个脚本搞定</title>
-    <updated>2021-01-02T23:17:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/mx57qz5Vc7ztbEuMXKzOSg</id>
-    <link href="https://mp.weixin.qq.com/s/mx57qz5Vc7ztbEuMXKzOSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CountDownLatch和CyclicBarrier，该怎么选?</title>
-    <updated>2021-01-02T23:17:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/r6vnsWFdJ0vXG3YIkpjx5w</id>
-    <link href="https://mp.weixin.qq.com/s/r6vnsWFdJ0vXG3YIkpjx5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

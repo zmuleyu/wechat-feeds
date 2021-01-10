@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>喔家ArchiSelf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:28:46+08:00</updated>
+  <updated>2021-01-10T12:09:45+08:00</updated>
   <subtitle>一半是20多年老程序员的技术生涯，一半是人到中年却仍向往青春的生活感悟，交织起来，是一个享受生活的老码农。------Architect oneSelf  架构自己</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据存储的趣事</title>
+    <updated>2021-01-10T10:14:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/oFO5z-2w-PHzf4HfddqK1w</id>
+    <link href="https://mp.weixin.qq.com/s/oFO5z-2w-PHzf4HfddqK1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>难以捉摸？机器学习模型的可解释性初探</title>
     <updated>2021-01-03T17:55:06+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-29T17:20:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/6r3DQBWspBIP7pUxnmNbNA</id>
     <link href="https://mp.weixin.qq.com/s/6r3DQBWspBIP7pUxnmNbNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>智能语音应用开发之DPL2.0高级特性</title>
-    <updated>2020-11-23T07:21:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/aNAhNEvnB0UqDxKadHHzAA</id>
-    <link href="https://mp.weixin.qq.com/s/aNAhNEvnB0UqDxKadHHzAA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>网管叨bi叨 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:42:46+08:00</updated>
+  <updated>2021-01-10T12:01:24+08:00</updated>
   <subtitle>每周分享技术类原创文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go指针的使用限制和突破之路</title>
+    <updated>2021-01-10T09:13:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/SpVTl64W1Exy8fuN15-kmA</id>
+    <link href="https://mp.weixin.qq.com/s/SpVTl64W1Exy8fuN15-kmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes--玩转Pod滚动更新123</title>
     <updated>2021-01-06T08:42:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T07:30:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/jbAMf0M0G1yRRttTte3jcQ</id>
     <link href="https://mp.weixin.qq.com/s/jbAMf0M0G1yRRttTte3jcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>周末本来想写完StatefulSet的文章，但是写清楚HeadlessService就花掉两个上午。HeadlessService我在前面文章中简单说过，这次StatefulSet的文章会花大篇幅用例子解释它的用途以及跟普通Service的区别。&#xA;&#xA;StatefulSet和Deployment应对于不同编排场景，后者会认为所有Pod是一样的，可以随意扩展调度，而StatefulSet在调度时会严格保证Pod的调度顺序和匹配存储&#xA;&#xA;有时间的同学建议复习下下面的文章，为理解StatefulSet打好基础&#xA;&#xA;K8s Deployment全教程！&#xA;学练结合，快速掌握Kubernetes Service</title>
-    <updated>2020-11-29T13:28:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/CChQapLxwwNOxYAQMphawQ</id>
-    <link href="https://mp.weixin.qq.com/s/CChQapLxwwNOxYAQMphawQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

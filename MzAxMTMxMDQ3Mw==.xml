@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:52:16+08:00</updated>
+  <updated>2021-01-10T11:53:39+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>ASP.NET Core WebAPI解决发布后每隔一段时间请求变缓慢</title>
+    <updated>2021-01-09T21:56:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/beQ41E5d91OG4RGdbaY4jw</id>
+    <link href="https://mp.weixin.qq.com/s/beQ41E5d91OG4RGdbaY4jw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.2 万 Star！GitHub 上最全面的 .Net 开发资源汇总</title>
+    <updated>2021-01-09T21:56:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/KrcsG-IA06ZeajTxj2HUaQ</id>
+    <link href="https://mp.weixin.qq.com/s/KrcsG-IA06ZeajTxj2HUaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>使用 Excel 和 Math.Net 进行曲线拟合和数据预测</title>
     <updated>2021-01-09T11:07:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/XiTyvSTsomCp1D8-lqVXWQ</id>
     <link href="https://mp.weixin.qq.com/s/XiTyvSTsomCp1D8-lqVXWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如丝般顺滑！4 行代码就能创建一个数据流工具！</title>
-    <updated>2021-01-09T11:07:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/GrrZ8cHCM-A0lInfbcWYHQ</id>
-    <link href="https://mp.weixin.qq.com/s/GrrZ8cHCM-A0lInfbcWYHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +138,6 @@
     <updated>2021-01-01T10:45:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/Sr6RKEpRtqOCQEndhERItg</id>
     <link href="https://mp.weixin.qq.com/s/Sr6RKEpRtqOCQEndhERItg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 5 源代码生成器</title>
-    <updated>2020-12-31T17:50:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/xyYquW1DK09nhsSxrsDcMQ</id>
-    <link href="https://mp.weixin.qq.com/s/xyYquW1DK09nhsSxrsDcMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 VS Code 居然能找对象了，不看脸的那种</title>
-    <updated>2020-12-31T17:50:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/nXLYSksXJLuCfZrcClKPwA</id>
-    <link href="https://mp.weixin.qq.com/s/nXLYSksXJLuCfZrcClKPwA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源最前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T02:29:18+08:00</updated>
+  <updated>2021-01-10T12:09:36+08:00</updated>
   <subtitle>推荐热门开源软件，介绍新开源项目，报导开源资讯！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>突发！日产汽车源码遭泄露</title>
+    <updated>2021-01-09T22:34:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/BaM4AIVfbcxy3WkcrljPrQ</id>
+    <link href="https://mp.weixin.qq.com/s/BaM4AIVfbcxy3WkcrljPrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>包邮送8本！PostgreSQL登顶“2020年度数据库”，这两本书该看了</title>
     <updated>2021-01-08T23:02:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T10:28:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/mY3ZxDTy6sUKkCkkvQv-HQ</id>
     <link href="https://mp.weixin.qq.com/s/mY3ZxDTy6sUKkCkkvQv-HQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>狂揽标星3.2K，程序员的这个开源直播软件火了</title>
-    <updated>2020-12-30T10:14:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/su2qO52eflIo7euvc3Uzcg</id>
-    <link href="https://mp.weixin.qq.com/s/su2qO52eflIo7euvc3Uzcg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

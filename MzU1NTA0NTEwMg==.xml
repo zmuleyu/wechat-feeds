@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端技术漫谈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:45:11+08:00</updated>
+  <updated>2021-01-10T12:01:55+08:00</updated>
   <subtitle>一线互联网公司码农，持续更新原创技术文章，当然也会和大家分享自己的生活趣闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis字典结构与rehash解读</title>
+    <updated>2021-01-09T22:14:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/qeBUoY38i9t84CwPvydflg</id>
+    <link href="https://mp.weixin.qq.com/s/qeBUoY38i9t84CwPvydflg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Socket粘包问题的3种解决方案，最后一种最完美！</title>
     <updated>2021-01-06T13:00:08+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-11-11T23:27:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-11:/s/1GVwlnqaEK5lnpr0E_zsSg</id>
     <link href="https://mp.weixin.qq.com/s/1GVwlnqaEK5lnpr0E_zsSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么阿里巴巴禁止使用BigDecimal的equals方法做等值比较？</title>
-    <updated>2020-11-05T22:53:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/cpwlzJT3zu7KdZ4XskAKyw</id>
-    <link href="https://mp.weixin.qq.com/s/cpwlzJT3zu7KdZ4XskAKyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学习Java，这几个公众号不得不关注</title>
-    <updated>2020-11-05T22:53:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/vxcw9lP49GVebUW9AyHZFA</id>
-    <link href="https://mp.weixin.qq.com/s/vxcw9lP49GVebUW9AyHZFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

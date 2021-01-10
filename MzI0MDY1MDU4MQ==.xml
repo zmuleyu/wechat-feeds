@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>嘶吼专业版 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T13:52:24+08:00</updated>
+  <updated>2021-01-10T12:03:32+08:00</updated>
   <subtitle>为您带来每日最新最专业的互联网安全专业信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深度剖析站点隔离机制，Part 1</title>
+    <updated>2021-01-10T02:16:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/LBTwPnArXKHO2-FKDeVMqg</id>
+    <link href="https://mp.weixin.qq.com/s/LBTwPnArXKHO2-FKDeVMqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020: 网络安全防御从被动到主动的一年</title>
+    <updated>2021-01-10T02:16:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/EJp_q7Y7szG7T3Lz44PPqg</id>
+    <link href="https://mp.weixin.qq.com/s/EJp_q7Y7szG7T3Lz44PPqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Git服务器错误配置导致尼桑源代码泄露</title>
     <updated>2021-01-08T19:07:49+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-05T11:36:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/9tbYbqevHjqXTB6TKuwsNw</id>
     <link href="https://mp.weixin.qq.com/s/9tbYbqevHjqXTB6TKuwsNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>61万Facebook凭证被窃取</title>
-    <updated>2021-01-04T11:03:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/fTRGh-kGUkhGxULlL8dtPQ</id>
-    <link href="https://mp.weixin.qq.com/s/fTRGh-kGUkhGxULlL8dtPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ESET的研究人员发现了一起针对越南政府认证机构的供应链攻击行动</title>
-    <updated>2021-01-04T11:03:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/7DoTL7GwaJg8KU2OuID5Fg</id>
-    <link href="https://mp.weixin.qq.com/s/7DoTL7GwaJg8KU2OuID5Fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
