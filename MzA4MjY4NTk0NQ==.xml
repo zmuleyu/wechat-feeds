@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GiantPandaCV | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T02:05:50+08:00</updated>
+  <updated>2021-01-10T13:42:38+08:00</updated>
   <subtitle>专注于机器学习、深度学习、计算机视觉、图像处理等多个方向技术分享。团队由一群热爱技术且热衷于分享的小伙伴组成。我们坚持原创，每周一到两篇原创技术分享。希望在传播知识、分享知识的同时能够启发你，大家一起共同进步(･ω&lt;)☆</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LeetCode 221场周赛题解</title>
+    <updated>2021-01-10T13:10:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xP9xD10yCVeDD47u6rkC7Q</id>
+    <link href="https://mp.weixin.qq.com/s/xP9xD10yCVeDD47u6rkC7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何实现一个高效的Softmax CUDA kernel？——OneFlow 性能优化分享</title>
     <updated>2021-01-08T22:00:30+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-01T20:28:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/bZC64lNQHRQWNvJy7t5xlQ</id>
     <link href="https://mp.weixin.qq.com/s/bZC64lNQHRQWNvJy7t5xlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pytorch中的四种经典Loss源码解析</title>
-    <updated>2020-12-29T20:27:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/qJIlbLuM7--wj3fDLUecYw</id>
-    <link href="https://mp.weixin.qq.com/s/qJIlbLuM7--wj3fDLUecYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

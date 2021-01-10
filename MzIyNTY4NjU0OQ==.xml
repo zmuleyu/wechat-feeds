@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>秦子帅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T13:48:00+08:00</updated>
+  <updated>2021-01-10T13:53:34+08:00</updated>
   <subtitle>「秦子帅」以大前端为核心，涉及到Android，跨平台，前端，后端，算法等技术；从起步到进阶，认真总结每个阶段的技术干货，每天16:02准时推送！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微信昵称可以加雪花了，个性又好看</title>
+    <updated>2021-01-09T21:43:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/66f_toNhLj_TiVXbCSu2bw</id>
+    <link href="https://mp.weixin.qq.com/s/66f_toNhLj_TiVXbCSu2bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动《50道高频算法题》整理好了，限时下载！</title>
+    <updated>2021-01-09T21:43:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/gf1pkTkapPfC28UzrNIfTg</id>
+    <link href="https://mp.weixin.qq.com/s/gf1pkTkapPfC28UzrNIfTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从源码的角度浅谈Activity、Window、View之间的关系</title>
+    <updated>2021-01-09T21:43:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/supPeg9tjYEtTTEloWhHGA</id>
+    <link href="https://mp.weixin.qq.com/s/supPeg9tjYEtTTEloWhHGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>蚂蚁开源增强版 SpringBoot，都有哪些骚能力？</title>
+    <updated>2021-01-09T21:43:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/FZzOrLByGq0CqIwkNmqJ0w</id>
+    <link href="https://mp.weixin.qq.com/s/FZzOrLByGq0CqIwkNmqJ0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>计算机起源的数学思想</title>
+    <updated>2021-01-09T21:43:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/FbNNN97nomKjgSpdsj6spQ</id>
+    <link href="https://mp.weixin.qq.com/s/FbNNN97nomKjgSpdsj6spQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>突发！链家程序员删了公司9TB数据，被判7年。。</title>
     <updated>2021-01-09T07:48:07+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-07T16:41:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/nsVRoRITsp-X4JJ_haSbSg</id>
     <link href="https://mp.weixin.qq.com/s/nsVRoRITsp-X4JJ_haSbSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知乎回应！拼多多道歉！</title>
-    <updated>2021-01-06T16:38:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/J31BxnEbr0FlY9hyJQ2fLQ</id>
-    <link href="https://mp.weixin.qq.com/s/J31BxnEbr0FlY9hyJQ2fLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>了解AppBarLayout应该从这几个方面入手</title>
-    <updated>2021-01-06T16:38:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ctvTW0A4IzWQ76nkSmavpA</id>
-    <link href="https://mp.weixin.qq.com/s/ctvTW0A4IzWQ76nkSmavpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3道常见的 Struts面试题</title>
-    <updated>2021-01-06T16:38:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/8-rc8JVVTZsk3AMg7Ahh7Q</id>
-    <link href="https://mp.weixin.qq.com/s/8-rc8JVVTZsk3AMg7Ahh7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>541页的《利用Python进行数据分析》（附电子书和源码下载）</title>
-    <updated>2021-01-06T16:38:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/sLFu3jSfk8a5uW9VfKVfEA</id>
-    <link href="https://mp.weixin.qq.com/s/sLFu3jSfk8a5uW9VfKVfEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>运行卡顿、ANR、黑屏、OOM？你的应用该优化了…</title>
-    <updated>2021-01-04T19:47:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/I1nuN_1XReQDRMHQjTXbNw</id>
-    <link href="https://mp.weixin.qq.com/s/I1nuN_1XReQDRMHQjTXbNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

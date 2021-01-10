@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T13:56:02+08:00</updated>
+  <updated>2021-01-10T14:03:44+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>写代码效率不高？放过Ctrl C 和 V，让AI来能帮你写代码吧</title>
+    <updated>2021-01-09T10:16:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/v0TBNuJZTbws9tItsafkAw</id>
+    <link href="https://mp.weixin.qq.com/s/v0TBNuJZTbws9tItsafkAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何写出优雅的API</title>
     <updated>2021-01-08T14:52:32+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2021-01-01T11:45:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/UTe-9VKYzsn5y6FrJ20Vag</id>
     <link href="https://mp.weixin.qq.com/s/UTe-9VKYzsn5y6FrJ20Vag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021 版 Java 架构师学习路线图谱</title>
-    <updated>2020-12-31T00:18:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Gf-IXI9amapr_xwbtKmFOg</id>
-    <link href="https://mp.weixin.qq.com/s/Gf-IXI9amapr_xwbtKmFOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对象健身操，改进你的代码质量</title>
-    <updated>2020-12-31T00:18:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/cKT1s3XIKPU9Ng46hHq8rQ</id>
-    <link href="https://mp.weixin.qq.com/s/cKT1s3XIKPU9Ng46hHq8rQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

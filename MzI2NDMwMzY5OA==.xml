@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>有文化的技术人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T23:36:37+08:00</updated>
+  <updated>2021-01-10T13:54:34+08:00</updated>
   <subtitle>定期分享自己的原创技术文章，源码剖析、架构设计、工程实践</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Zookeeper客户端之Kazoo源码剖析</title>
+    <updated>2021-01-10T13:17:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/gOI5kQNFwSdF666luN2tEw</id>
+    <link href="https://mp.weixin.qq.com/s/gOI5kQNFwSdF666luN2tEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Gossip协议及Consul中的实现</title>
     <updated>2021-01-09T22:09:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-15T09:11:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/NO7EMH_PJJKaW2kt91fpmA</id>
     <link href="https://mp.weixin.qq.com/s/NO7EMH_PJJKaW2kt91fpmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用SpringFramework+Restlet实现rest服务</title>
-    <updated>2020-11-14T14:29:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-14:/s/ThUtyb8ruHa-yPnOFL8UQQ</id>
-    <link href="https://mp.weixin.qq.com/s/ThUtyb8ruHa-yPnOFL8UQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

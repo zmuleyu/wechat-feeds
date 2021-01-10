@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T13:38:53+08:00</updated>
+  <updated>2021-01-10T13:42:48+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
+    <updated>2021-01-10T11:56:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/ASKNuScYmR9jlI576sdicA</id>
+    <link href="https://mp.weixin.qq.com/s/ASKNuScYmR9jlI576sdicA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>List的扩容机制，你真的明白吗？</title>
+    <updated>2021-01-10T11:56:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/syEr8QiLrBoIB1RRYvySLQ</id>
+    <link href="https://mp.weixin.qq.com/s/syEr8QiLrBoIB1RRYvySLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 20. Set的CURD操作</title>
+    <updated>2021-01-10T11:56:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/fkWVdWC3_84NsLXeJtdCNw</id>
+    <link href="https://mp.weixin.qq.com/s/fkWVdWC3_84NsLXeJtdCNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 Web Forms 中引入依赖注入机制</title>
     <updated>2021-01-09T12:28:12+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-02T11:59:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/OkZYVdnIcZtTswCr3TQtTQ</id>
     <link href="https://mp.weixin.qq.com/s/OkZYVdnIcZtTswCr3TQtTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linq中带有迭代索引的Select扩展方法，为啥知道的人不多呢？</title>
-    <updated>2021-01-02T11:59:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/Br2HRAXP1Bd-CRYuH3EPiA</id>
-    <link href="https://mp.weixin.qq.com/s/Br2HRAXP1Bd-CRYuH3EPiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Nginx】Nginx部署实战——静态文件+反向代理+均衡负载+Https+Websocket</title>
-    <updated>2021-01-02T11:59:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/NVTMePbUFYDtWl-uWlsF9w</id>
-    <link href="https://mp.weixin.qq.com/s/NVTMePbUFYDtWl-uWlsF9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 Thread</title>
-    <updated>2020-12-31T22:55:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/TEKEQ9RsQ6gPzF-9L_eD-A</id>
-    <link href="https://mp.weixin.qq.com/s/TEKEQ9RsQ6gPzF-9L_eD-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
