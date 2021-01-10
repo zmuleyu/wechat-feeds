@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>亨利笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:41:21+08:00</updated>
+  <updated>2021-01-10T16:36:23+08:00</updated>
   <subtitle>天南地北侃技术，自娱自乐于互联网的缝隙中。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生制品那些事(4)：Registry作用原理</title>
+    <updated>2021-01-10T13:19:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/r3xNEw6tT34TB_1Qr_z9lQ</id>
+    <link href="https://mp.weixin.qq.com/s/r3xNEw6tT34TB_1Qr_z9lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>VMware招聘机器学习和云原生开发工程师</title>
+    <updated>2021-01-10T13:19:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/XDKc0u3r6fnPhUKNgqhSaA</id>
+    <link href="https://mp.weixin.qq.com/s/XDKc0u3r6fnPhUKNgqhSaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020云原生生态大会：ppt下载和视频精彩回放</title>
+    <updated>2021-01-10T13:19:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/onV0fGErmqPPTn38_pzGag</id>
+    <link href="https://mp.weixin.qq.com/s/onV0fGErmqPPTn38_pzGag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为数据之道(3)：面向业务的信息架构建设</title>
     <updated>2021-01-05T18:49:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-20T17:07:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/eyWOEgIn2HWqz6UjhsUDMw</id>
     <link href="https://mp.weixin.qq.com/s/eyWOEgIn2HWqz6UjhsUDMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VMware招聘机器学习和云原生开发工程师</title>
-    <updated>2020-12-20T17:07:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/KOfmjTxx5KmNl_sNQ-NOXQ</id>
-    <link href="https://mp.weixin.qq.com/s/KOfmjTxx5KmNl_sNQ-NOXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Harbor权威指南》招募英文版翻译人员</title>
-    <updated>2020-12-20T17:07:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/RbmpqGT3q6uwoQUPBVJYJA</id>
-    <link href="https://mp.weixin.qq.com/s/RbmpqGT3q6uwoQUPBVJYJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为数据分类管理框架和经验</title>
-    <updated>2020-12-16T22:11:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/xqY59kqH3DHVf9ryM_xUFA</id>
-    <link href="https://mp.weixin.qq.com/s/xqY59kqH3DHVf9ryM_xUFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

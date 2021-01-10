@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈前端精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:43:52+08:00</updated>
+  <updated>2021-01-10T16:34:26+08:00</updated>
   <subtitle>内容为王，精选为则。从前端到全栈，定期分享前端、客户端、Node、面试、职场感悟等相关高质量文章。小白的大神养成记，你我共勉！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【送】Web前端开发敲oil门砖 ——《Web前端工程师修炼之道》</title>
+    <updated>2021-01-10T13:10:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/U6u2Nkj9VvlBPCYs5pfDUQ</id>
+    <link href="https://mp.weixin.qq.com/s/U6u2Nkj9VvlBPCYs5pfDUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么那么多自学Web前端的人后来都放弃了?</title>
     <updated>2021-01-07T19:08:22+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-29T11:33:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/-KHkunImjGPXZeZDmyctNw</id>
     <link href="https://mp.weixin.qq.com/s/-KHkunImjGPXZeZDmyctNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何看待 React Server Components？（网易云音乐前端团队）</title>
-    <updated>2020-12-28T10:24:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/gHPH7Q6HYWbbZ4B6A-yalg</id>
-    <link href="https://mp.weixin.qq.com/s/gHPH7Q6HYWbbZ4B6A-yalg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卧槽！VSCode 竟然可以找对象了！</title>
-    <updated>2020-12-28T10:24:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/CHX1b-khbNVBsHTuhcpvBw</id>
-    <link href="https://mp.weixin.qq.com/s/CHX1b-khbNVBsHTuhcpvBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
