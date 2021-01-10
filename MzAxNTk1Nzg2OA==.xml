@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GIS前沿 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T23:43:21+08:00</updated>
+  <updated>2021-01-10T23:39:04+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>520km²苏州全城实景三维建模！赛尔202S助力苏州市构建数字城市三维基础平台</title>
+    <updated>2021-01-10T15:21:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/XaBd_4hqmwhxqjavdtxFlA</id>
+    <link href="https://mp.weixin.qq.com/s/XaBd_4hqmwhxqjavdtxFlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>无人机航测常见名词术语汇总</title>
+    <updated>2021-01-10T15:21:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/gxFp6yIZaXFRAYpIyTo1Pw</id>
+    <link href="https://mp.weixin.qq.com/s/gxFp6yIZaXFRAYpIyTo1Pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>整合激光点云和摄影测量的室内外实景建模</title>
+    <updated>2021-01-10T15:21:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/0pG_SG0lRU2CKRujJJOYTg</id>
+    <link href="https://mp.weixin.qq.com/s/0pG_SG0lRU2CKRujJJOYTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ArcGIS中地理配准与空间校正的不同</title>
+    <updated>2021-01-10T15:21:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/VpRx1aPb8t-RNKs7AEmdZg</id>
+    <link href="https://mp.weixin.qq.com/s/VpRx1aPb8t-RNKs7AEmdZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>等高线和无编码高程点生成数据文件操作</title>
+    <updated>2021-01-10T15:21:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/lT750Y8EHd9mj9lr7CAPJA</id>
+    <link href="https://mp.weixin.qq.com/s/lT750Y8EHd9mj9lr7CAPJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>免费！这个省无偿提供GDCORS服务！含GNSS静态数据后处理、成果坐标转换</title>
     <updated>2021-01-09T15:31:55+08:00</updated>
@@ -109,41 +144,6 @@
     <updated>2021-01-06T19:08:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/VH722mVZLzDU_Rhs-QT3TA</id>
     <link href="https://mp.weixin.qq.com/s/VH722mVZLzDU_Rhs-QT3TA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>搞航测的注意了！奥维地图发布重要通知</title>
-    <updated>2021-01-06T19:08:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/WDchMxLj8ip5NeYo5l8EuA</id>
-    <link href="https://mp.weixin.qq.com/s/WDchMxLj8ip5NeYo5l8EuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ArcGIS中使用Python批量选择指定属性的要素</title>
-    <updated>2021-01-06T19:08:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/hxmWr5JLuXbaZxE_EVHp7A</id>
-    <link href="https://mp.weixin.qq.com/s/hxmWr5JLuXbaZxE_EVHp7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年国家测绘成果质量监督抽查结果公布</title>
-    <updated>2021-01-06T19:08:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/eLjIOerP6j_DWaZv02cXGQ</id>
-    <link href="https://mp.weixin.qq.com/s/eLjIOerP6j_DWaZv02cXGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>土方计算用CASS，10分钟搞定（含视频）！</title>
-    <updated>2021-01-06T19:08:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/GIaIaEBxD6QdwPtDYmvy-A</id>
-    <link href="https://mp.weixin.qq.com/s/GIaIaEBxD6QdwPtDYmvy-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自然资源部如何查处测绘地理信息领域违法行为，请看这个工作规范</title>
-    <updated>2021-01-05T18:12:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/B0xehgokWCxuAqfqrNpgBw</id>
-    <link href="https://mp.weixin.qq.com/s/B0xehgokWCxuAqfqrNpgBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

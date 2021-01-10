@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>labuladong | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:46:53+08:00</updated>
+  <updated>2021-01-10T23:21:20+08:00</updated>
   <subtitle>东哥手把手带你刷 LeetCode，感受支配算法的乐趣！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我做公众号的这些年</title>
+    <updated>2021-01-10T20:48:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/4QJj7hPOcWJNYbTNnI5vPA</id>
+    <link href="https://mp.weixin.qq.com/s/4QJj7hPOcWJNYbTNnI5vPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>动态规划算法帮我通关了魔塔！</title>
     <updated>2020-12-30T20:31:00+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T09:38:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/LkCoaUE5sl88J90iVwln9A</id>
     <link href="https://mp.weixin.qq.com/s/LkCoaUE5sl88J90iVwln9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《labuladong的算法小抄》出版啦！</title>
-    <updated>2020-12-03T08:39:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/JOQCiEo8YaPzRzo8JDKgrw</id>
-    <link href="https://mp.weixin.qq.com/s/JOQCiEo8YaPzRzo8JDKgrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Fliggy F2E | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:39:00+08:00</updated>
+  <updated>2021-01-10T23:23:50+08:00</updated>
   <subtitle>飞猪前端官方公众号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>潮流前端周刊（第 17 期）</title>
+    <updated>2021-01-10T22:30:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JEcCx-6ecmSIPwlTcEWZDg</id>
+    <link href="https://mp.weixin.qq.com/s/JEcCx-6ecmSIPwlTcEWZDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>潮流前端周刊（第 16 期）</title>
     <updated>2021-01-03T21:26:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-16T00:42:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/v51dW5y7uO56oQIQx_VOUg</id>
     <link href="https://mp.weixin.qq.com/s/v51dW5y7uO56oQIQx_VOUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>飞猪营销域SSR总结 - 双十一会场再加速</title>
-    <updated>2020-11-12T22:28:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/KdaqThMs5unNBXN8o9LgQQ</id>
-    <link href="https://mp.weixin.qq.com/s/KdaqThMs5unNBXN8o9LgQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

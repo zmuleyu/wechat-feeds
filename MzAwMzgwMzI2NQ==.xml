@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T16:22:06+08:00</updated>
+  <updated>2021-01-10T23:15:28+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第24节，通道缓冲，没有接收者先存起来</title>
+    <updated>2021-01-10T20:57:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/HGei3jLzmzWSe7NSWOQhNQ</id>
+    <link href="https://mp.weixin.qq.com/s/HGei3jLzmzWSe7NSWOQhNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第23节，通道，连接协程的管道</title>
     <updated>2021-01-09T15:08:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T21:26:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/IlC33k0TdBPE9bKs-yrYVg</id>
     <link href="https://mp.weixin.qq.com/s/IlC33k0TdBPE9bKs-yrYVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「趣图」关了日志好好的，一打开服务器就挂，还……</title>
-    <updated>2020-12-19T21:27:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/X9Du9ueCeU-X815E6c1ukg</id>
-    <link href="https://mp.weixin.qq.com/s/X9Du9ueCeU-X815E6c1ukg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
