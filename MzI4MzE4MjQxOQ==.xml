@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:07:19+08:00</updated>
+  <updated>2021-01-11T07:48:26+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于未来数据开发技术方向的观点</title>
+    <updated>2021-01-10T22:03:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/k-cQfeFmAXrYNlQ-Jzh7fQ</id>
+    <link href="https://mp.weixin.qq.com/s/k-cQfeFmAXrYNlQ-Jzh7fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入讲解拉链表，还怕面试官问？</title>
+    <updated>2021-01-10T22:03:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/y70QBY2KnHpihprUuNXZRA</id>
+    <link href="https://mp.weixin.qq.com/s/y70QBY2KnHpihprUuNXZRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spark 的 Failover 机制全解析 (Master/Worker/Executor)</title>
+    <updated>2021-01-10T22:03:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/SqNnDWPFvKXvr3YX5czoUg</id>
+    <link href="https://mp.weixin.qq.com/s/SqNnDWPFvKXvr3YX5czoUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于中台的深度思考</title>
     <updated>2021-01-10T10:01:08+08:00</updated>
@@ -82,13 +103,6 @@
     <updated>2020-12-31T23:04:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/q0y7Bxn3hilAENYuFjiqXg</id>
     <link href="https://mp.weixin.qq.com/s/q0y7Bxn3hilAENYuFjiqXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink实战 ,Binlog日志并对接Kafka实战</title>
-    <updated>2020-12-30T21:36:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/j_4b8T83ISYZCKicW8MMSg</id>
-    <link href="https://mp.weixin.qq.com/s/j_4b8T83ISYZCKicW8MMSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
