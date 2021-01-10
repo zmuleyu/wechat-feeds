@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:29:49+08:00</updated>
+  <updated>2021-01-10T20:31:40+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最佳实践——如何使用 Flink ParameterTool 读取配置？</title>
+    <updated>2021-01-10T16:31:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/mINvz2cyQC8BbNH3hFlTsA</id>
+    <link href="https://mp.weixin.qq.com/s/mINvz2cyQC8BbNH3hFlTsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于中台的深度思考和中台实战</title>
     <updated>2021-01-09T18:45:26+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T23:28:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/LyOXUNN8nW1qhQikUVXW5A</id>
     <link href="https://mp.weixin.qq.com/s/LyOXUNN8nW1qhQikUVXW5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中台不是万能药，关于中台的思考和尝试</title>
-    <updated>2020-12-27T22:51:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/uYCWGGUIsiY73nXx2I7V9A</id>
-    <link href="https://mp.weixin.qq.com/s/uYCWGGUIsiY73nXx2I7V9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

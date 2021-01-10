@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>编程指北 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T16:25:50+08:00</updated>
+  <updated>2021-01-10T20:22:31+08:00</updated>
   <subtitle>编程学习之路的好帮手、指南针~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>原创 | 如何系统学习C++？</title>
+    <updated>2021-01-10T18:38:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/WW_X12bTm94iaCgWBgYtJw</id>
+    <link href="https://mp.weixin.qq.com/s/WW_X12bTm94iaCgWBgYtJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C++ 牛逼!</title>
     <updated>2021-01-09T15:07:26+08:00</updated>
@@ -26,13 +33,6 @@
     <updated>2021-01-07T12:40:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/xcwk76e5u-7P9vM4QNaMzg</id>
     <link href="https://mp.weixin.qq.com/s/xcwk76e5u-7P9vM4QNaMzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>五年老程序员公司说开就开，没学历活该背锅？</title>
-    <updated>2021-01-06T09:13:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/AVYP_RMiZnykn6zowgRb9w</id>
-    <link href="https://mp.weixin.qq.com/s/AVYP_RMiZnykn6zowgRb9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +75,6 @@
     <updated>2020-12-28T00:56:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/5SflXk5YVMkax6Vae_Fn5w</id>
     <link href="https://mp.weixin.qq.com/s/5SflXk5YVMkax6Vae_Fn5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>没事的话，下午来看看 Pure C++大会吧</title>
-    <updated>2020-12-26T13:50:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/46B64nzByy8w_9pTco0PJg</id>
-    <link href="https://mp.weixin.qq.com/s/46B64nzByy8w_9pTco0PJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

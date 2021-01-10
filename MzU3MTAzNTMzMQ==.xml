@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一灰灰blog | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:38:44+08:00</updated>
+  <updated>2021-01-10T20:20:34+08:00</updated>
   <subtitle>Java常用技术探索，分享编程技巧，技术博文</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【SpringBoot DB 系列】JdbcTemplate 之多数据源配置与使用</title>
+    <updated>2021-01-10T16:47:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/FxK5j8dYL7qo-sOwa1jcfw</id>
+    <link href="https://mp.weixin.qq.com/s/FxK5j8dYL7qo-sOwa1jcfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【基础系列】SpringBoot 配置篇之 PropertySource 加载 Yaml 配置文件实例演示</title>
     <updated>2020-12-27T11:37:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-02T09:30:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/cRoUZ3SidOs23iN2hcdyHw</id>
     <link href="https://mp.weixin.qq.com/s/cRoUZ3SidOs23iN2hcdyHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【SpringBoot DB 系列】Redis 高级特性之 GEO</title>
-    <updated>2020-10-31T19:35:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/57xpW6bjeIOpys83NrZ0mA</id>
-    <link href="https://mp.weixin.qq.com/s/57xpW6bjeIOpys83NrZ0mA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

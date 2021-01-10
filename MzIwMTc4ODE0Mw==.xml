@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:28:24+08:00</updated>
+  <updated>2021-01-10T20:30:55+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于NLP相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱、信息抽取、序列模型、深度学习、语法分析、文本处理</title>
+    <updated>2021-01-10T18:09:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JxLBRlnhqE7ndGMwJbYAQg</id>
+    <link href="https://mp.weixin.qq.com/s/JxLBRlnhqE7ndGMwJbYAQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>贝叶斯分析助你成为优秀的调参侠：先验和似然对后验的影响</title>
+    <updated>2021-01-10T18:09:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/bYTxMgkciv4kqskF7iQ-LQ</id>
+    <link href="https://mp.weixin.qq.com/s/bYTxMgkciv4kqskF7iQ-LQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OpenViDial：一个大规模多模态对话数据集</title>
     <updated>2021-01-09T19:18:36+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-01T17:48:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/CiL96XrVbW7LLI6iOsSKqg</id>
     <link href="https://mp.weixin.qq.com/s/CiL96XrVbW7LLI6iOsSKqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神经网络优化中的Weight Averaging</title>
-    <updated>2021-01-01T17:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/RlOeZ71oE865lz3YitNSHQ</id>
-    <link href="https://mp.weixin.qq.com/s/RlOeZ71oE865lz3YitNSHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>贝叶斯分析助你成为优秀的调参侠：自动化搜索物理模型的参数空间</title>
-    <updated>2020-12-31T13:18:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/qou0uUQVsU306KvB5JMKVg</id>
-    <link href="https://mp.weixin.qq.com/s/qou0uUQVsU306KvB5JMKVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

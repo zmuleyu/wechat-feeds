@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玄说前端 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:49:19+08:00</updated>
+  <updated>2021-01-10T20:34:35+08:00</updated>
   <subtitle>有温度又有深度的前端知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>第一本 ECharts 数据可视化书籍出版了！</title>
+    <updated>2021-01-10T16:46:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/XopAWdkmVRcYTESfo7DAbw</id>
+    <link href="https://mp.weixin.qq.com/s/XopAWdkmVRcYTESfo7DAbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大前端备战2021年，使用vite构建React !</title>
     <updated>2020-12-31T18:05:54+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-07T19:55:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/irhAZXnvHR0ZHW6PCfWDBA</id>
     <link href="https://mp.weixin.qq.com/s/irhAZXnvHR0ZHW6PCfWDBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全球近10万员工的字节跳动，这样对抗“大公司病”</title>
-    <updated>2020-12-06T20:09:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/xoziN5uIVC47naiwV4mFVA</id>
-    <link href="https://mp.weixin.qq.com/s/xoziN5uIVC47naiwV4mFVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Web Performance Metrics 与 Core Web Vitals 简介</title>
-    <updated>2020-12-06T20:09:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/f5yCR9yQe7yzZmfd6ENzxg</id>
-    <link href="https://mp.weixin.qq.com/s/f5yCR9yQe7yzZmfd6ENzxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

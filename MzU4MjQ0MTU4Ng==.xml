@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:33:03+08:00</updated>
+  <updated>2021-01-10T20:41:02+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 存储原理解析</title>
+    <updated>2021-01-10T19:33:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/bkpZMbmKa6lBKg8Fc3Lkzw</id>
+    <link href="https://mp.weixin.qq.com/s/bkpZMbmKa6lBKg8Fc3Lkzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于云原生的 KubeSecOps 流水线设计</title>
     <updated>2021-01-09T10:32:29+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-30T09:23:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/RPyG9qoXY0xHADpCL1aIOw</id>
     <link href="https://mp.weixin.qq.com/s/RPyG9qoXY0xHADpCL1aIOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Traefik 代理 UDP 服务</title>
-    <updated>2020-12-29T15:32:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Xl-9zxlmp337W58n-LnxrQ</id>
-    <link href="https://mp.weixin.qq.com/s/Xl-9zxlmp337W58n-LnxrQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

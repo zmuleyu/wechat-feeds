@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:35:40+08:00</updated>
+  <updated>2021-01-10T20:34:43+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开源圈子的那些事</title>
+    <updated>2021-01-10T14:15:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/TAWeNor0yMEBEftQJXKywA</id>
+    <link href="https://mp.weixin.qq.com/s/TAWeNor0yMEBEftQJXKywA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我在阿里写代码学会的六件事</title>
+    <updated>2021-01-10T14:15:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/u6WTtF47pNjdDSml2awM7Q</id>
+    <link href="https://mp.weixin.qq.com/s/u6WTtF47pNjdDSml2awM7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微软2020开源回顾：止不住的挨骂，停不下的贡献</title>
     <updated>2021-01-09T11:30:26+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-05T16:05:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/127PrDWrbFbZty3jBW6meg</id>
     <link href="https://mp.weixin.qq.com/s/127PrDWrbFbZty3jBW6meg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里的秒杀系统是怎么设计的？</title>
-    <updated>2021-01-05T16:05:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/87NgZMW_kvVXXFP1zvW0EQ</id>
-    <link href="https://mp.weixin.qq.com/s/87NgZMW_kvVXXFP1zvW0EQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从openEuler生态的发展看基础软件的崛起之路</title>
-    <updated>2021-01-04T17:34:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/pxYpgB1NAC7sUzq1VlVheA</id>
-    <link href="https://mp.weixin.qq.com/s/pxYpgB1NAC7sUzq1VlVheA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

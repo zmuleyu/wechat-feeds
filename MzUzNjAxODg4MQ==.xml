@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>编程一生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T23:25:40+08:00</updated>
+  <updated>2021-01-10T20:36:08+08:00</updated>
   <subtitle>致力于写大家都能看懂的、有深度的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java线程池总结</title>
+    <updated>2021-01-10T00:38:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/tMiLKTOfx-NFssSjAkpPSA</id>
+    <link href="https://mp.weixin.qq.com/s/tMiLKTOfx-NFssSjAkpPSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>作为项目经理应该串联起哪些流程</title>
     <updated>2021-01-03T20:33:59+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-18T21:30:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/rklGG6RsOv3Citmt4NoDhw</id>
     <link href="https://mp.weixin.qq.com/s/rklGG6RsOv3Citmt4NoDhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>技术方案设计的方法</title>
-    <updated>2020-10-11T22:05:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-11:/s/pPE7z4feOs4X9F9dZejFaQ</id>
-    <link href="https://mp.weixin.qq.com/s/pPE7z4feOs4X9F9dZejFaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

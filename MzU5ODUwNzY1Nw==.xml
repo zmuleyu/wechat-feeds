@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿飞的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:35:36+08:00</updated>
+  <updated>2021-01-10T20:17:38+08:00</updated>
   <subtitle>主要用来分享Java服务端相关的所有技术，坚持原创为主，已累计100+篇原创，包括但不限于：分布式&amp;微服务、JVM&amp;GC、Redis、索引&amp;分库分表、sharding-jdbc、kafka等，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -43,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>2021 不懂架构设计的程序员将会遇到多少进阶难题？</title>
-    <updated>2020-12-29T08:21:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/s1RZWJti66xa-q9mJ1whnw</id>
-    <link href="https://mp.weixin.qq.com/s/s1RZWJti66xa-q9mJ1whnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>干掉Redis：腾讯开源了Tendis , 666 ！！！</title>
     <updated>2020-12-24T08:11:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/h3c3wgDv99hWRTAOaDN-Xg</id>
@@ -75,6 +68,13 @@
     <updated>2020-12-19T08:09:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/1DvHWtTcwUbZ-OUvS0UIOw</id>
     <link href="https://mp.weixin.qq.com/s/1DvHWtTcwUbZ-OUvS0UIOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>史上最漂亮的ZooKeeper 客户端，美！</title>
+    <updated>2020-12-17T00:11:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-17:/s/giu6rf1FncEgeFFOLZIr1g</id>
+    <link href="https://mp.weixin.qq.com/s/giu6rf1FncEgeFFOLZIr1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

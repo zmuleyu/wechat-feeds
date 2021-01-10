@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>顾林海 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:10:57+08:00</updated>
+  <updated>2021-01-10T20:40:50+08:00</updated>
   <subtitle>个人号，聊聊技术、聊聊人生，记录自己所学所想</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>（1）2021学习进度：1月6号～1月10号</title>
+    <updated>2021-01-10T17:07:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/YxGuHROkpnyfLezERDbl7w</id>
+    <link href="https://mp.weixin.qq.com/s/YxGuHROkpnyfLezERDbl7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>性能优化系列：Android中长连接的解决方案</title>
     <updated>2020-06-22T07:43:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-05-26T07:23:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-05-26:/s/ax-nIEIJEmKDcYZNrW6L-Q</id>
     <link href="https://mp.weixin.qq.com/s/ax-nIEIJEmKDcYZNrW6L-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android消息机制，你真的了解Handler吗？</title>
-    <updated>2020-05-25T07:29:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-05-25:/s/WbChZwDRHmM8Yl7sLU5ftA</id>
-    <link href="https://mp.weixin.qq.com/s/WbChZwDRHmM8Yl7sLU5ftA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

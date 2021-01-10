@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:23:18+08:00</updated>
+  <updated>2021-01-10T20:25:10+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>渗透测试之地基钓鱼篇：thinkphp平台XSS钓鱼</title>
+    <updated>2021-01-10T18:22:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/t6z0-WnxMyBLvHxpMzOW2g</id>
+    <link href="https://mp.weixin.qq.com/s/t6z0-WnxMyBLvHxpMzOW2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用Bulwark实现组织的资产以及漏洞管理</title>
+    <updated>2021-01-10T18:22:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/oCRyoOP2vVKSUdb9rTjqOw</id>
+    <link href="https://mp.weixin.qq.com/s/oCRyoOP2vVKSUdb9rTjqOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用NFCGate对Android进行NFC安全研究</title>
+    <updated>2021-01-10T18:22:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/E9gpSxjYkWaJ7XsaVckkxg</id>
+    <link href="https://mp.weixin.qq.com/s/E9gpSxjYkWaJ7XsaVckkxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何对二进制代码进行定向模糊测试以扫描用后释放漏洞</title>
+    <updated>2021-01-10T18:22:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/gmvFcc8FQk3v63XuWtQrtw</id>
+    <link href="https://mp.weixin.qq.com/s/gmvFcc8FQk3v63XuWtQrtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记录一次众测平台邀请码获取</title>
     <updated>2021-01-09T14:30:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-06T18:24:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/KsZP9BFuCukJT7VQwh8A2w</id>
     <link href="https://mp.weixin.qq.com/s/KsZP9BFuCukJT7VQwh8A2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FreeBuf 2020年度数据盘点，你立下的Flag都实现了几个？</title>
-    <updated>2021-01-05T19:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/6-BQkoX3CIQL1NPS0Y9v0Q</id>
-    <link href="https://mp.weixin.qq.com/s/6-BQkoX3CIQL1NPS0Y9v0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>期待明年再会！CIS 2020精彩花絮（附议题PPT下载）</title>
-    <updated>2021-01-05T19:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/bxQZFUUmmGMMuaYvSdaFQQ</id>
-    <link href="https://mp.weixin.qq.com/s/bxQZFUUmmGMMuaYvSdaFQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再说零信任</title>
-    <updated>2021-01-05T19:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Hl5fr7iOy2XpsGyyPgORSQ</id>
-    <link href="https://mp.weixin.qq.com/s/Hl5fr7iOy2XpsGyyPgORSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OnionSearch：一款针对洋葱域名的URL搜索脚本</title>
-    <updated>2021-01-05T19:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/j8jwBqXmEDnCxMiEp5kKsQ</id>
-    <link href="https://mp.weixin.qq.com/s/j8jwBqXmEDnCxMiEp5kKsQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
