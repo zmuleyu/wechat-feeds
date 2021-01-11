@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>KubeSphere | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:46:22+08:00</updated>
+  <updated>2021-01-11T20:30:46+08:00</updated>
   <subtitle>面向云原生应用的容器混合云 KubeSphere</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>​基于 WDS Prophecis 与 KubeSphere 构建云原生机器学习平台</title>
+    <updated>2021-01-11T20:18:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/0n2qnFw7QcGn9F3G9qSm5A</id>
+    <link href="https://mp.weixin.qq.com/s/0n2qnFw7QcGn9F3G9qSm5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>KubeSphere 联合尚硅谷教育，共同打造企业级云原生课程！</title>
     <updated>2021-01-07T12:33:46+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-11-19T17:21:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/I_o6Ibsat5vLctxvn6YB_Q</id>
     <link href="https://mp.weixin.qq.com/s/I_o6Ibsat5vLctxvn6YB_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何创建跨多 Kubernetes 集群的流水线</title>
-    <updated>2020-11-10T20:04:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/RJldFGL8LJo1Of3kzT_xrQ</id>
-    <link href="https://mp.weixin.qq.com/s/RJldFGL8LJo1Of3kzT_xrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播预告！KubeSphere 在直播电商行业 “双十一” 的混合云实践</title>
-    <updated>2020-11-10T20:04:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/5QwhQPTS6gpKq8HEyloriA</id>
-    <link href="https://mp.weixin.qq.com/s/5QwhQPTS6gpKq8HEyloriA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

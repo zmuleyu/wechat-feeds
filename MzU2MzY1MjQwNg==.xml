@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>秦言夏语 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:21:16+08:00</updated>
+  <updated>2021-01-11T20:40:31+08:00</updated>
   <subtitle>技术、管理、产品、人生，这是秦夏写字的地方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫谈分布式系统(24) -- MPP</title>
+    <updated>2021-01-11T14:44:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/-WunxGlDbsxsO31q4RMJCw</id>
+    <link href="https://mp.weixin.qq.com/s/-WunxGlDbsxsO31q4RMJCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>商业、自由和公平</title>
     <updated>2020-12-28T21:37:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-10T10:44:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-10:/s/P7yj4HoT4vnBfsZxNiyIPw</id>
     <link href="https://mp.weixin.qq.com/s/P7yj4HoT4vnBfsZxNiyIPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据平台服务化建设(2) -- 把好权限的关</title>
-    <updated>2020-07-29T17:39:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-29:/s/CZgXW3nqgd2OPCn-bhYUeg</id>
-    <link href="https://mp.weixin.qq.com/s/CZgXW3nqgd2OPCn-bhYUeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go Serverless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:36:14+08:00</updated>
+  <updated>2021-01-11T20:49:30+08:00</updated>
   <subtitle>Go Serverless是一个分享Serverelss架构的公众号，让我和大家一起Serverelss，让我们一起轻松上云：Go，Serverless！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于Serverless架构的验证码识别功能</title>
+    <updated>2021-01-11T19:16:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/2bfMO5K90hOPoF6jbiIxZw</id>
+    <link href="https://mp.weixin.qq.com/s/2bfMO5K90hOPoF6jbiIxZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“不改一行代码”与“Serverless的那些坑”</title>
     <updated>2021-01-02T15:53:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-13T17:44:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-13:/s/B04byq4RkaI4KtxXwO8LBw</id>
     <link href="https://mp.weixin.qq.com/s/B04byq4RkaI4KtxXwO8LBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让Serverless为你的头像增加点装饰</title>
-    <updated>2020-06-01T13:35:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-01:/s/dj7RUjnAIz3hP_PdvoluEQ</id>
-    <link href="https://mp.weixin.qq.com/s/dj7RUjnAIz3hP_PdvoluEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

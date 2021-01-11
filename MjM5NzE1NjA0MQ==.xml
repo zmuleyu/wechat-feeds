@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯安全应急响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T20:32:45+08:00</updated>
+  <updated>2021-01-11T20:17:35+08:00</updated>
   <subtitle>腾讯安全应急响应中心（TSRC）官方微信</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>BORG ：一个快速进化的僵尸网络</title>
+    <updated>2021-01-11T18:05:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/QKgH1d7r_zGrJHFI4lt6CA</id>
+    <link href="https://mp.weixin.qq.com/s/QKgH1d7r_zGrJHFI4lt6CA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TSRC x 腾讯海外充值官网专项众测正式启动！</title>
     <updated>2021-01-05T17:49:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-18T20:08:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/RoTTPgL3a0STgmT_2HFKTA</id>
     <link href="https://mp.weixin.qq.com/s/RoTTPgL3a0STgmT_2HFKTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>隐秘的角落——基于某款游戏利用的反射攻击分析</title>
-    <updated>2020-11-06T18:23:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-06:/s/AGo6bbI82LmapRYn3yvbdQ</id>
-    <link href="https://mp.weixin.qq.com/s/AGo6bbI82LmapRYn3yvbdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

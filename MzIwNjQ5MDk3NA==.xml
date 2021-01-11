@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP开源社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:16:28+08:00</updated>
+  <updated>2021-01-11T20:48:27+08:00</updated>
   <subtitle>免费提供10GPHP进阶架构师学习教程，关注即可免费领取。每天推送PHP最新资讯技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>除了负载均衡，Nginx 能做的真是太强大了！</title>
+    <updated>2021-01-11T14:16:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/XhTTwtwZEZne4dpo-HsYyQ</id>
+    <link href="https://mp.weixin.qq.com/s/XhTTwtwZEZne4dpo-HsYyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>总结一波 Redis 面试题，收藏起来。</title>
+    <updated>2021-01-11T14:16:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/TCyRsMJ7211_s0gNsxjHag</id>
+    <link href="https://mp.weixin.qq.com/s/TCyRsMJ7211_s0gNsxjHag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“12306”的架构到底有多牛逼？</title>
     <updated>2021-01-09T17:13:28+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-30T13:32:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/E8gqIyiJnhbp8O94HljpTg</id>
     <link href="https://mp.weixin.qq.com/s/E8gqIyiJnhbp8O94HljpTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>sql优化的几种方式</title>
-    <updated>2020-12-28T14:47:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Ujbh8jwWE7rz_vd7jbKehg</id>
-    <link href="https://mp.weixin.qq.com/s/Ujbh8jwWE7rz_vd7jbKehg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻量级 Kubernetes 发行版本 k0s 来了</title>
-    <updated>2020-12-28T14:47:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/LSvKXICiuLraXQvaAZcbRQ</id>
-    <link href="https://mp.weixin.qq.com/s/LSvKXICiuLraXQvaAZcbRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

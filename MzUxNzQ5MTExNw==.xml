@@ -1,12 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zartbot | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:36:27+08:00</updated>
+  <updated>2021-01-11T20:18:58+08:00</updated>
   <subtitle>随便记录点有趣的东西</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>思科SDWAN探秘(3)--公有云部署</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/8eBqxW7W_XxPl8NS_KDzYw</id>
+    <link href="https://mp.weixin.qq.com/s/8eBqxW7W_XxPl8NS_KDzYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>思科SDWAN探秘(1)--基础架构</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hrLh-vwYps6EeuoI1Nt2gw</id>
+    <link href="https://mp.weixin.qq.com/s/hrLh-vwYps6EeuoI1Nt2gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>思科SDWAN探秘(2)--私有云部署</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/TcysaLV0MP6JCy5dGuZWVA</id>
+    <link href="https://mp.weixin.qq.com/s/TcysaLV0MP6JCy5dGuZWVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>思科SDWAN探秘(4)--初始化控制器</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/BJzGX3pUEmMpX7n3s45zwQ</id>
+    <link href="https://mp.weixin.qq.com/s/BJzGX3pUEmMpX7n3s45zwQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>思科SDWAN探秘(5)--设备上线</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/_QY7ArZbECkIwwjMnPSqKA</id>
+    <link href="https://mp.weixin.qq.com/s/_QY7ArZbECkIwwjMnPSqKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国内公有云互通测试报告</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/fKxU3bYWNEbNAt7tlfwb2w</id>
+    <link href="https://mp.weixin.qq.com/s/fKxU3bYWNEbNAt7tlfwb2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国内公有云互通测试报告(2)</title>
+    <updated>2021-01-11T19:08:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/DXXLzE25QVje5VAeO95sXg</id>
+    <link href="https://mp.weixin.qq.com/s/DXXLzE25QVje5VAeO95sXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SDWAN：SD了什么？</title>
     <updated>2021-01-05T20:47:29+08:00</updated>
@@ -96,20 +145,6 @@
     <updated>2020-12-10T10:54:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/zoLeAGxVn7GQp_GFHf0rjQ</id>
     <link href="https://mp.weixin.qq.com/s/zoLeAGxVn7GQp_GFHf0rjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重读RFC1925，网络的12条军规</title>
-    <updated>2020-12-10T10:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/TNsmrVP7IXIoN7l4EazdbQ</id>
-    <link href="https://mp.weixin.qq.com/s/TNsmrVP7IXIoN7l4EazdbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重读RFC1925，网络的12条军规</title>
-    <updated>2020-12-02T20:28:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/qKOaweJEeZjNgMFi19AiZQ</id>
-    <link href="https://mp.weixin.qq.com/s/qKOaweJEeZjNgMFi19AiZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

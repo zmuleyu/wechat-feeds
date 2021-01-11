@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端e进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T23:20:10+08:00</updated>
+  <updated>2021-01-11T20:29:57+08:00</updated>
   <subtitle>记录我的学习和分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>值得记录的一件事</title>
+    <updated>2021-01-11T17:35:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Kzz6LFDeatrtjM2Tgfk0Lw</id>
+    <link href="https://mp.weixin.qq.com/s/Kzz6LFDeatrtjM2Tgfk0Lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我的百万收益计划</title>
     <updated>2021-01-06T22:40:08+08:00</updated>
@@ -89,27 +96,6 @@
     <updated>2020-12-18T22:13:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/PSpIAD4YEgwaEhA-l3tGzw</id>
     <link href="https://mp.weixin.qq.com/s/PSpIAD4YEgwaEhA-l3tGzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊 ESM、Bundleless 、Vite 、Snowpack</title>
-    <updated>2020-12-18T14:20:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/NYIxfXVL-AjO0NkOewoO9Q</id>
-    <link href="https://mp.weixin.qq.com/s/NYIxfXVL-AjO0NkOewoO9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「 面试三板斧 」之缓存 (上)</title>
-    <updated>2020-12-18T14:20:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/IYN0ZuhA8i5n_8yoWLHZvg</id>
-    <link href="https://mp.weixin.qq.com/s/IYN0ZuhA8i5n_8yoWLHZvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「 面试三板斧 」之缓存 (下)</title>
-    <updated>2020-12-18T14:20:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/z9CgJYyDh8BAbxoWx3swrA</id>
-    <link href="https://mp.weixin.qq.com/s/z9CgJYyDh8BAbxoWx3swrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

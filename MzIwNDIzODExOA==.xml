@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:12:48+08:00</updated>
+  <updated>2021-01-11T20:47:01+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何调试 Istio 网络配置？</title>
+    <updated>2021-01-11T17:10:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/QlGi5Hyr6Z1yJawcHzqfIg</id>
+    <link href="https://mp.weixin.qq.com/s/QlGi5Hyr6Z1yJawcHzqfIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>直播预告 | Envoy/Istio WebAssembly 扩展实现原理</title>
     <updated>2021-01-07T17:11:08+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-24T11:03:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/iwRafmmO9QtdvG8wKiR3Jg</id>
     <link href="https://mp.weixin.qq.com/s/iwRafmmO9QtdvG8wKiR3Jg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Istio 1.8 发布——用户至上的选择</title>
-    <updated>2020-11-20T08:20:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/vK3e5-xjb7euff7mIyQIKQ</id>
-    <link href="https://mp.weixin.qq.com/s/vK3e5-xjb7euff7mIyQIKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

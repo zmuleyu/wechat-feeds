@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:07:58+08:00</updated>
+  <updated>2021-01-11T20:47:42+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -99,13 +99,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
-    <updated>2021-01-05T19:29:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/fb-3DDhiSBrPSijou1u3cg</id>
-    <link href="https://mp.weixin.qq.com/s/fb-3DDhiSBrPSijou1u3cg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>MySQL为Null会导致5个问题，个个致命！</title>
     <updated>2021-01-05T19:29:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/a7OdVYxmsnzV9O3tGdUoRQ</id>
@@ -145,6 +138,13 @@
     <updated>2021-01-03T23:15:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/gf0bcer3DPAoNPNz8YC9iw</id>
     <link href="https://mp.weixin.qq.com/s/gf0bcer3DPAoNPNz8YC9iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JDK 16 即将发布，新特性速览！</title>
+    <updated>2021-01-03T23:15:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-03:/s/BKbIQ1gZwkt7h99IzckJDg</id>
+    <link href="https://mp.weixin.qq.com/s/BKbIQ1gZwkt7h99IzckJDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

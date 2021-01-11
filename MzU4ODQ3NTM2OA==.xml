@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>慢雾科技 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:43:30+08:00</updated>
+  <updated>2021-01-11T20:27:06+08:00</updated>
   <subtitle>专注区块链生态安全，核心能力包括：安全审计、安全顾问、防御部署、威胁情报（BTI）、漏洞赏金等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>慢雾回顾：2020 年度区块链安全与隐私大事件</title>
+    <updated>2021-01-11T18:37:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/iqSZu1O2PXj_mrKRr8AdwA</id>
+    <link href="https://mp.weixin.qq.com/s/iqSZu1O2PXj_mrKRr8AdwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DeFi 闪电贷攻防之战 | Hacking Time 议题</title>
     <updated>2021-01-05T14:56:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T15:27:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/LkD3g9i8me4G4w_BWt0SqQ</id>
     <link href="https://mp.weixin.qq.com/s/LkD3g9i8me4G4w_BWt0SqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>以小博大，简析 Sushi Swap 攻击事件始末</title>
-    <updated>2020-11-30T19:36:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/-Vp9bPSqxE0yw2hk_yogFw</id>
-    <link href="https://mp.weixin.qq.com/s/-Vp9bPSqxE0yw2hk_yogFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:34:43+08:00</updated>
+  <updated>2021-01-11T20:39:15+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>拼多多回应程序员匿名发帖被辞退，脉脉也有话说</title>
+    <updated>2021-01-11T17:21:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hOvolJx5UT9P8TW08YWSSQ</id>
+    <link href="https://mp.weixin.qq.com/s/hOvolJx5UT9P8TW08YWSSQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux内核开发者讨论删除老旧CPU平台</title>
+    <updated>2021-01-11T17:21:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/JiQLjf0F2NVUnzkP8exrNg</id>
+    <link href="https://mp.weixin.qq.com/s/JiQLjf0F2NVUnzkP8exrNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mozilla计划在Firefox 86中禁用退格键，以防用户编辑数据丢失</title>
+    <updated>2021-01-11T17:21:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CdAsBVW7sGCLf7TZWoEdWQ</id>
+    <link href="https://mp.weixin.qq.com/s/CdAsBVW7sGCLf7TZWoEdWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>统信桌面v20个人版1030发布，优化交互操作</title>
+    <updated>2021-01-11T17:21:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Yup-NvXhIIF9B-IuyUET0Q</id>
+    <link href="https://mp.weixin.qq.com/s/Yup-NvXhIIF9B-IuyUET0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>红旗 Linux 桌面操作系统 V11 社区预览版开放下载</title>
+    <updated>2021-01-11T17:21:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/vBlhsSLCBIKC_MSXtR6SWA</id>
+    <link href="https://mp.weixin.qq.com/s/vBlhsSLCBIKC_MSXtR6SWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开源圈子的那些事</title>
     <updated>2021-01-10T14:15:44+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-06T17:20:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/0eDBX9ZPDYpQmSVHNx6b6w</id>
     <link href="https://mp.weixin.qq.com/s/0eDBX9ZPDYpQmSVHNx6b6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谷歌员工罕见成立工会,美媒:员工维权行动已席卷硅谷!</title>
-    <updated>2021-01-06T17:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0Ge6KK8s-58NshfMwd9rAA</id>
-    <link href="https://mp.weixin.qq.com/s/0Ge6KK8s-58NshfMwd9rAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | 快速读懂 JS 原型链</title>
-    <updated>2021-01-06T17:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/5BR2qCp3Uq02cf2Hzq7Zcw</id>
-    <link href="https://mp.weixin.qq.com/s/5BR2qCp3Uq02cf2Hzq7Zcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卫剑钒，开源圈的“世外高手”</title>
-    <updated>2021-01-05T16:05:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/6vSLG236lbz0qDXtB8S0gA</id>
-    <link href="https://mp.weixin.qq.com/s/6vSLG236lbz0qDXtB8S0gA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DB-Engines 2020年度数据库：PostgreSQL</title>
-    <updated>2021-01-05T16:05:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/U_BlNUFf0G2YUda_eKuJaw</id>
-    <link href="https://mp.weixin.qq.com/s/U_BlNUFf0G2YUda_eKuJaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 5.11 rc2太小，Linus：假期大家都忙着干饭</title>
-    <updated>2021-01-05T16:05:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/127PrDWrbFbZty3jBW6meg</id>
-    <link href="https://mp.weixin.qq.com/s/127PrDWrbFbZty3jBW6meg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

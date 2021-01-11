@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>mPaaS | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T16:29:45+08:00</updated>
+  <updated>2021-01-11T20:23:34+08:00</updated>
   <subtitle>mPaaS (https://aliyun.com/product/mpaas) 源于蚂蚁金服金融科技，致力于提供高效、灵活、稳定的移动研发、管理平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CodeDay#5 启动报名｜ 带你深入探索支付宝终端动态化实践</title>
+    <updated>2021-01-11T17:00:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/vjkTqYwtfZDCJBfZPwG5HA</id>
+    <link href="https://mp.weixin.qq.com/s/vjkTqYwtfZDCJBfZPwG5HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>技术干货 | “选图预览并上传”的场景如何解？全网最全方案汇总来了</title>
     <updated>2021-01-08T14:34:57+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-30T09:09:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/fvAd3qbm9mHb5M_PqCteJw</id>
     <link href="https://mp.weixin.qq.com/s/fvAd3qbm9mHb5M_PqCteJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>厂商 push 不通排查指南</title>
-    <updated>2020-11-27T09:08:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/z4_q6TceBCNDaY9TnugSbA</id>
-    <link href="https://mp.weixin.qq.com/s/z4_q6TceBCNDaY9TnugSbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

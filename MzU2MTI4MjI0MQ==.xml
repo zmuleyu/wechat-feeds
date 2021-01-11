@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:51:24+08:00</updated>
+  <updated>2021-01-11T20:29:01+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -113,13 +113,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>5年前的Dubbo输在哪里了？比Spring Cloud还强的架构，真香！</title>
-    <updated>2021-01-05T21:20:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/oQhl3AOb0ukAG7vfFJUEJA</id>
-    <link href="https://mp.weixin.qq.com/s/oQhl3AOb0ukAG7vfFJUEJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Java日志记录最佳实践</title>
     <updated>2021-01-05T21:20:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/fD_qkLqxTltJ2MxWAyBqzw</id>
@@ -145,6 +138,13 @@
     <updated>2021-01-04T18:12:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZuOt585NqdzooQuVbKRsww</id>
     <link href="https://mp.weixin.qq.com/s/ZuOt585NqdzooQuVbKRsww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java仿百度网盘</title>
+    <updated>2021-01-04T18:12:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/tNoqFgmYPTQwFsCrLMtkeQ</id>
+    <link href="https://mp.weixin.qq.com/s/tNoqFgmYPTQwFsCrLMtkeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

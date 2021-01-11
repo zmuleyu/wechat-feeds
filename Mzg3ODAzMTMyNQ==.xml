@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:21:34+08:00</updated>
+  <updated>2021-01-11T20:46:28+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>周一见 | Prometheus v2.24 发布、2021 四大主流云技术、GitHub 年度报告</title>
+    <updated>2021-01-11T18:18:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hXVA7zzmbpYSO_T7jrI3uA</id>
+    <link href="https://mp.weixin.qq.com/s/hXVA7zzmbpYSO_T7jrI3uA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 如果是个水族馆</title>
     <updated>2021-01-08T18:18:10+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-14T18:17:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/0KiN2ZcPA_AngqljW-CT5w</id>
     <link href="https://mp.weixin.qq.com/s/0KiN2ZcPA_AngqljW-CT5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 原生 CI/CD 构建框架 Tekton 详解！</title>
-    <updated>2020-12-11T18:10:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/-MCAQ4GfL-aJYj08J--8dA</id>
-    <link href="https://mp.weixin.qq.com/s/-MCAQ4GfL-aJYj08J--8dA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

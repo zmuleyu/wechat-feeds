@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:01:33+08:00</updated>
+  <updated>2021-01-11T20:37:34+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET开源5年了，这些宝藏你还没get？</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/2ONiRvusc1ANzglUFPhjvA</id>
+    <link href="https://mp.weixin.qq.com/s/2ONiRvusc1ANzglUFPhjvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>探索 .NET团队对API的设计流程</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/amg8R1i2ZHcgWDR908oOcw</id>
+    <link href="https://mp.weixin.qq.com/s/amg8R1i2ZHcgWDR908oOcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Istio 知多少 | 下一代微服务的守护者</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/BO2BPJtFGaYUcI_WW5uXgQ</id>
+    <link href="https://mp.weixin.qq.com/s/BO2BPJtFGaYUcI_WW5uXgQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ocelot 中间件的变化</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/979tOchtd04y6MI7KOvnfw</id>
+    <link href="https://mp.weixin.qq.com/s/979tOchtd04y6MI7KOvnfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CY4y6R1gOppeZpvoesnFpw</id>
+    <link href="https://mp.weixin.qq.com/s/CY4y6R1gOppeZpvoesnFpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WinForm捕获全局异常（捕获未处理的异常）</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ZEs5MwjLA7WI1irbXtmD5g</id>
+    <link href="https://mp.weixin.qq.com/s/ZEs5MwjLA7WI1irbXtmD5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何成功搞垮一个团队？</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/pCDYjxxVEx_ZXQi25FzejQ</id>
+    <link href="https://mp.weixin.qq.com/s/pCDYjxxVEx_ZXQi25FzejQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>设计 | 体会软件设计之美（1）</title>
+    <updated>2021-01-11T13:49:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/lmrJplAikWYpftVdMDO-pA</id>
+    <link href="https://mp.weixin.qq.com/s/lmrJplAikWYpftVdMDO-pA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Hook】postman工具的代码生成工具让它锦上添花</title>
     <updated>2021-01-09T20:27:38+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-08T20:50:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/BGdwstIG0TjKFU8sUmEt7A</id>
     <link href="https://mp.weixin.qq.com/s/BGdwstIG0TjKFU8sUmEt7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Core 使用Topshelf方式创建Windows服务</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/G1uipKPTwXHROpJx1zTxMQ</id>
-    <link href="https://mp.weixin.qq.com/s/G1uipKPTwXHROpJx1zTxMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TIOBE 1 月榜单：Python年度语言四连冠，C 语言再次第一</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/dffafFSXu59fpJW07uOgEQ</id>
-    <link href="https://mp.weixin.qq.com/s/dffafFSXu59fpJW07uOgEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>单一职责在.NET中</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/tyJxcy-KrwL6phaJ6b641w</id>
-    <link href="https://mp.weixin.qq.com/s/tyJxcy-KrwL6phaJ6b641w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>孙丕恕离开浪潮 仪器厂历时60年成为服务器龙头企业</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/GRzUTWgQ1S9-SW0blt_tvA</id>
-    <link href="https://mp.weixin.qq.com/s/GRzUTWgQ1S9-SW0blt_tvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 9 新特性 —— 补充篇</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/VN4-N7q9-4WeCW2CSEqROQ</id>
-    <link href="https://mp.weixin.qq.com/s/VN4-N7q9-4WeCW2CSEqROQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IdentityServer4 之 Resource Owner Password Credentials 其实有点尴尬</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/USo-1LwomPywuiJtjRVd8Q</id>
-    <link href="https://mp.weixin.qq.com/s/USo-1LwomPywuiJtjRVd8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻量级 Kubernetes K3s - Github热点</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/46TWv7NpQJOzKLekg19L4Q</id>
-    <link href="https://mp.weixin.qq.com/s/46TWv7NpQJOzKLekg19L4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【gRPC】ProtoBuf 语言快速学习指南</title>
-    <updated>2021-01-07T20:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/n337wqKzsvZsrI1_Fa7Uqg</id>
-    <link href="https://mp.weixin.qq.com/s/n337wqKzsvZsrI1_Fa7Uqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

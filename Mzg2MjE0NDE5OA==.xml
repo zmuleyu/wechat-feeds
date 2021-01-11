@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:20:44+08:00</updated>
+  <updated>2021-01-11T20:45:28+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN：关注隐私安全自由的PureOS！</title>
+    <updated>2021-01-11T19:05:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Nrqpunb02b9Tbir6OgpS6Q</id>
+    <link href="https://mp.weixin.qq.com/s/Nrqpunb02b9Tbir6OgpS6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: 利用auxiliary bus管理具有多种功能的硬件设备！</title>
     <updated>2021-01-07T12:58:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T12:53:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/zqtARPxtkH4mmqhpnvDiCQ</id>
     <link href="https://mp.weixin.qq.com/s/zqtARPxtkH4mmqhpnvDiCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: 5.10 kernel开发周期的数据统计！</title>
-    <updated>2020-12-25T18:12:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/2cyBUaBUtjuFNmMNVc3z2A</id>
-    <link href="https://mp.weixin.qq.com/s/2cyBUaBUtjuFNmMNVc3z2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

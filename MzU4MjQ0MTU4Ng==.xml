@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:41:02+08:00</updated>
+  <updated>2021-01-11T20:45:40+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Prometheus 与 Grafana 的结合使用</title>
+    <updated>2021-01-11T20:44:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/1hPGCA3gwT7QJ62ro26ZJg</id>
+    <link href="https://mp.weixin.qq.com/s/1hPGCA3gwT7QJ62ro26ZJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 存储原理解析</title>
     <updated>2021-01-10T19:33:22+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-31T10:59:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/HZ82J0dihT0wfCESK5IORQ</id>
     <link href="https://mp.weixin.qq.com/s/HZ82J0dihT0wfCESK5IORQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试又挂了，竟然被k8s难倒了！</title>
-    <updated>2020-12-30T09:23:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/xWISCnEKWxX_dgBcbmzHtQ</id>
-    <link href="https://mp.weixin.qq.com/s/xWISCnEKWxX_dgBcbmzHtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 源码分析之 kubelet(一)</title>
-    <updated>2020-12-30T09:23:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/RPyG9qoXY0xHADpCL1aIOw</id>
-    <link href="https://mp.weixin.qq.com/s/RPyG9qoXY0xHADpCL1aIOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

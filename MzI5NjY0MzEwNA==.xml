@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>牧小码农 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:30:49+08:00</updated>
+  <updated>2021-01-11T20:22:59+08:00</updated>
   <subtitle>专注于Java分享技术的公众号，归纳和总结，分享优秀文章，有温度、有态度、有知识，更有你们，技术路上我们都是探索者，大家加油，公众号中如有错误的地方，敬请指正，谢谢。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>线程安全性详解(原子性、可见性、有序性)</title>
+    <updated>2021-01-11T16:41:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/oAh-NpXvKSeoDawrBY78Ag</id>
+    <link href="https://mp.weixin.qq.com/s/oAh-NpXvKSeoDawrBY78Ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FastDFS搭建文件管理系统(详细教程)</title>
     <updated>2021-01-10T16:22:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-19T16:08:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/FWjIFKWOq6uJM6WY3JFRhw</id>
     <link href="https://mp.weixin.qq.com/s/FWjIFKWOq6uJM6WY3JFRhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看完这篇，再也不怕面试官问我线程池了</title>
-    <updated>2020-12-02T22:07:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/KbRlPz8cyKl4S2snhi8QzQ</id>
-    <link href="https://mp.weixin.qq.com/s/KbRlPz8cyKl4S2snhi8QzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

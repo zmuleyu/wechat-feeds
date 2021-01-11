@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:27:34+08:00</updated>
+  <updated>2021-01-11T20:32:02+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>买买买，红帽准备买下容器安全平台StackRox</title>
+    <updated>2021-01-11T20:16:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/v5znv0mOdIEonb-I6BhL6A</id>
+    <link href="https://mp.weixin.qq.com/s/v5znv0mOdIEonb-I6BhL6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手把手教你玩华为eNSP模拟器</title>
+    <updated>2021-01-11T20:16:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5U3q7W38FLXwxH4LI9nLMw</id>
+    <link href="https://mp.weixin.qq.com/s/5U3q7W38FLXwxH4LI9nLMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>速收藏 | 2020 年开源项目推荐合集</title>
     <updated>2021-01-10T18:47:14+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-02T11:56:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/1F6OCEBZUC0e20LhjTU5Vw</id>
     <link href="https://mp.weixin.qq.com/s/1F6OCEBZUC0e20LhjTU5Vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生景观：编排和管理层解决了什么问题？如何解决的？</title>
-    <updated>2021-01-01T11:59:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/fVGTtXlurMfJV1gp93jUIQ</id>
-    <link href="https://mp.weixin.qq.com/s/fVGTtXlurMfJV1gp93jUIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

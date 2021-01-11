@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人工智能前沿讲习 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:16:53+08:00</updated>
+  <updated>2021-01-11T20:17:45+08:00</updated>
   <subtitle>领先的人工智能知识平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【综述专栏】关于知识图谱和语言模型的想法</title>
+    <updated>2021-01-11T18:05:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/QjqCi1ePC6bjpN2JM-nZlA</id>
+    <link href="https://mp.weixin.qq.com/s/QjqCi1ePC6bjpN2JM-nZlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【他山之石】autograd源码剖析</title>
+    <updated>2021-01-11T18:05:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/UhR3IUnnwFqAX4vDBio10Q</id>
+    <link href="https://mp.weixin.qq.com/s/UhR3IUnnwFqAX4vDBio10Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【活动通知】SFFAI97×CRIPAC 三维点云检测专题</title>
+    <updated>2021-01-11T18:05:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CHofJkqTGBkjBUmCPZeBGw</id>
+    <link href="https://mp.weixin.qq.com/s/CHofJkqTGBkjBUmCPZeBGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【论文推荐】了解《三维点云检测》必看的6篇论文【附打包下载地址】</title>
     <updated>2021-01-10T19:46:16+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-03T21:17:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/ZhB0Aq8VEJhJcyGBrhYbjw</id>
     <link href="https://mp.weixin.qq.com/s/ZhB0Aq8VEJhJcyGBrhYbjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动通知】SFFAI96×华为云Stack 目标检测专题</title>
-    <updated>2021-01-03T21:17:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/gQ2Clm_BXF42wDXxJlbuVQ</id>
-    <link href="https://mp.weixin.qq.com/s/gQ2Clm_BXF42wDXxJlbuVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【源头活水】从频域角度重新思考注意力机制——FcaNet</title>
-    <updated>2021-01-02T18:32:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/k2DVgKcYjV2rheRtoUGhzA</id>
-    <link href="https://mp.weixin.qq.com/s/k2DVgKcYjV2rheRtoUGhzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【他山之石】pytorch 中张量基本操作</title>
-    <updated>2021-01-02T18:32:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ssfH-GvtyEBu6jbhqF3nQA</id>
-    <link href="https://mp.weixin.qq.com/s/ssfH-GvtyEBu6jbhqF3nQA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

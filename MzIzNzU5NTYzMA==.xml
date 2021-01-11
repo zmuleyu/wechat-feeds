@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:23:41+08:00</updated>
+  <updated>2021-01-11T20:48:19+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生动态周报 |华为云主导抗疫药物筛选科研成果&#34;神农项目&#34;登上国际化学顶刊封面</title>
+    <updated>2021-01-11T20:01:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/vWPTmoft7Ae9WDx3ly6uRw</id>
+    <link href="https://mp.weixin.qq.com/s/vWPTmoft7Ae9WDx3ly6uRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>引领云原生2.0，华为云加速云原生全行业落地</title>
     <updated>2021-01-08T17:21:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T17:30:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/neBIqRYHs48I3fSPIGaGqg</id>
     <link href="https://mp.weixin.qq.com/s/neBIqRYHs48I3fSPIGaGqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>边缘智能还能怎么玩？KubeEdge AI SIG 带你飞</title>
-    <updated>2020-12-25T19:37:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/t10_ZrZW42AZoYnisVAbpg</id>
-    <link href="https://mp.weixin.qq.com/s/t10_ZrZW42AZoYnisVAbpg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

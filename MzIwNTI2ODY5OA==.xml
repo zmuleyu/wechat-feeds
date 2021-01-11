@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TopCoder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:39:01+08:00</updated>
+  <updated>2021-01-11T20:43:31+08:00</updated>
   <subtitle>关注程序员技术成长，用简洁的文字，分享复杂的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>seata 事务提交流程</title>
+    <updated>2021-01-10T18:34:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/yvowA5gGkmBn1951KoHLuw</id>
+    <link href="https://mp.weixin.qq.com/s/yvowA5gGkmBn1951KoHLuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>seata 是什么</title>
     <updated>2021-01-10T13:03:50+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-31T13:13:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-31:/s/fBBUxmnpUrSl4CXyJVOoMw</id>
     <link href="https://mp.weixin.qq.com/s/fBBUxmnpUrSl4CXyJVOoMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FutureTask 原理剖析</title>
-    <updated>2020-10-28T20:39:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/JzA4BGqbpVNlNwC-PTf62Q</id>
-    <link href="https://mp.weixin.qq.com/s/JzA4BGqbpVNlNwC-PTf62Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

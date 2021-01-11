@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:48:01+08:00</updated>
+  <updated>2021-01-11T20:42:27+08:00</updated>
   <subtitle>云原生技术交流阵地，汇聚云原生最新技术资讯、文章、活动，以及云原生产品及用户最佳实践内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯优图 AI 案例 | 边缘容器让私有化部署交付不再是苦差</title>
+    <updated>2021-01-11T17:44:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/46n-OEKmGajZf7u29I-f1g</id>
+    <link href="https://mp.weixin.qq.com/s/46n-OEKmGajZf7u29I-f1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Serverless 如何应对 K8s 在离线场景下的资源供给诉求</title>
     <updated>2021-01-08T20:11:47+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-25T17:28:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/938_Pf3TgIEbenwqSEKA0g</id>
     <link href="https://mp.weixin.qq.com/s/938_Pf3TgIEbenwqSEKA0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯云原生，让企业上云“更简单“</title>
-    <updated>2020-12-23T12:37:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/jF74-UG_9xYLexNLcfZThQ</id>
-    <link href="https://mp.weixin.qq.com/s/jF74-UG_9xYLexNLcfZThQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
