@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RedTeaming | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:43:38+08:00</updated>
+  <updated>2021-01-11T23:21:10+08:00</updated>
   <subtitle>Know it,Then hacking it!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>RedTeamTricks</title>
+    <updated>2021-01-11T21:37:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/sdzNELWFvQeKJzbMsuoRpw</id>
+    <link href="https://mp.weixin.qq.com/s/sdzNELWFvQeKJzbMsuoRpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CobaltStrike4.2-Mac App</title>
     <updated>2020-12-28T00:48:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-03-01T22:05:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-03-01:/s/KqfD8eZwyvaDTcRzIKzxkg</id>
     <link href="https://mp.weixin.qq.com/s/KqfD8eZwyvaDTcRzIKzxkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WMI 101 For Pentester</title>
-    <updated>2020-02-27T23:55:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-02-27:/s/7Rkc4WK0PILc9zUfrb8KCA</id>
-    <link href="https://mp.weixin.qq.com/s/7Rkc4WK0PILc9zUfrb8KCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T02:09:51+08:00</updated>
+  <updated>2021-01-11T23:20:02+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2021-01-11 第一次 Rust Gamedev Meetup 视频回放</title>
+    <updated>2021-01-11T21:52:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/N1st3ULOm8HEE8CdfDI3sQ</id>
+    <link href="https://mp.weixin.qq.com/s/N1st3ULOm8HEE8CdfDI3sQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【大家的项目】Rust Report Card - 为你的 Rust 代码生成质量报告</title>
+    <updated>2021-01-11T21:52:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/E8vXNpHBeGCb5aODrS7hiw</id>
+    <link href="https://mp.weixin.qq.com/s/E8vXNpHBeGCb5aODrS7hiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust的一些科学计算相关经验（稀疏矩阵计算的相关生态仍有很大欠缺）</title>
     <updated>2021-01-10T23:01:45+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-02T22:20:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/PnnhFH_IG0coELqyHyTh8w</id>
     <link href="https://mp.weixin.qq.com/s/PnnhFH_IG0coELqyHyTh8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust每周一库】generic-array - 长度为范型的静态数组</title>
-    <updated>2021-01-01T23:40:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/ohLQ9XMHQovxMEGp6S9LLA</id>
-    <link href="https://mp.weixin.qq.com/s/ohLQ9XMHQovxMEGp6S9LLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2021-01-01 2021新年快乐！Rust 1.49发布！</title>
-    <updated>2021-01-01T23:40:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/KLmwPwT8TEcGmRbyCB-fIw</id>
-    <link href="https://mp.weixin.qq.com/s/KLmwPwT8TEcGmRbyCB-fIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

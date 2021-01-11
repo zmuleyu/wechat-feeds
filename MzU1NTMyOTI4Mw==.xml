@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:40:29+08:00</updated>
+  <updated>2021-01-11T23:36:29+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>美团配送实时特征平台建设实践</title>
+    <updated>2021-01-11T20:27:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/gafduk7jhD9QnB1Lmmb1qw</id>
+    <link href="https://mp.weixin.qq.com/s/gafduk7jhD9QnB1Lmmb1qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 美团技术沙龙：美团无人配送最新成果论文分享</title>
+    <updated>2021-01-11T20:27:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/h5y8vc5xkliVPo8sHtWypA</id>
+    <link href="https://mp.weixin.qq.com/s/h5y8vc5xkliVPo8sHtWypA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 阿里飞猪：个性化出行算法实践</title>
+    <updated>2021-01-11T20:27:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/zgF8Rst8tt2Cez1w3fG-UQ</id>
+    <link href="https://mp.weixin.qq.com/s/zgF8Rst8tt2Cez1w3fG-UQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内推：北京、上海、杭州算法岗</title>
+    <updated>2021-01-11T20:27:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/_F_eBlk08f8hSQm51Rwmhg</id>
+    <link href="https://mp.weixin.qq.com/s/_F_eBlk08f8hSQm51Rwmhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于NLP相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱、信息抽取、序列模型、深度学习、语法分析、文本处理</title>
     <updated>2021-01-10T19:42:54+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-05T20:16:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/Aue4DCiLHMIssru8Ruq-oQ</id>
     <link href="https://mp.weixin.qq.com/s/Aue4DCiLHMIssru8Ruq-oQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面向垂直领域的OpenIE图谱构建技术</title>
-    <updated>2021-01-05T20:16:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/zynBlT720CXk__cDFClW7w</id>
-    <link href="https://mp.weixin.qq.com/s/zynBlT720CXk__cDFClW7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内推：阿里Blink团队招人</title>
-    <updated>2021-01-05T20:16:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/B0izUY5CT402UzYKlTRtbA</id>
-    <link href="https://mp.weixin.qq.com/s/B0izUY5CT402UzYKlTRtbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DataFunTalk内容整理志愿者征集</title>
-    <updated>2021-01-05T20:16:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/4Nq2mfnLHMEuRKQ0NZpzpw</id>
-    <link href="https://mp.weixin.qq.com/s/4Nq2mfnLHMEuRKQ0NZpzpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​算力经济时代：阿里展示广告引擎的&#34;柔性&#34;变形之路</title>
-    <updated>2021-01-04T17:31:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/q1yk57_Pn7jTa0mUszJRcQ</id>
-    <link href="https://mp.weixin.qq.com/s/q1yk57_Pn7jTa0mUszJRcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

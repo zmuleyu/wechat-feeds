@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:11:58+08:00</updated>
+  <updated>2021-01-11T23:19:57+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>人工智能这十年！</title>
+    <updated>2021-01-11T22:55:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/-ZGMQkpJUyImVggFQUvuVQ</id>
+    <link href="https://mp.weixin.qq.com/s/-ZGMQkpJUyImVggFQUvuVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于深度学习的图像与视频压缩</title>
     <updated>2021-01-06T18:48:53+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-14T18:28:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/hpxPYSadNiQ-w42n0pQWCA</id>
     <link href="https://mp.weixin.qq.com/s/hpxPYSadNiQ-w42n0pQWCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AAAI 2021 | 腾讯优图11篇论文入选，涵盖动作识别、人群密度估计、人脸安全等领域</title>
-    <updated>2020-12-11T18:08:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/t5pueP-Aq7YvDVBAtjXYxg</id>
-    <link href="https://mp.weixin.qq.com/s/t5pueP-Aq7YvDVBAtjXYxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【专利转让】掌纹识别、图像复原、人脸检测定位相关领域</title>
-    <updated>2020-12-11T18:08:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/vFHqLiJ6W-Jq_x2I0MX_9g</id>
-    <link href="https://mp.weixin.qq.com/s/vFHqLiJ6W-Jq_x2I0MX_9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

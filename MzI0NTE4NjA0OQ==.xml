@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T23:27:28+08:00</updated>
+  <updated>2021-01-11T23:29:10+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>20 行代码：Serverless 架构下用 Python 轻松搞定图像分类和预测</title>
+    <updated>2021-01-11T16:08:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Mo84RrZvRDnH9aVOd6p0DQ</id>
+    <link href="https://mp.weixin.qq.com/s/Mo84RrZvRDnH9aVOd6p0DQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>四大触点，教你从“用户视角”构建数据分析体系</title>
     <updated>2021-01-08T15:34:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T16:39:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/tP3TGetL1le0H0P8NxbcfA</id>
     <link href="https://mp.weixin.qq.com/s/tP3TGetL1le0H0P8NxbcfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>技术揭秘 | 互联网广告黑产盛行，如何反作弊？</title>
-    <updated>2020-12-26T09:28:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/gbsJoKZNtITkYnYVNQBZsw</id>
-    <link href="https://mp.weixin.qq.com/s/gbsJoKZNtITkYnYVNQBZsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

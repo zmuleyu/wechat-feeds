@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>xchaoinfo | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:53:19+08:00</updated>
+  <updated>2021-01-11T23:28:55+08:00</updated>
   <subtitle>用 Python 写 Bug 的数据分析师。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我写的代码犯法吗？公益免费的 IT 人法律科普在线直播活动来袭！</title>
+    <updated>2021-01-11T21:02:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/zZixsR3p8No1u0YzzycEsA</id>
+    <link href="https://mp.weixin.qq.com/s/zZixsR3p8No1u0YzzycEsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Travis-CI 自动部署 Hexo 静态博客到 Github Pages</title>
     <updated>2020-01-16T21:25:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2017-04-21T23:54:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2017-04-21:/s/eB3qY3u-dvt1zMJ0HupJ3w</id>
     <link href="https://mp.weixin.qq.com/s/eB3qY3u-dvt1zMJ0HupJ3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>json 在 Python 爬虫的应用</title>
-    <updated>2017-04-17T00:03:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2017-04-17:/s/eRv5PrvR988iYMMId9bNnw</id>
-    <link href="https://mp.weixin.qq.com/s/eRv5PrvR988iYMMId9bNnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

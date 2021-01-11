@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序新视界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T02:07:48+08:00</updated>
+  <updated>2021-01-11T23:17:48+08:00</updated>
   <subtitle>编程，读书，职场感悟，带你开启新的程序视界！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有人相爱，有人夜里开车看海，有人LeetCode第一题都做不出来</title>
+    <updated>2021-01-11T22:04:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/xXSNViq9E-__TIn9peIklA</id>
+    <link href="https://mp.weixin.qq.com/s/xXSNViq9E-__TIn9peIklA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不要再用main方法测试代码性能了，用这款JDK自带工具</title>
     <updated>2021-01-06T19:15:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T12:32:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/53ArXzqlSlMj080jmzRhSg</id>
     <link href="https://mp.weixin.qq.com/s/53ArXzqlSlMj080jmzRhSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别用ifelse了，手把手教在 Spring Boot中进行参数校验？</title>
-    <updated>2020-12-14T21:15:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/3u2yi0aCS1xhIrm5xQ3frg</id>
-    <link href="https://mp.weixin.qq.com/s/3u2yi0aCS1xhIrm5xQ3frg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

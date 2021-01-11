@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>转角遇到GitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:29:44+08:00</updated>
+  <updated>2021-01-11T23:19:32+08:00</updated>
   <subtitle>发现 GitHub 好项目，开源爱好者！包括但不限于 Python、Java、Go、Rust、JavaScript、AI 等技术，开源学习和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>国产 Go 分布式文件系统开源了</title>
+    <updated>2021-01-11T22:37:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/1AJSQ-BYs3gpb_CaGheZxw</id>
+    <link href="https://mp.weixin.qq.com/s/1AJSQ-BYs3gpb_CaGheZxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>通过这个 Go 项目搭建一个图片服务器竟然这么简单</title>
     <updated>2021-01-05T17:24:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T17:50:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/bANSdCV2bZ8SDVBWVENAaw</id>
     <link href="https://mp.weixin.qq.com/s/bANSdCV2bZ8SDVBWVENAaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全面崩溃！Google 服务全球宕机，年终奖还有吗？</title>
-    <updated>2020-12-14T23:06:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/Rx1eDXQ1PW_7bAm59WCdZw</id>
-    <link href="https://mp.weixin.qq.com/s/Rx1eDXQ1PW_7bAm59WCdZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

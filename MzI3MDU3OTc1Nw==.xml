@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>麒思妙想 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T23:13:10+08:00</updated>
+  <updated>2021-01-11T23:38:50+08:00</updated>
   <subtitle>主人是数据科学家，已经一个多礼拜了。这里除了程序，还有一些美食和影评。期待您的支持！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>并行和分布式系统</title>
+    <updated>2021-01-11T23:14:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/-uWhywcnPlI7D6BWGjl0yA</id>
+    <link href="https://mp.weixin.qq.com/s/-uWhywcnPlI7D6BWGjl0yA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OLAP system selection, choose Apache Kylin or ClickHouse?</title>
     <updated>2021-01-08T21:48:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-22T21:50:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/OUJVkKoYtFQfCBV-5Vf8Sg</id>
     <link href="https://mp.weixin.qq.com/s/OUJVkKoYtFQfCBV-5Vf8Sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IoTDB核心技术剖析</title>
-    <updated>2020-11-20T17:28:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/SttGwj-yUboN9rT9s9Icug</id>
-    <link href="https://mp.weixin.qq.com/s/SttGwj-yUboN9rT9s9Icug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:21:37+08:00</updated>
+  <updated>2021-01-11T23:19:44+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>群消息，究竟存1份还是多份？</title>
+    <updated>2021-01-11T21:54:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/z4O7SKP6KwHgQJ5B2TRn9A</id>
+    <link href="https://mp.weixin.qq.com/s/z4O7SKP6KwHgQJ5B2TRn9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SM双生进程是如何通讯的？</title>
     <updated>2021-01-10T16:46:52+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-23T21:07:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/BhkFFU2JXzIkaVvhWvRxQg</id>
     <link href="https://mp.weixin.qq.com/s/BhkFFU2JXzIkaVvhWvRxQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>QQ好友状态，QQ群友状态，究竟是推还是拉？</title>
-    <updated>2020-12-21T22:02:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/kQlvuNO_VfeC7kzdWbQEQg</id>
-    <link href="https://mp.weixin.qq.com/s/kQlvuNO_VfeC7kzdWbQEQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

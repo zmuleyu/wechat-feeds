@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:25:10+08:00</updated>
+  <updated>2021-01-11T23:22:02+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>交通银行辟谣：与我行真实客户信息不符，不存在客户信息泄漏</title>
+    <updated>2021-01-11T20:22:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/R4-4PG6tLx7ob-z4MHGNMA</id>
+    <link href="https://mp.weixin.qq.com/s/R4-4PG6tLx7ob-z4MHGNMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊Gartner 2021战略技术趋势：全面体验</title>
+    <updated>2021-01-11T20:22:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/2WGWJMmfRVg9ltcvxW05Lw</id>
+    <link href="https://mp.weixin.qq.com/s/2WGWJMmfRVg9ltcvxW05Lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何映射Google Web Toolkit（GWT）的攻击面</title>
+    <updated>2021-01-11T20:22:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/SkowBrRcoBqV5pWw4HxndA</id>
+    <link href="https://mp.weixin.qq.com/s/SkowBrRcoBqV5pWw4HxndA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>reGeorg搭建HTTP隧道和流量分析</title>
+    <updated>2021-01-11T20:22:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/pQ5Nngk1LjSeyziUQfATjg</id>
+    <link href="https://mp.weixin.qq.com/s/pQ5Nngk1LjSeyziUQfATjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>渗透测试之地基钓鱼篇：thinkphp平台XSS钓鱼</title>
     <updated>2021-01-10T18:22:30+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-07T17:58:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/lzHAAlYxqcalmQK7ZsFDKA</id>
     <link href="https://mp.weixin.qq.com/s/lzHAAlYxqcalmQK7ZsFDKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>威胁诱捕类产品（蜜罐）能力评测邀请 | 中国信通院安全研究所&amp;FreeBuf咨询</title>
-    <updated>2021-01-06T18:24:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/fJzTZmD3B9Nb48Bwtmvv1A</id>
-    <link href="https://mp.weixin.qq.com/s/fJzTZmD3B9Nb48Bwtmvv1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DevSecOps建设之白盒篇</title>
-    <updated>2021-01-06T18:24:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/yLeIeW9nYPaoLmLx5HGlzw</id>
-    <link href="https://mp.weixin.qq.com/s/yLeIeW9nYPaoLmLx5HGlzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SolarWinds攻击归因成疑，俄罗斯国家黑客or美国内鬼？</title>
-    <updated>2021-01-06T18:24:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xCkA-vfh0h4Zs-pljml6ZQ</id>
-    <link href="https://mp.weixin.qq.com/s/xCkA-vfh0h4Zs-pljml6ZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国国防部网站导致账户劫持的IDOR漏洞</title>
-    <updated>2021-01-06T18:24:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/KsZP9BFuCukJT7VQwh8A2w</id>
-    <link href="https://mp.weixin.qq.com/s/KsZP9BFuCukJT7VQwh8A2w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
