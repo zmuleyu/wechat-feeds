@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:03:47+08:00</updated>
+  <updated>2021-01-11T16:45:26+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么下一个十年的主战场在Serverless</title>
+    <updated>2021-01-11T15:24:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/VATbwc5ZFeP7fCNvN493vQ</id>
+    <link href="https://mp.weixin.qq.com/s/VATbwc5ZFeP7fCNvN493vQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何成为一名区块链开发者（二）</title>
     <updated>2021-01-10T10:30:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T08:53:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/TQ248e9171jOHSYxdgLBWA</id>
     <link href="https://mp.weixin.qq.com/s/TQ248e9171jOHSYxdgLBWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 和 C 性能对比：排序</title>
-    <updated>2020-12-28T08:51:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/eNSAl1nGvFEN0aN-qAyUEA</id>
-    <link href="https://mp.weixin.qq.com/s/eNSAl1nGvFEN0aN-qAyUEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

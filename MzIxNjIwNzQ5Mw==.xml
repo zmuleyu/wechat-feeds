@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET全栈开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T23:23:31+08:00</updated>
+  <updated>2021-01-11T16:29:18+08:00</updated>
   <subtitle>dotNET全栈开发中心,为.NET程序员提供Asp.NET MVC web开发、xamarin跨平台移动开发、.NET Core、winform\wcf客户端开发、web前端、业界趣闻、程序人生等方面资讯。弱水三千只取一瓢，每日一篇一更。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -120,13 +120,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>@程序员，白嫖一份千元大礼！</title>
-    <updated>2021-01-03T21:30:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/_1I_WMFxK_EJcNtnjsRN5A</id>
-    <link href="https://mp.weixin.qq.com/s/_1I_WMFxK_EJcNtnjsRN5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>C# 9 新特性：增强的模式匹配了解一下！</title>
     <updated>2021-01-03T21:30:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/qy3_EpSgzuw3Ty3WaVZTXg</id>
@@ -145,6 +138,13 @@
     <updated>2021-01-01T21:32:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/qXrvm_XzPfeiRHYyo3C8-w</id>
     <link href="https://mp.weixin.qq.com/s/qXrvm_XzPfeiRHYyo3C8-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ASP.NET Core学习资源汇总</title>
+    <updated>2021-01-01T21:32:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/2t28hkYT_5SUcjKCALWQkQ</id>
+    <link href="https://mp.weixin.qq.com/s/2t28hkYT_5SUcjKCALWQkQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

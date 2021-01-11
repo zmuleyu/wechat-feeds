@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:43:38+08:00</updated>
+  <updated>2021-01-11T16:28:34+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从信息泄露到域控</title>
+    <updated>2021-01-11T13:29:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/HUa7rE5suCaBmTFaO8sytQ</id>
+    <link href="https://mp.weixin.qq.com/s/HUa7rE5suCaBmTFaO8sytQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>作为普通玩家，渗透工具怎么选</title>
+    <updated>2021-01-11T13:29:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Qa-utdz5_FD7i3LKoYoQIw</id>
+    <link href="https://mp.weixin.qq.com/s/Qa-utdz5_FD7i3LKoYoQIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【红蓝对抗】新年的第一次内网实战</title>
     <updated>2021-01-08T11:29:33+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-28T13:19:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/qQ-DSxmoQwQpPu-n5jD0FA</id>
     <link href="https://mp.weixin.qq.com/s/qQ-DSxmoQwQpPu-n5jD0FA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>php中函数禁用绕过的原理与利用</title>
-    <updated>2020-12-25T11:41:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/_L379eq0kufu3CCHN1DdkA</id>
-    <link href="https://mp.weixin.qq.com/s/_L379eq0kufu3CCHN1DdkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

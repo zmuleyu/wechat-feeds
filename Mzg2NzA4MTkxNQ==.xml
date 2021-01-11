@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>帅地玩编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:41:03+08:00</updated>
+  <updated>2021-01-11T16:47:07+08:00</updated>
   <subtitle>本号专注于讲解数据结构与算法、计算机基础(如计算机网络+操作系统+数据库+Linux)等编程知识，期待你的关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>科学上手科研</title>
+    <updated>2021-01-11T14:51:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/MEzqx3wkXvQSwvg3LPdUhw</id>
+    <link href="https://mp.weixin.qq.com/s/MEzqx3wkXvQSwvg3LPdUhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>安全(流氓)软件群雄混战史</title>
+    <updated>2021-01-11T14:51:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/di4HqJDTNmMNpQ7p6ricDg</id>
+    <link href="https://mp.weixin.qq.com/s/di4HqJDTNmMNpQ7p6ricDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>无意中发现了一位清华大佬的代码模版</title>
     <updated>2021-01-10T20:35:48+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-31T17:39:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/jLvhkLzTiK3rvH7apLjO4g</id>
     <link href="https://mp.weixin.qq.com/s/jLvhkLzTiK3rvH7apLjO4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LeetCode 11：用递归和动规解决正则表达式匹配</title>
-    <updated>2020-12-28T13:56:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/xBideig5X7nnDbaLGdu6ow</id>
-    <link href="https://mp.weixin.qq.com/s/xBideig5X7nnDbaLGdu6ow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

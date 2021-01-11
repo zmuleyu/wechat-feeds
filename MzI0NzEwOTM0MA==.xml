@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷神众测 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:25:10+08:00</updated>
+  <updated>2021-01-11T16:52:38+08:00</updated>
   <subtitle>雷神众测，专注于渗透测试技术及全球最新网络攻击技术的分析。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>雷神众测漏洞周报2020.01.04-2020.01.10-4</title>
+    <updated>2021-01-11T14:58:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Nwurp95ZacfqxQGL_x5h9Q</id>
+    <link href="https://mp.weixin.qq.com/s/Nwurp95ZacfqxQGL_x5h9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>BypassAV改造</title>
     <updated>2021-01-09T21:03:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-01T00:23:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/zGZN1il9CiAwLLfBE-pTAg</id>
     <link href="https://mp.weixin.qq.com/s/zGZN1il9CiAwLLfBE-pTAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>编写Metasploit模块获取MobaXtrem密码</title>
-    <updated>2020-12-31T15:45:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/DJ8NtbV72bWTAHBP0k1Vmg</id>
-    <link href="https://mp.weixin.qq.com/s/DJ8NtbV72bWTAHBP0k1Vmg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

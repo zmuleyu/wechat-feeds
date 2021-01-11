@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T23:34:03+08:00</updated>
+  <updated>2021-01-11T16:42:01+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes Pod 突然就无法挂载 Ceph RBD 存储卷了。。</title>
+    <updated>2021-01-11T13:51:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/NhEuJtxEQ5t-Incrq8rqiA</id>
+    <link href="https://mp.weixin.qq.com/s/NhEuJtxEQ5t-Incrq8rqiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>iTerm 2 使用触发器和 expect 实现 ssh 自动登录</title>
     <updated>2021-01-09T19:02:23+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-27T14:12:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/QRpZoTI9xB2JGiVpuS9NpA</id>
     <link href="https://mp.weixin.qq.com/s/QRpZoTI9xB2JGiVpuS9NpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>百度为什么掉队了</title>
-    <updated>2020-12-26T12:39:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/YdHZGpa7Bg2SkXq20Xm6VQ</id>
-    <link href="https://mp.weixin.qq.com/s/YdHZGpa7Bg2SkXq20Xm6VQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
