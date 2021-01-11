@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码个蛋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:27:37+08:00</updated>
+  <updated>2021-01-12T02:15:45+08:00</updated>
   <subtitle>我是码仔，一个有趣、有料的程序猿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>独家爆料：拼多多私自删除用户照片</title>
+    <updated>2021-01-11T21:45:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/PXcv6EM4Rh3y0q2vYCS6Cg</id>
+    <link href="https://mp.weixin.qq.com/s/PXcv6EM4Rh3y0q2vYCS6Cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>教清华的程序员小姐姐，需要强到哪种地步？</title>
     <updated>2021-01-10T23:05:35+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-29T23:05:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/Gunhn1eDXmQ2gVz98u0fDw</id>
     <link href="https://mp.weixin.qq.com/s/Gunhn1eDXmQ2gVz98u0fDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 小公司卧薪尝胆三年，意外拿到美团offer</title>
-    <updated>2020-12-28T21:22:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/OXFiRVywIsdN1jXj7J8lBw</id>
-    <link href="https://mp.weixin.qq.com/s/OXFiRVywIsdN1jXj7J8lBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

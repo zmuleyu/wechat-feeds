@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉研究院 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:40:49+08:00</updated>
+  <updated>2021-01-12T02:26:14+08:00</updated>
   <subtitle>主要由来自于大学的研究生组成的团队，本平台从事机器学习与深度学习领域，主要在人脸检测与识别，多目标检测研究方向。本团队想通过计算机视觉战队平台打造属于自己的品牌，让更多相关领域的人了解本团队，结识更多相关领域的朋友，一起来学习，共同进步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深度学习框架落地 | 量化网络的重要性（附源码地址下载）</title>
+    <updated>2021-01-11T22:52:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/-grvZyU4J_z2gbqIOrncBg</id>
+    <link href="https://mp.weixin.qq.com/s/-grvZyU4J_z2gbqIOrncBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯微视模型 | 单模型史上最佳成绩，（BLENDer）登顶权威榜单VCR</title>
     <updated>2021-01-10T19:54:51+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-28T18:14:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/iXCLrkIs37TBJgdPmyKtTw</id>
     <link href="https://mp.weixin.qq.com/s/iXCLrkIs37TBJgdPmyKtTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>YOLOv4详细分析 | 细数当前最佳检测框架小细节（附论文及源码下载）</title>
-    <updated>2020-12-27T19:35:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/X2r5q6flLeAiDbyv6UNmcA</id>
-    <link href="https://mp.weixin.qq.com/s/X2r5q6flLeAiDbyv6UNmcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全自动实时移动端AI框架 | YOLO-v4目标检测实时手机端实现</title>
-    <updated>2020-12-27T19:35:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/d59lfSrYO2PF2BNLq3ahgA</id>
-    <link href="https://mp.weixin.qq.com/s/d59lfSrYO2PF2BNLq3ahgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
