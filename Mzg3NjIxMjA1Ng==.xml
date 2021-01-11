@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>日拱一兵 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:38:35+08:00</updated>
+  <updated>2021-01-11T11:44:26+08:00</updated>
   <subtitle>像读侦探小说一样趣读Java技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不要再用main方法测试代码性能了，内置的不香吗？</title>
+    <updated>2021-01-10T20:20:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/3xeQTiMsEyC8IIDCZtdCjQ</id>
+    <link href="https://mp.weixin.qq.com/s/3xeQTiMsEyC8IIDCZtdCjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何安全传输存储用户密码？</title>
+    <updated>2021-01-10T20:20:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/2aj2OQRpwBHZ_u7utTEwYg</id>
+    <link href="https://mp.weixin.qq.com/s/2aj2OQRpwBHZ_u7utTEwYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>10分钟搞定让你困惑的 Jenkins 环境变量</title>
     <updated>2021-01-06T21:28:50+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-12-14T21:29:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/ee0HEngSPygCmp_0-cHm7g</id>
     <link href="https://mp.weixin.qq.com/s/ee0HEngSPygCmp_0-cHm7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>精神多了，当Swagger遇上YApi，瞬间高大上了！</title>
-    <updated>2020-12-09T23:04:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/c7nHugNghsQ3XSFa3D0RGQ</id>
-    <link href="https://mp.weixin.qq.com/s/c7nHugNghsQ3XSFa3D0RGQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

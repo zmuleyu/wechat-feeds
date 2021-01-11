@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王Plus | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:47:16+08:00</updated>
+  <updated>2021-01-11T11:49:54+08:00</updated>
   <subtitle>一个二十年的老全栈的技术碎碎念</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
+    <updated>2021-01-10T19:04:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/mwB3C3BZKznUMZ0pEphdYA</id>
+    <link href="https://mp.weixin.qq.com/s/mwB3C3BZKznUMZ0pEphdYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.net 5.0 中的 JsonConsole</title>
+    <updated>2021-01-10T19:04:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/CWBmY1GNCxT8srBBlymLDQ</id>
+    <link href="https://mp.weixin.qq.com/s/CWBmY1GNCxT8srBBlymLDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对CORS OPTIONS预检请求的一些思考</title>
+    <updated>2021-01-10T19:04:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/V67ws1qJKiCBdY8giZ7pmA</id>
+    <link href="https://mp.weixin.qq.com/s/V67ws1qJKiCBdY8giZ7pmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET Core 使用Topshelf方式创建Windows服务</title>
     <updated>2021-01-07T21:44:25+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-24T21:06:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/SOvwtk6i8EIP0TsWjS5GHg</id>
     <link href="https://mp.weixin.qq.com/s/SOvwtk6i8EIP0TsWjS5GHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kafka监控必备——Kafka-Eagle 2.0.2正式发布</title>
-    <updated>2020-12-24T21:06:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/NZ2bliXHI7J_NBXQfWA1Qw</id>
-    <link href="https://mp.weixin.qq.com/s/NZ2bliXHI7J_NBXQfWA1Qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>它听键盘声就知道你敲的是什么</title>
-    <updated>2020-12-24T21:06:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/Fs-iUCW74wN4m5AHAmCpqA</id>
-    <link href="https://mp.weixin.qq.com/s/Fs-iUCW74wN4m5AHAmCpqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dotnet Core多版本API共存的优雅实现</title>
-    <updated>2020-12-22T22:05:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/rQfQRZ8njS4th-gjGnsleA</id>
-    <link href="https://mp.weixin.qq.com/s/rQfQRZ8njS4th-gjGnsleA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

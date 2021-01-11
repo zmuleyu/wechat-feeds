@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T14:04:04+08:00</updated>
+  <updated>2021-01-11T12:04:01+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么大多数开发在税后两万之后提高薪资就很困难了？</title>
+    <updated>2021-01-11T10:58:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/44yizjF7S7pUIA4b05iK9w</id>
+    <link href="https://mp.weixin.qq.com/s/44yizjF7S7pUIA4b05iK9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>爱奇艺MySQL高可用方案概述</title>
+    <updated>2021-01-11T10:58:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/8mT5QBjCBXiqX1n3Ikkgrw</id>
+    <link href="https://mp.weixin.qq.com/s/8mT5QBjCBXiqX1n3Ikkgrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>做引擎开发，更需要深入 C++ 内存管理</title>
+    <updated>2021-01-11T10:58:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/wMvygz1lpxysEeAuBe-HCA</id>
+    <link href="https://mp.weixin.qq.com/s/wMvygz1lpxysEeAuBe-HCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>51 张图助你彻底掌握 HTTP 协议</title>
+    <updated>2021-01-11T10:58:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/aTiXB67cfezf1hT0soZLyQ</id>
+    <link href="https://mp.weixin.qq.com/s/aTiXB67cfezf1hT0soZLyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动《算法中文手册》火了，完整版 PDF 开放下载！</title>
     <updated>2021-01-10T10:55:52+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-06T10:14:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/xCMbbGY0cqGsvKSL-RVoPg</id>
     <link href="https://mp.weixin.qq.com/s/xCMbbGY0cqGsvKSL-RVoPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你知道du和df的统计结果为什么不一样</title>
-    <updated>2021-01-06T10:14:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ALyVaHfEfgPsT-N1KCGS3w</id>
-    <link href="https://mp.weixin.qq.com/s/ALyVaHfEfgPsT-N1KCGS3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我曾拼命逃离996</title>
-    <updated>2021-01-05T09:16:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/UF0Jfhq0FqhdhsjRwaMHjg</id>
-    <link href="https://mp.weixin.qq.com/s/UF0Jfhq0FqhdhsjRwaMHjg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：缓存一致性问题怎么解决？</title>
-    <updated>2021-01-04T11:20:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/QgFbw5thvip2txUJZNQqCA</id>
-    <link href="https://mp.weixin.qq.com/s/QgFbw5thvip2txUJZNQqCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈 Java 并发下的乐观锁</title>
-    <updated>2021-01-04T11:20:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/gbCshU5eEn4Gefduk1zdCQ</id>
-    <link href="https://mp.weixin.qq.com/s/gbCshU5eEn4Gefduk1zdCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

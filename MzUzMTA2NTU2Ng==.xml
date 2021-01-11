@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:40:21+08:00</updated>
+  <updated>2021-01-11T12:04:33+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试官再问高并发，求你看看这篇吧！</title>
+    <updated>2021-01-10T19:36:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JFzuZnmk1xf8OcMWVkPkZg</id>
+    <link href="https://mp.weixin.qq.com/s/JFzuZnmk1xf8OcMWVkPkZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis 如何存储上亿级别的用户状态？</title>
+    <updated>2021-01-10T19:36:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/l3sidMQ1VIY9Axzk_PogXw</id>
+    <link href="https://mp.weixin.qq.com/s/l3sidMQ1VIY9Axzk_PogXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 集成 JUnit5，更优雅单元测试！</title>
+    <updated>2021-01-10T19:36:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xY7sgp9gJQ1Fcl-ArmRHRg</id>
+    <link href="https://mp.weixin.qq.com/s/xY7sgp9gJQ1Fcl-ArmRHRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Cloud 终于大改版？为什么要用日期来做版本号？</title>
     <updated>2021-01-10T01:49:22+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T00:29:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/oBuiIyTkLmSPMu6scN4-GQ</id>
     <link href="https://mp.weixin.qq.com/s/oBuiIyTkLmSPMu6scN4-GQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jar 包依赖冲突排查思路和解决方法</title>
-    <updated>2021-01-05T00:29:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Llps6z99cpPMN2ekeQljrA</id>
-    <link href="https://mp.weixin.qq.com/s/Llps6z99cpPMN2ekeQljrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动扩招一万人！Java程序员真香</title>
-    <updated>2021-01-03T20:40:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/FfkoiMqevF60PCHC3no6gg</id>
-    <link href="https://mp.weixin.qq.com/s/FfkoiMqevF60PCHC3no6gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CTO 写的代码，真是绝了！</title>
-    <updated>2021-01-03T20:40:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/GGrsmt2_lBxLNH0aFtCLwg</id>
-    <link href="https://mp.weixin.qq.com/s/GGrsmt2_lBxLNH0aFtCLwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

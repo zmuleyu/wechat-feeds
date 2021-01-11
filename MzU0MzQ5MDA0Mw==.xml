@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T23:39:37+08:00</updated>
+  <updated>2021-01-11T12:07:04+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我终于还是放弃了SparkStreaming，没有人能向这个神器Say No！</title>
+    <updated>2021-01-10T15:23:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/W_DhzvKGwukdfIr1k2ZgGw</id>
+    <link href="https://mp.weixin.qq.com/s/W_DhzvKGwukdfIr1k2ZgGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 解决跨域问题的 3 种方案</title>
+    <updated>2021-01-10T15:23:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/zv0Ch_8w0yJ8WcFq_XaZXg</id>
+    <link href="https://mp.weixin.qq.com/s/zv0Ch_8w0yJ8WcFq_XaZXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JAVA字节码指令iload_&lt;n&gt;为什么只有0到3？</title>
     <updated>2021-01-10T20:38:15+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-01T08:37:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/qXGigbIJEcRjiOLL7jcdOQ</id>
     <link href="https://mp.weixin.qq.com/s/qXGigbIJEcRjiOLL7jcdOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>好文推荐 | 分布式锁用Redis好，还是Zookeeper好？</title>
-    <updated>2020-12-31T01:44:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/CXKwk0e0ZpiKk6WF7Qq00w</id>
-    <link href="https://mp.weixin.qq.com/s/CXKwk0e0ZpiKk6WF7Qq00w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

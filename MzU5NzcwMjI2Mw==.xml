@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>beetlex | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:54:13+08:00</updated>
+  <updated>2021-01-11T11:56:39+08:00</updated>
   <subtitle>专注于开源通讯框架开发</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>小试牛刀ElasticSearch大数据聚合统计</title>
+    <updated>2021-01-11T09:34:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/BoNTKOM9zev5Adsp4MzviA</id>
+    <link href="https://mp.weixin.qq.com/s/BoNTKOM9zev5Adsp4MzviA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用BeetleX.ESDoc构建文档搜索功能</title>
     <updated>2021-01-08T10:19:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T10:21:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/KFAY2oZXWcIjhqXafNW-Tw</id>
     <link href="https://mp.weixin.qq.com/s/KFAY2oZXWcIjhqXafNW-Tw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Beetlex之tcp/tls服务压测工具</title>
-    <updated>2020-12-21T10:33:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/RDWUweUZDygMoLpWFxuzaA</id>
-    <link href="https://mp.weixin.qq.com/s/RDWUweUZDygMoLpWFxuzaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

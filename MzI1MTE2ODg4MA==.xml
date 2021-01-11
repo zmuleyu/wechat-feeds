@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大邓和他的Python | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T11:48:42+08:00</updated>
+  <updated>2021-01-11T11:46:17+08:00</updated>
   <subtitle>管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求原创文章末尾附有实验代码和数据，方便大家看后动手练习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>年轻人，搞不懂深度学习框架，你就“耗子尾汁”吧~</title>
+    <updated>2021-01-10T17:31:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/IhDI1sZcwAT2i4gvgtynxA</id>
+    <link href="https://mp.weixin.qq.com/s/IhDI1sZcwAT2i4gvgtynxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不吹不黑，jupyter lab 3.0客观使用体验</title>
+    <updated>2021-01-10T17:31:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/oZIQ_rPJ7BALUWnu-wPyJA</id>
+    <link href="https://mp.weixin.qq.com/s/oZIQ_rPJ7BALUWnu-wPyJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python正则表达式，这一篇就够了！</title>
     <updated>2021-01-10T10:16:03+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-30T16:03:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/b3zvUpiE833Gl-2jqilvgQ</id>
     <link href="https://mp.weixin.qq.com/s/b3zvUpiE833Gl-2jqilvgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>收藏 | 学习Python的11个顶级Github存储库</title>
-    <updated>2020-12-30T16:00:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/_G1Citj1WUqGU4aDLPUT5w</id>
-    <link href="https://mp.weixin.qq.com/s/_G1Citj1WUqGU4aDLPUT5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

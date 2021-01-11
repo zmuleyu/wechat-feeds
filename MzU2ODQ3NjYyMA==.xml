@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据技术与数仓 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:42:37+08:00</updated>
+  <updated>2021-01-11T11:49:44+08:00</updated>
   <subtitle>专注分享数据仓库与大数据技术(Flink/Hadoop/Spark/Hive)相关内容。关注我可以免费领取大数据书籍与视频。我的博客:https://jiamaoxiang.top/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
+    <updated>2021-01-10T20:48:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/CXxKVB8c8qH4Ie6ctWgffw</id>
+    <link href="https://mp.weixin.qq.com/s/CXxKVB8c8qH4Ie6ctWgffw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最佳实践——如何使用 Flink ParameterTool 读取配置？</title>
+    <updated>2021-01-10T20:48:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/PmEsNoRA25bpIVCP3aP2og</id>
+    <link href="https://mp.weixin.qq.com/s/PmEsNoRA25bpIVCP3aP2og" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Flink on Hive构建流批一体数仓</title>
     <updated>2021-01-05T21:05:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/YI_7vwbS0vb-O_EFOBi38A</id>
     <link href="https://mp.weixin.qq.com/s/YI_7vwbS0vb-O_EFOBi38A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>天猫双十一基于Flink的流批一体方案解读（建议收藏）</title>
-    <updated>2021-01-03T20:53:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/iuLTBoYV2So12TiC6XaNEA</id>
-    <link href="https://mp.weixin.qq.com/s/iuLTBoYV2So12TiC6XaNEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -103,20 +110,6 @@
     <updated>2020-12-01T23:41:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-01:/s/RR4yTc23vlQ2NBLCGD0oow</id>
     <link href="https://mp.weixin.qq.com/s/RR4yTc23vlQ2NBLCGD0oow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数仓|几种SQL隐藏的错误，你遇到过吗？</title>
-    <updated>2020-11-26T22:07:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/JwRJ4fkPqNqPoV4JlOY1LA</id>
-    <link href="https://mp.weixin.qq.com/s/JwRJ4fkPqNqPoV4JlOY1LA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>往期干货一览</title>
-    <updated>2020-11-26T22:07:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/BNYKeQA5Nv7SLYVz_AZr7g</id>
-    <link href="https://mp.weixin.qq.com/s/BNYKeQA5Nv7SLYVz_AZr7g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据私房菜 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:41:53+08:00</updated>
+  <updated>2021-01-11T11:43:39+08:00</updated>
   <subtitle>大数据相关技术文章不定期分享，希望各位看官能有所收获！！！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>第一门编程语言为什么选择Java？</title>
+    <updated>2021-01-10T22:03:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/I1yUnAnRRlAOJl80_wpL5g</id>
+    <link href="https://mp.weixin.qq.com/s/I1yUnAnRRlAOJl80_wpL5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官Kylin夺命十三问</title>
     <updated>2021-01-07T22:21:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T23:19:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/iY2q-JdHC30acYPHL01Emw</id>
     <link href="https://mp.weixin.qq.com/s/iY2q-JdHC30acYPHL01Emw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：说一下数仓宽表的优缺点吧</title>
-    <updated>2020-12-27T21:39:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/rYdL-V5NP746uRENHMalSg</id>
-    <link href="https://mp.weixin.qq.com/s/rYdL-V5NP746uRENHMalSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

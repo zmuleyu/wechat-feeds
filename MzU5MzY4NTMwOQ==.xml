@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构摆渡人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:33:19+08:00</updated>
+  <updated>2021-01-11T11:43:39+08:00</updated>
   <subtitle>架构摆渡人，助你通往架构师方向的领路人。本号会定期分享架构相关的文章，专注于架构方向，关注我们，下一个架构师就是你。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务架构及其最重要的10个设计模式</title>
+    <updated>2021-01-10T09:58:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/5u-MVHHDnuh3CcjqEzJZUQ</id>
+    <link href="https://mp.weixin.qq.com/s/5u-MVHHDnuh3CcjqEzJZUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>8场5胜，微服务 VS 单体架构</title>
     <updated>2021-01-05T18:21:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-15T15:43:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-15:/s/kBAzzgi55Kktvmn2aZl4mQ</id>
     <link href="https://mp.weixin.qq.com/s/kBAzzgi55Kktvmn2aZl4mQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式文件系统的设计到底有多难？听我娓娓道来</title>
-    <updated>2020-11-11T22:20:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/-RpMo3KiXUdmzdGpgP5ZnQ</id>
-    <link href="https://mp.weixin.qq.com/s/-RpMo3KiXUdmzdGpgP5ZnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T11:41:25+08:00</updated>
+  <updated>2021-01-11T11:42:00+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Blazor VS 传统Web应用程序</title>
+    <updated>2021-01-11T08:40:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Up1hv6t1X4QpPUvCnpdAQA</id>
+    <link href="https://mp.weixin.qq.com/s/Up1hv6t1X4QpPUvCnpdAQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文说通C#中的异步迭代器</title>
     <updated>2021-01-09T09:51:31+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-03T08:31:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/G42rsiAPxioltAencOdDvw</id>
     <link href="https://mp.weixin.qq.com/s/G42rsiAPxioltAencOdDvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让WPF的初始化启动窗体动起来</title>
-    <updated>2020-11-30T09:01:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/AUP8tZF0CLtv-qq7oTjrkw</id>
-    <link href="https://mp.weixin.qq.com/s/AUP8tZF0CLtv-qq7oTjrkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:54:26+08:00</updated>
+  <updated>2021-01-11T11:57:23+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>搞波福利：可旋转的2K显示器，免费包邮送到家</title>
+    <updated>2021-01-10T21:05:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/FS3TYSZpXEGrERcwn-MPqw</id>
+    <link href="https://mp.weixin.qq.com/s/FS3TYSZpXEGrERcwn-MPqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>复盘线上的一次OOM和性能优化！</title>
+    <updated>2021-01-10T21:05:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/q9774J4IqzUZHgR-ZisWTw</id>
+    <link href="https://mp.weixin.qq.com/s/q9774J4IqzUZHgR-ZisWTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>不要再用main方法测试代码性能了，用这款JDK自带工具</title>
     <updated>2021-01-07T23:18:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/S1gWCAN5QmUuuPks6-8TAg</id>
     <link href="https://mp.weixin.qq.com/s/S1gWCAN5QmUuuPks6-8TAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java三年还不懂它，离被优化就不远了...</title>
-    <updated>2021-01-06T20:46:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/LkfcKUKoyTuLO7VYRY_J9A</id>
-    <link href="https://mp.weixin.qq.com/s/LkfcKUKoyTuLO7VYRY_J9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T23:17:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/S9R_sZ246iaTyNLG-So9GQ</id>
     <link href="https://mp.weixin.qq.com/s/S9R_sZ246iaTyNLG-So9GQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>编程中的21个坑，你占几个？</title>
-    <updated>2020-12-27T22:32:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/doewjoaPNMQVJLFmnarhvQ</id>
-    <link href="https://mp.weixin.qq.com/s/doewjoaPNMQVJLFmnarhvQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

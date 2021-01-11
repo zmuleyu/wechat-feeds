@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP饭米粒 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:53:12+08:00</updated>
+  <updated>2021-01-11T12:00:52+08:00</updated>
   <subtitle>一群靠谱的人，愿为PHPer带来一些值得细细品味的精神食粮！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>几幅图，拿下  HTTPS</title>
+    <updated>2021-01-10T11:34:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/OyePr46tZWoZfsJIXsAirQ</id>
+    <link href="https://mp.weixin.qq.com/s/OyePr46tZWoZfsJIXsAirQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Swoole v4.6.0 版本发布，支持原生 curl 协程客户端</title>
     <updated>2021-01-07T11:20:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T10:02:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/vqZZpwk4CqejQcjBk0rDuQ</id>
     <link href="https://mp.weixin.qq.com/s/vqZZpwk4CqejQcjBk0rDuQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>read文件一个字节实际会发生多大的磁盘IO？</title>
-    <updated>2020-12-18T14:02:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/hcXXyZ5cuLVFq4Y08Ha7rw</id>
-    <link href="https://mp.weixin.qq.com/s/hcXXyZ5cuLVFq4Y08Ha7rw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T11:45:31+08:00</updated>
+  <updated>2021-01-11T11:42:55+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Mall电商实战项目专属学习路线，主流技术一网打尽！</title>
+    <updated>2021-01-10T14:45:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/msD98uP8_B_Mb7L-nKbg6w</id>
+    <link href="https://mp.weixin.qq.com/s/msD98uP8_B_Mb7L-nKbg6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java项目权威排名：Nacos未上榜，Gradle排名第二，Spring Boot排名第五</title>
     <updated>2021-01-10T10:08:20+08:00</updated>
@@ -64,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>抗住千万级并发量原来并没有那么难！</title>
-    <updated>2021-01-04T21:04:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ipfeV3mQHoJYow2s_vgAsg</id>
-    <link href="https://mp.weixin.qq.com/s/ipfeV3mQHoJYow2s_vgAsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>定时任务的实现原理，看完就能手撸一个！</title>
     <updated>2021-01-04T21:04:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ucEFKf-5T-Fsfr27oFHTbQ</id>
@@ -103,20 +103,6 @@
     <updated>2020-12-29T20:09:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/l-O8ze97laP9ltc2PGtQNQ</id>
     <link href="https://mp.weixin.qq.com/s/l-O8ze97laP9ltc2PGtQNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小宇宙爆发！Spring Boot 新特性：节省95%内存占用！</title>
-    <updated>2020-12-28T20:41:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/uRa9Y-JMdARUKG5XuimYWQ</id>
-    <link href="https://mp.weixin.qq.com/s/uRa9Y-JMdARUKG5XuimYWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>文件写入的6种方法，这种方法性能最好！</title>
-    <updated>2020-12-28T20:41:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/o7qxsBloQD3zwI88Ey5hSQ</id>
-    <link href="https://mp.weixin.qq.com/s/o7qxsBloQD3zwI88Ey5hSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

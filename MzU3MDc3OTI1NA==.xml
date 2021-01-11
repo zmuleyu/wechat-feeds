@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:05:51+08:00</updated>
+  <updated>2021-01-11T12:02:20+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>是时候跟Docker说再见了</title>
+    <updated>2021-01-11T07:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/HCAt7rUBwnyuSvFRUrVddA</id>
+    <link href="https://mp.weixin.qq.com/s/HCAt7rUBwnyuSvFRUrVddA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>多线程编程的理论和现实（你没看过的视频版）</title>
     <updated>2021-01-10T08:10:01+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-02T08:10:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/FrweFYxSneaKlvMETfd-6Q</id>
     <link href="https://mp.weixin.qq.com/s/FrweFYxSneaKlvMETfd-6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020大学生专业薪资排名一览</title>
-    <updated>2021-01-01T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/qXzHxOITCF84WSWjtWM6JQ</id>
-    <link href="https://mp.weixin.qq.com/s/qXzHxOITCF84WSWjtWM6JQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

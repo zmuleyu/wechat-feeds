@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T11:37:54+08:00</updated>
+  <updated>2021-01-11T11:41:35+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>抖音品质建设 - iOS 安装包大小优化实践篇</title>
+    <updated>2021-01-10T20:07:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/LSP8kC09zjb-sDjgZaikbg</id>
+    <link href="https://mp.weixin.qq.com/s/LSP8kC09zjb-sDjgZaikbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何优雅地重试</title>
     <updated>2021-01-04T20:51:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T18:18:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/t7JgRowgFUf5WH0JYAftVQ</id>
     <link href="https://mp.weixin.qq.com/s/t7JgRowgFUf5WH0JYAftVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于有限状态机与消息队列的三方支付系统补单实践</title>
-    <updated>2020-12-07T09:28:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/9Z-N3cfWu7oMVJsTDkbb-Q</id>
-    <link href="https://mp.weixin.qq.com/s/9Z-N3cfWu7oMVJsTDkbb-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

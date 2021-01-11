@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术译站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:37:21+08:00</updated>
+  <updated>2021-01-11T11:43:44+08:00</updated>
   <subtitle>一个技术“译”民的『技术译站』，专注于 IT 技术的翻译和分享。没有标题党，只有技术干货！不骄不躁，砥砺前行。希望您能喜欢 ⁽˙³˙⁾◟(๑•́ ₃ •̀๑)◞⁽˙³˙⁾</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C# 中的 null 包容运算符 “!” —— 概念、由来、用法和注意事项</title>
+    <updated>2021-01-11T08:46:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/MRzm4cvFjOp88WUEhtP29g</id>
+    <link href="https://mp.weixin.qq.com/s/MRzm4cvFjOp88WUEhtP29g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何禁用控制台窗口的关闭按钮？</title>
     <updated>2021-01-05T02:02:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T00:22:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/cM0q9yojoVpt8uK0JDLLnA</id>
     <link href="https://mp.weixin.qq.com/s/cM0q9yojoVpt8uK0JDLLnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 中的本地函数</title>
-    <updated>2020-11-23T03:20:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-23:/s/J5A-cVVDvtD8rhEYHHvfuQ</id>
-    <link href="https://mp.weixin.qq.com/s/J5A-cVVDvtD8rhEYHHvfuQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

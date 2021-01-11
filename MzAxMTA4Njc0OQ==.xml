@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:04:57+08:00</updated>
+  <updated>2021-01-11T12:01:39+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>惊呆了：我用这个 Go 框架一周实现了一个中台系统</title>
+    <updated>2021-01-11T00:24:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/LRyn60vJy_m14-U6nkJcXw</id>
+    <link href="https://mp.weixin.qq.com/s/LRyn60vJy_m14-U6nkJcXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>腾讯在线教育招 Go 了</title>
+    <updated>2021-01-11T00:24:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/wgUd0uOnbH9FRSnE9ykN1g</id>
+    <link href="https://mp.weixin.qq.com/s/wgUd0uOnbH9FRSnE9ykN1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go - 常用签名算法的基准测试</title>
+    <updated>2021-01-11T00:24:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/HMc407XEBYyVP7B9Dj83IA</id>
+    <link href="https://mp.weixin.qq.com/s/HMc407XEBYyVP7B9Dj83IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go语言爱好者周刊：第 77 期 — 这道题目测答对的人不多</title>
     <updated>2021-01-10T00:55:49+08:00</updated>
@@ -47,13 +68,6 @@
     <updated>2021-01-07T22:50:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/i2sPVjhR4Fl3xGif2VyMvw</id>
     <link href="https://mp.weixin.qq.com/s/i2sPVjhR4Fl3xGif2VyMvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享一套仿英雄联盟大型多人联机实时对战游戏源码（包含完整服务器和客户端源码）</title>
-    <updated>2021-01-07T22:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/HCkOlh7judherVQL5nFqmA</id>
-    <link href="https://mp.weixin.qq.com/s/HCkOlh7judherVQL5nFqmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2021-01-04T23:50:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/BITpMB8KrUsQaFST299YpA</id>
     <link href="https://mp.weixin.qq.com/s/BITpMB8KrUsQaFST299YpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 经典入门系列 36：写入文件</title>
-    <updated>2021-01-04T23:50:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Ohk--X3tbPIyJKBR8mgDhw</id>
-    <link href="https://mp.weixin.qq.com/s/Ohk--X3tbPIyJKBR8mgDhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 语言架构师面试有哪些要求？本文告诉你</title>
-    <updated>2021-01-04T16:13:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/id8viZK5cOQ7dL_EODOovw</id>
-    <link href="https://mp.weixin.qq.com/s/id8viZK5cOQ7dL_EODOovw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

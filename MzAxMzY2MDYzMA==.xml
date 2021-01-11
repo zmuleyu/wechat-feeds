@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>瓜农老梁 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T11:43:44+08:00</updated>
+  <updated>2021-01-11T11:41:09+08:00</updated>
   <subtitle>啃码、撸码、笔记</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分库分表：TIDB，你是来抢生意的？不讲码德？</title>
+    <updated>2021-01-10T12:53:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/D5o2qlg0QZRc8k6AjQ6FdA</id>
+    <link href="https://mp.weixin.qq.com/s/D5o2qlg0QZRc8k6AjQ6FdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FA1# 微服务流控防护场景与应对措施</title>
     <updated>2021-01-10T10:20:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T23:23:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/WSJ7c5qkOpmW4R0RlNVM7g</id>
     <link href="https://mp.weixin.qq.com/s/WSJ7c5qkOpmW4R0RlNVM7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sentinel热点参数规则说明</title>
-    <updated>2020-12-08T23:52:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/sHsZX3LhDRCy8w8SWbz6Mw</id>
-    <link href="https://mp.weixin.qq.com/s/sHsZX3LhDRCy8w8SWbz6Mw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

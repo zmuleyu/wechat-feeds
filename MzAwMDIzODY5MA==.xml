@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>关山不难越 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:36:39+08:00</updated>
+  <updated>2021-01-11T11:38:07+08:00</updated>
   <subtitle>Classical is something not fade, but grow more precious with time pass by. So is dream.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>设计模式大冒险第五关：状态模式，if/else的“终结者”</title>
+    <updated>2021-01-10T14:58:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/dgw5aOFsb8fJvbECRrjm9w</id>
+    <link href="https://mp.weixin.qq.com/s/dgw5aOFsb8fJvbECRrjm9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>设计模式大冒险第四关：单例模式，如何成为你的“唯一”</title>
     <updated>2020-12-08T22:15:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-27T22:01:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-27:/s/ezul6Dg4f6_WLHXAkEgd6g</id>
     <link href="https://mp.weixin.qq.com/s/ezul6Dg4f6_WLHXAkEgd6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>正则表达式量词匹配方式的讲解（上篇）</title>
-    <updated>2020-07-12T23:51:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-12:/s/AxTuXvKINhX6qLzj6Q9UJw</id>
-    <link href="https://mp.weixin.qq.com/s/AxTuXvKINhX6qLzj6Q9UJw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国政府网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T02:29:15+08:00</updated>
+  <updated>2021-01-11T12:07:32+08:00</updated>
   <subtitle>中国政府网由国务院办公厅主办，第一时间权威发布国务院重大决策部署和重要政策文件、国务院领导同志重要会议活动等政务信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>截至1月10日24时新型冠状病毒肺炎疫情最新情况</title>
+    <updated>2021-01-11T08:41:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/zCV5xxDt8plUoAhAl-JsDA</id>
+    <link href="https://mp.weixin.qq.com/s/zCV5xxDt8plUoAhAl-JsDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>河北新增40例本地确诊病例、继续暂停中英间定期客运航线航班……最新消息！</title>
     <updated>2021-01-10T21:53:21+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-08T23:36:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/aGvK4pCD0Ei5TcuR-ufIjw</id>
     <link href="https://mp.weixin.qq.com/s/aGvK4pCD0Ei5TcuR-ufIjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>李克强主持召开国务院常务会议 部署进一步做好保障能源安全稳定供应确保群众温暖过冬有关工作等</title>
-    <updated>2021-01-08T20:42:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/BWUId9ef1_SfX9ZEcBbhSA</id>
-    <link href="https://mp.weixin.qq.com/s/BWUId9ef1_SfX9ZEcBbhSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

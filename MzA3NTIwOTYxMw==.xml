@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>博客园 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T23:33:01+08:00</updated>
+  <updated>2021-01-11T11:59:22+08:00</updated>
   <subtitle>知识改变世界： 我们不求多，只求精，每周一、三、五定期推送3篇园子内精华文章；文章类型不仅涉及精简的技术，丰富的经验，还有程序猿的生活感悟，愿在紧张工作之余，给您带来一定的启发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从技术谈到管理，把系统优化的技术用到企业管理</title>
+    <updated>2021-01-10T22:00:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/7wCSZtqyc6wgR0ZitydmWA</id>
+    <link href="https://mp.weixin.qq.com/s/7wCSZtqyc6wgR0ZitydmWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>“文青”虾米之死</title>
+    <updated>2021-01-10T22:00:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/lBairHVhGHRjGJLodYCabw</id>
+    <link href="https://mp.weixin.qq.com/s/lBairHVhGHRjGJLodYCabw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>神奇的 SQL 之性能优化，让 SQL 飞起来</title>
     <updated>2021-01-08T22:31:22+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-27T22:43:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/fn8igvhxBnvtEfRJGME9_Q</id>
     <link href="https://mp.weixin.qq.com/s/fn8igvhxBnvtEfRJGME9_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>广告系统架构解密</title>
-    <updated>2020-12-26T22:17:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/1KAB2LPeF2TBX6uWctGbZw</id>
-    <link href="https://mp.weixin.qq.com/s/1KAB2LPeF2TBX6uWctGbZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里“重拾”口碑？</title>
-    <updated>2020-12-26T22:17:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/WPnqY8uvMp6xdCUN_wiDbw</id>
-    <link href="https://mp.weixin.qq.com/s/WPnqY8uvMp6xdCUN_wiDbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

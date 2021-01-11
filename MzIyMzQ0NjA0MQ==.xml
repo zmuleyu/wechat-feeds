@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApacheHudi | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:44:54+08:00</updated>
+  <updated>2021-01-11T11:54:51+08:00</updated>
   <subtitle>Apache Hudi是一个支持插入、更新、删除的增量数据湖处理框架；可助力构建高效的企业级数据湖。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>重磅！华为云湖仓一体FusionInsight集成Apache Hudi</title>
+    <updated>2021-01-10T21:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/XNcyPHPsqAhEFWEuxtafCg</id>
+    <link href="https://mp.weixin.qq.com/s/XNcyPHPsqAhEFWEuxtafCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里云数据湖团队招人啦</title>
+    <updated>2021-01-10T21:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/iMGRZ6-vPclapEW3uB0x0w</id>
+    <link href="https://mp.weixin.qq.com/s/iMGRZ6-vPclapEW3uB0x0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据湖风暴来袭！阿里云EMR重磅发布Apache Hudi</title>
     <updated>2021-01-05T23:32:11+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2020-12-06T20:06:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/_i5itGBtGEM9_2t-SqQhxg</id>
     <link href="https://mp.weixin.qq.com/s/_i5itGBtGEM9_2t-SqQhxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享| B站基于Apache Hudi+Flink的万亿级数据湖实践</title>
-    <updated>2020-12-06T18:38:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/FhpTWF3jAFXQdHT_3sdEBA</id>
-    <link href="https://mp.weixin.qq.com/s/FhpTWF3jAFXQdHT_3sdEBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

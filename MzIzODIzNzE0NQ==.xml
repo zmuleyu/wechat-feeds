@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之美 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:38:57+08:00</updated>
+  <updated>2021-01-11T11:40:59+08:00</updated>
   <subtitle>设计满足业务的系统架构、大数据中台、算法平台，并非易事。在这里分享一线大厂线上真实案例的思考和实践，让我们在互联网架构设计、大数据研发、机器学习实践之路上共同成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于微服务架构被问最多的问题，今天一次性说清！</title>
+    <updated>2021-01-10T23:40:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/H8zCNWJ6cInnmu6q6Jx7lw</id>
+    <link href="https://mp.weixin.qq.com/s/H8zCNWJ6cInnmu6q6Jx7lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5分钟聊架构，聊透架构设计背后的道理与本质！</title>
     <updated>2021-01-07T21:10:46+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T19:56:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/-Vi-LHxkpziPt3T7ZD25UA</id>
     <link href="https://mp.weixin.qq.com/s/-Vi-LHxkpziPt3T7ZD25UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文彻底揭秘万亿级企业三高「微服务」架构设计！</title>
-    <updated>2020-12-23T20:17:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/FNyGvAoZd9tnXrJJqKFn7g</id>
-    <link href="https://mp.weixin.qq.com/s/FNyGvAoZd9tnXrJJqKFn7g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

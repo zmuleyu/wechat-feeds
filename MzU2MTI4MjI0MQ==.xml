@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T11:54:09+08:00</updated>
+  <updated>2021-01-11T11:51:24+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>公司项目并发量都特小，自己如何实际接触高并发项目？</title>
+    <updated>2021-01-10T21:45:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/7ivk_N-PMEoH4WsGGqa9iQ</id>
+    <link href="https://mp.weixin.qq.com/s/7ivk_N-PMEoH4WsGGqa9iQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何保持json序列化的顺序性？</title>
+    <updated>2021-01-10T21:45:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JYwcubwNZMTJ3owMILu8jQ</id>
+    <link href="https://mp.weixin.qq.com/s/JYwcubwNZMTJ3owMILu8jQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java中的深浅拷贝问题你清楚吗？</title>
+    <updated>2021-01-10T21:45:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/GgB1LYFH01DGspX7g26mUw</id>
+    <link href="https://mp.weixin.qq.com/s/GgB1LYFH01DGspX7g26mUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>沉迷于敲代码？撸一个 IDEA 防沉迷插件</title>
     <updated>2021-01-09T22:43:18+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-04T18:12:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZuOt585NqdzooQuVbKRsww</id>
     <link href="https://mp.weixin.qq.com/s/ZuOt585NqdzooQuVbKRsww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java仿百度网盘</title>
-    <updated>2021-01-04T18:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/tNoqFgmYPTQwFsCrLMtkeQ</id>
-    <link href="https://mp.weixin.qq.com/s/tNoqFgmYPTQwFsCrLMtkeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot整合SpringSecurity实现JWT认证</title>
-    <updated>2021-01-03T19:11:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/NS4Z1513xkQk8xkGF1ig9A</id>
-    <link href="https://mp.weixin.qq.com/s/NS4Z1513xkQk8xkGF1ig9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Jenkins 持续集成Hexo博客</title>
-    <updated>2021-01-03T19:11:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/H0tsVftpci0gQ9KLge6v6w</id>
-    <link href="https://mp.weixin.qq.com/s/H0tsVftpci0gQ9KLge6v6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

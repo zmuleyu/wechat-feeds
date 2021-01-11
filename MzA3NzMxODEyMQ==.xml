@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android技术之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:30:44+08:00</updated>
+  <updated>2021-01-11T11:45:42+08:00</updated>
   <subtitle>主要分享Android相关技术文章、移动互联网的相关产品和资讯。关注你将学习到更多基础以及框架相关的知识，为您的工作助力！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Gradle 插件 + ASM 实战 - JVM 虚拟机加载 Class 原理</title>
+    <updated>2021-01-11T08:50:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/yIYy0aPcI9FW9naoKSiQAg</id>
+    <link href="https://mp.weixin.qq.com/s/yIYy0aPcI9FW9naoKSiQAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Android 腾讯 Matrix 原理分析（三）：TracePlugin 卡顿分析之帧率监听</title>
     <updated>2021-01-06T10:25:36+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-15T15:53:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/eadxzzmYysWcA25yjFoWuw</id>
     <link href="https://mp.weixin.qq.com/s/eadxzzmYysWcA25yjFoWuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android 腾讯 Matrix 原理分析（一）：Matrix 概览</title>
-    <updated>2020-12-12T12:55:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/tSBR8Oplrj559F63tqi-hg</id>
-    <link href="https://mp.weixin.qq.com/s/tSBR8Oplrj559F63tqi-hg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

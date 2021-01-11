@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AppHubs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-04T11:27:13+08:00</updated>
+  <updated>2021-01-11T11:45:11+08:00</updated>
   <subtitle>追随乔帮主</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>困在需求里的程序员</title>
+    <updated>2021-01-10T20:39:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/5Ph2zmdI5nNwNnLKGhlROg</id>
+    <link href="https://mp.weixin.qq.com/s/5Ph2zmdI5nNwNnLKGhlROg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LightNote： 告别“猴子掰玉米”式的网上资料收集方式</title>
     <updated>2021-01-03T21:40:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-05T12:54:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/6a2py06UTLXuuiN_a-MBww</id>
     <link href="https://mp.weixin.qq.com/s/6a2py06UTLXuuiN_a-MBww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker 适配 M1 Mac 路线图</title>
-    <updated>2020-12-02T23:38:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/cLLGIBH-qJ5vyMbmbX8c3A</id>
-    <link href="https://mp.weixin.qq.com/s/cLLGIBH-qJ5vyMbmbX8c3A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

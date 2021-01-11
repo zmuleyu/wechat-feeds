@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T02:22:46+08:00</updated>
+  <updated>2021-01-11T11:58:20+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>卧槽，我的深度学习框架竟然学错了~</title>
+    <updated>2021-01-11T00:02:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/LrFmzFvpQNjUv-f4wlrTNw</id>
+    <link href="https://mp.weixin.qq.com/s/LrFmzFvpQNjUv-f4wlrTNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>RoCE网络技术和实现方式</title>
+    <updated>2021-01-11T00:02:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/KaUgTKrTJmcgVAIImxAsVg</id>
+    <link href="https://mp.weixin.qq.com/s/KaUgTKrTJmcgVAIImxAsVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入理解CPU和异构计算芯片GPU/FPGA/ASIC</title>
     <updated>2021-01-09T22:00:41+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-01T22:30:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/bAO7nx4UOWLO2a0YRqKLvA</id>
     <link href="https://mp.weixin.qq.com/s/bAO7nx4UOWLO2a0YRqKLvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货：该从哪些关键指标衡量HPC存储系统？</title>
-    <updated>2021-01-01T08:07:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/1BuqhLe2wkyJTUEOFSPTZg</id>
-    <link href="https://mp.weixin.qq.com/s/1BuqhLe2wkyJTUEOFSPTZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

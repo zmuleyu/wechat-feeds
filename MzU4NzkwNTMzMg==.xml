@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈自学社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:41:00+08:00</updated>
+  <updated>2021-01-11T11:54:50+08:00</updated>
   <subtitle>全栈自学社区，专注于编程技术的讲解与分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>30个编程领域的趣图</title>
+    <updated>2021-01-11T10:40:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/OOoXRcXxzG7YW4NwEL1Z1w</id>
+    <link href="https://mp.weixin.qq.com/s/OOoXRcXxzG7YW4NwEL1Z1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis配置文件详解</title>
+    <updated>2021-01-11T10:40:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/O08jc-OFK8EhPJ90eQsGYQ</id>
+    <link href="https://mp.weixin.qq.com/s/O08jc-OFK8EhPJ90eQsGYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里巴巴达摩院发布 2021 十大科技趋势</title>
+    <updated>2021-01-11T10:40:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/l6agkfVcmXO9WwbYlbV-3Q</id>
+    <link href="https://mp.weixin.qq.com/s/l6agkfVcmXO9WwbYlbV-3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringBoot整合Redis</title>
     <updated>2021-01-10T15:43:36+08:00</updated>
@@ -124,20 +145,6 @@
     <updated>2020-12-27T17:44:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/8jq-YimmMrN-GJnAmCYcIQ</id>
     <link href="https://mp.weixin.qq.com/s/8jq-YimmMrN-GJnAmCYcIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA 2020.2.4款 神级超级牛逼插件推荐</title>
-    <updated>2020-12-27T17:44:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/e1LreZ1xBMVUCiX8GyyQPA</id>
-    <link href="https://mp.weixin.qq.com/s/e1LreZ1xBMVUCiX8GyyQPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一张图看懂字节跳动8年创业史，太励志了吧</title>
-    <updated>2020-12-23T14:44:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/7nsV2lbYpe_Zq8enZPcUVA</id>
-    <link href="https://mp.weixin.qq.com/s/7nsV2lbYpe_Zq8enZPcUVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

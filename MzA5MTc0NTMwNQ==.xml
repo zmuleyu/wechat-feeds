@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T23:34:37+08:00</updated>
+  <updated>2021-01-11T12:00:23+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于大数据中台被问最多的问题，今天一次性说清！</title>
+    <updated>2021-01-11T09:07:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/9tkg8aGQUjsNvfF0H5ZwvQ</id>
+    <link href="https://mp.weixin.qq.com/s/9tkg8aGQUjsNvfF0H5ZwvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>360 一站式大数据资源管理与开发平台</title>
+    <updated>2021-01-11T09:07:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/dh2BSUI9N0QZjarbQXMULg</id>
+    <link href="https://mp.weixin.qq.com/s/dh2BSUI9N0QZjarbQXMULg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么80%的码农都讨厌高并发？</title>
     <updated>2021-01-10T20:33:53+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2021-01-02T20:45:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/tl2EfoNA7UDGG6Kne9hzWw</id>
     <link href="https://mp.weixin.qq.com/s/tl2EfoNA7UDGG6Kne9hzWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Twitter 如何将 Kafka 当做一个存储系统</title>
-    <updated>2020-12-31T08:52:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/lIQ_Vtqn90b1z7-pjGWYIA</id>
-    <link href="https://mp.weixin.qq.com/s/lIQ_Vtqn90b1z7-pjGWYIA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

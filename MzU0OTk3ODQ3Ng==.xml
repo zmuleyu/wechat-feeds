@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:21:12+08:00</updated>
+  <updated>2021-01-11T11:45:37+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>1.1w字，10图彻底掌握阻塞队列（并发必备）</title>
+    <updated>2021-01-11T11:37:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/O8dxpt8Z-wFT_--rQz8Yzg</id>
+    <link href="https://mp.weixin.qq.com/s/O8dxpt8Z-wFT_--rQz8Yzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官：能说一说Mysql缓存池吗？</title>
     <updated>2021-01-09T17:21:50+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T10:48:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/C_--z35X7sN16LqrUwUsgQ</id>
     <link href="https://mp.weixin.qq.com/s/C_--z35X7sN16LqrUwUsgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【性能优化之道】每秒上万并发下的Spring Cloud参数优化实战</title>
-    <updated>2020-12-25T10:54:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/wMTFQmQste0DwHR8FDgR1g</id>
-    <link href="https://mp.weixin.qq.com/s/wMTFQmQste0DwHR8FDgR1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

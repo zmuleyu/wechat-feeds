@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构精进之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:21:47+08:00</updated>
+  <updated>2021-01-11T11:44:42+08:00</updated>
   <subtitle>架构精进之路，坚持分享最接地气儿的架构技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何做好一场技术分享，100%纯干货输出</title>
+    <updated>2021-01-10T22:13:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/gSNmuP7BFqWWExJArxPJcw</id>
+    <link href="https://mp.weixin.qq.com/s/gSNmuP7BFqWWExJArxPJcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL慢查询（下）：问题解决，干货总结</title>
     <updated>2021-01-09T18:58:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-30T22:30:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/mb_IuYg7dUNCbB9d5DfCQA</id>
     <link href="https://mp.weixin.qq.com/s/mb_IuYg7dUNCbB9d5DfCQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内存泄露的原因找到了，罪魁祸首居然是Java TheadLocal</title>
-    <updated>2020-10-29T11:21:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/fMnRCcRQORRBzdO4e6V9nw</id>
-    <link href="https://mp.weixin.qq.com/s/fMnRCcRQORRBzdO4e6V9nw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

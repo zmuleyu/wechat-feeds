@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>C语言与C++编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:35:20+08:00</updated>
+  <updated>2021-01-11T11:37:54+08:00</updated>
   <subtitle>讨论和学习C/C++编程知识，分享C语言和C++开发相关的技术文章和工具资源</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>那些在家啃书自学C++的人，最后都找到工作了吗？</title>
+    <updated>2021-01-10T21:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/9AaA9qA5E7Plo1voW0B2rg</id>
+    <link href="https://mp.weixin.qq.com/s/9AaA9qA5E7Plo1voW0B2rg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>线程安全代码到底是怎么编写的？</title>
+    <updated>2021-01-10T21:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/jDm0maHV5pyuEaOfBqBJDQ</id>
+    <link href="https://mp.weixin.qq.com/s/jDm0maHV5pyuEaOfBqBJDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>仿英雄联盟大型游戏源码分享（含部署教程）</title>
     <updated>2021-01-09T22:09:07+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-12-30T17:43:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/pCe1v5U7bP7zkls4VL7cMQ</id>
     <link href="https://mp.weixin.qq.com/s/pCe1v5U7bP7zkls4VL7cMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3天，让你的C++从入门到精通</title>
-    <updated>2020-12-29T18:55:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/sHLHgCRai5y3iNthWJwejg</id>
-    <link href="https://mp.weixin.qq.com/s/sHLHgCRai5y3iNthWJwejg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计算机为什么要从0开始计数？</title>
-    <updated>2020-12-29T18:55:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/DeAfc7gZp8XyW7ik11kk-Q</id>
-    <link href="https://mp.weixin.qq.com/s/DeAfc7gZp8XyW7ik11kk-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:29:22+08:00</updated>
+  <updated>2021-01-11T11:52:06+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SpringBoot @Value注解太强大了，用了都说爽！</title>
+    <updated>2021-01-11T08:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/pleS7n9w5l-RWiW4LAwy_A</id>
+    <link href="https://mp.weixin.qq.com/s/pleS7n9w5l-RWiW4LAwy_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>当代码的某一个位置高频抛出同一异常，会发生什么？</title>
+    <updated>2021-01-11T08:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/c5VAnvok0uKe4MUMfmaxwg</id>
+    <link href="https://mp.weixin.qq.com/s/c5VAnvok0uKe4MUMfmaxwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​最近有位老哥刚从阿里面试回来，分享了一些面试题</title>
     <updated>2021-01-10T20:01:00+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2021-01-02T10:43:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/caBg58X8iUmFBaboKGn8qw</id>
     <link href="https://mp.weixin.qq.com/s/caBg58X8iUmFBaboKGn8qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官问：ZooKeeper是强一致的吗？怎么实现的？</title>
-    <updated>2020-12-31T08:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/EN-K05J8R5SYbeG9OCCqVg</id>
-    <link href="https://mp.weixin.qq.com/s/EN-K05J8R5SYbeG9OCCqVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电梯等了半天也不来！到底是什么调度算法？</title>
-    <updated>2020-12-31T08:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/o5l6r7NMjhKBBOEsHtJkDQ</id>
-    <link href="https://mp.weixin.qq.com/s/o5l6r7NMjhKBBOEsHtJkDQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
