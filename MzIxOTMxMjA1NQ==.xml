@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Crawlab漫游指南 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:50:48+08:00</updated>
+  <updated>2021-01-11T13:41:40+08:00</updated>
   <subtitle>爬虫管理平台Crawlab的官方订阅号，旨在帮助Crawlab的使用者和开发者交流学习，会定期推送与Crawlab和爬虫相关的技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>法律科普活动《我写的代码犯法吗》法律问题征集</title>
+    <updated>2021-01-11T12:37:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5eMRR47I3nldEvo0T0YCWA</id>
+    <link href="https://mp.weixin.qq.com/s/5eMRR47I3nldEvo0T0YCWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>强大精简的爬虫框架Colly，能否取代 Scrapy？</title>
     <updated>2020-08-28T16:46:00+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-04-27T14:48:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-04-27:/s/z1YYrKNUr-T90fYNEY9AlQ</id>
     <link href="https://mp.weixin.qq.com/s/z1YYrKNUr-T90fYNEY9AlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爬虫管理平台 Crawlab v0.4.10 发布（日志集中管理）</title>
-    <updated>2020-04-21T15:20:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-04-21:/s/EFJiSXo02sBcwDLoDuEaPw</id>
-    <link href="https://mp.weixin.qq.com/s/EFJiSXo02sBcwDLoDuEaPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

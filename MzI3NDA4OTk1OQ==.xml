@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:50:55+08:00</updated>
+  <updated>2021-01-11T13:44:29+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>扎心了！比特币、买房、互联网，暴富的机会你一个都没抓住！</title>
+    <updated>2021-01-10T22:04:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/P7XvKeo4yAuEKt0uaWvfwA</id>
+    <link href="https://mp.weixin.qq.com/s/P7XvKeo4yAuEKt0uaWvfwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高并发服务遇 Redis 瓶颈引发的事故</title>
+    <updated>2021-01-10T22:04:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/M1ymXrEsCZNw3j2SV1QibA</id>
+    <link href="https://mp.weixin.qq.com/s/M1ymXrEsCZNw3j2SV1QibA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>炸了！PostgreSQL又获得“年度数据库”！包邮送8本PostgreSQL书籍</title>
     <updated>2021-01-10T12:29:09+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-29T17:43:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/ikWdYpc2kAY0Bp7-Ajiquw</id>
     <link href="https://mp.weixin.qq.com/s/ikWdYpc2kAY0Bp7-Ajiquw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>缓存穿透、击穿、雪崩什么的傻傻分不清楚？看了这篇文后，我明白了</title>
-    <updated>2020-12-28T17:45:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3v2-CkZEpoQB-n1KA0-fdA</id>
-    <link href="https://mp.weixin.qq.com/s/3v2-CkZEpoQB-n1KA0-fdA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

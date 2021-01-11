@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:30:41+08:00</updated>
+  <updated>2021-01-11T13:37:14+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 中使用 MSMQ</title>
+    <updated>2021-01-11T13:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Crr--vEx2m83nSSuYTM5IQ</id>
+    <link href="https://mp.weixin.qq.com/s/Crr--vEx2m83nSSuYTM5IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>年度干货｜教你怎么用Python任意爬全网资源！</title>
+    <updated>2021-01-11T13:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/GVo0JgWCL6-ohCVY8rwwRg</id>
+    <link href="https://mp.weixin.qq.com/s/GVo0JgWCL6-ohCVY8rwwRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 19.Set 介绍</title>
+    <updated>2021-01-11T13:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/EC_ZI_RgtLUTB93jFheUqQ</id>
+    <link href="https://mp.weixin.qq.com/s/EC_ZI_RgtLUTB93jFheUqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【日常排雷】 .Net core 生产环境appsetting读取失败</title>
+    <updated>2021-01-11T13:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/aS3XeCUSPQu8dFKYoRxsOw</id>
+    <link href="https://mp.weixin.qq.com/s/aS3XeCUSPQu8dFKYoRxsOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
     <updated>2021-01-10T11:56:36+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-03T23:28:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/riJ-9hPbCLmj3m92d49KqQ</id>
     <link href="https://mp.weixin.qq.com/s/riJ-9hPbCLmj3m92d49KqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用 NLog 的高级特性</title>
-    <updated>2021-01-03T11:03:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/kmZuYaouVk641HCXxhzd4Q</id>
-    <link href="https://mp.weixin.qq.com/s/kmZuYaouVk641HCXxhzd4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASP.NET Core中的响应压缩</title>
-    <updated>2021-01-03T11:03:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/4_LWGJRVapwk5Yg0vvwfcA</id>
-    <link href="https://mp.weixin.qq.com/s/4_LWGJRVapwk5Yg0vvwfcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中 使用 cookies</title>
-    <updated>2021-01-02T11:59:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/OkZYVdnIcZtTswCr3TQtTQ</id>
-    <link href="https://mp.weixin.qq.com/s/OkZYVdnIcZtTswCr3TQtTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linq中带有迭代索引的Select扩展方法，为啥知道的人不多呢？</title>
-    <updated>2021-01-02T11:59:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/Br2HRAXP1Bd-CRYuH3EPiA</id>
-    <link href="https://mp.weixin.qq.com/s/Br2HRAXP1Bd-CRYuH3EPiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

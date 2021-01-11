@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:38:53+08:00</updated>
+  <updated>2021-01-11T13:33:12+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>中纪委重磅通报！</title>
+    <updated>2021-01-11T11:50:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/T5Qjiz_AzLzl5p1hJs2zVg</id>
+    <link href="https://mp.weixin.qq.com/s/T5Qjiz_AzLzl5p1hJs2zVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>82+49！河北确诊病例轨迹公布：多人曾到电影院和健身房→</title>
     <updated>2021-01-11T09:41:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-10T08:42:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/dF4H1OAbd1CeyYBG99lo1g</id>
     <link href="https://mp.weixin.qq.com/s/dF4H1OAbd1CeyYBG99lo1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>河北新增46例本土确诊！</title>
-    <updated>2021-01-10T08:17:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/YdBiS31rBJJL2JySNWIAAg</id>
-    <link href="https://mp.weixin.qq.com/s/YdBiS31rBJJL2JySNWIAAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

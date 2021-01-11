@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T11:59:12+08:00</updated>
+  <updated>2021-01-11T13:46:50+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>放弃微服务，我们为什么重回单体架构？</title>
+    <updated>2021-01-11T11:31:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/xWiK_FWU9QhAxwUuXRjrMQ</id>
+    <link href="https://mp.weixin.qq.com/s/xWiK_FWU9QhAxwUuXRjrMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>容器安全最佳实践入门</title>
+    <updated>2021-01-11T11:31:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/S3HF5-vGK1JIWI1rSrIStw</id>
+    <link href="https://mp.weixin.qq.com/s/S3HF5-vGK1JIWI1rSrIStw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>每个程序员都应该尝试的项目</title>
     <updated>2021-01-10T09:33:43+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2021-01-01T18:23:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/k7Lc7LaI4iZsMlrdVMJJFQ</id>
     <link href="https://mp.weixin.qq.com/s/k7Lc7LaI4iZsMlrdVMJJFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欠下“技术债”，谁负责？</title>
-    <updated>2020-12-31T17:12:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/OOn9GGZ4Uti9Dv-_brjs5Q</id>
-    <link href="https://mp.weixin.qq.com/s/OOn9GGZ4Uti9Dv-_brjs5Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

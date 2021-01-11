@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AWS云计算 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:33:31+08:00</updated>
+  <updated>2021-01-11T13:31:56+08:00</updated>
   <subtitle>AWS 官方公众号，第一时间获取关于 AWS 国内外服务的资讯。AWS 中国（宁夏）区域由西云数据运营，AWS 中国（北京）区域由光环新网运营。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在 AWS 的视角下，正确打开零信任安全模型</title>
+    <updated>2021-01-11T12:18:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/IXXNTZMgk9z8Wuq_kCKT8w</id>
+    <link href="https://mp.weixin.qq.com/s/IXXNTZMgk9z8Wuq_kCKT8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>好奇童真 | 今日也有 N+1 个小问题想问你</title>
     <updated>2021-01-10T11:57:58+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-30T11:54:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/y9af4Sguzt9DoUZgY_Ymog</id>
     <link href="https://mp.weixin.qq.com/s/y9af4Sguzt9DoUZgY_Ymog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>触达全球数百万客户，AWS ISV 全新加速赢计划正式官宣！</title>
-    <updated>2020-12-29T11:52:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/a4VLqwSZh1RubTzS__iHJw</id>
-    <link href="https://mp.weixin.qq.com/s/a4VLqwSZh1RubTzS__iHJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AWS x 高知特 | 拓宽数字化视角，探索新技术的无限可能</title>
-    <updated>2020-12-29T11:52:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/Gt4kKehQXvHEy3rlJprhkg</id>
-    <link href="https://mp.weixin.qq.com/s/Gt4kKehQXvHEy3rlJprhkg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

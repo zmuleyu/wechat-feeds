@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:50:40+08:00</updated>
+  <updated>2021-01-11T13:46:11+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>纠结pytorch, tensorflow, keras 一个月之后，我自己创造了一个神经网络框架</title>
+    <updated>2021-01-11T08:59:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Ev5Cgp2t50wRa9dVo8NqjQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ev5Cgp2t50wRa9dVo8NqjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图像中的裂纹检测</title>
+    <updated>2021-01-11T08:59:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/h59yyB_7Khmlhf5pYptrew</id>
+    <link href="https://mp.weixin.qq.com/s/h59yyB_7Khmlhf5pYptrew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微积分的发现是人类精神的最高胜利</title>
     <updated>2021-01-10T12:24:21+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-03T09:43:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/cnniT5lzZsasG3NXylg2eA</id>
     <link href="https://mp.weixin.qq.com/s/cnniT5lzZsasG3NXylg2eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一般人不清楚--博士群体的择偶标准是什么?</title>
-    <updated>2021-01-03T09:43:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/l19diuEn2S08HEvznVuwQw</id>
-    <link href="https://mp.weixin.qq.com/s/l19diuEn2S08HEvznVuwQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>68个Python内置函数，建议你吃透！</title>
-    <updated>2021-01-02T09:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/uL_onvaazGv1w0cu9hACpA</id>
-    <link href="https://mp.weixin.qq.com/s/uL_onvaazGv1w0cu9hACpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

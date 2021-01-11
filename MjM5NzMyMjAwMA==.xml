@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T14:03:44+08:00</updated>
+  <updated>2021-01-11T13:53:46+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>线程数：设多少最合理？</title>
+    <updated>2021-01-11T11:42:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/T8YqcBlT8GbSjHvoMEs2GQ</id>
+    <link href="https://mp.weixin.qq.com/s/T8YqcBlT8GbSjHvoMEs2GQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>where 1=1 是什么鬼？</title>
+    <updated>2021-01-11T11:42:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7-7qDqFCw3f4EGd6ngZCzw</id>
+    <link href="https://mp.weixin.qq.com/s/7-7qDqFCw3f4EGd6ngZCzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>写代码效率不高？放过Ctrl C 和 V，让AI来能帮你写代码吧</title>
     <updated>2021-01-09T10:16:58+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-02T10:47:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/mWNEWdCIQTsB6az9acpTOw</id>
     <link href="https://mp.weixin.qq.com/s/mWNEWdCIQTsB6az9acpTOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真能一快遮百丑？为什么要弃坑FastJson</title>
-    <updated>2021-01-01T11:45:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/UTe-9VKYzsn5y6FrJ20Vag</id>
-    <link href="https://mp.weixin.qq.com/s/UTe-9VKYzsn5y6FrJ20Vag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

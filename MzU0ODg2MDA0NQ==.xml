@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ChaBug | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T13:30:44+08:00</updated>
+  <updated>2021-01-11T13:31:30+08:00</updated>
   <subtitle>一个分享知识、结识伙伴、资源共享的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>文末赠书｜office宏与AV的爱恨情仇</title>
+    <updated>2021-01-11T11:19:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/sGCz_K7RvqU0lZbCLxCPyA</id>
+    <link href="https://mp.weixin.qq.com/s/sGCz_K7RvqU0lZbCLxCPyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>邮件钓鱼攻击学习</title>
     <updated>2021-01-06T11:35:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T09:52:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/-5z2gCrstyCLOOzgf1tZTg</id>
     <link href="https://mp.weixin.qq.com/s/-5z2gCrstyCLOOzgf1tZTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[翻译]一些MSSQL注入的Tricks</title>
-    <updated>2020-11-29T14:57:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/5xcYn3Kb0eqEfXbYdtvICw</id>
-    <link href="https://mp.weixin.qq.com/s/5xcYn3Kb0eqEfXbYdtvICw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

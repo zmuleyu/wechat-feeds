@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cloud Native Community | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:43:25+08:00</updated>
+  <updated>2021-01-11T13:38:12+08:00</updated>
   <subtitle>云原生社区是一个企业中立的云原生终端用户社区，致力于推广云原生技术，构建开发者生态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生社区meetup第三期（杭州站）延期公告</title>
+    <updated>2021-01-11T11:52:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/3QSt6ohWKRVmRp9WW0F-KA</id>
+    <link href="https://mp.weixin.qq.com/s/3QSt6ohWKRVmRp9WW0F-KA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>容器网络延时之 ipvs 定时器篇</title>
     <updated>2021-01-08T11:40:17+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2020-12-23T18:03:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/eioY2gU7rVZ4dRvFjZ22Qg</id>
     <link href="https://mp.weixin.qq.com/s/eioY2gU7rVZ4dRvFjZ22Qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播预告 | Chaos Mesh 在网易伏羲私有云的自动化注入实践</title>
-    <updated>2020-12-22T16:53:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/hlcUQ2C2u3lpCJcaVapQwQ</id>
-    <link href="https://mp.weixin.qq.com/s/hlcUQ2C2u3lpCJcaVapQwQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Envoy 官方文档翻译进度更新及成员招募</title>
-    <updated>2020-12-22T16:53:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/_UdDYRPqAEjCNJd-x0SaHw</id>
-    <link href="https://mp.weixin.qq.com/s/_UdDYRPqAEjCNJd-x0SaHw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

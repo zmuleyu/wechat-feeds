@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T23:23:14+08:00</updated>
+  <updated>2021-01-11T13:40:23+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么那么多自学 Web 前端的人后来都放弃了?</title>
+    <updated>2021-01-10T23:35:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/D2HfEJZ84Hjppb504GooTQ</id>
+    <link href="https://mp.weixin.qq.com/s/D2HfEJZ84Hjppb504GooTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何利用 JavaScript 实现并发控制</title>
+    <updated>2021-01-10T23:35:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JutrrNaSdxeMaP49ucWjzA</id>
+    <link href="https://mp.weixin.qq.com/s/JutrrNaSdxeMaP49ucWjzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>实现一个符合 Promise/A+规范的 Promise（typescript 版）</title>
+    <updated>2021-01-10T23:35:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/y6khP9WY1-vfSm0Hn3dvoA</id>
+    <link href="https://mp.weixin.qq.com/s/y6khP9WY1-vfSm0Hn3dvoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>拯救你的年底 KPI：前端性能优化</title>
     <updated>2021-01-10T20:22:34+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T20:54:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/OIyV5QC4HsTvZtabblLvUw</id>
     <link href="https://mp.weixin.qq.com/s/OIyV5QC4HsTvZtabblLvUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何发布 npm 包</title>
-    <updated>2021-01-05T20:54:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/4eE5kHicRK2mVcqEQSM4lg</id>
-    <link href="https://mp.weixin.qq.com/s/4eE5kHicRK2mVcqEQSM4lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>设计灵感：12组银行金融类App界面设计</title>
-    <updated>2021-01-05T20:54:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/XRU1JnuhStOxMrYRqUcfhQ</id>
-    <link href="https://mp.weixin.qq.com/s/XRU1JnuhStOxMrYRqUcfhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？</title>
-    <updated>2021-01-03T23:15:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/ETbH_RYz4qm63WasgyBxCA</id>
-    <link href="https://mp.weixin.qq.com/s/ETbH_RYz4qm63WasgyBxCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

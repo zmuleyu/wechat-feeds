@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T07:31:34+08:00</updated>
+  <updated>2021-01-11T13:35:27+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用Falco检测Kubernetes安全问题简介</title>
+    <updated>2021-01-11T11:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7Ns_COieGRpmWbEPGvS33g</id>
+    <link href="https://mp.weixin.qq.com/s/7Ns_COieGRpmWbEPGvS33g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文搞定全场景K3s离线安装</title>
+    <updated>2021-01-11T11:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/KkGxzH66GyZOibtPIxaJyA</id>
+    <link href="https://mp.weixin.qq.com/s/KkGxzH66GyZOibtPIxaJyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 存储原理解析</title>
+    <updated>2021-01-11T11:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/X-gQtRXRjhLQKtnG_lOVxA</id>
+    <link href="https://mp.weixin.qq.com/s/X-gQtRXRjhLQKtnG_lOVxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生制品那些事(4)：Registry 的作用原理</title>
+    <updated>2021-01-11T11:13:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/w1zbXkrDUvSvQD5q05CZ4A</id>
+    <link href="https://mp.weixin.qq.com/s/w1zbXkrDUvSvQD5q05CZ4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>周五截止，你填了吗？10人将获赠CNCF商店$100美元礼券！</title>
     <updated>2021-01-09T10:36:53+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-06T10:39:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/pwb-13WFUckzU7oNF0LfiA</id>
     <link href="https://mp.weixin.qq.com/s/pwb-13WFUckzU7oNF0LfiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 源码分析之 kubelet(五)</title>
-    <updated>2021-01-06T10:39:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/QKr7jc41qvq9DjQa-gB0IQ</id>
-    <link href="https://mp.weixin.qq.com/s/QKr7jc41qvq9DjQa-gB0IQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>应用案例 | 基于Volcano 的锐天离线高性能计算最佳实践</title>
-    <updated>2021-01-06T10:39:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Eke3QuQ-603SxVOq52LlMg</id>
-    <link href="https://mp.weixin.qq.com/s/Eke3QuQ-603SxVOq52LlMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenYurt 入门 - 在树莓派上玩转 OpenYurt</title>
-    <updated>2021-01-06T10:39:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/dLRS3Ir_W7Duk0M9fSpAbw</id>
-    <link href="https://mp.weixin.qq.com/s/dLRS3Ir_W7Duk0M9fSpAbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新的一年，新的最终用户推荐计划！</title>
-    <updated>2021-01-05T10:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/V3rG8hlPPigOM5lJEggpUw</id>
-    <link href="https://mp.weixin.qq.com/s/V3rG8hlPPigOM5lJEggpUw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器之心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:35:20+08:00</updated>
+  <updated>2021-01-11T13:34:57+08:00</updated>
   <subtitle>专业的人工智能媒体和产业服务平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今天的卷积网络，Yann LeCun在93年就已经玩得很溜了</title>
+    <updated>2021-01-11T12:16:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/PooishNTdlp3p6qgwYlVhw</id>
+    <link href="https://mp.weixin.qq.com/s/PooishNTdlp3p6qgwYlVhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Manning、陈丹琦讲座，2021斯坦福CS224N即将开课</title>
+    <updated>2021-01-11T12:16:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/0zT97YeeGEja-6wOpF0pLw</id>
+    <link href="https://mp.weixin.qq.com/s/0zT97YeeGEja-6wOpF0pLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>波士顿动力机器人热舞背后藏着哪些秘密？工程副总裁揭秘</title>
+    <updated>2021-01-11T12:16:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/OMcoFVPsE_GNk5JOifSiEA</id>
+    <link href="https://mp.weixin.qq.com/s/OMcoFVPsE_GNk5JOifSiEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>人工智能十年回顾：CNN、AlphaGo、GAN……它们曾这样改变世界</title>
+    <updated>2021-01-11T12:16:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/NTjTg-enUjArb2umkhcVIg</id>
+    <link href="https://mp.weixin.qq.com/s/NTjTg-enUjArb2umkhcVIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>全新训练及数据采样&amp;增强策略、跨尺度泛化能力强，FB全景分割实现新SOTA</title>
+    <updated>2021-01-11T12:16:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/JzdxcOREKXNsxb6K5rr_eg</id>
+    <link href="https://mp.weixin.qq.com/s/JzdxcOREKXNsxb6K5rr_eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dropout也能自动化了，谷歌Quoc Le等人利用强化学习自动找寻模型专用Dropout</title>
     <updated>2021-01-10T12:23:50+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-07T12:16:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/krO_846ILW4FtR7-Cl2ahw</id>
     <link href="https://mp.weixin.qq.com/s/krO_846ILW4FtR7-Cl2ahw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让炼丹师不再为数据集发愁，这家公司创建了一个AI公开数据集平台</title>
-    <updated>2021-01-07T12:16:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/BYl5KMq_ny8k1mFibkb2Zg</id>
-    <link href="https://mp.weixin.qq.com/s/BYl5KMq_ny8k1mFibkb2Zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超强一代JupyterLab 3.0发布，兼具可视化调试、中文显示、简单交互界面等功能</title>
-    <updated>2021-01-07T12:16:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/qiYdMPFeEWqUAhL1l6WLgg</id>
-    <link href="https://mp.weixin.qq.com/s/qiYdMPFeEWqUAhL1l6WLgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>告别英特尔，「硅仙人」吉姆 · 凯勒加入AI芯片初创公司Tenstorrent</title>
-    <updated>2021-01-07T12:16:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/9FREq-Bs0GiTYdMY_7-pow</id>
-    <link href="https://mp.weixin.qq.com/s/9FREq-Bs0GiTYdMY_7-pow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>融合视频目标检测与单目标、多目标跟踪，港中文开源一体化视频感知平台 MMTracking</title>
-    <updated>2021-01-07T12:16:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lKlA6bPSUP_ZsfyX8oSFog</id>
-    <link href="https://mp.weixin.qq.com/s/lKlA6bPSUP_ZsfyX8oSFog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>引燃AI社区，不用跨界也能从文本生成图像，OpenAI新模型打破自然语言与视觉次元壁</title>
-    <updated>2021-01-06T13:17:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/JEugZJr1q2U2GyIViFhPHg</id>
-    <link href="https://mp.weixin.qq.com/s/JEugZJr1q2U2GyIViFhPHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
