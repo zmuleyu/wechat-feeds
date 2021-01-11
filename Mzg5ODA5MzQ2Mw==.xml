@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端下午茶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:49:12+08:00</updated>
+  <updated>2021-01-12T07:52:21+08:00</updated>
   <subtitle>分享有关前端的技术博客、精选文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么那么多自学Web前端的人后来都放弃了?</title>
+    <updated>2021-01-11T20:45:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CQE5gxLR9SC4dhbEBabX7w</id>
+    <link href="https://mp.weixin.qq.com/s/CQE5gxLR9SC4dhbEBabX7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么 Vue3 选择了 CSS 变量</title>
+    <updated>2021-01-11T20:45:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/EpDGoSpHMsaYyeTuHNzUjg</id>
+    <link href="https://mp.weixin.qq.com/s/EpDGoSpHMsaYyeTuHNzUjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何充分利用Composition API对Vue3项目进行代码抽离</title>
     <updated>2021-01-10T23:56:14+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-12-27T12:05:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/ZXI4AHnGjWdMt_xT_sC-og</id>
     <link href="https://mp.weixin.qq.com/s/ZXI4AHnGjWdMt_xT_sC-og" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我最近在看什么 -《富爸爸穷爸爸》</title>
-    <updated>2020-12-27T12:00:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/kSAJHgSoOS2IEuGzcIo5cA</id>
-    <link href="https://mp.weixin.qq.com/s/kSAJHgSoOS2IEuGzcIo5cA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
