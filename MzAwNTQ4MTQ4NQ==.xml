@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:44:20+08:00</updated>
+  <updated>2021-01-13T07:35:53+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>1.3 万字 13 图！JVM 史上最最最完整深入解析</title>
+    <updated>2021-01-12T18:56:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/1Uyd9_RbW2MYeL-PYxPjpg</id>
+    <link href="https://mp.weixin.qq.com/s/1Uyd9_RbW2MYeL-PYxPjpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>互联网4种主流的API架构风格对比</title>
     <updated>2021-01-11T19:05:28+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-29T18:25:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/53I1t-QiJGliNq-NxGYpCg</id>
     <link href="https://mp.weixin.qq.com/s/53I1t-QiJGliNq-NxGYpCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JVM中的Xss应该如何解读？</title>
-    <updated>2020-12-28T20:03:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/hr80CJoqmSkTsel8UrXFkg</id>
-    <link href="https://mp.weixin.qq.com/s/hr80CJoqmSkTsel8UrXFkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你的登录接口真的安全吗？</title>
-    <updated>2020-12-28T20:03:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/VPjfWWnseORdwBUEiyNQsQ</id>
-    <link href="https://mp.weixin.qq.com/s/VPjfWWnseORdwBUEiyNQsQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

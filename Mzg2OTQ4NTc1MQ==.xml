@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:19:32+08:00</updated>
+  <updated>2021-01-13T07:34:05+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 ASP.Net Core 中实现 数据保护API</title>
+    <updated>2021-01-12T23:45:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/51ZiL7mQTLDJGF66UnL8Ug</id>
+    <link href="https://mp.weixin.qq.com/s/51ZiL7mQTLDJGF66UnL8Ug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用过滤器模式，让客户关怀中的代码更加干净整洁</title>
+    <updated>2021-01-12T23:45:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/0ODX9PV_ERW2XaQqQEZu-g</id>
+    <link href="https://mp.weixin.qq.com/s/0ODX9PV_ERW2XaQqQEZu-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 22. dict 的基本操作详解</title>
+    <updated>2021-01-12T23:45:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qJCrc1WM_XQskb36FK0HTg</id>
+    <link href="https://mp.weixin.qq.com/s/qJCrc1WM_XQskb36FK0HTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 .NetCore 中使用 AutoMapper 高级功能</title>
     <updated>2021-01-12T00:16:42+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T23:08:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/G6l15RYGt_BjGuJ5DCb9pQ</id>
     <link href="https://mp.weixin.qq.com/s/G6l15RYGt_BjGuJ5DCb9pQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何实现 ASP.NET Core WebApi 的版本化</title>
-    <updated>2021-01-04T23:48:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/sH10US8XWmI5YLqBgJu4Yg</id>
-    <link href="https://mp.weixin.qq.com/s/sH10US8XWmI5YLqBgJu4Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用visual studio 对mysql进行源码级调试</title>
-    <updated>2021-01-04T23:48:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Xm33UFQ0rzKkUtqxIVKASw</id>
-    <link href="https://mp.weixin.qq.com/s/Xm33UFQ0rzKkUtqxIVKASw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中 使用 功能开关</title>
-    <updated>2021-01-03T23:28:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/VOwIfjR7pleCwBlvxkx-_Q</id>
-    <link href="https://mp.weixin.qq.com/s/VOwIfjR7pleCwBlvxkx-_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

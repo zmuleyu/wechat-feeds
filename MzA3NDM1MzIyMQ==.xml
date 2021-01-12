@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>桂迹 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T07:44:25+08:00</updated>
+  <updated>2021-01-13T07:49:17+08:00</updated>
   <subtitle>记录自己的痕迹：技术，爱好，见闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开放封闭在.NET中</title>
+    <updated>2021-01-12T22:46:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/aeF0rgTuHhpDuQ3k2swHcA</id>
+    <link href="https://mp.weixin.qq.com/s/aeF0rgTuHhpDuQ3k2swHcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小试elsa</title>
     <updated>2021-01-10T08:31:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T08:34:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/0ySPYhcbGoH8tej3HqwaZg</id>
     <link href="https://mp.weixin.qq.com/s/0ySPYhcbGoH8tej3HqwaZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Conf China 2020-基于k8s复杂项目交付</title>
-    <updated>2020-12-20T15:57:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/MXLoKMnRAyR6vwb4jt7Axg</id>
-    <link href="https://mp.weixin.qq.com/s/MXLoKMnRAyR6vwb4jt7Axg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
