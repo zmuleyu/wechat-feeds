@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T02:27:51+08:00</updated>
+  <updated>2021-01-13T02:34:21+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>又一款日志组件:ELMAH日志处理异常</title>
+    <updated>2021-01-12T13:53:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/gTfJs7TRkDLflBHsfxHe9w</id>
+    <link href="https://mp.weixin.qq.com/s/gTfJs7TRkDLflBHsfxHe9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>到处是中年危机、猝死、跳楼、被开除，怎么办？</title>
+    <updated>2021-01-12T13:53:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/YTSxeCgMNPBWDj612UV1fg</id>
+    <link href="https://mp.weixin.qq.com/s/YTSxeCgMNPBWDj612UV1fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Quartz - 作业调度框架-插件化开发</title>
     <updated>2021-01-11T09:27:20+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-03T20:47:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/nreqwcr5oFDxI1G3sjur0A</id>
     <link href="https://mp.weixin.qq.com/s/nreqwcr5oFDxI1G3sjur0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET/C#程序开发中如何更优美地实现失败任务重试的逻辑？</title>
-    <updated>2021-01-02T21:20:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/febPQ8U4BWDDYqS23rMWZg</id>
-    <link href="https://mp.weixin.qq.com/s/febPQ8U4BWDDYqS23rMWZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

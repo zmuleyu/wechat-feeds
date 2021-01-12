@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:26:17+08:00</updated>
+  <updated>2021-01-13T02:15:36+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>计算机视觉与模式识别/图像处理最新学术论文每日速递[1.12]</title>
+    <updated>2021-01-12T23:48:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_g5MZMZV09R8okHMYT_e1A</id>
+    <link href="https://mp.weixin.qq.com/s/_g5MZMZV09R8okHMYT_e1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>计算机视觉与模式识别/图像处理最新学术论文每日速递[1.11]</title>
     <updated>2021-01-11T16:47:28+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-30T21:03:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/tvbVg9h98JmyRvZcQjPVpA</id>
     <link href="https://mp.weixin.qq.com/s/tvbVg9h98JmyRvZcQjPVpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计算机视觉与模式识别/图像处理学术最新论文每日速递[12.29]</title>
-    <updated>2020-12-29T22:34:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/bgS5zkRIRh9zPFSV5yqmEQ</id>
-    <link href="https://mp.weixin.qq.com/s/bgS5zkRIRh9zPFSV5yqmEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么ResNet和DenseNet可以这么深？一文详解残差块为何有助于解决梯度弥散问题。</title>
-    <updated>2020-12-29T22:34:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/3qzrNAIPPWpWGKYjgvrCGg</id>
-    <link href="https://mp.weixin.qq.com/s/3qzrNAIPPWpWGKYjgvrCGg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

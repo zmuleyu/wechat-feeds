@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肉眼品世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T02:11:08+08:00</updated>
+  <updated>2021-01-13T02:19:17+08:00</updated>
   <subtitle>发现世界之美好,技术、产品、创业，预见与众不同的你</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020物联网白皮书</title>
+    <updated>2021-01-12T23:45:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/2nzOVTSheqYJkfMktEKBlw</id>
+    <link href="https://mp.weixin.qq.com/s/2nzOVTSheqYJkfMktEKBlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>网红的冬天四季如春，人间百味自有芬芳</title>
+    <updated>2021-01-12T23:45:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/OH0zMIhP1dyh1kSBlZbAIQ</id>
+    <link href="https://mp.weixin.qq.com/s/OH0zMIhP1dyh1kSBlZbAIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5分钟了解CDN 加速原理</title>
+    <updated>2021-01-12T23:45:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/o7qPUn9QryRUIt2gviBZRg</id>
+    <link href="https://mp.weixin.qq.com/s/o7qPUn9QryRUIt2gviBZRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>双十一秒杀架构模型设计</title>
+    <updated>2021-01-12T23:45:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/2Biel-diEPqZxo8bSlpueQ</id>
+    <link href="https://mp.weixin.qq.com/s/2Biel-diEPqZxo8bSlpueQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>牛逼，只用一个脚本，实现一键自动部署Redis的任意版本</title>
+    <updated>2021-01-12T23:45:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/rhI8WX6GHcPf-_ngwWyMIg</id>
+    <link href="https://mp.weixin.qq.com/s/rhI8WX6GHcPf-_ngwWyMIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>任正非：管理上的灰色，是我们的生命之树</title>
     <updated>2021-01-12T00:25:12+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-09T22:44:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/mpwjE5kdI_InW0daKuIWoQ</id>
     <link href="https://mp.weixin.qq.com/s/mpwjE5kdI_InW0daKuIWoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华本科生0人去阿里，交叉信息院硕士没人再深造 | 清华大学2020年毕业生就业质量报告</title>
-    <updated>2021-01-08T23:04:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gNFilKrNTKl4frbWeRdEMw</id>
-    <link href="https://mp.weixin.qq.com/s/gNFilKrNTKl4frbWeRdEMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为内部几近满分的项目管理PPT，牛逼了</title>
-    <updated>2021-01-08T23:04:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/YPtx9YZGbDTKmWfUE5HYHQ</id>
-    <link href="https://mp.weixin.qq.com/s/YPtx9YZGbDTKmWfUE5HYHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国拟将阿里腾讯加入投资禁令</title>
-    <updated>2021-01-08T23:04:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bRvxpxtn8FaEQkPG577TIQ</id>
-    <link href="https://mp.weixin.qq.com/s/bRvxpxtn8FaEQkPG577TIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis性能问题排查解决手册（值得收藏）</title>
-    <updated>2021-01-08T23:04:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/3IyeHUlYtjVyLsdbvOe00Q</id>
-    <link href="https://mp.weixin.qq.com/s/3IyeHUlYtjVyLsdbvOe00Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构中配置中心的选择，Apollo值得拥有</title>
-    <updated>2021-01-08T23:04:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/-IkIOi3pNlpfDqtVNLz9Hw</id>
-    <link href="https://mp.weixin.qq.com/s/-IkIOi3pNlpfDqtVNLz9Hw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
