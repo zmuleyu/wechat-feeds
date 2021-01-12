@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小乐 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T07:50:42+08:00</updated>
+  <updated>2021-01-12T16:52:40+08:00</updated>
   <subtitle>这里有Java、Python、技术、算法、职场、感悟、面经、资源等，一线大厂干货，10万 + 程序员都在看，做一个有趣的帮助程序员成长的公众号，每天凌晨00点00，第一时间与你相约。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -64,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>敲代码神器，这款游戏机械键盘贼爽，包邮送到家！写代码飞起！</title>
-    <updated>2021-01-11T09:00:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/GZ2smEIm9cumb79JomTgrA</id>
-    <link href="https://mp.weixin.qq.com/s/GZ2smEIm9cumb79JomTgrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Spring Cloud：Security OAuth2 自定义异常响应</title>
     <updated>2021-01-11T09:00:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/1TQmSi-qKVMnHGQNWXtaPQ</id>
@@ -96,13 +89,6 @@
     <updated>2021-01-09T22:29:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/kRxhOA3riiy-wOUVn4KV6w</id>
     <link href="https://mp.weixin.qq.com/s/kRxhOA3riiy-wOUVn4KV6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>游戏机械键盘吃鸡太香了，写代码飞起！包邮送一个！</title>
-    <updated>2021-01-09T22:29:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/nUCAwBnX85FhHp7DPDZ4Ww</id>
-    <link href="https://mp.weixin.qq.com/s/nUCAwBnX85FhHp7DPDZ4Ww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -145,6 +131,20 @@
     <updated>2021-01-08T23:43:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/kzIQcgiRjRc6BJwAzgBDUg</id>
     <link href="https://mp.weixin.qq.com/s/kzIQcgiRjRc6BJwAzgBDUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring-Retry重试实现原理</title>
+    <updated>2021-01-08T23:43:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/t1QfJMKYZHQLIcWCkf5T5A</id>
+    <link href="https://mp.weixin.qq.com/s/t1QfJMKYZHQLIcWCkf5T5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你还在用分页？试试 MyBatis 流式查询，真心强大！</title>
+    <updated>2021-01-08T23:43:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/UlHiK3FYi36FomJ6pE5jhg</id>
+    <link href="https://mp.weixin.qq.com/s/UlHiK3FYi36FomJ6pE5jhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿人谷 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:53:43+08:00</updated>
+  <updated>2021-01-12T16:39:41+08:00</updated>
   <subtitle>技术成长路上，与你风雨同舟，不离不弃。公众号主要用于技术分享，包括常见面试题剖析、源码解读、微服务框架、技术热点等。更多详情可以访问：yuanrengu.com</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>别再用硬编码写业务流程了，试试这款轻量级流程编排框架</title>
+    <updated>2021-01-12T13:52:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/E1MXvp1fQOc23_WKsLtxBQ</id>
+    <link href="https://mp.weixin.qq.com/s/E1MXvp1fQOc23_WKsLtxBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>官方出品！手把手教你在华为HMS平台开发App</title>
     <updated>2021-01-08T10:56:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-19T17:55:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-19:/s/KFRggVovVaNaj1X7ldqyEQ</id>
     <link href="https://mp.weixin.qq.com/s/KFRggVovVaNaj1X7ldqyEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻量级的分布式日志追踪利器，十分钟即可接入，从此日志追踪无难事</title>
-    <updated>2020-09-17T17:33:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-17:/s/rm-07JCBR3AzDtAEk0kHQQ</id>
-    <link href="https://mp.weixin.qq.com/s/rm-07JCBR3AzDtAEk0kHQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

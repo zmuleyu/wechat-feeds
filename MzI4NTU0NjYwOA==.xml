@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈码农画像 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-03T16:36:48+08:00</updated>
+  <updated>2021-01-12T16:38:40+08:00</updated>
   <subtitle>一线码农错题本，坚持分享原创硬核干货，内容考究，关注大前端、.NetCore、容器云 &amp; Devops 全技术链，#码农画像 #技术护城河</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ASP.NET Core Middleware抽丝剥茧</title>
+    <updated>2021-01-12T15:52:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/efFarZvMQS78QS2pwEOEIw</id>
+    <link href="https://mp.weixin.qq.com/s/efFarZvMQS78QS2pwEOEIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对CORS OPTIONS预检请求的一些思考</title>
     <updated>2021-01-03T15:40:25+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-04T08:23:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/hlxWZTHGp27py_ZTUbJIWg</id>
     <link href="https://mp.weixin.qq.com/s/hlxWZTHGp27py_ZTUbJIWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吐槽一下Abp的用户和租户管理模块</title>
-    <updated>2020-10-30T16:48:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/w4v2Vi6foBcMMlMOkUqf_w</id>
-    <link href="https://mp.weixin.qq.com/s/w4v2Vi6foBcMMlMOkUqf_w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

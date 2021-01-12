@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:28:34+08:00</updated>
+  <updated>2021-01-12T16:29:25+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记一次从0到1的edu通杀0day挖掘</title>
+    <updated>2021-01-12T10:50:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/gljYOuuUfYE8JUo-rnMYZw</id>
+    <link href="https://mp.weixin.qq.com/s/gljYOuuUfYE8JUo-rnMYZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从信息泄露到域控</title>
     <updated>2021-01-11T13:29:27+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-29T12:31:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/nPVhrn6J5h99UgalXqNbCA</id>
     <link href="https://mp.weixin.qq.com/s/nPVhrn6J5h99UgalXqNbCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>挖洞神器来一波，够便捷、够实用</title>
-    <updated>2020-12-28T13:19:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/Z7mUDA9XNKX_c-m8GgEkNw</id>
-    <link href="https://mp.weixin.qq.com/s/Z7mUDA9XNKX_c-m8GgEkNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>略微扎手的渗透测试</title>
-    <updated>2020-12-28T13:19:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/qQ-DSxmoQwQpPu-n5jD0FA</id>
-    <link href="https://mp.weixin.qq.com/s/qQ-DSxmoQwQpPu-n5jD0FA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

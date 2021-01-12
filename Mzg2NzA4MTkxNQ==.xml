@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>帅地玩编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:47:07+08:00</updated>
+  <updated>2021-01-12T16:50:09+08:00</updated>
   <subtitle>本号专注于讲解数据结构与算法、计算机基础(如计算机网络+操作系统+数据库+Linux)等编程知识，期待你的关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么全网都在劝你学Java、Python，而不是C++？</title>
+    <updated>2021-01-12T11:43:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/QHGvOpEW8TZmEgFRQn1wkQ</id>
+    <link href="https://mp.weixin.qq.com/s/QHGvOpEW8TZmEgFRQn1wkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我和蓝桥杯的那两年</title>
+    <updated>2021-01-12T11:43:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/cSxvuN2gs3UK8mEiyCvetg</id>
+    <link href="https://mp.weixin.qq.com/s/cSxvuN2gs3UK8mEiyCvetg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>科学上手科研</title>
     <updated>2021-01-11T14:51:47+08:00</updated>
@@ -36,20 +50,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>啥？Java不行了？别开玩笑，大厂现在抢着要！</title>
-    <updated>2021-01-09T13:25:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/gk6a7SD9pwCR3u9BcQKeyw</id>
-    <link href="https://mp.weixin.qq.com/s/gk6a7SD9pwCR3u9BcQKeyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一份硬核资料</title>
-    <updated>2021-01-08T13:45:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/K6nmUaOHo9k7rcB5jUa8Cw</id>
-    <link href="https://mp.weixin.qq.com/s/K6nmUaOHo9k7rcB5jUa8Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>高频面试题：如何安全传输并且存储用户密码？</title>
     <updated>2021-01-08T13:45:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/V82ONS6gdzOuKN06IIEDMA</id>
@@ -61,13 +61,6 @@
     <updated>2021-01-07T13:01:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/lEG7r2dtwGjQBnXTSBmjOQ</id>
     <link href="https://mp.weixin.qq.com/s/lEG7r2dtwGjQBnXTSBmjOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务，牛逼！</title>
-    <updated>2021-01-06T14:02:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/VnAYAlJPyWZWpAmaTmWQpQ</id>
-    <link href="https://mp.weixin.qq.com/s/VnAYAlJPyWZWpAmaTmWQpQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +89,6 @@
     <updated>2021-01-01T21:56:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/RAXuKm435I_zy6iHXUOXBQ</id>
     <link href="https://mp.weixin.qq.com/s/RAXuKm435I_zy6iHXUOXBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>帅地找鹅厂小姐姐舔来了一批「微信红包封面」，这次真的拼手速！！！！</title>
-    <updated>2020-12-31T17:39:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/jLvhkLzTiK3rvH7apLjO4g</id>
-    <link href="https://mp.weixin.qq.com/s/jLvhkLzTiK3rvH7apLjO4g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
