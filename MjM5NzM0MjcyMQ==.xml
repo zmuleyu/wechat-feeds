@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:39:15+08:00</updated>
+  <updated>2021-01-12T20:37:49+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linus Torvalds再改页面锁逻辑</title>
+    <updated>2021-01-12T17:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/czzMud1mviuJ-NL5PGTomQ</id>
+    <link href="https://mp.weixin.qq.com/s/czzMud1mviuJ-NL5PGTomQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>亚马逊前高管：2000从Sun转向Linux，奠基AWS</title>
+    <updated>2021-01-12T17:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/b5B4G3GqEoOLiGH3wsw0VA</id>
+    <link href="https://mp.weixin.qq.com/s/b5B4G3GqEoOLiGH3wsw0VA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PHP 8无缘Fedora34</title>
+    <updated>2021-01-12T17:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/C07cNBpLgv9nk6tB7EY2ig</id>
+    <link href="https://mp.weixin.qq.com/s/C07cNBpLgv9nk6tB7EY2ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Firefox首次支持Linux上的硬件加速功能</title>
+    <updated>2021-01-12T17:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/1_cbscRQPfN-aOEZqP2J2Q</id>
+    <link href="https://mp.weixin.qq.com/s/1_cbscRQPfN-aOEZqP2J2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>热议|可随意改颜色换地区的虚假健康码APP</title>
+    <updated>2021-01-12T17:25:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/2uK_yv4wiHZPmSUjQsOuuA</id>
+    <link href="https://mp.weixin.qq.com/s/2uK_yv4wiHZPmSUjQsOuuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>拼多多回应程序员匿名发帖被辞退，脉脉也有话说</title>
     <updated>2021-01-11T17:21:52+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-07T16:38:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/uRcRBwaWf6xiH0UpfJllGQ</id>
     <link href="https://mp.weixin.qq.com/s/uRcRBwaWf6xiH0UpfJllGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Asahi Linux项目正式启动：致力于将linux移植到苹果M1的项目</title>
-    <updated>2021-01-07T16:38:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/cHQ2KMyyIwWEfTQUg0Oa0A</id>
-    <link href="https://mp.weixin.qq.com/s/cHQ2KMyyIwWEfTQUg0Oa0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cocos Creator 3.0预览版发布，多项重大更新来袭</title>
-    <updated>2021-01-07T16:38:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/bjHduXZ2forQVA1ZffpxAQ</id>
-    <link href="https://mp.weixin.qq.com/s/bjHduXZ2forQVA1ZffpxAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linus新年第一怼：英特尔正在扼杀整个ECC产业</title>
-    <updated>2021-01-06T17:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/VShlVspPp1ILsQdeTIkU7w</id>
-    <link href="https://mp.weixin.qq.com/s/VShlVspPp1ILsQdeTIkU7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工程师：FAT32格式化32G限制是个不能被原谅的致命错误</title>
-    <updated>2021-01-06T17:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/rq9DCDQvzJ1BkEt1AjKVEA</id>
-    <link href="https://mp.weixin.qq.com/s/rq9DCDQvzJ1BkEt1AjKVEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mozilla正在修改Firefox UI，计划5月份公布新设计</title>
-    <updated>2021-01-06T17:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0eDBX9ZPDYpQmSVHNx6b6w</id>
-    <link href="https://mp.weixin.qq.com/s/0eDBX9ZPDYpQmSVHNx6b6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

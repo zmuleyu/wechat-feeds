@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷石安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:44:36+08:00</updated>
+  <updated>2021-01-12T20:41:22+08:00</updated>
   <subtitle>雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GO语言开发GUI安全工具实践</title>
+    <updated>2021-01-12T19:28:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/leGTQlJbpSa5BwZ88h9qcA</id>
+    <link href="https://mp.weixin.qq.com/s/leGTQlJbpSa5BwZ88h9qcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Lanproxy 路径遍历漏洞</title>
+    <updated>2021-01-12T19:28:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/mYmSglQXcnF6TuYGVv-QhQ</id>
+    <link href="https://mp.weixin.qq.com/s/mYmSglQXcnF6TuYGVv-QhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​恶意代码之静态分析</title>
     <updated>2021-01-11T17:47:11+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-28T15:58:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/rO2kcBaKeO2cGhX4AjSs5g</id>
     <link href="https://mp.weixin.qq.com/s/rO2kcBaKeO2cGhX4AjSs5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HackingClub2020完美收官！下一站去哪儿，由你决定！</title>
-    <updated>2020-12-25T14:21:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/9CkAXtWT6Xd6_PT15meGrw</id>
-    <link href="https://mp.weixin.qq.com/s/9CkAXtWT6Xd6_PT15meGrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

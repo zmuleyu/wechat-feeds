@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>apachekylin | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:17:36+08:00</updated>
+  <updated>2021-01-12T20:44:52+08:00</updated>
   <subtitle>Apache Kylin 公众号，介绍 Kylin 的功能特性、应用案例、经验分享、社区资讯、活动等。更多信息，请访问 Kylin 官网：http://kylin.io；相关技术问题，请订阅 Apache Kylin 邮件列表交流。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Apache Kylin 在汽车之家的实时多维分析实践</title>
+    <updated>2021-01-12T18:12:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/NguIz7ZKDVGiVJS9GWwvvQ</id>
+    <link href="https://mp.weixin.qq.com/s/NguIz7ZKDVGiVJS9GWwvvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kylin 在 eBay 的成长历程与实践</title>
     <updated>2021-01-05T14:45:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T15:35:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/5CSNkcdHyPhe0N3h97_Hgg</id>
     <link href="https://mp.weixin.qq.com/s/5CSNkcdHyPhe0N3h97_Hgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kylin 在美团到店餐饮的实践和优化</title>
-    <updated>2020-11-30T16:19:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/boENXiSHv4l08GGEB9O8dA</id>
-    <link href="https://mp.weixin.qq.com/s/boENXiSHv4l08GGEB9O8dA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

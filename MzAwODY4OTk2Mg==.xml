@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:35:43+08:00</updated>
+  <updated>2021-01-12T20:33:34+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vision Transformer：用于大规模图像识别的 Transformer</title>
+    <updated>2021-01-12T16:32:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/VwjApRcDZRo9N8glZd_BgA</id>
+    <link href="https://mp.weixin.qq.com/s/VwjApRcDZRo9N8glZd_BgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Coral：让终端人工智能更加触手可及</title>
     <updated>2021-01-11T16:15:59+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-29T17:41:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/qIe7ZaLhw0QQ2qAaVbsJcA</id>
     <link href="https://mp.weixin.qq.com/s/qIe7ZaLhw0QQ2qAaVbsJcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看机器学习如何驾驭光影：一键为照片增光添彩的“人像光效”</title>
-    <updated>2020-12-28T15:38:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/BWULNiVBE2OJMSHQDCW2fQ</id>
-    <link href="https://mp.weixin.qq.com/s/BWULNiVBE2OJMSHQDCW2fQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

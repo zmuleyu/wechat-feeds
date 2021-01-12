@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:38:23+08:00</updated>
+  <updated>2021-01-12T20:36:09+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>林昊获中国计算机学会杰出工程师奖，阿里中间件再获高度肯定，“三位一体”推动技术普惠</title>
+    <updated>2021-01-12T19:04:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/vTqmIrenS8cAqNklR5FgNg</id>
+    <link href="https://mp.weixin.qq.com/s/vTqmIrenS8cAqNklR5FgNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dubbo 版 Swagger 来啦！Dubbo-Api-Docs 发布</title>
     <updated>2021-01-11T18:35:01+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-31T19:04:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/FX9FSrkhk836MURUg4_hOg</id>
     <link href="https://mp.weixin.qq.com/s/FX9FSrkhk836MURUg4_hOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里巴巴云原生的 2020，注定不凡的一年</title>
-    <updated>2020-12-31T19:00:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/1eYGYGyuZULR7jAq-wNvJg</id>
-    <link href="https://mp.weixin.qq.com/s/1eYGYGyuZULR7jAq-wNvJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何通过 Serverless 轻松识别验证码？</title>
-    <updated>2020-12-31T19:00:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/jF2hWzkGNSesr1ppi4MCjQ</id>
-    <link href="https://mp.weixin.qq.com/s/jF2hWzkGNSesr1ppi4MCjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

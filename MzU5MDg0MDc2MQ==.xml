@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>快手安全应急响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:44:46+08:00</updated>
+  <updated>2021-01-12T20:30:30+08:00</updated>
   <subtitle>https://security.kuaishou.com</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>正式发布 | 新基建：供应链安全风暴狂潮，入局没有硝烟的角逐</title>
+    <updated>2021-01-12T15:17:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/o44JJTIf_fCh4m2faLbx9g</id>
+    <link href="https://mp.weixin.qq.com/s/o44JJTIf_fCh4m2faLbx9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>HSQLDB 安全测试指南</title>
     <updated>2021-01-04T18:40:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-20T21:11:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-20:/s/PpONgc8fchJwa764Vtw7nw</id>
     <link href="https://mp.weixin.qq.com/s/PpONgc8fchJwa764Vtw7nw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看快手如何干掉Fastjson</title>
-    <updated>2020-08-12T15:18:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-12:/s/1UajUkR-LfNT5i0LZrQXrA</id>
-    <link href="https://mp.weixin.qq.com/s/1UajUkR-LfNT5i0LZrQXrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

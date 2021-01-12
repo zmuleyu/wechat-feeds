@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:24:16+08:00</updated>
+  <updated>2021-01-12T20:23:58+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>下周二技术分享丨36Kr 的容器化之路</title>
+    <updated>2021-01-12T18:19:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/7zc6fgS1O5LK8yYVz1QrWQ</id>
+    <link href="https://mp.weixin.qq.com/s/7zc6fgS1O5LK8yYVz1QrWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rancher无法管理集群怎么办？RKE来接手！</title>
     <updated>2021-01-11T18:19:26+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T17:47:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/7DgzmhqrYKZt4r9Zly0iSQ</id>
     <link href="https://mp.weixin.qq.com/s/7DgzmhqrYKZt4r9Zly0iSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1月16日 上海丨「释放云的全部价值：从容器到K8S到云原生」免费沙龙</title>
-    <updated>2020-12-25T18:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/RjY-367IRprEoDP4YedwNA</id>
-    <link href="https://mp.weixin.qq.com/s/RjY-367IRprEoDP4YedwNA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

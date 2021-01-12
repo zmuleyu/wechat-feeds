@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:41:15+08:00</updated>
+  <updated>2021-01-12T20:36:31+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Serveless 助力新零售 —— 乐凯撒新餐饮服务落地实践</title>
+    <updated>2021-01-12T18:55:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/0ImP9SpQnhDLR1_mlYxlaw</id>
+    <link href="https://mp.weixin.qq.com/s/0ImP9SpQnhDLR1_mlYxlaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Serverless 音视频转码 —— 芒果 TV 落地实践（下）</title>
     <updated>2021-01-11T16:29:12+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-29T18:43:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/P0fIaVISg0w1EOutgH3y0w</id>
     <link href="https://mp.weixin.qq.com/s/P0fIaVISg0w1EOutgH3y0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gitee x 腾讯云 Serverless，实现 Web 框架快速上云</title>
-    <updated>2020-12-28T15:17:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/dzuxGVsqUMjCoeJrtbtQNQ</id>
-    <link href="https://mp.weixin.qq.com/s/dzuxGVsqUMjCoeJrtbtQNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CODING 静态网站服务升级，快速、稳定、高拓展！</title>
-    <updated>2020-12-28T15:17:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/7byb2faA1tBlwJ4em8spMA</id>
-    <link href="https://mp.weixin.qq.com/s/7byb2faA1tBlwJ4em8spMA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

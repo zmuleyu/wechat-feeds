@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:34:38+08:00</updated>
+  <updated>2021-01-12T20:39:44+08:00</updated>
   <subtitle>Apache Flink &amp; Apache Hudi. 由Committer &amp; PMC 维护。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>还在写DataStream吗？来感受一下V1.12流批一体Flink Connector</title>
+    <updated>2021-01-12T20:22:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_v2XHxfMbmLK5RhvrhQnyQ</id>
+    <link href="https://mp.weixin.qq.com/s/_v2XHxfMbmLK5RhvrhQnyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Kylin 在汽车之家的实时多维分析实践</title>
+    <updated>2021-01-12T20:22:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/XIRrtvUtMIFkEJp8A2XD6A</id>
+    <link href="https://mp.weixin.qq.com/s/XIRrtvUtMIFkEJp8A2XD6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>重磅！华为云湖仓一体FusionInsight集成Apache Hudi</title>
     <updated>2021-01-11T21:45:33+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-02T21:47:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/tOV9ZAkd5m8mbGVcIxYlOA</id>
     <link href="https://mp.weixin.qq.com/s/tOV9ZAkd5m8mbGVcIxYlOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见2020！2020年最后一篇——Flink面向状态编程</title>
-    <updated>2021-01-01T22:06:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/5UWan256XWinpelH1IVZVw</id>
-    <link href="https://mp.weixin.qq.com/s/5UWan256XWinpelH1IVZVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021 Flink 在数据湖领域即将释放重要信号！</title>
-    <updated>2021-01-01T22:06:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/yJ0NdGEEwzwYYSDS_gAKaQ</id>
-    <link href="https://mp.weixin.qq.com/s/yJ0NdGEEwzwYYSDS_gAKaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:42:27+08:00</updated>
+  <updated>2021-01-12T20:39:10+08:00</updated>
   <subtitle>云原生技术交流阵地，汇聚云原生最新技术资讯、文章、活动，以及云原生产品及用户最佳实践内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂 SuperEdge 边缘容器架构与原理</title>
+    <updated>2021-01-12T18:44:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/V29ga-fOM2KEq-dlKo-FuA</id>
+    <link href="https://mp.weixin.qq.com/s/V29ga-fOM2KEq-dlKo-FuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾讯优图 AI 案例 | 边缘容器让私有化部署交付不再是苦差</title>
     <updated>2021-01-11T17:44:16+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-28T17:51:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/IhlGf97zChsA5LPzsmJC0g</id>
     <link href="https://mp.weixin.qq.com/s/IhlGf97zChsA5LPzsmJC0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多平台容器镜像构建就看这一篇</title>
-    <updated>2020-12-25T17:28:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/OBBTb2li4Zpea0Ej4bwrWA</id>
-    <link href="https://mp.weixin.qq.com/s/OBBTb2li4Zpea0Ej4bwrWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何将离线计算业务的成本降低 65%—弹性容器服务 EKS「竞价实例」上线</title>
-    <updated>2020-12-25T17:28:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/938_Pf3TgIEbenwqSEKA0g</id>
-    <link href="https://mp.weixin.qq.com/s/938_Pf3TgIEbenwqSEKA0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端先锋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:34:47+08:00</updated>
+  <updated>2021-01-12T20:33:47+08:00</updated>
   <subtitle>分享Web大前端相关的独家外文咨询、技术文章、工具资源、精选课程。帮你成为有品质的大前端全栈工程师。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么 Promis 比setTimeout()更快？</title>
+    <updated>2021-01-12T12:35:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/nKh_g_D4wCj5R5GXGPrq0Q</id>
+    <link href="https://mp.weixin.qq.com/s/nKh_g_D4wCj5R5GXGPrq0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CSS自定义单选按钮特效</title>
+    <updated>2021-01-12T12:35:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/VnqyhsAJpyMw2Y_FpJRcDg</id>
+    <link href="https://mp.weixin.qq.com/s/VnqyhsAJpyMw2Y_FpJRcDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TypeScript高级类型与实用程序</title>
     <updated>2021-01-11T17:35:29+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-12-31T18:56:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/KmTsGJObptM_PDwF9bbtMA</id>
     <link href="https://mp.weixin.qq.com/s/KmTsGJObptM_PDwF9bbtMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>免费送书 ｜ 红宝书《JavaScript高级程序设计（第4版）》</title>
-    <updated>2020-12-30T16:07:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/VuF1xurcO5Xk1EU2yW9aMg</id>
-    <link href="https://mp.weixin.qq.com/s/VuF1xurcO5Xk1EU2yW9aMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>创意CSS动画效果合集欣赏</title>
-    <updated>2020-12-30T16:07:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/zS92rG7CC_5AbXmS8QMGDw</id>
-    <link href="https://mp.weixin.qq.com/s/zS92rG7CC_5AbXmS8QMGDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

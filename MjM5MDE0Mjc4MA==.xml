@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:29:05+08:00</updated>
+  <updated>2021-01-12T20:24:55+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“头腾”大战硝烟再起</title>
+    <updated>2021-01-12T16:20:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qZKMxB5VnQOTRkQsRWaaDA</id>
+    <link href="https://mp.weixin.qq.com/s/qZKMxB5VnQOTRkQsRWaaDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来自Airbnb、Netflix等公司的代码评审最佳实践</title>
+    <updated>2021-01-12T16:20:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/g2QdvsrZuIWJHrt5pNv6Zw</id>
+    <link href="https://mp.weixin.qq.com/s/g2QdvsrZuIWJHrt5pNv6Zw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生数据库设计新思路</title>
+    <updated>2021-01-12T16:20:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/s6U-HLKNBhcQj9NhKC_a_Q</id>
+    <link href="https://mp.weixin.qq.com/s/s6U-HLKNBhcQj9NhKC_a_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个典型的架构演变案例：金融时报数据平台</title>
+    <updated>2021-01-12T16:20:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/44Xl2oGZbQeh10pjCVtgug</id>
+    <link href="https://mp.weixin.qq.com/s/44Xl2oGZbQeh10pjCVtgug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你还在用 REST API 吗？</title>
+    <updated>2021-01-12T16:20:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yDmZDzoLtNY8ld4riwjWAg</id>
+    <link href="https://mp.weixin.qq.com/s/yDmZDzoLtNY8ld4riwjWAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀</title>
     <updated>2021-01-11T14:46:18+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-08T12:49:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/2brswsEtEqeVmzsj1tkNMQ</id>
     <link href="https://mp.weixin.qq.com/s/2brswsEtEqeVmzsj1tkNMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker镜像优化：从1.16GB到22.4MB</title>
-    <updated>2021-01-08T12:49:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/g9-HDyEcxm3Ez04SsApGgg</id>
-    <link href="https://mp.weixin.qq.com/s/g9-HDyEcxm3Ez04SsApGgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kotlin开发团队惹上麻烦了</title>
-    <updated>2021-01-07T12:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/VVAYzQU--tCSMQN7C2EX5w</id>
-    <link href="https://mp.weixin.qq.com/s/VVAYzQU--tCSMQN7C2EX5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别再空谈云原生，来看实战方法论</title>
-    <updated>2021-01-07T12:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0ztL33ZHl_UAqc4KsAzmuA</id>
-    <link href="https://mp.weixin.qq.com/s/0ztL33ZHl_UAqc4KsAzmuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你熟悉的TDSQL不一样了</title>
-    <updated>2021-01-07T12:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0UuytBVChvd-XvIpPGCtFg</id>
-    <link href="https://mp.weixin.qq.com/s/0UuytBVChvd-XvIpPGCtFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5大芯片代表巅峰对话：一个面向未来的操作系统是怎样的？</title>
-    <updated>2021-01-07T12:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/XzGaErexJEhgvjbEk_twjA</id>
-    <link href="https://mp.weixin.qq.com/s/XzGaErexJEhgvjbEk_twjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

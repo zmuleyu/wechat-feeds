@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:27:37+08:00</updated>
+  <updated>2021-01-12T20:26:47+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021立Flag：搞定. NET5千万高并发项目，工资double | 被杠精同事嘲笑…</title>
+    <updated>2021-01-12T14:42:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/rwSsrF9oxGyrrx7o_y1OiQ</id>
+    <link href="https://mp.weixin.qq.com/s/rwSsrF9oxGyrrx7o_y1OiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>性能超四倍的高性能.NET二进制序列化库</title>
+    <updated>2021-01-12T14:42:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qGMzdb3Y1eJ_tdzCqUafRQ</id>
+    <link href="https://mp.weixin.qq.com/s/qGMzdb3Y1eJ_tdzCqUafRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>别说.NET开源晚，这些技术利器很多人到现在还不会！</title>
     <updated>2021-01-11T15:21:01+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-03T12:32:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/M-vczNRwKCCnu5Vt2d9Ddw</id>
     <link href="https://mp.weixin.qq.com/s/M-vczNRwKCCnu5Vt2d9Ddw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Core 基于 Dockerfile 文件部署</title>
-    <updated>2021-01-02T10:53:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/TNWZFgYzKpTLT-KGc-kQMg</id>
-    <link href="https://mp.weixin.qq.com/s/TNWZFgYzKpTLT-KGc-kQMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记住看小电影前一定要检查域名是不是 HTTPS 的，不然…</title>
-    <updated>2021-01-02T10:53:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/7cX0MQNaFylpKAc-o_LsVA</id>
-    <link href="https://mp.weixin.qq.com/s/7cX0MQNaFylpKAc-o_LsVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

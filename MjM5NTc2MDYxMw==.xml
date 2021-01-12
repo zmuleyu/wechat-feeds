@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>看雪学院 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:36:52+08:00</updated>
+  <updated>2021-01-12T20:35:14+08:00</updated>
   <subtitle>致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>理解elf文件的got和plt</title>
+    <updated>2021-01-12T11:13:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/MaHTvtk-hQn_JEGJ-D73Bw</id>
+    <link href="https://mp.weixin.qq.com/s/MaHTvtk-hQn_JEGJ-D73Bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>联合国数据库暴露，超10万雇员信息泄露</title>
+    <updated>2021-01-12T11:13:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/7f_Bui6Cq-urxGSpZZmTgA</id>
+    <link href="https://mp.weixin.qq.com/s/7f_Bui6Cq-urxGSpZZmTgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>看雪高人气讲师新课来啦！实战CVE漏洞分析与防范（第一季）</title>
+    <updated>2021-01-12T11:13:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yBfhGWu_06KUJD0EB0YKEA</id>
+    <link href="https://mp.weixin.qq.com/s/yBfhGWu_06KUJD0EB0YKEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVE-2010-3333 笔记分享</title>
     <updated>2021-01-11T11:59:47+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-06T17:58:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/ClTXX46UyH1gp0hwhnkZeA</id>
     <link href="https://mp.weixin.qq.com/s/ClTXX46UyH1gp0hwhnkZeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>川普又有大动作！再禁中国8款应用，微信支付宝也在列</title>
-    <updated>2021-01-06T17:58:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/J-lJW2FPpbb9gfclL_wRxQ</id>
-    <link href="https://mp.weixin.qq.com/s/J-lJW2FPpbb9gfclL_wRxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>四年磨一剑，无名侠教你用Unicorn逆向闯荡江湖！</title>
-    <updated>2021-01-06T17:58:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/b0o_HlidVfyfipex5F4r_g</id>
-    <link href="https://mp.weixin.qq.com/s/b0o_HlidVfyfipex5F4r_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sandboxie循序渐进</title>
-    <updated>2021-01-05T14:29:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/LXTm0xGYZiQVqJizordSXw</id>
-    <link href="https://mp.weixin.qq.com/s/LXTm0xGYZiQVqJizordSXw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

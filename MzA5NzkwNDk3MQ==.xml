@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:44:11+08:00</updated>
+  <updated>2021-01-12T20:39:36+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vue CLI 是如何实现的 -- 终端命令行工具篇</title>
+    <updated>2021-01-12T18:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_3mpRIbPLjiWQpKDbbcE1g</id>
+    <link href="https://mp.weixin.qq.com/s/_3mpRIbPLjiWQpKDbbcE1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团- 招高级iOS开发工程师</title>
+    <updated>2021-01-12T18:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/-wEItPZ1v13IsU_EWxSXSg</id>
+    <link href="https://mp.weixin.qq.com/s/-wEItPZ1v13IsU_EWxSXSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2021-01-12T18:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Az8gqsXAQZ1HCLzWHW_fAw</id>
+    <link href="https://mp.weixin.qq.com/s/Az8gqsXAQZ1HCLzWHW_fAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JavaScript 世界万物诞生记</title>
     <updated>2021-01-11T17:41:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-31T17:06:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/tCJNVcvXaSHqVKJw7rjsTA</id>
     <link href="https://mp.weixin.qq.com/s/tCJNVcvXaSHqVKJw7rjsTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 MonoRepo 管理前端项目</title>
-    <updated>2020-12-30T15:17:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/GzwABWH8GXYVp9X1zhz9lA</id>
-    <link href="https://mp.weixin.qq.com/s/GzwABWH8GXYVp9X1zhz9lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团- 招高级iOS开发工程师</title>
-    <updated>2020-12-30T15:17:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/pwJg9Urv_XcgHOzOK0b7sQ</id>
-    <link href="https://mp.weixin.qq.com/s/pwJg9Urv_XcgHOzOK0b7sQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2020-12-30T15:17:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/EC_X42EbthdV7ovTbYMBjQ</id>
-    <link href="https://mp.weixin.qq.com/s/EC_X42EbthdV7ovTbYMBjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

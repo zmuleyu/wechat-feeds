@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱笑的架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:34:46+08:00</updated>
+  <updated>2021-01-12T20:44:21+08:00</updated>
   <subtitle>华中科技大学硕士，大厂打工中……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>高并发场景下，到底先更新缓存还是先更新数据库？</title>
+    <updated>2021-01-12T18:56:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/bewlUcHL2e6fw2vDrhEDCw</id>
+    <link href="https://mp.weixin.qq.com/s/bewlUcHL2e6fw2vDrhEDCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谈谈拼夕夕事件！为什么我们拼尽全力却还要996</title>
     <updated>2021-01-08T08:27:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-19T12:44:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/LO5hlm_GbH8ytoABbnA5CQ</id>
     <link href="https://mp.weixin.qq.com/s/LO5hlm_GbH8ytoABbnA5CQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刨根问底，Kafka消息中间件到底会不会丢消息</title>
-    <updated>2020-11-12T17:05:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/TScpvjpIlyZyj62e8EwOPg</id>
-    <link href="https://mp.weixin.qq.com/s/TScpvjpIlyZyj62e8EwOPg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
