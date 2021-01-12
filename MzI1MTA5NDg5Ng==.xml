@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>匠心独运维妙维效 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:34:49+08:00</updated>
+  <updated>2021-01-12T11:40:58+08:00</updated>
   <subtitle>经验分享、知识共享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈异地灾备真实业务接管之数据保护构建</title>
+    <updated>2021-01-11T08:34:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/s4CgVvNJdi02Lzw8JAAcxw</id>
+    <link href="https://mp.weixin.qq.com/s/s4CgVvNJdi02Lzw8JAAcxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DevOps来了，你准备好了吗？</title>
     <updated>2021-01-04T11:31:10+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-11-17T06:51:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/SUuld5C1qX0SfQO7kapimA</id>
     <link href="https://mp.weixin.qq.com/s/SUuld5C1qX0SfQO7kapimA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈图数据库适用性选型及应用配置管理平台场景应用</title>
-    <updated>2020-11-09T23:24:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/yD0GTUuFktXNNhnIehcSkw</id>
-    <link href="https://mp.weixin.qq.com/s/yD0GTUuFktXNNhnIehcSkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

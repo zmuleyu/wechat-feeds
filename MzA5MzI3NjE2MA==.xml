@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>郭霖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:46:18+08:00</updated>
+  <updated>2021-01-12T11:43:41+08:00</updated>
   <subtitle>Android技术分享平台，每个工作日都有优质技术文章推送。你还可以向公众号投稿，将自己总结的技术心得分享给大家。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你好，Activity Results API！</title>
+    <updated>2021-01-11T20:33:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/jcnFN73d002OfRXRx6u3yA</id>
+    <link href="https://mp.weixin.qq.com/s/jcnFN73d002OfRXRx6u3yA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这一次，就彻底了解OkHttp与Retrofit吧！</title>
     <updated>2021-01-10T20:09:14+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T21:07:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/KzbRU4nHZSE98rAJG0i7Bw</id>
     <link href="https://mp.weixin.qq.com/s/KzbRU4nHZSE98rAJG0i7Bw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android 卡顿调研</title>
-    <updated>2020-12-27T20:46:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/Ol6GZbc3GuMJVFaaZRe-cA</id>
-    <link href="https://mp.weixin.qq.com/s/Ol6GZbc3GuMJVFaaZRe-cA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

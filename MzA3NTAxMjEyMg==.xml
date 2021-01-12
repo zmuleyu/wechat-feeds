@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MongoDB | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:55:31+08:00</updated>
+  <updated>2021-01-12T11:52:00+08:00</updated>
   <subtitle>MongoDB相关问题交流，发布MongoDB最新的相关资讯，解决MongoDB用户的技术问题。定期举办各种线上或者线下的技术交流活动。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>就是要让你搞懂Nginx，这篇就够了！</title>
+    <updated>2021-01-12T09:09:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/6lIyoBB1Yaq68eXI9WOiVw</id>
+    <link href="https://mp.weixin.qq.com/s/6lIyoBB1Yaq68eXI9WOiVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有人靠&#34;抢茅台&#34;月入百万，脚本曝光，开源可用！</title>
     <updated>2021-01-11T09:09:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-27T23:57:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/r3lB-4eDDr9tWEEVfg0Rvw</id>
     <link href="https://mp.weixin.qq.com/s/r3lB-4eDDr9tWEEVfg0Rvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拥抱 Java 8 并行流吧，让执行速度飞起！</title>
-    <updated>2020-12-23T08:49:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/0CI6jRdvPJBql2_oYH9yTw</id>
-    <link href="https://mp.weixin.qq.com/s/0CI6jRdvPJBql2_oYH9yTw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

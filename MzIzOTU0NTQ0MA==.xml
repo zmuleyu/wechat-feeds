@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:35:05+08:00</updated>
+  <updated>2021-01-12T11:54:55+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>什么是流式输出？</title>
+    <updated>2021-01-11T17:34:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/mGXcD8gRQfyHpmqx46kmPw</id>
+    <link href="https://mp.weixin.qq.com/s/mGXcD8gRQfyHpmqx46kmPw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>收藏！Tengine问题排查必备</title>
     <updated>2021-01-11T18:08:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T18:08:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/I6hex1v08rfxDKT6UP-jOQ</id>
     <link href="https://mp.weixin.qq.com/s/I6hex1v08rfxDKT6UP-jOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring启动慢？提速利器SpringFu来了</title>
-    <updated>2020-12-28T07:59:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/MlEy0L617TMwVipo7RZEWw</id>
-    <link href="https://mp.weixin.qq.com/s/MlEy0L617TMwVipo7RZEWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

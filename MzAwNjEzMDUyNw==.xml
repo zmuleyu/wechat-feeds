@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TesterHome | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:48:53+08:00</updated>
+  <updated>2021-01-12T12:03:44+08:00</updated>
   <subtitle>国内首个移动测试交流社区，最专业的 Appium 交流社区。专注于移动互联网测试和 Web 相关测试技术研究。我们的理念：Coding Share Show Cool</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>服务端｜性能测试入门指南 (慎入: 6000 字长文)</title>
+    <updated>2021-01-11T22:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/QWIaXwjOiw7Npgh9uENGBw</id>
+    <link href="https://mp.weixin.qq.com/s/QWIaXwjOiw7Npgh9uENGBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>移动端应用的弹窗模型训练</title>
     <updated>2021-01-11T15:44:18+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2021-01-01T08:51:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/3zUA3UpqoJEhFFf5jdSFOQ</id>
     <link href="https://mp.weixin.qq.com/s/3zUA3UpqoJEhFFf5jdSFOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>赋能游戏品质，洞察未来趋势！腾讯 WeTest《2020 移动游戏质量白皮书》正式开放预约</title>
-    <updated>2020-12-31T14:15:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ioe1vxSRbdydAUSTqfR6_Q</id>
-    <link href="https://mp.weixin.qq.com/s/ioe1vxSRbdydAUSTqfR6_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我的 2019 &amp; 2020 总结</title>
-    <updated>2020-12-31T14:15:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/5Lx-ye0uRNXyXh6UiXBUMg</id>
-    <link href="https://mp.weixin.qq.com/s/5Lx-ye0uRNXyXh6UiXBUMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:01:49+08:00</updated>
+  <updated>2021-01-12T11:58:33+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员2年攒了60.8万，晒出工资单，网友：卧槽！</title>
+    <updated>2021-01-11T20:57:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Ddyay4EoFMvpn8JNqQMDeA</id>
+    <link href="https://mp.weixin.qq.com/s/Ddyay4EoFMvpn8JNqQMDeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生时代，Java危矣？</title>
+    <updated>2021-01-11T20:57:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/3xQ6SWhGjQNAJvysqWLjbg</id>
+    <link href="https://mp.weixin.qq.com/s/3xQ6SWhGjQNAJvysqWLjbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>15年老司机聊程序员成长的28个要点</title>
     <updated>2021-01-11T08:16:50+08:00</updated>
@@ -19,13 +33,6 @@
     <updated>2021-01-11T08:16:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/xNNKH_U9wA0QjWe2_A8HdA</id>
     <link href="https://mp.weixin.qq.com/s/xNNKH_U9wA0QjWe2_A8HdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>写代码用什么笔记本爽？送一台！</title>
-    <updated>2021-01-09T23:20:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/CZ3n5IQEK-EReWF1wG13Kw</id>
-    <link href="https://mp.weixin.qq.com/s/CZ3n5IQEK-EReWF1wG13Kw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -64,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>阿里云MVP专家：重塑万亿级企业三高微服务架构设计实战案例</title>
-    <updated>2021-01-05T20:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/BqqgYJl1NIizl_r5HUDO_g</id>
-    <link href="https://mp.weixin.qq.com/s/BqqgYJl1NIizl_r5HUDO_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>祝贺“你假笨”创立的PerfMa再获高瓴创投领投1.5亿A++轮融资</title>
     <updated>2021-01-05T20:13:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/kQn7wkTkpCj88G7SQonxhg</id>
@@ -85,24 +85,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>对标P7，阿里云出品的MySQL&amp;PostgrelSQL训练营来了！</title>
-    <updated>2021-01-04T19:56:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/RiwXkET62UKN2m7jtiNR_Q</id>
-    <link href="https://mp.weixin.qq.com/s/RiwXkET62UKN2m7jtiNR_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>阿里合伙人范禹：常挂在阿里技术人嘴边的四句土话</title>
     <updated>2021-01-04T19:56:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/_0plASg42YnSCt_8WGBNXQ</id>
     <link href="https://mp.weixin.qq.com/s/_0plASg42YnSCt_8WGBNXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一家城商行外部数据管理平台的诞生</title>
-    <updated>2021-01-03T23:10:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/b5OfMlIIkRyjzRusiOEt-A</id>
-    <link href="https://mp.weixin.qq.com/s/b5OfMlIIkRyjzRusiOEt-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +103,6 @@
     <updated>2021-01-02T16:48:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/8KrZIK2mJXPyXdBMIVitLA</id>
     <link href="https://mp.weixin.qq.com/s/8KrZIK2mJXPyXdBMIVitLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从“懂管理的IT人”，到“懂IT的管理者”</title>
-    <updated>2021-01-02T10:09:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/3JKLKQCqnp3KFfdc4kSINw</id>
-    <link href="https://mp.weixin.qq.com/s/3JKLKQCqnp3KFfdc4kSINw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

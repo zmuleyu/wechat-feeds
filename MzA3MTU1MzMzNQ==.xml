@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>C语言与C++编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:37:54+08:00</updated>
+  <updated>2021-01-12T12:06:11+08:00</updated>
   <subtitle>讨论和学习C/C++编程知识，分享C语言和C++开发相关的技术文章和工具资源</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈C++下STL库中的容器底层小知识</title>
+    <updated>2021-01-11T17:32:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/mnMgIdq7eClU6CtVRr8Xug</id>
+    <link href="https://mp.weixin.qq.com/s/mnMgIdq7eClU6CtVRr8Xug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>那些在家啃书自学C++的人，最后都找到工作了吗？</title>
     <updated>2021-01-10T21:32:44+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-03T23:25:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/mxCQgzWbRY8516RRs57vfg</id>
     <link href="https://mp.weixin.qq.com/s/mxCQgzWbRY8516RRs57vfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纠缠不清的C语言位域（位段）详解</title>
-    <updated>2020-12-30T17:43:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/pCe1v5U7bP7zkls4VL7cMQ</id>
-    <link href="https://mp.weixin.qq.com/s/pCe1v5U7bP7zkls4VL7cMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

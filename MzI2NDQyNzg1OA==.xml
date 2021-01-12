@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谢公子学安全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:24:56+08:00</updated>
+  <updated>2021-01-12T11:44:29+08:00</updated>
   <subtitle>分享本人学习信息安全路上的一些经验和笔记，有错误之处大家可以指出来，大佬请绕路</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -43,24 +43,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>2020年大学生网络安全邀请赛暨第六届上海市大学生网络安全大赛圆满落幕</title>
-    <updated>2020-12-30T15:42:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/78Yot8vPYGBRtXNSd0i4Sg</id>
-    <link href="https://mp.weixin.qq.com/s/78Yot8vPYGBRtXNSd0i4Sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>分析网站登录处的加密算法（二）</title>
     <updated>2020-12-28T16:20:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/hpmRDhNAOV2-YXG_gkDBhw</id>
     <link href="https://mp.weixin.qq.com/s/hpmRDhNAOV2-YXG_gkDBhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>十年大牛自爆：深挖上亿黑色产业链那些事，值得渗透人一听！</title>
-    <updated>2020-12-26T11:47:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/R1ONQXxERz6hSTapA87UoQ</id>
-    <link href="https://mp.weixin.qq.com/s/R1ONQXxERz6hSTapA87UoQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,6 +75,20 @@
     <updated>2020-12-18T12:49:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/jiGXv-UHexw5R1JSpCHQyg</id>
     <link href="https://mp.weixin.qq.com/s/jiGXv-UHexw5R1JSpCHQyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Exchange漏洞攻略来啦！！</title>
+    <updated>2020-12-16T13:31:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/j6vtRlosvzLWMRsS2Ie7Pg</id>
+    <link href="https://mp.weixin.qq.com/s/j6vtRlosvzLWMRsS2Ie7Pg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>利用加载器以及Python反序列化绕过AV</title>
+    <updated>2020-12-16T13:31:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-16:/s/6t8NQDlbx_aq4aJQGd2hwA</id>
+    <link href="https://mp.weixin.qq.com/s/6t8NQDlbx_aq4aJQGd2hwA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

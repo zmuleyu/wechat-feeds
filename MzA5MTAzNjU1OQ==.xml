@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>持续交付2.0 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:37:45+08:00</updated>
+  <updated>2021-01-12T11:57:28+08:00</updated>
   <subtitle>组织管理、团队管理、工程效能相关技术与案例分析</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再谈谷歌如何做发布</title>
+    <updated>2021-01-11T15:34:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/QyKLbaj5C7rUvT4FsriBSA</id>
+    <link href="https://mp.weixin.qq.com/s/QyKLbaj5C7rUvT4FsriBSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微反馈回路让开发人员效率最大化</title>
     <updated>2021-01-10T13:52:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T00:53:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/6hvmzqDCpWJp7i0sazdgUQ</id>
     <link href="https://mp.weixin.qq.com/s/6hvmzqDCpWJp7i0sazdgUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SRE落地：用VALET模式统一语言</title>
-    <updated>2020-12-17T20:15:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/ZFpf3lka4B5LJBhTWn4Dtg</id>
-    <link href="https://mp.weixin.qq.com/s/ZFpf3lka4B5LJBhTWn4Dtg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

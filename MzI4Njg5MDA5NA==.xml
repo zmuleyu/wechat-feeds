@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java3y | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:05:39+08:00</updated>
+  <updated>2021-01-12T12:01:59+08:00</updated>
   <subtitle>一个朴实无华且枯燥的程序员。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java：辟一下谣，我还是最能打的！</title>
+    <updated>2021-01-11T23:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/U-37QyazvG6MGbTUAZRw7A</id>
+    <link href="https://mp.weixin.qq.com/s/U-37QyazvG6MGbTUAZRw7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这才叫细：带你深入理解Redis分布式锁</title>
+    <updated>2021-01-11T23:35:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/A_sVRRJLCoz59ub4_O_SkQ</id>
+    <link href="https://mp.weixin.qq.com/s/A_sVRRJLCoz59ub4_O_SkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【对线面试官】 CAS</title>
     <updated>2021-01-10T17:59:59+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-01T15:12:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/2tUkOFBGdIqKUvfdQ1L_JQ</id>
     <link href="https://mp.weixin.qq.com/s/2tUkOFBGdIqKUvfdQ1L_JQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java反射</title>
-    <updated>2020-12-30T23:11:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/ad6cSGmjLm71Je30FyoYfw</id>
-    <link href="https://mp.weixin.qq.com/s/ad6cSGmjLm71Je30FyoYfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

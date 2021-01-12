@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFlow范式 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:33:15+08:00</updated>
+  <updated>2021-01-12T12:04:45+08:00</updated>
   <subtitle>透过技术圈百态，体会世间冷暖，树立正确的技术观、人生观、价值观和世界观</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
+    <updated>2021-01-12T09:54:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/vM0aofVJu5dZZoxHHGVVzg</id>
+    <link href="https://mp.weixin.qq.com/s/vM0aofVJu5dZZoxHHGVVzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>摆脱云数据库限制：一种行之有效的非常规 CDC</title>
     <updated>2020-06-25T16:26:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-04-18T09:40:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-04-18:/s/BnAjAiqsf9lNHQOQXBm8Pw</id>
     <link href="https://mp.weixin.qq.com/s/BnAjAiqsf9lNHQOQXBm8Pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ClickHouse 灵活实现同比、环比业务需求</title>
-    <updated>2020-04-08T20:39:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-04-08:/s/8becj9GlmQge-Gx9tJnwJg</id>
-    <link href="https://mp.weixin.qq.com/s/8becj9GlmQge-Gx9tJnwJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

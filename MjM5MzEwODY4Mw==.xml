@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA架构日记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:45:54+08:00</updated>
+  <updated>2021-01-12T11:48:24+08:00</updated>
   <subtitle>致力于高质量 技术文章原创分享，拒绝水文、软文。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SpringCloud LoadBalancer灰度策略实现</title>
+    <updated>2021-01-11T23:44:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/tywpTarPFcOv5sbpF3rPlA</id>
+    <link href="https://mp.weixin.qq.com/s/tywpTarPFcOv5sbpF3rPlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Idea 开启机器学习增强代码提示</title>
     <updated>2021-01-05T08:37:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T22:32:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/ObCAgeBRJhJyJZ_ySCOSZw</id>
     <link href="https://mp.weixin.qq.com/s/ObCAgeBRJhJyJZ_ySCOSZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「2020封箱」Spring Boot 2.4.1 发布</title>
-    <updated>2020-12-11T23:23:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/LSS90UGFzK53p0bEZrqF3Q</id>
-    <link href="https://mp.weixin.qq.com/s/LSS90UGFzK53p0bEZrqF3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

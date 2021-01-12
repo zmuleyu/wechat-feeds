@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码与远方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:41:46+08:00</updated>
+  <updated>2021-01-12T11:39:25+08:00</updated>
   <subtitle>我们,除了代码还有诗和远方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>线程安全代码到底是怎么编写的？</title>
+    <updated>2021-01-11T22:05:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/IAQ-w8vGhAhsMmb5jLTX4g</id>
+    <link href="https://mp.weixin.qq.com/s/IAQ-w8vGhAhsMmb5jLTX4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员应如何理解高并发中的协程</title>
     <updated>2021-01-10T00:11:50+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-02T00:21:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/8ayWanXDEPuUoqFeCE9iVQ</id>
     <link href="https://mp.weixin.qq.com/s/8ayWanXDEPuUoqFeCE9iVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别看 DNS 污染闹得欢，现在我用 CoreDNS 将它拉清单</title>
-    <updated>2021-01-01T00:52:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/friB1yy6HAZFu1D-e4Y6YQ</id>
-    <link href="https://mp.weixin.qq.com/s/friB1yy6HAZFu1D-e4Y6YQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

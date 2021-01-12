@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:20:18+08:00</updated>
+  <updated>2021-01-12T11:41:25+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入拆解多种消息队列及各自优缺点对比</title>
+    <updated>2021-01-11T22:34:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5IqMU2MSAbCTMsdA1mLKNg</id>
+    <link href="https://mp.weixin.qq.com/s/5IqMU2MSAbCTMsdA1mLKNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动ClickHouse在用户增长分析场景的应用</title>
+    <updated>2021-01-11T22:34:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ac8LgqJ-e09VLelj9Y7x9g</id>
+    <link href="https://mp.weixin.qq.com/s/ac8LgqJ-e09VLelj9Y7x9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐系统之标签体系</title>
     <updated>2021-01-11T12:34:36+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-03T11:56:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/Kii9acGY57FH-OZ__BLueA</id>
     <link href="https://mp.weixin.qq.com/s/Kii9acGY57FH-OZ__BLueA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个真实的用户画像实例。</title>
-    <updated>2021-01-02T14:19:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/DJpPhuAI2Co1lBqTsNMEXA</id>
-    <link href="https://mp.weixin.qq.com/s/DJpPhuAI2Co1lBqTsNMEXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>边缘计算：到底有哪些关键技术？</title>
-    <updated>2021-01-02T14:19:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/YQ4qHCvSko1JNvACLroMjQ</id>
-    <link href="https://mp.weixin.qq.com/s/YQ4qHCvSko1JNvACLroMjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

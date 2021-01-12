@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>远洋号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:40:21+08:00</updated>
+  <updated>2021-01-12T11:40:45+08:00</updated>
   <subtitle>《图解数据结构与算法》《图解Java并发原理》《Tomcat内核设计剖析》书籍作者，擅长工程算法、人工智能算法、自然语言处理、架构、分布式、高并发、大数据、搜索引擎。擅长Java、Python、C++。喜欢看书、写作、编程、运动，素描</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊机器如何理解人类的语言</title>
+    <updated>2021-01-12T08:00:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/S8WTPTGsc0pcmLeWK0NHMw</id>
+    <link href="https://mp.weixin.qq.com/s/S8WTPTGsc0pcmLeWK0NHMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>轻松搞懂Trie树</title>
     <updated>2020-12-14T00:15:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-05-05T23:46:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-05-05:/s/GJWb0s0RV2fX97hKk2ohDQ</id>
     <link href="https://mp.weixin.qq.com/s/GJWb0s0RV2fX97hKk2ohDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图解B树</title>
-    <updated>2020-04-19T10:45:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-04-19:/s/WC_FMw5lZucZzb4eItwwvA</id>
-    <link href="https://mp.weixin.qq.com/s/WC_FMw5lZucZzb4eItwwvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

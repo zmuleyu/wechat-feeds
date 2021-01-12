@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T16:24:19+08:00</updated>
+  <updated>2021-01-12T12:05:39+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务缓存原理与最佳实践</title>
+    <updated>2021-01-11T16:42:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/sqBRc8GvKGevocM9fB8c2w</id>
+    <link href="https://mp.weixin.qq.com/s/sqBRc8GvKGevocM9fB8c2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go+，下一个十年</title>
     <updated>2021-01-07T14:34:01+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-23T23:15:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/DIalCpxno699DiEJp3-CTA</id>
     <link href="https://mp.weixin.qq.com/s/DIalCpxno699DiEJp3-CTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>21年的第一场Gopher Meetup，北京我们来了！</title>
-    <updated>2020-12-21T17:41:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/6hOHtqehT7vyH-mySuMWNw</id>
-    <link href="https://mp.weixin.qq.com/s/6hOHtqehT7vyH-mySuMWNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「GoTeam 招聘时间」星药科技 Go 开发专家（深圳）</title>
-    <updated>2020-12-21T17:41:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/l3rm44oHq27vv5RFeq4sXA</id>
-    <link href="https://mp.weixin.qq.com/s/l3rm44oHq27vv5RFeq4sXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

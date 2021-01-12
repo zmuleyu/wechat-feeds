@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:42:00+08:00</updated>
+  <updated>2021-01-12T11:40:04+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 中使用 MSMQ</title>
+    <updated>2021-01-12T07:57:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/iqm-ddb2moxlF6v_T2p0fQ</id>
+    <link href="https://mp.weixin.qq.com/s/iqm-ddb2moxlF6v_T2p0fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GeneralUpdate2.1.0发布</title>
+    <updated>2021-01-12T07:57:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/GUgTM5lhf2HzIQbJ0wQitg</id>
+    <link href="https://mp.weixin.qq.com/s/GUgTM5lhf2HzIQbJ0wQitg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Blazor VS 传统Web应用程序</title>
     <updated>2021-01-11T08:40:19+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-05T08:46:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/HMMlnRlx2J-JVB1-Q-vg-Q</id>
     <link href="https://mp.weixin.qq.com/s/HMMlnRlx2J-JVB1-Q-vg-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 C# 中的 Action, Func，Predicate</title>
-    <updated>2020-12-03T08:31:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/G42rsiAPxioltAencOdDvw</id>
-    <link href="https://mp.weixin.qq.com/s/G42rsiAPxioltAencOdDvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

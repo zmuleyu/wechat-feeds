@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯安全应急响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:17:35+08:00</updated>
+  <updated>2021-01-12T11:38:39+08:00</updated>
   <subtitle>腾讯安全应急响应中心（TSRC）官方微信</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>处理公告丨2020年12月腾讯外部安全报告处理公告</title>
+    <updated>2021-01-11T18:50:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/KJkgDLnQv9-JTzqHXXt60Q</id>
+    <link href="https://mp.weixin.qq.com/s/KJkgDLnQv9-JTzqHXXt60Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>BORG ：一个快速进化的僵尸网络</title>
     <updated>2021-01-11T18:05:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-23T18:34:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/6KviA72Ke0I9ZVYusTDpoA</id>
     <link href="https://mp.weixin.qq.com/s/6KviA72Ke0I9ZVYusTDpoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【安全通知】PyPI 官方仓库遭遇covd恶意包投毒</title>
-    <updated>2020-11-18T20:08:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/RoTTPgL3a0STgmT_2HFKTA</id>
-    <link href="https://mp.weixin.qq.com/s/RoTTPgL3a0STgmT_2HFKTA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

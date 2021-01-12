@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>IT界农民工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:42:46+08:00</updated>
+  <updated>2021-01-12T11:46:49+08:00</updated>
   <subtitle>一个有态度的BAT搬砖工。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫画 | 这样的男朋友，让我分分钟想剖腹自尽！</title>
+    <updated>2021-01-12T01:57:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/wsGjWiurX_e_iI4fJfpi5w</id>
+    <link href="https://mp.weixin.qq.com/s/wsGjWiurX_e_iI4fJfpi5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官：Mysql 中主库跑太快，从库追不上怎么整？</title>
     <updated>2021-01-06T00:36:41+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-02T00:02:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-02:/s/NfH-hoOChoskdL4Jbb4uJw</id>
     <link href="https://mp.weixin.qq.com/s/NfH-hoOChoskdL4Jbb4uJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试时说Redis是单线程的，被喷惨了！</title>
-    <updated>2020-10-26T00:13:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/o3uw90NFsOAfDAb1zbW5Eg</id>
-    <link href="https://mp.weixin.qq.com/s/o3uw90NFsOAfDAb1zbW5Eg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

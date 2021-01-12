@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaKeeper | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:37:06+08:00</updated>
+  <updated>2021-01-12T12:05:39+08:00</updated>
   <subtitle>Java技术有限委员会</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis 消息队列的三种方案（List、Streams、Pub/Sub）</title>
+    <updated>2021-01-11T20:26:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/_q0bI62iFrG8h-gZ-bCvNQ</id>
+    <link href="https://mp.weixin.qq.com/s/_q0bI62iFrG8h-gZ-bCvNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里彻底拆中台了！</title>
     <updated>2021-01-08T08:19:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T17:28:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/dKOgFO4FcEE8Z_MuDOoaZw</id>
     <link href="https://mp.weixin.qq.com/s/dKOgFO4FcEE8Z_MuDOoaZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里大佬谈技术人的成长路径</title>
-    <updated>2020-11-20T11:15:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/XNw0qrdI9TvzwGfejS_lCw</id>
-    <link href="https://mp.weixin.qq.com/s/XNw0qrdI9TvzwGfejS_lCw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

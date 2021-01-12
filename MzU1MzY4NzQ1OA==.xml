@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:42:01+08:00</updated>
+  <updated>2021-01-12T11:56:52+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生时代的 Java：辟一下谣，我还是最能打的！</title>
+    <updated>2021-01-12T00:02:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yK8lfFnj_sjBTaawGaDZDg</id>
+    <link href="https://mp.weixin.qq.com/s/yK8lfFnj_sjBTaawGaDZDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解决 Kubernetes 部署 Metrics Server 无法访问 Apiserver 问题</title>
+    <updated>2021-01-12T00:02:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/4BskQfWUcYeE-_xfXgbdCQ</id>
+    <link href="https://mp.weixin.qq.com/s/4BskQfWUcYeE-_xfXgbdCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes Pod 突然就无法挂载 Ceph RBD 存储卷了。。</title>
     <updated>2021-01-11T13:51:18+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-27T23:07:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/DMco5nVWY4S1O_LKsMy14w</id>
     <link href="https://mp.weixin.qq.com/s/DMco5nVWY4S1O_LKsMy14w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Containerd 中的 Snapshot 到底是个什么鬼？</title>
-    <updated>2020-12-27T14:12:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/QRpZoTI9xB2JGiVpuS9NpA</id>
-    <link href="https://mp.weixin.qq.com/s/QRpZoTI9xB2JGiVpuS9NpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

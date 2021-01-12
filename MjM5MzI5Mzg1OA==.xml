@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:24:54+08:00</updated>
+  <updated>2021-01-12T11:41:05+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 .NetCore 中使用 AutoMapper 高级功能</title>
+    <updated>2021-01-12T09:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/zDqzFvq4zbbKDDs_oTXrLw</id>
+    <link href="https://mp.weixin.qq.com/s/zDqzFvq4zbbKDDs_oTXrLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈.NET技术公司的实习生培养</title>
+    <updated>2021-01-12T09:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/EkouUNrQSjIzQSz-0o7JFA</id>
+    <link href="https://mp.weixin.qq.com/s/EkouUNrQSjIzQSz-0o7JFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 C# 中使用 委托</title>
+    <updated>2021-01-12T09:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/DLM7MKUdZ7m7VckSnvSr3A</id>
+    <link href="https://mp.weixin.qq.com/s/DLM7MKUdZ7m7VckSnvSr3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 22. dict 的基本操作详解</title>
+    <updated>2021-01-12T09:53:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/pk0WnDGf7xPgNK4CthhLOA</id>
+    <link href="https://mp.weixin.qq.com/s/pk0WnDGf7xPgNK4CthhLOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 中使用 MSMQ</title>
     <updated>2021-01-11T13:38:59+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-07T12:44:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/ZTM5z9bKhb8FWTyBKF8t3Q</id>
     <link href="https://mp.weixin.qq.com/s/ZTM5z9bKhb8FWTyBKF8t3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 入门系列 —— 18. Tuple 的 CURD 操作</title>
-    <updated>2021-01-07T12:44:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/qIYYTaevpIfg3Ct_E9odtw</id>
-    <link href="https://mp.weixin.qq.com/s/qIYYTaevpIfg3Ct_E9odtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.Net Core MVC 中实现文件上传</title>
-    <updated>2021-01-06T09:44:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/tzGZs8VDjrv3qjyI6XOMHQ</id>
-    <link href="https://mp.weixin.qq.com/s/tzGZs8VDjrv3qjyI6XOMHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 C# 禁用控制台窗口的关闭按钮？</title>
-    <updated>2021-01-06T09:44:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/_xNCTGy90pQc1JRfogyvZw</id>
-    <link href="https://mp.weixin.qq.com/s/_xNCTGy90pQc1JRfogyvZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 入门系列 —— 15. List 四种遍历方式及推导式介绍</title>
-    <updated>2021-01-06T09:44:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/6PGiDipzsR-P14N8zq-vCA</id>
-    <link href="https://mp.weixin.qq.com/s/6PGiDipzsR-P14N8zq-vCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

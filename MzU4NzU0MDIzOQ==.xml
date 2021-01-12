@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴中间件 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:29:07+08:00</updated>
+  <updated>2021-01-12T11:41:16+08:00</updated>
   <subtitle>Aliware阿里巴巴中间件官方账号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>元数据驱动的 SaaS 架构与背后的技术思考</title>
+    <updated>2021-01-11T21:47:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/q9aRWnftZ6j2UfuZgh6j0Q</id>
+    <link href="https://mp.weixin.qq.com/s/q9aRWnftZ6j2UfuZgh6j0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>测试一年多，上线就崩溃！微服务到底应该怎么测试？</title>
+    <updated>2021-01-11T21:47:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/g7oc-iq8BB4sWOOsAXt7dQ</id>
+    <link href="https://mp.weixin.qq.com/s/g7oc-iq8BB4sWOOsAXt7dQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大流量场景下如何云淡风轻地进行线上发布？</title>
+    <updated>2021-01-11T21:47:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/1ghFPbO1vwKD2kZOkz4IOQ</id>
+    <link href="https://mp.weixin.qq.com/s/1ghFPbO1vwKD2kZOkz4IOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么我们需要自动化回归？</title>
+    <updated>2021-01-11T21:47:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ewrYtd5kvh1wuCNcCxJ5FA</id>
+    <link href="https://mp.weixin.qq.com/s/ewrYtd5kvh1wuCNcCxJ5FA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我对 SRE 的理解</title>
     <updated>2020-12-31T00:41:05+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-11T19:48:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/SUG0kmKU1xNw2ewOz7X75w</id>
     <link href="https://mp.weixin.qq.com/s/SUG0kmKU1xNw2ewOz7X75w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生应用架构转型不好做？阿里云这个平台让你一步到位！</title>
-    <updated>2020-12-11T19:48:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/mSUUnPGcd5M4XudE8qLazQ</id>
-    <link href="https://mp.weixin.qq.com/s/mSUUnPGcd5M4XudE8qLazQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Aliyun Java Initializr 和 Spring 官方的到底有什么区别？</title>
-    <updated>2020-12-11T19:48:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/41kW89DINGyTX9YDqTXh8g</id>
-    <link href="https://mp.weixin.qq.com/s/41kW89DINGyTX9YDqTXh8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生体系下的技海浮沉与理论探索</title>
-    <updated>2020-11-30T20:12:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/sw6KOZkvu_PzE1BEkdHvNg</id>
-    <link href="https://mp.weixin.qq.com/s/sw6KOZkvu_PzE1BEkdHvNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻松玩转全链路监控</title>
-    <updated>2020-11-30T20:12:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/mYv1EnX3K9ZiqLQgZrwFgw</id>
-    <link href="https://mp.weixin.qq.com/s/mYv1EnX3K9ZiqLQgZrwFgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:42:55+08:00</updated>
+  <updated>2021-01-12T11:40:20+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java是如何优雅地成为编程语言“常青树”？</title>
+    <updated>2021-01-11T21:33:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/oXF4UojwY6DzWi8fqxy6mg</id>
+    <link href="https://mp.weixin.qq.com/s/oXF4UojwY6DzWi8fqxy6mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谁说项目明天上线，这货压根不知道开发流程！</title>
+    <updated>2021-01-11T21:33:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/6z8vW3zSRAmwcKK3L88nMg</id>
+    <link href="https://mp.weixin.qq.com/s/6z8vW3zSRAmwcKK3L88nMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Mall电商实战项目专属学习路线，主流技术一网打尽！</title>
     <updated>2021-01-10T14:45:41+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-12-30T21:28:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/TppCbJNwRDi0M86xkRT8Zg</id>
     <link href="https://mp.weixin.qq.com/s/TppCbJNwRDi0M86xkRT8Zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新来的小哥代码里有坏味道，严重怀疑是钱给少了！</title>
-    <updated>2020-12-29T20:09:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/PomkxjxIDGi0mVT9eIx5iQ</id>
-    <link href="https://mp.weixin.qq.com/s/PomkxjxIDGi0mVT9eIx5iQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring 的这个工具类操作对象类型真是方便！</title>
-    <updated>2020-12-29T20:09:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/l-O8ze97laP9ltc2PGtQNQ</id>
-    <link href="https://mp.weixin.qq.com/s/l-O8ze97laP9ltc2PGtQNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

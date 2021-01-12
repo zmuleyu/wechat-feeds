@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:47:17+08:00</updated>
+  <updated>2021-01-12T11:44:20+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>互联网4种主流的API架构风格对比</title>
+    <updated>2021-01-11T19:05:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/9kZu9Cpy_IYvnwXQuHlijQ</id>
+    <link href="https://mp.weixin.qq.com/s/9kZu9Cpy_IYvnwXQuHlijQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java是编程语言“常青树”？这也太强了！</title>
     <updated>2021-01-10T16:22:30+08:00</updated>
@@ -40,13 +47,6 @@
     <updated>2021-01-05T19:56:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/V38MK9wILf63RkCW2zbZNQ</id>
     <link href="https://mp.weixin.qq.com/s/V38MK9wILf63RkCW2zbZNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多线程设计模式：保护性暂停模式详解以及其在DUBBO应用源码分析</title>
-    <updated>2021-01-05T19:56:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/YlB181pexpj6bkplim_GEw</id>
-    <link href="https://mp.weixin.qq.com/s/YlB181pexpj6bkplim_GEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +89,6 @@
     <updated>2020-12-28T20:03:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/VPjfWWnseORdwBUEiyNQsQ</id>
     <link href="https://mp.weixin.qq.com/s/VPjfWWnseORdwBUEiyNQsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>太完整了！一个亿级分库分表项目的实战全过程解析</title>
-    <updated>2020-12-27T21:54:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/toFKUANObRQcp1rBjHmV6g</id>
-    <link href="https://mp.weixin.qq.com/s/toFKUANObRQcp1rBjHmV6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:43:52+08:00</updated>
+  <updated>2021-01-12T11:44:13+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么全网都在劝你学Java、Python，而不是C++？</title>
+    <updated>2021-01-11T21:48:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/8HpGlFi1Qt6szhXot9w5Aw</id>
+    <link href="https://mp.weixin.qq.com/s/8HpGlFi1Qt6szhXot9w5Aw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拼多多回应程序员匿名发帖被辞退，脉脉也有话说</title>
+    <updated>2021-01-11T21:48:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/2yjD2iYwrezwR0988tcJ3w</id>
+    <link href="https://mp.weixin.qq.com/s/2yjD2iYwrezwR0988tcJ3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TIOBE 1 月编程语言：2020 年度编程语言花落谁家？</title>
     <updated>2021-01-10T17:39:35+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-03T16:20:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/gBZefcf0MhyABoi1lJXYgA</id>
     <link href="https://mp.weixin.qq.com/s/gBZefcf0MhyABoi1lJXYgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>入职谷歌、微软的大佬总结的刷题笔记.pdf</title>
-    <updated>2021-01-01T12:37:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/1G7Hw3VH1qmQbu_ON3rXFw</id>
-    <link href="https://mp.weixin.qq.com/s/1G7Hw3VH1qmQbu_ON3rXFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Git 2.30 稳定版发布，默认分支名改为&#34;main&#34;已成趋势</title>
-    <updated>2021-01-01T12:37:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/de9CDn3NskDazNIfSeLpBA</id>
-    <link href="https://mp.weixin.qq.com/s/de9CDn3NskDazNIfSeLpBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

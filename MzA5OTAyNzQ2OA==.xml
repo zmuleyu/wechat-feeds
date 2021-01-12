@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:58:25+08:00</updated>
+  <updated>2021-01-12T11:56:44+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一篇文章快速上手 Nginx</title>
+    <updated>2021-01-12T07:34:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/flhGQs1cw_2WomKy5FFq1A</id>
+    <link href="https://mp.weixin.qq.com/s/flhGQs1cw_2WomKy5FFq1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
+    <updated>2021-01-12T07:34:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/VMRKEYYArcq-wJxUJP-kVA</id>
+    <link href="https://mp.weixin.qq.com/s/VMRKEYYArcq-wJxUJP-kVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务及技术栈介绍</title>
     <updated>2021-01-11T07:25:15+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-02T17:52:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/K4bPlXGCcaTig88dOinRag</id>
     <link href="https://mp.weixin.qq.com/s/K4bPlXGCcaTig88dOinRag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年Kubernetes的7种最佳日志管理工具</title>
-    <updated>2021-01-01T21:21:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/ndQwngj1kO30saD6-aGqDw</id>
-    <link href="https://mp.weixin.qq.com/s/ndQwngj1kO30saD6-aGqDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2021-01-01T21:21:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/hn6jOpFTuUPyfKAtM2PgXA</id>
-    <link href="https://mp.weixin.qq.com/s/hn6jOpFTuUPyfKAtM2PgXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

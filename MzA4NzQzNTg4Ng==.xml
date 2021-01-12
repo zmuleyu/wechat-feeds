@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EdisonTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:56:30+08:00</updated>
+  <updated>2021-01-12T11:53:37+08:00</updated>
   <subtitle>技术•产品•管理•读书•成长</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>设计 | 体会软件设计之美（3）</title>
+    <updated>2021-01-11T11:37:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CPFFOWiZG--E7wLQ5snwYA</id>
+    <link href="https://mp.weixin.qq.com/s/CPFFOWiZG--E7wLQ5snwYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020中国.NET开发者大会讲师PDF发布</title>
     <updated>2021-01-10T17:01:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-02T10:47:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/5Bx5NExI8YWbu1r0lkQs3w</id>
     <link href="https://mp.weixin.qq.com/s/5Bx5NExI8YWbu1r0lkQs3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享一张从郑晔老师《软件设计之美》课程中学到的程序语言发展简史。在主流路径中，C和C++将我们带入了不用太过关注计算机硬件细节的时代，但是它们仍然存在内存难以管理的问题，使得支持GC的Java开始崭露头角，并在企业级市场大放异彩。跨平台的C#则在语言特性上领先了Java近10年。</title>
-    <updated>2021-01-01T21:16:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/0HmuDy2NoIbJAsSpieUVtQ</id>
-    <link href="https://mp.weixin.qq.com/s/0HmuDy2NoIbJAsSpieUVtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

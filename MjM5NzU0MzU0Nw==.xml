@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T16:47:17+08:00</updated>
+  <updated>2021-01-12T12:01:50+08:00</updated>
   <subtitle>最专业的Python社区，有每日推送，免费电子书，真人辅导，资源下载，各类工具。我已委托“维权骑士”（rightknights.com）为我的文章进行维权行动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>别瞎学了，这几门语言要被淘汰了！</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/1eQg5nQFy7HEHTS7adP4Mg</id>
+    <link href="https://mp.weixin.qq.com/s/1eQg5nQFy7HEHTS7adP4Mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>无意中发现一位大佬的算法刷题pdf笔记</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/z4xtJDY-KCC6ig80ZKi_Xw</id>
+    <link href="https://mp.weixin.qq.com/s/z4xtJDY-KCC6ig80ZKi_Xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>突发！拼多多程序员自杀</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/BpaJUpXgc17NilCrJGhvVw</id>
+    <link href="https://mp.weixin.qq.com/s/BpaJUpXgc17NilCrJGhvVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>pandas 花式保存 Excel 数据的 N 种姿势！</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/ItGWmYLOzbHWdzwBZliGIw</id>
+    <link href="https://mp.weixin.qq.com/s/ItGWmYLOzbHWdzwBZliGIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5道变态的Python基础题，能做出来算你厉害！</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/uOKxo30WQ-9Sxp8x_VknUQ</id>
+    <link href="https://mp.weixin.qq.com/s/uOKxo30WQ-9Sxp8x_VknUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不吹不黑，jupyter lab 3.0客观使用体验</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_LThoqQyjhI1ETg1hz3GdQ</id>
+    <link href="https://mp.weixin.qq.com/s/_LThoqQyjhI1ETg1hz3GdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>机器学习画图神器来啦！</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/njexljaI6fXLFV2_iht32Q</id>
+    <link href="https://mp.weixin.qq.com/s/njexljaI6fXLFV2_iht32Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python管理文件神器 os.walk</title>
+    <updated>2021-01-12T09:29:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qPqNuOAdTa-CJd5DGEqsoQ</id>
+    <link href="https://mp.weixin.qq.com/s/qPqNuOAdTa-CJd5DGEqsoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚刚Sci-Hub和特朗普一样被永久封禁，Twitter官方：不得上诉</title>
     <updated>2021-01-11T10:18:03+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-09T23:52:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/wRjx6p0FgjjCoJgtTGywTg</id>
     <link href="https://mp.weixin.qq.com/s/wRjx6p0FgjjCoJgtTGywTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis集群环境搭建实践</title>
-    <updated>2021-01-09T23:52:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/ILD5JCkcuQGtYbfW9v9fdA</id>
-    <link href="https://mp.weixin.qq.com/s/ILD5JCkcuQGtYbfW9v9fdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Scrapy网络爬虫框架小试牛刀</title>
-    <updated>2021-01-09T23:52:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/TcBcVS_jMxI6g5AAjEX9AQ</id>
-    <link href="https://mp.weixin.qq.com/s/TcBcVS_jMxI6g5AAjEX9AQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超强一代JupyterLab 3.0发布，兼具可视化调试、中文显示、简单交互界面等功能</title>
-    <updated>2021-01-09T23:52:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/7TZzm0sQLnVU5TH8sSsL7Q</id>
-    <link href="https://mp.weixin.qq.com/s/7TZzm0sQLnVU5TH8sSsL7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>审阅“史上”最烂的代码</title>
-    <updated>2021-01-08T22:55:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/J2MwO4XkgG-xrQ8Ou3bWPA</id>
-    <link href="https://mp.weixin.qq.com/s/J2MwO4XkgG-xrQ8Ou3bWPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Linux核心命令行》.pdf</title>
-    <updated>2021-01-08T22:55:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ixtYANWi8qHaA4WzCkeeuQ</id>
-    <link href="https://mp.weixin.qq.com/s/ixtYANWi8qHaA4WzCkeeuQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>日本大学生开发出“单身狗神器”，令人脸红心跳</title>
-    <updated>2021-01-08T22:55:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/-CTWUbHBIHZPgFDoambCvA</id>
-    <link href="https://mp.weixin.qq.com/s/-CTWUbHBIHZPgFDoambCvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>任意爬取！超全开源爬虫工具箱</title>
-    <updated>2021-01-08T22:55:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/dRZ0x8DC25HieO78TjmdYQ</id>
-    <link href="https://mp.weixin.qq.com/s/dRZ0x8DC25HieO78TjmdYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>94年女孩月薪4600，攒了2套房：你缺的是这种思维</title>
-    <updated>2021-01-08T22:55:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/MnSe8y-4RsVCyTgZrU4Yrg</id>
-    <link href="https://mp.weixin.qq.com/s/MnSe8y-4RsVCyTgZrU4Yrg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

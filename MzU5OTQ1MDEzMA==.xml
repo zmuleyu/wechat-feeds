@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:52:35+08:00</updated>
+  <updated>2021-01-12T11:49:49+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
+    <updated>2021-01-12T08:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/oebgKs3Aef8GPueGhcad1g</id>
+    <link href="https://mp.weixin.qq.com/s/oebgKs3Aef8GPueGhcad1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021，JuiceFS 开源啦</title>
+    <updated>2021-01-12T08:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/cyVlARbJCHt4FZZnNolS2A</id>
+    <link href="https://mp.weixin.qq.com/s/cyVlARbJCHt4FZZnNolS2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Lindrom 实践 | 基于 Lindorm 的车联网数据存储处理方案</title>
     <updated>2021-01-11T08:49:08+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2020-12-24T08:50:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/rhwSFwIYociTqD3jeYooPA</id>
     <link href="https://mp.weixin.qq.com/s/rhwSFwIYociTqD3jeYooPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 原理 | Flink State 架构设计解析</title>
-    <updated>2020-12-23T08:26:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/I48hRfLodqBRdjVM5Qqu1A</id>
-    <link href="https://mp.weixin.qq.com/s/I48hRfLodqBRdjVM5Qqu1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​Flink 实战 | Flink 1.12 维表 Join Hive 最新分区功能体验</title>
-    <updated>2020-12-23T08:26:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/RXJN7dvWmAGuaH_2IIMJ-g</id>
-    <link href="https://mp.weixin.qq.com/s/RXJN7dvWmAGuaH_2IIMJ-g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

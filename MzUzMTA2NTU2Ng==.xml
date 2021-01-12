@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:04:33+08:00</updated>
+  <updated>2021-01-12T12:00:17+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里也开训练营？跟着P9七天深入MySQL架构，免！费！</title>
+    <updated>2021-01-11T22:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/JScOmjsay32IbM1nsVjf1Q</id>
+    <link href="https://mp.weixin.qq.com/s/JScOmjsay32IbM1nsVjf1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这个 Redis 问题画像，干掉了一摞简历</title>
+    <updated>2021-01-11T22:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/n6xQnuN-IHr3JSmW1PWumg</id>
+    <link href="https://mp.weixin.qq.com/s/n6xQnuN-IHr3JSmW1PWumg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不到 20 人的 IT 公司该去吗？</title>
+    <updated>2021-01-11T22:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/4PFMnO7nTnZ7udbPBSmGSA</id>
+    <link href="https://mp.weixin.qq.com/s/4PFMnO7nTnZ7udbPBSmGSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>4 大软件架构，你们公司用哪种？</title>
+    <updated>2021-01-11T22:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/SeSM26TfRO6xI91aHxYOLw</id>
+    <link href="https://mp.weixin.qq.com/s/SeSM26TfRO6xI91aHxYOLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官再问高并发，求你看看这篇吧！</title>
     <updated>2021-01-10T19:36:00+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-05T23:38:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/5UGdApi53fFDvzh5bIiHuw</id>
     <link href="https://mp.weixin.qq.com/s/5UGdApi53fFDvzh5bIiHuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot 配置 ELK 环境</title>
-    <updated>2021-01-05T23:38:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/jMPtQ3vK3zzi9o5YTidKow</id>
-    <link href="https://mp.weixin.qq.com/s/jMPtQ3vK3zzi9o5YTidKow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 SpringBoot，来实现MySQL读写分离技术</title>
-    <updated>2021-01-05T23:38:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/oKPUWxb26zjbJVwBfWGMmQ</id>
-    <link href="https://mp.weixin.qq.com/s/oKPUWxb26zjbJVwBfWGMmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Service 层需要实现接口吗？</title>
-    <updated>2021-01-05T00:29:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/psPDh2Va-Tff2vB3U3JltA</id>
-    <link href="https://mp.weixin.qq.com/s/psPDh2Va-Tff2vB3U3JltA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>离不开的“微服务”架构，脱不开的RPC细节（收藏）</title>
-    <updated>2021-01-05T00:29:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/oBuiIyTkLmSPMu6scN4-GQ</id>
-    <link href="https://mp.weixin.qq.com/s/oBuiIyTkLmSPMu6scN4-GQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

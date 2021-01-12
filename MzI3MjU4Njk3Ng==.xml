@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>飞雪无情 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:57:57+08:00</updated>
+  <updated>2021-01-12T11:57:32+08:00</updated>
   <subtitle>30万字Go系列笔记作者，知乎Go语言专题最高赞回答，专注于Go语言技术分享布道。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021，说说你为什么选择学 Go?</title>
+    <updated>2021-01-11T23:51:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/wyQGrw3dcHu_8Yxrpr3YkQ</id>
+    <link href="https://mp.weixin.qq.com/s/wyQGrw3dcHu_8Yxrpr3YkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文带你解密 Go 语言之通道 channel</title>
+    <updated>2021-01-11T23:51:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/V7B9q4lZ6K3RjrP8Xd-cXw</id>
+    <link href="https://mp.weixin.qq.com/s/V7B9q4lZ6K3RjrP8Xd-cXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go精妙的互斥锁设计</title>
+    <updated>2021-01-11T23:51:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7laE7igOwt5EDzOLj86FPA</id>
+    <link href="https://mp.weixin.qq.com/s/7laE7igOwt5EDzOLj86FPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这个17岁的黑客天才，破解了第一代iPhone！</title>
+    <updated>2021-01-11T23:51:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7foE9hCL8UTpi98f_rHD1g</id>
+    <link href="https://mp.weixin.qq.com/s/7foE9hCL8UTpi98f_rHD1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自己动手实现一个malloc内存分配器 | 30图</title>
     <updated>2021-01-07T22:43:33+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2020-12-24T08:40:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/W4e71PKZkIsEr0k76J9m9w</id>
     <link href="https://mp.weixin.qq.com/s/W4e71PKZkIsEr0k76J9m9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>由浅到深，入门Go语言Map实现原理</title>
-    <updated>2020-12-24T08:40:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/pvzO8wu13gLKK00zp77zWA</id>
-    <link href="https://mp.weixin.qq.com/s/pvzO8wu13gLKK00zp77zWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 chan 写 Go 并发的会有 bug ？ Go 并发原语那些事</title>
-    <updated>2020-12-17T19:27:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/YzmOoKqcibV4e9EodjMz1A</id>
-    <link href="https://mp.weixin.qq.com/s/YzmOoKqcibV4e9EodjMz1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员的圣诞节--送她一颗圣诞树(附源代码)</title>
-    <updated>2020-12-17T19:27:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/J60VEewE00ZcDqPfoIXMoQ</id>
-    <link href="https://mp.weixin.qq.com/s/J60VEewE00ZcDqPfoIXMoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go爬虫+WordPress每月躺赚上千元（合法合规实战）</title>
-    <updated>2020-12-17T19:27:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/qCR-mAjMHCzg9VH7OFbD2A</id>
-    <link href="https://mp.weixin.qq.com/s/qCR-mAjMHCzg9VH7OFbD2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

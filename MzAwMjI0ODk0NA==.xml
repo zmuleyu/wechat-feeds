@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>悟空聊架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T20:19:49+08:00</updated>
+  <updated>2021-01-12T11:55:12+08:00</updated>
   <subtitle>图解 高并发、分布式、微服务、中间件。自主开发了 PMP 刷题小程序、Java 刷题小程序，接了 4 个私活。学习网站：www.passjava.cn。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>彻夜怒肝！Spring Boot+Sentinel+Nacos高并发已撸完，快要裂开了！</title>
+    <updated>2021-01-11T22:31:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/gRFc4s5h1wBZ2hY20QtHLQ</id>
+    <link href="https://mp.weixin.qq.com/s/gRFc4s5h1wBZ2hY20QtHLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用太极拳讲分布式理论，真舒服！</title>
     <updated>2020-12-30T17:23:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-04T08:48:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/CgQLIB1unCzBF365mea1zg</id>
     <link href="https://mp.weixin.qq.com/s/CgQLIB1unCzBF365mea1zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>东汉末年，他们把「服务雪崩」玩到了极致（干货）</title>
-    <updated>2020-10-28T16:07:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/jl4RNTevOPf_shwlJ2pUhg</id>
-    <link href="https://mp.weixin.qq.com/s/jl4RNTevOPf_shwlJ2pUhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

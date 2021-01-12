@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ccww技术博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:26:01+08:00</updated>
+  <updated>2021-01-12T12:00:11+08:00</updated>
   <subtitle>经典面试题分析与解读以及技术Spring 、Spring boot、Spring cloud以及Docker后端等技术研究和源码分析，且会不定期分享集理财经验.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试：Redis为什么快呢？查询为何会变慢？</title>
+    <updated>2021-01-12T10:20:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yOOqiRf-l3O4qq4A3QpI_w</id>
+    <link href="https://mp.weixin.qq.com/s/yOOqiRf-l3O4qq4A3QpI_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL查询性能优化前，必须先掌握MySQL索引理论</title>
     <updated>2020-12-01T19:20:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-23T09:06:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/HW2FDWZx-uRDti0voPkQ9g</id>
     <link href="https://mp.weixin.qq.com/s/HW2FDWZx-uRDti0voPkQ9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MyBatis面试题源码分析前言-MyBatis架构以及核心内容</title>
-    <updated>2020-09-20T23:08:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/gH6v7UOImtsgsxWUl2_gAQ</id>
-    <link href="https://mp.weixin.qq.com/s/gH6v7UOImtsgsxWUl2_gAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端自习课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:07:07+08:00</updated>
+  <updated>2021-01-12T12:03:20+08:00</updated>
   <subtitle>每日清晨，享受一篇前端优秀文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端框架这么火，还有必要学好原生 JavaScript 吗？</title>
+    <updated>2021-01-11T20:18:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Zbqfyh2sEQJPoPcz3NAETA</id>
+    <link href="https://mp.weixin.qq.com/s/Zbqfyh2sEQJPoPcz3NAETA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【React】836- React 使用中值得优化的 7 个点</title>
+    <updated>2021-01-11T20:18:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/vLyNl5Ledh-5VVQVCH5g9g</id>
+    <link href="https://mp.weixin.qq.com/s/vLyNl5Ledh-5VVQVCH5g9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Vuejs】835- 探索 Vue.js 响应式原理</title>
     <updated>2021-01-10T23:06:37+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-03T09:59:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/NdYaWn_VMzvAm1KLKALcJw</id>
     <link href="https://mp.weixin.qq.com/s/NdYaWn_VMzvAm1KLKALcJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【React】826- 浅谈 React 中的 XSS 攻击</title>
-    <updated>2021-01-01T20:31:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/jL3KspqVG0VJT59YJ-Ahlw</id>
-    <link href="https://mp.weixin.qq.com/s/jL3KspqVG0VJT59YJ-Ahlw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

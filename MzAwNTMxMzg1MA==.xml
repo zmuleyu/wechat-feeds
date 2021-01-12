@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:37:34+08:00</updated>
+  <updated>2021-01-12T11:56:27+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>设计模式，也就那么回事儿</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CXjg0Qfd7JWjbK8hn0kqgA</id>
+    <link href="https://mp.weixin.qq.com/s/CXjg0Qfd7JWjbK8hn0kqgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>小试elsa</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/VPInJsNv5cZzLrHd4RySxg</id>
+    <link href="https://mp.weixin.qq.com/s/VPInJsNv5cZzLrHd4RySxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>巧用 Lazy 解决.NET Core中的循环依赖关系</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/jiOwevN-hBeZ3XIdL_jLTg</id>
+    <link href="https://mp.weixin.qq.com/s/jiOwevN-hBeZ3XIdL_jLTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【日常排雷】 .Net core 生产环境appsetting读取失败</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Ck_GSUN5mrRum__65P2NcA</id>
+    <link href="https://mp.weixin.qq.com/s/Ck_GSUN5mrRum__65P2NcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微前端架构在容器平台的应用</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Qxj6zmYrotysv_0S8MLj9g</id>
+    <link href="https://mp.weixin.qq.com/s/Qxj6zmYrotysv_0S8MLj9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 中的 null 包容运算符 “!” —— 概念、由来、用法和注意事项</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/UU_wKK1nKI0i-A-IqoAv7g</id>
+    <link href="https://mp.weixin.qq.com/s/UU_wKK1nKI0i-A-IqoAv7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从内存中释放Selenium chromedriver.exe</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/MDSSwcJR0tPhDfgVOI4PAQ</id>
+    <link href="https://mp.weixin.qq.com/s/MDSSwcJR0tPhDfgVOI4PAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 C# 中使用 MSMQ</title>
+    <updated>2021-01-11T20:50:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/EtEBL50613hHMihBJgn4tQ</id>
+    <link href="https://mp.weixin.qq.com/s/EtEBL50613hHMihBJgn4tQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET开源5年了，这些宝藏你还没get？</title>
     <updated>2021-01-11T13:49:29+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-09T20:27:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/bhscJDS5_d3VXhKeRdnVcw</id>
     <link href="https://mp.weixin.qq.com/s/bhscJDS5_d3VXhKeRdnVcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 Web Forms 中引入依赖注入机制</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/9PX13qJ3lK2gTNxt5zb1hA</id>
-    <link href="https://mp.weixin.qq.com/s/9PX13qJ3lK2gTNxt5zb1hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中台的故事结束了？</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8jtVbTOEu2jeQkMQVg0esg</id>
-    <link href="https://mp.weixin.qq.com/s/8jtVbTOEu2jeQkMQVg0esg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>日产汽车源码遭泄露</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/3da5MuijlisrQdefwoL9AA</id>
-    <link href="https://mp.weixin.qq.com/s/3da5MuijlisrQdefwoL9AA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用BeetleX.ESDoc构建文档搜索功能</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/tD_1UzaVbFAxxsqJrMTskw</id>
-    <link href="https://mp.weixin.qq.com/s/tD_1UzaVbFAxxsqJrMTskw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Roslyn 使用 Directory.Build.props 管理多个项目配置</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/52TsYLT1HUUIdnggPcA0uQ</id>
-    <link href="https://mp.weixin.qq.com/s/52TsYLT1HUUIdnggPcA0uQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在.NET Core中使用Channel（一）</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/oEjm5cfOUGp83Gi_rgnbxg</id>
-    <link href="https://mp.weixin.qq.com/s/oEjm5cfOUGp83Gi_rgnbxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.net 5.0 中的 JsonConsole</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/iQx7yykGDZiRkBYCbWf18A</id>
-    <link href="https://mp.weixin.qq.com/s/iQx7yykGDZiRkBYCbWf18A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Docker】Asp.net core在docker容器中的端口问题</title>
-    <updated>2021-01-08T20:50:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/BGdwstIG0TjKFU8sUmEt7A</id>
-    <link href="https://mp.weixin.qq.com/s/BGdwstIG0TjKFU8sUmEt7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

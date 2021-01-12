@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>晓飞的算法工程笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:56:09+08:00</updated>
+  <updated>2021-01-12T11:57:48+08:00</updated>
   <subtitle>work-life balance.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SAPD：FSAF升级版，合理的损失值加权以及金字塔特征选择 | ECCV 2020</title>
+    <updated>2021-01-11T22:22:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/0rYkVOb5a7gqOhXKgVr-AQ</id>
+    <link href="https://mp.weixin.qq.com/s/0rYkVOb5a7gqOhXKgVr-AQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FoveaBox：细节差别，另一种DenseBox+FPN的Anchor-free方案 | IEEE TIP 2020</title>
     <updated>2021-01-06T23:43:44+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-11-30T07:44:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/XLm101zwTw1qs1tJOKoVLQ</id>
     <link href="https://mp.weixin.qq.com/s/XLm101zwTw1qs1tJOKoVLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RepPointsV2：更多的监督任务，更强的性能 | NIPS 2020</title>
-    <updated>2020-11-26T12:16:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/4HMuObXJSGQTdodYQZAETA</id>
-    <link href="https://mp.weixin.qq.com/s/4HMuObXJSGQTdodYQZAETA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每日新文推荐：计算机视觉方向 [2020-11-26]</title>
-    <updated>2020-11-26T12:16:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/7NYaUJhploDb_STXjJhHrw</id>
-    <link href="https://mp.weixin.qq.com/s/7NYaUJhploDb_STXjJhHrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

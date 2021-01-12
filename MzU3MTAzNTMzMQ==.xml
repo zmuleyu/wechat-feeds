@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一灰灰blog | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:18:25+08:00</updated>
+  <updated>2021-01-12T11:39:21+08:00</updated>
   <subtitle>Java常用技术探索，分享编程技巧，技术博文</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【SpringBoot DB 系列】Mybatis基于 AbstractRoutingDataSource AOP多数据源切换</title>
+    <updated>2021-01-11T19:19:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/0eGcH9MjNjybi46YieYbCg</id>
+    <link href="https://mp.weixin.qq.com/s/0eGcH9MjNjybi46YieYbCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【SpringBoot DB 系列】Mybatis 多数据源配置与使用</title>
     <updated>2021-01-11T12:56:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T10:29:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/VfeV-fUQvhB6BUOx_Koysw</id>
     <link href="https://mp.weixin.qq.com/s/VfeV-fUQvhB6BUOx_Koysw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Maven 中央仓库提交Jar包全程指南</title>
-    <updated>2020-11-28T17:44:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/L_9DTJbJaDXMiF8JaiqytQ</id>
-    <link href="https://mp.weixin.qq.com/s/L_9DTJbJaDXMiF8JaiqytQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

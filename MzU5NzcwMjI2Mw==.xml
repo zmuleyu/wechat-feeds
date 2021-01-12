@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>beetlex | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:56:39+08:00</updated>
+  <updated>2021-01-12T11:52:59+08:00</updated>
   <subtitle>专注于开源通讯框架开发</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ElasticSearch历史数据聚合效率测试</title>
+    <updated>2021-01-12T10:33:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/ZIhJx_xOQ8XscwNSFjV7UQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZIhJx_xOQ8XscwNSFjV7UQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小试牛刀ElasticSearch大数据聚合统计</title>
     <updated>2021-01-11T09:34:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T09:12:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/D4MtemRpzDmf7cxILE1bLg</id>
     <link href="https://mp.weixin.qq.com/s/D4MtemRpzDmf7cxILE1bLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>beetlex之ws/wss client使用视频</title>
-    <updated>2020-12-23T10:21:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/KFAY2oZXWcIjhqXafNW-Tw</id>
-    <link href="https://mp.weixin.qq.com/s/KFAY2oZXWcIjhqXafNW-Tw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

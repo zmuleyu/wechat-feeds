@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码哥字节 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:04:13+08:00</updated>
+  <updated>2021-01-12T11:55:31+08:00</updated>
   <subtitle>分享Java技术，不论基础核心还是分布式、高并发场景。还是 SpringBoot 、MySQL、Redis、 Spring Cloud 等框架原理和源码分析。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>了解这些，你就可以在Spring启动时为所欲为了</title>
+    <updated>2021-01-12T00:40:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/d_DRgGzxfRmLFSperQVyGw</id>
+    <link href="https://mp.weixin.qq.com/s/d_DRgGzxfRmLFSperQVyGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>误用Redis命令导致服务器挂了，领导让我写事故报告</title>
     <updated>2021-01-05T16:33:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-18T10:14:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/_4-XafizZn8NzA5OeP5DQw</id>
     <link href="https://mp.weixin.qq.com/s/_4-XafizZn8NzA5OeP5DQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从面试角度一文学完 Kafka</title>
-    <updated>2020-10-12T00:44:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/QF9b9vpncLS24xMzFkanTQ</id>
-    <link href="https://mp.weixin.qq.com/s/QF9b9vpncLS24xMzFkanTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

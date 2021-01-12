@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNET技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:05:08+08:00</updated>
+  <updated>2021-01-12T12:02:12+08:00</updated>
   <subtitle>面向DotNET的线上技术社区。社区宗旨：以弘扬互联网精神为己任，致力于打造开放，分享，互利，共赢的互联网技术社区。打破闭塞，拉进你我，分享知识，共同进步，努力创造更加友善进取的.NET技术圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈.NET技术公司的实习生培养</title>
+    <updated>2021-01-11T19:27:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5HnkAyYQWYBmryHvpJQyhQ</id>
+    <link href="https://mp.weixin.qq.com/s/5HnkAyYQWYBmryHvpJQyhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 9 新特性 — record 解读</title>
+    <updated>2021-01-11T19:27:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Lea893Dgn3QGL-OIDdGOjg</id>
+    <link href="https://mp.weixin.qq.com/s/Lea893Dgn3QGL-OIDdGOjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C# 9 新特性 —— 增强的模式匹配</title>
     <updated>2021-01-10T21:11:23+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-29T19:05:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/_Fgdiw-sZcaPDxuKnlU0nw</id>
     <link href="https://mp.weixin.qq.com/s/_Fgdiw-sZcaPDxuKnlU0nw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 中 ConcurrentDictionary 一定线程安全吗？</title>
-    <updated>2020-12-28T19:17:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/3BIAd3A37lvjsHB6CQ49zQ</id>
-    <link href="https://mp.weixin.qq.com/s/3BIAd3A37lvjsHB6CQ49zQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

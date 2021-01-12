@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:29:01+08:00</updated>
+  <updated>2021-01-12T11:48:33+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>牛逼，只用一个脚本，实现一键自动部署Redis的任意版本</title>
+    <updated>2021-01-11T22:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hSd5wzerPAU6f5do9FTA6g</id>
+    <link href="https://mp.weixin.qq.com/s/hSd5wzerPAU6f5do9FTA6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>记一次服务器执行MySQL耗时问题</title>
+    <updated>2021-01-11T22:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/bXxy6meCl5WcEWPnP5G1tQ</id>
+    <link href="https://mp.weixin.qq.com/s/bXxy6meCl5WcEWPnP5G1tQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Bean复制的几种框架性能比较（BeanUtils、PropertyUtils、BeanCopier）</title>
+    <updated>2021-01-11T22:44:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Bzlaxr33ezm2AFeNHmCEqw</id>
+    <link href="https://mp.weixin.qq.com/s/Bzlaxr33ezm2AFeNHmCEqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>公司项目并发量都特小，自己如何实际接触高并发项目？</title>
     <updated>2021-01-10T21:45:16+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T21:20:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/Odwn230zpBZXAnpvP6TB9A</id>
     <link href="https://mp.weixin.qq.com/s/Odwn230zpBZXAnpvP6TB9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JetBrains出品，一款好用到爆的数据库工具，惊艳到了！！！</title>
-    <updated>2021-01-04T18:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Bw0Pw8GXNxbb0Kqwvb4OEw</id>
-    <link href="https://mp.weixin.qq.com/s/Bw0Pw8GXNxbb0Kqwvb4OEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图文并茂，彻底搞懂 Java 并发下的乐观锁那些事儿</title>
-    <updated>2021-01-04T18:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZuOt585NqdzooQuVbKRsww</id>
-    <link href="https://mp.weixin.qq.com/s/ZuOt585NqdzooQuVbKRsww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java仿百度网盘</title>
-    <updated>2021-01-04T18:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/tNoqFgmYPTQwFsCrLMtkeQ</id>
-    <link href="https://mp.weixin.qq.com/s/tNoqFgmYPTQwFsCrLMtkeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

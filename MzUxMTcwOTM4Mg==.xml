@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>360技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:31:28+08:00</updated>
+  <updated>2021-01-12T11:44:09+08:00</updated>
   <subtitle>360公司官方技术号，打造360最专业的技术聚合平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Lambda表达式介绍和底层实现分析</title>
+    <updated>2021-01-12T10:43:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/CV1iuoqyK76z4u6N-h0geQ</id>
+    <link href="https://mp.weixin.qq.com/s/CV1iuoqyK76z4u6N-h0geQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>virtio+ovs转发原理和性能分析</title>
     <updated>2021-01-08T19:02:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-11T19:11:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/uHV6YlD-SDlRL6IUuSFd8Q</id>
     <link href="https://mp.weixin.qq.com/s/uHV6YlD-SDlRL6IUuSFd8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DM运维踩坑实践总结</title>
-    <updated>2020-12-04T19:42:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-04:/s/q4YxTNQyYL25CfWfc6sFaA</id>
-    <link href="https://mp.weixin.qq.com/s/q4YxTNQyYL25CfWfc6sFaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

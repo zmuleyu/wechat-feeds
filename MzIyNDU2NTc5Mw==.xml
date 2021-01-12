@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nodejs技术栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:03:53+08:00</updated>
+  <updated>2021-01-12T11:59:56+08:00</updated>
   <subtitle>聚集所有 Nodejs 爱好者，共建互帮互助的 Nodejs 技术栈交流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端框架这么火，还有必要学好原生 JavaScript 吗？</title>
+    <updated>2021-01-12T07:55:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/GMtOfXQww6YeeomeDM_FhQ</id>
+    <link href="https://mp.weixin.qq.com/s/GMtOfXQww6YeeomeDM_FhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js 高级进阶之 fs 文件模块学习</title>
     <updated>2021-01-10T21:42:50+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-01T11:02:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/auP_P7XH0Qkfhri11KnRqw</id>
     <link href="https://mp.weixin.qq.com/s/auP_P7XH0Qkfhri11KnRqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：通俗易懂负载均衡器</title>
-    <updated>2020-12-30T21:36:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/dndFo8ENdeNayN4pv1ZRnQ</id>
-    <link href="https://mp.weixin.qq.com/s/dndFo8ENdeNayN4pv1ZRnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

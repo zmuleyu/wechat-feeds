@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端全栈开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T13:50:10+08:00</updated>
+  <updated>2021-01-12T11:55:18+08:00</updated>
   <subtitle>专注分享国内外前端技术、Web全栈开发技术精选文章，大前端技术资讯、优质教程、工具资源等，助力开发者成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>世界上第一个可用于React、Vue、纯HTML和CSS的可组合CSS动画工具包— AnimXYZ</title>
+    <updated>2021-01-12T00:34:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Mzo0LS6vunKY8qQP2LIm0w</id>
+    <link href="https://mp.weixin.qq.com/s/Mzo0LS6vunKY8qQP2LIm0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《了不起的程序员2021》有了小程序了</title>
     <updated>2021-01-09T12:10:32+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-19T00:40:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/_JqH-NuiBNzpRGZzNfXeig</id>
     <link href="https://mp.weixin.qq.com/s/_JqH-NuiBNzpRGZzNfXeig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我靠这份攻略上线了1个微信小程序！</title>
-    <updated>2020-12-16T22:19:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/vKMhTC3AKLnoIjRNI9MPxg</id>
-    <link href="https://mp.weixin.qq.com/s/vKMhTC3AKLnoIjRNI9MPxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>发布APP到苹果应用商店的入门级知识</title>
-    <updated>2020-12-16T22:19:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/jU0V_nGyXRzKts5a_0z5NQ</id>
-    <link href="https://mp.weixin.qq.com/s/jU0V_nGyXRzKts5a_0z5NQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

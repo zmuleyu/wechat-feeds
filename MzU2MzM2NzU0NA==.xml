@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端森林 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:48:20+08:00</updated>
+  <updated>2021-01-12T11:45:03+08:00</updated>
   <subtitle>一个有温度的前端号，关注行业前沿。从基础到架构，携手你我共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐一位大四的前端爱好者</title>
+    <updated>2021-01-11T21:38:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/DMDddsSCFvuT_dm52klz1w</id>
+    <link href="https://mp.weixin.qq.com/s/DMDddsSCFvuT_dm52klz1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动面试官：请用JS实现Ajax并发请求控制</title>
     <updated>2021-01-10T22:23:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T22:12:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/HexiJ6N8ot2wTQcVZFvY6A</id>
     <link href="https://mp.weixin.qq.com/s/HexiJ6N8ot2wTQcVZFvY6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从前端性能优化引申出来的5道经典面试题(值得收藏)</title>
-    <updated>2020-12-13T22:58:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/7TRsKrL7ZZyheyqcB0Zlbw</id>
-    <link href="https://mp.weixin.qq.com/s/7TRsKrL7ZZyheyqcB0Zlbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
