@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux阅码场 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:51:30+08:00</updated>
+  <updated>2021-01-12T13:53:07+08:00</updated>
   <subtitle>专业的Linux技术社区和Linux操作系统学习平台，内容涉及Linux内核,Linux内存管理,Linux进程管理,Linux文件系统和IO,Linux性能调优,Linux设备驱动以及Linux虚拟化和云计算等各方各面.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux 能否拿下苹果 M1 阵地？</title>
+    <updated>2021-01-12T11:51:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/q5yM7NwlNRbZfW0TinxE6Q</id>
+    <link href="https://mp.weixin.qq.com/s/q5yM7NwlNRbZfW0TinxE6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>memcg lru lock 血泪史</title>
     <updated>2021-01-10T14:04:27+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-31T07:07:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/lOdnWFdGoLV6Th3Ng_NItg</id>
     <link href="https://mp.weixin.qq.com/s/lOdnWFdGoLV6Th3Ng_NItg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谁在招人?(2020年12月) 免费的Linuxer招聘服务,持续更新...</title>
-    <updated>2020-12-25T12:08:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/q1tLqTD9Ox0KQDltwTzQrA</id>
-    <link href="https://mp.weixin.qq.com/s/q1tLqTD9Ox0KQDltwTzQrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新闻联播 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T12:06:17+08:00</updated>
+  <updated>2021-01-12T14:00:42+08:00</updated>
   <subtitle>《新闻联播》天天播，今天有啥重点？我们为您梳理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>黑龙江伊春最新通报！</title>
+    <updated>2021-01-12T12:26:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/MjMDFQ2ZygVKVD2i2nY8lg</id>
+    <link href="https://mp.weixin.qq.com/s/MjMDFQ2ZygVKVD2i2nY8lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>河北固安确诊病例曾坐北京地铁4号线，山西晋中进入战时状态</title>
     <updated>2021-01-12T09:12:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-11T15:52:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/ZnXeJ_8zjVcVgOM9Ilktfw</id>
     <link href="https://mp.weixin.qq.com/s/ZnXeJ_8zjVcVgOM9Ilktfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中纪委重磅通报！</title>
-    <updated>2021-01-11T11:50:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/T5Qjiz_AzLzl5p1hJs2zVg</id>
-    <link href="https://mp.weixin.qq.com/s/T5Qjiz_AzLzl5p1hJs2zVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

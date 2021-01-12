@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T13:58:51+08:00</updated>
+  <updated>2021-01-12T13:57:25+08:00</updated>
   <subtitle>码农的所思所悟，码农的百科全书，码农的知识星球。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动扩招一万人？这也太香了！</title>
+    <updated>2021-01-11T19:41:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/-8CeMwsGdHCp1IW7TeHZLA</id>
+    <link href="https://mp.weixin.qq.com/s/-8CeMwsGdHCp1IW7TeHZLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>太赞了！滴滴开源了一套分布式ID的生成系统...</title>
+    <updated>2021-01-11T19:41:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5tsw3XW3p8X7gvWIAA5vhA</id>
+    <link href="https://mp.weixin.qq.com/s/5tsw3XW3p8X7gvWIAA5vhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太敏感！2小时删！</title>
     <updated>2021-01-10T19:53:21+08:00</updated>
@@ -43,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>白嫖版-2020大数据Flink实时旅游平台</title>
-    <updated>2021-01-09T17:04:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/9PACLmhi1wlUeTW1I7aodQ</id>
-    <link href="https://mp.weixin.qq.com/s/9PACLmhi1wlUeTW1I7aodQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>从网上抄来的高并发代码，一上线，崩了……</title>
     <updated>2021-01-07T20:38:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/3r6XKAKKOfVNL_VL_Jcekw</id>
@@ -68,13 +75,6 @@
     <updated>2021-01-06T16:56:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/E0ahtm5aCHSOzNu3CCGhtg</id>
     <link href="https://mp.weixin.qq.com/s/E0ahtm5aCHSOzNu3CCGhtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java要凉？那是你不懂！</title>
-    <updated>2021-01-05T19:44:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/2owy0de5YWAXzILhbA93ng</id>
-    <link href="https://mp.weixin.qq.com/s/2owy0de5YWAXzILhbA93ng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -103,20 +103,6 @@
     <updated>2021-01-02T17:52:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/C3xFN7rX3sw75XiU0nVoSw</id>
     <link href="https://mp.weixin.qq.com/s/C3xFN7rX3sw75XiU0nVoSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨年节目单+1：和你聊聊大赛这些事儿</title>
-    <updated>2021-01-01T14:37:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/_qhhQKuLOJLdjL9V9zcoLg</id>
-    <link href="https://mp.weixin.qq.com/s/_qhhQKuLOJLdjL9V9zcoLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用纯Java实现一个WebSSH项目</title>
-    <updated>2021-01-01T14:37:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/qPD6Ao4ugdGQvGqGB0V2Sw</id>
-    <link href="https://mp.weixin.qq.com/s/qPD6Ao4ugdGQvGqGB0V2Sw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

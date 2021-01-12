@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET全栈开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:19:11+08:00</updated>
+  <updated>2021-01-12T13:37:52+08:00</updated>
   <subtitle>dotNET全栈开发中心,为.NET程序员提供Asp.NET MVC web开发、xamarin跨平台移动开发、.NET Core、winform\wcf客户端开发、web前端、业界趣闻、程序人生等方面资讯。弱水三千只取一瓢，每日一篇一更。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -33,13 +33,6 @@
     <updated>2021-01-10T21:52:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/T8IEpt5e71fTeyqMvVsibQ</id>
     <link href="https://mp.weixin.qq.com/s/T8IEpt5e71fTeyqMvVsibQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不注意这几点，你的保险很可能白买了</title>
-    <updated>2021-01-10T21:52:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/QOwpHYTqTrI7OkotOu8Pqw</id>
-    <link href="https://mp.weixin.qq.com/s/QOwpHYTqTrI7OkotOu8Pqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -145,6 +138,13 @@
     <updated>2021-01-03T21:30:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/qy3_EpSgzuw3Ty3WaVZTXg</id>
     <link href="https://mp.weixin.qq.com/s/qy3_EpSgzuw3Ty3WaVZTXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C#避坑ToLower和ToUpper，小心把你的系统给拖垮了</title>
+    <updated>2021-01-02T21:35:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/zuxZK0Y9S8OVAnYUvJUqMQ</id>
+    <link href="https://mp.weixin.qq.com/s/zuxZK0Y9S8OVAnYUvJUqMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

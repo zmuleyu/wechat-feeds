@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微服务知多少 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:40:42+08:00</updated>
+  <updated>2021-01-12T13:54:00+08:00</updated>
   <subtitle>专注于.NET微服务技术栈知识的分享！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Dapr：分布式应用程序运行时</title>
+    <updated>2021-01-12T12:45:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/HmPwnXZdVC3rCVzqH8heDQ</id>
+    <link href="https://mp.weixin.qq.com/s/HmPwnXZdVC3rCVzqH8heDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Istio 知多少 | 下一代微服务的守护者</title>
     <updated>2021-01-10T17:52:15+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-07-09T20:04:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-09:/s/B8-FVGKtfDMVE0oX7-laDw</id>
     <link href="https://mp.weixin.qq.com/s/B8-FVGKtfDMVE0oX7-laDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IO 模型知多少 | 代码篇</title>
-    <updated>2020-05-12T21:04:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-05-12:/s/JVmk5lEfNwHhGVjVbIOYnA</id>
-    <link href="https://mp.weixin.qq.com/s/JVmk5lEfNwHhGVjVbIOYnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重大事故！IO问题引发线上20台机器同时崩溃</title>
-    <updated>2020-05-12T21:04:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-05-12:/s/N4DaFbqP_Do91hNDQiV7VQ</id>
-    <link href="https://mp.weixin.qq.com/s/N4DaFbqP_Do91hNDQiV7VQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

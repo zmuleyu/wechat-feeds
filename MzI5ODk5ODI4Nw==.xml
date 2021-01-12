@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T13:35:27+08:00</updated>
+  <updated>2021-01-12T13:34:23+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Chaos Mesh® 技术内幕 | 如何注入 I/O 故障？</title>
+    <updated>2021-01-12T11:27:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/FSBQoSJbepyZIq1yj8SOHg</id>
+    <link href="https://mp.weixin.qq.com/s/FSBQoSJbepyZIq1yj8SOHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Serverless 如何应对 K8s 在离线场景下的资源供给诉求</title>
+    <updated>2021-01-12T11:27:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/HLkE6SbhGw3frAIReQ3L4w</id>
+    <link href="https://mp.weixin.qq.com/s/HLkE6SbhGw3frAIReQ3L4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拥抱网格网关</title>
+    <updated>2021-01-12T11:27:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/tEfqungAx3mYkFJ7l6D9Yg</id>
+    <link href="https://mp.weixin.qq.com/s/tEfqungAx3mYkFJ7l6D9Yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 如果是个水族馆</title>
+    <updated>2021-01-12T11:27:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/D4tvlI2-Tl-RtKDYcvvNSw</id>
+    <link href="https://mp.weixin.qq.com/s/D4tvlI2-Tl-RtKDYcvvNSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用Falco检测Kubernetes安全问题简介</title>
     <updated>2021-01-11T11:13:05+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-07T11:34:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/XHWG5Oi8FIvsvPB_hcpewQ</id>
     <link href="https://mp.weixin.qq.com/s/XHWG5Oi8FIvsvPB_hcpewQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>边缘计算安全技术概述</title>
-    <updated>2021-01-07T11:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/uMTp25GTm_xfnqzKr5VWGw</id>
-    <link href="https://mp.weixin.qq.com/s/uMTp25GTm_xfnqzKr5VWGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB Hackathon 2020 报名即将结束！</title>
-    <updated>2021-01-07T11:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/X6KQ-noXS4sOgt22rKXFxg</id>
-    <link href="https://mp.weixin.qq.com/s/X6KQ-noXS4sOgt22rKXFxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>金融级云原生：多活容器集群高可用建设实践</title>
-    <updated>2021-01-06T10:39:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/WxjOv4iImm0CaNF2FFU4Hg</id>
-    <link href="https://mp.weixin.qq.com/s/WxjOv4iImm0CaNF2FFU4Hg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个优秀的云原生架构需要注意哪些地方</title>
-    <updated>2021-01-06T10:39:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/pwb-13WFUckzU7oNF0LfiA</id>
-    <link href="https://mp.weixin.qq.com/s/pwb-13WFUckzU7oNF0LfiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

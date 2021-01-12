@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T13:44:29+08:00</updated>
+  <updated>2021-01-12T13:43:11+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见，CRUD！真正的MySQL要从架构抓起！！</title>
+    <updated>2021-01-11T21:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/tYMj3fG_yJSAy1_WPeXQsg</id>
+    <link href="https://mp.weixin.qq.com/s/tYMj3fG_yJSAy1_WPeXQsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>主从哨兵集群终于给你说明白了</title>
+    <updated>2021-01-11T21:20:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/HsSGx31qxaXTFoNCain1Cg</id>
+    <link href="https://mp.weixin.qq.com/s/HsSGx31qxaXTFoNCain1Cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>扎心了！比特币、买房、互联网，暴富的机会你一个都没抓住！</title>
     <updated>2021-01-10T22:04:59+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-30T17:33:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/6wTnfMwICJAQDKXVsW1LRg</id>
     <link href="https://mp.weixin.qq.com/s/6wTnfMwICJAQDKXVsW1LRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫话：如何给女朋友解释什么是缓存穿透、缓存击穿、缓存雪崩？</title>
-    <updated>2020-12-29T17:43:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/ikWdYpc2kAY0Bp7-Ajiquw</id>
-    <link href="https://mp.weixin.qq.com/s/ikWdYpc2kAY0Bp7-Ajiquw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

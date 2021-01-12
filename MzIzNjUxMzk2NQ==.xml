@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T13:46:50+08:00</updated>
+  <updated>2021-01-12T13:44:55+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>20亿条记录的MySQL大表，我们这样迁移的</title>
+    <updated>2021-01-12T11:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/ajROgOfbmdPDM07f5wx4SQ</id>
+    <link href="https://mp.weixin.qq.com/s/ajROgOfbmdPDM07f5wx4SQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>避免不完全的云原生</title>
+    <updated>2021-01-12T11:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/OwZ1Kffb9kOwwT4CR-S2QQ</id>
+    <link href="https://mp.weixin.qq.com/s/OwZ1Kffb9kOwwT4CR-S2QQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这个 Redis 问题画像，干掉了一摞简历 | 极客时间</title>
+    <updated>2021-01-12T11:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/semfKPAp1ivXkq9HUVJHIQ</id>
+    <link href="https://mp.weixin.qq.com/s/semfKPAp1ivXkq9HUVJHIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>放弃微服务，我们为什么重回单体架构？</title>
     <updated>2021-01-11T11:31:46+08:00</updated>
@@ -117,13 +138,6 @@
     <updated>2021-01-02T16:36:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/DJ6md47sp0N3CA5W96Bv4w</id>
     <link href="https://mp.weixin.qq.com/s/DJ6md47sp0N3CA5W96Bv4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开发者开源抢茅台软件；微信适配国产操作系统：原生支持Linux；Flash生命终止，开发者称HTML5不能完美替代 | 架构视点</title>
-    <updated>2021-01-01T18:23:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/k7Lc7LaI4iZsMlrdVMJJFQ</id>
-    <link href="https://mp.weixin.qq.com/s/k7Lc7LaI4iZsMlrdVMJJFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
