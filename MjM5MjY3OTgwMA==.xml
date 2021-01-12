@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ThoughtWorks洞见 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T23:36:38+08:00</updated>
+  <updated>2021-01-12T23:38:37+08:00</updated>
   <subtitle>最新技术雷达/各类技术干货/精选职位招聘/精彩活动预告/经典案例故事，就在ThoughtWorks。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>值得信赖的合作伙伴</title>
+    <updated>2021-01-12T17:41:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/uCH2wnrpQvdFf97ICSaXAA</id>
+    <link href="https://mp.weixin.qq.com/s/uCH2wnrpQvdFf97ICSaXAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据仓库项目中的数据建模和ETL日志体系</title>
     <updated>2021-01-07T17:56:30+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-25T20:08:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/rSObOyTtay9uHzjgVzHARw</id>
     <link href="https://mp.weixin.qq.com/s/rSObOyTtay9uHzjgVzHARw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构下你的数据一致了吗？</title>
-    <updated>2020-12-24T17:04:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/bViGE0rk2qNZNQD33VXbfg</id>
-    <link href="https://mp.weixin.qq.com/s/bViGE0rk2qNZNQD33VXbfg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

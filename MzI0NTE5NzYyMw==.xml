@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>政采云前端团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:19:44+08:00</updated>
+  <updated>2021-01-12T23:16:44+08:00</updated>
   <subtitle>ZooTeam 带你一起探索前端开发的乐趣！前端相关技术沉淀、工程化建设、团队及职业成长分享，你想要的，我都有～</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>结合 React 源码，五分钟带你掌握优先队列</title>
+    <updated>2021-01-12T10:51:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/GYC4SulbnbnQV6TO01Qk_A</id>
+    <link href="https://mp.weixin.qq.com/s/GYC4SulbnbnQV6TO01Qk_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>编写高质量可维护的代码：Awesome TypeScript</title>
     <updated>2021-01-05T12:05:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-08T12:21:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-08:/s/cZm1sdMB7Cid48KD-0mpkA</id>
     <link href="https://mp.weixin.qq.com/s/cZm1sdMB7Cid48KD-0mpkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【告别复制粘贴】动态模板生成小技巧</title>
-    <updated>2020-10-31T06:37:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-31:/s/Yd7WNO8Ix8CaOM2APoeUgg</id>
-    <link href="https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

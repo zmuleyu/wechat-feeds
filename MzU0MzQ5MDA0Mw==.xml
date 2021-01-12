@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:07:04+08:00</updated>
+  <updated>2021-01-12T23:42:50+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>醍醐灌顶 | 我们谈论的Exactly once到底是什么？</title>
+    <updated>2021-01-12T11:47:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/D9-sjVk5WNsuR-4e4eX_eA</id>
+    <link href="https://mp.weixin.qq.com/s/D9-sjVk5WNsuR-4e4eX_eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我终于还是放弃了SparkStreaming，没有人能向这个神器Say No！</title>
     <updated>2021-01-10T15:23:41+08:00</updated>
@@ -33,13 +40,6 @@
     <updated>2021-01-09T21:04:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/Keway7ExLfTNunZTACoxnA</id>
     <link href="https://mp.weixin.qq.com/s/Keway7ExLfTNunZTACoxnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式一致性算法：解决分布式系统 80% 核心问题</title>
-    <updated>2021-01-07T18:41:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/f2MqpPo-ii4sdh7CeZdEmw</id>
-    <link href="https://mp.weixin.qq.com/s/f2MqpPo-ii4sdh7CeZdEmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2021-01-02T15:46:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/_-x_8oYUdYAT7uF9_1nD0w</id>
     <link href="https://mp.weixin.qq.com/s/_-x_8oYUdYAT7uF9_1nD0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA 卡成球了？</title>
-    <updated>2021-01-01T08:37:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/qXGigbIJEcRjiOLL7jcdOQ</id>
-    <link href="https://mp.weixin.qq.com/s/qXGigbIJEcRjiOLL7jcdOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

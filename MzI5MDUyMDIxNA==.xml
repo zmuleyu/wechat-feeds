@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:19:43+08:00</updated>
+  <updated>2021-01-12T23:22:57+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>全文翻译 | 华为、北大、悉尼大学：最新视觉Transformer综述（2017-2020年）</title>
+    <updated>2021-01-12T21:49:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/hZBldI-gbkc0WocdCsYL5Q</id>
+    <link href="https://mp.weixin.qq.com/s/hZBldI-gbkc0WocdCsYL5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>让你的ConvNet一卷到底，清华&amp;旷视提出CNN设计新思路RepVGG</title>
+    <updated>2021-01-12T21:49:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/BxvLsM9giylwW_8vkNZVYw</id>
+    <link href="https://mp.weixin.qq.com/s/BxvLsM9giylwW_8vkNZVYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于计算机视觉的裂纹检测方案</title>
+    <updated>2021-01-12T21:49:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/3MfV565Amn_Kef0nAfbBlw</id>
+    <link href="https://mp.weixin.qq.com/s/3MfV565Amn_Kef0nAfbBlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>太牛了，Markdown 几行字符就可以生成思维导图了！</title>
+    <updated>2021-01-12T21:49:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/2iQoGUniniSml8jrzkbbtw</id>
+    <link href="https://mp.weixin.qq.com/s/2iQoGUniniSml8jrzkbbtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>真正的即插即用！盘点11种CNN网络设计中精巧通用的“小”插件</title>
     <updated>2021-01-11T21:45:21+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T21:48:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/QB_n4_msF2iLbqRbu1y5HA</id>
     <link href="https://mp.weixin.qq.com/s/QB_n4_msF2iLbqRbu1y5HA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>搞懂 Vision Transformer 原理和代码，看这篇技术综述就够了</title>
-    <updated>2021-01-07T22:06:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/hn4EMcVJuBSjfGxJ_qM3Tw</id>
-    <link href="https://mp.weixin.qq.com/s/hn4EMcVJuBSjfGxJ_qM3Tw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SGD有多种改进的形式，为什么大多数论文中仍然用SGD？</title>
-    <updated>2021-01-07T22:06:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/M9ZxbRQS8hMuyVCwpodvFA</id>
-    <link href="https://mp.weixin.qq.com/s/M9ZxbRQS8hMuyVCwpodvFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MRAN：简单而有效的多表示迁移网络结构</title>
-    <updated>2021-01-07T22:06:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7cllDqfYfZso86CNUrCe7A</id>
-    <link href="https://mp.weixin.qq.com/s/7cllDqfYfZso86CNUrCe7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年度arXiv十大热门论文来了！YOLOv4、SimCLR和GPT-3均上榜</title>
-    <updated>2021-01-07T22:06:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/C02rI2_LkmwDV61dWgf3PQ</id>
-    <link href="https://mp.weixin.qq.com/s/C02rI2_LkmwDV61dWgf3PQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

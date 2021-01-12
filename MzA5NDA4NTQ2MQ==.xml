@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>行走的数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:23:22+08:00</updated>
+  <updated>2021-01-12T23:26:58+08:00</updated>
   <subtitle>不管未来走向哪个方向，这一时刻会有你的印记。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>元数据驱动的 SaaS 架构与背后的技术思考</title>
+    <updated>2021-01-12T22:55:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/WYBrHiaAk1DhmjpKs8hMLA</id>
+    <link href="https://mp.weixin.qq.com/s/WYBrHiaAk1DhmjpKs8hMLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开源COLA4.0：整洁面向对象分层架构</title>
     <updated>2021-01-11T22:55:56+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T08:58:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/_dU4dApmC-nDLFd-5OCTjA</id>
     <link href="https://mp.weixin.qq.com/s/_dU4dApmC-nDLFd-5OCTjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习中的模型漂移是什么</title>
-    <updated>2020-12-29T09:28:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/TEQw-5l6932L0O4Jw1CvBw</id>
-    <link href="https://mp.weixin.qq.com/s/TEQw-5l6932L0O4Jw1CvBw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

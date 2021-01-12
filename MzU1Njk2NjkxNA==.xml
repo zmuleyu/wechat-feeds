@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老翟杂谈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:20:18+08:00</updated>
+  <updated>2021-01-12T23:16:36+08:00</updated>
   <subtitle>产品、设计、技术、管理、商业</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文说清产品经理、项目经理、产品负责人的区别</title>
+    <updated>2021-01-12T20:34:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/IQQDzYNhTfhtiP2C5ogosg</id>
+    <link href="https://mp.weixin.qq.com/s/IQQDzYNhTfhtiP2C5ogosg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>译文：软件研发：即效率和效益</title>
     <updated>2020-11-09T08:16:17+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-05-30T07:11:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-05-30:/s/4WD01JZzenV0qU-PQBvWmw</id>
     <link href="https://mp.weixin.qq.com/s/4WD01JZzenV0qU-PQBvWmw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jenkins kubernetes插件的原理</title>
-    <updated>2020-05-04T06:54:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-05-04:/s/osEkDlLyNlJBnRsOF8e7AQ</id>
-    <link href="https://mp.weixin.qq.com/s/osEkDlLyNlJBnRsOF8e7AQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:29:59+08:00</updated>
+  <updated>2021-01-12T23:34:29+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「主数据架构」14个主数据管理误区</title>
+    <updated>2021-01-12T21:29:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/L3NG_9FAZgvw226vzEOgbA</id>
+    <link href="https://mp.weixin.qq.com/s/L3NG_9FAZgvw226vzEOgbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「职业职位」软件“开发者”和“工程师”有什么区别？</title>
+    <updated>2021-01-12T21:29:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/fsc3cqSULfZnNG9VQDU38g</id>
+    <link href="https://mp.weixin.qq.com/s/fsc3cqSULfZnNG9VQDU38g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「主数据架构」MDM实现失败的主要原因</title>
     <updated>2021-01-11T21:46:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-04T19:46:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/-unFYUvC9wGM3If77meM4A</id>
     <link href="https://mp.weixin.qq.com/s/-unFYUvC9wGM3If77meM4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「分布式架构」最终一致性：暗示的切换队列</title>
-    <updated>2021-01-03T12:10:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/uuOoWb_t0nKpmNUv3-jtqQ</id>
-    <link href="https://mp.weixin.qq.com/s/uuOoWb_t0nKpmNUv3-jtqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【物联网】Rust系列(3)：围绕我们的缺陷进行设计:Rust如何避免C和c++的陷阱</title>
-    <updated>2021-01-03T12:10:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/AZo3cik3c7_ZdyUAUJWtzw</id>
-    <link href="https://mp.weixin.qq.com/s/AZo3cik3c7_ZdyUAUJWtzw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

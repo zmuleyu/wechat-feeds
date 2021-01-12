@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink 中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:45:19+08:00</updated>
+  <updated>2021-01-12T23:40:25+08:00</updated>
   <subtitle>Apache Flink 官微，Flink PMC 维护</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>京东搜索排序在线学习的 Flink 优化实践</title>
+    <updated>2021-01-12T19:07:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Qw265v7_KZ3N4f4ZJeEx1g</id>
+    <link href="https://mp.weixin.qq.com/s/Qw265v7_KZ3N4f4ZJeEx1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
     <updated>2021-01-11T20:40:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-12T16:23:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/12OfMnUKGC3kTqhPKxhlDg</id>
     <link href="https://mp.weixin.qq.com/s/12OfMnUKGC3kTqhPKxhlDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>官宣 | Apache Flink 1.12.0 正式发布，流批一体真正统一运行！</title>
-    <updated>2020-12-10T20:44:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/6YaLA-_UL_L4V27BT4jrKQ</id>
-    <link href="https://mp.weixin.qq.com/s/6YaLA-_UL_L4V27BT4jrKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

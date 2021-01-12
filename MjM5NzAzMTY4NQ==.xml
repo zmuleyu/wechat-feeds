@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老叶茶馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T16:40:41+08:00</updated>
+  <updated>2021-01-12T23:35:16+08:00</updated>
   <subtitle>老叶茶馆，泡壶茶，聊聊MySQL。 长期专注MySQL，Oracle MySQL ACE Director，鹅厂云最具价值专家</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL SQL优化的正确姿势</title>
+    <updated>2021-01-12T22:57:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/uOssZ2yAEVRktFupf5H7Tg</id>
+    <link href="https://mp.weixin.qq.com/s/uOssZ2yAEVRktFupf5H7Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>InnoDB如何快速杀掉堵塞会话的思考</title>
     <updated>2021-01-09T15:52:29+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-15T10:15:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/InboZo8JkZyHDeswAiopvQ</id>
     <link href="https://mp.weixin.qq.com/s/InboZo8JkZyHDeswAiopvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TVP两周年：携手同行，让未来可见</title>
-    <updated>2020-12-15T10:11:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/C8sXhDLk4G86zjsQeVVwMQ</id>
-    <link href="https://mp.weixin.qq.com/s/C8sXhDLk4G86zjsQeVVwMQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

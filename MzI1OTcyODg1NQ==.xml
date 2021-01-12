@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:26:07+08:00</updated>
+  <updated>2021-01-12T23:30:10+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式存储之GlusterFS</title>
+    <updated>2021-01-12T18:51:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/u4MUAkuQ_CHvrX0N34kV8w</id>
+    <link href="https://mp.weixin.qq.com/s/u4MUAkuQ_CHvrX0N34kV8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>企业级监控系统Prometheus</title>
+    <updated>2021-01-12T18:51:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Nfbb-fqrWGIKZpjPxAFUTw</id>
+    <link href="https://mp.weixin.qq.com/s/Nfbb-fqrWGIKZpjPxAFUTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漫谈 HTTP 连接</title>
     <updated>2021-01-11T22:31:54+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-03T22:35:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/LTqC46_PafxuOhJbB3lt8Q</id>
     <link href="https://mp.weixin.qq.com/s/LTqC46_PafxuOhJbB3lt8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常用的Linux 系统备份、恢复命令</title>
-    <updated>2021-01-02T22:37:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/6e0iMbYWL6oZca2er84Zjw</id>
-    <link href="https://mp.weixin.qq.com/s/6e0iMbYWL6oZca2er84Zjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>同样是数据分析岗，为什么有的人拿不到20K？</title>
-    <updated>2021-01-02T22:37:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/ZRdmnXRbUSK5-pRyqOm0JA</id>
-    <link href="https://mp.weixin.qq.com/s/ZRdmnXRbUSK5-pRyqOm0JA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

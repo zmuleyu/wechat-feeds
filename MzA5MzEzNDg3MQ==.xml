@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微信安全中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-01T16:19:57+08:00</updated>
+  <updated>2021-01-12T23:43:48+08:00</updated>
   <subtitle>提供微信安全相关自助服务，发布最新微信安全动态和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>对第三方违规导流链接的处理公示</title>
+    <updated>2021-01-12T21:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/-s6uFXkUWYs61zb0ooGq3Q</id>
+    <link href="https://mp.weixin.qq.com/s/-s6uFXkUWYs61zb0ooGq3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微信安全中心祝大家新的一年里，平安顺遂，远离风险</title>
     <updated>2021-01-01T14:30:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T15:20:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/puZqkpsTXNVSuqh9ZF_8fA</id>
     <link href="https://mp.weixin.qq.com/s/puZqkpsTXNVSuqh9ZF_8fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>假如杀猪盘骗子说实话</title>
-    <updated>2020-11-10T17:18:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/xVB0bU4Zb8Qh8HcjpXjSdQ</id>
-    <link href="https://mp.weixin.qq.com/s/xVB0bU4Zb8Qh8HcjpXjSdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
