@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java之道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:57:40+08:00</updated>
+  <updated>2021-01-13T12:02:56+08:00</updated>
   <subtitle>有道无术，术可成；有术无道，止于道；「Java之道」致力于为广大Javaer传道授业解惑。以术识道，以道御术；</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漫话：如何给女朋友解释什么是缓存穿透、缓存击穿、缓存雪崩？</title>
+    <updated>2021-01-12T21:55:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/rJTwC9bqSK3nRemA6tRCKQ</id>
+    <link href="https://mp.weixin.qq.com/s/rJTwC9bqSK3nRemA6tRCKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>到底要刷多少道算法题面试才稳？</title>
     <updated>2021-01-11T22:03:03+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-03T22:26:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/cr-fdd6ZV5-rIcHeXxYmcw</id>
     <link href="https://mp.weixin.qq.com/s/cr-fdd6ZV5-rIcHeXxYmcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>牛逼！Docker从入门到上瘾</title>
-    <updated>2021-01-02T21:47:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/0LoR79t7679swQrX_-fuiQ</id>
-    <link href="https://mp.weixin.qq.com/s/0LoR79t7679swQrX_-fuiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

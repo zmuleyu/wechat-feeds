@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>日拱一兵 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:44:26+08:00</updated>
+  <updated>2021-01-13T12:15:10+08:00</updated>
   <subtitle>像读侦探小说一样趣读Java技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>被神化的“高并发编程”，其实可以有多简单？</title>
+    <updated>2021-01-12T20:28:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_fHXFit-8CmRdZ113tuCyA</id>
+    <link href="https://mp.weixin.qq.com/s/_fHXFit-8CmRdZ113tuCyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>坚持住，分布式缓存灵魂十连 Combo</title>
+    <updated>2021-01-12T20:28:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/NcV05_XQNz-OBjhgIGxV7Q</id>
+    <link href="https://mp.weixin.qq.com/s/NcV05_XQNz-OBjhgIGxV7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>sar命令，好一个大宝剑</title>
+    <updated>2021-01-12T20:28:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/6SPe6xH5DDE6HrwTasQ7Fg</id>
+    <link href="https://mp.weixin.qq.com/s/6SPe6xH5DDE6HrwTasQ7Fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不要再用main方法测试代码性能了，内置的不香吗？</title>
     <updated>2021-01-10T20:20:51+08:00</updated>
@@ -26,13 +47,6 @@
     <updated>2021-01-06T21:28:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/8tJwuwz5jMXnfg4HmPHh3g</id>
     <link href="https://mp.weixin.qq.com/s/8tJwuwz5jMXnfg4HmPHh3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一场面试在面试管问我会不会Java并发编程时，就已经结束了</title>
-    <updated>2021-01-04T20:58:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ON9BN59a64w5v08AaFc_iw</id>
-    <link href="https://mp.weixin.qq.com/s/ON9BN59a64w5v08AaFc_iw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -124,20 +138,6 @@
     <updated>2020-12-20T21:39:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/ABaVUGitVvD_5zS772AYiQ</id>
     <link href="https://mp.weixin.qq.com/s/ABaVUGitVvD_5zS772AYiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis，从应用到底层，全到没朋友的那种</title>
-    <updated>2020-12-14T21:29:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/3giipjKU668jPqta6zAH7Q</id>
-    <link href="https://mp.weixin.qq.com/s/3giipjKU668jPqta6zAH7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解Mybatis解析Mapper底层原理</title>
-    <updated>2020-12-14T21:29:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/ee0HEngSPygCmp_0-cHm7g</id>
-    <link href="https://mp.weixin.qq.com/s/ee0HEngSPygCmp_0-cHm7g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

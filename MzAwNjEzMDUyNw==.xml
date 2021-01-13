@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TesterHome | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T12:03:44+08:00</updated>
+  <updated>2021-01-13T12:10:10+08:00</updated>
   <subtitle>国内首个移动测试交流社区，最专业的 Appium 交流社区。专注于移动互联网测试和 Web 相关测试技术研究。我们的理念：Coding Share Show Cool</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我看技术人的成长路径-面试必备</title>
+    <updated>2021-01-12T23:28:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yRSOhKDXG3dE7KGGh9bOXg</id>
+    <link href="https://mp.weixin.qq.com/s/yRSOhKDXG3dE7KGGh9bOXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020最后一天-年度总结</title>
+    <updated>2021-01-12T23:28:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/eBeXmxibqssv6MiyyH-QOA</id>
+    <link href="https://mp.weixin.qq.com/s/eBeXmxibqssv6MiyyH-QOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>服务端｜性能测试入门指南 (慎入: 6000 字长文)</title>
     <updated>2021-01-11T22:55:49+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2021-01-03T15:51:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/s501XyFh48Xk51zqhgbR8Q</id>
     <link href="https://mp.weixin.qq.com/s/s501XyFh48Xk51zqhgbR8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通用流量录制回放工具 jvm-sandbox-repeater 尝鲜 (四)——新版带界面 console 的使用</title>
-    <updated>2021-01-01T08:51:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/J77sKqrAEMcx7b9b9CuGmg</id>
-    <link href="https://mp.weixin.qq.com/s/J77sKqrAEMcx7b9b9CuGmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新年快乐</title>
-    <updated>2021-01-01T08:51:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/3zUA3UpqoJEhFFf5jdSFOQ</id>
-    <link href="https://mp.weixin.qq.com/s/3zUA3UpqoJEhFFf5jdSFOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:56:44+08:00</updated>
+  <updated>2021-01-13T12:02:56+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我为什么要放弃RESTful，选择拥抱GraphQL？</title>
+    <updated>2021-01-13T07:32:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/UVh2miURaW7G4Vvwy8Zpgg</id>
+    <link href="https://mp.weixin.qq.com/s/UVh2miURaW7G4Vvwy8Zpgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 下周开课</title>
+    <updated>2021-01-13T07:32:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/iyvylWLSj8P9_XSuwdgNYg</id>
+    <link href="https://mp.weixin.qq.com/s/iyvylWLSj8P9_XSuwdgNYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一篇文章快速上手 Nginx</title>
     <updated>2021-01-12T07:34:18+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-03T23:18:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/c3vt9z_BhHosdzVA-NgJog</id>
     <link href="https://mp.weixin.qq.com/s/c3vt9z_BhHosdzVA-NgJog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>严选DevOps工具链的建设</title>
-    <updated>2021-01-02T17:52:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/w7Z48ehh3uleXfbkyp75KA</id>
-    <link href="https://mp.weixin.qq.com/s/w7Z48ehh3uleXfbkyp75KA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
-    <updated>2021-01-02T17:52:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/K4bPlXGCcaTig88dOinRag</id>
-    <link href="https://mp.weixin.qq.com/s/K4bPlXGCcaTig88dOinRag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

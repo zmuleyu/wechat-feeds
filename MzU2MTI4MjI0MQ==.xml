@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:25:22+08:00</updated>
+  <updated>2021-01-13T11:53:15+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试Java岗，P8大佬真正关心的核心能力是什么？</title>
+    <updated>2021-01-12T18:37:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/UEiuNVnlEv1DfW7R2RsY1A</id>
+    <link href="https://mp.weixin.qq.com/s/UEiuNVnlEv1DfW7R2RsY1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringBoot中的@Value注解详解，非常实用！</title>
+    <updated>2021-01-12T18:37:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/CjthEpLSUxo-O1IJX45mrQ</id>
+    <link href="https://mp.weixin.qq.com/s/CjthEpLSUxo-O1IJX45mrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万万没想到，面试中，连 ClassLoader类加载器 也能问出这么多问题.....</title>
+    <updated>2021-01-12T18:37:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/CS2p-GPNQGtWG3SqbqR-xQ</id>
+    <link href="https://mp.weixin.qq.com/s/CS2p-GPNQGtWG3SqbqR-xQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>牛逼，只用一个脚本，实现一键自动部署Redis的任意版本</title>
     <updated>2021-01-11T22:44:48+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-06T22:09:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/n7RZooTAy3ZydNUOLTrFjA</id>
     <link href="https://mp.weixin.qq.com/s/n7RZooTAy3ZydNUOLTrFjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java日志记录最佳实践</title>
-    <updated>2021-01-05T21:20:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/fD_qkLqxTltJ2MxWAyBqzw</id>
-    <link href="https://mp.weixin.qq.com/s/fD_qkLqxTltJ2MxWAyBqzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>QPS、TPS、并发用户数、吞吐量关系</title>
-    <updated>2021-01-05T21:20:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Odwn230zpBZXAnpvP6TB9A</id>
-    <link href="https://mp.weixin.qq.com/s/Odwn230zpBZXAnpvP6TB9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JetBrains出品，一款好用到爆的数据库工具，惊艳到了！！！</title>
-    <updated>2021-01-04T18:12:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Bw0Pw8GXNxbb0Kqwvb4OEw</id>
-    <link href="https://mp.weixin.qq.com/s/Bw0Pw8GXNxbb0Kqwvb4OEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

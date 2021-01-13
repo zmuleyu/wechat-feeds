@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一个优秀的废人 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:36:09+08:00</updated>
+  <updated>2021-01-13T11:47:41+08:00</updated>
   <subtitle>说点你不知道的。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我曾拼命逃离高并发</title>
+    <updated>2021-01-12T22:52:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/BKmynTELGUspWvWsHjB-Ew</id>
+    <link href="https://mp.weixin.qq.com/s/BKmynTELGUspWvWsHjB-Ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>小胖问我：Thread.sleep(0) 到底有啥用？</title>
+    <updated>2021-01-12T22:52:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Inh842CP_5D65pjyeMIGaQ</id>
+    <link href="https://mp.weixin.qq.com/s/Inh842CP_5D65pjyeMIGaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小胖：远哥，什么是 I/O 多路复用？</title>
     <updated>2021-01-11T22:37:14+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-31T01:32:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/5ZL78klZVcITtJbPIi8Gkg</id>
     <link href="https://mp.weixin.qq.com/s/5ZL78klZVcITtJbPIi8Gkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小胖：远哥，Sharding-JDBC 怎么用？能教教我么？</title>
-    <updated>2020-12-29T23:14:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/gWep8hUK_MaXC7e2hpuaxA</id>
-    <link href="https://mp.weixin.qq.com/s/gWep8hUK_MaXC7e2hpuaxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

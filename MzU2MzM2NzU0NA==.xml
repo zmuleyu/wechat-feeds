@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端森林 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:45:03+08:00</updated>
+  <updated>2021-01-13T11:50:02+08:00</updated>
   <subtitle>一个有温度的前端号，关注行业前沿。从基础到架构，携手你我共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>小红书面试官：介绍一下 tree shaking 及其工作原理</title>
+    <updated>2021-01-12T11:12:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Wrw8LMeab6ggq5icLyXOyQ</id>
+    <link href="https://mp.weixin.qq.com/s/Wrw8LMeab6ggq5icLyXOyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐一位大四的前端爱好者</title>
     <updated>2021-01-11T21:38:13+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T22:25:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/UrpUQEaa3I2_ank3Yv3kIA</id>
     <link href="https://mp.weixin.qq.com/s/UrpUQEaa3I2_ank3Yv3kIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫谈 React Fiber</title>
-    <updated>2020-12-17T22:12:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/HexiJ6N8ot2wTQcVZFvY6A</id>
-    <link href="https://mp.weixin.qq.com/s/HexiJ6N8ot2wTQcVZFvY6A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

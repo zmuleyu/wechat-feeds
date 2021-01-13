@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:42:50+08:00</updated>
+  <updated>2021-01-13T12:10:39+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试中常问多线程相关的知识，在工作中到底用在哪里呢？</title>
+    <updated>2021-01-12T22:56:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_HLNQKC5PvIwzt2PadSh9A</id>
+    <link href="https://mp.weixin.qq.com/s/_HLNQKC5PvIwzt2PadSh9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Docker常用命令，这些都要会！</title>
+    <updated>2021-01-12T22:56:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/wllyGD4KCaRmKCHWyE20hw</id>
+    <link href="https://mp.weixin.qq.com/s/wllyGD4KCaRmKCHWyE20hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何优雅的统计代码耗时，快速知道你的程序慢在哪里！</title>
+    <updated>2021-01-12T22:56:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/TltdQN1HJ3EWrqOUZIyObA</id>
+    <link href="https://mp.weixin.qq.com/s/TltdQN1HJ3EWrqOUZIyObA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万万没想到，JVM内存区域的面试题也可以问的这么难？</title>
     <updated>2021-01-11T20:34:50+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-04T22:37:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/PWzNIdMwCPFymqsJwmtSXA</id>
     <link href="https://mp.weixin.qq.com/s/PWzNIdMwCPFymqsJwmtSXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解 k8s 4种类型Service</title>
-    <updated>2021-01-04T22:37:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/eMo9M9urKJQttJ5WoguY3A</id>
-    <link href="https://mp.weixin.qq.com/s/eMo9M9urKJQttJ5WoguY3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Intellij IDEA神器居然还藏着这些实用小技巧，爽！！！</title>
-    <updated>2021-01-03T23:15:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/ZkqfrnGRh1vYMYLixRfnjg</id>
-    <link href="https://mp.weixin.qq.com/s/ZkqfrnGRh1vYMYLixRfnjg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神奇的 SQL 之擦肩而过 → 真的用到索引了吗</title>
-    <updated>2021-01-03T23:15:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/gf0bcer3DPAoNPNz8YC9iw</id>
-    <link href="https://mp.weixin.qq.com/s/gf0bcer3DPAoNPNz8YC9iw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

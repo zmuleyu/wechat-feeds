@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:40:20+08:00</updated>
+  <updated>2021-01-13T12:14:45+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>还在使用Swagger？推荐几款接口文档生成神器！</title>
+    <updated>2021-01-12T20:16:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/O3IfVXNrWRPkN6XnIqI3kA</id>
+    <link href="https://mp.weixin.qq.com/s/O3IfVXNrWRPkN6XnIqI3kA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>别小看tail 命令，它难倒了技术总监！</title>
+    <updated>2021-01-12T20:16:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/YOhlvHK7mqn3ARrLeoDXhg</id>
+    <link href="https://mp.weixin.qq.com/s/YOhlvHK7mqn3ARrLeoDXhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java是如何优雅地成为编程语言“常青树”？</title>
     <updated>2021-01-11T21:33:17+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>大厂面试中那些无中生有的事</title>
-    <updated>2021-01-06T21:56:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/MwPgZsOaL9PKYlOOqy3t_w</id>
-    <link href="https://mp.weixin.qq.com/s/MwPgZsOaL9PKYlOOqy3t_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>如何安全传输与存储用户密码？</title>
     <updated>2021-01-06T21:56:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/Pk0pBXhA8RRjSvMARSxvAg</id>
@@ -96,13 +103,6 @@
     <updated>2021-01-03T14:34:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/2IhoZ1rMy3Hi9zXvvxjF2Q</id>
     <link href="https://mp.weixin.qq.com/s/2IhoZ1rMy3Hi9zXvvxjF2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java日常开发的21个坑，你踩过几个？</title>
-    <updated>2020-12-30T21:28:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/TppCbJNwRDi0M86xkRT8Zg</id>
-    <link href="https://mp.weixin.qq.com/s/TppCbJNwRDi0M86xkRT8Zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

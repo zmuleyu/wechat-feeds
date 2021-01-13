@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:56:27+08:00</updated>
+  <updated>2021-01-13T12:00:58+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>. NET5实战千万高并发项目，性能吊打JAVA，C#排名万年老五，有望逆袭！</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/F4cujWL_BYzIarW0xujUgA</id>
+    <link href="https://mp.weixin.qq.com/s/F4cujWL_BYzIarW0xujUgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>仓储模式到底是不是反模式？</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/wjABsxFc7BmOok-c1PQjMw</id>
+    <link href="https://mp.weixin.qq.com/s/wjABsxFc7BmOok-c1PQjMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ABP vNext IOC替换原有Service实现</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/knAtU8zfAKrmdqDW3r8vzw</id>
+    <link href="https://mp.weixin.qq.com/s/knAtU8zfAKrmdqDW3r8vzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ABP vNext 审计日志获取真实客户端IP</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/pKQXkTwGA7V2hh950YxbiQ</id>
+    <link href="https://mp.weixin.qq.com/s/pKQXkTwGA7V2hh950YxbiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ABP vNext 自动注入，暗藏天坑如斯</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/345Rcuhur3YKppmXKYtkTw</id>
+    <link href="https://mp.weixin.qq.com/s/345Rcuhur3YKppmXKYtkTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ABP vNext分布式事件总线RabbitMQ注意事项</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/6uUAKje535_d3fpfwmEfpA</id>
+    <link href="https://mp.weixin.qq.com/s/6uUAKje535_d3fpfwmEfpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【One by One系列】IdentityServer4（一）OAuth2.0与OpenID Connect 1.0</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/XtDV6w0tJpBk8ADqdfvDyg</id>
+    <link href="https://mp.weixin.qq.com/s/XtDV6w0tJpBk8ADqdfvDyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么人和人的差距这么大？</title>
+    <updated>2021-01-12T22:12:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/3MUmfELzms4xIeudTBOqEg</id>
+    <link href="https://mp.weixin.qq.com/s/3MUmfELzms4xIeudTBOqEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>设计模式，也就那么回事儿</title>
     <updated>2021-01-11T20:50:38+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-11T13:49:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/979tOchtd04y6MI7KOvnfw</id>
     <link href="https://mp.weixin.qq.com/s/979tOchtd04y6MI7KOvnfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CY4y6R1gOppeZpvoesnFpw</id>
-    <link href="https://mp.weixin.qq.com/s/CY4y6R1gOppeZpvoesnFpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WinForm捕获全局异常（捕获未处理的异常）</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ZEs5MwjLA7WI1irbXtmD5g</id>
-    <link href="https://mp.weixin.qq.com/s/ZEs5MwjLA7WI1irbXtmD5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何成功搞垮一个团队？</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/pCDYjxxVEx_ZXQi25FzejQ</id>
-    <link href="https://mp.weixin.qq.com/s/pCDYjxxVEx_ZXQi25FzejQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>设计 | 体会软件设计之美（1）</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/lmrJplAikWYpftVdMDO-pA</id>
-    <link href="https://mp.weixin.qq.com/s/lmrJplAikWYpftVdMDO-pA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Hook】postman工具的代码生成工具让它锦上添花</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/A5GPZQqKwbaVWVxlL6rPsw</id>
-    <link href="https://mp.weixin.qq.com/s/A5GPZQqKwbaVWVxlL6rPsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Blazor VS React / Angular / Vue.js</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/iChV0yut82i6nvWEYs4Jlg</id>
-    <link href="https://mp.weixin.qq.com/s/iChV0yut82i6nvWEYs4Jlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Blazor VS 传统Web应用程序</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/0ghXzpdEsZycaarIxGLNRg</id>
-    <link href="https://mp.weixin.qq.com/s/0ghXzpdEsZycaarIxGLNRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>asp.net core集成CKEditor实现图片上传功能</title>
-    <updated>2021-01-09T20:27:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/bhscJDS5_d3VXhKeRdnVcw</id>
-    <link href="https://mp.weixin.qq.com/s/bhscJDS5_d3VXhKeRdnVcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

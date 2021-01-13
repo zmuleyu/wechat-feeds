@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:57:19+08:00</updated>
+  <updated>2021-01-13T12:02:51+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>致ClickHouse用户的一封信</title>
+    <updated>2021-01-13T08:55:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ENSMxpk9uMKByxbdzdh16A</id>
+    <link href="https://mp.weixin.qq.com/s/ENSMxpk9uMKByxbdzdh16A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>刚学Java没逻辑，怎么才能轻松掌握Java语法？</title>
     <updated>2021-01-12T09:14:29+08:00</updated>
@@ -131,13 +138,6 @@
     <updated>2021-01-03T18:02:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/KFIG_b5j25wHPR5GJ_kwVA</id>
     <link href="https://mp.weixin.qq.com/s/KFIG_b5j25wHPR5GJ_kwVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盘点2020年晋升为Apache TLP的大数据相关项目</title>
-    <updated>2021-01-03T18:05:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/W8KhI2fPvqcfFJj9NdX0cw</id>
-    <link href="https://mp.weixin.qq.com/s/W8KhI2fPvqcfFJj9NdX0cw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python小二 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:07:03+08:00</updated>
+  <updated>2021-01-13T12:09:29+08:00</updated>
   <subtitle>专注于Python基础入门教程、网络爬虫、自动化办公、数据可视化、数据分析、小游戏、Web开发以及PyCharm等常用开发工具分享。回复1024有惊喜。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>510页的《Python爬虫开发与项目实战》（附电子书和源码下载）</title>
+    <updated>2021-01-12T20:00:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/RC_lMgsg2DBtq2-JGaGJdQ</id>
+    <link href="https://mp.weixin.qq.com/s/RC_lMgsg2DBtq2-JGaGJdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解 NumPy</title>
+    <updated>2021-01-12T20:00:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/CgJ4gCsi8RGsj5fSQaW7dw</id>
+    <link href="https://mp.weixin.qq.com/s/CgJ4gCsi8RGsj5fSQaW7dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微信可以发“动态红包”了</title>
     <updated>2021-01-11T06:35:43+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2020-12-20T15:02:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/2N9DeUJ2iLne4yCV9mw1NA</id>
     <link href="https://mp.weixin.qq.com/s/2N9DeUJ2iLne4yCV9mw1NA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>圣诞节快到了，给微信头像戴个圣诞帽</title>
-    <updated>2020-12-16T22:02:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/ml2GkzcXIpGvwF6lx-xIhw</id>
-    <link href="https://mp.weixin.qq.com/s/ml2GkzcXIpGvwF6lx-xIhw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python基于Socket实现群聊</title>
-    <updated>2020-12-16T22:02:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/efZXuae2yCt7w1bwhAX0BQ</id>
-    <link href="https://mp.weixin.qq.com/s/efZXuae2yCt7w1bwhAX0BQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端技术漫谈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:01:55+08:00</updated>
+  <updated>2021-01-13T11:59:54+08:00</updated>
   <subtitle>一线互联网公司码农，持续更新原创技术文章，当然也会和大家分享自己的生活趣闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>废弃fastjson！大型项目迁移Gson保姆级实战</title>
+    <updated>2021-01-12T23:08:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/LvhikLz9HOFxaIpjWQhWoA</id>
+    <link href="https://mp.weixin.qq.com/s/LvhikLz9HOFxaIpjWQhWoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis字典结构与rehash解读</title>
     <updated>2021-01-09T22:14:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T23:22:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/O_47B0q7GvzlEu7gpbd8yw</id>
     <link href="https://mp.weixin.qq.com/s/O_47B0q7GvzlEu7gpbd8yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线上排障技巧 | 动态修改LOGGER级别</title>
-    <updated>2020-11-11T23:27:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/1GVwlnqaEK5lnpr0E_zsSg</id>
-    <link href="https://mp.weixin.qq.com/s/1GVwlnqaEK5lnpr0E_zsSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

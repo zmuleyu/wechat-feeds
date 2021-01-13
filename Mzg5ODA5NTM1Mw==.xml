@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端工匠 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T07:51:25+08:00</updated>
+  <updated>2021-01-13T12:11:08+08:00</updated>
   <subtitle>我是浪里行舟，Github博客5000+star作者，掘金、CSDN社区活跃作者，致力于打造一系列能够帮助前端工程师提高的优质文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么那么多自学Web前端的人后来都放弃了?</title>
+    <updated>2021-01-12T22:42:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/-oEfyBVgTYwt1VPj7zHVow</id>
+    <link href="https://mp.weixin.qq.com/s/-oEfyBVgTYwt1VPj7zHVow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>纯CSS实现常见的UI效果</title>
+    <updated>2021-01-12T22:42:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/sGh53ngmcHsTmYrAy1G0JA</id>
+    <link href="https://mp.weixin.qq.com/s/sGh53ngmcHsTmYrAy1G0JA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈移动端开发技术</title>
     <updated>2021-01-12T00:43:50+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-03T12:33:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/c-yG9NRUvotOWkU2xWu4Sw</id>
     <link href="https://mp.weixin.qq.com/s/c-yG9NRUvotOWkU2xWu4Sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>图解 JavaScript 事件循环：微任务和宏任务</title>
-    <updated>2020-12-30T20:18:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/DdFH5Q_Hk92pABKllP1dTA</id>
-    <link href="https://mp.weixin.qq.com/s/DdFH5Q_Hk92pABKllP1dTA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:58:32+08:00</updated>
+  <updated>2021-01-13T12:03:50+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 泛型 T，E，K，V，?，傻傻分不清？</title>
+    <updated>2021-01-13T07:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/kFkIRiIyMQiFDW6FiM_RdQ</id>
+    <link href="https://mp.weixin.qq.com/s/kFkIRiIyMQiFDW6FiM_RdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringBoot 配置 ELK 环境</title>
     <updated>2021-01-12T07:59:01+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-04T07:59:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/6IBp5ZoPAgMRLc1WukBLDQ</id>
     <link href="https://mp.weixin.qq.com/s/6IBp5ZoPAgMRLc1WukBLDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>中国编程第一人，一人抵一城！</title>
-    <updated>2021-01-03T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/VxZ_dbzJghGxu6xvYdlthw</id>
-    <link href="https://mp.weixin.qq.com/s/VxZ_dbzJghGxu6xvYdlthw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

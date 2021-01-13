@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:49:16+08:00</updated>
+  <updated>2021-01-13T11:53:32+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Slf4j 包老冲突，每次排查半天，是什么原因？怎么解决？</title>
+    <updated>2021-01-13T08:32:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/P6cjae4hHul1N0zqKHfBFw</id>
+    <link href="https://mp.weixin.qq.com/s/P6cjae4hHul1N0zqKHfBFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>P6 升 P7，这个是关键</title>
     <updated>2021-01-12T08:33:05+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2021-01-04T08:53:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/S8-_QGrKYn5rMD645BKwjQ</id>
     <link href="https://mp.weixin.qq.com/s/S8-_QGrKYn5rMD645BKwjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构中配置中心的选择，Spring Cloud Config 还是Apollo？</title>
-    <updated>2021-01-03T19:50:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/LkvZ2HWTK0XlTCEygcTGyw</id>
-    <link href="https://mp.weixin.qq.com/s/LkvZ2HWTK0XlTCEygcTGyw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

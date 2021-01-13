@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:56:52+08:00</updated>
+  <updated>2021-01-13T12:02:28+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AWS 容器三大新品：K8s 发行版，免费镜像库和 “Game Changer”AWS Proton</title>
+    <updated>2021-01-13T11:31:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/hVvn2ORmuLWCOVCu8k5DUQ</id>
+    <link href="https://mp.weixin.qq.com/s/hVvn2ORmuLWCOVCu8k5DUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生时代的 Java：辟一下谣，我还是最能打的！</title>
     <updated>2021-01-12T00:02:58+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2020-12-29T12:11:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/rPJvhiGlap-632rUu3Sm9g</id>
     <link href="https://mp.weixin.qq.com/s/rPJvhiGlap-632rUu3Sm9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从 0 到 1，搭建一个生产级别的 Kubernetes 集群</title>
-    <updated>2020-12-27T23:07:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/t8wSJdi4ZQZgZt0wcJ6gCg</id>
-    <link href="https://mp.weixin.qq.com/s/t8wSJdi4ZQZgZt0wcJ6gCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dockerd 资源泄露怎么办</title>
-    <updated>2020-12-27T23:07:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/DMco5nVWY4S1O_LKsMy14w</id>
-    <link href="https://mp.weixin.qq.com/s/DMco5nVWY4S1O_LKsMy14w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

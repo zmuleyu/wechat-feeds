@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>智能计算芯世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:59:44+08:00</updated>
+  <updated>2021-01-13T12:04:55+08:00</updated>
   <subtitle>人工智能，芯片设计和异构计算等领域知识分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Intel x86牙膏挤爆，发布四款CPU：10nm、大小核、睿频突破5GHz ...</title>
+    <updated>2021-01-13T08:30:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/2AkBq5PM1lakQH5AtAwprA</id>
+    <link href="https://mp.weixin.qq.com/s/2AkBq5PM1lakQH5AtAwprA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>FPGA异构计算架构对比分析</title>
     <updated>2021-01-12T07:55:44+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2021-01-03T22:02:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/GsJvtbUd180W8-3IRuMDAQ</id>
     <link href="https://mp.weixin.qq.com/s/GsJvtbUd180W8-3IRuMDAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习算法如此简单(32页PPT)</title>
-    <updated>2021-01-03T08:07:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/ORPM_P2gRDOH6T5dsensog</id>
-    <link href="https://mp.weixin.qq.com/s/ORPM_P2gRDOH6T5dsensog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>回顾龙芯处理器发展史</title>
-    <updated>2021-01-03T08:07:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/XBsaMeF09wM6MwHoBxglrg</id>
-    <link href="https://mp.weixin.qq.com/s/XBsaMeF09wM6MwHoBxglrg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

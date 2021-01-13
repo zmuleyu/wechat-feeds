@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里云开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:43:11+08:00</updated>
+  <updated>2021-01-13T11:50:49+08:00</updated>
   <subtitle>阿里云开发者社区官方技术号，关注技术创新，关注开发者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>人生苦短，开发用云：如何优雅地实现程序员的侠客梦？</title>
+    <updated>2021-01-12T18:06:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/53bSC81MFNMxdZroeZaxvw</id>
+    <link href="https://mp.weixin.qq.com/s/53bSC81MFNMxdZroeZaxvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何上手MySQL和PG？阿里数据库大神免费带练</title>
     <updated>2021-01-04T18:10:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T07:59:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/wIlvVzqEwMPi_TOMLZwDLg</id>
     <link href="https://mp.weixin.qq.com/s/wIlvVzqEwMPi_TOMLZwDLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大咖分享 | 如何挖掘社交媒体大数据的价值？</title>
-    <updated>2020-11-24T18:02:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/Y96flf160MrXk8dEgwWdFA</id>
-    <link href="https://mp.weixin.qq.com/s/Y96flf160MrXk8dEgwWdFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

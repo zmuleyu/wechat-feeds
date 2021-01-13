@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源最前线 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T12:01:50+08:00</updated>
+  <updated>2021-01-13T12:07:13+08:00</updated>
   <subtitle>推荐热门开源软件，介绍新开源项目，报导开源资讯！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯又一力作！开源自家Tencent JDK，微服务云原生等场景</title>
+    <updated>2021-01-13T10:26:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/2RnBBKl4-pK9Lo5o_JuUmA</id>
+    <link href="https://mp.weixin.qq.com/s/2RnBBKl4-pK9Lo5o_JuUmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>牛逼了！第一份程序员考公指南居然在Github上被我扒出来</title>
     <updated>2021-01-12T10:24:21+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-04T10:26:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/kH2V5QvWX6QLc9kSum8j1w</id>
     <link href="https://mp.weixin.qq.com/s/kH2V5QvWX6QLc9kSum8j1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>12月份GitHub上最热门的Java开源项目</title>
-    <updated>2021-01-02T23:53:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/luSjCP0N2G8f8k9Bb5wk9g</id>
-    <link href="https://mp.weixin.qq.com/s/luSjCP0N2G8f8k9Bb5wk9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

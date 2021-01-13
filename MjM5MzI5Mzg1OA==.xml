@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:41:05+08:00</updated>
+  <updated>2021-01-13T12:14:53+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 ASP.Net Core 中实现 数据保护API</title>
+    <updated>2021-01-13T09:41:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/zjqPMbGc5oSsMG0qihhrHA</id>
+    <link href="https://mp.weixin.qq.com/s/zjqPMbGc5oSsMG0qihhrHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高并发场景下如何优化服务器的性能？</title>
+    <updated>2021-01-13T09:41:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xPwouzHb_b5ATOzS8CS7Ag</id>
+    <link href="https://mp.weixin.qq.com/s/xPwouzHb_b5ATOzS8CS7Ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 21. dict 的介绍</title>
+    <updated>2021-01-13T09:41:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xCyaH47o-DKU4u6xznpQzA</id>
+    <link href="https://mp.weixin.qq.com/s/xCyaH47o-DKU4u6xznpQzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>26岁女孩月薪才2700，却攒了两套房：赚钱，从来不止一种方式</title>
+    <updated>2021-01-13T09:41:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cvKW8yRUEtHq5IQkgE5_Yg</id>
+    <link href="https://mp.weixin.qq.com/s/cvKW8yRUEtHq5IQkgE5_Yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 .NetCore 中使用 AutoMapper 高级功能</title>
     <updated>2021-01-12T09:53:47+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T12:47:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/ZqrfqF7M9FMJnFJoX5Jo-Q</id>
     <link href="https://mp.weixin.qq.com/s/ZqrfqF7M9FMJnFJoX5Jo-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对CORS OPTIONS预检请求的一些思考</title>
-    <updated>2021-01-08T12:47:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ZyoyavFByAs4r8UWEkKlTg</id>
-    <link href="https://mp.weixin.qq.com/s/ZyoyavFByAs4r8UWEkKlTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 入门系列 —— 14. List 集合的 CURD 介绍</title>
-    <updated>2021-01-08T12:47:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HOHDZsbi938o5U6GctWdnw</id>
-    <link href="https://mp.weixin.qq.com/s/HOHDZsbi938o5U6GctWdnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.Net Core 中使用 Swagger</title>
-    <updated>2021-01-07T12:44:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/-_WK1lwjJ1UF7sA8S71pZg</id>
-    <link href="https://mp.weixin.qq.com/s/-_WK1lwjJ1UF7sA8S71pZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈CLR基础知识</title>
-    <updated>2021-01-07T12:44:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ZTM5z9bKhb8FWTyBKF8t3Q</id>
-    <link href="https://mp.weixin.qq.com/s/ZTM5z9bKhb8FWTyBKF8t3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

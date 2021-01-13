@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:34:23+08:00</updated>
+  <updated>2021-01-13T12:14:53+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你的Kubernetes成熟度是多少？</title>
+    <updated>2021-01-13T11:44:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ArHifUiRvAtJrBebDBVnww</id>
+    <link href="https://mp.weixin.qq.com/s/ArHifUiRvAtJrBebDBVnww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文搞懂Kubernetes网络策略（上）</title>
+    <updated>2021-01-13T11:44:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/QGNJqOC9Hr_iRFT9FlXrkg</id>
+    <link href="https://mp.weixin.qq.com/s/QGNJqOC9Hr_iRFT9FlXrkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【网络论坛预告】深入浅出 Cloud Native BuildPack</title>
+    <updated>2021-01-13T11:44:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/iYR1xBCkYHTRPez-IMPX0g</id>
+    <link href="https://mp.weixin.qq.com/s/iYR1xBCkYHTRPez-IMPX0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播预告 | 开源的云原生开发环境 —— Nocalhost</title>
+    <updated>2021-01-13T11:44:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cQKzKd5xPOXuGlRF1Roy_Q</id>
+    <link href="https://mp.weixin.qq.com/s/cQKzKd5xPOXuGlRF1Roy_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chaos Mesh® 技术内幕 | 如何注入 I/O 故障？</title>
     <updated>2021-01-12T11:27:18+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T10:13:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/t_yWQCP27lrxWJarmLs4pw</id>
     <link href="https://mp.weixin.qq.com/s/t_yWQCP27lrxWJarmLs4pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Lens管理多云Kubernetes</title>
-    <updated>2021-01-07T11:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/bWKqezJUjeuVsqC5n8X9Nw</id>
-    <link href="https://mp.weixin.qq.com/s/bWKqezJUjeuVsqC5n8X9Nw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何根据不同业务场景调节 HPA 扩缩容灵敏度</title>
-    <updated>2021-01-07T11:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0KXS7xzkPoLpWZ-Io6mVKQ</id>
-    <link href="https://mp.weixin.qq.com/s/0KXS7xzkPoLpWZ-Io6mVKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 F5 和 Cilium 的 Kubernetes 集群网络架构设计</title>
-    <updated>2021-01-07T11:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lDC9wB3PCcwBWaz-aZY1rw</id>
-    <link href="https://mp.weixin.qq.com/s/lDC9wB3PCcwBWaz-aZY1rw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解读：云原生下的可观察性发展方向</title>
-    <updated>2021-01-07T11:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/XHWG5Oi8FIvsvPB_hcpewQ</id>
-    <link href="https://mp.weixin.qq.com/s/XHWG5Oi8FIvsvPB_hcpewQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

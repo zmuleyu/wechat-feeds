@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈码农画像 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T16:38:40+08:00</updated>
+  <updated>2021-01-13T11:57:12+08:00</updated>
   <subtitle>一线码农错题本，坚持分享原创硬核干货，内容考究，关注大前端、.NetCore、容器云 &amp; Devops 全技术链，#码农画像 #技术护城河</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年了，`IEnumerator`、`IEnumerable`接口还傻傻分不清楚？</title>
+    <updated>2021-01-13T08:08:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/v7wWU0BIpUKgAeUNyl9Z2Q</id>
+    <link href="https://mp.weixin.qq.com/s/v7wWU0BIpUKgAeUNyl9Z2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ASP.NET Core Middleware抽丝剥茧</title>
     <updated>2021-01-12T15:52:26+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2020-11-20T14:06:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/H4Z8AlmyoL4VGVZ4jWs3MQ</id>
     <link href="https://mp.weixin.qq.com/s/H4Z8AlmyoL4VGVZ4jWs3MQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在IIS中部署SPA应用，多么痛的领悟！</title>
-    <updated>2020-11-04T08:23:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/hlxWZTHGp27py_ZTUbJIWg</id>
-    <link href="https://mp.weixin.qq.com/s/hlxWZTHGp27py_ZTUbJIWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

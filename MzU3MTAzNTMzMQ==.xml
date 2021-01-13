@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一灰灰blog | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:39:21+08:00</updated>
+  <updated>2021-01-13T12:14:17+08:00</updated>
   <subtitle>Java常用技术探索，分享编程技巧，技术博文</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【SpringBoot DB 系列】Mybatis-Plus 多数据源配置</title>
+    <updated>2021-01-12T14:01:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/obFrXKTqwsRJJMIEena_5w</id>
+    <link href="https://mp.weixin.qq.com/s/obFrXKTqwsRJJMIEena_5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【SpringBoot DB 系列】Mybatis基于 AbstractRoutingDataSource AOP多数据源切换</title>
     <updated>2021-01-11T19:19:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T15:09:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/C5_cjjkWuZW6xxF6ZZYNDw</id>
     <link href="https://mp.weixin.qq.com/s/C5_cjjkWuZW6xxF6ZZYNDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【SpringBoot DB 系列】Jooq 批量写入采坑记录</title>
-    <updated>2020-12-03T10:29:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/VfeV-fUQvhB6BUOx_Koysw</id>
-    <link href="https://mp.weixin.qq.com/s/VfeV-fUQvhB6BUOx_Koysw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

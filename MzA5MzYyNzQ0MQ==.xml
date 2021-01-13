@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:41:56+08:00</updated>
+  <updated>2021-01-13T11:47:03+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我所有 Python 项目，源码全在这了！</title>
+    <updated>2021-01-12T19:33:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/8oMnesjG7syPyCrL3yTNkw</id>
+    <link href="https://mp.weixin.qq.com/s/8oMnesjG7syPyCrL3yTNkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>500 份源码合集——GitHub 热点速览 v.21.02</title>
     <updated>2021-01-11T18:25:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T21:59:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/NmgQaYCA-5nQvfsf31I4CA</id>
     <link href="https://mp.weixin.qq.com/s/NmgQaYCA-5nQvfsf31I4CA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《HelloGitHub》第 57 期</title>
-    <updated>2020-12-27T21:27:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/tbGpQPcG0coKeXdrQBWFWg</id>
-    <link href="https://mp.weixin.qq.com/s/tbGpQPcG0coKeXdrQBWFWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据技术与数仓 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:49:44+08:00</updated>
+  <updated>2021-01-13T11:51:10+08:00</updated>
   <subtitle>专注分享数据仓库与大数据技术(Flink/Hadoop/Spark/Hive)相关内容。关注我可以免费领取大数据书籍与视频。我的博客:https://jiamaoxiang.top/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实时数仓|以upsert的方式读写Kafka数据——以Flink1.12为例</title>
+    <updated>2021-01-12T21:06:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Tb8GtabOVBvx88de0C4ncw</id>
+    <link href="https://mp.weixin.qq.com/s/Tb8GtabOVBvx88de0C4ncw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
     <updated>2021-01-10T20:48:54+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-06T16:46:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/o30K2Rdjx8fqu9Vapcvb1Q</id>
     <link href="https://mp.weixin.qq.com/s/o30K2Rdjx8fqu9Vapcvb1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>秒懂推荐系统-Spark平台下基于物品的协同过滤推荐系统构建</title>
-    <updated>2020-12-01T23:41:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/Hu4VYMae2Xm8f2nJqJzxHA</id>
-    <link href="https://mp.weixin.qq.com/s/Hu4VYMae2Xm8f2nJqJzxHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用功不求太猛，但求有恒</title>
-    <updated>2020-12-01T23:41:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/RR4yTc23vlQ2NBLCGD0oow</id>
-    <link href="https://mp.weixin.qq.com/s/RR4yTc23vlQ2NBLCGD0oow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

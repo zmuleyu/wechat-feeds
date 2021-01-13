@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:44:13+08:00</updated>
+  <updated>2021-01-13T11:50:35+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见，戴威！再见，小黄车！</title>
+    <updated>2021-01-12T19:56:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/wc509yZ2L8l-3aDkdOT8bQ</id>
+    <link href="https://mp.weixin.qq.com/s/wc509yZ2L8l-3aDkdOT8bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么全网都在劝你学Java、Python，而不是C++？</title>
     <updated>2021-01-11T21:48:09+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2021-01-03T18:21:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/P-PvyJOkxgoDPaLU5jubRA</id>
     <link href="https://mp.weixin.qq.com/s/P-PvyJOkxgoDPaLU5jubRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年全球程序员收入报告出炉！旧金山程序员最贵！字节跳动成唯一上榜中国公司</title>
-    <updated>2021-01-03T16:20:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/BY8ILYBwkN7Hst15rz82rw</id>
-    <link href="https://mp.weixin.qq.com/s/BY8ILYBwkN7Hst15rz82rw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，胡阿姨！再见，共享单车！</title>
-    <updated>2021-01-03T16:20:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/gBZefcf0MhyABoi1lJXYgA</id>
-    <link href="https://mp.weixin.qq.com/s/gBZefcf0MhyABoi1lJXYgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

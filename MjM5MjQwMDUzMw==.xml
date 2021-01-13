@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王Plus | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:49:54+08:00</updated>
+  <updated>2021-01-13T11:51:53+08:00</updated>
   <subtitle>一个二十年的老全栈的技术碎碎念</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入浅出Dotnet Core的项目结构变化</title>
+    <updated>2021-01-12T22:27:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/FPgxwhsJUYxDEHOi7BNxZg</id>
+    <link href="https://mp.weixin.qq.com/s/FPgxwhsJUYxDEHOi7BNxZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 .NetCore 中使用 AutoMapper 高级功能</title>
+    <updated>2021-01-12T22:27:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/P9leU5LYbbL4kTtlijtC-A</id>
+    <link href="https://mp.weixin.qq.com/s/P9leU5LYbbL4kTtlijtC-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>说说 RabbiMQ 的应答模式</title>
+    <updated>2021-01-12T22:27:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/AfDsmweAljGcwM15s-Bczg</id>
+    <link href="https://mp.weixin.qq.com/s/AfDsmweAljGcwM15s-Bczg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
     <updated>2021-01-10T19:04:07+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-27T22:16:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/9hwlTDZVVMrTXeUp79S_XA</id>
     <link href="https://mp.weixin.qq.com/s/9hwlTDZVVMrTXeUp79S_XA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 Windows 服务中托管 ASP.NET Core</title>
-    <updated>2020-12-27T22:16:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/VdJEIU9PxZl95Sl3ZU-Mag</id>
-    <link href="https://mp.weixin.qq.com/s/VdJEIU9PxZl95Sl3ZU-Mag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 xunit 测试项目中使用依赖注入</title>
-    <updated>2020-12-27T22:16:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/rSDDvXYLEslM2zSqMM6D2g</id>
-    <link href="https://mp.weixin.qq.com/s/rSDDvXYLEslM2zSqMM6D2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 9.0中引入的新特性init和record的使用思考</title>
-    <updated>2020-12-24T21:06:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/SOvwtk6i8EIP0TsWjS5GHg</id>
-    <link href="https://mp.weixin.qq.com/s/SOvwtk6i8EIP0TsWjS5GHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

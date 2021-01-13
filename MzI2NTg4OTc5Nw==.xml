@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码卫士 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:30:26+08:00</updated>
+  <updated>2021-01-13T11:55:53+08:00</updated>
   <subtitle>奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇安信代码安全实验室帮助微软修复两个 “重要” 漏洞，获官方致谢</title>
+    <updated>2021-01-13T10:36:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/BZbq9RNA27Fuqs1Ort8Iow</id>
+    <link href="https://mp.weixin.qq.com/s/BZbq9RNA27Fuqs1Ort8Iow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软补丁星期二修复已遭利用的 Defender 0day</title>
+    <updated>2021-01-13T10:36:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/8jgXCWUlltyNACiWa76k6w</id>
+    <link href="https://mp.weixin.qq.com/s/8jgXCWUlltyNACiWa76k6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SolarWinds 供应链攻击中的第三款恶意软件</title>
     <updated>2021-01-12T18:13:19+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-01T09:01:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/PVlJhRoJQiPAeWMQxDnsug</id>
     <link href="https://mp.weixin.qq.com/s/PVlJhRoJQiPAeWMQxDnsug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021，万象更新</title>
-    <updated>2021-01-01T09:01:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/u0xQJ2XavExBCRAVkbu95Q</id>
-    <link href="https://mp.weixin.qq.com/s/u0xQJ2XavExBCRAVkbu95Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FireEye 红队失窃工具大揭秘之：分析复现SolarWinds RCE 0day (CVE-2020-10148)</title>
-    <updated>2020-12-31T15:35:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/faapVWr8runQxO359h9kZA</id>
-    <link href="https://mp.weixin.qq.com/s/faapVWr8runQxO359h9kZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

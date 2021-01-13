@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>渗透云笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:54:38+08:00</updated>
+  <updated>2021-01-13T11:57:16+08:00</updated>
   <subtitle>分享学习网络安全的路上，把自己所学的分享上来，帮助一些网络小白避免“踩坑”，既节省了学习时间，少走了弯道，我们也可以去回顾自己所学，分享自己所得与经验，为此我们感到光荣。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020，确定不来白嫖点资料当个黑客？</title>
+    <updated>2021-01-12T14:39:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/LrvvvYYjQ_3ayledRKurZw</id>
+    <link href="https://mp.weixin.qq.com/s/LrvvvYYjQ_3ayledRKurZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>针对某个目标的渗透测试（外网渗透）</title>
     <updated>2021-01-10T12:03:49+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2020-12-28T18:59:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/KWKQjTatbSyFpbOf8lGGhA</id>
     <link href="https://mp.weixin.qq.com/s/KWKQjTatbSyFpbOf8lGGhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从开发角度看那些FastJson漏洞不为人知的事情</title>
-    <updated>2020-12-25T21:00:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/ovgjjvYVYhNiX_is7wTGSQ</id>
-    <link href="https://mp.weixin.qq.com/s/ovgjjvYVYhNiX_is7wTGSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

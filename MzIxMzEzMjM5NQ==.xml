@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:58:33+08:00</updated>
+  <updated>2021-01-13T12:04:11+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里优化业务中台背后：依然强势推进数据中台建设！</title>
+    <updated>2021-01-12T21:22:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qfkyqn0sVU9nYZ4V1f7l3g</id>
+    <link href="https://mp.weixin.qq.com/s/qfkyqn0sVU9nYZ4V1f7l3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你测试有问题，我这里怎么就是好的</title>
+    <updated>2021-01-12T21:22:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/HKGnZRqfxMbN4jmgyfik2w</id>
+    <link href="https://mp.weixin.qq.com/s/HKGnZRqfxMbN4jmgyfik2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员2年攒了60.8万，晒出工资单，网友：卧槽！</title>
     <updated>2021-01-11T20:57:40+08:00</updated>
@@ -29,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>一张思维导图展现互联网主流架构体系</title>
-    <updated>2021-01-11T08:16:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/xNNKH_U9wA0QjWe2_A8HdA</id>
-    <link href="https://mp.weixin.qq.com/s/xNNKH_U9wA0QjWe2_A8HdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>对业务系统的可扩展性设计思考</title>
     <updated>2021-01-09T23:20:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/Fvt19Aro-NRNTJoSBixy5Q</id>
@@ -47,13 +54,6 @@
     <updated>2021-01-09T08:46:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/qJ2iNEwo19InGZCAS7Pb4Q</id>
     <link href="https://mp.weixin.qq.com/s/qJ2iNEwo19InGZCAS7Pb4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>测试技术高工如何转型测试管理？这些领导力技能越早知道越好！</title>
-    <updated>2021-01-09T08:46:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/BdF1QQzs1ADuEue70it_Aw</id>
-    <link href="https://mp.weixin.qq.com/s/BdF1QQzs1ADuEue70it_Aw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +96,6 @@
     <updated>2021-01-03T23:10:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/DqQeSNFRZPHpECX-i7BVPQ</id>
     <link href="https://mp.weixin.qq.com/s/DqQeSNFRZPHpECX-i7BVPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里高级技术专家谈开源DDD框架：COLA4.0，分离架构和组件</title>
-    <updated>2021-01-02T16:48:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/8KrZIK2mJXPyXdBMIVitLA</id>
-    <link href="https://mp.weixin.qq.com/s/8KrZIK2mJXPyXdBMIVitLA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

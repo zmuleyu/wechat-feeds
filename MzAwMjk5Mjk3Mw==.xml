@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武哥聊编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:42:52+08:00</updated>
+  <updated>2021-01-13T11:47:22+08:00</updated>
   <subtitle>在这里，每天进步一点点。你若对得起时间，时间便对得起你！感谢关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>卧槽！又发现一款牛逼的 API 敏捷开发工具</title>
+    <updated>2021-01-13T02:34:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/EDILYvw9D0UBkfx8ULbeBQ</id>
+    <link href="https://mp.weixin.qq.com/s/EDILYvw9D0UBkfx8ULbeBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>IDEA 卡成球了 ！咋优化 ?</title>
     <updated>2021-01-11T23:00:16+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2021-01-04T11:47:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/6PQUTHGiNXt72QGMCwQc9A</id>
     <link href="https://mp.weixin.qq.com/s/6PQUTHGiNXt72QGMCwQc9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用Java实现天天酷跑（附源码），这个真的有点强了！</title>
-    <updated>2021-01-03T20:43:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/a6L_N8ncYoISxCpEFj4hTQ</id>
-    <link href="https://mp.weixin.qq.com/s/a6L_N8ncYoISxCpEFj4hTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过Nginx反向代理，实现远程调试本机代码</title>
-    <updated>2021-01-03T20:43:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/kNoAKDf6rbcVZFZ-Sat9rQ</id>
-    <link href="https://mp.weixin.qq.com/s/kNoAKDf6rbcVZFZ-Sat9rQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

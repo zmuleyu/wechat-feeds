@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:54:07+08:00</updated>
+  <updated>2021-01-13T11:59:07+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Socket粘包问题终极解决方案—Netty版（2W字）！</title>
+    <updated>2021-01-12T17:05:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/XeMOiUA3gQDnWuxAejwnLg</id>
+    <link href="https://mp.weixin.qq.com/s/XeMOiUA3gQDnWuxAejwnLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阅读源码的 4 个绝技，我必须分享给你！</title>
     <updated>2021-01-11T19:40:56+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T23:39:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/nvBvrHjPojoVez8W2VqjGg</id>
     <link href="https://mp.weixin.qq.com/s/nvBvrHjPojoVez8W2VqjGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 生成随机数的 5 种方式，你知道几种？</title>
-    <updated>2020-12-29T13:59:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/2XNJCSDEuB3Nqn6Fo0f2ww</id>
-    <link href="https://mp.weixin.qq.com/s/2XNJCSDEuB3Nqn6Fo0f2ww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

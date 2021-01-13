@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:26:47+08:00</updated>
+  <updated>2021-01-13T11:51:48+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET Core 处理 WebAPI JSON 返回烦人的null为空</title>
+    <updated>2021-01-13T11:03:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/EexipMj6Sl7Ie-FFuNop_A</id>
+    <link href="https://mp.weixin.qq.com/s/EexipMj6Sl7Ie-FFuNop_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021立Flag：搞定. NET5千万高并发项目，工资double | 被杠精同事嘲笑…</title>
     <updated>2021-01-12T14:42:27+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2021-01-04T14:30:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/JnVvs52xlwYvPgTYcUmLsg</id>
     <link href="https://mp.weixin.qq.com/s/JnVvs52xlwYvPgTYcUmLsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 5 开源工作流框架elsa技术研究</title>
-    <updated>2021-01-03T12:32:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/RkWcbo4Vj7m9zhlUOP1UoQ</id>
-    <link href="https://mp.weixin.qq.com/s/RkWcbo4Vj7m9zhlUOP1UoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么企业里用 VS Code 的这么多？</title>
-    <updated>2021-01-03T12:32:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/M-vczNRwKCCnu5Vt2d9Ddw</id>
-    <link href="https://mp.weixin.qq.com/s/M-vczNRwKCCnu5Vt2d9Ddw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
