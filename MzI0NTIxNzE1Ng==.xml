@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:39:44+08:00</updated>
+  <updated>2021-01-14T02:43:48+08:00</updated>
   <subtitle>Apache Flink &amp; Apache Hudi. 由Committer &amp; PMC 维护。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>探索 Flink 有限数据集上的细粒度恢复</title>
+    <updated>2021-01-13T23:51:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/gtdnkmF_miwjvtEV1w9arA</id>
+    <link href="https://mp.weixin.qq.com/s/gtdnkmF_miwjvtEV1w9arA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>还在写DataStream吗？来感受一下V1.12流批一体Flink Connector</title>
     <updated>2021-01-12T20:22:47+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2021-01-03T22:18:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/J5gHxlzVpW25rJ6eKbyeAQ</id>
     <link href="https://mp.weixin.qq.com/s/J5gHxlzVpW25rJ6eKbyeAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试实时开发必问——Flink中如何做流Join呢？</title>
-    <updated>2021-01-02T21:47:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/fNXChbO0KIiIAY0BisCg3w</id>
-    <link href="https://mp.weixin.qq.com/s/fNXChbO0KIiIAY0BisCg3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新一代大数据任务调度系统 - Apache DolphinScheduler 1.3.4 发布，推荐下载</title>
-    <updated>2021-01-02T21:47:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/tOV9ZAkd5m8mbGVcIxYlOA</id>
-    <link href="https://mp.weixin.qq.com/s/tOV9ZAkd5m8mbGVcIxYlOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

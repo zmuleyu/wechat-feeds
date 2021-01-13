@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNET技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:08:11+08:00</updated>
+  <updated>2021-01-14T02:46:20+08:00</updated>
   <subtitle>面向DotNET的线上技术社区。社区宗旨：以弘扬互联网精神为己任，致力于打造开放，分享，互利，共赢的互联网技术社区。打破闭塞，拉进你我，分享知识，共同进步，努力创造更加友善进取的.NET技术圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入浅出Dotnet Core的项目结构变化</title>
+    <updated>2021-01-13T20:06:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cMzm7JNrjqdNLeoTmTM91w</id>
+    <link href="https://mp.weixin.qq.com/s/cMzm7JNrjqdNLeoTmTM91w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈​与彼得原理和责任管理有关的小故事</title>
+    <updated>2021-01-13T20:06:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/WszcqlxlrzfGPk3Qt67Ygg</id>
+    <link href="https://mp.weixin.qq.com/s/WszcqlxlrzfGPk3Qt67Ygg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>C# 中的 null 包容运算符 “!” —— 概念、由来、用法和注意事项</title>
     <updated>2021-01-12T19:33:40+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-31T23:33:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/xecgWnQG3evka1SD0G699A</id>
     <link href="https://mp.weixin.qq.com/s/xecgWnQG3evka1SD0G699A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 Buffer</title>
-    <updated>2020-12-30T19:28:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/ZOsKmoUsqwo3lnDbTLBjHw</id>
-    <link href="https://mp.weixin.qq.com/s/ZOsKmoUsqwo3lnDbTLBjHw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

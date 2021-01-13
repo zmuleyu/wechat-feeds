@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云祁QI | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:42:02+08:00</updated>
+  <updated>2021-01-14T02:33:35+08:00</updated>
   <subtitle>云祁，专注于数据中台及大数据技术分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>全网最通俗易懂的HBase架构及原理</title>
+    <updated>2021-01-13T23:43:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/rZ1TgrXNLttOoXM7ARgoYg</id>
+    <link href="https://mp.weixin.qq.com/s/rZ1TgrXNLttOoXM7ARgoYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>HBase入门为什么可以这么简单？</title>
     <updated>2021-01-10T14:11:29+08:00</updated>
@@ -96,27 +103,6 @@
     <updated>2020-12-02T19:57:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/-uMid9fJUKeNiHNCsB1JYA</id>
     <link href="https://mp.weixin.qq.com/s/-uMid9fJUKeNiHNCsB1JYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | Flink CEP 入门技术讲解</title>
-    <updated>2020-11-28T15:57:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/3PmG43SD9nfFxCSUOTRVbg</id>
-    <link href="https://mp.weixin.qq.com/s/3PmG43SD9nfFxCSUOTRVbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享 | 建设实时数仓之前的思考与方案</title>
-    <updated>2020-11-28T15:57:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/YcyfCRW_lBH0JFxf_maBjw</id>
-    <link href="https://mp.weixin.qq.com/s/YcyfCRW_lBH0JFxf_maBjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>理论 | Kimball生命周期导论</title>
-    <updated>2020-11-28T15:57:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-28:/s/J6qQZB75XoUAEYLjaUTayQ</id>
-    <link href="https://mp.weixin.qq.com/s/J6qQZB75XoUAEYLjaUTayQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

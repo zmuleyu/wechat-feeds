@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库与Python大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T02:35:30+08:00</updated>
+  <updated>2021-01-14T02:48:35+08:00</updated>
   <subtitle>专注于大数据、数据仓库与数据科学，数据分析与数据挖掘，Hadoop/Spark/Flink、Python与面试经验和职场感悟</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>HBase快速入门（一）</title>
+    <updated>2021-01-14T00:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/QxFVJNAI53P5ydYzBF7W9w</id>
+    <link href="https://mp.weixin.qq.com/s/QxFVJNAI53P5ydYzBF7W9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>快手大数据平台服务化实践</title>
+    <updated>2021-01-14T00:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/IKnrEXxt-CouLbRfqj9LYg</id>
+    <link href="https://mp.weixin.qq.com/s/IKnrEXxt-CouLbRfqj9LYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ClickHouse留存、路径、漏斗、session实战</title>
     <updated>2021-01-13T00:50:17+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2021-01-03T22:11:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/ESRL6ox4jYyiGA_bVaZQow</id>
     <link href="https://mp.weixin.qq.com/s/ESRL6ox4jYyiGA_bVaZQow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Clikhouse 技术选型与快速进阶</title>
-    <updated>2021-01-03T17:45:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/UR70sf_-_5VyXgUsyDVeww</id>
-    <link href="https://mp.weixin.qq.com/s/UR70sf_-_5VyXgUsyDVeww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
