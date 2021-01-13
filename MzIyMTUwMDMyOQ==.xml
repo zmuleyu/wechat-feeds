@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:23:58+08:00</updated>
+  <updated>2021-01-13T20:29:41+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>借助3款K8S原生控件，保护你的云原生应用</title>
+    <updated>2021-01-13T17:44:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/9ReuccjuWkfyFmvDFNPMJg</id>
+    <link href="https://mp.weixin.qq.com/s/9ReuccjuWkfyFmvDFNPMJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>下周二技术分享丨36Kr 的容器化之路</title>
     <updated>2021-01-12T18:19:51+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-29T16:29:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/5OhezNdzkg3_zaxxyjpn9Q</id>
     <link href="https://mp.weixin.qq.com/s/5OhezNdzkg3_zaxxyjpn9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无需手动输入命令，简单3步即可在K8S集群中启用GPU！</title>
-    <updated>2020-12-28T17:47:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/7DgzmhqrYKZt4r9Zly0iSQ</id>
-    <link href="https://mp.weixin.qq.com/s/7DgzmhqrYKZt4r9Zly0iSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

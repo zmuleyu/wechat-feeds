@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:35:11+08:00</updated>
+  <updated>2021-01-13T20:41:46+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式之系统底层原理</title>
+    <updated>2021-01-13T16:11:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/KKrxuVCrjlXXWMPTXQ-fvA</id>
+    <link href="https://mp.weixin.qq.com/s/KKrxuVCrjlXXWMPTXQ-fvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CentOS 下线，TencentOS Server 全新登陆带来最强支持</title>
     <updated>2021-01-11T17:32:41+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-21T17:30:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/30pZEV2JEPKmE0T6q2hBzA</id>
     <link href="https://mp.weixin.qq.com/s/30pZEV2JEPKmE0T6q2hBzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯天籁：音频联合信源信道编码技术白皮书</title>
-    <updated>2020-12-20T11:40:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/JAzROTYsnF_JqiI5vjVglA</id>
-    <link href="https://mp.weixin.qq.com/s/JAzROTYsnF_JqiI5vjVglA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

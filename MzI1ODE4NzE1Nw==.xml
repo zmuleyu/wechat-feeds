@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯IMWeb前端团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:40:38+08:00</updated>
+  <updated>2021-01-13T20:47:51+08:00</updated>
   <subtitle>IMWeb前端社区，汇聚众多前端开发爱好者。关注我们，听精致大咖直播课，看前沿干货推文，带你修炼前端开发内功！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>全栈大潮下，前端工程师如何走向全栈之路？</title>
+    <updated>2021-01-13T18:31:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/XsIPtIByyKElBknuEeceMA</id>
+    <link href="https://mp.weixin.qq.com/s/XsIPtIByyKElBknuEeceMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大前端时代，低代码的潜力如何挖掘？</title>
     <updated>2021-01-12T21:01:08+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-10-16T15:07:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/hqvEp5IvoTBd40DgXrPSgA</id>
     <link href="https://mp.weixin.qq.com/s/hqvEp5IvoTBd40DgXrPSgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用Canvas实现一个动态甜甜圈图表</title>
-    <updated>2020-10-15T11:06:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-15:/s/zZYDBdn6mwhNym03R__m2Q</id>
-    <link href="https://mp.weixin.qq.com/s/zZYDBdn6mwhNym03R__m2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

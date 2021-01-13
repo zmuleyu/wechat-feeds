@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>印记中文 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:41:42+08:00</updated>
+  <updated>2021-01-13T20:54:21+08:00</updated>
   <subtitle>深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谈谈 React 新出的 Server Components</title>
+    <updated>2021-01-13T19:46:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Mth71KyvdHyKz4S-c6jgwQ</id>
+    <link href="https://mp.weixin.qq.com/s/Mth71KyvdHyKz4S-c6jgwQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>React Status 中文周刊 #22 - 你不一定知道的 10 个 Next.js 技巧</title>
     <updated>2021-01-11T21:45:40+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-30T16:38:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/Igp3D_kIFXD27VyKRfPI7Q</id>
     <link href="https://mp.weixin.qq.com/s/Igp3D_kIFXD27VyKRfPI7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>React Status 中文周刊 #17 - 这些年，引入 React 方式的演变</title>
-    <updated>2020-11-24T00:07:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/emkNjXMVuZFZXHtFmWHYQA</id>
-    <link href="https://mp.weixin.qq.com/s/emkNjXMVuZFZXHtFmWHYQA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

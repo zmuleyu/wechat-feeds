@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux内核之旅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:43:56+08:00</updated>
+  <updated>2021-01-13T20:30:52+08:00</updated>
   <subtitle>Linux内核之旅</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用trace-event解决系统不能深度睡眠的问题</title>
+    <updated>2021-01-13T17:44:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Fgp2boWFlipF78ShEXNocQ</id>
+    <link href="https://mp.weixin.qq.com/s/Fgp2boWFlipF78ShEXNocQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从Linux源码看Socket(TCP)的accept</title>
     <updated>2021-01-08T11:35:36+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T22:07:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/eP9iIa_rGMQYuyeH2ElJSQ</id>
     <link href="https://mp.weixin.qq.com/s/eP9iIa_rGMQYuyeH2ElJSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux内核网络UDP数据包发送（五）——排队规则</title>
-    <updated>2020-12-11T14:49:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/gOZax_-Iao5oiQrG8HfefQ</id>
-    <link href="https://mp.weixin.qq.com/s/gOZax_-Iao5oiQrG8HfefQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T12:03:19+08:00</updated>
+  <updated>2021-01-13T20:48:43+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CDN 2021 完全攻击指南 （一）</title>
+    <updated>2021-01-13T17:13:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/RzuDGsp7kWJmca-1Gs5_2w</id>
+    <link href="https://mp.weixin.qq.com/s/RzuDGsp7kWJmca-1Gs5_2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>招聘 | 钉钉（中国）信息技术有限公司</title>
+    <updated>2021-01-13T17:13:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/u4z597C97P2fMkG8yPRi4Q</id>
+    <link href="https://mp.weixin.qq.com/s/u4z597C97P2fMkG8yPRi4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>免拆芯片提取固件</title>
+    <updated>2021-01-13T17:13:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/tjLPg0jZHz5_ZbWuudJl2A</id>
+    <link href="https://mp.weixin.qq.com/s/tjLPg0jZHz5_ZbWuudJl2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>正式发布 | 新基建：供应链安全风暴狂潮，入局没有硝烟的角逐</title>
     <updated>2021-01-12T11:00:17+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T17:53:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/TQ7BYzaq9ELX1VTLzfqbGg</id>
     <link href="https://mp.weixin.qq.com/s/TQ7BYzaq9ELX1VTLzfqbGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纵横杯线上初赛部分题解</title>
-    <updated>2021-01-04T17:29:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/b0kfzLaxlTDdPlZNcKyVgg</id>
-    <link href="https://mp.weixin.qq.com/s/b0kfzLaxlTDdPlZNcKyVgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | 极光无限邀你共启2021，向新前行</title>
-    <updated>2021-01-04T17:29:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/2Od3-13YAY0vwapPti7q_A</id>
-    <link href="https://mp.weixin.qq.com/s/2Od3-13YAY0vwapPti7q_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Supervisord远程命令执行漏洞复现（CVE-2017-11610）</title>
-    <updated>2021-01-04T17:29:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/CUEQPgFS1Z9qvc00I8vE8w</id>
-    <link href="https://mp.weixin.qq.com/s/CUEQPgFS1Z9qvc00I8vE8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

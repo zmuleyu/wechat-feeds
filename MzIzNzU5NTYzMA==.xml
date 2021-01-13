@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:44:42+08:00</updated>
+  <updated>2021-01-13T20:52:20+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Volcano架构设计与原理介绍</title>
+    <updated>2021-01-13T17:42:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/8QUen_TTwZSkFr_CCoO6zw</id>
+    <link href="https://mp.weixin.qq.com/s/8QUen_TTwZSkFr_CCoO6zw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 Kubernetes 中部署高可用 Harbor 镜像仓库</title>
     <updated>2021-01-12T19:48:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T19:05:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/Py1SanxHNhm3y7sg-wSIOw</id>
     <link href="https://mp.weixin.qq.com/s/Py1SanxHNhm3y7sg-wSIOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《边缘计算安全白皮书》深度解析</title>
-    <updated>2020-12-29T17:41:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/s1Z6KIG1WdGuRKXNu_pw2g</id>
-    <link href="https://mp.weixin.qq.com/s/s1Z6KIG1WdGuRKXNu_pw2g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

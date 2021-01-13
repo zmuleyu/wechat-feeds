@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:42:50+08:00</updated>
+  <updated>2021-01-13T20:53:35+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>当年学Java，我踩过这些坑...</title>
+    <updated>2021-01-13T14:35:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/frYUxdOts8znwGEI1nsjIw</id>
+    <link href="https://mp.weixin.qq.com/s/frYUxdOts8znwGEI1nsjIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何排查系统的性能瓶颈点？</title>
+    <updated>2021-01-13T14:35:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZpqMN7og73IVC16WNF2G5A</id>
+    <link href="https://mp.weixin.qq.com/s/ZpqMN7og73IVC16WNF2G5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>醍醐灌顶 | 我们谈论的Exactly once到底是什么？</title>
     <updated>2021-01-12T11:47:27+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-03T15:35:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/lTTto6lIB2HbtXqbrQxsag</id>
     <link href="https://mp.weixin.qq.com/s/lTTto6lIB2HbtXqbrQxsag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构中配置中心的选择</title>
-    <updated>2021-01-02T15:46:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/_-x_8oYUdYAT7uF9_1nD0w</id>
-    <link href="https://mp.weixin.qq.com/s/_-x_8oYUdYAT7uF9_1nD0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>声网Agora开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:19:12+08:00</updated>
+  <updated>2021-01-13T20:53:40+08:00</updated>
   <subtitle>声网Agora成立于2013年，是全球实时互动云行业开创者，为开发者提供简单易用、高度可定制和广泛兼容的API。本服务号为 Agora 开发者提供技术教程、产品信息等相关技术信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Agora 教程 | 如何在 Unity 游戏中用 RTM SDK 实现消息聊天</title>
+    <updated>2021-01-13T18:38:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/5_X9vPadn89whfV7tyNYEg</id>
+    <link href="https://mp.weixin.qq.com/s/5_X9vPadn89whfV7tyNYEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播预告｜RTM 助力信令与消息全球实时互通</title>
+    <updated>2021-01-13T18:38:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/9IPsoDpUf0Xxa2Y_w5XyQw</id>
+    <link href="https://mp.weixin.qq.com/s/9IPsoDpUf0Xxa2Y_w5XyQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 的最后 1 天，写个年终总结吧！</title>
     <updated>2020-12-31T18:17:58+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2020-09-23T18:09:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-23:/s/IvAuP6tQNdzqbImJwl3jOQ</id>
     <link href="https://mp.weixin.qq.com/s/IvAuP6tQNdzqbImJwl3jOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RTC 技术月开启报名，从网络架构聊到大前端开发</title>
-    <updated>2020-09-22T18:29:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/DcYr0eKWYi-GlIGGFIkOvg</id>
-    <link href="https://mp.weixin.qq.com/s/DcYr0eKWYi-GlIGGFIkOvg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

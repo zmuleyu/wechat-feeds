@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿飞的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T12:05:00+08:00</updated>
+  <updated>2021-01-13T20:52:11+08:00</updated>
   <subtitle>主要用来分享Java服务端相关的所有技术，坚持原创为主，已累计100+篇原创，包括但不限于：分布式&amp;微服务、JVM&amp;GC、Redis、索引&amp;分库分表、sharding-jdbc、kafka等，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -33,13 +33,6 @@
     <updated>2021-01-05T08:18:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/m-hwpNazjmcqwVbUC9_X-g</id>
     <link href="https://mp.weixin.qq.com/s/m-hwpNazjmcqwVbUC9_X-g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里彻底拆中台了！大厂架构设计到在底追求什么？</title>
-    <updated>2021-01-04T08:11:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/9VZmS2B6QMCKM3H_ORTQdg</id>
-    <link href="https://mp.weixin.qq.com/s/9VZmS2B6QMCKM3H_ORTQdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,6 +68,13 @@
     <updated>2020-12-21T08:35:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/fxhSZV25jfmRP0xqeWLaOg</id>
     <link href="https://mp.weixin.qq.com/s/fxhSZV25jfmRP0xqeWLaOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干掉okhttp：Retrofit真有这么大的能耐？</title>
+    <updated>2020-12-19T08:09:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/1DvHWtTcwUbZ-OUvS0UIOw</id>
+    <link href="https://mp.weixin.qq.com/s/1DvHWtTcwUbZ-OUvS0UIOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

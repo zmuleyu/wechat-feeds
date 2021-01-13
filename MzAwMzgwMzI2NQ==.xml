@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:20:46+08:00</updated>
+  <updated>2021-01-13T20:26:53+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第27节，通道选择器，协程通道三大利器</title>
+    <updated>2021-01-13T17:47:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/dpDdO2QYGHQj8nMYwmUnPA</id>
+    <link href="https://mp.weixin.qq.com/s/dpDdO2QYGHQj8nMYwmUnPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第26节，通道方向，有方向的通道参数</title>
     <updated>2021-01-12T18:06:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T20:39:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/bXEAmmIDmvaosFJb6F7eyg</id>
     <link href="https://mp.weixin.qq.com/s/bXEAmmIDmvaosFJb6F7eyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「趣图」互联网公司的圣诞树，确定不是机房拆剩下的吗？</title>
-    <updated>2020-12-21T17:58:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/8SpRi2WiK2F9n2e7P4bVHQ</id>
-    <link href="https://mp.weixin.qq.com/s/8SpRi2WiK2F9n2e7P4bVHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

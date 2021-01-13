@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据派THU | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:39:44+08:00</updated>
+  <updated>2021-01-13T20:46:09+08:00</updated>
   <subtitle>发布清华校内相关科研动态、教学成果及线下活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>独家 | ​PyMC3 介绍：用于概率编程的Python包</title>
+    <updated>2021-01-13T13:36:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Gqy6UT3XnrZF0Vyrcj_PKg</id>
+    <link href="https://mp.weixin.qq.com/s/Gqy6UT3XnrZF0Vyrcj_PKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华大学2020年毕业生就业质量报告出炉！连续三年无本科毕业生入职阿里</title>
+    <updated>2021-01-13T13:36:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/70jTWUPKH_SS3GsJVnYbag</id>
+    <link href="https://mp.weixin.qq.com/s/70jTWUPKH_SS3GsJVnYbag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>独家 | 用随机森林预测“美版拼多多”商品销量</title>
     <updated>2021-01-12T13:41:51+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-04T10:04:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/jtFsn2t2kCDfiMEIOHCaoA</id>
     <link href="https://mp.weixin.qq.com/s/jtFsn2t2kCDfiMEIOHCaoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python的深浅拷贝讲解！</title>
-    <updated>2021-01-02T09:39:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/e8N-s2w4gYQPKETVH62EAg</id>
-    <link href="https://mp.weixin.qq.com/s/e8N-s2w4gYQPKETVH62EAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人工智能基准(Benchmarking)再思考</title>
-    <updated>2021-01-02T09:39:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/5Uiooem4tqycBF-FWHcIPA</id>
-    <link href="https://mp.weixin.qq.com/s/5Uiooem4tqycBF-FWHcIPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

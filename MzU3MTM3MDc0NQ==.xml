@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:37:32+08:00</updated>
+  <updated>2021-01-13T20:43:25+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>重磅！华为云湖仓一体FusionInsight集成Apache Hudi</title>
+    <updated>2021-01-13T07:28:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/odwu-VGhIZo5O9Gz-kTPKQ</id>
+    <link href="https://mp.weixin.qq.com/s/odwu-VGhIZo5O9Gz-kTPKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文带你走进clickhouse的世界(3W字建议收藏)</title>
+    <updated>2021-01-13T07:28:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZvRxpFQ3AQPKj7YnLW_S3A</id>
+    <link href="https://mp.weixin.qq.com/s/ZvRxpFQ3AQPKj7YnLW_S3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ElasticSearch最新版快速入门详解，建议收藏！</title>
     <updated>2021-01-11T19:19:48+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-02T23:20:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/vHZXvj8UCAGeaBIh7PTRJQ</id>
     <link href="https://mp.weixin.qq.com/s/vHZXvj8UCAGeaBIh7PTRJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【案例】分享最近写的一个调用kylin重新构建模型的脚本</title>
-    <updated>2021-01-01T22:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/nzqLmEwYZUIeQpZnKgvEZA</id>
-    <link href="https://mp.weixin.qq.com/s/nzqLmEwYZUIeQpZnKgvEZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>传说中的仓湖一体数据库Druid为什么那么牛逼？看完这篇你就明白了</title>
-    <updated>2021-01-01T22:35:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/H0OYWWRA935NNawEyJKIJw</id>
-    <link href="https://mp.weixin.qq.com/s/H0OYWWRA935NNawEyJKIJw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

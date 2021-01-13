@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP开源社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:45:31+08:00</updated>
+  <updated>2021-01-13T20:52:24+08:00</updated>
   <subtitle>免费提供10GPHP进阶架构师学习教程，关注即可免费领取。每天推送PHP最新资讯技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式存储 GlusterFS 介绍与部署</title>
+    <updated>2021-01-13T17:02:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/PgnoAraQb2Pgs-dZQYEV2Q</id>
+    <link href="https://mp.weixin.qq.com/s/PgnoAraQb2Pgs-dZQYEV2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一位资深php程序员在北京的面试30个题目</title>
+    <updated>2021-01-13T17:02:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Pibci7HSj_QQgDA_8tB6dQ</id>
+    <link href="https://mp.weixin.qq.com/s/Pibci7HSj_QQgDA_8tB6dQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这四种情况下，才是考虑分库分表的时候！</title>
     <updated>2021-01-12T14:15:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-03T16:58:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/vtKcfyHbY1lKdYidmwf1MA</id>
     <link href="https://mp.weixin.qq.com/s/vtKcfyHbY1lKdYidmwf1MA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>加强版Redis，又一款国产高性能KV存储数据库开源了！</title>
-    <updated>2020-12-30T13:53:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/aZZOnlay6E_3VRpvnTo0Jw</id>
-    <link href="https://mp.weixin.qq.com/s/aZZOnlay6E_3VRpvnTo0Jw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 简介</title>
-    <updated>2020-12-30T13:53:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/1JxUQ2kGnZi8ROdW4TT8Pw</id>
-    <link href="https://mp.weixin.qq.com/s/1JxUQ2kGnZi8ROdW4TT8Pw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
