@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T16:42:50+08:00</updated>
+  <updated>2021-01-13T16:46:08+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>醒醒！Python已经支持中文变量名啦！</title>
+    <updated>2021-01-12T23:24:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/eaxlo71sN4JRnBiPNBxKzQ</id>
+    <link href="https://mp.weixin.qq.com/s/eaxlo71sN4JRnBiPNBxKzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何逐步突破，成为 Python 高手？</title>
     <updated>2021-01-11T20:28:07+08:00</updated>
@@ -33,13 +40,6 @@
     <updated>2021-01-10T16:49:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/2YdVliYp4rghpPONV-jQFA</id>
     <link href="https://mp.weixin.qq.com/s/2YdVliYp4rghpPONV-jQFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10w字！Django+Flask+经典Python数据分析合集</title>
-    <updated>2021-01-10T16:49:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/ltYJteu7B_bh81mmAGlaFA</id>
-    <link href="https://mp.weixin.qq.com/s/ltYJteu7B_bh81mmAGlaFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2021-01-03T20:26:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/8-c7f1QiR3OsSG4duuZNVA</id>
     <link href="https://mp.weixin.qq.com/s/8-c7f1QiR3OsSG4duuZNVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年Python文章盘点，我选出了个人TOP10</title>
-    <updated>2021-01-01T17:53:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/DgYP8TBg2kEWRx6A-cXjgA</id>
-    <link href="https://mp.weixin.qq.com/s/DgYP8TBg2kEWRx6A-cXjgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

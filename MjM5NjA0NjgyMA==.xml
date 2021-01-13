@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:27:11+08:00</updated>
+  <updated>2021-01-13T16:38:23+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于PDD员工发帖溯源联想到的相关技术与实现</title>
+    <updated>2021-01-13T15:19:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/coRsNLMT_FAr6xSHwPgOUg</id>
+    <link href="https://mp.weixin.qq.com/s/coRsNLMT_FAr6xSHwPgOUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>甲方安全人员必备的几个“救命”技能</title>
+    <updated>2021-01-13T15:19:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xy_Tcuo29Nzd2mohE9c3-Q</id>
+    <link href="https://mp.weixin.qq.com/s/xy_Tcuo29Nzd2mohE9c3-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Windows主机日志分析办法与思路</title>
+    <updated>2021-01-13T15:19:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/-aBO3xVqLYPEbkcIgLgkCA</id>
+    <link href="https://mp.weixin.qq.com/s/-aBO3xVqLYPEbkcIgLgkCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对Facebook进行安全测试之账户劫持实验</title>
+    <updated>2021-01-13T15:19:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/8FotAS0Ep4meUv7tlgbqnw</id>
+    <link href="https://mp.weixin.qq.com/s/8FotAS0Ep4meUv7tlgbqnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>请不要在我喜欢的人身上下手，我“刀”呢？</title>
     <updated>2021-01-12T17:33:26+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-09T14:30:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/GdQcNe0a0xhwMDpD_WT1Xw</id>
     <link href="https://mp.weixin.qq.com/s/GdQcNe0a0xhwMDpD_WT1Xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux应急响应笔记</title>
-    <updated>2021-01-08T17:43:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gmvlIJ8j-dJcAeVlR-_ytA</id>
-    <link href="https://mp.weixin.qq.com/s/gmvlIJ8j-dJcAeVlR-_ytA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于floor()报错注入，你真的懂了吗？</title>
-    <updated>2021-01-08T17:43:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gQWPwVCRLF_zRoogQPD2Wg</id>
-    <link href="https://mp.weixin.qq.com/s/gQWPwVCRLF_zRoogQPD2Wg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用Hetty对HTTP进行安全研究审计</title>
-    <updated>2021-01-08T17:43:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/XjRdX75SVntiSiCpjKDKgA</id>
-    <link href="https://mp.weixin.qq.com/s/XjRdX75SVntiSiCpjKDKgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过RedShell将命令执行记录在Cobalt Strike团队服务器中</title>
-    <updated>2021-01-08T17:43:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Nx2b9kULlOT2lEuP0WNA8w</id>
-    <link href="https://mp.weixin.qq.com/s/Nx2b9kULlOT2lEuP0WNA8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

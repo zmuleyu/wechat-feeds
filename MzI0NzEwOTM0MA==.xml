@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷神众测 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T16:55:19+08:00</updated>
+  <updated>2021-01-13T16:57:37+08:00</updated>
   <subtitle>雷神众测，专注于渗透测试技术及全球最新网络攻击技术的分析。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>团队招募 | 你斗志昂扬？我们给你提供平台！</title>
+    <updated>2021-01-13T13:51:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/DAEwx8orwDl_H4iLRJDjsA</id>
+    <link href="https://mp.weixin.qq.com/s/DAEwx8orwDl_H4iLRJDjsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>寻心所向 | 我和我的那头“牛”</title>
+    <updated>2021-01-13T13:51:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/qXvUcGkIeeDoZXitrLpi2g</id>
+    <link href="https://mp.weixin.qq.com/s/qXvUcGkIeeDoZXitrLpi2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>windows下远程不落地上线的方式</title>
     <updated>2021-01-12T15:04:11+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2021-01-03T14:57:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/LUUVzLf3YUWA0L9uh-1ggA</id>
     <link href="https://mp.weixin.qq.com/s/LUUVzLf3YUWA0L9uh-1ggA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>YouDianCMS 9.1代码审计前台SQL注入分析</title>
-    <updated>2021-01-01T20:04:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/28NDtNEm4A-vMA5Aau_RnA</id>
-    <link href="https://mp.weixin.qq.com/s/28NDtNEm4A-vMA5Aau_RnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

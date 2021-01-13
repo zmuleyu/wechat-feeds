@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T16:29:25+08:00</updated>
+  <updated>2021-01-13T16:34:06+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020RWCTF DBaaSadge WP</title>
+    <updated>2021-01-13T13:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/jvA5j9OPMFIPvP5267gk-Q</id>
+    <link href="https://mp.weixin.qq.com/s/jvA5j9OPMFIPvP5267gk-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>第四届上海第二工业大学“合天杯”网络攻防大赛圆满结束</title>
+    <updated>2021-01-13T13:39:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/VrOfazkGjun-9J5TR21B4w</id>
+    <link href="https://mp.weixin.qq.com/s/VrOfazkGjun-9J5TR21B4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次从0到1的edu通杀0day挖掘</title>
     <updated>2021-01-12T10:50:02+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-30T11:26:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/93KWVl2hTY457RdxlLoqyw</id>
     <link href="https://mp.weixin.qq.com/s/93KWVl2hTY457RdxlLoqyw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>探索新大陆：基于冷门协议sctp反弹shell</title>
-    <updated>2020-12-29T12:31:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/nPVhrn6J5h99UgalXqNbCA</id>
-    <link href="https://mp.weixin.qq.com/s/nPVhrn6J5h99UgalXqNbCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

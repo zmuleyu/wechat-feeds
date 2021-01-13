@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java杂记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T02:06:37+08:00</updated>
+  <updated>2021-01-13T16:33:27+08:00</updated>
   <subtitle>分享一些有关于java体系的知识，如：java基础知识/数据结算/算法，Spring/MyBatis/Netty源码分析，高并发/高性能/分布式/微服务架构的原理，JVM性能优化 ,希望能让大家在技术上和思想上带来一些提升。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你是喜欢用下划线还是小驼峰呢？</title>
+    <updated>2021-01-13T15:44:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/viVGyhJzE3urgMeYhP3lcQ</id>
+    <link href="https://mp.weixin.qq.com/s/viVGyhJzE3urgMeYhP3lcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>本以为我大学毕业后 VS 我大学毕业后</title>
     <updated>2021-01-11T15:05:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-02T16:44:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/v1oAiQKZXp4hxlgg6K4dnQ</id>
     <link href="https://mp.weixin.qq.com/s/v1oAiQKZXp4hxlgg6K4dnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021给自己的读书清单</title>
-    <updated>2021-01-01T20:10:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/l3zzCty7sYF_bDG0Bmr37Q</id>
-    <link href="https://mp.weixin.qq.com/s/l3zzCty7sYF_bDG0Bmr37Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
