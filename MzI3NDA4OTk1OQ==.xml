@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:43:11+08:00</updated>
+  <updated>2021-01-13T13:44:49+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>链家程序员怒删公司9TB数据，被判7年！</title>
+    <updated>2021-01-12T17:59:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-12:/s/8fCqF-Q1YFW-QCN-HuWVBA</id>
+    <link href="https://mp.weixin.qq.com/s/8fCqF-Q1YFW-QCN-HuWVBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见，CRUD！真正的MySQL要从架构抓起！！</title>
     <updated>2021-01-11T21:20:06+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-03T21:59:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/TXR6DyaxP7LaftfFwFn_dw</id>
     <link href="https://mp.weixin.qq.com/s/TXR6DyaxP7LaftfFwFn_dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 索引知识点总结</title>
-    <updated>2020-12-30T17:33:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/6wTnfMwICJAQDKXVsW1LRg</id>
-    <link href="https://mp.weixin.qq.com/s/6wTnfMwICJAQDKXVsW1LRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

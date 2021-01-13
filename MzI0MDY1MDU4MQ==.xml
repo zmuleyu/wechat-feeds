@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>嘶吼专业版 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:49:35+08:00</updated>
+  <updated>2021-01-13T13:49:50+08:00</updated>
   <subtitle>为您带来每日最新最专业的互联网安全专业信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>英特尔向第11代CPU添加了基于硬件的勒索软件检测功能</title>
+    <updated>2021-01-13T10:31:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/LyyLXPdpHulHcjojszD8PQ</id>
+    <link href="https://mp.weixin.qq.com/s/LyyLXPdpHulHcjojszD8PQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>世界各地大量社交资料遭泄露</title>
+    <updated>2021-01-13T10:31:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/QEg2edxazOu60UL7xSw-HA</id>
+    <link href="https://mp.weixin.qq.com/s/QEg2edxazOu60UL7xSw-HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>mac 恶意软件使用run-only AppleScripts绕过检测</title>
+    <updated>2021-01-13T10:31:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ImpbZZPezJhglJm8eUlfbQ</id>
+    <link href="https://mp.weixin.qq.com/s/ImpbZZPezJhglJm8eUlfbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度剖析站点隔离机制，Part 2（上）</title>
+    <updated>2021-01-13T10:31:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/1RfXMG0gPt5-OrzhrhSliA</id>
+    <link href="https://mp.weixin.qq.com/s/1RfXMG0gPt5-OrzhrhSliA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>好尴尬！智能情趣玩具还是不用的好，小心黑客动了歪心思！</title>
     <updated>2021-01-12T11:22:31+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T11:04:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/wK4NmsuKc1AdoHfBGroVOw</id>
     <link href="https://mp.weixin.qq.com/s/wK4NmsuKc1AdoHfBGroVOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年：邮箱攻击事态严重的一年</title>
-    <updated>2021-01-07T10:56:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/sDFApWQ2B9yaPXR4Ik7fMA</id>
-    <link href="https://mp.weixin.qq.com/s/sDFApWQ2B9yaPXR4Ik7fMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机</title>
-    <updated>2021-01-07T10:56:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/w3K-hoF6rY-TUi2UZ0_Xpg</id>
-    <link href="https://mp.weixin.qq.com/s/w3K-hoF6rY-TUi2UZ0_Xpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>构建自定义的Mimikatz二进制文件</title>
-    <updated>2021-01-07T10:56:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/CK6GDYbiVSDjr_ZVdAA-eA</id>
-    <link href="https://mp.weixin.qq.com/s/CK6GDYbiVSDjr_ZVdAA-eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入考察解释型语言背后隐藏的攻击面，Part 2（四）</title>
-    <updated>2021-01-07T10:56:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7RgumLK7pp5xlPLmoJMg3A</id>
-    <link href="https://mp.weixin.qq.com/s/7RgumLK7pp5xlPLmoJMg3A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

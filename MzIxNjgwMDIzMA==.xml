@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈前端精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:39:49+08:00</updated>
+  <updated>2021-01-13T13:42:19+08:00</updated>
   <subtitle>内容为王，精选为则。从前端到全栈，定期分享前端、客户端、Node、面试、职场感悟等相关高质量文章。小白的大神养成记，你我共勉！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何开发一款 H5 小程序直播？</title>
+    <updated>2021-01-13T11:15:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/6yvCgNbWoqRPOk3uIaCiCg</id>
+    <link href="https://mp.weixin.qq.com/s/6yvCgNbWoqRPOk3uIaCiCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「计算机网络」前端必备知识，看到就是赚到系列</title>
+    <updated>2021-01-13T11:15:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/rKtI6sr8ahfnDxRqrGMSUA</id>
+    <link href="https://mp.weixin.qq.com/s/rKtI6sr8ahfnDxRqrGMSUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看完《2020 年度程序员收入报告》 我何止是拖后腿呀~</title>
     <updated>2021-01-11T19:26:27+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-31T11:32:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/pGxDmT24-suLyaAb8-DSTQ</id>
     <link href="https://mp.weixin.qq.com/s/pGxDmT24-suLyaAb8-DSTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>半小时搞懂 HTTP、HTTPS和HTTP2</title>
-    <updated>2020-12-30T14:27:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/afC88FF-dkXgi3MEnThsXg</id>
-    <link href="https://mp.weixin.qq.com/s/afC88FF-dkXgi3MEnThsXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

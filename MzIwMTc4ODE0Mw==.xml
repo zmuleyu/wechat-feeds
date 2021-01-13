@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:48:37+08:00</updated>
+  <updated>2021-01-13T13:53:14+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>归纳+记忆：让机器像人一样从小样本中学习</title>
+    <updated>2021-01-13T13:42:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/0a0rqN4Ut1jWdrpATYJ5CQ</id>
+    <link href="https://mp.weixin.qq.com/s/0a0rqN4Ut1jWdrpATYJ5CQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年，投身自然语言处理是否明智？</title>
+    <updated>2021-01-13T13:42:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/CylvynYk9XMPMribCJencA</id>
+    <link href="https://mp.weixin.qq.com/s/CylvynYk9XMPMribCJencA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>岗位内推 | 阿里巴巴达摩院对话智能团队招聘研究型实习生</title>
+    <updated>2021-01-13T13:42:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/9uJ9hIkXTzyTjpfGN936SA</id>
+    <link href="https://mp.weixin.qq.com/s/9uJ9hIkXTzyTjpfGN936SA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>三天挑战自己构建深度学习框架，你敢来尝试吗？</title>
     <updated>2021-01-12T12:14:27+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T13:21:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/WaoxtulldPZXJrhNdFx-ZQ</id>
     <link href="https://mp.weixin.qq.com/s/WaoxtulldPZXJrhNdFx-ZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我宣布，这是我找到的史上AI最全论文体系！</title>
-    <updated>2021-01-04T18:39:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/PtIqjyPDujmM_pDbVxANBw</id>
-    <link href="https://mp.weixin.qq.com/s/PtIqjyPDujmM_pDbVxANBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NeurIPS 2020 | FixMatch：通过图像增强就能实现半监督学习</title>
-    <updated>2021-01-04T18:39:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/FsoIUwdI8d_p1XSf0aN7_A</id>
-    <link href="https://mp.weixin.qq.com/s/FsoIUwdI8d_p1XSf0aN7_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知识表示与融入技术前沿进展及应用</title>
-    <updated>2021-01-03T13:38:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/necu4iBO6SZG7ImCPMKS4w</id>
-    <link href="https://mp.weixin.qq.com/s/necu4iBO6SZG7ImCPMKS4w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

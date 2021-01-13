@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>独立播客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:33:14+08:00</updated>
+  <updated>2021-01-13T13:49:32+08:00</updated>
   <subtitle>分享一些能够经得起时间考验的播客内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>12月新播客 02</title>
+    <updated>2021-01-13T13:40:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/z1MZimRevBaIY8AYPrhnQQ</id>
+    <link href="https://mp.weixin.qq.com/s/z1MZimRevBaIY8AYPrhnQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>年度总结与关于播客若干问题的思辨</title>
     <updated>2021-01-11T19:13:36+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T20:30:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/5m24JtIpSiajcJEozSSrow</id>
     <link href="https://mp.weixin.qq.com/s/5m24JtIpSiajcJEozSSrow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么是播客？</title>
-    <updated>2020-12-29T23:35:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/aq7RW2PXe8aj5Q0iI_4WtQ</id>
-    <link href="https://mp.weixin.qq.com/s/aq7RW2PXe8aj5Q0iI_4WtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

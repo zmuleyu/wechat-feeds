@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mongoing中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:08:47+08:00</updated>
+  <updated>2021-01-13T13:55:35+08:00</updated>
   <subtitle>MongoDB中文社区（mongoing.com）是一个MongoDB爱好者技术交流平台，受到官方支持，旨在为Mongoer们提供最新的MongoDB相关资讯，如博客、文档、新闻、技术问答以及定期举办各种线上或线下的技术交流活动。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年MongoDB中文社区年终线上大会全纪录【附PPT及视频回放】</title>
+    <updated>2021-01-13T12:15:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/7_t09rBV_r4PEpx4qnPxBg</id>
+    <link href="https://mp.weixin.qq.com/s/7_t09rBV_r4PEpx4qnPxBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最佳案例分享 | MongoDB读写分离异常案例分析</title>
+    <updated>2021-01-13T12:15:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Ng305gwP3-SXEBYuFudkGg</id>
+    <link href="https://mp.weixin.qq.com/s/Ng305gwP3-SXEBYuFudkGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MongoDB年终大会转移至线上进行 | 周五参会指南</title>
     <updated>2021-01-04T17:59:55+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-09T21:59:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-09:/s/9x1Fg3wRsyQNJ_-Z8SMn5Q</id>
     <link href="https://mp.weixin.qq.com/s/9x1Fg3wRsyQNJ_-Z8SMn5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MongoDB日志记录</title>
-    <updated>2020-11-09T21:59:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/dkCUHfdpsgCfnPvshHAyIg</id>
-    <link href="https://mp.weixin.qq.com/s/dkCUHfdpsgCfnPvshHAyIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MongoDB transport_layer网络传输层模块源码实现三</title>
-    <updated>2020-11-03T22:44:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-03:/s/s4Lo6eLd4VHshWeBWuSO3w</id>
-    <link href="https://mp.weixin.qq.com/s/s4Lo6eLd4VHshWeBWuSO3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

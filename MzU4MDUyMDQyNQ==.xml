@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小哈学Java | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:34:55+08:00</updated>
+  <updated>2021-01-13T14:06:36+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发, JVM, Docker容器，ELK相关知识，期待与您一同进步。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>骚操作 ！IDEA 防止写代码沉迷插件 !</title>
+    <updated>2021-01-13T11:59:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uI0E9GIlbRkLSOaOkE4BOw</id>
+    <link href="https://mp.weixin.qq.com/s/uI0E9GIlbRkLSOaOkE4BOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：String长度有限制吗？是多少？</title>
+    <updated>2021-01-13T11:59:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cbNLy2iV6001kJbZ17i_8g</id>
+    <link href="https://mp.weixin.qq.com/s/cbNLy2iV6001kJbZ17i_8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>10 分钟使用 Spring Boot + Vue + Antd + US3 搭建自己的图床</title>
     <updated>2021-01-12T11:43:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-03T20:38:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/10KZkxbKcyfKjvbuJGMuAg</id>
     <link href="https://mp.weixin.qq.com/s/10KZkxbKcyfKjvbuJGMuAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 SpringBoot，来实现MySQL读写分离技术</title>
-    <updated>2021-01-03T11:59:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/OaRe7sPuKgNQwbBl4aKRaA</id>
-    <link href="https://mp.weixin.qq.com/s/OaRe7sPuKgNQwbBl4aKRaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超火的钉钉群聊机器人原来这么设置的</title>
-    <updated>2021-01-03T11:59:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/TsBOIziuamek7ouGmW0ImQ</id>
-    <link href="https://mp.weixin.qq.com/s/TsBOIziuamek7ouGmW0ImQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

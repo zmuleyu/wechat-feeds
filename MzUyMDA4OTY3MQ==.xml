@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:41:25+08:00</updated>
+  <updated>2021-01-13T13:37:10+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为免费培养2000名大数据开发者！</title>
+    <updated>2021-01-13T12:12:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/TXG0XrrOFjiOOpTShTk8yQ</id>
+    <link href="https://mp.weixin.qq.com/s/TXG0XrrOFjiOOpTShTk8yQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于实际业务场景的几套超干指标体系！</title>
+    <updated>2021-01-13T12:12:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZuVkZmjEBxMY0aXCNFbrKA</id>
+    <link href="https://mp.weixin.qq.com/s/ZuVkZmjEBxMY0aXCNFbrKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入拆解多种消息队列及各自优缺点对比</title>
     <updated>2021-01-11T22:34:33+08:00</updated>
@@ -64,13 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>到底要刷多少道算法题面试才稳？</title>
-    <updated>2021-01-08T08:53:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/P5G-ih2e4EKzBe_fZQ1UaQ</id>
-    <link href="https://mp.weixin.qq.com/s/P5G-ih2e4EKzBe_fZQ1UaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>全面解析 52 条 SQL 语句性能优化策略，建议收藏！</title>
     <updated>2021-01-08T08:53:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/7mb3txsewSyRNHhJXMeWxg</id>
@@ -124,20 +131,6 @@
     <updated>2021-01-03T21:30:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/jO6ZdpHusqFC4g6jrj2tIg</id>
     <link href="https://mp.weixin.qq.com/s/jO6ZdpHusqFC4g6jrj2tIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每个大数据工程师都应该知道的OLAP 核心知识点</title>
-    <updated>2021-01-03T11:56:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/QUTuk7Oc9-YXxCwtbBSYoA</id>
-    <link href="https://mp.weixin.qq.com/s/QUTuk7Oc9-YXxCwtbBSYoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从Nginx、Apache工作原理看为什么Nginx比Apache高效！</title>
-    <updated>2021-01-03T11:56:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Kii9acGY57FH-OZ__BLueA</id>
-    <link href="https://mp.weixin.qq.com/s/Kii9acGY57FH-OZ__BLueA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

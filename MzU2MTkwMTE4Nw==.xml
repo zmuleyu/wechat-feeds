@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:53:14+08:00</updated>
+  <updated>2021-01-13T13:56:20+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>跟前腾讯总监学Java实战项目！</title>
+    <updated>2021-01-13T11:48:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/mHyzpPl8f710r43Qaqralg</id>
+    <link href="https://mp.weixin.qq.com/s/mHyzpPl8f710r43Qaqralg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大厂码农在北京买房需要几年？</title>
+    <updated>2021-01-13T11:48:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/8uZdZUcFK0muJgwDigD7Yw</id>
+    <link href="https://mp.weixin.qq.com/s/8uZdZUcFK0muJgwDigD7Yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>由浅入深逐步讲解Java并发的半壁江山AQS</title>
+    <updated>2021-01-13T11:48:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ut4hRJSDOls6UTUdlpu9_g</id>
+    <link href="https://mp.weixin.qq.com/s/ut4hRJSDOls6UTUdlpu9_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Shell 信号发送与捕捉</title>
+    <updated>2021-01-13T11:48:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xqKyc8Mn0KkVu7y5ZZOWDg</id>
+    <link href="https://mp.weixin.qq.com/s/xqKyc8Mn0KkVu7y5ZZOWDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>快过年了，送一台iPhone11吧</title>
     <updated>2021-01-12T11:41:02+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T10:52:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/sC9Hzx2no-y93f6cxfcwOA</id>
     <link href="https://mp.weixin.qq.com/s/sC9Hzx2no-y93f6cxfcwOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5分钟带你快速了解ServiceMesh的前世今生</title>
-    <updated>2021-01-08T10:52:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/Ty4Ah5nGJDbUpDX8mfeLYQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ty4Ah5nGJDbUpDX8mfeLYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>除了读源码，还有什么快速提高的C++学习方式？</title>
-    <updated>2021-01-06T22:15:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/4mi1IsO3ZPCxE5rBU8cy5w</id>
-    <link href="https://mp.weixin.qq.com/s/4mi1IsO3ZPCxE5rBU8cy5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网上搜了一堆秒杀系统方案，究竟真实的线上电商该怎么做？</title>
-    <updated>2021-01-06T22:15:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/YuvBHx__bbNslqNcrOz1Gg</id>
-    <link href="https://mp.weixin.qq.com/s/YuvBHx__bbNslqNcrOz1Gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>左值、右值、左值引用、右值引用</title>
-    <updated>2021-01-06T22:15:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/OXYQptveeUBpeCT_GGsnig</id>
-    <link href="https://mp.weixin.qq.com/s/OXYQptveeUBpeCT_GGsnig" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
