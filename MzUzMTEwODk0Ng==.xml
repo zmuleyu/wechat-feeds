@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>生信菜鸟团 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:26:02+08:00</updated>
+  <updated>2021-01-13T23:34:00+08:00</updated>
   <subtitle>生信菜鸟团荣誉归来，让所有想分析生物信息学数据的小伙伴找到归属，你值得拥有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂三维基因组</title>
+    <updated>2021-01-13T21:21:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/_3O5gBgfezIlan6bFHcUOA</id>
+    <link href="https://mp.weixin.qq.com/s/_3O5gBgfezIlan6bFHcUOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>R tips：多版本R共存的library的依赖冲突</title>
     <updated>2021-01-12T16:59:32+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2021-01-04T10:09:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/Hcfe4_Kku5zU_8zRGEa_Dg</id>
     <link href="https://mp.weixin.qq.com/s/Hcfe4_Kku5zU_8zRGEa_Dg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对单细胞表达矩阵做gsea分析</title>
-    <updated>2021-01-03T21:38:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/E6Rj2bsIoarGDRz1L9ixPQ</id>
-    <link href="https://mp.weixin.qq.com/s/E6Rj2bsIoarGDRz1L9ixPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我与生信技能树的一年多</title>
-    <updated>2021-01-03T21:38:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/2RnA7fvgHtQF-CjV4ZZnPg</id>
-    <link href="https://mp.weixin.qq.com/s/2RnA7fvgHtQF-CjV4ZZnPg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

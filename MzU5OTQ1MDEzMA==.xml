@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:49:49+08:00</updated>
+  <updated>2021-01-13T23:33:27+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink 实践 | 有赞 Flink 实时任务资源优化探索与实践</title>
+    <updated>2021-01-13T23:10:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/hKkOSPYinr59QYzJE-GAUA</id>
+    <link href="https://mp.weixin.qq.com/s/hKkOSPYinr59QYzJE-GAUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink 实践 | 京东搜索排序在线学习的 Flink 优化实践</title>
+    <updated>2021-01-13T23:10:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/1DLZjmEFfa6NYwQpVs3vXA</id>
+    <link href="https://mp.weixin.qq.com/s/1DLZjmEFfa6NYwQpVs3vXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
     <updated>2021-01-12T08:22:15+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-25T16:42:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/UYFipitkriCMEtU7eFJ_Lg</id>
     <link href="https://mp.weixin.qq.com/s/UYFipitkriCMEtU7eFJ_Lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 社区 | Flink Forward Asia 2020 -- Keynote 总结</title>
-    <updated>2020-12-24T08:50:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/rhwSFwIYociTqD3jeYooPA</id>
-    <link href="https://mp.weixin.qq.com/s/rhwSFwIYociTqD3jeYooPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

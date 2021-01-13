@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI启蒙者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:18:05+08:00</updated>
+  <updated>2021-01-13T23:53:54+08:00</updated>
   <subtitle>专注于AI工业级应用案例分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈分布式 ID 的实践与应用</title>
+    <updated>2021-01-13T20:43:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uqfbmr8oJFr8riPNl59crw</id>
+    <link href="https://mp.weixin.qq.com/s/uqfbmr8oJFr8riPNl59crw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>内推：网易新闻算法岗</title>
     <updated>2021-01-12T19:02:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T20:19:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/lFBTTXN3iX0UztLTA4Wr2w</id>
     <link href="https://mp.weixin.qq.com/s/lFBTTXN3iX0UztLTA4Wr2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Angel图神经网络算法在推荐场景下的实践</title>
-    <updated>2020-12-29T10:49:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/4t8GtP_0142wylgPVdjVdQ</id>
-    <link href="https://mp.weixin.qq.com/s/4t8GtP_0142wylgPVdjVdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

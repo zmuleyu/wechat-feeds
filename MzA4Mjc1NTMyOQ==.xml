@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Golang语言开发栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:33:32+08:00</updated>
+  <updated>2021-01-13T23:53:19+08:00</updated>
   <subtitle>学习Go语言，和我一起吧。致力于golang技术教程分享。专注于go面试题，go标准库，go三方库，go框架，go orm，go 微服务，分布式，设计模式，数据结构与算法，RPC应用，数据中台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -12,13 +12,6 @@
     <updated>2021-01-12T11:50:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/8f9GrnfoBNnix8ZqdGs4lA</id>
     <link href="https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这股妖风！全网都在说的 Python，竟然这么简单</title>
-    <updated>2021-01-10T20:17:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/YOwthYVuyr1fPWUBRwS7Sg</id>
-    <link href="https://mp.weixin.qq.com/s/YOwthYVuyr1fPWUBRwS7Sg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,6 +68,13 @@
     <updated>2020-12-18T16:05:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-18:/s/7B71pL7vH1PcmY00VbfG_g</id>
     <link href="https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang 语言标准库 context 包控制 goroutine</title>
+    <updated>2020-12-13T23:15:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-13:/s/ynj97tpP32vJ4AeHEQHtJQ</id>
+    <link href="https://mp.weixin.qq.com/s/ynj97tpP32vJ4AeHEQHtJQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

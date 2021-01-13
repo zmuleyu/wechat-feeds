@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:19:44+08:00</updated>
+  <updated>2021-01-13T23:31:22+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>DDD到底适不适合微服务架构？</title>
+    <updated>2021-01-13T21:36:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/yGP4ZJHGZGB9vZowRBHSPA</id>
+    <link href="https://mp.weixin.qq.com/s/yGP4ZJHGZGB9vZowRBHSPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>群消息，究竟存1份还是多份？</title>
     <updated>2021-01-11T21:54:42+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-23T22:21:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/BUAsyxNK6DlvIHrnnWr9fQ</id>
     <link href="https://mp.weixin.qq.com/s/BUAsyxNK6DlvIHrnnWr9fQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL最流行的版本，是不是5.6？</title>
-    <updated>2020-12-23T21:07:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/BhkFFU2JXzIkaVvhWvRxQg</id>
-    <link href="https://mp.weixin.qq.com/s/BhkFFU2JXzIkaVvhWvRxQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

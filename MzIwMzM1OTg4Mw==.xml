@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T02:15:36+08:00</updated>
+  <updated>2021-01-13T23:29:53+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【每日速递】计算机视觉与模式识别/图像处理最新学术论文[1.13]</title>
+    <updated>2021-01-13T23:22:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/h1Fl_4oMsa9HcdzMtdPZNQ</id>
+    <link href="https://mp.weixin.qq.com/s/h1Fl_4oMsa9HcdzMtdPZNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>计算机视觉与模式识别/图像处理最新学术论文每日速递[1.12]</title>
     <updated>2021-01-12T23:48:21+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-31T12:55:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/AquYLrt9OOgPBHaVKqwvBw</id>
     <link href="https://mp.weixin.qq.com/s/AquYLrt9OOgPBHaVKqwvBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ENet |一种用于快速语义分割的神经网络体系结构</title>
-    <updated>2020-12-30T21:03:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/CWYch1GA4BHsFj5SA1vk_g</id>
-    <link href="https://mp.weixin.qq.com/s/CWYch1GA4BHsFj5SA1vk_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卷积 | 深度可分离卷积、分组卷积、空洞卷积、转置卷积（反卷积）</title>
-    <updated>2020-12-30T21:03:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/tvbVg9h98JmyRvZcQjPVpA</id>
-    <link href="https://mp.weixin.qq.com/s/tvbVg9h98JmyRvZcQjPVpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

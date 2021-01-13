@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>脑子进煎鱼了 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:38:58+08:00</updated>
+  <updated>2021-01-13T23:52:24+08:00</updated>
   <subtitle>分享 Go 语言、微服务架构和各类奇怪的系统设计。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>快报：正式提案将泛型特性加入 Go 语言</title>
+    <updated>2021-01-13T21:51:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/oZ3TyNzVz0Obpm03rpeMuA</id>
+    <link href="https://mp.weixin.qq.com/s/oZ3TyNzVz0Obpm03rpeMuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文带你解密 Go 语言之通道 channel</title>
     <updated>2021-01-11T08:53:32+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-13T23:48:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/o-K7G9ywCdmW7et6Q4WMeA</id>
     <link href="https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>先睹为快，Go2 Error 的挣扎之路</title>
-    <updated>2020-12-06T18:05:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/XILveKzh07BOQnqxYDKQsA</id>
-    <link href="https://mp.weixin.qq.com/s/XILveKzh07BOQnqxYDKQsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>某大厂招 Go 中高工程师/DevOps</title>
-    <updated>2020-12-06T18:05:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-06:/s/KJi-uiTcisMjUvUgsr2YSQ</id>
-    <link href="https://mp.weixin.qq.com/s/KJi-uiTcisMjUvUgsr2YSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

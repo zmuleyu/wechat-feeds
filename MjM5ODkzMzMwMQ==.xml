@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:29:57+08:00</updated>
+  <updated>2021-01-13T23:37:15+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自然语言处理圣经SLP3终于又更新了</title>
+    <updated>2021-01-13T22:24:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/7aZ4tODP5j6yzEJDawgBOg</id>
+    <link href="https://mp.weixin.qq.com/s/7aZ4tODP5j6yzEJDawgBOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>医疗领域热门话题挖掘</title>
+    <updated>2021-01-13T22:24:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/L4BoQveB3uM6wC9bwj9wfg</id>
+    <link href="https://mp.weixin.qq.com/s/L4BoQveB3uM6wC9bwj9wfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>20-&gt;21：算法工程师的成长思考</title>
+    <updated>2021-01-13T22:24:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/SDyTWKMafmu-YtxXfJ0OLA</id>
+    <link href="https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里RE2：如何将残差与文本匹配模型融合</title>
+    <updated>2021-01-13T22:24:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Yh9Cz5TxnZmN8nOOkI6N0A</id>
+    <link href="https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）</title>
+    <updated>2021-01-13T22:24:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Omdwr7bnFym09a5oNpd9uQ</id>
+    <link href="https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>详解NLP技术中的：预训练模型、图神经网络、模型压缩、知识图谱</title>
     <updated>2021-01-12T18:52:42+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-10T22:27:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/HpamEwjQHDjdAE9PEGFuqw</id>
     <link href="https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拿到参考资料的预训练模型，太可怕了！</title>
-    <updated>2021-01-09T20:06:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/rfEYUCCVaZs7CQETZ7tg6A</id>
-    <link href="https://mp.weixin.qq.com/s/rfEYUCCVaZs7CQETZ7tg6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何又好又快的做文本匹配</title>
-    <updated>2021-01-09T20:06:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8m5SI6kBHJEjV9N1PlfcRg</id>
-    <link href="https://mp.weixin.qq.com/s/8m5SI6kBHJEjV9N1PlfcRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐系统之Exploitation &amp; Exploration</title>
-    <updated>2021-01-09T20:06:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/1lLdNlj9EgarmQFgRpXS3g</id>
-    <link href="https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TextCNN的个人理解</title>
-    <updated>2021-01-09T20:06:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/kxpbb076vbxEstlzbhK7oA</id>
-    <link href="https://mp.weixin.qq.com/s/kxpbb076vbxEstlzbhK7oA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂做算法的遗憾</title>
-    <updated>2021-01-09T20:06:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/mADgaSeOUwxiw92onEg3_g</id>
-    <link href="https://mp.weixin.qq.com/s/mADgaSeOUwxiw92onEg3_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云栖号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:33:13+08:00</updated>
+  <updated>2021-01-13T23:41:21+08:00</updated>
   <subtitle>阿里云官网内容平台，汇聚阿里云优质内容（入门、文档、案例、最佳实践、直播等）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>技术人如何加速成长？提升你的思维和学习方式</title>
+    <updated>2021-01-13T16:24:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/HKowo0OhCqsi6ucWkT4ODQ</id>
+    <link href="https://mp.weixin.qq.com/s/HKowo0OhCqsi6ucWkT4ODQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对 SolarWinds 事件更深的思考：如何防御供应链攻击</title>
     <updated>2021-01-12T15:03:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T17:31:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/sb3hGS7x65x22cKaoL3k7w</id>
     <link href="https://mp.weixin.qq.com/s/sb3hGS7x65x22cKaoL3k7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C++并发编程（C++11到C++17）</title>
-    <updated>2020-12-29T17:52:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/SRyp7wLHSE1ROkniTptEVQ</id>
-    <link href="https://mp.weixin.qq.com/s/SRyp7wLHSE1ROkniTptEVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

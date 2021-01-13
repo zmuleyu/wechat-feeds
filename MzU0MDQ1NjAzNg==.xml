@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:58:57+08:00</updated>
+  <updated>2021-01-13T23:37:49+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -40,13 +40,6 @@
     <updated>2021-01-12T17:15:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/UM1lOHmVfkkb7iWGt729Cw</id>
     <link href="https://mp.weixin.qq.com/s/UM1lOHmVfkkb7iWGt729Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>附pdf下载 | 中文版《可解释的机器学习》</title>
-    <updated>2021-01-12T17:15:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/sFc1N43x7kHDbZNw09hzUQ</id>
-    <link href="https://mp.weixin.qq.com/s/sFc1N43x7kHDbZNw09hzUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -113,13 +106,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>三天挑战自己构建深度学习框架，你敢来尝试吗~</title>
-    <updated>2021-01-06T23:24:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/JL7Q_d1T319WNrLbJc4yNQ</id>
-    <link href="https://mp.weixin.qq.com/s/JL7Q_d1T319WNrLbJc4yNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Numpy和Pandas的区别</title>
     <updated>2021-01-06T23:24:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/NqX2tBZb84cpxn8_b6Cafw</id>
@@ -145,6 +131,20 @@
     <updated>2021-01-05T23:28:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/Rk-vGZci6gX2RfmccNtCkw</id>
     <link href="https://mp.weixin.qq.com/s/Rk-vGZci6gX2RfmccNtCkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>史上最强：numpy实现全部机器学习算法</title>
+    <updated>2021-01-05T10:17:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/j_YbOivbJT2HQ_ZU-OpgLw</id>
+    <link href="https://mp.weixin.qq.com/s/j_YbOivbJT2HQ_ZU-OpgLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>快手官宣全员开启大小周？996、997，网友：「国产式加班」花样真多！</title>
+    <updated>2021-01-05T10:17:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-05:/s/OeMCgqTm0OXoYlajbAPC5g</id>
+    <link href="https://mp.weixin.qq.com/s/OeMCgqTm0OXoYlajbAPC5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

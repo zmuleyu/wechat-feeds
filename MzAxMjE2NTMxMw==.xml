@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>amazingdotnet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T11:48:31+08:00</updated>
+  <updated>2021-01-13T23:26:48+08:00</updated>
   <subtitle>dotnet 开发知识库，了不起的 dotnet，dotnet 奇淫怪巧</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年首届.NET线下沙龙上海站 - .NET Meetup in Shanghai</title>
+    <updated>2021-01-13T22:49:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ow_xr3iAbGbijkJ224qThA</id>
+    <link href="https://mp.weixin.qq.com/s/ow_xr3iAbGbijkJ224qThA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ocelot 中间件的变化</title>
     <updated>2021-01-10T11:09:39+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-26T22:24:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/Whz7aiuOeMszglbN8H03bQ</id>
     <link href="https://mp.weixin.qq.com/s/Whz7aiuOeMszglbN8H03bQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.Net Conf 2020 之回顾</title>
-    <updated>2020-12-26T16:57:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/Lz3kcjsgW_fpilSlP0aBTQ</id>
-    <link href="https://mp.weixin.qq.com/s/Lz3kcjsgW_fpilSlP0aBTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
