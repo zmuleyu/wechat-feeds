@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>滴滴技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:21:59+08:00</updated>
+  <updated>2021-01-14T23:26:33+08:00</updated>
   <subtitle>滴滴出行官方技术号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>滴滴开源Logi-KafkaManager 一站式Kafka监控与管控平台</title>
+    <updated>2021-01-14T19:09:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/JmVrypgR5mI8GH7BvgEs_g</id>
+    <link href="https://mp.weixin.qq.com/s/JmVrypgR5mI8GH7BvgEs_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>滴滴Flink-1.10升级之路</title>
     <updated>2021-01-12T19:58:35+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-21T22:04:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/PTBGv4c9HuE-rgeC7cV29w</id>
     <link href="https://mp.weixin.qq.com/s/PTBGv4c9HuE-rgeC7cV29w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>滴滴开源Super-jacoco：java代码覆盖率收集平台文档</title>
-    <updated>2020-12-18T16:28:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/3a8ki3GiW0Rk0lBzN4cnHw</id>
-    <link href="https://mp.weixin.qq.com/s/3a8ki3GiW0Rk0lBzN4cnHw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

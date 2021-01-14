@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:29:45+08:00</updated>
+  <updated>2021-01-14T23:29:12+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2021-01-14 rustdoc的性能有了很大的提升！</title>
+    <updated>2021-01-14T22:59:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Y2fjao8a5ClPq2o4VAnCAw</id>
+    <link href="https://mp.weixin.qq.com/s/Y2fjao8a5ClPq2o4VAnCAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2021-01-13 Open Source Security, Inc.宣布为Rust的GCC前端提供资金</title>
     <updated>2021-01-13T23:37:44+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-05T11:04:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/CPvfuKCcDF5lO93-5eNJOQ</id>
     <link href="https://mp.weixin.qq.com/s/CPvfuKCcDF5lO93-5eNJOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2021-01-04 使用 Rust 创建一个模拟器</title>
-    <updated>2021-01-05T11:04:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/PC0Y7nBwLuaQ12RIL4rl0g</id>
-    <link href="https://mp.weixin.qq.com/s/PC0Y7nBwLuaQ12RIL4rl0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

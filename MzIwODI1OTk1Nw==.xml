@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱笑的架构师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:21:40+08:00</updated>
+  <updated>2021-01-14T23:49:02+08:00</updated>
   <subtitle>华中科技大学硕士，大厂打工中……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>快过年了抽个奖</title>
-    <updated>2021-01-14T08:27:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6eRYJnCT4utXRg3TUK0USA</id>
-    <link href="https://mp.weixin.qq.com/s/6eRYJnCT4utXRg3TUK0USA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>高并发场景下，到底先更新缓存还是先更新数据库？</title>
     <updated>2021-01-12T18:56:16+08:00</updated>
@@ -75,6 +68,13 @@
     <updated>2020-11-30T12:57:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/Ysmc5XCiIARe6tOyI0kttg</id>
     <link href="https://mp.weixin.qq.com/s/Ysmc5XCiIARe6tOyI0kttg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>支持百万级TPS，Kafka是怎么做到的？答案藏在这10张图里</title>
+    <updated>2020-11-19T12:44:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-11-19:/s/LO5hlm_GbH8ytoABbnA5CQ</id>
+    <link href="https://mp.weixin.qq.com/s/LO5hlm_GbH8ytoABbnA5CQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

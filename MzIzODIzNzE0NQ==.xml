@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之美 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:16:28+08:00</updated>
+  <updated>2021-01-14T23:51:52+08:00</updated>
   <subtitle>设计满足业务的系统架构、大数据中台、算法平台，并非易事。在这里分享一线大厂线上真实案例的思考和实践，让我们在互联网架构设计、大数据研发、机器学习实践之路上共同成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文揭秘领域驱动设计（DDD）：领域和子域！</title>
+    <updated>2021-01-14T15:14:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/dbQygXHgutM9haxAzfY1UA</id>
+    <link href="https://mp.weixin.qq.com/s/dbQygXHgutM9haxAzfY1UA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Cloud + Alibaba Sentinel 源码原理深度剖析！</title>
     <updated>2021-01-12T19:35:07+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-27T20:30:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/OwWUDxHY4Th6decmJeMTgA</id>
     <link href="https://mp.weixin.qq.com/s/OwWUDxHY4Th6decmJeMTgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聚焦后端技术发展新动向，奈学年终直播狂欢夜来了！</title>
-    <updated>2020-12-25T21:11:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/tGs4xrleRHAY8q8xx1F9-w</id>
-    <link href="https://mp.weixin.qq.com/s/tGs4xrleRHAY8q8xx1F9-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

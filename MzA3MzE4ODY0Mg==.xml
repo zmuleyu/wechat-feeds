@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:40:45+08:00</updated>
+  <updated>2021-01-14T23:40:48+08:00</updated>
   <subtitle>「GitHub精选」每天为您推荐精心挑选的 GitHub 上的开源项目以及与 GitHub 相关的一切有趣，好玩的东西和产品。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你知道吗，用声波也可以传输文件？</title>
+    <updated>2021-01-13T22:00:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZL3YLEzCJKuBC32aeB77Sg</id>
+    <link href="https://mp.weixin.qq.com/s/ZL3YLEzCJKuBC32aeB77Sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>重磅推荐：一个免费开源的在线云盘项目</title>
     <updated>2021-01-13T17:25:30+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-05T22:19:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/uKEls04XFh-kOk4j8k60Bg</id>
     <link href="https://mp.weixin.qq.com/s/uKEls04XFh-kOk4j8k60Bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端直接操作 SQLite 的开源库推荐</title>
-    <updated>2021-01-04T20:13:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/-pZMtmHKwy20OOdmR3A5pg</id>
-    <link href="https://mp.weixin.qq.com/s/-pZMtmHKwy20OOdmR3A5pg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

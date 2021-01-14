@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爪哇笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T13:29:10+08:00</updated>
+  <updated>2021-01-14T23:46:17+08:00</updated>
   <subtitle>专注Java 16年 上通PHP 下通c++，聊生活，爱学习，做一个有温度的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微信支付分账，就是这么简单！</title>
+    <updated>2021-01-14T21:30:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/bYU6Za0Iy794iiq2vJ6kZA</id>
+    <link href="https://mp.weixin.qq.com/s/bYU6Za0Iy794iiq2vJ6kZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>牛逼，CTO点名要搞个灰度发布系统</title>
     <updated>2021-01-07T13:20:37+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-17T13:18:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/0eoKxGJZrcFYzthOOeq_5w</id>
     <link href="https://mp.weixin.qq.com/s/0eoKxGJZrcFYzthOOeq_5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从支付服务简单聊聊缓存的正确使用姿势</title>
-    <updated>2020-12-16T09:00:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/tNM0QYt48v24ZBsJuyxKeg</id>
-    <link href="https://mp.weixin.qq.com/s/tNM0QYt48v24ZBsJuyxKeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

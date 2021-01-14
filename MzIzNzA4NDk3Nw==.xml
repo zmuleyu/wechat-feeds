@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>进击的Coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:23:06+08:00</updated>
+  <updated>2021-01-14T23:31:04+08:00</updated>
   <subtitle>分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web 开发等方向。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货！这可能是你见过最全的 Python 时间处理方法总结</title>
+    <updated>2021-01-14T21:30:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/ng8KnEWBewPs11acmcfiOw</id>
+    <link href="https://mp.weixin.qq.com/s/ng8KnEWBewPs11acmcfiOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你写的爬虫犯法吗？这个可以解答你的所有疑惑！</title>
     <updated>2021-01-11T21:26:04+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2021-01-01T23:44:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/9pZfRNmWgX1P2Espc_SLWQ</id>
     <link href="https://mp.weixin.qq.com/s/9pZfRNmWgX1P2Espc_SLWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你所习以为常的编程习惯，是如何毁掉整个代码的？</title>
-    <updated>2020-12-30T18:42:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/oq7Dm83l39v9bGuWsN304w</id>
-    <link href="https://mp.weixin.qq.com/s/oq7Dm83l39v9bGuWsN304w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub：再见，Cookies！</title>
-    <updated>2020-12-30T18:42:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/b5NPYR8dxlHdG8f1rf5Yyw</id>
-    <link href="https://mp.weixin.qq.com/s/b5NPYR8dxlHdG8f1rf5Yyw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

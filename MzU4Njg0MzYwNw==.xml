@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知了一笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:58:45+08:00</updated>
+  <updated>2021-01-14T23:39:00+08:00</updated>
   <subtitle>积累是一个孤独且枯燥的过程</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用户画像分析与场景应用</title>
+    <updated>2021-01-14T23:20:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Hr7Rj3Xr1N4f3Q_XdPyJhg</id>
+    <link href="https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据仓库组件：HBase集群环境搭建和应用案例</title>
     <updated>2021-01-11T08:00:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T21:55:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/Ss3oj9zr_Be0t7vEZiMuLQ</id>
     <link href="https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据分析：复杂业务场景下，量化评估流程</title>
-    <updated>2020-12-02T21:50:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/5FragJud2yh2LVE_ev-szA</id>
-    <link href="https://mp.weixin.qq.com/s/5FragJud2yh2LVE_ev-szA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

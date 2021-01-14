@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:39:42+08:00</updated>
+  <updated>2021-01-14T23:36:55+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「主数据架构」4种常见的主数据管理实现风格</title>
+    <updated>2021-01-14T21:12:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/jIqgpnI5z0wXFBxST2cUeQ</id>
+    <link href="https://mp.weixin.qq.com/s/jIqgpnI5z0wXFBxST2cUeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「Rust语言」为什么编程社区应该认真对待Rust</title>
+    <updated>2021-01-14T21:12:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/sU8MrCfeVdUhVSVsL8J6wg</id>
+    <link href="https://mp.weixin.qq.com/s/sU8MrCfeVdUhVSVsL8J6wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「主数据架构」介绍下一代主数据管理(MDM)</title>
     <updated>2021-01-13T20:31:53+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-05T21:10:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/rf2mj0MoZoFT6AxJ9jNflw</id>
     <link href="https://mp.weixin.qq.com/s/rf2mj0MoZoFT6AxJ9jNflw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「分布式架构」最终一致性：反熵</title>
-    <updated>2021-01-04T19:46:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/Lh_akMjvDZmJzFgiHPBsHg</id>
-    <link href="https://mp.weixin.qq.com/s/Lh_akMjvDZmJzFgiHPBsHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【职业职位】什么是IT总监?关于科技行业顶尖工作之一的一切</title>
-    <updated>2021-01-04T19:46:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/u_mEdzEJvcgf0YE8TLGBvg</id>
-    <link href="https://mp.weixin.qq.com/s/u_mEdzEJvcgf0YE8TLGBvg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:43:48+08:00</updated>
+  <updated>2021-01-14T23:42:51+08:00</updated>
   <subtitle>Apache Flink &amp; Apache Hudi. 由Committer &amp; PMC 维护。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于 Apache Hudi 构建湖上的多租户数据管道</title>
+    <updated>2021-01-14T22:59:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/TbViICoTXeG_gAcjBnKGvw</id>
+    <link href="https://mp.weixin.qq.com/s/TbViICoTXeG_gAcjBnKGvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>12月社区回顾｜Kylin 4.0.0-Beta 发布倒计时</title>
+    <updated>2021-01-14T22:59:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/vMYmV7WBxdzw-IvnS-L01g</id>
+    <link href="https://mp.weixin.qq.com/s/vMYmV7WBxdzw-IvnS-L01g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>探索 Flink 有限数据集上的细粒度恢复</title>
     <updated>2021-01-13T23:51:00+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-04T20:19:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/0PCBbyyjBDmdfXSY9RA3lA</id>
     <link href="https://mp.weixin.qq.com/s/0PCBbyyjBDmdfXSY9RA3lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>集成才是硬道理！ 用它构建一个完整的Hadoop</title>
-    <updated>2021-01-03T22:18:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/1CpfRzxm3HVmbvN0f4ccBg</id>
-    <link href="https://mp.weixin.qq.com/s/1CpfRzxm3HVmbvN0f4ccBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给2020划重点：最火的10个关键词和28个书单</title>
-    <updated>2021-01-03T22:18:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/J5gHxlzVpW25rJ6eKbyeAQ</id>
-    <link href="https://mp.weixin.qq.com/s/J5gHxlzVpW25rJ6eKbyeAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

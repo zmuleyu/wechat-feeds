@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序新视界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:17:48+08:00</updated>
+  <updated>2021-01-14T23:54:36+08:00</updated>
   <subtitle>编程，读书，职场感悟，带你开启新的程序视界！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自定义SpringBoot默认MVC配置？好几个坑，这篇文章必须珍藏</title>
+    <updated>2021-01-14T21:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/WklX_dKh0amnLpbVg8Rcjg</id>
+    <link href="https://mp.weixin.qq.com/s/WklX_dKh0amnLpbVg8Rcjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有人相爱，有人夜里开车看海，有人LeetCode第一题都做不出来</title>
     <updated>2021-01-11T22:04:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T17:44:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/dzayE-6fCipTBGa4ZMhtOA</id>
     <link href="https://mp.weixin.qq.com/s/dzayE-6fCipTBGa4ZMhtOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot集成Redis的坑，踩了！</title>
-    <updated>2020-12-15T12:32:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/53ArXzqlSlMj080jmzRhSg</id>
-    <link href="https://mp.weixin.qq.com/s/53ArXzqlSlMj080jmzRhSg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

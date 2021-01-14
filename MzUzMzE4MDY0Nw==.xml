@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>花括号MC | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-30T11:22:41+08:00</updated>
+  <updated>2021-01-14T23:43:01+08:00</updated>
   <subtitle>关注基础编程，注重经验分享及个人成长。坚持原创，不定期更新！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊Web Api 认证方案那点儿事</title>
+    <updated>2021-01-14T22:30:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/2Zu4XVhomoPjM6mAj1dFIw</id>
+    <link href="https://mp.weixin.qq.com/s/2Zu4XVhomoPjM6mAj1dFIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>聊聊对称加密与非对称加密</title>
     <updated>2020-08-02T16:03:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-05-28T20:49:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-05-28:/s/eF05QAd6EjGS-lXHsroSpQ</id>
     <link href="https://mp.weixin.qq.com/s/eF05QAd6EjGS-lXHsroSpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java并发编程那些事儿(五)——闭锁、栅栏、信号量</title>
-    <updated>2020-05-23T20:50:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-05-23:/s/cgFdRZb8hm73C44ePPbHKQ</id>
-    <link href="https://mp.weixin.qq.com/s/cgFdRZb8hm73C44ePPbHKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
