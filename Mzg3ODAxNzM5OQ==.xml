@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:46:37+08:00</updated>
+  <updated>2021-01-15T02:37:44+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3个值得学习和练手的.net企业级开源项目，强烈推荐</title>
+    <updated>2021-01-14T13:50:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/ugbW9UfX4olwd9BEpjUs0Q</id>
+    <link href="https://mp.weixin.qq.com/s/ugbW9UfX4olwd9BEpjUs0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>c#爬虫-selenium检测webdriver封爬虫的解决方法</title>
     <updated>2021-01-13T22:30:22+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2021-01-05T14:03:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/6e8uPXHbkg68d1PrtpQFYQ</id>
     <link href="https://mp.weixin.qq.com/s/6e8uPXHbkg68d1PrtpQFYQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>EF Core DB First现有数据库自动生成实体Context</title>
-    <updated>2021-01-04T14:24:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/GaHTBLfh4cxpCsynawS_hA</id>
-    <link href="https://mp.weixin.qq.com/s/GaHTBLfh4cxpCsynawS_hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>改进你的代码-扩展了一下IEnumerable&lt;T&gt;</title>
-    <updated>2021-01-04T14:24:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/8IrJ-OWg6RHuAXq80w4POg</id>
-    <link href="https://mp.weixin.qq.com/s/8IrJ-OWg6RHuAXq80w4POg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

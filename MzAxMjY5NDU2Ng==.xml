@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java杂记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:25:59+08:00</updated>
+  <updated>2021-01-15T02:46:49+08:00</updated>
   <subtitle>分享一些有关于java体系的知识，如：java基础知识/数据结算/算法，Spring/MyBatis/Netty源码分析，高并发/高性能/分布式/微服务架构的原理，JVM性能优化 ,希望能让大家在技术上和思想上带来一些提升。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>因为匿名曝光拼多多的“阴间工作模式”，我被拼多多勒令离职，还被HR扣上“恶意中伤公司罪”</title>
+    <updated>2021-01-14T12:40:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/gJUI_MW8GJoJO0nf9G8swQ</id>
+    <link href="https://mp.weixin.qq.com/s/gJUI_MW8GJoJO0nf9G8swQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>驼峰命名与下划线命名相互转换</title>
     <updated>2021-01-13T18:42:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T22:10:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/Ir5jpT_VHxLB0qrY6S589A</id>
     <link href="https://mp.weixin.qq.com/s/Ir5jpT_VHxLB0qrY6S589A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>元旦假期，PPD买菜女员工加班猝死！</title>
-    <updated>2021-01-04T21:25:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/upEqT2ZjB4-GdmYvbBSwFg</id>
-    <link href="https://mp.weixin.qq.com/s/upEqT2ZjB4-GdmYvbBSwFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
