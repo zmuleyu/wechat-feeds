@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:00:58+08:00</updated>
+  <updated>2021-01-14T07:50:59+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Xamarin.Forms 5.0 来了</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/PNTwj85JslgHRUSuiqIt9g</id>
+    <link href="https://mp.weixin.qq.com/s/PNTwj85JslgHRUSuiqIt9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软2020开源回顾：止不住的挨骂，停不下的贡献</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Sk8nTxwvQ8NLYdd9H1fCOA</id>
+    <link href="https://mp.weixin.qq.com/s/Sk8nTxwvQ8NLYdd9H1fCOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 ML.NET 实现峰值检测来排查异常</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uwpS8bjH4EaWftQrqrWqEA</id>
+    <link href="https://mp.weixin.qq.com/s/uwpS8bjH4EaWftQrqrWqEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ML.NET 推荐引擎中一类矩阵因子分解的缺陷</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xImEr9nxgDHZ_tf2BbJzCQ</id>
+    <link href="https://mp.weixin.qq.com/s/xImEr9nxgDHZ_tf2BbJzCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>4倍速！ML.NET Model Builder GPU 与 CPU 对比测试</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/PgANiLskewf7FE376vjDSA</id>
+    <link href="https://mp.weixin.qq.com/s/PgANiLskewf7FE376vjDSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>说说 RabbiMQ 的应答模式</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/5b9Z_DCqjirTVcyq2v69dw</id>
+    <link href="https://mp.weixin.qq.com/s/5b9Z_DCqjirTVcyq2v69dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OpenTelemetry - 云原生下可观测性的新标准</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/SSRO3-mDXNEjbO8hXeP3ag</id>
+    <link href="https://mp.weixin.qq.com/s/SSRO3-mDXNEjbO8hXeP3ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>dnSpy反编译、部署调试神器</title>
+    <updated>2021-01-13T17:12:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/JJ30dPGVqQGRd3x7geTbfw</id>
+    <link href="https://mp.weixin.qq.com/s/JJ30dPGVqQGRd3x7geTbfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>. NET5实战千万高并发项目，性能吊打JAVA，C#排名万年老五，有望逆袭！</title>
     <updated>2021-01-12T22:12:19+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-11T20:50:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/Ck_GSUN5mrRum__65P2NcA</id>
     <link href="https://mp.weixin.qq.com/s/Ck_GSUN5mrRum__65P2NcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微前端架构在容器平台的应用</title>
-    <updated>2021-01-11T20:50:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Qxj6zmYrotysv_0S8MLj9g</id>
-    <link href="https://mp.weixin.qq.com/s/Qxj6zmYrotysv_0S8MLj9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 中的 null 包容运算符 “!” —— 概念、由来、用法和注意事项</title>
-    <updated>2021-01-11T20:50:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/UU_wKK1nKI0i-A-IqoAv7g</id>
-    <link href="https://mp.weixin.qq.com/s/UU_wKK1nKI0i-A-IqoAv7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从内存中释放Selenium chromedriver.exe</title>
-    <updated>2021-01-11T20:50:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/MDSSwcJR0tPhDfgVOI4PAQ</id>
-    <link href="https://mp.weixin.qq.com/s/MDSSwcJR0tPhDfgVOI4PAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 MSMQ</title>
-    <updated>2021-01-11T20:50:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/EtEBL50613hHMihBJgn4tQ</id>
-    <link href="https://mp.weixin.qq.com/s/EtEBL50613hHMihBJgn4tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET开源5年了，这些宝藏你还没get？</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/2ONiRvusc1ANzglUFPhjvA</id>
-    <link href="https://mp.weixin.qq.com/s/2ONiRvusc1ANzglUFPhjvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>探索 .NET团队对API的设计流程</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/amg8R1i2ZHcgWDR908oOcw</id>
-    <link href="https://mp.weixin.qq.com/s/amg8R1i2ZHcgWDR908oOcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Istio 知多少 | 下一代微服务的守护者</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/BO2BPJtFGaYUcI_WW5uXgQ</id>
-    <link href="https://mp.weixin.qq.com/s/BO2BPJtFGaYUcI_WW5uXgQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ocelot 中间件的变化</title>
-    <updated>2021-01-11T13:49:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/979tOchtd04y6MI7KOvnfw</id>
-    <link href="https://mp.weixin.qq.com/s/979tOchtd04y6MI7KOvnfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

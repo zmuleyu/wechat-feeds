@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T07:46:27+08:00</updated>
+  <updated>2021-01-14T07:55:05+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>跑分超 MySQL 801倍，这个实时分析数据库已成气候!!!</title>
+    <updated>2021-01-13T20:27:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/lv7oweGyr1laK_B96VYp6w</id>
+    <link href="https://mp.weixin.qq.com/s/lv7oweGyr1laK_B96VYp6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>快手大数据平台服务化实践</title>
+    <updated>2021-01-13T20:27:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/naYZPg4K8JmHknEL_dTOxA</id>
+    <link href="https://mp.weixin.qq.com/s/naYZPg4K8JmHknEL_dTOxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>三万字，Spark学习笔记</title>
     <updated>2021-01-11T22:25:22+08:00</updated>
@@ -89,27 +103,6 @@
     <updated>2021-01-03T13:08:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/dKtPX6qbYGGKwwZhoAVfVQ</id>
     <link href="https://mp.weixin.qq.com/s/dKtPX6qbYGGKwwZhoAVfVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>罗振宇2021“时间的朋友”跨年演讲全文</title>
-    <updated>2021-01-01T23:42:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/b7kESJ1FzjXADSLjDn_MQA</id>
-    <link href="https://mp.weixin.qq.com/s/b7kESJ1FzjXADSLjDn_MQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于数据仓库、数据湖、数据平台和数据中台的概念和区别</title>
-    <updated>2021-01-01T23:42:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/I_1JmAa3achY2kLZh-X0oQ</id>
-    <link href="https://mp.weixin.qq.com/s/I_1JmAa3achY2kLZh-X0oQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FlinkSQL内置了这么多函数你都使用过吗？</title>
-    <updated>2021-01-01T23:42:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/5y4FHZ3OekJ0P1RGNqRPYQ</id>
-    <link href="https://mp.weixin.qq.com/s/5y4FHZ3OekJ0P1RGNqRPYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

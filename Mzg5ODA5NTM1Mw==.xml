@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端工匠 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:11:08+08:00</updated>
+  <updated>2021-01-14T08:01:37+08:00</updated>
   <subtitle>我是浪里行舟，Github博客5000+star作者，掘金、CSDN社区活跃作者，致力于打造一系列能够帮助前端工程师提高的优质文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>快速入门Nginx，这篇就够了！</title>
+    <updated>2021-01-13T23:36:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uXZsnrdeyAz46PEm63I-KQ</id>
+    <link href="https://mp.weixin.qq.com/s/uXZsnrdeyAz46PEm63I-KQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么那么多自学Web前端的人后来都放弃了?</title>
     <updated>2021-01-12T22:42:27+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-04T00:41:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/q6VmaPvyIGijQNOcgd-fag</id>
     <link href="https://mp.weixin.qq.com/s/q6VmaPvyIGijQNOcgd-fag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ES2020新特性之可选链 &#34;?.&#34;</title>
-    <updated>2021-01-03T12:33:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/c-yG9NRUvotOWkU2xWu4Sw</id>
-    <link href="https://mp.weixin.qq.com/s/c-yG9NRUvotOWkU2xWu4Sw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

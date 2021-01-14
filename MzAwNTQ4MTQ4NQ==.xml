@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T07:35:53+08:00</updated>
+  <updated>2021-01-14T07:36:12+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不要和用拼多多的人做朋友</title>
+    <updated>2021-01-13T19:47:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/-hfg387kvqm_G5ecTJ0dkQ</id>
+    <link href="https://mp.weixin.qq.com/s/-hfg387kvqm_G5ecTJ0dkQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一个Spring AOP的坑！很多人都犯过！</title>
+    <updated>2021-01-13T19:47:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ToG3nU86_Yml5u4ff6PH2w</id>
+    <link href="https://mp.weixin.qq.com/s/ToG3nU86_Yml5u4ff6PH2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>1.3 万字 13 图！JVM 史上最最最完整深入解析</title>
     <updated>2021-01-12T18:56:01+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-30T15:48:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/m5348W_kqJ5pX6YapFKe2w</id>
     <link href="https://mp.weixin.qq.com/s/m5348W_kqJ5pX6YapFKe2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文，结合电商支付业务一文搞懂DDD</title>
-    <updated>2020-12-29T18:25:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/53I1t-QiJGliNq-NxGYpCg</id>
-    <link href="https://mp.weixin.qq.com/s/53I1t-QiJGliNq-NxGYpCg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

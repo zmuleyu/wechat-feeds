@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>第59号 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T07:35:29+08:00</updated>
+  <updated>2021-01-14T07:41:00+08:00</updated>
   <subtitle>美创科技旗下安全实验室，专注于数据库安全技术、勒索病毒研究，第一时间传递美创安全动态与最新前沿行业资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《数据安全能力成熟度模型》实践指南：数据安全策略规划</title>
+    <updated>2021-01-13T14:15:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/brpQBubShLlxq0OApyLTog</id>
+    <link href="https://mp.weixin.qq.com/s/brpQBubShLlxq0OApyLTog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>美创安全实验室发布-12月勒索病毒威胁报告</title>
     <updated>2021-01-11T11:00:12+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-13T10:59:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/WzwLhulqz_V04R7ET6Uq3g</id>
     <link href="https://mp.weixin.qq.com/s/WzwLhulqz_V04R7ET6Uq3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《数据安全能力成熟度模型》实践指南：数据发布安全</title>
-    <updated>2020-12-11T11:58:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/ylTSeHsSqnBuNAxwGG7PiQ</id>
-    <link href="https://mp.weixin.qq.com/s/ylTSeHsSqnBuNAxwGG7PiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>每周安全速递¹³⁹｜加拿大温哥华Translink机构遭勒索软件攻击</title>
-    <updated>2020-12-11T11:58:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/SgcnQmgYm3KiGxvXjdk4kQ</id>
-    <link href="https://mp.weixin.qq.com/s/SgcnQmgYm3KiGxvXjdk4kQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜狐技术产品 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T07:46:44+08:00</updated>
+  <updated>2021-01-14T07:57:07+08:00</updated>
   <subtitle>这里是搜狐技术产品的知识分享平台。作为中国领先的互联网品牌，在拥有媒体、视频、搜索、游戏四大业务平台和超7亿用户的背后，搜狐始终致力于技术的创新与实践，更多实战干货和技术资讯将在此与您分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>RocketMQ中台化建设</title>
+    <updated>2021-01-14T07:30:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/idTA4H3_lykcz9yqBH3YcQ</id>
+    <link href="https://mp.weixin.qq.com/s/idTA4H3_lykcz9yqBH3YcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货合集 | 2020年搜狐技术产品原创文章精选</title>
+    <updated>2021-01-14T07:30:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Gzp7h-PQVTsfYzbKnohS6Q</id>
+    <link href="https://mp.weixin.qq.com/s/Gzp7h-PQVTsfYzbKnohS6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从fishhook第三方库学到的知识</title>
+    <updated>2021-01-14T07:30:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/5eH4S_eoHMcX-wI_Ph9sZA</id>
+    <link href="https://mp.weixin.qq.com/s/5eH4S_eoHMcX-wI_Ph9sZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于 CocoaPods 的组件二进制化实践</title>
+    <updated>2021-01-14T07:30:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/El8SOwd4QAElywp6ebvJ4A</id>
+    <link href="https://mp.weixin.qq.com/s/El8SOwd4QAElywp6ebvJ4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【干货】使用 CSS Scroll Snap 优化滚动，提升用户体验！</title>
+    <updated>2021-01-14T07:30:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/eXC6IVD5YV4jk2BWd9CZXw</id>
+    <link href="https://mp.weixin.qq.com/s/eXC6IVD5YV4jk2BWd9CZXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>带你实现完整的视频弹幕系统</title>
     <updated>2021-01-07T07:30:09+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-16T18:52:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/Pp8JbAwprF0Z5WAfVHRZZQ</id>
     <link href="https://mp.weixin.qq.com/s/Pp8JbAwprF0Z5WAfVHRZZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>llvm 编译器高级用法：第三方库插桩</title>
-    <updated>2020-12-09T19:29:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/RKg8f6B2jSNuFEImtMnq2Q</id>
-    <link href="https://mp.weixin.qq.com/s/RKg8f6B2jSNuFEImtMnq2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国际化适配：使用 Xcode 构建有助于本地化的布局</title>
-    <updated>2020-12-09T19:29:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/bRFV8XUlu8ER6zpxGk1kdA</id>
-    <link href="https://mp.weixin.qq.com/s/bRFV8XUlu8ER6zpxGk1kdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网页骨架屏自动生成方案</title>
-    <updated>2020-12-09T19:29:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/wKI_Q8Pk3XzVRi55Nz9MKA</id>
-    <link href="https://mp.weixin.qq.com/s/wKI_Q8Pk3XzVRi55Nz9MKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>14 个 JS 优化建议</title>
-    <updated>2020-12-09T19:29:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/e2p37hP93bE3NFGjtJPW8g</id>
-    <link href="https://mp.weixin.qq.com/s/e2p37hP93bE3NFGjtJPW8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【文末有惊喜！】Hive SQL血缘关系解析与应用</title>
-    <updated>2020-12-02T17:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/6W5JBkGjAEfY6b5R8F74Vg</id>
-    <link href="https://mp.weixin.qq.com/s/6W5JBkGjAEfY6b5R8F74Vg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
