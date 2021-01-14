@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端下午茶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:12:35+08:00</updated>
+  <updated>2021-01-15T07:55:06+08:00</updated>
   <subtitle>分享有关前端的技术博客、精选文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>学习 async，defer 和动态脚本，本文就够了！</title>
+    <updated>2021-01-14T23:06:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/YQBht60GEPBTFrSXDUabvA</id>
+    <link href="https://mp.weixin.qq.com/s/YQBht60GEPBTFrSXDUabvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ECharts数据可视化：从0到1的蜕变（内部技术分享总结）</title>
     <updated>2021-01-12T23:08:58+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-29T19:44:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/-dkM6pLafmLOLR5dFF3Xpg</id>
     <link href="https://mp.weixin.qq.com/s/-dkM6pLafmLOLR5dFF3Xpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端监控原理，深入浅出，从上手到实战</title>
-    <updated>2020-12-28T22:45:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/PD1qmgm6qVQ-Q7jmqFEUZw</id>
-    <link href="https://mp.weixin.qq.com/s/PD1qmgm6qVQ-Q7jmqFEUZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

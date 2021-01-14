@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:23:26+08:00</updated>
+  <updated>2021-01-15T07:55:33+08:00</updated>
   <subtitle>每一步成长都想与你分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kafka 集群突破百万 partition 的技术探索</title>
+    <updated>2021-01-14T21:21:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/TriKk7KS7h8yPIVi1WVb_Q</id>
+    <link href="https://mp.weixin.qq.com/s/TriKk7KS7h8yPIVi1WVb_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文看懂 Kafka 消息格式的演进</title>
     <updated>2021-01-10T21:05:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-30T10:53:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/LHlcLTs5r8lQtG8Tl9aPjQ</id>
     <link href="https://mp.weixin.qq.com/s/LHlcLTs5r8lQtG8Tl9aPjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kafka 独立消费者</title>
-    <updated>2020-09-19T14:02:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-19:/s/KeM32onJPde1Vv-EwRwiLQ</id>
-    <link href="https://mp.weixin.qq.com/s/KeM32onJPde1Vv-EwRwiLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

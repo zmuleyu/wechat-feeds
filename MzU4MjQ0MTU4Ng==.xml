@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:45:58+08:00</updated>
+  <updated>2021-01-15T07:51:47+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干掉微服务：首次揭秘腾讯社交、阿里电商万亿级架构设计</title>
+    <updated>2021-01-15T07:31:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/IT0kMZgCORbvScYuf7vy-w</id>
+    <link href="https://mp.weixin.qq.com/s/IT0kMZgCORbvScYuf7vy-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Django REST Framework 和 Vue Nuxt 进行身份验证</title>
+    <updated>2021-01-15T07:31:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/eYtaG1KN6aD-PHhf_5DaiQ</id>
+    <link href="https://mp.weixin.qq.com/s/eYtaG1KN6aD-PHhf_5DaiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 源码分析之 kubelet(五)</title>
+    <updated>2021-01-15T07:31:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/k9uq8e9NBz8CBBAtJmOaQw</id>
+    <link href="https://mp.weixin.qq.com/s/k9uq8e9NBz8CBBAtJmOaQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rook 1.5.1 部署 Ceph 实操经验分享</title>
     <updated>2021-01-14T21:26:58+08:00</updated>
@@ -82,13 +103,6 @@
     <updated>2021-01-06T12:25:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/lr-usDIiiiClA1HjENSYQw</id>
     <link href="https://mp.weixin.qq.com/s/lr-usDIiiiClA1HjENSYQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手游项目运维迁移规划实践</title>
-    <updated>2021-01-05T09:16:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/HWbxnaYnMdCqs76LuREgdg</id>
-    <link href="https://mp.weixin.qq.com/s/HWbxnaYnMdCqs76LuREgdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

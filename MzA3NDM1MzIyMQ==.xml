@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>桂迹 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T07:49:17+08:00</updated>
+  <updated>2021-01-15T07:44:31+08:00</updated>
   <subtitle>记录自己的痕迹：技术，爱好，见闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>依赖倒置在.NET中</title>
+    <updated>2021-01-14T18:57:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Z0v4aTrrXTUk3jhz0ZPFlw</id>
+    <link href="https://mp.weixin.qq.com/s/Z0v4aTrrXTUk3jhz0ZPFlw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开放封闭在.NET中</title>
     <updated>2021-01-12T22:46:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T18:08:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/QddRlyjD5J0wdh5GZ7PIOw</id>
     <link href="https://mp.weixin.qq.com/s/QddRlyjD5J0wdh5GZ7PIOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于kubernetes复杂项目的交付</title>
-    <updated>2020-12-22T08:34:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/0ySPYhcbGoH8tej3HqwaZg</id>
-    <link href="https://mp.weixin.qq.com/s/0ySPYhcbGoH8tej3HqwaZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

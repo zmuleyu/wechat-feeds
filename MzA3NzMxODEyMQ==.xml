@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android技术之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:45:42+08:00</updated>
+  <updated>2021-01-15T07:59:33+08:00</updated>
   <subtitle>主要分享Android相关技术文章、移动互联网的相关产品和资讯。关注你将学习到更多基础以及框架相关的知识，为您的工作助力！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>踩坑之路：Activity执行finish以后onStop方法10s以后才调用</title>
+    <updated>2021-01-14T14:38:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/P4FLVzsSpGlYOe2Y4MI-Hw</id>
+    <link href="https://mp.weixin.qq.com/s/P4FLVzsSpGlYOe2Y4MI-Hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Gradle 插件 + ASM 实战 - JVM 虚拟机加载 Class 原理</title>
     <updated>2021-01-11T08:50:41+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-16T21:14:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/_doEOtF0P95xbVKXQoXyXw</id>
     <link href="https://mp.weixin.qq.com/s/_doEOtF0P95xbVKXQoXyXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java性能优化的50个细节（珍藏版）</title>
-    <updated>2020-12-15T15:53:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/eadxzzmYysWcA25yjFoWuw</id>
-    <link href="https://mp.weixin.qq.com/s/eadxzzmYysWcA25yjFoWuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

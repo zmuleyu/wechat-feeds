@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:14:40+08:00</updated>
+  <updated>2021-01-15T07:57:39+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员中的败类！“健康码演示”App开发者被抓</title>
+    <updated>2021-01-15T07:32:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/QGguW187i0vAy7jK3KVw4w</id>
+    <link href="https://mp.weixin.qq.com/s/QGguW187i0vAy7jK3KVw4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>巧用 Lazy 解决.NET Core中的循环依赖关系</title>
+    <updated>2021-01-15T07:32:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/4r6P8ATWJvwspTvZvSTHmQ</id>
+    <link href="https://mp.weixin.qq.com/s/4r6P8ATWJvwspTvZvSTHmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 .NetCore 中使用 AutoMapper 高级功能</title>
     <updated>2021-01-13T08:06:10+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-04T10:56:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/4A-SNyXAQu-XPV4y67B9XQ</id>
     <link href="https://mp.weixin.qq.com/s/4A-SNyXAQu-XPV4y67B9XQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China .Net Conf 2020绝密阵容曝光！40+顶级大咖、近50场热点技术专题！火力全开！</title>
-    <updated>2020-12-11T08:10:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/H4a5U9AnaTb3eMfCG_Hy8Q</id>
-    <link href="https://mp.weixin.qq.com/s/H4a5U9AnaTb3eMfCG_Hy8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
