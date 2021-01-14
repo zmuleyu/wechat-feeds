@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cloud Native Community | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:49:28+08:00</updated>
+  <updated>2021-01-14T13:42:25+08:00</updated>
   <subtitle>云原生社区是一个企业中立的云原生终端用户社区，致力于推广云原生技术，构建开发者生态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020十大边缘计算开源项目</title>
+    <updated>2021-01-14T11:21:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Z3RLh1Eijm1WuqBzxJG4zQ</id>
+    <link href="https://mp.weixin.qq.com/s/Z3RLh1Eijm1WuqBzxJG4zQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生：打造「阿拉丁神灯式」应用厨房</title>
     <updated>2021-01-13T11:33:37+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-28T15:22:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/VxldY6J1nuhBZkydRvzdFg</id>
     <link href="https://mp.weixin.qq.com/s/VxldY6J1nuhBZkydRvzdFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Envoy WASM 源码抽丝剥茧</title>
-    <updated>2020-12-25T11:56:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/AHs94b4WEbHyQSQf1QuLXA</id>
-    <link href="https://mp.weixin.qq.com/s/AHs94b4WEbHyQSQf1QuLXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>企业级服务网格公司 Tetrate 招聘|云原生招聘信息</title>
-    <updated>2020-12-25T11:56:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/hQm0MDUdEp__C4Jpkq1Srw</id>
-    <link href="https://mp.weixin.qq.com/s/hQm0MDUdEp__C4Jpkq1Srw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

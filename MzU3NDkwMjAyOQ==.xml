@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码哥字节 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:55:31+08:00</updated>
+  <updated>2021-01-14T13:56:26+08:00</updated>
   <subtitle>分享Java技术，不论基础核心还是分布式、高并发场景。还是 SpringBoot 、MySQL、Redis、 Spring Cloud 等框架原理和源码分析。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -15,24 +15,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>误用Redis命令导致服务器挂了，领导让我写事故报告</title>
-    <updated>2021-01-05T16:33:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Qtgp94D1hLMWD9dFgcIs3A</id>
-    <link href="https://mp.weixin.qq.com/s/Qtgp94D1hLMWD9dFgcIs3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>优秀工程师必备技能之如何高效阅读源码</title>
     <updated>2021-01-03T20:42:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/9HzNq9INLFxcpFQWWnwmVQ</id>
     <link href="https://mp.weixin.qq.com/s/9HzNq9INLFxcpFQWWnwmVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分库分表：TIDB，你是来抢生意的？</title>
-    <updated>2020-12-18T14:43:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/4PGBjnXF5fJFxbxQEKLlsA</id>
-    <link href="https://mp.weixin.qq.com/s/4PGBjnXF5fJFxbxQEKLlsA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -71,10 +57,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>AQS实现并发的秘密藏在这30图里</title>
-    <updated>2020-10-18T10:14:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-18:/s/_4-XafizZn8NzA5OeP5DQw</id>
-    <link href="https://mp.weixin.qq.com/s/_4-XafizZn8NzA5OeP5DQw" rel="alternate"></link>
+    <title>从面试角度一文学完 Kafka</title>
+    <updated>2020-10-12T00:44:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-12:/s/QF9b9vpncLS24xMzFkanTQ</id>
+    <link href="https://mp.weixin.qq.com/s/QF9b9vpncLS24xMzFkanTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>终极解密输入网址按回车到底发生了什么</title>
+    <updated>2020-10-08T21:06:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-10-08:/s/AX3sE1IKnTktIg2a8yhp5w</id>
+    <link href="https://mp.weixin.qq.com/s/AX3sE1IKnTktIg2a8yhp5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OLAP 数据平台 Druid 第一步，编写 Spec 配置</title>
+    <updated>2020-09-27T00:09:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-27:/s/ouByzd1K7KC0hP9PwdhJjA</id>
+    <link href="https://mp.weixin.qq.com/s/ouByzd1K7KC0hP9PwdhJjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

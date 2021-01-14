@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:29:41+08:00</updated>
+  <updated>2021-01-14T13:42:07+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>今晚8点，开源超融合基础架构软件Harvester首期在线培训将准时开播！这是一款完全由Rancher中国研发团队设计和开发的开源软件。&#xA;&#xA;本期培训从安装开始带你入门Harvester，轻松上手超融合！赶紧报名上车咯！&#xA;报名及观看链接：http://z-mz.cn/23oVP</title>
+    <updated>2021-01-14T10:53:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/MlCjIXO6RKSSJT4aiWRHng</id>
+    <link href="https://mp.weixin.qq.com/s/MlCjIXO6RKSSJT4aiWRHng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>借助3款K8S原生控件，保护你的云原生应用</title>
     <updated>2021-01-13T17:44:43+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T16:01:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/nLz2eotMv68YXYHerfIvsA</id>
     <link href="https://mp.weixin.qq.com/s/nLz2eotMv68YXYHerfIvsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rancher×SUSE首次线下合体亮相，邀你释放云的全部价值！</title>
-    <updated>2020-12-29T16:29:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/5OhezNdzkg3_zaxxyjpn9Q</id>
-    <link href="https://mp.weixin.qq.com/s/5OhezNdzkg3_zaxxyjpn9Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

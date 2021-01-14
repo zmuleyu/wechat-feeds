@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T13:44:49+08:00</updated>
+  <updated>2021-01-14T13:48:32+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL不会丢失数据的秘密，就藏在它的 7种日志里</title>
+    <updated>2021-01-13T17:31:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/n12SZ2_MFHYLp_dvWtOo2g</id>
+    <link href="https://mp.weixin.qq.com/s/n12SZ2_MFHYLp_dvWtOo2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>链家程序员怒删公司9TB数据，被判7年！</title>
     <updated>2021-01-12T17:59:59+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-04T21:31:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/CjLdQI1twivSJQH39usmLg</id>
     <link href="https://mp.weixin.qq.com/s/CjLdQI1twivSJQH39usmLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>索引为什么能提高查询性能....</title>
-    <updated>2021-01-03T21:59:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/TXR6DyaxP7LaftfFwFn_dw</id>
-    <link href="https://mp.weixin.qq.com/s/TXR6DyaxP7LaftfFwFn_dw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

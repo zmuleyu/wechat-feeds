@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T13:41:31+08:00</updated>
+  <updated>2021-01-14T13:46:18+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python 爬虫进阶 - 前后端分离有什么了不起，过程超详细！</title>
+    <updated>2021-01-13T23:31:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/mOXkWzqswr5BCkVzyyNfIQ</id>
+    <link href="https://mp.weixin.qq.com/s/mOXkWzqswr5BCkVzyyNfIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>非常适合小白的 Asyncio 教程</title>
     <updated>2021-01-10T12:57:55+08:00</updated>
@@ -19,13 +26,6 @@
     <updated>2021-01-10T10:20:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/SWR8MenUhQRvlRUK04847Q</id>
     <link href="https://mp.weixin.qq.com/s/SWR8MenUhQRvlRUK04847Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>苹果 AirPods Pro 真香，再包邮送一个！</title>
-    <updated>2021-01-10T10:20:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/7RULlL87SdhzzOyIoH1PDA</id>
-    <link href="https://mp.weixin.qq.com/s/7RULlL87SdhzzOyIoH1PDA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -54,13 +54,6 @@
     <updated>2021-01-06T10:22:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/x21Z5ttIylFzxH5A6GZpiA</id>
     <link href="https://mp.weixin.qq.com/s/x21Z5ttIylFzxH5A6GZpiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我宣布，这是我找到的史上 AI 最全论文体系！</title>
-    <updated>2021-01-04T20:33:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/W-QONNnKUFINO79MlPd7Dg</id>
-    <link href="https://mp.weixin.qq.com/s/W-QONNnKUFINO79MlPd7Dg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +89,6 @@
     <updated>2020-12-29T09:44:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/SK-yrtVAidjIWIOtRMUr0g</id>
     <link href="https://mp.weixin.qq.com/s/SK-yrtVAidjIWIOtRMUr0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>利用 Python 将 PDF 文档转为语音音频</title>
-    <updated>2020-12-27T23:06:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/3DTIfMbPVZOkTJXwKXjkIQ</id>
-    <link href="https://mp.weixin.qq.com/s/3DTIfMbPVZOkTJXwKXjkIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
