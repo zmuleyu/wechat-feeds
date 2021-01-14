@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码卫士 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:55:53+08:00</updated>
+  <updated>2021-01-14T20:34:52+08:00</updated>
   <subtitle>奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这个SSRF 漏洞很酷</title>
+    <updated>2021-01-14T20:27:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Rojay4fzfQmHMI3OHBP-xQ</id>
+    <link href="https://mp.weixin.qq.com/s/Rojay4fzfQmHMI3OHBP-xQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌披露利用 Windows 和安卓双平台的高阶攻击活动</title>
+    <updated>2021-01-14T20:27:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/TEoAGMd5CXUWqtDVznr_Fg</id>
+    <link href="https://mp.weixin.qq.com/s/TEoAGMd5CXUWqtDVznr_Fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用于安全连接 Microsoft 365 的 Mimecast 数字证书被盗</title>
+    <updated>2021-01-14T20:27:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/KNqW6R745_PiBdRK8iW30g</id>
+    <link href="https://mp.weixin.qq.com/s/KNqW6R745_PiBdRK8iW30g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>美国政府发布关键海事行业的网络安全规划</title>
+    <updated>2021-01-14T20:27:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/9aFzUexLbi9hD8khO3xCWA</id>
+    <link href="https://mp.weixin.qq.com/s/9aFzUexLbi9hD8khO3xCWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇安信代码安全实验室帮助微软修复两个 “重要” 漏洞，获官方致谢</title>
     <updated>2021-01-13T10:36:47+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-06T17:52:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/aN2VkR9ln2twd7V7ethQng</id>
     <link href="https://mp.weixin.qq.com/s/aN2VkR9ln2twd7V7ethQng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>21家大厂的2021年安全趋势预测</title>
-    <updated>2021-01-05T18:38:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/nYb9i-ZvdEwWqeG0I4pLVw</id>
-    <link href="https://mp.weixin.qq.com/s/nYb9i-ZvdEwWqeG0I4pLVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年十大开源漏洞回顾</title>
-    <updated>2021-01-04T20:10:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ax3duHcFi-cMLmLTQ8sRRw</id>
-    <link href="https://mp.weixin.qq.com/s/ax3duHcFi-cMLmLTQ8sRRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10万+合勤科技防火墙和 VPN 网关被曝秘密后门</title>
-    <updated>2021-01-04T20:10:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/WRV8on-dfk854lqBXiyT0A</id>
-    <link href="https://mp.weixin.qq.com/s/WRV8on-dfk854lqBXiyT0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软源代码遭 SolarWinds 黑客访问</title>
-    <updated>2021-01-01T09:01:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/PVlJhRoJQiPAeWMQxDnsug</id>
-    <link href="https://mp.weixin.qq.com/s/PVlJhRoJQiPAeWMQxDnsug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

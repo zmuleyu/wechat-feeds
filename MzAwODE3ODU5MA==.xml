@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>apachekylin | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:44:52+08:00</updated>
+  <updated>2021-01-14T20:50:39+08:00</updated>
   <subtitle>Apache Kylin 公众号，介绍 Kylin 的功能特性、应用案例、经验分享、社区资讯、活动等。更多信息，请访问 Kylin 官网：http://kylin.io；相关技术问题，请订阅 Apache Kylin 邮件列表交流。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>12月社区回顾｜Kylin 4.0.0-Beta 发布倒计时</title>
+    <updated>2021-01-14T15:08:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/5O_HBtcp1cmGCrg3YHyZcg</id>
+    <link href="https://mp.weixin.qq.com/s/5O_HBtcp1cmGCrg3YHyZcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Kylin 在汽车之家的实时多维分析实践</title>
     <updated>2021-01-12T18:12:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T17:52:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/CEIO2Yac38i5fBOHkqwiLA</id>
     <link href="https://mp.weixin.qq.com/s/CEIO2Yac38i5fBOHkqwiLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10/11 月刊｜更好的 Kylin 4.0.0-Beta 加载中</title>
-    <updated>2020-12-02T15:35:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/5CSNkcdHyPhe0N3h97_Hgg</id>
-    <link href="https://mp.weixin.qq.com/s/5CSNkcdHyPhe0N3h97_Hgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

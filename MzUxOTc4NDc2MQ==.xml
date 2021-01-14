@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>StreamNative | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:04:32+08:00</updated>
+  <updated>2021-01-14T20:39:41+08:00</updated>
   <subtitle>Apache Pulsar &amp; Apache BookKeeper @ StreamNative</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>StreamNative 年会：聚是一团火，散是满天星</title>
+    <updated>2021-01-14T19:36:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/E6n4M1LGsy-hYyTpBiHHDw</id>
+    <link href="https://mp.weixin.qq.com/s/E6n4M1LGsy-hYyTpBiHHDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pulsar 2.7.0 新增特性概览：事务支持、Topic 级别策略配置等</title>
     <updated>2021-01-04T18:20:10+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-23T19:32:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/pkG2zkJjwE5B6QLCICnX2A</id>
     <link href="https://mp.weixin.qq.com/s/pkG2zkJjwE5B6QLCICnX2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>博文推荐｜消息系统的发展趋势：云原生是未来</title>
-    <updated>2020-12-22T18:33:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/5ia8BRcdfBXefS_3olKeGQ</id>
-    <link href="https://mp.weixin.qq.com/s/5ia8BRcdfBXefS_3olKeGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TGIP CN 28 期回顾： Apache Pulsar 延时队列的方方面面</title>
-    <updated>2020-12-22T18:33:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/-n46Z4ka2G71TSr0XXwbnQ</id>
-    <link href="https://mp.weixin.qq.com/s/-n46Z4ka2G71TSr0XXwbnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

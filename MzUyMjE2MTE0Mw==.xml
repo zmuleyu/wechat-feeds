@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:29:50+08:00</updated>
+  <updated>2021-01-14T20:28:21+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PyTorch 源码解读之 torch.utils.data</title>
+    <updated>2021-01-14T19:39:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/iaRT-yJ-eBkoJ7JVLHY6Yg</id>
+    <link href="https://mp.weixin.qq.com/s/iaRT-yJ-eBkoJ7JVLHY6Yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PyTorch 源码解读之 BN &amp; SyncBN</title>
+    <updated>2021-01-14T19:39:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/KWPjVGzFDuT2ubuvus42tw</id>
+    <link href="https://mp.weixin.qq.com/s/KWPjVGzFDuT2ubuvus42tw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PyTorch 源码解读之 torch.autograd</title>
+    <updated>2021-01-14T19:39:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/CeEUiDNTpSrfwwq5P9nCrA</id>
+    <link href="https://mp.weixin.qq.com/s/CeEUiDNTpSrfwwq5P9nCrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>惊了，惊了! 原来这个算法还能用在核酸检测</title>
     <updated>2021-01-13T17:21:30+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T17:28:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/sML_Qo-c-ijP6lxlqMS4MA</id>
     <link href="https://mp.weixin.qq.com/s/sML_Qo-c-ijP6lxlqMS4MA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lifelong Learning 终生学习，涨知识了！</title>
-    <updated>2021-01-05T17:28:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/L0_mgtf26L2DVHAR4ROe4A</id>
-    <link href="https://mp.weixin.qq.com/s/L0_mgtf26L2DVHAR4ROe4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从源码学习Transformer！</title>
-    <updated>2021-01-04T09:51:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/0NajB_60WKCWTNpOU4PdBQ</id>
-    <link href="https://mp.weixin.qq.com/s/0NajB_60WKCWTNpOU4PdBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021送书第一弹！免费包邮送到你家！</title>
-    <updated>2021-01-03T21:40:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/7-HTn9CXaeMpuQpE_hXGnw</id>
-    <link href="https://mp.weixin.qq.com/s/7-HTn9CXaeMpuQpE_hXGnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MarkerHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:28:41+08:00</updated>
+  <updated>2021-01-14T20:27:15+08:00</updated>
   <subtitle>专注于梳理java知识，解析开源项目。在Java框架底层、并发编程、网络编程、中间件、高并发、高可用以及测试和运维等领域知识皆有整理，让java学习不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>当年学Java，我踩过这些坑...</title>
+    <updated>2021-01-13T20:07:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/6we-6UtWTcIIF-ES3oLTvQ</id>
+    <link href="https://mp.weixin.qq.com/s/6we-6UtWTcIIF-ES3oLTvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最常用的分布式 ID 解决方案，都在这里了！</title>
     <updated>2021-01-12T21:40:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-03T22:40:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/rn9A9UulKy85tspVZmnNNg</id>
     <link href="https://mp.weixin.qq.com/s/rn9A9UulKy85tspVZmnNNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详细！SpringBoot整合SpringSecurity实现JWT认证</title>
-    <updated>2021-01-02T18:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/iyzXT79Uj_nrS5gyjX_aKg</id>
-    <link href="https://mp.weixin.qq.com/s/iyzXT79Uj_nrS5gyjX_aKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

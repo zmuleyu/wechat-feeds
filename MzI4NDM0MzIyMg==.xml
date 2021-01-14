@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>转角遇到GitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:19:32+08:00</updated>
+  <updated>2021-01-14T20:28:49+08:00</updated>
   <subtitle>发现 GitHub 好项目，开源爱好者！包括但不限于 Python、Java、Go、Rust、JavaScript、AI 等技术，开源学习和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>5 分钟能入门 Go 语言吗？有人写了一个教程</title>
+    <updated>2021-01-14T19:40:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/RJm2uoFw8wyomh8y4yOY3g</id>
+    <link href="https://mp.weixin.qq.com/s/RJm2uoFw8wyomh8y4yOY3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>国产 Go 分布式文件系统开源了</title>
     <updated>2021-01-11T22:37:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T10:51:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/Ry_fzDQHZHBKx16k2M_OVg</id>
     <link href="https://mp.weixin.qq.com/s/Ry_fzDQHZHBKx16k2M_OVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>任何能够用JS实现的应用系统，最终都必将用JS实现</title>
-    <updated>2020-12-15T17:50:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/bANSdCV2bZ8SDVBWVENAaw</id>
-    <link href="https://mp.weixin.qq.com/s/bANSdCV2bZ8SDVBWVENAaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

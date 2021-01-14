@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T16:38:23+08:00</updated>
+  <updated>2021-01-14T20:33:03+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>对incaseformat蠕虫事件的一些思考</title>
+    <updated>2021-01-14T17:53:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/B-d9ctMwPoiO6D_ptbmhBw</id>
+    <link href="https://mp.weixin.qq.com/s/B-d9ctMwPoiO6D_ptbmhBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【FreeBuf字幕组】赏金3500美元的Slack SSRF漏洞解析</title>
+    <updated>2021-01-14T17:53:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/CR9SVWyhTeQLhDWP7Swc0A</id>
+    <link href="https://mp.weixin.qq.com/s/CR9SVWyhTeQLhDWP7Swc0A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>欧洲药品管理局遭遇网络攻击，COVID-19疫苗信息疑泄露？</title>
+    <updated>2021-01-14T17:53:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Aa9ngFGoIimg9MzVmWndWw</id>
+    <link href="https://mp.weixin.qq.com/s/Aa9ngFGoIimg9MzVmWndWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ZDI总结全年最重要的五个漏洞</title>
+    <updated>2021-01-14T17:53:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/qiYQlMbt40fb92psBU2xtw</id>
+    <link href="https://mp.weixin.qq.com/s/qiYQlMbt40fb92psBU2xtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于PDD员工发帖溯源联想到的相关技术与实现</title>
     <updated>2021-01-13T15:19:39+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-10T18:22:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/gmvFcc8FQk3v63XuWtQrtw</id>
     <link href="https://mp.weixin.qq.com/s/gmvFcc8FQk3v63XuWtQrtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记录一次众测平台邀请码获取</title>
-    <updated>2021-01-09T14:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/r4nMv5dbjSJ7PsTfK6rm4Q</id>
-    <link href="https://mp.weixin.qq.com/s/r4nMv5dbjSJ7PsTfK6rm4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人在看守所，刚赚2500</title>
-    <updated>2021-01-09T14:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/nq9hR1qQ5eytMrFB_hKCjA</id>
-    <link href="https://mp.weixin.qq.com/s/nq9hR1qQ5eytMrFB_hKCjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过一次性登录漏洞获取Workplace用户绑定邮箱</title>
-    <updated>2021-01-09T14:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8O3TfbcIFQ1Dm6tA1Kpg3Q</id>
-    <link href="https://mp.weixin.qq.com/s/8O3TfbcIFQ1Dm6tA1Kpg3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>利用Damn-Vulnerable-Bank学习Android应用程序安全</title>
-    <updated>2021-01-09T14:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/GdQcNe0a0xhwMDpD_WT1Xw</id>
-    <link href="https://mp.weixin.qq.com/s/GdQcNe0a0xhwMDpD_WT1Xw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

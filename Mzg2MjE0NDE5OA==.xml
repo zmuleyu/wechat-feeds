@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:45:28+08:00</updated>
+  <updated>2021-01-14T20:47:30+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN：不负责任地预测一下2021！</title>
+    <updated>2021-01-14T19:10:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/zW0kHIxkGVunPPvq_5IAGw</id>
+    <link href="https://mp.weixin.qq.com/s/zW0kHIxkGVunPPvq_5IAGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN：关注隐私安全自由的PureOS！</title>
     <updated>2021-01-11T19:05:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T10:02:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/9fLk_exHO_TpryAORCN2aw</id>
     <link href="https://mp.weixin.qq.com/s/9fLk_exHO_TpryAORCN2aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: 节省huge page场景下的struct page内存占用！</title>
-    <updated>2020-12-28T12:53:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/zqtARPxtkH4mmqhpnvDiCQ</id>
-    <link href="https://mp.weixin.qq.com/s/zqtARPxtkH4mmqhpnvDiCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

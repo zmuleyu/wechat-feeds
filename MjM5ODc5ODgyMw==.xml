@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>又拍云 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:40:23+08:00</updated>
+  <updated>2021-01-14T20:45:35+08:00</updated>
   <subtitle>加速在线业务。为客户提供CDN、PrismCDN、云存储、SSL证书、云处理、直播云、点播云等服务。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实操｜如何将 Containerd 用作 Kubernetes  runtime</title>
+    <updated>2021-01-14T17:32:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/e2iolQDnxFJFAYz4kezLdw</id>
+    <link href="https://mp.weixin.qq.com/s/e2iolQDnxFJFAYz4kezLdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Wi-Fi 6 与 5G 相比哪个更快？</title>
     <updated>2021-01-12T16:35:30+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T18:32:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/vU2YKRgNi8NAAUb0oZSoMA</id>
     <link href="https://mp.weixin.qq.com/s/vU2YKRgNi8NAAUb0oZSoMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今晚 8 点又拍云 OpenTalk 公开课《网易有道张晋涛：Containerd 上手实践 》准时开播！&#xA;直播将分享 Containerd 的特性和如何将其作为 K8S runtime 的上手实践。&#xA;记得观看哦🎁</title>
-    <updated>2020-12-22T17:21:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/gpucdn0IiMab9qq-XkEJQQ</id>
-    <link href="https://mp.weixin.qq.com/s/gpucdn0IiMab9qq-XkEJQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

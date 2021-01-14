@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>polarisxu | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:49:51+08:00</updated>
+  <updated>2021-01-14T20:51:59+08:00</updated>
   <subtitle>北京大学毕业；码农，创业者；Go语言中文网站长；著有《Go语言编程之旅》；爱 Go，也是 PHPer，还做过 Java；聊技术、聊职场、聊创业~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 Go 如何实现精准统计文章字数</title>
+    <updated>2021-01-14T18:12:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/1QcQolmK7kV27YmxBpmmZA</id>
+    <link href="https://mp.weixin.qq.com/s/1QcQolmK7kV27YmxBpmmZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我为什么运营微信公众号</title>
     <updated>2021-01-11T20:23:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-27T23:18:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/18AZEEX1UeShLx6-9Ir9Zw</id>
     <link href="https://mp.weixin.qq.com/s/18AZEEX1UeShLx6-9Ir9Zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>圣诞快乐 — 有娃的建议看看</title>
-    <updated>2020-12-25T19:25:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/tpGMuut6PkfQrJ5hyBW13Q</id>
-    <link href="https://mp.weixin.qq.com/s/tpGMuut6PkfQrJ5hyBW13Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

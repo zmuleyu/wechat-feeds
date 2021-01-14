@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>企鹅杏仁技术站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:42:51+08:00</updated>
+  <updated>2021-01-14T20:26:39+08:00</updated>
   <subtitle>我们是企鹅杏仁的信息科技中心团队，来自天南地北（上海、成都、北京、深圳），我们用技术改变世界。在这里，我们会分享工作和学习中的点点滴滴，包括前端、后端、运维、产品等各个方面，欢迎大家一起来交流。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万字长文分析 AQS 原理以及应用</title>
+    <updated>2021-01-14T18:45:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/bGz2yNNZblUwFry-9YMeXw</id>
+    <link href="https://mp.weixin.qq.com/s/bGz2yNNZblUwFry-9YMeXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>实战：移动端适配的最佳解决方案</title>
+    <updated>2021-01-14T18:45:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/SHgHDF1kLhQtRHOJ4-idgg</id>
+    <link href="https://mp.weixin.qq.com/s/SHgHDF1kLhQtRHOJ4-idgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>实战：移动端适配的最佳解决方案</title>
     <updated>2021-01-07T19:22:37+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-11-12T18:49:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/mU06njqykyXaX9kvH4C-hg</id>
     <link href="https://mp.weixin.qq.com/s/mU06njqykyXaX9kvH4C-hg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跨端框架 RAX 初体验</title>
-    <updated>2020-11-05T18:55:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/DsuHQq5nweC5lmPA8UWPRw</id>
-    <link href="https://mp.weixin.qq.com/s/DsuHQq5nweC5lmPA8UWPRw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

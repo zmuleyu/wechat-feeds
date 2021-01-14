@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云加社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:28:09+08:00</updated>
+  <updated>2021-01-14T20:26:48+08:00</updated>
   <subtitle>腾讯云官方社区公众号，汇聚技术开发者群体，分享技术干货，打造技术影响力交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三万倍提升，起飞的PostgreSQL主从优化实践</title>
+    <updated>2021-01-14T19:36:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Us0HE0KmO5rxhj8Le70DJA</id>
+    <link href="https://mp.weixin.qq.com/s/Us0HE0KmO5rxhj8Le70DJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>迟到但不缺席，第八届 IMWeb Conf 杀到！</title>
     <updated>2021-01-13T18:47:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T18:37:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/CU3kHPkyUGcuUfuXKZtz7A</id>
     <link href="https://mp.weixin.qq.com/s/CU3kHPkyUGcuUfuXKZtz7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于边缘容器技术的工业互联网平台建设</title>
-    <updated>2020-12-28T17:55:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/a3x-STVd-yoDZofQWSqKcA</id>
-    <link href="https://mp.weixin.qq.com/s/a3x-STVd-yoDZofQWSqKcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

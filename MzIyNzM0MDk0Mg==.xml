@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TonyBai | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:32:16+08:00</updated>
+  <updated>2021-01-14T20:31:14+08:00</updated>
   <subtitle>与技术博客tonybai.com同源。近期关注Kubernetes、Docker、Golang、儿童编程、DevOps、云计算平台和机器学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go官博：正式提案将泛型加入Go[译]</title>
+    <updated>2021-01-14T17:43:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Cnko3hrrcFKpsfdlj3yXdQ</id>
+    <link href="https://mp.weixin.qq.com/s/Cnko3hrrcFKpsfdlj3yXdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go项目结构布局再探讨：将Go包作为层，而不是组 | Gopher Daily (2021.01.14) ʕ◔ϖ◔ʔ</title>
+    <updated>2021-01-14T17:43:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/pCWvbRqRTAr9kov_5iigoA</id>
+    <link href="https://mp.weixin.qq.com/s/pCWvbRqRTAr9kov_5iigoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go官博：正式提案将泛型加入Go | Gopher Daily (2021.01.13) ʕ◔ϖ◔ʔ</title>
     <updated>2021-01-13T18:21:10+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-05T17:14:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/cOW__MiEr4AUir4HAJfvUg</id>
     <link href="https://mp.weixin.qq.com/s/cOW__MiEr4AUir4HAJfvUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>都2021年了，你不应该手动更新Go测试了 | Gopher Daily (2021.01.04) ʕ◔ϖ◔ʔ</title>
-    <updated>2021-01-04T17:05:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/mPSUOUo_X3t_WnlzXV7Zyg</id>
-    <link href="https://mp.weixin.qq.com/s/mPSUOUo_X3t_WnlzXV7Zyg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

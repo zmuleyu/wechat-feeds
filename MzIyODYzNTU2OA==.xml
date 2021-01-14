@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>绿盟科技研究通讯 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:34:05+08:00</updated>
+  <updated>2021-01-14T20:30:32+08:00</updated>
   <subtitle>绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>构筑云原生安全技术底座 | 绿盟科技发布《云原生安全技术报告》</title>
+    <updated>2021-01-14T16:52:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/8AvcEL5eGsibA7pqGPh3ig</id>
+    <link href="https://mp.weixin.qq.com/s/8AvcEL5eGsibA7pqGPh3ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>XAIGen：自动化攻击特征提取的项目开源啦</title>
     <updated>2021-01-08T09:48:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T09:16:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/0MSdbzmzOo1t0tEMlF3A8A</id>
     <link href="https://mp.weixin.qq.com/s/0MSdbzmzOo1t0tEMlF3A8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>模型又不适用了？ --论安全应用的概念漂移样本检测</title>
-    <updated>2020-12-23T15:36:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/XFuv0orQ61XhrI2O-CyJSw</id>
-    <link href="https://mp.weixin.qq.com/s/XFuv0orQ61XhrI2O-CyJSw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

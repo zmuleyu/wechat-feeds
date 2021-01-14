@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:48:43+08:00</updated>
+  <updated>2021-01-14T20:47:58+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020N1CTF kemu</title>
+    <updated>2021-01-14T17:06:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/fzMcnbqOZAIQMXG7vR-8Vg</id>
+    <link href="https://mp.weixin.qq.com/s/fzMcnbqOZAIQMXG7vR-8Vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>hackme：2 靶机攻略</title>
+    <updated>2021-01-14T17:06:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/u77XaCgnzw_dvl9hOaUxKw</id>
+    <link href="https://mp.weixin.qq.com/s/u77XaCgnzw_dvl9hOaUxKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>与狼共舞：2020年网络安全产业核心洞察报告</title>
+    <updated>2021-01-14T17:06:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/gkhnDQW-Z3_GxNdZR4vaEg</id>
+    <link href="https://mp.weixin.qq.com/s/gkhnDQW-Z3_GxNdZR4vaEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CDN 2021 完全攻击指南 （一）</title>
     <updated>2021-01-13T17:13:06+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-06T16:14:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/9syPgUKsn5_lb_nU6E3vKQ</id>
     <link href="https://mp.weixin.qq.com/s/9syPgUKsn5_lb_nU6E3vKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2020-2555——Coherence反序列化初探</title>
-    <updated>2021-01-05T17:53:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/r_773o_sk8YLKN1ejegugQ</id>
-    <link href="https://mp.weixin.qq.com/s/r_773o_sk8YLKN1ejegugQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>黑客：你的电脑真的安全吗？</title>
-    <updated>2021-01-05T17:53:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/IS28cN6QKdJVQCRlEti2fA</id>
-    <link href="https://mp.weixin.qq.com/s/IS28cN6QKdJVQCRlEti2fA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解模板注入漏洞（下）</title>
-    <updated>2021-01-05T17:53:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/TQ7BYzaq9ELX1VTLzfqbGg</id>
-    <link href="https://mp.weixin.qq.com/s/TQ7BYzaq9ELX1VTLzfqbGg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

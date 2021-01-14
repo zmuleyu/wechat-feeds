@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:45:13+08:00</updated>
+  <updated>2021-01-14T20:44:35+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go泛型提案已提交，Go 1.18 beta有望试用</title>
+    <updated>2021-01-14T17:52:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/5LNZIj6XmheTuRG2Z3a2Jg</id>
+    <link href="https://mp.weixin.qq.com/s/5LNZIj6XmheTuRG2Z3a2Jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软、思科等公司源代码被公开出售，打包价100万美元</title>
+    <updated>2021-01-14T17:52:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/xXLCYwWSkhuNj0XYzmipvw</id>
+    <link href="https://mp.weixin.qq.com/s/xXLCYwWSkhuNj0XYzmipvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub解雇犹太裔员工引争议</title>
+    <updated>2021-01-14T17:52:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/QoYKRgCzPzJfSC2-ORiqGA</id>
+    <link href="https://mp.weixin.qq.com/s/QoYKRgCzPzJfSC2-ORiqGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JuiceFS开源，一个基于Redis和云对象存储的分布式POSIX文件系统</title>
+    <updated>2021-01-14T17:52:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/i9StLxqYCp6uSqOMajjPJQ</id>
+    <link href="https://mp.weixin.qq.com/s/i9StLxqYCp6uSqOMajjPJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GNOME 40：将支持文件创建时间和墙纸预览</title>
+    <updated>2021-01-14T17:52:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/sBSuJl8RJuNTpoU815Zjjw</id>
+    <link href="https://mp.weixin.qq.com/s/sBSuJl8RJuNTpoU815Zjjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flash 未死</title>
     <updated>2021-01-13T17:31:27+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-11T17:21:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/vBlhsSLCBIKC_MSXtR6SWA</id>
     <link href="https://mp.weixin.qq.com/s/vBlhsSLCBIKC_MSXtR6SWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源圈子的那些事</title>
-    <updated>2021-01-10T14:15:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/TAWeNor0yMEBEftQJXKywA</id>
-    <link href="https://mp.weixin.qq.com/s/TAWeNor0yMEBEftQJXKywA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我在阿里写代码学会的六件事</title>
-    <updated>2021-01-10T14:15:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/u6WTtF47pNjdDSml2awM7Q</id>
-    <link href="https://mp.weixin.qq.com/s/u6WTtF47pNjdDSml2awM7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软2020开源回顾：止不住的挨骂，停不下的贡献</title>
-    <updated>2021-01-09T11:30:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/F0iFu1zrp0KscDnBeV8omw</id>
-    <link href="https://mp.weixin.qq.com/s/F0iFu1zrp0KscDnBeV8omw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>链家程序员怒删公司9TB数据，被判7年！</title>
-    <updated>2021-01-09T11:30:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/xKn4iCNx1TLFeTJadNyaWA</id>
-    <link href="https://mp.weixin.qq.com/s/xKn4iCNx1TLFeTJadNyaWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA母公司JetBrains遭美国调查，其是美国被大规模黑客攻击的源头？</title>
-    <updated>2021-01-08T17:41:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/XeOvbrZ50KDEKhzrkj-hCQ</id>
-    <link href="https://mp.weixin.qq.com/s/XeOvbrZ50KDEKhzrkj-hCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>美团技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:18:47+08:00</updated>
+  <updated>2021-01-14T20:27:15+08:00</updated>
   <subtitle>9000+工程师，如何支撑中国领先的生活服务电子商务平台？3.2亿消费者、500万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团大零售等技术团队的对外窗口，每周推送技术文章、活动及招聘信息等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于SSD的Kafka应用层缓存架构设计与实现</title>
+    <updated>2021-01-14T19:58:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/9fOjmpb-KV2dnV2WZbSmoQ</id>
+    <link href="https://mp.weixin.qq.com/s/9fOjmpb-KV2dnV2WZbSmoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>速度与压缩比如何兼得？压缩算法在构建部署中的优化</title>
     <updated>2021-01-07T19:22:45+08:00</updated>
@@ -110,27 +117,6 @@
     <updated>2020-11-05T19:34:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/r4b7OfM5BBjHZvoZU_yCcA</id>
     <link href="https://mp.weixin.qq.com/s/r4b7OfM5BBjHZvoZU_yCcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Native地图与Web融合技术的应用与实践</title>
-    <updated>2020-10-29T19:58:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/RKGJOtRMjTetTZRIGzqH_Q</id>
-    <link href="https://mp.weixin.qq.com/s/RKGJOtRMjTetTZRIGzqH_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团内部讲座｜北航全权：一种城市空中移动性管理分布式控制框架</title>
-    <updated>2020-10-29T19:58:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/pri6N7rK9FhOfqEFruY0uw</id>
-    <link href="https://mp.weixin.qq.com/s/pri6N7rK9FhOfqEFruY0uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播报名｜美团技术沙龙第57期：美团知识图谱实践—CIKM2020专场</title>
-    <updated>2020-10-29T19:58:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/pCZKBKBL2Up8Okay2OU23A</id>
-    <link href="https://mp.weixin.qq.com/s/pCZKBKBL2Up8Okay2OU23A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

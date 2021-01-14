@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Alibaba F2E | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:27:10+08:00</updated>
+  <updated>2021-01-14T20:25:55+08:00</updated>
   <subtitle>阿里巴巴经济体前端官方公众号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>媒体智能-淘宝直播流媒体互动实践 | D2 分享视频+文章</title>
+    <updated>2021-01-14T14:05:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/B1wTAN7OC-VG5wWCvRlIWQ</id>
+    <link href="https://mp.weixin.qq.com/s/B1wTAN7OC-VG5wWCvRlIWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>打造更稳定的 Serverless 业务 | D2 分享视频+文章</title>
     <updated>2021-01-13T11:27:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T15:16:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/_A0LATzlYsMtJQfPBGcHhA</id>
     <link href="https://mp.weixin.qq.com/s/_A0LATzlYsMtJQfPBGcHhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入剖析海量数据场景下的用户行为分析方案 | D2 分享视频+文章</title>
-    <updated>2020-12-28T14:16:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/0i7Le6l9a2n5FjIOvKXNSw</id>
-    <link href="https://mp.weixin.qq.com/s/0i7Le6l9a2n5FjIOvKXNSw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

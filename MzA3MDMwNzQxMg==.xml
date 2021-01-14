@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>KoolShare | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-07T11:17:52+08:00</updated>
+  <updated>2021-01-14T20:29:20+08:00</updated>
   <subtitle>向论坛会员推送精华贴，最新科技新闻</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>1月14日直播预告，ASUS RT-AX68U开箱拆解</title>
+    <updated>2021-01-14T17:06:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/obX-bA_Yy6F17NDKGHNseQ</id>
+    <link href="https://mp.weixin.qq.com/s/obX-bA_Yy6F17NDKGHNseQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>12月8日直播公告，Synology DS1621XS+及DSM7.0重点功能演示</title>
     <updated>2020-12-07T09:19:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-29T09:32:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/dT5YugSyZs8T-tkd3J5FJA</id>
     <link href="https://mp.weixin.qq.com/s/dT5YugSyZs8T-tkd3J5FJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10月28日直播预告，QNAP TS-253D和TS-653D开箱和拆解</title>
-    <updated>2020-10-28T10:24:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/26VVRJdpCS71ZMmi-q5wOQ</id>
-    <link href="https://mp.weixin.qq.com/s/26VVRJdpCS71ZMmi-q5wOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

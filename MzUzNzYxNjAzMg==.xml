@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:42:57+08:00</updated>
+  <updated>2021-01-14T20:40:54+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>解读容器的 2020：寻找云原生的下一站</title>
+    <updated>2021-01-14T19:00:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/es_7gB4XbN0-cKlf0yXfrw</id>
+    <link href="https://mp.weixin.qq.com/s/es_7gB4XbN0-cKlf0yXfrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OpenYurt v0.3.0 重磅发布：全面提升边缘场景下应用部署效率</title>
     <updated>2021-01-13T17:17:21+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-04T20:40:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/-5mRxIlmNcEOyH05a45c5w</id>
     <link href="https://mp.weixin.qq.com/s/-5mRxIlmNcEOyH05a45c5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员修炼之路：你该知道的 7 个必经阶段</title>
-    <updated>2021-01-01T20:08:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/H7L3LVwrVVOUza5bTfB96A</id>
-    <link href="https://mp.weixin.qq.com/s/H7L3LVwrVVOUza5bTfB96A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我参与阿里巴巴 ASoC-Seata 的一些感悟</title>
-    <updated>2021-01-01T20:08:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/6DfHtHzQ7S-HtEB6hGaqvw</id>
-    <link href="https://mp.weixin.qq.com/s/6DfHtHzQ7S-HtEB6hGaqvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

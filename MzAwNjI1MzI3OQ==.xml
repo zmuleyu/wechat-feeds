@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端新世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:40:28+08:00</updated>
+  <updated>2021-01-14T20:26:49+08:00</updated>
   <subtitle>分享HTML5/CSS3技术；jQuery插件；Vue、React等前端开发组件</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Vue.js 圆形CSS3渐变色拾取器</title>
+    <updated>2021-01-14T17:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/hzGRW3rcJe2X46L2_jqQ_Q</id>
+    <link href="https://mp.weixin.qq.com/s/hzGRW3rcJe2X46L2_jqQ_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Vue.js任务列表 可本地存储任务数据</title>
+    <updated>2021-01-14T17:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/bZBsmy3oLSy55iBDnvFc8g</id>
+    <link href="https://mp.weixin.qq.com/s/bZBsmy3oLSy55iBDnvFc8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>HTML5 WebGL 水波荡漾动画，超逼真</title>
     <updated>2021-01-04T16:40:25+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-11T19:50:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/yxOD37_7z2cQX9QqEdOIpg</id>
     <link href="https://mp.weixin.qq.com/s/yxOD37_7z2cQX9QqEdOIpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JavaScript 中的奇葩知识</title>
-    <updated>2020-12-10T12:47:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/9e8O_9rsd-Ry2sq6JvqaBA</id>
-    <link href="https://mp.weixin.qq.com/s/9e8O_9rsd-Ry2sq6JvqaBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>太好用了！这个JavaScript颜色选择器值得推荐</title>
-    <updated>2020-12-10T12:47:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/U6EKVdw88hWkPe8M1hyeXA</id>
-    <link href="https://mp.weixin.qq.com/s/U6EKVdw88hWkPe8M1hyeXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
