@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nodejs技术栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:05:51+08:00</updated>
+  <updated>2021-01-14T12:14:36+08:00</updated>
   <subtitle>聚集所有 Nodejs 爱好者，共建互帮互助的 Nodejs 技术栈交流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Qcon 分享 | 从 NodeX 到 Serverless, 滴滴前端服务工程化实践之路</title>
+    <updated>2021-01-13T20:21:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/84fog_u1sOksajqclA5kZQ</id>
+    <link href="https://mp.weixin.qq.com/s/84fog_u1sOksajqclA5kZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js 搭建一个 API 接口服务（实战）</title>
     <updated>2021-01-12T20:58:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-03T09:22:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/Bg-eYyHJ35CfRKUS4Eqruw</id>
     <link href="https://mp.weixin.qq.com/s/Bg-eYyHJ35CfRKUS4Eqruw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Node.js 开发者，新年快乐！</title>
-    <updated>2021-01-01T11:02:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/auP_P7XH0Qkfhri11KnRqw</id>
-    <link href="https://mp.weixin.qq.com/s/auP_P7XH0Qkfhri11KnRqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:50:35+08:00</updated>
+  <updated>2021-01-14T11:58:03+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最强的并发架构，没有之一！</title>
+    <updated>2021-01-13T21:50:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/LBX3pJEuUJWX1OsScJ5bxg</id>
+    <link href="https://mp.weixin.qq.com/s/LBX3pJEuUJWX1OsScJ5bxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Node.js 模块化你所需要知道的事</title>
+    <updated>2021-01-13T21:50:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/XkFcXUcsTGAJ2sLQBBdEew</id>
+    <link href="https://mp.weixin.qq.com/s/XkFcXUcsTGAJ2sLQBBdEew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再见，戴威！再见，小黄车！</title>
     <updated>2021-01-12T19:56:42+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2021-01-04T20:20:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/7z4-8AEDW5JdQO_6-RhXfg</id>
     <link href="https://mp.weixin.qq.com/s/7z4-8AEDW5JdQO_6-RhXfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手教你配置VS Code远程开发工具，工作效率提升N倍</title>
-    <updated>2021-01-03T18:21:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/P-PvyJOkxgoDPaLU5jubRA</id>
-    <link href="https://mp.weixin.qq.com/s/P-PvyJOkxgoDPaLU5jubRA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

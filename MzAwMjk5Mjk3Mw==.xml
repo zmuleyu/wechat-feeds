@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武哥聊编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:47:22+08:00</updated>
+  <updated>2021-01-14T11:54:34+08:00</updated>
   <subtitle>在这里，每天进步一点点。你若对得起时间，时间便对得起你！感谢关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Oracle要退位了？最强数据库要换Mysql了，就很牛逼</title>
+    <updated>2021-01-13T22:31:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZvITZdRMouFTncTj0Gktig</id>
+    <link href="https://mp.weixin.qq.com/s/ZvITZdRMouFTncTj0Gktig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何用 Redis 统计独立用户访问量？</title>
+    <updated>2021-01-13T22:31:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/NG6V1oYRqgSsshhc8YULFA</id>
+    <link href="https://mp.weixin.qq.com/s/NG6V1oYRqgSsshhc8YULFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>卧槽！又发现一款牛逼的 API 敏捷开发工具</title>
     <updated>2021-01-13T02:34:47+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-05T02:27:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/5ztYIgBEKPvTxT7GvC1yPg</id>
     <link href="https://mp.weixin.qq.com/s/5ztYIgBEKPvTxT7GvC1yPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神奇的 SQL 之 HAVING → 容易被轻视的主角</title>
-    <updated>2021-01-04T11:47:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/6PQUTHGiNXt72QGMCwQc9A</id>
-    <link href="https://mp.weixin.qq.com/s/6PQUTHGiNXt72QGMCwQc9A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

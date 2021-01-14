@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据私房菜 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T08:05:13+08:00</updated>
+  <updated>2021-01-14T12:25:35+08:00</updated>
   <subtitle>大数据相关技术文章不定期分享，希望各位看官能有所收获！！！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -43,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>解除限制！阿里、美团面试真题限时下载！</title>
-    <updated>2021-01-07T09:50:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/hsjlz8t_r7s01_wa7JD7TQ</id>
-    <link href="https://mp.weixin.qq.com/s/hsjlz8t_r7s01_wa7JD7TQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>一文熟悉Presto(万字长文，建议收藏)</title>
     <updated>2021-01-05T19:44:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/igx2DF3MtW1BAM0HYIRpnw</id>
@@ -64,17 +57,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>如何搭建一个PB级大数据中台？我之前是这么搞的</title>
-    <updated>2021-01-03T15:38:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/1jRxmC4S0V2kL3ErwromhQ</id>
-    <link href="https://mp.weixin.qq.com/s/1jRxmC4S0V2kL3ErwromhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>让你看透世界的8个底层逻辑</title>
     <updated>2021-01-03T12:22:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/pnyzF4C8sLQGPQjwEHxHqw</id>
     <link href="https://mp.weixin.qq.com/s/pnyzF4C8sLQGPQjwEHxHqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021最新最全大数据面试真题(附答案)</title>
+    <updated>2021-01-02T16:20:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/h449KPk83PE3XmqnNXnw8A</id>
+    <link href="https://mp.weixin.qq.com/s/h449KPk83PE3XmqnNXnw8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2020大数据私房菜小总结</title>
+    <updated>2021-01-01T00:03:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-01:/s/OeK_erM7Tw1siDpwUb5wog</id>
+    <link href="https://mp.weixin.qq.com/s/OeK_erM7Tw1siDpwUb5wog" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

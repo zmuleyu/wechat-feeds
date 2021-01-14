@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>卤蛋实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T02:25:38+08:00</updated>
+  <updated>2021-01-14T12:11:31+08:00</updated>
   <subtitle>对前端技术和图形学有些微小的研究</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【十天自制软渲染器】DAY 01：图形学学习建议与环境搭建</title>
+    <updated>2021-01-14T00:22:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/p-eHZAGkdFRqNa7pNyGW2w</id>
+    <link href="https://mp.weixin.qq.com/s/p-eHZAGkdFRqNa7pNyGW2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从回形针的互动视频谈谈交互教程的发展</title>
     <updated>2020-12-22T22:44:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-26T21:43:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-26:/s/v2fHFtuX1fstaQYJ9sfxHA</id>
     <link href="https://mp.weixin.qq.com/s/v2fHFtuX1fstaQYJ9sfxHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HTTP 规范中的那些暗坑</title>
-    <updated>2020-05-28T10:30:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-05-28:/s/RUpn9TLJSsaSN6lqJVr1eg</id>
-    <link href="https://mp.weixin.qq.com/s/RUpn9TLJSsaSN6lqJVr1eg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

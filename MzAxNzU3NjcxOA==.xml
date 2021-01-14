@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T02:26:01+08:00</updated>
+  <updated>2021-01-14T12:07:43+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>别天真，Java工程师哪能绕过“高并发”这道坎？</title>
+    <updated>2021-01-13T23:08:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/-XUpasS2cOcPaAu-8qgnfg</id>
+    <link href="https://mp.weixin.qq.com/s/-XUpasS2cOcPaAu-8qgnfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>详解光模块基础知识（附PPT下载）</title>
+    <updated>2021-01-13T23:08:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cCoWwArFJitqa4tVeFNLyA</id>
+    <link href="https://mp.weixin.qq.com/s/cCoWwArFJitqa4tVeFNLyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深度报告：CPU研究框架（115页PPT）</title>
     <updated>2021-01-12T23:47:15+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2021-01-04T22:01:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/bIcT-fcaJqNXG471KVbk6Q</id>
     <link href="https://mp.weixin.qq.com/s/bIcT-fcaJqNXG471KVbk6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重磅：一家城商行外部数据管理平台诞生</title>
-    <updated>2021-01-03T22:25:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/MsjTpuD3LCauC4GpTrsAMA</id>
-    <link href="https://mp.weixin.qq.com/s/MsjTpuD3LCauC4GpTrsAMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货：ARM架构代码移植实战分享</title>
-    <updated>2021-01-03T22:25:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/0t_nXcT51cFsKKwz2_MTyA</id>
-    <link href="https://mp.weixin.qq.com/s/0t_nXcT51cFsKKwz2_MTyA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA架构日记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:48:24+08:00</updated>
+  <updated>2021-01-14T12:00:04+08:00</updated>
   <subtitle>致力于高质量 技术文章原创分享，拒绝水文、软文。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>5分钟拥抱云原生 | SpringBoot 迁移至 Quarkus</title>
+    <updated>2021-01-13T20:29:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/oQyy7hDnykSTPx6gQ5yYcw</id>
+    <link href="https://mp.weixin.qq.com/s/oQyy7hDnykSTPx6gQ5yYcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringCloud LoadBalancer灰度策略实现</title>
     <updated>2021-01-11T23:44:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T10:59:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/G6bBhVDqfNm4PWCEajP37A</id>
     <link href="https://mp.weixin.qq.com/s/G6bBhVDqfNm4PWCEajP37A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「微服务设计之禅」隔离模式</title>
-    <updated>2020-12-13T22:32:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/ObCAgeBRJhJyJZ_ySCOSZw</id>
-    <link href="https://mp.weixin.qq.com/s/ObCAgeBRJhJyJZ_ySCOSZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

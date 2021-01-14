@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>恩智浦MCU加油站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:37:47+08:00</updated>
+  <updated>2021-01-14T11:58:03+08:00</updated>
   <subtitle>迎来到恩智浦MCU加油站，在这里您可以了解到关于恩智浦MCU产品的各种信息，开发技巧、各种教程文档、研讨会培训课程的预告等，我们还会与您分享最新的产品和产业动态。 如果您对恩智浦的产品和本公众号，有什么好的建议和意见，可以在此留言或来稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CANopen在LPC5500系列上的实现</title>
+    <updated>2021-01-13T15:55:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/TCDNNQmtBwUinEQo05bnbw</id>
+    <link href="https://mp.weixin.qq.com/s/TCDNNQmtBwUinEQo05bnbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在i.MX RT1170上使用Ozone调试器</title>
+    <updated>2021-01-13T15:55:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/V4DOMtcnmDiuYPcAGCU6mQ</id>
+    <link href="https://mp.weixin.qq.com/s/V4DOMtcnmDiuYPcAGCU6mQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈LPC5500上面的摄像头接口</title>
     <updated>2021-01-06T17:56:28+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-04T17:39:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/ZkmKtus_7NJngt77kmklQg</id>
     <link href="https://mp.weixin.qq.com/s/ZkmKtus_7NJngt77kmklQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LPC55S69物趣系列之③： 多物体识别！</title>
-    <updated>2020-11-04T17:39:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/Vt-hmYSn-i-yficpFY0fsw</id>
-    <link href="https://mp.weixin.qq.com/s/Vt-hmYSn-i-yficpFY0fsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在KW3x上产生真伪随机数</title>
-    <updated>2020-10-28T23:03:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/YvSYaxChy4ZD-QV8YlEdcw</id>
-    <link href="https://mp.weixin.qq.com/s/YvSYaxChy4ZD-QV8YlEdcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

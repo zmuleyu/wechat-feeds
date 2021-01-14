@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T13:47:05+08:00</updated>
+  <updated>2021-01-14T12:05:26+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>重磅！400万Docker镜像中，51%的镜像存在高危漏洞</title>
+    <updated>2021-01-14T10:50:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/-8EeZStp0RUupOQCPpu7Ag</id>
+    <link href="https://mp.weixin.qq.com/s/-8EeZStp0RUupOQCPpu7Ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数字化时代，如何构建下一代研发协作工具平台？</title>
+    <updated>2021-01-14T10:50:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/mSiGj6IJ4Lf0Rv6PfsnjBA</id>
+    <link href="https://mp.weixin.qq.com/s/mSiGj6IJ4Lf0Rv6PfsnjBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>网易严选如何治理成百上千的服务？</title>
     <updated>2021-01-13T11:38:19+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-05T11:48:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/4MMgeYksOcMD6oIB6g0Gbw</id>
     <link href="https://mp.weixin.qq.com/s/4MMgeYksOcMD6oIB6g0Gbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>4种主流的API架构风格对比</title>
-    <updated>2021-01-04T11:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/7KzkMiBGIBxOH4RQ1vIKjw</id>
-    <link href="https://mp.weixin.qq.com/s/7KzkMiBGIBxOH4RQ1vIKjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构及其最重要的10个设计模式</title>
-    <updated>2021-01-04T11:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/j73frUl1R8fsJbPTQX8qRg</id>
-    <link href="https://mp.weixin.qq.com/s/j73frUl1R8fsJbPTQX8qRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

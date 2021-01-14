@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>持续交付2.0 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:57:28+08:00</updated>
+  <updated>2021-01-14T12:10:30+08:00</updated>
   <subtitle>组织管理、团队管理、工程效能相关技术与案例分析</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>扎堆编程：一次重构之旅</title>
+    <updated>2021-01-13T21:29:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZdJaCnZsRhrbZoBdwNCsvA</id>
+    <link href="https://mp.weixin.qq.com/s/ZdJaCnZsRhrbZoBdwNCsvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再谈谷歌如何做发布</title>
     <updated>2021-01-11T15:34:38+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T16:33:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/shDrauDMmrGXYxlrJNx_qw</id>
     <link href="https://mp.weixin.qq.com/s/shDrauDMmrGXYxlrJNx_qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>测试替身对象的分类与最佳实践</title>
-    <updated>2020-12-22T00:53:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/6hvmzqDCpWJp7i0sazdgUQ</id>
-    <link href="https://mp.weixin.qq.com/s/6hvmzqDCpWJp7i0sazdgUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

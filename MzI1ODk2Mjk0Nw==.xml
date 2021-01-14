@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端桃园 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T16:35:25+08:00</updated>
+  <updated>2021-01-14T11:57:43+08:00</updated>
   <subtitle>一个有温度的前端号，不止前端，互联网前沿知识，个人随想，认知提升，学习方法，成为你想成为的那个样子</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代</title>
+    <updated>2021-01-14T09:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/RYHfn3OLJX802YmWtYJxKg</id>
+    <link href="https://mp.weixin.qq.com/s/RYHfn3OLJX802YmWtYJxKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Vue CLI 是如何实现的 -- 终端命令行工具篇</title>
     <updated>2021-01-13T09:36:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T00:04:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/oMqrmJKXuVJJS0IOV5o6uw</id>
     <link href="https://mp.weixin.qq.com/s/oMqrmJKXuVJJS0IOV5o6uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TypeScript：一个好泛型的价值</title>
-    <updated>2020-12-23T09:21:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/WE8cJlfv9t__vddufKI2mw</id>
-    <link href="https://mp.weixin.qq.com/s/WE8cJlfv9t__vddufKI2mw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

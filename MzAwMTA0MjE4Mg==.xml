@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构算法 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:59:20+08:00</updated>
+  <updated>2021-01-14T12:07:20+08:00</updated>
   <subtitle>分享典型互联网架构设计，底层原理，数据结构和程序算法！聚合了阿里，美团，淘宝，支付宝等公司技术架构迭代之路，涵盖大电商，大物流，大金融，大供应链，大游戏等领域典型算法解析！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>别再用那些快淘汰的技术了！2021年顶级 Java 框架来了</title>
+    <updated>2021-01-14T00:11:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/BqAtwKYnzsMQNzYvi0b64w</id>
+    <link href="https://mp.weixin.qq.com/s/BqAtwKYnzsMQNzYvi0b64w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>双十一秒杀架构模型设计</title>
+    <updated>2021-01-14T00:11:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/q9C4NmhhOoUemRVcQa8XNg</id>
+    <link href="https://mp.weixin.qq.com/s/q9C4NmhhOoUemRVcQa8XNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拼多多再起波澜！某程序员匿名发布拼多多楼下救护车照片，却被揪出开除！</title>
+    <updated>2021-01-14T00:11:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/xOmmFSm7fFDQ34WlibJVdg</id>
+    <link href="https://mp.weixin.qq.com/s/xOmmFSm7fFDQ34WlibJVdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！</title>
     <updated>2021-01-13T02:39:32+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-07T00:34:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/O6-XDQAZhj3bN2Oj8N2ChQ</id>
     <link href="https://mp.weixin.qq.com/s/O6-XDQAZhj3bN2Oj8N2ChQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干掉微服务：阿里云专家首次揭秘腾讯、阿里万亿级架构实战！</title>
-    <updated>2021-01-06T01:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ln-WzNXuHSw3C3-GKCLJ0Q</id>
-    <link href="https://mp.weixin.qq.com/s/ln-WzNXuHSw3C3-GKCLJ0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>短URL服务的设计以及实现</title>
-    <updated>2021-01-06T01:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/aO-hMeTTUc3fyof-2nYirw</id>
-    <link href="https://mp.weixin.qq.com/s/aO-hMeTTUc3fyof-2nYirw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前阿里程序员吐槽女友败家：开酒店必须400元起步，工资只有自己的1/3</title>
-    <updated>2021-01-06T01:11:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/vpJfjRs-frdCx6uTta-V7Q</id>
-    <link href="https://mp.weixin.qq.com/s/vpJfjRs-frdCx6uTta-V7Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

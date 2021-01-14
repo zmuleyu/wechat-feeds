@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:47:03+08:00</updated>
+  <updated>2021-01-14T11:54:09+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>把“烦恼”放进看板，开源免费的项目管理工具来帮你啦！</title>
+    <updated>2021-01-13T17:30:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/zoAlffSSdUUAXOCVM2lI-A</id>
+    <link href="https://mp.weixin.qq.com/s/zoAlffSSdUUAXOCVM2lI-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我所有 Python 项目，源码全在这了！</title>
     <updated>2021-01-12T19:33:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T17:31:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/D8pGoyK3O4bXSmPJxjM7Yw</id>
     <link href="https://mp.weixin.qq.com/s/D8pGoyK3O4bXSmPJxjM7Yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国产的开源数据库——GitHub 热点速览 Vol.52</title>
-    <updated>2020-12-28T21:59:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/NmgQaYCA-5nQvfsf31I4CA</id>
-    <link href="https://mp.weixin.qq.com/s/NmgQaYCA-5nQvfsf31I4CA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

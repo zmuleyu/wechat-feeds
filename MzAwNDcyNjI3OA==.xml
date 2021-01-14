@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:11:54+08:00</updated>
+  <updated>2021-01-14T12:21:49+08:00</updated>
   <subtitle>专注于Web前端技术文章分享，包含JavaScript、HTML5、CSS3等前端基础知识，以及Vue.js,React,Augular等前端框架</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>总结了工作中常用的 ES6 代码片段，整理后的 24 个值得拥有</title>
+    <updated>2021-01-13T17:39:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/fbm_gyVTE5i3SpTl2me1tw</id>
+    <link href="https://mp.weixin.qq.com/s/fbm_gyVTE5i3SpTl2me1tw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端入门容易，进阶难</title>
     <updated>2021-01-12T19:26:14+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-04T17:30:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/_OZ2MDP7vLruCTY6Kk95pA</id>
     <link href="https://mp.weixin.qq.com/s/_OZ2MDP7vLruCTY6Kk95pA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue Router 4.0 正式发布！焕然一新。</title>
-    <updated>2021-01-03T22:05:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/gDufb0YqkpdiPc3gdmUKpA</id>
-    <link href="https://mp.weixin.qq.com/s/gDufb0YqkpdiPc3gdmUKpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

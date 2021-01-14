@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T16:56:49+08:00</updated>
+  <updated>2021-01-14T12:23:35+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>[译]Go 语言增加泛型的提案</title>
+    <updated>2021-01-13T22:32:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/stVMoMoOK0wEmbPey8CL6Q</id>
+    <link href="https://mp.weixin.qq.com/s/stVMoMoOK0wEmbPey8CL6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go 开源说第三期：KubeVela 云原生应用平台</title>
     <updated>2021-01-13T16:17:55+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-29T11:59:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/d502sQMSJ4CV0Lrf0t2sXA</id>
     <link href="https://mp.weixin.qq.com/s/d502sQMSJ4CV0Lrf0t2sXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GO编程模式系列（一）：切片，接口，时间和性能</title>
-    <updated>2020-12-27T18:37:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/0yLVkQ4kJLlvk5Vfz0lQkA</id>
-    <link href="https://mp.weixin.qq.com/s/0yLVkQ4kJLlvk5Vfz0lQkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

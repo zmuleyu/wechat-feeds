@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>多颗糖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:49:55+08:00</updated>
+  <updated>2021-01-14T12:01:11+08:00</updated>
   <subtitle>分布式系统|数据库|个人成长|时间管理|疗愈空间。我想要说的，前人们都说过了。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>软件架构基础 3: 什么是好的模块化代码？高内聚、低耦合如何衡量？</title>
+    <updated>2021-01-13T22:30:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/aa_GEMNFugjj6UWF7-xl9w</id>
+    <link href="https://mp.weixin.qq.com/s/aa_GEMNFugjj6UWF7-xl9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>软件架构基础 2: 架构思维</title>
     <updated>2021-01-07T20:51:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-07T22:09:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-07:/s/V5_zNL2Je7iKnQxGECI_Cw</id>
     <link href="https://mp.weixin.qq.com/s/V5_zNL2Je7iKnQxGECI_Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Raft 作者亲自出的 Raft 试题，你能做对几道？</title>
-    <updated>2020-10-25T17:23:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-25:/s/RVCnyVwcjeuG5z79WsMbgA</id>
-    <link href="https://mp.weixin.qq.com/s/RVCnyVwcjeuG5z79WsMbgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

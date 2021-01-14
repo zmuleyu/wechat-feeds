@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:14:53+08:00</updated>
+  <updated>2021-01-14T12:25:35+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OpenYurt v0.3.0 重磅发布：全面提升边缘场景下应用部署效率</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/SL5d2Gr-2VpOev6_XsdBsA</id>
+    <link href="https://mp.weixin.qq.com/s/SL5d2Gr-2VpOev6_XsdBsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Volcano架构设计与原理介绍</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6kxQ28uAXc8SjUcMRFcLBQ</id>
+    <link href="https://mp.weixin.qq.com/s/6kxQ28uAXc8SjUcMRFcLBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【从0到1学习边缘容器系列-4】弱网环境利器之分布式节点状态判定机制</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/GLjVlXh3mensfRA0YTNNiw</id>
+    <link href="https://mp.weixin.qq.com/s/GLjVlXh3mensfRA0YTNNiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文搞懂Kubernetes网络策略（下）</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/YHNMrrqQm6dIGjPzQMK1rA</id>
+    <link href="https://mp.weixin.qq.com/s/YHNMrrqQm6dIGjPzQMK1rA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大规模微服务利器：eBPF + Kubernetes 介绍</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/1ElSA0AB4RL-SX5yhFQNoA</id>
+    <link href="https://mp.weixin.qq.com/s/1ElSA0AB4RL-SX5yhFQNoA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 原生 CI/CD 构建框架 Argo 详解！</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/5L8O8-2zV2vUz1vugk0euQ</id>
+    <link href="https://mp.weixin.qq.com/s/5L8O8-2zV2vUz1vugk0euQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Shell-Operator，让 Pod 继承节点标签</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/BqEpX5LKFAOhUV5e6EuGZA</id>
+    <link href="https://mp.weixin.qq.com/s/BqEpX5LKFAOhUV5e6EuGZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CKS “通关宝典”，Kubernetes安全知识精要课程LFS260正式上线</title>
+    <updated>2021-01-14T11:24:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/t8ns762x5oNm0MwO8lnSKg</id>
+    <link href="https://mp.weixin.qq.com/s/t8ns762x5oNm0MwO8lnSKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你的Kubernetes成熟度是多少？</title>
     <updated>2021-01-13T11:44:27+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-11T11:13:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/w1zbXkrDUvSvQD5q05CZ4A</id>
     <link href="https://mp.weixin.qq.com/s/w1zbXkrDUvSvQD5q05CZ4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>周五截止，你填了吗？10人将获赠CNCF商店$100美元礼券！</title>
-    <updated>2021-01-09T10:36:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/U2z41DC8EbqM_h1n-9XKuA</id>
-    <link href="https://mp.weixin.qq.com/s/U2z41DC8EbqM_h1n-9XKuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2019年CNCF中国云原生调查报告</title>
-    <updated>2021-01-09T10:36:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/dOBX_ZN0so6jLMjnnWhCbg</id>
-    <link href="https://mp.weixin.qq.com/s/dOBX_ZN0so6jLMjnnWhCbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CNCF Weekly 21-1</title>
-    <updated>2021-01-08T10:52:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/a6lAwPXELN8ASBJh6wgf_Q</id>
-    <link href="https://mp.weixin.qq.com/s/a6lAwPXELN8ASBJh6wgf_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>K8s 调度系统由浅入深系列：简介</title>
-    <updated>2021-01-08T10:13:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/7vpVVQwe9_AdLXWVUFax1w</id>
-    <link href="https://mp.weixin.qq.com/s/7vpVVQwe9_AdLXWVUFax1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今天中午有直播｜Envoy/Istio WebAssembly 扩展实现原理</title>
-    <updated>2021-01-08T10:13:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/GoVn-C0kfQ-7oU2FwzMrcQ</id>
-    <link href="https://mp.weixin.qq.com/s/GoVn-C0kfQ-7oU2FwzMrcQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 OpenEBS 实现 Local PV 动态持久化存储</title>
-    <updated>2021-01-08T10:13:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/wM5hQ8oRkIgyaRZT54cIHg</id>
-    <link href="https://mp.weixin.qq.com/s/wM5hQ8oRkIgyaRZT54cIHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KubeTEE = Kubernetes + TEE</title>
-    <updated>2021-01-08T10:13:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/earWf6wan5CdeOnigU0PcA</id>
-    <link href="https://mp.weixin.qq.com/s/earWf6wan5CdeOnigU0PcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欢迎Flagger加入Flux项目</title>
-    <updated>2021-01-08T10:13:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/t_yWQCP27lrxWJarmLs4pw</id>
-    <link href="https://mp.weixin.qq.com/s/t_yWQCP27lrxWJarmLs4pw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

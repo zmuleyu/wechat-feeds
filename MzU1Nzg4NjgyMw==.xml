@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:14:45+08:00</updated>
+  <updated>2021-01-14T12:25:19+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐一款 IDEA 神器 ，人工智能帮你写代码，再也不用加班了！！</title>
+    <updated>2021-01-13T20:50:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/VuFcF4GtfePvgx3aEWKLrw</id>
+    <link href="https://mp.weixin.qq.com/s/VuFcF4GtfePvgx3aEWKLrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 解决跨域问题的 3 种方案！</title>
+    <updated>2021-01-13T20:50:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/254H2bPRiK83-YpmKvpYOA</id>
+    <link href="https://mp.weixin.qq.com/s/254H2bPRiK83-YpmKvpYOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>还在使用Swagger？推荐几款接口文档生成神器！</title>
     <updated>2021-01-12T20:16:15+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为什么全网都在劝你学Java、Python，而不是C++？</title>
-    <updated>2021-01-07T22:08:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/iNvMGo0265GIdNTd77-6Cw</id>
-    <link href="https://mp.weixin.qq.com/s/iNvMGo0265GIdNTd77-6Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Docker不香吗？为什么还要用k8s？</title>
     <updated>2021-01-07T22:08:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/vF4Hd-ItYx8LxJ4EYoa0Fw</id>
@@ -96,13 +103,6 @@
     <updated>2021-01-04T21:04:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ucEFKf-5T-Fsfr27oFHTbQ</id>
     <link href="https://mp.weixin.qq.com/s/ucEFKf-5T-Fsfr27oFHTbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据库迁移搞炸了！没用这款开源神器的锅？</title>
-    <updated>2021-01-03T14:34:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/2IhoZ1rMy3Hi9zXvvxjF2Q</id>
-    <link href="https://mp.weixin.qq.com/s/2IhoZ1rMy3Hi9zXvvxjF2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

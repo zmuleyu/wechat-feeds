@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T13:37:10+08:00</updated>
+  <updated>2021-01-14T11:53:49+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink 流批一体太强了！Spark Streaming 根本不是对手？</title>
+    <updated>2021-01-14T00:12:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/9tESUv-QIGUSA5mQUnolaQ</id>
+    <link href="https://mp.weixin.qq.com/s/9tESUv-QIGUSA5mQUnolaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅淡 Apache Kylin 与 ClickHouse 的对比</title>
+    <updated>2021-01-14T00:12:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/FOD80FrOnNTyDi-V7sTGUw</id>
+    <link href="https://mp.weixin.qq.com/s/FOD80FrOnNTyDi-V7sTGUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为免费培养2000名大数据开发者！</title>
     <updated>2021-01-13T12:12:59+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2021-01-04T22:47:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/0R4-uuNRhx7Q7NPs6BvftA</id>
     <link href="https://mp.weixin.qq.com/s/0R4-uuNRhx7Q7NPs6BvftA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据库范式的理解</title>
-    <updated>2021-01-03T21:30:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/jO6ZdpHusqFC4g6jrj2tIg</id>
-    <link href="https://mp.weixin.qq.com/s/jO6ZdpHusqFC4g6jrj2tIg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

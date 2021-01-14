@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:04:02+08:00</updated>
+  <updated>2021-01-14T12:12:52+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>好吧，Uber 不使用 Elasticsearch，自己用 Go 造了个轮子</title>
+    <updated>2021-01-14T09:23:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/5tmQLQexOXi5QxPBT-9pfw</id>
+    <link href="https://mp.weixin.qq.com/s/5tmQLQexOXi5QxPBT-9pfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于 Go1.16 实现静态文件的 HTTP Cache</title>
+    <updated>2021-01-14T09:23:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/nmgCyv9o_VDlBHwmUpGPSA</id>
+    <link href="https://mp.weixin.qq.com/s/nmgCyv9o_VDlBHwmUpGPSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Go 和 ReactJS 构建聊天系统（三）：前端实现</title>
+    <updated>2021-01-14T09:23:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Yqh7eNaQnzWcJgiqad_slw</id>
+    <link href="https://mp.weixin.qq.com/s/Yqh7eNaQnzWcJgiqad_slw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang 时间操作大全</title>
+    <updated>2021-01-14T09:23:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/QKo7UpzW4dX_tT8Dj7SHgg</id>
+    <link href="https://mp.weixin.qq.com/s/QKo7UpzW4dX_tT8Dj7SHgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入解读 MySQL 架构设计原理，Go工程师必知必会！</title>
     <updated>2021-01-12T22:53:52+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T23:42:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/xNmhk_ZI38MgJt9rRZz7LA</id>
     <link href="https://mp.weixin.qq.com/s/xNmhk_ZI38MgJt9rRZz7LA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知乎问答：为什么 Go 的 Web 框架速度还不如 Java？</title>
-    <updated>2021-01-07T22:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/i2sPVjhR4Fl3xGif2VyMvw</id>
-    <link href="https://mp.weixin.qq.com/s/i2sPVjhR4Fl3xGif2VyMvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go - 统一定义 API 错误码</title>
-    <updated>2021-01-07T22:50:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/C4kjPcYNtq32rwGR2CyYug</id>
-    <link href="https://mp.weixin.qq.com/s/C4kjPcYNtq32rwGR2CyYug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>说说你为什么选择学 Go</title>
-    <updated>2021-01-06T23:17:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/EZzfq3NUPO2qhZEXjFv-uA</id>
-    <link href="https://mp.weixin.qq.com/s/EZzfq3NUPO2qhZEXjFv-uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解 Go 语言的类型</title>
-    <updated>2021-01-06T23:17:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Bm5IpdsHjYhLmmX_cl8cGw</id>
-    <link href="https://mp.weixin.qq.com/s/Bm5IpdsHjYhLmmX_cl8cGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

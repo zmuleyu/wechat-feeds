@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端布道师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:49:24+08:00</updated>
+  <updated>2021-01-14T11:56:37+08:00</updated>
   <subtitle>分享前端最新技术、大厂面试题，聊点程序员轶事、职场感悟，你想要的都在这里.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我在拼夕夕的这三年</title>
+    <updated>2021-01-13T19:47:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/wSIqyhleU3HfWlabGqzulQ</id>
+    <link href="https://mp.weixin.qq.com/s/wSIqyhleU3HfWlabGqzulQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在P站做web前端，是种怎样的体验？</title>
     <updated>2021-01-13T08:11:49+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-30T22:19:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/MieCNllyKZUKQYrDHAIqZw</id>
     <link href="https://mp.weixin.qq.com/s/MieCNllyKZUKQYrDHAIqZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何打造一支拖业务后腿的技术团队？</title>
-    <updated>2020-12-28T20:26:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/JGJ1Tw10cqbTBRQdILFCpA</id>
-    <link href="https://mp.weixin.qq.com/s/JGJ1Tw10cqbTBRQdILFCpA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

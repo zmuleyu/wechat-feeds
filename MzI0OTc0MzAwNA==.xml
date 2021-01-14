@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>裸睡的猪 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T13:40:20+08:00</updated>
+  <updated>2021-01-14T11:57:00+08:00</updated>
   <subtitle>猪哥的Python入门教程</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>别再问我Python打包成exe了！（终极版）</title>
+    <updated>2021-01-14T11:25:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/yV9bP-bvrm-D96uwVfpSTA</id>
+    <link href="https://mp.weixin.qq.com/s/yV9bP-bvrm-D96uwVfpSTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>搞技术永远绕不开MySQL？</title>
     <updated>2021-01-13T11:43:28+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2021-01-05T11:31:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/GTZ_R0nZNAQYPDMNAiTUGA</id>
     <link href="https://mp.weixin.qq.com/s/GTZ_R0nZNAQYPDMNAiTUGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>吐槽：Python正在从简明转向臃肿！</title>
-    <updated>2021-01-04T11:51:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/SuIRUEdwbfWzxI--W65oWg</id>
-    <link href="https://mp.weixin.qq.com/s/SuIRUEdwbfWzxI--W65oWg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

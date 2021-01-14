@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>嘶吼专业版 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T13:49:50+08:00</updated>
+  <updated>2021-01-14T12:08:34+08:00</updated>
   <subtitle>为您带来每日最新最专业的互联网安全专业信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>无孔不入：德国媒体遭受了全国性勒索软件的攻击</title>
+    <updated>2021-01-14T10:51:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/x9TCBnhlBlTUSahaxeHfEw</id>
+    <link href="https://mp.weixin.qq.com/s/x9TCBnhlBlTUSahaxeHfEw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>APT37使用VBA自解码技术注入RokRat</title>
+    <updated>2021-01-14T10:51:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/AphLM6VUFZEGercP9-YtmA</id>
+    <link href="https://mp.weixin.qq.com/s/AphLM6VUFZEGercP9-YtmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>macOS 二进制 plist 解析的漏洞分析</title>
+    <updated>2021-01-14T10:51:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/efRLT8o_puZmy3vlMJyoiw</id>
+    <link href="https://mp.weixin.qq.com/s/efRLT8o_puZmy3vlMJyoiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>趋势科技对 Earth Kitsune 攻击中 SLUB 恶意软件的分析（下）</title>
+    <updated>2021-01-14T10:51:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/e1bRN9kp8sgHMckiksW5Ig</id>
+    <link href="https://mp.weixin.qq.com/s/e1bRN9kp8sgHMckiksW5Ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>英特尔向第11代CPU添加了基于硬件的勒索软件检测功能</title>
     <updated>2021-01-13T10:31:55+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-08T19:07:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/oXnfVrBdyTPH_VrQkhg1Yg</id>
     <link href="https://mp.weixin.qq.com/s/oXnfVrBdyTPH_VrQkhg1Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给你三个选择：要么听我的 要么离开这里 要么从世界上消失</title>
-    <updated>2021-01-08T11:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/2a-5Z-4EOWLqBqL39lXz6g</id>
-    <link href="https://mp.weixin.qq.com/s/2a-5Z-4EOWLqBqL39lXz6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年网络安全趋势：更高的预算，重点终端和云安全</title>
-    <updated>2021-01-08T11:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/7HJabfiITodJKwrzNp55_g</id>
-    <link href="https://mp.weixin.qq.com/s/7HJabfiITodJKwrzNp55_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cellebrite 宣称可以破解 Signal</title>
-    <updated>2021-01-08T11:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/GIbNhKKCa3RjlsKOmylobQ</id>
-    <link href="https://mp.weixin.qq.com/s/GIbNhKKCa3RjlsKOmylobQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用RMS和TeamViewer对工业企业的APT攻击</title>
-    <updated>2021-01-08T11:04:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/wK4NmsuKc1AdoHfBGroVOw</id>
-    <link href="https://mp.weixin.qq.com/s/wK4NmsuKc1AdoHfBGroVOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

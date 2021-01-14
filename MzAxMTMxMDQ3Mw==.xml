@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:51:48+08:00</updated>
+  <updated>2021-01-14T11:59:00+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C# + Selenium + ChromeDriver 爬取网页</title>
+    <updated>2021-01-13T22:39:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/H52Ju8zcv9DcSwMz1clpIg</id>
+    <link href="https://mp.weixin.qq.com/s/H52Ju8zcv9DcSwMz1clpIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面向对象：跟相互喜欢的小哥哥，长长的路慢慢走</title>
+    <updated>2021-01-13T22:39:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/LaUfX9Hp01RPzf19ImHJ6w</id>
+    <link href="https://mp.weixin.qq.com/s/LaUfX9Hp01RPzf19ImHJ6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET Core 处理 WebAPI JSON 返回烦人的null为空</title>
     <updated>2021-01-13T11:03:46+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2021-01-05T16:12:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/24KrxvN_HOWgqEpW3qlnRw</id>
     <link href="https://mp.weixin.qq.com/s/24KrxvN_HOWgqEpW3qlnRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>惊！. NET岗面试，难度陡增，哀鸿一遍，真相是…</title>
-    <updated>2021-01-04T14:30:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/w5oHB5QAQbKswGYXHfhraA</id>
-    <link href="https://mp.weixin.qq.com/s/w5oHB5QAQbKswGYXHfhraA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Core 基于 Docker 基础镜像和挂载文件部署</title>
-    <updated>2021-01-04T14:30:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/JnVvs52xlwYvPgTYcUmLsg</id>
-    <link href="https://mp.weixin.qq.com/s/JnVvs52xlwYvPgTYcUmLsg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

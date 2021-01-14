@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CodeArtist9 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:42:02+08:00</updated>
+  <updated>2021-01-14T12:25:35+08:00</updated>
   <subtitle>一位热衷于折腾各种软件资源的 Java 练习生。励志写的每篇文章都能让人看懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>时隔十年，这款软件迫不得已更新了</title>
+    <updated>2021-01-13T21:43:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/rS5BL63p320IQzXQCz79dQ</id>
+    <link href="https://mp.weixin.qq.com/s/rS5BL63p320IQzXQCz79dQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java程序员必备：序列化全方位解析</title>
     <updated>2021-01-07T21:53:20+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-11-18T07:38:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/NMI6dbexo5FtZqFeDmtrOw</id>
     <link href="https://mp.weixin.qq.com/s/NMI6dbexo5FtZqFeDmtrOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【工作实录】我终于一次性刷新了所有服务的内存数据</title>
-    <updated>2020-11-13T13:08:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/J-yhWv6MTggaAeCn9Pl62g</id>
-    <link href="https://mp.weixin.qq.com/s/J-yhWv6MTggaAeCn9Pl62g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

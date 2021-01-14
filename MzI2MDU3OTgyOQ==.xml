@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜索与推荐Wiki | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T13:50:25+08:00</updated>
+  <updated>2021-01-14T12:10:00+08:00</updated>
   <subtitle>专注于搜索和推荐系统，以系列分享为主，持续打造精品内容！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CIKM 2020 | 一文详解美团6篇精选论文</title>
+    <updated>2021-01-14T11:51:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/EZcr8RgAEkwuwS20LvvHlA</id>
+    <link href="https://mp.weixin.qq.com/s/EZcr8RgAEkwuwS20LvvHlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>结合论文看Youtube推荐系统中召回和排序的演进之路（上）篇</title>
     <updated>2021-01-12T12:22:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T08:32:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/3IBxZhfwTj00OjhOppGvhg</id>
     <link href="https://mp.weixin.qq.com/s/3IBxZhfwTj00OjhOppGvhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>论文｜Sentence2Vec &amp; GloVe 算法原理、推导与实​现</title>
-    <updated>2020-12-20T16:00:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/joCSQi-Mmuiz0Eejp0dbng</id>
-    <link href="https://mp.weixin.qq.com/s/joCSQi-Mmuiz0Eejp0dbng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

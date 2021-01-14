@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:02:51+08:00</updated>
+  <updated>2021-01-14T12:11:12+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
+    <updated>2021-01-14T08:24:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/fjjlq3QqlUk9dvrbtPRa7g</id>
+    <link href="https://mp.weixin.qq.com/s/fjjlq3QqlUk9dvrbtPRa7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Kylin 在汽车之家的实时多维分析演进与实践</title>
+    <updated>2021-01-14T08:24:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/GJlnF3cs4yJt7hub4EbJwQ</id>
+    <link href="https://mp.weixin.qq.com/s/GJlnF3cs4yJt7hub4EbJwQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>致ClickHouse用户的一封信</title>
     <updated>2021-01-13T08:55:08+08:00</updated>
@@ -64,24 +78,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>推荐一个Java大数据公众号</title>
-    <updated>2021-01-09T20:30:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/tD77GVIiL7qxHqHeCDzn2Q</id>
-    <link href="https://mp.weixin.qq.com/s/tD77GVIiL7qxHqHeCDzn2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>携程商旅用户画像系统设计实现</title>
     <updated>2021-01-08T09:42:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/D6FnaqVpwEmaAxraKTXFDA</id>
     <link href="https://mp.weixin.qq.com/s/D6FnaqVpwEmaAxraKTXFDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一个Java大数据公众号</title>
-    <updated>2021-01-08T09:42:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/cSKbBj8xunSz7YzwH5oVMA</id>
-    <link href="https://mp.weixin.qq.com/s/cSKbBj8xunSz7YzwH5oVMA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -92,20 +92,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>最新大数据资料合集.pdf</title>
-    <updated>2021-01-07T09:16:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/aS2c1MHJKDdNj4wuiikzNA</id>
-    <link href="https://mp.weixin.qq.com/s/aS2c1MHJKDdNj4wuiikzNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这份大数据简历，据说值40w！</title>
-    <updated>2021-01-05T23:09:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/x2jUOW0x4_ijFj3f_A0jyg</id>
-    <link href="https://mp.weixin.qq.com/s/x2jUOW0x4_ijFj3f_A0jyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Delta Lake 提供纯 Scala\Java\Python 操作 API，和 Flink 整合更加容易</title>
     <updated>2021-01-05T23:09:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/e2C3yxtK6hp3guDShZLL8g</id>
@@ -113,31 +99,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>啥？Java不行了？别开玩笑！</title>
-    <updated>2021-01-05T08:20:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/lRDwaZ-mT8z3jPq5dg486w</id>
-    <link href="https://mp.weixin.qq.com/s/lRDwaZ-mT8z3jPq5dg486w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>基于Flink构建实时数仓实践</title>
     <updated>2021-01-05T08:20:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/UIrE5Z0URB0jv0Ndhpf9TQ</id>
     <link href="https://mp.weixin.qq.com/s/UIrE5Z0URB0jv0Ndhpf9TQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>揭秘PB级大数据中台架构设计方案！OLTP、OLAP架构场景剖析</title>
-    <updated>2021-01-03T18:02:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/FIm16ekiUDskCsM3YzhUvA</id>
-    <link href="https://mp.weixin.qq.com/s/FIm16ekiUDskCsM3YzhUvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大数据权限安全在滴滴的实践</title>
-    <updated>2021-01-03T18:02:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/KFIG_b5j25wHPR5GJ_kwVA</id>
-    <link href="https://mp.weixin.qq.com/s/KFIG_b5j25wHPR5GJ_kwVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:53:15+08:00</updated>
+  <updated>2021-01-14T12:00:37+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大文件上传：秒传、断点续传、分片上传</title>
+    <updated>2021-01-13T21:19:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/S8ff0SBRcccqtoWteqo6QA</id>
+    <link href="https://mp.weixin.qq.com/s/S8ff0SBRcccqtoWteqo6QA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最常用的分布式 ID 解决方案，都在这里了！</title>
+    <updated>2021-01-13T21:19:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cT9kegOII2te5uf_wCSLEA</id>
+    <link href="https://mp.weixin.qq.com/s/cT9kegOII2te5uf_wCSLEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万万没想到，JVM内存区域的面试题也可以问的这么难？</title>
+    <updated>2021-01-13T21:19:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/jW7H9C-vk3fdWCrKl3o6sg</id>
+    <link href="https://mp.weixin.qq.com/s/jW7H9C-vk3fdWCrKl3o6sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试Java岗，P8大佬真正关心的核心能力是什么？</title>
     <updated>2021-01-12T18:37:19+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-08T10:28:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/LRTYSQiVuWeN2J-vhnVOeg</id>
     <link href="https://mp.weixin.qq.com/s/LRTYSQiVuWeN2J-vhnVOeg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis性能问题排查解决手册（值得收藏）</title>
-    <updated>2021-01-06T22:09:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/KY2KcH2G9slRCmntaSzc4A</id>
-    <link href="https://mp.weixin.qq.com/s/KY2KcH2G9slRCmntaSzc4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5分钟带你快速了解ServiceMesh的前世今生</title>
-    <updated>2021-01-06T22:09:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/2fyEvJQuWFjDB30Dcd1UlQ</id>
-    <link href="https://mp.weixin.qq.com/s/2fyEvJQuWFjDB30Dcd1UlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IntelliJ IDEA 更新后，电脑卡成球，该如何优化？</title>
-    <updated>2021-01-06T22:09:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/n7RZooTAy3ZydNUOLTrFjA</id>
-    <link href="https://mp.weixin.qq.com/s/n7RZooTAy3ZydNUOLTrFjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

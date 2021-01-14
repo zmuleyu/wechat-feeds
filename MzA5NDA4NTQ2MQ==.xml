@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>行走的数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:32:49+08:00</updated>
+  <updated>2021-01-14T12:02:04+08:00</updated>
   <subtitle>不管未来走向哪个方向，这一时刻会有你的印记。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>滴滴Flink-1.10升级之路</title>
+    <updated>2021-01-14T08:36:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/jWbQ_RQ4p-0vmUhkZf0pTA</id>
+    <link href="https://mp.weixin.qq.com/s/jWbQ_RQ4p-0vmUhkZf0pTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从图嵌入到图卷积：深度图神经网络的技术发展史</title>
+    <updated>2021-01-14T08:36:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/J5EeBwnFgyizcrEsH8Sz8Q</id>
+    <link href="https://mp.weixin.qq.com/s/J5EeBwnFgyizcrEsH8Sz8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>机器学习模型更新与人脑模型更新的关系</title>
     <updated>2021-01-13T21:19:05+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-01T13:20:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/4U0lpZ3XeW6ISICVgyk3bg</id>
     <link href="https://mp.weixin.qq.com/s/4U0lpZ3XeW6ISICVgyk3bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Alink在微博机器学习平台中的实践</title>
-    <updated>2020-12-31T08:30:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/SiXkLQQVNBd5CcHO_MAoAg</id>
-    <link href="https://mp.weixin.qq.com/s/SiXkLQQVNBd5CcHO_MAoAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

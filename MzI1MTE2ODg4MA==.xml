@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大邓和他的Python | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:46:17+08:00</updated>
+  <updated>2021-01-14T11:56:05+08:00</updated>
   <subtitle>管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求原创文章末尾附有实验代码和数据，方便大家看后动手练习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python基础 | 新手学Python时常见的语法错误和异常</title>
+    <updated>2021-01-14T10:31:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/ukjqjaVNXZ4atdNsrs2MMA</id>
+    <link href="https://mp.weixin.qq.com/s/ukjqjaVNXZ4atdNsrs2MMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>年轻人，搞不懂深度学习框架，你就“耗子尾汁”吧~</title>
     <updated>2021-01-10T17:31:38+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-02T17:56:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/TtDGA_IilL7X-myBgym1cA</id>
     <link href="https://mp.weixin.qq.com/s/TtDGA_IilL7X-myBgym1cA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何快速积累数据分析实战经验</title>
-    <updated>2020-12-30T16:03:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/dnh7wL9lh4tDNHkiNZIm3Q</id>
-    <link href="https://mp.weixin.qq.com/s/dnh7wL9lh4tDNHkiNZIm3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见 VBA！神器工具统一 Excel 和 Python</title>
-    <updated>2020-12-30T16:03:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/b3zvUpiE833Gl-2jqilvgQ</id>
-    <link href="https://mp.weixin.qq.com/s/b3zvUpiE833Gl-2jqilvgQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>低并发编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:57:11+08:00</updated>
+  <updated>2021-01-14T12:09:06+08:00</updated>
   <subtitle>周一很颓废，周四很硬核的技术文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图解 | 你管这破玩意叫线程池？</title>
+    <updated>2021-01-13T16:40:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/OKTW_mZnNJcRBrIFHONR3g</id>
+    <link href="https://mp.weixin.qq.com/s/OKTW_mZnNJcRBrIFHONR3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flash 都亡了，我居然还叫闪客</title>
     <updated>2021-01-10T15:07:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T13:17:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/cVWVcuvdB_2yXVCLn4K6Yg</id>
     <link href="https://mp.weixin.qq.com/s/cVWVcuvdB_2yXVCLn4K6Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>公众号内卷</title>
-    <updated>2020-12-13T22:25:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/cBtPxqvdBIgfh1uksp0FKg</id>
-    <link href="https://mp.weixin.qq.com/s/cBtPxqvdBIgfh1uksp0FKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

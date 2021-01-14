@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:33:27+08:00</updated>
+  <updated>2021-01-14T12:02:43+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数据湖 VS 数据中台谁更普适？大数据架构师要好好思考！</title>
+    <updated>2021-01-14T08:35:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/xQ-XPg-CHG1PPW6EA2Dxug</id>
+    <link href="https://mp.weixin.qq.com/s/xQ-XPg-CHG1PPW6EA2Dxug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Delta Lake 实践 | Delta Lake 提供 API 整合 Flink</title>
+    <updated>2021-01-14T08:35:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/X-A2IxQEuPKTzbJVsJcXvQ</id>
+    <link href="https://mp.weixin.qq.com/s/X-A2IxQEuPKTzbJVsJcXvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink 实践 | 有赞 Flink 实时任务资源优化探索与实践</title>
     <updated>2021-01-13T23:10:43+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-27T18:21:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/3LOkHaiIG1qRWavtp-uuCQ</id>
     <link href="https://mp.weixin.qq.com/s/3LOkHaiIG1qRWavtp-uuCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HBase性能 | 滴滴在HBase性能与可用性上的探索与实践</title>
-    <updated>2020-12-25T16:42:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/UYFipitkriCMEtU7eFJ_Lg</id>
-    <link href="https://mp.weixin.qq.com/s/UYFipitkriCMEtU7eFJ_Lg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

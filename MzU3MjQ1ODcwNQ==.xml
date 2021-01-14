@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T07:24:15+08:00</updated>
+  <updated>2021-01-14T12:23:26+08:00</updated>
   <subtitle>每一步成长都想与你分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -29,24 +29,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>不要错过这场互联网跨年大会</title>
-    <updated>2020-12-31T15:15:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/I1I2cVO_6KxVUUY3S1qQuQ</id>
-    <link href="https://mp.weixin.qq.com/s/I1I2cVO_6KxVUUY3S1qQuQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Kafka 消息存储与索引设计</title>
     <updated>2020-12-28T15:02:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/5UZcm9nMEwlSNjrBlrzIVQ</id>
     <link href="https://mp.weixin.qq.com/s/5UZcm9nMEwlSNjrBlrzIVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一位技术大佬给大家</title>
-    <updated>2020-12-28T15:02:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/lihAOsu0lOKfj7VSn6Ig3g</id>
-    <link href="https://mp.weixin.qq.com/s/lihAOsu0lOKfj7VSn6Ig3g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,6 +68,13 @@
     <updated>2020-11-30T10:53:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/LHlcLTs5r8lQtG8Tl9aPjQ</id>
     <link href="https://mp.weixin.qq.com/s/LHlcLTs5r8lQtG8Tl9aPjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kafka 独立消费者</title>
+    <updated>2020-09-19T14:02:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-19:/s/KeM32onJPde1Vv-EwRwiLQ</id>
+    <link href="https://mp.weixin.qq.com/s/KeM32onJPde1Vv-EwRwiLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:04:11+08:00</updated>
+  <updated>2021-01-14T12:12:58+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这个宝藏数据库终于被发现了！阿里云带你免费从0-1玩转PG</title>
+    <updated>2021-01-13T20:25:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/BrF97T5sNQiVCut6ZnIu2Q</id>
+    <link href="https://mp.weixin.qq.com/s/BrF97T5sNQiVCut6ZnIu2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分布式柔性事务的TCC方案</title>
+    <updated>2021-01-13T20:25:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/tnmQaHpo49XUtYBvsrx1Ig</id>
+    <link href="https://mp.weixin.qq.com/s/tnmQaHpo49XUtYBvsrx1Ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里优化业务中台背后：依然强势推进数据中台建设！</title>
     <updated>2021-01-12T21:22:12+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-04T19:56:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/_0plASg42YnSCt_8WGBNXQ</id>
     <link href="https://mp.weixin.qq.com/s/_0plASg42YnSCt_8WGBNXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术专家：数据一致性检测的应用场景与最佳实践</title>
-    <updated>2021-01-03T23:10:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/DqQeSNFRZPHpECX-i7BVPQ</id>
-    <link href="https://mp.weixin.qq.com/s/DqQeSNFRZPHpECX-i7BVPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

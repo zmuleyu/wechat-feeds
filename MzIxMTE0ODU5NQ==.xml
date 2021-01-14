@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:56:12+08:00</updated>
+  <updated>2021-01-14T12:04:38+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于未来数据开发技术方向的观点</title>
+    <updated>2021-01-13T23:25:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-13:/s/w3lxpgW7a9KOLwKGTGFemA</id>
+    <link href="https://mp.weixin.qq.com/s/w3lxpgW7a9KOLwKGTGFemA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想面字节但是缺项目经验的同学戳进来！</title>
     <updated>2021-01-12T21:42:57+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-05T08:59:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/LfhHIPo368KOjIqg0cOorg</id>
     <link href="https://mp.weixin.qq.com/s/LfhHIPo368KOjIqg0cOorg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实时数仓 | Flink实时维表join方法总结（附项目源码）</title>
-    <updated>2021-01-04T08:36:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/j49NmjkQUMnZsghT3GdAhw</id>
-    <link href="https://mp.weixin.qq.com/s/j49NmjkQUMnZsghT3GdAhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

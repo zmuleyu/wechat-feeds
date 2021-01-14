@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开发者精选资讯 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:45:25+08:00</updated>
+  <updated>2021-01-14T12:04:47+08:00</updated>
   <subtitle>专注于各种技术分享，每日分享优秀的技术资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.netcore 急速接入第三方登录，不看后悔</title>
+    <updated>2021-01-14T05:39:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/qC-YZ5BqKEYE6uiEO5_Nag</id>
+    <link href="https://mp.weixin.qq.com/s/qC-YZ5BqKEYE6uiEO5_Nag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Roslyn 使用 Directory.Build.props 管理多个项目配置</title>
+    <updated>2021-01-14T05:39:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/me87_-iEd-ZhilfDq5sWMA</id>
+    <link href="https://mp.weixin.qq.com/s/me87_-iEd-ZhilfDq5sWMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我画了 40 张图就是为了让你搞懂计算机网络层</title>
+    <updated>2021-01-14T05:39:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/CGrTNnXM1PhP6BzcSNCPBA</id>
+    <link href="https://mp.weixin.qq.com/s/CGrTNnXM1PhP6BzcSNCPBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>强烈推荐：去视频水印永久激活，强大免费！</title>
+    <updated>2021-01-14T05:39:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/CAcXzjUL3z_z-pRGnMGe0g</id>
+    <link href="https://mp.weixin.qq.com/s/CAcXzjUL3z_z-pRGnMGe0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prism for WPF 搭建一个简单的模块化开发框架</title>
+    <updated>2021-01-14T05:39:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/GIvBEth7930vN7IHaGW-yw</id>
+    <link href="https://mp.weixin.qq.com/s/GIvBEth7930vN7IHaGW-yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>告别2020，迎接2021！&#xA;&#xA;感谢各位朋友的支持和厚爱，在新的一年里，我们共创美好未来！</title>
     <updated>2020-12-31T17:59:55+08:00</updated>
@@ -110,34 +145,6 @@
     <updated>2020-10-26T02:39:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-26:/s/KgnGXkLHXO-3K8I4kFQlHQ</id>
     <link href="https://mp.weixin.qq.com/s/KgnGXkLHXO-3K8I4kFQlHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 Chrome(V8) 中 Symbol() 、Object.create(null) 和 {} 的内存占用分别是多少？</title>
-    <updated>2020-10-26T02:39:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-26:/s/0H7MGbMInb_GGM6xmtNjHQ</id>
-    <link href="https://mp.weixin.qq.com/s/0H7MGbMInb_GGM6xmtNjHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个小程序原本没想着上线，今天群友问起来了，抱着试一试的心态提交上线，很快就通过审核了。&#xA;&#xA;这个小程序是利用AI机器学习技术，自动很根据上传的头像生成游戏风格的头像，我保证绝对好玩！喜欢的话，分享给你的好友。&#xA;&#xA;顺便给我提一些意见，以后我想开源出来。</title>
-    <updated>2020-10-22T21:27:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-22:/s/1B2dUqes4kfS5_TpdMR5iA</id>
-    <link href="https://mp.weixin.qq.com/s/1B2dUqes4kfS5_TpdMR5iA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，master！</title>
-    <updated>2020-09-24T22:53:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/9EHD0ngkGrLHtd8srDa6XQ</id>
-    <link href="https://mp.weixin.qq.com/s/9EHD0ngkGrLHtd8srDa6XQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PanDownload复活了，60MB/s，目前已开源！</title>
-    <updated>2020-09-24T22:53:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/kPkm4B1hDoLNPq7AqL13MQ</id>
-    <link href="https://mp.weixin.qq.com/s/kPkm4B1hDoLNPq7AqL13MQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
