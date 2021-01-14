@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:26:53+08:00</updated>
+  <updated>2021-01-14T16:30:40+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第28节，通道超时处理select妙用</title>
+    <updated>2021-01-14T14:00:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/eYObDF6OKqAVyyDnWU0UGw</id>
+    <link href="https://mp.weixin.qq.com/s/eYObDF6OKqAVyyDnWU0UGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第27节，通道选择器，协程通道三大利器</title>
     <updated>2021-01-13T17:47:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T20:57:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/jqjz4dNk7TtNrnGZ1dKFzg</id>
     <link href="https://mp.weixin.qq.com/s/jqjz4dNk7TtNrnGZ1dKFzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【趣图】第四张机器学习算9加10等于多少那个，太形象了</title>
-    <updated>2020-12-22T20:39:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/bXEAmmIDmvaosFJb6F7eyg</id>
-    <link href="https://mp.weixin.qq.com/s/bXEAmmIDmvaosFJb6F7eyg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

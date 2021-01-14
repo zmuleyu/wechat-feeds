@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T16:34:06+08:00</updated>
+  <updated>2021-01-14T16:33:24+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>警惕！incaseformat病毒正在靠近你</title>
+    <updated>2021-01-14T15:31:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/LTP2PbuS_ZxZWfkroNF9KQ</id>
+    <link href="https://mp.weixin.qq.com/s/LTP2PbuS_ZxZWfkroNF9KQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年网络安全高级研修班圆满结束</title>
+    <updated>2021-01-14T15:31:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/E2cDzqaeBEmaVepttCrnnA</id>
+    <link href="https://mp.weixin.qq.com/s/E2cDzqaeBEmaVepttCrnnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020RWCTF DBaaSadge WP</title>
     <updated>2021-01-13T13:39:06+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2020-12-31T12:38:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/QE4-VFNe1X1ESKSEQFnVsA</id>
     <link href="https://mp.weixin.qq.com/s/QE4-VFNe1X1ESKSEQFnVsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记一次 PowerShell 免杀实战</title>
-    <updated>2020-12-30T11:26:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/93KWVl2hTY457RdxlLoqyw</id>
-    <link href="https://mp.weixin.qq.com/s/93KWVl2hTY457RdxlLoqyw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肥朝 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:49:49+08:00</updated>
+  <updated>2021-01-14T16:34:42+08:00</updated>
   <subtitle>肥朝 是一个专注于 原理、源码、开发技巧的技术公众号，号内原创专题式源码解析、真实场景源码原理实战（重点）。关注肥朝，让本该造火箭的你，不再拧螺丝！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java打造一款SSH客户端，而且已开源</title>
+    <updated>2021-01-14T12:16:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/uDgMaDOQP0TGs1CYYSdlWQ</id>
+    <link href="https://mp.weixin.qq.com/s/uDgMaDOQP0TGs1CYYSdlWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>K8S知道，K9S呢？</title>
     <updated>2021-01-12T19:55:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-05T14:40:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/iJ6PfuMf_OhaJzb1nxCA-Q</id>
     <link href="https://mp.weixin.qq.com/s/iJ6PfuMf_OhaJzb1nxCA-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优雅的对象转换解决方案-MapStruct使用进阶</title>
-    <updated>2021-01-03T21:09:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/eGSoYQC4E2NuvlHQzj_RHg</id>
-    <link href="https://mp.weixin.qq.com/s/eGSoYQC4E2NuvlHQzj_RHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

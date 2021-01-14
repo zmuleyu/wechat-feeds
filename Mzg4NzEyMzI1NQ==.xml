@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:36:31+08:00</updated>
+  <updated>2021-01-14T16:47:49+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>输入几行代码，轻松迁移 SpringBoot 应用上云</title>
+    <updated>2021-01-14T16:22:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/PTFbIHz-bQR--oxZEzgdpA</id>
+    <link href="https://mp.weixin.qq.com/s/PTFbIHz-bQR--oxZEzgdpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Serveless 助力新零售 —— 乐凯撒新餐饮服务落地实践</title>
     <updated>2021-01-12T18:55:30+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-30T11:45:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/Evxqa9ocvLi_Q546ccfAKg</id>
     <link href="https://mp.weixin.qq.com/s/Evxqa9ocvLi_Q546ccfAKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>APM：实质提升 Serverless 可观察性</title>
-    <updated>2020-12-29T18:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/hLpeo7mjwxfUL7LVRAm8aw</id>
-    <link href="https://mp.weixin.qq.com/s/hLpeo7mjwxfUL7LVRAm8aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不改一行代码！快速迁移 Flask 应用上云</title>
-    <updated>2020-12-29T18:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/P0fIaVISg0w1EOutgH3y0w</id>
-    <link href="https://mp.weixin.qq.com/s/P0fIaVISg0w1EOutgH3y0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
