@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:43:42+08:00</updated>
+  <updated>2021-01-15T13:52:26+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
+    <updated>2021-01-15T09:50:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/t6IXD-nQzNmRLxgPeFbTWA</id>
+    <link href="https://mp.weixin.qq.com/s/t6IXD-nQzNmRLxgPeFbTWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>以 Go 语言为切入点，掌握后端的硬知识</title>
+    <updated>2021-01-15T09:50:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/IRvnrHiuAaWBeuQlqIvByg</id>
+    <link href="https://mp.weixin.qq.com/s/IRvnrHiuAaWBeuQlqIvByg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>没人告诉过你更复杂的缓存穿透怎么解决</title>
+    <updated>2021-01-15T09:50:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/o1wbG_9LDDqM2kLNAfHUIg</id>
+    <link href="https://mp.weixin.qq.com/s/o1wbG_9LDDqM2kLNAfHUIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5分钟了解CDN 加速原理</title>
+    <updated>2021-01-15T09:50:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/0H9-81qw-IbtoGRJ6oEN0w</id>
+    <link href="https://mp.weixin.qq.com/s/0H9-81qw-IbtoGRJ6oEN0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
     <updated>2021-01-14T09:47:04+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-11T10:58:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/aTiXB67cfezf1hT0soZLyQ</id>
     <link href="https://mp.weixin.qq.com/s/aTiXB67cfezf1hT0soZLyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么是微内核架构设计？</title>
-    <updated>2021-01-10T10:55:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/qEmRAfG_inrdta9gElzrhg</id>
-    <link href="https://mp.weixin.qq.com/s/qEmRAfG_inrdta9gElzrhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>golang网络编程</title>
-    <updated>2021-01-10T10:55:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/F_-3z82IMvSSfcu6P7MERQ</id>
-    <link href="https://mp.weixin.qq.com/s/F_-3z82IMvSSfcu6P7MERQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 泛型 T，E，K，V，?，傻傻分不清？</title>
-    <updated>2021-01-10T10:55:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/_3FVfZQuDftFpOf7cbuKgw</id>
-    <link href="https://mp.weixin.qq.com/s/_3FVfZQuDftFpOf7cbuKgw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动招聘2年工作经验：30-60k！什么岗位这么香？</title>
-    <updated>2021-01-09T11:45:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/LIyWES8G_Hq2ycRlZir0vw</id>
-    <link href="https://mp.weixin.qq.com/s/LIyWES8G_Hq2ycRlZir0vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

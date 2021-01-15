@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T14:06:15+08:00</updated>
+  <updated>2021-01-15T13:54:50+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>知乎搜索文本相关性与知识蒸馏</title>
+    <updated>2021-01-15T11:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/xgCtgEMRZ1VgzRZWjYIjTQ</id>
+    <link href="https://mp.weixin.qq.com/s/xgCtgEMRZ1VgzRZWjYIjTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>第三代大数据处理方案 Flink 已成气候!!!</title>
+    <updated>2021-01-15T11:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/dPOd8YFL1MdON0vs86sVSw</id>
+    <link href="https://mp.weixin.qq.com/s/dPOd8YFL1MdON0vs86sVSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 美团无人配送算法技术沙龙</title>
+    <updated>2021-01-15T11:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/0AggNV3-uufXMfPPCPJ3bQ</id>
+    <link href="https://mp.weixin.qq.com/s/0AggNV3-uufXMfPPCPJ3bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | GPU可以处理大数据了？</title>
+    <updated>2021-01-15T11:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/oE2gvAsLqoaRIi5BeH6ePA</id>
+    <link href="https://mp.weixin.qq.com/s/oE2gvAsLqoaRIi5BeH6ePA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 阿里飞猪：个性化出行算法实践</title>
+    <updated>2021-01-15T11:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/In28QXJqm0nARPAOs0w8lA</id>
+    <link href="https://mp.weixin.qq.com/s/In28QXJqm0nARPAOs0w8lA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Kylin的实践与优化</title>
+    <updated>2021-01-15T11:55:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/jubiO5cry2D96d455CjOiA</id>
+    <link href="https://mp.weixin.qq.com/s/jubiO5cry2D96d455CjOiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>去中心化知识图谱协作平台建设实践</title>
     <updated>2021-01-14T12:20:51+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-11T20:27:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/_F_eBlk08f8hSQm51Rwmhg</id>
     <link href="https://mp.weixin.qq.com/s/_F_eBlk08f8hSQm51Rwmhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于NLP相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱、信息抽取、序列模型、深度学习、语法分析、文本处理</title>
-    <updated>2021-01-10T19:42:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/Ay7pm-eqdFKdAnKbZ2HSxQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ay7pm-eqdFKdAnKbZ2HSxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>滴滴翻译技术探索与实践</title>
-    <updated>2021-01-10T19:42:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/nSuIOyK3sQJEA0K_9GS3Ww</id>
-    <link href="https://mp.weixin.qq.com/s/nSuIOyK3sQJEA0K_9GS3Ww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内推：美团算法岗</title>
-    <updated>2021-01-10T19:42:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/GtuwB8h_DgYP7T-my0qVRA</id>
-    <link href="https://mp.weixin.qq.com/s/GtuwB8h_DgYP7T-my0qVRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网易严选流量体系建设实践</title>
-    <updated>2021-01-09T20:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/cwFZBQj8r2C1lyUTpz4AAA</id>
-    <link href="https://mp.weixin.qq.com/s/cwFZBQj8r2C1lyUTpz4AAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么要进行图学习？谈一谈逆势而上的图神经网络</title>
-    <updated>2021-01-09T20:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/9dzmTil2AkwD9791xJJuVA</id>
-    <link href="https://mp.weixin.qq.com/s/9dzmTil2AkwD9791xJJuVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内推：跟谁学大数据岗</title>
-    <updated>2021-01-09T20:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/MfHvDuCH5A-vwisVf9XTeQ</id>
-    <link href="https://mp.weixin.qq.com/s/MfHvDuCH5A-vwisVf9XTeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

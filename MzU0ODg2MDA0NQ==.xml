@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ChaBug | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T13:31:30+08:00</updated>
+  <updated>2021-01-15T13:57:11+08:00</updated>
   <subtitle>一个分享知识、结识伙伴、资源共享的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Real Wolrd CTF Old System New getter jndi gadget</title>
+    <updated>2021-01-15T13:26:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/55eKvSbpYvYux3AvPLwOqg</id>
+    <link href="https://mp.weixin.qq.com/s/55eKvSbpYvYux3AvPLwOqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>文末赠书｜office宏与AV的爱恨情仇</title>
     <updated>2021-01-11T11:19:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T13:12:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/M8chPphMprAK56-ScTQ-Qg</id>
     <link href="https://mp.weixin.qq.com/s/M8chPphMprAK56-ScTQ-Qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Drupal(CVE-2020-28948/CVE-2020-28949)分析</title>
-    <updated>2020-11-30T09:52:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/-5z2gCrstyCLOOzgf1tZTg</id>
-    <link href="https://mp.weixin.qq.com/s/-5z2gCrstyCLOOzgf1tZTg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

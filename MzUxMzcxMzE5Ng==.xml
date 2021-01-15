@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端之巅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T16:49:49+08:00</updated>
+  <updated>2021-01-15T13:55:09+08:00</updated>
   <subtitle>InfoQ大前端技术社群：囊括前端、移动、Node全栈一线技术，紧跟业界发展步伐。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Shopify如何在浏览器之外使用WebAssembly？</title>
+    <updated>2021-01-15T12:22:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/DXjXcEZGefuP2d8KXrYMKQ</id>
+    <link href="https://mp.weixin.qq.com/s/DXjXcEZGefuP2d8KXrYMKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TypeScript 4.2 Beta版本发布：带来诸多更新，营造更好的开发体验</title>
+    <updated>2021-01-15T12:22:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/e1j9NrM2EPpyZx8ahnJPcQ</id>
+    <link href="https://mp.weixin.qq.com/s/e1j9NrM2EPpyZx8ahnJPcQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么我不再用 Vue ，改用 React ？ | 活动推荐</title>
+    <updated>2021-01-15T12:22:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/BvEtV8E-xJmyleWNQP7eRA</id>
+    <link href="https://mp.weixin.qq.com/s/BvEtV8E-xJmyleWNQP7eRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021 年 JS 框架预测和 IT 领域技术趋势</title>
     <updated>2021-01-13T14:18:25+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-03T16:35:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/32rODzBcXANisGp_kjEi8w</id>
     <link href="https://mp.weixin.qq.com/s/32rODzBcXANisGp_kjEi8w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Thresh 今天正式开源，有望成为替代 RN 的一种长期方案</title>
-    <updated>2020-12-31T14:12:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/E2lhodazRZRVPUGafY92xA</id>
-    <link href="https://mp.weixin.qq.com/s/E2lhodazRZRVPUGafY92xA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在Flutter和JavaScript之间创建通信桥</title>
-    <updated>2020-12-31T14:12:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/JQstnK6Iic5cuXZ7cNkhPQ</id>
-    <link href="https://mp.weixin.qq.com/s/JQstnK6Iic5cuXZ7cNkhPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大前端不是全栈</title>
-    <updated>2020-12-30T14:02:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/9raIxUX8PjQD-gYAtnbZww</id>
-    <link href="https://mp.weixin.qq.com/s/9raIxUX8PjQD-gYAtnbZww" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
