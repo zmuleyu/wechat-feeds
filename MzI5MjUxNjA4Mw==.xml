@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端迷 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:56:59+08:00</updated>
+  <updated>2021-01-15T23:27:01+08:00</updated>
   <subtitle>专注于vue/react/常见前端面试/最新web前端技术的分享；致力于算法以数据结构及前端底层原理、源码技术研究探讨；独具匠心，用心去打造一个一流的前端交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>闲庭信步聊前端 - 揭开视频直播神秘面纱</title>
+    <updated>2021-01-15T21:03:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/-tY7B___8ftz6R-_FA9zfg</id>
+    <link href="https://mp.weixin.qq.com/s/-tY7B___8ftz6R-_FA9zfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>手写Vue3核心模块源码，掌握阅读源码的正确方法</title>
     <updated>2021-01-12T20:39:00+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T22:53:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/BmHXjPzzeL7OJO4q_tBF4g</id>
     <link href="https://mp.weixin.qq.com/s/BmHXjPzzeL7OJO4q_tBF4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从原理层面探究 React 是如何工作的</title>
-    <updated>2020-12-27T17:21:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/3najl8c7ny1L9BWwYHiabQ</id>
-    <link href="https://mp.weixin.qq.com/s/3najl8c7ny1L9BWwYHiabQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

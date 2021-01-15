@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:45:03+08:00</updated>
+  <updated>2021-01-15T23:35:48+08:00</updated>
   <subtitle>云原生技术交流阵地，汇聚云原生最新技术资讯、文章、活动，以及云原生产品及用户最佳实践内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂 Kubernetes APIServer 原理</title>
+    <updated>2021-01-15T20:38:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/2Eym6GaKdcWD_6l05Q83aQ</id>
+    <link href="https://mp.weixin.qq.com/s/2Eym6GaKdcWD_6l05Q83aQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【从0到1学习边缘容器系列-4】弱网环境利器之分布式节点状态判定机制</title>
     <updated>2021-01-13T18:00:36+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T18:42:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/JO7dm4SXHRDcCm1GkJddEg</id>
     <link href="https://mp.weixin.qq.com/s/JO7dm4SXHRDcCm1GkJddEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>镜像批量迁移利器：image-transfer</title>
-    <updated>2020-12-28T17:51:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/IhlGf97zChsA5LPzsmJC0g</id>
-    <link href="https://mp.weixin.qq.com/s/IhlGf97zChsA5LPzsmJC0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

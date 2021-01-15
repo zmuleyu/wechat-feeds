@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GoCN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:23:35+08:00</updated>
+  <updated>2021-01-15T23:44:46+08:00</updated>
   <subtitle>最具规模和生命力的 Go 开发者社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生分布式文件系统JuiceFS开源了</title>
+    <updated>2021-01-15T22:23:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/7Fw3B29eqK0UIlzM-pwNgw</id>
+    <link href="https://mp.weixin.qq.com/s/7Fw3B29eqK0UIlzM-pwNgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>[译]Go 语言增加泛型的提案</title>
     <updated>2021-01-13T22:32:21+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-30T19:16:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/NAmWVNAhOZm8AUC-dFCNng</id>
     <link href="https://mp.weixin.qq.com/s/NAmWVNAhOZm8AUC-dFCNng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GO 编程模式系列（二）：错误处理</title>
-    <updated>2020-12-29T11:59:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/d502sQMSJ4CV0Lrf0t2sXA</id>
-    <link href="https://mp.weixin.qq.com/s/d502sQMSJ4CV0Lrf0t2sXA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

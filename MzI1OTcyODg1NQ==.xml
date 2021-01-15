@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:36:48+08:00</updated>
+  <updated>2021-01-15T23:31:07+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>利用pyinstaller打包Python程序为一个可执行文件</title>
+    <updated>2021-01-15T21:57:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/E0XVhhvWl1afnHQWYfhI-g</id>
+    <link href="https://mp.weixin.qq.com/s/E0XVhhvWl1afnHQWYfhI-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>常见FTP相关软件</title>
+    <updated>2021-01-15T21:57:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/aUpnh5kZ_CgVbyu-J5cUsQ</id>
+    <link href="https://mp.weixin.qq.com/s/aUpnh5kZ_CgVbyu-J5cUsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis集群环境搭建实践</title>
     <updated>2021-01-14T21:32:08+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T21:56:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/RggHx9nMH7-SVyAa1BEPAA</id>
     <link href="https://mp.weixin.qq.com/s/RggHx9nMH7-SVyAa1BEPAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>golang从入门到精通——整数类型</title>
-    <updated>2021-01-06T21:56:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/W6ne82N0LRuZmobQ0w-yRw</id>
-    <link href="https://mp.weixin.qq.com/s/W6ne82N0LRuZmobQ0w-yRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux系统inodes资源耗尽问题</title>
-    <updated>2021-01-04T22:55:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/CdojLvqhtwCNIjjH0yvvqA</id>
-    <link href="https://mp.weixin.qq.com/s/CdojLvqhtwCNIjjH0yvvqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

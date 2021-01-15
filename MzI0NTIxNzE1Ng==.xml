@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:42:51+08:00</updated>
+  <updated>2021-01-15T23:36:02+08:00</updated>
   <subtitle>Apache Flink &amp; Apache Hudi. 由Committer &amp; PMC 维护。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>实时数仓|以upsert的方式读写Kafka数据——以Flink1.12为例</title>
+    <updated>2021-01-15T20:57:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/5LFn41F8Ps6f6K6-TWvr8g</id>
+    <link href="https://mp.weixin.qq.com/s/5LFn41F8Ps6f6K6-TWvr8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hudi 新特性 Insert Overwrite API 解读</title>
+    <updated>2021-01-15T20:57:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/QuFExVJgdIEZPJHKR4Gr0Q</id>
+    <link href="https://mp.weixin.qq.com/s/QuFExVJgdIEZPJHKR4Gr0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于 Apache Hudi 构建湖上的多租户数据管道</title>
     <updated>2021-01-14T22:59:53+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-05T09:03:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/vJrcjRNFIKhZBoHt2BKlkw</id>
     <link href="https://mp.weixin.qq.com/s/vJrcjRNFIKhZBoHt2BKlkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lakehouse: 统一数据仓库和高级分析的新一代开放平台</title>
-    <updated>2021-01-04T20:19:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/-CnrIwwe0R6KjknQqdt2Aw</id>
-    <link href="https://mp.weixin.qq.com/s/-CnrIwwe0R6KjknQqdt2Aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JavaEE or BigData？都是Data System， RSM内功心法踏山河！</title>
-    <updated>2021-01-04T20:19:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/0PCBbyyjBDmdfXSY9RA3lA</id>
-    <link href="https://mp.weixin.qq.com/s/0PCBbyyjBDmdfXSY9RA3lA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
