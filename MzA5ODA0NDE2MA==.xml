@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:47:58+08:00</updated>
+  <updated>2021-01-15T20:46:26+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Google CTF justintime</title>
+    <updated>2021-01-15T18:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/KgrQ7aPKC0u79RQcEi-zHg</id>
+    <link href="https://mp.weixin.qq.com/s/KgrQ7aPKC0u79RQcEi-zHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>招聘 | 无糖信息招聘渗透测试工程师</title>
+    <updated>2021-01-15T18:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/yFxNe8Qm6s3kmhDuKctwag</id>
+    <link href="https://mp.weixin.qq.com/s/yFxNe8Qm6s3kmhDuKctwag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>chrome issue 1051017 v8 逃逸</title>
+    <updated>2021-01-15T18:00:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/HBpqBduHzp6RSuWwTkMEAQ</id>
+    <link href="https://mp.weixin.qq.com/s/HBpqBduHzp6RSuWwTkMEAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020N1CTF kemu</title>
     <updated>2021-01-14T17:06:07+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-07T17:17:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/rWNJbqsboH0hxv0Yq2i3mA</id>
     <link href="https://mp.weixin.qq.com/s/rWNJbqsboH0hxv0Yq2i3mA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tomcat容器攻防笔记之Listener内存马</title>
-    <updated>2021-01-06T16:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/msjeTiQfAsLbGUHI36-ZsQ</id>
-    <link href="https://mp.weixin.qq.com/s/msjeTiQfAsLbGUHI36-ZsQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | 360网络安全研究院</title>
-    <updated>2021-01-06T16:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/6PNPzfFoYDuwImj2mORAqA</id>
-    <link href="https://mp.weixin.qq.com/s/6PNPzfFoYDuwImj2mORAqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>gatesXgame</title>
-    <updated>2021-01-06T16:14:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9syPgUKsn5_lb_nU6E3vKQ</id>
-    <link href="https://mp.weixin.qq.com/s/9syPgUKsn5_lb_nU6E3vKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

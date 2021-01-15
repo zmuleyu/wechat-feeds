@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:37:33+08:00</updated>
+  <updated>2021-01-15T20:33:55+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>社区分享 | CRNN+CTC 识别验证码</title>
+    <updated>2021-01-15T17:43:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/48RmaZMXl8fbaDiqW3MGAg</id>
+    <link href="https://mp.weixin.qq.com/s/48RmaZMXl8fbaDiqW3MGAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>利用 TensorFlow Hub 中的预处理模型简化 BERT</title>
     <updated>2021-01-13T19:34:25+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-28T18:28:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/7RqD-rM-UIG-x-YSYzYdxg</id>
     <link href="https://mp.weixin.qq.com/s/7RqD-rM-UIG-x-YSYzYdxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>社区分享 | 带你学 AI 与 TensorFlow 2 实战之入门初探</title>
-    <updated>2020-12-25T19:01:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/A1yOAcLABgeCPX4Zfqod7A</id>
-    <link href="https://mp.weixin.qq.com/s/A1yOAcLABgeCPX4Zfqod7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

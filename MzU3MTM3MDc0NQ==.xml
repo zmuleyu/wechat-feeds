@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:11:04+08:00</updated>
+  <updated>2021-01-15T20:38:07+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OceanBase 独立这一年</title>
+    <updated>2021-01-15T07:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/r4jyRczk22KlT_K5y-WAjA</id>
+    <link href="https://mp.weixin.qq.com/s/r4jyRczk22KlT_K5y-WAjA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万字长文|一文了解基于Flink构建流批一体数仓的技术点</title>
+    <updated>2021-01-15T07:33:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/8JKrTqndfj0bwdShxc4-7g</id>
+    <link href="https://mp.weixin.qq.com/s/8JKrTqndfj0bwdShxc4-7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Kafka 2.7.0发布，加速移除Zookeeper！</title>
     <updated>2021-01-13T07:31:55+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-04T23:11:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/h-EbkLTQI7Mp37qVR9f3uw</id>
     <link href="https://mp.weixin.qq.com/s/h-EbkLTQI7Mp37qVR9f3uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数仓工程师如何避免沦为“提数机”</title>
-    <updated>2021-01-03T18:14:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/8oCscpPS7LqYoU_cUnkDjg</id>
-    <link href="https://mp.weixin.qq.com/s/8oCscpPS7LqYoU_cUnkDjg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【案例】分享最近写的一个调用kylin重新构建模型的脚本</title>
-    <updated>2021-01-03T18:14:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Szu83-pHPJGoEpbXwjBdjA</id>
-    <link href="https://mp.weixin.qq.com/s/Szu83-pHPJGoEpbXwjBdjA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

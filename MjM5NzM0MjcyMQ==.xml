@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:44:35+08:00</updated>
+  <updated>2021-01-15T20:42:49+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CloudLinux将在本季度推出AlmaLinux取代CentOS</title>
+    <updated>2021-01-15T17:20:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/udKjHaXRWyds7COH86HRpA</id>
+    <link href="https://mp.weixin.qq.com/s/udKjHaXRWyds7COH86HRpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis 6.0.10 发布</title>
+    <updated>2021-01-15T17:20:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/bv21q_fV3v4F4X7LKnTYEg</id>
+    <link href="https://mp.weixin.qq.com/s/bv21q_fV3v4F4X7LKnTYEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Nacos 1.4.1发布，修复指定特殊UA可绕过所有鉴权的安全漏洞</title>
+    <updated>2021-01-15T17:20:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/KlemddRLeL1lJ1lCcm7pbQ</id>
+    <link href="https://mp.weixin.qq.com/s/KlemddRLeL1lJ1lCcm7pbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软向Chromium贡献代码以优化浏览器滚动体验</title>
+    <updated>2021-01-15T17:20:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/211Kw8MmUWGrDVtv3a6Khw</id>
+    <link href="https://mp.weixin.qq.com/s/211Kw8MmUWGrDVtv3a6Khw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>热议 | 联合国公开的Git凭据致使数十万员工信息暴露</title>
+    <updated>2021-01-15T17:20:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/4xhHL_c0VLwGjr2mp85ZSg</id>
+    <link href="https://mp.weixin.qq.com/s/4xhHL_c0VLwGjr2mp85ZSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go泛型提案已提交，Go 1.18 beta有望试用</title>
     <updated>2021-01-14T17:52:28+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-12T17:25:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/2uK_yv4wiHZPmSUjQsOuuA</id>
     <link href="https://mp.weixin.qq.com/s/2uK_yv4wiHZPmSUjQsOuuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拼多多回应程序员匿名发帖被辞退，脉脉也有话说</title>
-    <updated>2021-01-11T17:21:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hOvolJx5UT9P8TW08YWSSQ</id>
-    <link href="https://mp.weixin.qq.com/s/hOvolJx5UT9P8TW08YWSSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux内核开发者讨论删除老旧CPU平台</title>
-    <updated>2021-01-11T17:21:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/JiQLjf0F2NVUnzkP8exrNg</id>
-    <link href="https://mp.weixin.qq.com/s/JiQLjf0F2NVUnzkP8exrNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mozilla计划在Firefox 86中禁用退格键，以防用户编辑数据丢失</title>
-    <updated>2021-01-11T17:21:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CdAsBVW7sGCLf7TZWoEdWQ</id>
-    <link href="https://mp.weixin.qq.com/s/CdAsBVW7sGCLf7TZWoEdWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>统信桌面v20个人版1030发布，优化交互操作</title>
-    <updated>2021-01-11T17:21:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Yup-NvXhIIF9B-IuyUET0Q</id>
-    <link href="https://mp.weixin.qq.com/s/Yup-NvXhIIF9B-IuyUET0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>红旗 Linux 桌面操作系统 V11 社区预览版开放下载</title>
-    <updated>2021-01-11T17:21:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/vBlhsSLCBIKC_MSXtR6SWA</id>
-    <link href="https://mp.weixin.qq.com/s/vBlhsSLCBIKC_MSXtR6SWA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

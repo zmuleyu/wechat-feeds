@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>声网Agora | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:43:29+08:00</updated>
+  <updated>2021-01-15T20:48:45+08:00</updated>
   <subtitle>声网Agora成立于2013年，是全球实时互动云行业开创者。声网Agora为开发者提供简单易用、高度可定制和广泛兼容的API。开发者无需研发或构建底层基础设施，只需调用API即可在应用内构建多种实时音视频互动场景。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>疫情反复，声网如何助力青岛教育局保障线上教学体验？</title>
+    <updated>2021-01-15T18:16:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/QWu6EaoDezGFzpl6euei8g</id>
+    <link href="https://mp.weixin.qq.com/s/QWu6EaoDezGFzpl6euei8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>声网 X 在线自习室  同学陪伴、老师监督的在线自习是如何火出圈的？</title>
     <updated>2021-01-12T21:05:48+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-17T18:35:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/FYtq2pFjofhW5YcUTbsREA</id>
     <link href="https://mp.weixin.qq.com/s/FYtq2pFjofhW5YcUTbsREA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播预告｜Rust实时音视频技术实践与分享</title>
-    <updated>2020-12-15T18:49:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/rr3hhxTzacd7kV1-_14RFQ</id>
-    <link href="https://mp.weixin.qq.com/s/rr3hhxTzacd7kV1-_14RFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

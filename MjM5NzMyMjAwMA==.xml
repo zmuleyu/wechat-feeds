@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:44:51+08:00</updated>
+  <updated>2021-01-15T20:41:11+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>单点登录的三种实现方式</title>
+    <updated>2021-01-15T18:46:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/-n9tfheEkMiKK7kzpJGCHQ</id>
+    <link href="https://mp.weixin.qq.com/s/-n9tfheEkMiKK7kzpJGCHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kotlin 开发团队惹上麻烦了!</title>
+    <updated>2021-01-15T18:46:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/Ed7L4iq94wGqp9JX5qhnkA</id>
+    <link href="https://mp.weixin.qq.com/s/Ed7L4iq94wGqp9JX5qhnkA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>那些总是写“烂代码”的同学，强烈推荐你用这款 IDEA 插件！</title>
     <updated>2021-01-14T16:41:10+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2021-01-05T21:10:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/DF7MbZYWfaSN2pMvQMm08g</id>
     <link href="https://mp.weixin.qq.com/s/DF7MbZYWfaSN2pMvQMm08g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java日常开发的21个坑，你踩过几个？</title>
-    <updated>2021-01-05T21:19:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/vv4cVXF5XE-FThGi5T2PPA</id>
-    <link href="https://mp.weixin.qq.com/s/vv4cVXF5XE-FThGi5T2PPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

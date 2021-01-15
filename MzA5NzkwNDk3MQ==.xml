@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T16:55:46+08:00</updated>
+  <updated>2021-01-15T20:46:12+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 381 期：2020 年度 JavaScript 现状调查报告</title>
+    <updated>2021-01-15T17:02:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/huFPd1aOtE2DOUJnoUm_1w</id>
+    <link href="https://mp.weixin.qq.com/s/huFPd1aOtE2DOUJnoUm_1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈移动端开发技术</title>
     <updated>2021-01-14T14:08:47+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-06T14:24:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/GaPRc1HED-t5Gxgk5Q0PUA</id>
     <link href="https://mp.weixin.qq.com/s/GaPRc1HED-t5Gxgk5Q0PUA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我是如何将网页性能提升5倍的 — 网络优化篇</title>
-    <updated>2021-01-05T18:26:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/VBizeUtmQE2vdyeS2MJEuw</id>
-    <link href="https://mp.weixin.qq.com/s/VBizeUtmQE2vdyeS2MJEuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

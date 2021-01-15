@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>痞子衡嵌入式 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:52:46+08:00</updated>
+  <updated>2021-01-15T20:51:38+08:00</updated>
   <subtitle>号主痞子衡，NXP资深系统工程师，CSDN博客专家，博客园前5K名。痞子衡会分享嵌入式相关原创文章（主攻MCU上的音视频算法、混合仪器、人工智能实现）。痞子衡也正在推出《嵌入式半月刊》，分享嵌入式领域有用有趣的工具/项目/热点新闻</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -43,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>3天，让你的C++从入门到精通</title>
-    <updated>2021-01-05T15:21:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/DigLueiPP8x-Y-M7RyMKIw</id>
-    <link href="https://mp.weixin.qq.com/s/DigLueiPP8x-Y-M7RyMKIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>MCUXpresso IDE下添加新路径下源文件进工程编译的方法</title>
     <updated>2021-01-02T16:59:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/Ahb39HTB5AeUPy3_Yp9QwQ</id>
@@ -75,6 +68,13 @@
     <updated>2020-12-25T19:30:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/O-HAYl9DdUnyLvbBAtnyAA</id>
     <link href="https://mp.weixin.qq.com/s/O-HAYl9DdUnyLvbBAtnyAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>痞子衡嵌入式半月刊：第 22 期</title>
+    <updated>2020-12-22T20:31:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-22:/s/MLGdDWt_xnqMlBLDjninmg</id>
+    <link href="https://mp.weixin.qq.com/s/MLGdDWt_xnqMlBLDjninmg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

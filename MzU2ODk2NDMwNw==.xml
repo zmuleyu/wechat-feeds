@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ccww技术博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:45:53+08:00</updated>
+  <updated>2021-01-15T20:43:24+08:00</updated>
   <subtitle>经典面试题分析与解读以及技术Spring 、Spring boot、Spring cloud以及Docker后端等技术研究和源码分析，且会不定期分享集理财经验.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>原创 | 消息中间件的工作原理和RabbitMQ入门</title>
+    <updated>2021-01-15T18:19:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/b_WNn7S-eldFahOKqErfcw</id>
+    <link href="https://mp.weixin.qq.com/s/b_WNn7S-eldFahOKqErfcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【干货】史上最好的排序和数据结构入门</title>
     <updated>2021-01-14T19:00:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-30T09:16:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-30:/s/d1DgBwrv3aaxjOBGdH2wlA</id>
     <link href="https://mp.weixin.qq.com/s/d1DgBwrv3aaxjOBGdH2wlA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试：谈谈你对ReentrantReadWriteLock的理解，推荐看看（图解版）</title>
-    <updated>2020-09-29T22:29:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-29:/s/C_-bAm4A_x8kjoxGXKD6Dw</id>
-    <link href="https://mp.weixin.qq.com/s/C_-bAm4A_x8kjoxGXKD6Dw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

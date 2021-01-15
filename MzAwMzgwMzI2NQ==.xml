@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T16:30:40+08:00</updated>
+  <updated>2021-01-15T20:53:41+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第29节，非阻塞通道听select指挥</title>
+    <updated>2021-01-15T17:01:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/1RlX-v4YU8ltFnQZ7XIYag</id>
+    <link href="https://mp.weixin.qq.com/s/1RlX-v4YU8ltFnQZ7XIYag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第28节，通道超时处理select妙用</title>
     <updated>2021-01-14T14:00:37+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T18:02:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/k7kyw277h2JnQUPlvoHquw</id>
     <link href="https://mp.weixin.qq.com/s/k7kyw277h2JnQUPlvoHquw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【趣图】编程社区调查显示，Java程序员最苦逼，C++程序员最年老，是这样的么？</title>
-    <updated>2020-12-23T20:57:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/jqjz4dNk7TtNrnGZ1dKFzg</id>
-    <link href="https://mp.weixin.qq.com/s/jqjz4dNk7TtNrnGZ1dKFzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

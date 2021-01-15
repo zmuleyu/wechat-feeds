@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:33:03+08:00</updated>
+  <updated>2021-01-15T20:31:25+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>美国网络空间组织架构</title>
+    <updated>2021-01-15T16:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/AX185Yar852gj6iBbf1H9A</id>
+    <link href="https://mp.weixin.qq.com/s/AX185Yar852gj6iBbf1H9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为何incaseformat病毒在1月13日集中爆发，下次爆发时间为？</title>
+    <updated>2021-01-15T16:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/eR9IMptUkh4MFT2XSPeGag</id>
+    <link href="https://mp.weixin.qq.com/s/eR9IMptUkh4MFT2XSPeGag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>伊朗黑客借DoH“隐身”，NSA建议企业使用“指定的”DNS解析器</title>
+    <updated>2021-01-15T16:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/2luYujH00TjlYj3uwrRPrA</id>
+    <link href="https://mp.weixin.qq.com/s/2luYujH00TjlYj3uwrRPrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>隐藏在网站 CSS 中的窃密脚本</title>
+    <updated>2021-01-15T16:22:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/v8UUuUV_Gp-B-otDPjJFCQ</id>
+    <link href="https://mp.weixin.qq.com/s/v8UUuUV_Gp-B-otDPjJFCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对incaseformat蠕虫事件的一些思考</title>
     <updated>2021-01-14T17:53:14+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-11T20:22:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/pQ5Nngk1LjSeyziUQfATjg</id>
     <link href="https://mp.weixin.qq.com/s/pQ5Nngk1LjSeyziUQfATjg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>渗透测试之地基钓鱼篇：thinkphp平台XSS钓鱼</title>
-    <updated>2021-01-10T18:22:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/t6z0-WnxMyBLvHxpMzOW2g</id>
-    <link href="https://mp.weixin.qq.com/s/t6z0-WnxMyBLvHxpMzOW2g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用Bulwark实现组织的资产以及漏洞管理</title>
-    <updated>2021-01-10T18:22:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/oCRyoOP2vVKSUdb9rTjqOw</id>
-    <link href="https://mp.weixin.qq.com/s/oCRyoOP2vVKSUdb9rTjqOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用NFCGate对Android进行NFC安全研究</title>
-    <updated>2021-01-10T18:22:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/E9gpSxjYkWaJ7XsaVckkxg</id>
-    <link href="https://mp.weixin.qq.com/s/E9gpSxjYkWaJ7XsaVckkxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何对二进制代码进行定向模糊测试以扫描用后释放漏洞</title>
-    <updated>2021-01-10T18:22:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/gmvFcc8FQk3v63XuWtQrtw</id>
-    <link href="https://mp.weixin.qq.com/s/gmvFcc8FQk3v63XuWtQrtw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

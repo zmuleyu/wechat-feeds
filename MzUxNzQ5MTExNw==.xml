@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zartbot | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:55:35+08:00</updated>
+  <updated>2021-01-15T20:52:50+08:00</updated>
   <subtitle>随便记录点有趣的东西</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谈谈nanoPU、片上网络、算力网络</title>
+    <updated>2021-01-15T17:27:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/2QDSLp0qXqm8zlMcMhEYPg</id>
+    <link href="https://mp.weixin.qq.com/s/2QDSLp0qXqm8zlMcMhEYPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>腾云？驾雾？多云和算力网络</title>
     <updated>2021-01-13T16:59:40+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-24T00:58:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/U1TW3p3fGOmFAk3BWCAheA</id>
     <link href="https://mp.weixin.qq.com/s/U1TW3p3fGOmFAk3BWCAheA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据中心基础架构运维：供电篇</title>
-    <updated>2020-12-18T10:48:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/LRC0x2YJ_yijG0FgZeSpOg</id>
-    <link href="https://mp.weixin.qq.com/s/LRC0x2YJ_yijG0FgZeSpOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

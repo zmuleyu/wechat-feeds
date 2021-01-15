@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>未闻Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:30:55+08:00</updated>
+  <updated>2021-01-15T20:30:30+08:00</updated>
   <subtitle>博主喜欢Python和爬虫，已经出了两本书。这里是他灵感的发源地。关注这个公众号，你的生产效率在三天内就会得到提高。P.S.: 这个公众号日更。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>偏函数：在Python中设定默认参数的另一种办法</title>
+    <updated>2021-01-15T19:53:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/veP19kUQgnyiivDoJH8_9g</id>
+    <link href="https://mp.weixin.qq.com/s/veP19kUQgnyiivDoJH8_9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一日一技：限制你的Python程序所能使用的最大内存</title>
     <updated>2021-01-14T20:40:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-01T11:35:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/TE0nCCZ3kiFq4zw99SnM5A</id>
     <link href="https://mp.weixin.qq.com/s/TE0nCCZ3kiFq4zw99SnM5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知乎最新反爬虫的绕过方案</title>
-    <updated>2020-12-29T20:34:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/0qP-chN4MbJKyadbl90rxA</id>
-    <link href="https://mp.weixin.qq.com/s/0qP-chN4MbJKyadbl90rxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

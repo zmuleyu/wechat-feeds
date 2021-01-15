@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯大讲堂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:50:16+08:00</updated>
+  <updated>2021-01-15T20:48:05+08:00</updated>
   <subtitle>给成长加点料！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【用研模型】价格敏感测试模型应用到内容研究中</title>
+    <updated>2021-01-15T18:00:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/p7Nx2nS9OC2JzmEIsMYn-g</id>
+    <link href="https://mp.weixin.qq.com/s/p7Nx2nS9OC2JzmEIsMYn-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用“新”了解用户-数据赋能之路</title>
     <updated>2021-01-14T18:03:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T18:00:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/_d52yN1G2LJWmnYWV_mAWg</id>
     <link href="https://mp.weixin.qq.com/s/_d52yN1G2LJWmnYWV_mAWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯云基于Alluxio优化计算存储分离架构的最佳实践</title>
-    <updated>2020-12-31T18:48:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/3BEEGAQixQ3GwOJ_yt0UMg</id>
-    <link href="https://mp.weixin.qq.com/s/3BEEGAQixQ3GwOJ_yt0UMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

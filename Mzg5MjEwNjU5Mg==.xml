@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全泰式柑汁 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:31:22+08:00</updated>
+  <updated>2021-01-15T20:44:11+08:00</updated>
   <subtitle>记录、分享自己的一些安全知识和心得</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>短链接安全</title>
+    <updated>2021-01-15T10:26:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/B50AOseyjyR4cBwU7H1GqQ</id>
+    <link href="https://mp.weixin.qq.com/s/B50AOseyjyR4cBwU7H1GqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>白帽赏金平台XSS漏洞模糊测试有效载荷最佳集合 2020版</title>
     <updated>2020-12-03T22:16:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-04-06T20:16:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-04-06:/s/iIg4naZmeIHdQ0jZ7E2Tbw</id>
     <link href="https://mp.weixin.qq.com/s/iIg4naZmeIHdQ0jZ7E2Tbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BurpSuite插件开发之Fastjson自动化检测</title>
-    <updated>2020-03-06T01:10:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-03-06:/s/j35KGUBkSaM8lLgmpdj7QA</id>
-    <link href="https://mp.weixin.qq.com/s/j35KGUBkSaM8lLgmpdj7QA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

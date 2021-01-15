@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯安全应急响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:52:22+08:00</updated>
+  <updated>2021-01-15T20:52:01+08:00</updated>
   <subtitle>腾讯安全应急响应中心（TSRC）官方微信</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于机器学习的Web管理后台识别方法探索</title>
+    <updated>2021-01-15T17:28:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/vccQcK2GNqWkGuxEGe22Zg</id>
+    <link href="https://mp.weixin.qq.com/s/vccQcK2GNqWkGuxEGe22Zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>侠者心，不独行</title>
     <updated>2021-01-14T18:31:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T18:52:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/9N1nO1KwR-IEz2RYedhNEQ</id>
     <link href="https://mp.weixin.qq.com/s/9N1nO1KwR-IEz2RYedhNEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面向DevSecOps的编码安全指南｜JavaScript篇</title>
-    <updated>2020-11-27T17:29:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/pEll9Gz8sZ5107TLC3x-uA</id>
-    <link href="https://mp.weixin.qq.com/s/pEll9Gz8sZ5107TLC3x-uA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:27:56+08:00</updated>
+  <updated>2021-01-15T20:25:12+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>译文｜Apache Pulsar 性能调优之架构</title>
+    <updated>2021-01-15T18:31:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/sZBSc6s_l3ALEY-Qibn3RQ</id>
+    <link href="https://mp.weixin.qq.com/s/sZBSc6s_l3ALEY-Qibn3RQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Pulsar 2020 年度总结：在开源的路上一往无前</title>
     <updated>2021-01-14T19:07:26+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-31T18:04:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/2SAFzuJNLd9i2uJAzn6QnA</id>
     <link href="https://mp.weixin.qq.com/s/2SAFzuJNLd9i2uJAzn6QnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>StreamNative CEO 郭斯杰带你深度解析“消息、流、存储”三位一体融合趋势</title>
-    <updated>2020-12-30T19:17:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/9XUdhLr4JzSEsFucf_bE2Q</id>
-    <link href="https://mp.weixin.qq.com/s/9XUdhLr4JzSEsFucf_bE2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

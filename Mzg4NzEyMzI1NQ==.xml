@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T16:47:49+08:00</updated>
+  <updated>2021-01-15T20:36:52+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Jenkins + Serverless Framework 助力无服务器应用构建与部署</title>
+    <updated>2021-01-15T17:01:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/i1uYMt-BlMXY79ajswlZYw</id>
+    <link href="https://mp.weixin.qq.com/s/i1uYMt-BlMXY79ajswlZYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>输入几行代码，轻松迁移 SpringBoot 应用上云</title>
     <updated>2021-01-14T16:22:06+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2020-12-30T17:51:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/SItpNuf6epua_kSGYYk02g</id>
     <link href="https://mp.weixin.qq.com/s/SItpNuf6epua_kSGYYk02g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CODING CI &amp; 腾讯云 Serverless 强强联合，助力企业快速上云</title>
-    <updated>2020-12-30T11:45:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Ig4BSpXMDONqEfk434RxqA</id>
-    <link href="https://mp.weixin.qq.com/s/Ig4BSpXMDONqEfk434RxqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不改一行代码！快速迁移 Koa 应用上云</title>
-    <updated>2020-12-30T11:45:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/Evxqa9ocvLi_Q546ccfAKg</id>
-    <link href="https://mp.weixin.qq.com/s/Evxqa9ocvLi_Q546ccfAKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
