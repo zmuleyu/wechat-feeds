@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:06:30+08:00</updated>
+  <updated>2021-01-15T16:36:30+08:00</updated>
   <subtitle>全球Python中文开发者的精神部落</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -57,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>从私域流量到增长黑客，产品运营必备的方法论</title>
-    <updated>2021-01-11T17:32:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/MJ5P_5LjHt_1Teq6Se8dvQ</id>
-    <link href="https://mp.weixin.qq.com/s/MJ5P_5LjHt_1Teq6Se8dvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Python 荣登 TIOBE 2020 年度编程语言</title>
     <updated>2021-01-10T18:03:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/CWFRVwoJxHrIrB5VFYr38g</id>
@@ -99,20 +92,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>CPA证书不香？全职备考两年拿到证，月薪6000涨到20000。</title>
-    <updated>2021-01-08T20:16:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/FylY-tuetgyc5hQT7zayQA</id>
-    <link href="https://mp.weixin.qq.com/s/FylY-tuetgyc5hQT7zayQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年度最受欢迎的编程语言—Python要怎么学？</title>
-    <updated>2021-01-08T20:16:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/T1wBrmmEQBvnIfIjt11cWA</id>
-    <link href="https://mp.weixin.qq.com/s/T1wBrmmEQBvnIfIjt11cWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>钱袋子往哪走？教你用Python爬取基金数据</title>
     <updated>2021-01-08T20:16:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/3fGy2PWeGu6goNvkE5uszg</id>
@@ -127,24 +106,45 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>自从学了Python，全网资源随心下！</title>
-    <updated>2021-01-07T22:38:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7ONhKFC9LushHa7AdJuWnw</id>
-    <link href="https://mp.weixin.qq.com/s/7ONhKFC9LushHa7AdJuWnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何快速找到一份好工作 → 你的就业指南针</title>
-    <updated>2021-01-07T22:38:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/HGR9SVN2yL2iHOuxuD986g</id>
-    <link href="https://mp.weixin.qq.com/s/HGR9SVN2yL2iHOuxuD986g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>基于 Python 实践感知器分类算法</title>
     <updated>2021-01-06T17:12:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/My-G5-tw4iOU8jwaOsBPUA</id>
     <link href="https://mp.weixin.qq.com/s/My-G5-tw4iOU8jwaOsBPUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>漫画 | 你的2020年度计划完成了吗？</title>
+    <updated>2021-01-06T17:12:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/fU9SVcASlrZ8hmdJncq8lg</id>
+    <link href="https://mp.weixin.qq.com/s/fU9SVcASlrZ8hmdJncq8lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>简约而不简单的 Django 框架详解</title>
+    <updated>2021-01-06T16:15:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Y7p6xgm_f3hER1WO_j8-nQ</id>
+    <link href="https://mp.weixin.qq.com/s/Y7p6xgm_f3hER1WO_j8-nQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用 Python 分析香港楼市</title>
+    <updated>2021-01-06T16:15:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/P9rCcqc9n_R4wAb-dWy8Uw</id>
+    <link href="https://mp.weixin.qq.com/s/P9rCcqc9n_R4wAb-dWy8Uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用 pipenv 管理项目环境</title>
+    <updated>2021-01-04T20:50:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/edOjxQWkZxru1HGvXQlvzw</id>
+    <link href="https://mp.weixin.qq.com/s/edOjxQWkZxru1HGvXQlvzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开源 | 安全帽佩戴检测数据集</title>
+    <updated>2021-01-04T20:50:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-04:/s/9iUCDwbQKpuOMsGrBXMJLQ</id>
+    <link href="https://mp.weixin.qq.com/s/9iUCDwbQKpuOMsGrBXMJLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

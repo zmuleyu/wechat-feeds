@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>1024译站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T17:03:07+08:00</updated>
+  <updated>2021-01-15T16:55:40+08:00</updated>
   <subtitle>茶余饭后翻一翻，说不定又涨姿势了呢？1024 的世界，程序员最懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>快过年了，用 JS 让你的网页放烟花吧</title>
+    <updated>2021-01-15T15:15:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/Qetv-SzNkjJS7tE-rXlPfg</id>
+    <link href="https://mp.weixin.qq.com/s/Qetv-SzNkjJS7tE-rXlPfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>margin: auto 的魔法世界</title>
     <updated>2021-01-14T15:26:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T18:41:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/5rJdjkVvIG1t-5YoQCTW0g</id>
     <link href="https://mp.weixin.qq.com/s/5rJdjkVvIG1t-5YoQCTW0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多端多页面项目 Webpack 打包实践与优化</title>
-    <updated>2020-12-30T08:36:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/wqz3j9i1xurRDiXYy5EeGQ</id>
-    <link href="https://mp.weixin.qq.com/s/wqz3j9i1xurRDiXYy5EeGQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

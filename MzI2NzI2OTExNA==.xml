@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小米安全中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T20:12:25+08:00</updated>
+  <updated>2021-01-15T16:45:05+08:00</updated>
   <subtitle>小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MiSRC邀你参加隐私政策欢乐捉虫</title>
+    <updated>2021-01-15T12:18:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/FgGB0wJhg-9lvkYdqYr82g</id>
+    <link href="https://mp.weixin.qq.com/s/FgGB0wJhg-9lvkYdqYr82g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>小米安全亮相华住安全沙龙，分享小米AIoT智能安全评估实践</title>
     <updated>2021-01-06T18:59:07+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-11-21T18:59:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/S6-hqDZziyYR6GNp7t3siQ</id>
     <link href="https://mp.weixin.qq.com/s/S6-hqDZziyYR6GNp7t3siQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AIoT安全峰会议题回顾｜破壁：探索IoT通信安全的研究之道</title>
-    <updated>2020-11-20T18:41:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/8WN6hf1t8Z8CCX6e6IBYcA</id>
-    <link href="https://mp.weixin.qq.com/s/8WN6hf1t8Z8CCX6e6IBYcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

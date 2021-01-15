@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>横云断岭的专栏 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:05:45+08:00</updated>
+  <updated>2021-01-15T16:41:05+08:00</updated>
   <subtitle>Arthas, Dubbo, Spring Boot, Java, 微服务, APM</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Arthas 3.4.6版本发布，全新版本的热更新功能</title>
+    <updated>2021-01-15T16:27:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/A-aGTyZDVIcU9gfXsuvSVw</id>
+    <link href="https://mp.weixin.qq.com/s/A-aGTyZDVIcU9gfXsuvSVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Boot微服务性能下降九成！使用Arthas定位根因</title>
     <updated>2021-01-05T14:18:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-27T19:42:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-27:/s/pMSYqXe-av6qflLirotBRA</id>
     <link href="https://mp.weixin.qq.com/s/pMSYqXe-av6qflLirotBRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>是谁在调用我？使用arthas+jprofiler做复杂链路分析</title>
-    <updated>2020-08-11T17:27:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-11:/s/atCmxnpgfnv7Q_kklnec_g</id>
-    <link href="https://mp.weixin.qq.com/s/atCmxnpgfnv7Q_kklnec_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

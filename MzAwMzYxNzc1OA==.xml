@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>酒仙桥六号部队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T16:48:57+08:00</updated>
+  <updated>2021-01-15T16:43:20+08:00</updated>
   <subtitle>知其黑，守其白。 分享知识盛宴，闲聊大院趣事，备好酒肉等你！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>针对某C/S架构系统的渗透测试</title>
+    <updated>2021-01-15T15:39:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/w5872kxzkoYo97pZ5S6e2A</id>
+    <link href="https://mp.weixin.qq.com/s/w5872kxzkoYo97pZ5S6e2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>渗透测试之啥也不是</title>
     <updated>2021-01-13T14:45:04+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-12-30T16:30:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/s8ElKOwPuFEr6erpB85Gjg</id>
     <link href="https://mp.weixin.qq.com/s/s8ElKOwPuFEr6erpB85Gjg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>hook从未如此丝滑</title>
-    <updated>2020-12-29T18:17:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/hVJdzh3m5p0kUZg-yF_twQ</id>
-    <link href="https://mp.weixin.qq.com/s/hVJdzh3m5p0kUZg-yF_twQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>英国NCA访问WeLeakInfo用户，警告他们使用被盗数据</title>
-    <updated>2020-12-29T18:17:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/96xqsXty66KZsMCtZsCdjg</id>
-    <link href="https://mp.weixin.qq.com/s/96xqsXty66KZsMCtZsCdjg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
