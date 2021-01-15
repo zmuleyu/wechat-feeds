@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>caiyongji | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:37:26+08:00</updated>
+  <updated>2021-01-16T02:49:20+08:00</updated>
   <subtitle>你发现没有，敢用自己名字的公众号通常干货满满。2021年：专注于人工智能领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>机器学习(一)：5分钟理解机器学习并上手实践</title>
+    <updated>2021-01-15T23:56:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/-KsbtgOc3C3ry-8P5f8K-Q</id>
+    <link href="https://mp.weixin.qq.com/s/-KsbtgOc3C3ry-8P5f8K-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Google出品TensorFlow开发者认证计划的配套入门课程：机器学习 Study Jam 第三季报名启动！组队通关，快乐 x 3！</title>
     <updated>2021-01-04T13:01:56+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T03:32:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/XF5IQd94Ym28TFQWPOk55A</id>
     <link href="https://mp.weixin.qq.com/s/XF5IQd94Ym28TFQWPOk55A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前置机器学习（二）：30分钟掌握常用Jupyter Notebook用法</title>
-    <updated>2020-12-02T01:05:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/PCGThwI-YD7_hHxO35V8xw</id>
-    <link href="https://mp.weixin.qq.com/s/PCGThwI-YD7_hHxO35V8xw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

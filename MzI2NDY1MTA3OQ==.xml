@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>铭毅天下Elasticsearch | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T07:50:13+08:00</updated>
+  <updated>2021-01-16T02:39:13+08:00</updated>
   <subtitle>Elasticsearch技术基础、进阶、实战第一公众号！ 和你一起，死磕ELK Stack（Elasticsearch/Logstash/Kibana/Beats）!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大事！！Elasticsearch 和 Kibana 换开源协议了......</title>
+    <updated>2021-01-16T00:44:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/j2kvYHI9fHkODFvKrZh1HQ</id>
+    <link href="https://mp.weixin.qq.com/s/j2kvYHI9fHkODFvKrZh1HQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Elasticsearch 缓存深入详解</title>
     <updated>2021-01-08T00:11:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T21:54:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/zHcbLGp807wpWLIbyXhSiA</id>
     <link href="https://mp.weixin.qq.com/s/zHcbLGp807wpWLIbyXhSiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从实战中来，到实战中去——Elasticsearch 技能更快提升方法论</title>
-    <updated>2020-12-05T23:49:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-05:/s/ImQ70xMKHRShE06uGXYMRQ</id>
-    <link href="https://mp.weixin.qq.com/s/ImQ70xMKHRShE06uGXYMRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

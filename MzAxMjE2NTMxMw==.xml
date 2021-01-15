@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>amazingdotnet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:26:48+08:00</updated>
+  <updated>2021-01-16T02:53:34+08:00</updated>
   <subtitle>dotnet 开发知识库，了不起的 dotnet，dotnet 奇淫怪巧</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>HttpClientFactory 结合 Polly 轻松实现重试机制</title>
+    <updated>2021-01-15T23:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/8QWU594fLPn1OmrIRZl8Rg</id>
+    <link href="https://mp.weixin.qq.com/s/8QWU594fLPn1OmrIRZl8Rg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年首届.NET线下沙龙上海站 - .NET Meetup in Shanghai</title>
     <updated>2021-01-13T22:49:48+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-28T23:45:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/prT_JoD_nWEpGzA05FrsiA</id>
     <link href="https://mp.weixin.qq.com/s/prT_JoD_nWEpGzA05FrsiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 xunit 测试项目中使用依赖注入</title>
-    <updated>2020-12-26T22:24:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/Whz7aiuOeMszglbN8H03bQ</id>
-    <link href="https://mp.weixin.qq.com/s/Whz7aiuOeMszglbN8H03bQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

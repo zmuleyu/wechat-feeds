@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:28:21+08:00</updated>
+  <updated>2021-01-16T02:21:36+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Transformer为何能闯入CV界秒杀CNN？</title>
+    <updated>2021-01-15T23:24:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/Rm899vLhmZ5eCjuy6mW_HA</id>
+    <link href="https://mp.weixin.qq.com/s/Rm899vLhmZ5eCjuy6mW_HA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从源码学习Transformer！</title>
+    <updated>2021-01-15T23:24:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/7cCm501zNt-Fw7bW2rqQaQ</id>
+    <link href="https://mp.weixin.qq.com/s/7cCm501zNt-Fw7bW2rqQaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年，我终于决定入门GCN</title>
+    <updated>2021-01-15T23:24:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/SWQHgogAP164Kr082YkF4A</id>
+    <link href="https://mp.weixin.qq.com/s/SWQHgogAP164Kr082YkF4A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>PyTorch 源码解读之 torch.utils.data</title>
     <updated>2021-01-14T19:39:11+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-07T17:00:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/UisH8RDrZ_xjReYVQkoGTw</id>
     <link href="https://mp.weixin.qq.com/s/UisH8RDrZ_xjReYVQkoGTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人人必须要知道的语义分割模型：DeepLabv3+</title>
-    <updated>2021-01-07T17:00:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/X0d5hFaw5S0aO6BraS-zmg</id>
-    <link href="https://mp.weixin.qq.com/s/X0d5hFaw5S0aO6BraS-zmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>人人必须要知道的语义分割模型：DeepLabv3+</title>
-    <updated>2021-01-06T18:37:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ifsKfZ62VHbydzzU8N1lnw</id>
-    <link href="https://mp.weixin.qq.com/s/ifsKfZ62VHbydzzU8N1lnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>就一篇读者面经被疯狂diss谈谈：校招/社招技术面试那些事</title>
-    <updated>2021-01-05T17:28:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/sML_Qo-c-ijP6lxlqMS4MA</id>
-    <link href="https://mp.weixin.qq.com/s/sML_Qo-c-ijP6lxlqMS4MA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
