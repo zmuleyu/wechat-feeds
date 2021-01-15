@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>智能计算芯世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:13:26+08:00</updated>
+  <updated>2021-01-15T12:03:04+08:00</updated>
   <subtitle>人工智能，芯片设计和异构计算等领域知识分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux平台X86和ARM什么区别？</title>
+    <updated>2021-01-15T08:19:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/FC3c4y-D9U0BLPYRXQbuYQ</id>
+    <link href="https://mp.weixin.qq.com/s/FC3c4y-D9U0BLPYRXQbuYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>台积电、Intel和AMD相继推出摩尔定律续命技术：Chiplets（芯粒）</title>
     <updated>2021-01-14T08:21:40+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-05T22:58:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/ufereaAQRDwr10CpzyvtAg</id>
     <link href="https://mp.weixin.qq.com/s/ufereaAQRDwr10CpzyvtAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASIC芯片基础知识详解</title>
-    <updated>2021-01-04T21:58:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/0EIxXzdFaAcxj6XWrlS3lg</id>
-    <link href="https://mp.weixin.qq.com/s/0EIxXzdFaAcxj6XWrlS3lg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

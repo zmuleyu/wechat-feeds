@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:26:12+08:00</updated>
+  <updated>2021-01-15T12:14:46+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>送书｜Python 荣获 2020 年度 TIOBE 编程语言奖！</title>
+    <updated>2021-01-14T17:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/X33adeaJVfZppzQPA3rKCA</id>
+    <link href="https://mp.weixin.qq.com/s/X33adeaJVfZppzQPA3rKCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>理解 Python 协程</title>
+    <updated>2021-01-14T17:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/CKjFHV-xFfK_n_9DKFq6Eg</id>
+    <link href="https://mp.weixin.qq.com/s/CKjFHV-xFfK_n_9DKFq6Eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>把“烦恼”放进看板，开源免费的项目管理工具来帮你啦！</title>
     <updated>2021-01-13T17:30:09+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-12-27T21:27:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/tbGpQPcG0coKeXdrQBWFWg</id>
     <link href="https://mp.weixin.qq.com/s/tbGpQPcG0coKeXdrQBWFWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>回顾 2020 年 GitHub 的大事件，你知道多少？</title>
-    <updated>2020-12-23T20:44:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/1-KDs9yr_qH7J01O9cs3hQ</id>
-    <link href="https://mp.weixin.qq.com/s/1-KDs9yr_qH7J01O9cs3hQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

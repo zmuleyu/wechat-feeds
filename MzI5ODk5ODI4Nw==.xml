@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:25:35+08:00</updated>
+  <updated>2021-01-15T12:13:38+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>KubeEdge应用案例 |助力边缘云生态共建，加速云原生落地创新</title>
+    <updated>2021-01-15T10:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/wdSp6jyEm1QMFP6uR9FsMw</id>
+    <link href="https://mp.weixin.qq.com/s/wdSp6jyEm1QMFP6uR9FsMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>蚂蚁Service Mesh大规模落地实践与展望</title>
+    <updated>2021-01-15T10:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/FZHCuc4RGetWQAIzVwOeJA</id>
+    <link href="https://mp.weixin.qq.com/s/FZHCuc4RGetWQAIzVwOeJA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「我的工作是制造混沌」，我与 Chaos Mesh®  的故事</title>
+    <updated>2021-01-15T10:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/exUXOwLz_tJynUh_reNPNA</id>
+    <link href="https://mp.weixin.qq.com/s/exUXOwLz_tJynUh_reNPNA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Containerd镜像lazy-pulling解读</title>
+    <updated>2021-01-15T10:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/zS3DN75e2JAiiU8snN9oZw</id>
+    <link href="https://mp.weixin.qq.com/s/zS3DN75e2JAiiU8snN9oZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rook 1.5.1 部署 Ceph 实操经验分享</title>
+    <updated>2021-01-15T10:33:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/3Ghj3qP4SQvKS5RbwtCi1w</id>
+    <link href="https://mp.weixin.qq.com/s/3Ghj3qP4SQvKS5RbwtCi1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OpenYurt v0.3.0 重磅发布：全面提升边缘场景下应用部署效率</title>
     <updated>2021-01-14T11:24:57+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-12T11:27:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/tEfqungAx3mYkFJ7l6D9Yg</id>
     <link href="https://mp.weixin.qq.com/s/tEfqungAx3mYkFJ7l6D9Yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 如果是个水族馆</title>
-    <updated>2021-01-12T11:27:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/D4tvlI2-Tl-RtKDYcvvNSw</id>
-    <link href="https://mp.weixin.qq.com/s/D4tvlI2-Tl-RtKDYcvvNSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Falco检测Kubernetes安全问题简介</title>
-    <updated>2021-01-11T11:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7Ns_COieGRpmWbEPGvS33g</id>
-    <link href="https://mp.weixin.qq.com/s/7Ns_COieGRpmWbEPGvS33g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文搞定全场景K3s离线安装</title>
-    <updated>2021-01-11T11:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/KkGxzH66GyZOibtPIxaJyA</id>
-    <link href="https://mp.weixin.qq.com/s/KkGxzH66GyZOibtPIxaJyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 存储原理解析</title>
-    <updated>2021-01-11T11:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/X-gQtRXRjhLQKtnG_lOVxA</id>
-    <link href="https://mp.weixin.qq.com/s/X-gQtRXRjhLQKtnG_lOVxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生制品那些事(4)：Registry 的作用原理</title>
-    <updated>2021-01-11T11:13:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/w1zbXkrDUvSvQD5q05CZ4A</id>
-    <link href="https://mp.weixin.qq.com/s/w1zbXkrDUvSvQD5q05CZ4A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农约翰的沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:45:55+08:00</updated>
+  <updated>2021-01-15T12:04:52+08:00</updated>
   <subtitle>个人博客文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spring中为什么要引入Lookup注解</title>
+    <updated>2021-01-15T09:44:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/1fMoQBesnqvFamJJUo9CZQ</id>
+    <link href="https://mp.weixin.qq.com/s/1fMoQBesnqvFamJJUo9CZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring框架中的设计杂谈之一</title>
     <updated>2021-01-13T21:55:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T22:27:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/Z1EscVd_a4TuHatfhttpZQ</id>
     <link href="https://mp.weixin.qq.com/s/Z1EscVd_a4TuHatfhttpZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：说一说 Spring 配置idref标签作用吧，我懵逼了...</title>
-    <updated>2020-11-19T13:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/xpOD3-LMNPPDBmmz7pvx4A</id>
-    <link href="https://mp.weixin.qq.com/s/xpOD3-LMNPPDBmmz7pvx4A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

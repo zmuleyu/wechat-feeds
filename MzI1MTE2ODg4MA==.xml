@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大邓和他的Python | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:56:05+08:00</updated>
+  <updated>2021-01-15T11:48:48+08:00</updated>
   <subtitle>管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求原创文章末尾附有实验代码和数据，方便大家看后动手练习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为宣布:免费培养2000名大数据开发者!</title>
+    <updated>2021-01-14T18:01:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/98uVNOaN9Qw4nAFFlaer0Q</id>
+    <link href="https://mp.weixin.qq.com/s/98uVNOaN9Qw4nAFFlaer0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python脚本打包成exe，看这一篇就够了！</title>
+    <updated>2021-01-14T18:01:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/sISFfZrVnAJEC72tB552yA</id>
+    <link href="https://mp.weixin.qq.com/s/sISFfZrVnAJEC72tB552yA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python基础 | 新手学Python时常见的语法错误和异常</title>
     <updated>2021-01-14T10:31:39+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-02T18:15:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/d8rYqNNoNGzaqp4LTQz0lA</id>
     <link href="https://mp.weixin.qq.com/s/d8rYqNNoNGzaqp4LTQz0lA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 年度 Top10 的 Python 库出炉</title>
-    <updated>2021-01-02T17:56:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/TtDGA_IilL7X-myBgym1cA</id>
-    <link href="https://mp.weixin.qq.com/s/TtDGA_IilL7X-myBgym1cA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

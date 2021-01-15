@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:10:43+08:00</updated>
+  <updated>2021-01-15T12:01:53+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>macOS Big Sur 使用全新虚拟化框架创建超轻量虚拟机！</title>
+    <updated>2021-01-14T22:22:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/FiNyFf1aJ_9UYNMrXPQDEg</id>
+    <link href="https://mp.weixin.qq.com/s/FiNyFf1aJ_9UYNMrXPQDEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在云原生下设计高可用MySQL？今天讲透 MySQL 架构设计！</title>
     <updated>2021-01-14T00:06:59+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-03T15:37:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/pY4ZKkzgfTmoxsAjr5ckbQ</id>
     <link href="https://mp.weixin.qq.com/s/pY4ZKkzgfTmoxsAjr5ckbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 Kubernetes 中部署高可用 Harbor 镜像仓库</title>
-    <updated>2020-12-30T17:36:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/pRr8DxRvzyq-C-lmVgg6yw</id>
-    <link href="https://mp.weixin.qq.com/s/pRr8DxRvzyq-C-lmVgg6yw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

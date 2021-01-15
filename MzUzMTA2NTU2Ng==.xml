@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:14:03+08:00</updated>
+  <updated>2021-01-15T12:03:35+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>让海量数据瑟瑟发抖！这个MySQL分库分表方案，0失误！</title>
+    <updated>2021-01-14T23:37:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Qy9mnjD6ef7aveFEjiekJw</id>
+    <link href="https://mp.weixin.qq.com/s/Qy9mnjD6ef7aveFEjiekJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这样统计代码执行耗时，才足够优雅！</title>
+    <updated>2021-01-14T23:37:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/MerQ8LzkVgWqxK3Dq-AhTg</id>
+    <link href="https://mp.weixin.qq.com/s/MerQ8LzkVgWqxK3Dq-AhTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我们公司放弃了微服务，重回单体架构</title>
+    <updated>2021-01-14T23:37:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/qb0H88IuodAt7MiZAap1Aw</id>
+    <link href="https://mp.weixin.qq.com/s/qb0H88IuodAt7MiZAap1Aw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
     <updated>2021-01-14T00:03:42+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T01:49:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/MNrQyulBl9DIRO623ZLpkw</id>
     <link href="https://mp.weixin.qq.com/s/MNrQyulBl9DIRO623ZLpkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>撸一个 IDEA 防沉迷插件</title>
-    <updated>2021-01-09T01:05:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/kr_sF7-tx9tR7eCg_JxNJg</id>
-    <link href="https://mp.weixin.qq.com/s/kr_sF7-tx9tR7eCg_JxNJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1.3 万亿条数据查询，如何做到毫秒级响应？</title>
-    <updated>2021-01-09T01:05:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/mAETjYjp7qnC3MLbpXk9Pw</id>
-    <link href="https://mp.weixin.qq.com/s/mAETjYjp7qnC3MLbpXk9Pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别说，Cerebro 还真好用！老板再也不用担心 Elasticsearch 集群了</title>
-    <updated>2021-01-09T01:05:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/oEeYMBW17IrHr6_4zqL4YQ</id>
-    <link href="https://mp.weixin.qq.com/s/oEeYMBW17IrHr6_4zqL4YQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:21:49+08:00</updated>
+  <updated>2021-01-15T12:09:14+08:00</updated>
   <subtitle>专注于Web前端技术文章分享，包含JavaScript、HTML5、CSS3等前端基础知识，以及Vue.js,React,Augular等前端框架</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三种 Loading 制作方案</title>
+    <updated>2021-01-14T17:49:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/zb4bttLCASWZlwlrAJ-AKQ</id>
+    <link href="https://mp.weixin.qq.com/s/zb4bttLCASWZlwlrAJ-AKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>总结了工作中常用的 ES6 代码片段，整理后的 24 个值得拥有</title>
     <updated>2021-01-13T17:39:43+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-05T17:39:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/w_oLV9vF4fE8x-VqLWamwQ</id>
     <link href="https://mp.weixin.qq.com/s/w_oLV9vF4fE8x-VqLWamwQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>做前端的你有没有觉得很吃力？</title>
-    <updated>2021-01-04T17:30:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/_OZ2MDP7vLruCTY6Kk95pA</id>
-    <link href="https://mp.weixin.qq.com/s/_OZ2MDP7vLruCTY6Kk95pA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

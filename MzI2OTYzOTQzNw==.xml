@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>陌陌安全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T16:58:28+08:00</updated>
+  <updated>2021-01-15T12:08:47+08:00</updated>
   <subtitle>陌陌安全致力于守护陌陌亿万用户信息安全，为陌陌产品安全保驾护航，为亿万用户提供安全的互联网生态环境。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LARAVEL &lt;= V8.4.2 调试模式下的RCE分析</title>
+    <updated>2021-01-15T10:07:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/9y8UO8wwPQZPUBpaJVTG8Q</id>
+    <link href="https://mp.weixin.qq.com/s/9y8UO8wwPQZPUBpaJVTG8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于创新类产品漏洞收集说明</title>
     <updated>2021-01-14T14:51:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-27T09:57:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/klxrnqGXcSEuMdQLjktstw</id>
     <link href="https://mp.weixin.qq.com/s/klxrnqGXcSEuMdQLjktstw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>重大新闻 | 陌陌合规审计平台Bombus开源</title>
-    <updated>2020-09-21T12:18:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-21:/s/TcMQF399rdZg07vOrhtU4Q</id>
-    <link href="https://mp.weixin.qq.com/s/TcMQF399rdZg07vOrhtU4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

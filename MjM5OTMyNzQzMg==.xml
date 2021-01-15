@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java之道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:10:52+08:00</updated>
+  <updated>2021-01-15T12:01:09+08:00</updated>
   <subtitle>有道无术，术可成；有术无道，止于道；「Java之道」致力于为广大Javaer传道授业解惑。以术识道，以道御术；</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我竟然被“双亲委派”给虐了</title>
+    <updated>2021-01-14T21:43:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/HHR_08poN0L1iBRsQ-J0eQ</id>
+    <link href="https://mp.weixin.qq.com/s/HHR_08poN0L1iBRsQ-J0eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新同事上来就把项目性能优化了一遍，瑟瑟发抖。。。</title>
     <updated>2021-01-13T23:27:33+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2021-01-05T21:58:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/6U5zleYotovwNR0MYgZZ3Q</id>
     <link href="https://mp.weixin.qq.com/s/6U5zleYotovwNR0MYgZZ3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 慌了！这个分库分表方法，要火了？</title>
-    <updated>2021-01-05T08:45:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/3HUg3JlE2LWD_MyC92MiYw</id>
-    <link href="https://mp.weixin.qq.com/s/3HUg3JlE2LWD_MyC92MiYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【完美】SpringBoot中使用注解来实现 Redis 分布式锁</title>
-    <updated>2021-01-05T08:45:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/zJlLLqH_jHIIwS_inR1jjg</id>
-    <link href="https://mp.weixin.qq.com/s/zJlLLqH_jHIIwS_inR1jjg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

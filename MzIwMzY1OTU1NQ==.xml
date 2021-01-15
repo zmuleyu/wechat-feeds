@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:01:11+08:00</updated>
+  <updated>2021-01-15T11:52:45+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>缓存之王Caffeine Cache，性能比Guava更强，命中率更高！</title>
+    <updated>2021-01-15T08:35:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/zuU2Oh5f7v7Gq7OS8ElUyA</id>
+    <link href="https://mp.weixin.qq.com/s/zuU2Oh5f7v7Gq7OS8ElUyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这样统计代码执行耗时，才足够优雅！</title>
     <updated>2021-01-14T08:38:20+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2021-01-06T12:13:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/k0sCokn5J1tZ5cPcmiVdHg</id>
     <link href="https://mp.weixin.qq.com/s/k0sCokn5J1tZ5cPcmiVdHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容易被轻视的主角，神奇的 SQL 之 HAVING</title>
-    <updated>2021-01-05T09:05:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Y1DaWU3uGCtdDrAqDo43HA</id>
-    <link href="https://mp.weixin.qq.com/s/Y1DaWU3uGCtdDrAqDo43HA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Idea公司真牛逼，发行最适合程序员编程字体~</title>
-    <updated>2021-01-05T09:05:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/akNFa5h5ngk4ZtD5cIL5BA</id>
-    <link href="https://mp.weixin.qq.com/s/akNFa5h5ngk4ZtD5cIL5BA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

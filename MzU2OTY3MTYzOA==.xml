@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNET技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:46:20+08:00</updated>
+  <updated>2021-01-15T12:06:26+08:00</updated>
   <subtitle>面向DotNET的线上技术社区。社区宗旨：以弘扬互联网精神为己任，致力于打造开放，分享，互利，共赢的互联网技术社区。打破闭塞，拉进你我，分享知识，共同进步，努力创造更加友善进取的.NET技术圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C# 快速释放内存的大数组</title>
+    <updated>2021-01-14T19:43:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6J4t0dkH_dzw5gqiZWlMfQ</id>
+    <link href="https://mp.weixin.qq.com/s/6J4t0dkH_dzw5gqiZWlMfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入浅出Dotnet Core的项目结构变化</title>
     <updated>2021-01-13T20:06:06+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2021-01-03T23:26:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/SNW1zuRCjxUmEhmNsXn_rg</id>
     <link href="https://mp.weixin.qq.com/s/SNW1zuRCjxUmEhmNsXn_rg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
-    <updated>2020-12-31T23:33:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/zuxNmtdXXzqQ6pD4JWFIDw</id>
-    <link href="https://mp.weixin.qq.com/s/zuxNmtdXXzqQ6pD4JWFIDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>写给自己，2020的年终总结</title>
-    <updated>2020-12-31T23:33:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/xecgWnQG3evka1SD0G699A</id>
-    <link href="https://mp.weixin.qq.com/s/xecgWnQG3evka1SD0G699A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

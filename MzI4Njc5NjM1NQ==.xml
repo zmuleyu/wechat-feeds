@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:21:11+08:00</updated>
+  <updated>2021-01-15T12:08:55+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里取消“361”绩效考核，不写周报不鼓励加班？</title>
+    <updated>2021-01-14T21:06:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/_B14_QEr3bnt4J7_wrlSjg</id>
+    <link href="https://mp.weixin.qq.com/s/_B14_QEr3bnt4J7_wrlSjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>搞定面试官：咱们从头到尾再说一次 Java 垃圾回收</title>
+    <updated>2021-01-14T21:06:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/8rj70QaU4ypZ0W5yqpkwvQ</id>
+    <link href="https://mp.weixin.qq.com/s/8rj70QaU4ypZ0W5yqpkwvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大文件上传：秒传、断点续传、分片上传</title>
+    <updated>2021-01-14T21:06:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/uM6I9ns5kJwCjPUeC5k3Gw</id>
+    <link href="https://mp.weixin.qq.com/s/uM6I9ns5kJwCjPUeC5k3Gw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SpringBoot项目，如何优雅的把接口参数中的空白值替换为null值？</title>
     <updated>2021-01-13T17:53:55+08:00</updated>
@@ -54,13 +75,6 @@
     <updated>2021-01-11T20:34:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/HPDtXqYHu_JhkTUyXFtXwA</id>
     <link href="https://mp.weixin.qq.com/s/HPDtXqYHu_JhkTUyXFtXwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>没有并发经验，但是面试中经常被问到高并发，怎么破局？</title>
-    <updated>2021-01-10T21:39:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/lEjElZT0UpHbJKnddWjx1g</id>
-    <link href="https://mp.weixin.qq.com/s/lEjElZT0UpHbJKnddWjx1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T23:40:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/YwUGg_pNTd3DUkgkcTeOxA</id>
     <link href="https://mp.weixin.qq.com/s/YwUGg_pNTd3DUkgkcTeOxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微信小程序练手实战：前端+后端（Java）</title>
-    <updated>2021-01-06T23:40:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/-UErGddg1KUs6Hc8WOfZfw</id>
-    <link href="https://mp.weixin.qq.com/s/-UErGddg1KUs6Hc8WOfZfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL为Null会导致5个问题，个个致命！</title>
-    <updated>2021-01-05T19:29:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/a7OdVYxmsnzV9O3tGdUoRQ</id>
-    <link href="https://mp.weixin.qq.com/s/a7OdVYxmsnzV9O3tGdUoRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

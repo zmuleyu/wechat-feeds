@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:23:44+08:00</updated>
+  <updated>2021-01-15T12:13:05+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这样统计代码执行耗时，才足够优雅！</title>
+    <updated>2021-01-14T23:02:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/SeAxuZ3Ytg1SzQTQLnYjCg</id>
+    <link href="https://mp.weixin.qq.com/s/SeAxuZ3Ytg1SzQTQLnYjCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>RPC 框架，底层到底是什么原理？</title>
     <updated>2021-01-13T22:27:59+08:00</updated>
@@ -40,13 +47,6 @@
     <updated>2021-01-12T11:47:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/D9-sjVk5WNsuR-4e4eX_eA</id>
     <link href="https://mp.weixin.qq.com/s/D9-sjVk5WNsuR-4e4eX_eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我终于还是放弃了SparkStreaming，没有人能向这个神器Say No！</title>
-    <updated>2021-01-10T15:23:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/W_DhzvKGwukdfIr1k2ZgGw</id>
-    <link href="https://mp.weixin.qq.com/s/W_DhzvKGwukdfIr1k2ZgGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +89,6 @@
     <updated>2021-01-06T13:28:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/Z60mjqiegpzNr3X2XDeU3g</id>
     <link href="https://mp.weixin.qq.com/s/Z60mjqiegpzNr3X2XDeU3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超详细解析 | 一致性协议算法-2PC、3PC、Paxos、Raft、ZAB、NWR</title>
-    <updated>2021-01-04T22:58:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/BS6PyJCWjr2X8d5j_LfbXw</id>
-    <link href="https://mp.weixin.qq.com/s/BS6PyJCWjr2X8d5j_LfbXw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

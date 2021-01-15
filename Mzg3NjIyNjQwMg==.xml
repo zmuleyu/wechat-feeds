@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库与Python大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:48:35+08:00</updated>
+  <updated>2021-01-15T12:08:23+08:00</updated>
   <subtitle>专注于大数据、数据仓库与数据科学，数据分析与数据挖掘，Hadoop/Spark/Flink、Python与面试经验和职场感悟</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>当我们聊数据质量的时候，我们在聊些什么？</title>
+    <updated>2021-01-15T00:56:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/h8G0PfAuqhSVN1CNQj7Vdg</id>
+    <link href="https://mp.weixin.qq.com/s/h8G0PfAuqhSVN1CNQj7Vdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>HBase快速入门（一）</title>
     <updated>2021-01-14T00:30:27+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2021-01-04T23:52:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/phgFWWonGHUyHQSmffkGGg</id>
     <link href="https://mp.weixin.qq.com/s/phgFWWonGHUyHQSmffkGGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻松搞定 Shell 玩转 HiveSQL</title>
-    <updated>2021-01-03T22:11:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/_18inMSkJKCBCCYWbDLJPw</id>
-    <link href="https://mp.weixin.qq.com/s/_18inMSkJKCBCCYWbDLJPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>B 端运营数据指标体系</title>
-    <updated>2021-01-03T22:11:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/ESRL6ox4jYyiGA_bVaZQow</id>
-    <link href="https://mp.weixin.qq.com/s/ESRL6ox4jYyiGA_bVaZQow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

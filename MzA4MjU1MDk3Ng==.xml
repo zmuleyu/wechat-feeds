@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>音视频开发进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:54:13+08:00</updated>
+  <updated>2021-01-15T12:14:21+08:00</updated>
   <subtitle>抖音多媒体开发工程师，分享 Android 应用开发、图形图像渲染、音视频等相关内容，与你一同技术成长进阶~~~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>线程安全代码到底是怎么编写的？</title>
+    <updated>2021-01-14T23:11:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Pr4yyCf2aLpkA7iOld5_sg</id>
+    <link href="https://mp.weixin.qq.com/s/Pr4yyCf2aLpkA7iOld5_sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>音视频开发基础知识</title>
     <updated>2021-01-13T23:20:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T23:13:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/amu5f_aEeL6uQqh4DGSzsw</id>
     <link href="https://mp.weixin.qq.com/s/amu5f_aEeL6uQqh4DGSzsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>绝对干货 | Kotlin内联类工作原理及使用案例，看完你会回来谢我的</title>
-    <updated>2020-12-22T23:29:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/Ffcm_e1AZi4H0WDR82jRAQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ffcm_e1AZi4H0WDR82jRAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

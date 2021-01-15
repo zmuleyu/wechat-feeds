@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MongoDB | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:34:46+08:00</updated>
+  <updated>2021-01-15T11:55:16+08:00</updated>
   <subtitle>MongoDB相关问题交流，发布MongoDB最新的相关资讯，解决MongoDB用户的技术问题。定期举办各种线上或者线下的技术交流活动。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>都说程序员工资高、待遇好， 2021 金三银四就要到了，你的小目标是 30K、40K，还是 16 薪的 20K？</title>
+    <updated>2021-01-15T09:00:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/YiSKtpQfWPAt1WTFWOO8BA</id>
+    <link href="https://mp.weixin.qq.com/s/YiSKtpQfWPAt1WTFWOO8BA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java实现超市管理系统（含数据库）</title>
     <updated>2021-01-14T17:24:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T08:58:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/_PgeIlaBTW-EdVwEt60RdQ</id>
     <link href="https://mp.weixin.qq.com/s/_PgeIlaBTW-EdVwEt60RdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GET 和 POST请求的本质区别是什么？原来我一直理解错了</title>
-    <updated>2020-12-29T08:46:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/MP-CTty4Jnb4qU1XIg2OxA</id>
-    <link href="https://mp.weixin.qq.com/s/MP-CTty4Jnb4qU1XIg2OxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

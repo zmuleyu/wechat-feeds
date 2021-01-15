@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:11:12+08:00</updated>
+  <updated>2021-01-15T12:02:35+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这家公司人均月薪 7.27 万，还有逆天福利！</title>
+    <updated>2021-01-15T09:11:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/yQVkxqGOuILpBYOGBnsSXg</id>
+    <link href="https://mp.weixin.qq.com/s/yQVkxqGOuILpBYOGBnsSXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>滴滴Flink-1.10升级之路</title>
+    <updated>2021-01-15T09:11:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/JZQ4B1PTXtzj3kBQ41D_lw</id>
+    <link href="https://mp.weixin.qq.com/s/JZQ4B1PTXtzj3kBQ41D_lw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>连续三年蝉联第一，Flink 荣膺全球最活跃的 Apache 开源项目</title>
     <updated>2021-01-14T08:24:26+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-05T23:09:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/e2C3yxtK6hp3guDShZLL8g</id>
     <link href="https://mp.weixin.qq.com/s/e2C3yxtK6hp3guDShZLL8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于Flink构建实时数仓实践</title>
-    <updated>2021-01-05T08:20:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/UIrE5Z0URB0jv0Ndhpf9TQ</id>
-    <link href="https://mp.weixin.qq.com/s/UIrE5Z0URB0jv0Ndhpf9TQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

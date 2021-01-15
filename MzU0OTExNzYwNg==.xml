@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大转转FE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:02:25+08:00</updated>
+  <updated>2021-01-15T12:01:17+08:00</updated>
   <subtitle>定期分享一些团队对前端的想法与沉淀</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>教你用PixiJs实现复杂动画</title>
+    <updated>2021-01-14T20:44:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/IzCAzswK50BbfNHqE8vIxQ</id>
+    <link href="https://mp.weixin.qq.com/s/IzCAzswK50BbfNHqE8vIxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>对比webpack，你更应该先掌握gulp【10分钟教你彻底掌握gulp】</title>
     <updated>2021-01-12T19:06:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T21:58:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/ZSPkUZo1lALVM8i8HeInPA</id>
     <link href="https://mp.weixin.qq.com/s/ZSPkUZo1lALVM8i8HeInPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>闲庭信步聊前端 - 揭开视频直播神秘面纱</title>
-    <updated>2020-12-03T11:30:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/14sPMH_yQNCUyuSIvkB9EA</id>
-    <link href="https://mp.weixin.qq.com/s/14sPMH_yQNCUyuSIvkB9EA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

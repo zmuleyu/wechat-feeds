@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:49:29+08:00</updated>
+  <updated>2021-01-15T12:10:33+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为云基础设施2020年度大盘点</title>
+    <updated>2021-01-15T09:57:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/JPXcoi84hckdXFWPQBLZGg</id>
+    <link href="https://mp.weixin.qq.com/s/JPXcoi84hckdXFWPQBLZGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>KubeEdge应用案例 |助力边缘云生态共建，加速云原生落地创新</title>
     <updated>2021-01-14T20:47:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T20:31:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/N9JZmF0JkQkPE1YXHkphQQ</id>
     <link href="https://mp.weixin.qq.com/s/N9JZmF0JkQkPE1YXHkphQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欢迎您乘坐【云原生2.0】号新年列车</title>
-    <updated>2020-12-31T09:56:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ONkg8Nnv3NgGxGcOTMn8Vw</id>
-    <link href="https://mp.weixin.qq.com/s/ONkg8Nnv3NgGxGcOTMn8Vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

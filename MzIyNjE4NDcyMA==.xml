@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:44:04+08:00</updated>
+  <updated>2021-01-15T11:50:53+08:00</updated>
   <subtitle>ITFLY8架构之家，专注于架构知识分享交流，涵盖项目管理和产品设计。包括大型分布式网站架构（高性能，高可用，缓存，消息队列...），设计模式，架构模式，大数据，项目管理(SCRUM,PMP,Prince2)，产品设计等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>API快速开发平台设计思考</title>
+    <updated>2021-01-15T07:12:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/jbKzo0AWq6xYD-F5oxglEg</id>
+    <link href="https://mp.weixin.qq.com/s/jbKzo0AWq6xYD-F5oxglEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里P8架构师：淘宝技术架构从1.0到4.0的架构变迁！12页PPT详解</title>
     <updated>2020-12-31T20:29:35+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-12T10:37:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-12:/s/x3_0GQpTIdEOlIrfY_YcVA</id>
     <link href="https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术专家甘盘：浅谈双十一背后的支付宝LDC架构和其CAP分析</title>
-    <updated>2020-12-10T09:54:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/i6oIav1Rs2LGvRIyRTAA6Q</id>
-    <link href="https://mp.weixin.qq.com/s/i6oIav1Rs2LGvRIyRTAA6Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

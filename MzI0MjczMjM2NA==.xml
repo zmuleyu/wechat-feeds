@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱奇艺技术产品团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T13:34:21+08:00</updated>
+  <updated>2021-01-15T12:14:07+08:00</updated>
   <subtitle>爱奇艺的技术产品团队</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一切数据皆可配置：爱奇艺海外站的运营后台设计实践</title>
+    <updated>2021-01-15T12:00:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/ZBk4C4FpHoce6ngA340FfQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZBk4C4FpHoce6ngA340FfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>爱奇艺谢丹铭：用AI让创作者提升效率，让消费者简单快乐</title>
+    <updated>2021-01-15T12:00:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/q6V7BRiwgUfmRpgUm-csyg</id>
+    <link href="https://mp.weixin.qq.com/s/q6V7BRiwgUfmRpgUm-csyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>优化无止境，爱奇艺中后台 Web 应用性能优化实践</title>
     <updated>2021-01-08T12:06:22+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-19T16:26:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/hZl3ZoicEeJOTnCE17X04g</id>
     <link href="https://mp.weixin.qq.com/s/hZl3ZoicEeJOTnCE17X04g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>0.7秒完成动漫线稿上色，爱奇艺发布AI上色引擎</title>
-    <updated>2020-11-19T16:26:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/8JX3cDK5oNPKFLdTo6a1pQ</id>
-    <link href="https://mp.weixin.qq.com/s/8JX3cDK5oNPKFLdTo6a1pQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>服务注册中心 | 记一次Consul故障分析与优化</title>
-    <updated>2020-11-13T18:14:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/fJ22y7MQvkcNJkiAnMwcUg</id>
-    <link href="https://mp.weixin.qq.com/s/fJ22y7MQvkcNJkiAnMwcUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

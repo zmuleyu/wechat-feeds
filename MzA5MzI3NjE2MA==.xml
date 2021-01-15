@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>郭霖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:55:55+08:00</updated>
+  <updated>2021-01-15T12:15:02+08:00</updated>
   <subtitle>Android技术分享平台，每个工作日都有优质技术文章推送。你还可以向公众号投稿，将自己总结的技术心得分享给大家。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>优雅地封装和使用 ViewBinding</title>
+    <updated>2021-01-14T22:24:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/GWQg4n5CFjuTfJu-AKu7aQ</id>
+    <link href="https://mp.weixin.qq.com/s/GWQg4n5CFjuTfJu-AKu7aQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从新手到架构师，一篇就够！Android组件化最全开源项目</title>
+    <updated>2021-01-14T22:24:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Ta_OXOw-_k5OwxxBQhGDuA</id>
+    <link href="https://mp.weixin.qq.com/s/Ta_OXOw-_k5OwxxBQhGDuA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>踩坑之路：finish方法执行后居然还有这种操作？</title>
     <updated>2021-01-13T21:29:06+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-03T20:16:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/B5zIMIR1rPT8euTK-spnbg</id>
     <link href="https://mp.weixin.qq.com/s/B5zIMIR1rPT8euTK-spnbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年终总结，可能是我人生收获最多的一年</title>
-    <updated>2020-12-30T20:31:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/qohEpmaHbwJ1929EsvVGgA</id>
-    <link href="https://mp.weixin.qq.com/s/qohEpmaHbwJ1929EsvVGgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

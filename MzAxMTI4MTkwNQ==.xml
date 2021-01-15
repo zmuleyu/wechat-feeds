@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>鸿洋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:54:58+08:00</updated>
+  <updated>2021-01-15T12:15:06+08:00</updated>
   <subtitle>你好，欢迎关注鸿洋的公众号，每天为您推送高质量文章，让你每天都能涨知识。点击历史消息，查看所有已推送的文章，喜欢可以置顶本公众号。此外，本公众号支持投稿，如果你有原创的文章，希望通过本公众号发布，欢迎投稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>巧用RecyclerView ItemDecoration 实现炫酷视差效果</title>
+    <updated>2021-01-15T00:38:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/-q4L8BNfs141RtWJa8-N7Q</id>
+    <link href="https://mp.weixin.qq.com/s/-q4L8BNfs141RtWJa8-N7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官：现在还有不会组件化的Android开发？</title>
     <updated>2021-01-13T23:23:11+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-05T00:24:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/sQhqvU22LdXibC8plNolwA</id>
     <link href="https://mp.weixin.qq.com/s/sQhqvU22LdXibC8plNolwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂面试攻略！</title>
-    <updated>2021-01-04T00:39:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/edMED5kYMMep7xaCl0X0zg</id>
-    <link href="https://mp.weixin.qq.com/s/edMED5kYMMep7xaCl0X0zg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再次回顾 Android View 核心知识与原理</title>
-    <updated>2021-01-04T00:39:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/g-ONt1EIQFbAYIVYZNIi1A</id>
-    <link href="https://mp.weixin.qq.com/s/g-ONt1EIQFbAYIVYZNIi1A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

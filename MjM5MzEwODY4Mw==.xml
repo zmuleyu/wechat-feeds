@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA架构日记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:00:04+08:00</updated>
+  <updated>2021-01-15T11:51:47+08:00</updated>
   <subtitle>致力于高质量 技术文章原创分享，拒绝水文、软文。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>后门 | Nacos 被爆严重安全漏洞</title>
+    <updated>2021-01-15T00:15:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/NoQ1_IKezhJgMfn0Uyz5Xw</id>
+    <link href="https://mp.weixin.qq.com/s/NoQ1_IKezhJgMfn0Uyz5Xw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5分钟拥抱云原生 | SpringBoot 迁移至 Quarkus</title>
     <updated>2021-01-13T20:29:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-19T09:01:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/0m6ofmMlQTDUQwC7oRRIrQ</id>
     <link href="https://mp.weixin.qq.com/s/0m6ofmMlQTDUQwC7oRRIrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「微服务设计之禅」限流模式</title>
-    <updated>2020-12-17T10:59:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/G6bBhVDqfNm4PWCEajP37A</id>
-    <link href="https://mp.weixin.qq.com/s/G6bBhVDqfNm4PWCEajP37A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小哈学Java | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:25:39+08:00</updated>
+  <updated>2021-01-15T12:14:08+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发, JVM, Docker容器，ELK相关知识，期待与您一同进步。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spring Boot 集成 JUnit5，更优雅单元测试！</title>
+    <updated>2021-01-14T22:07:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/CkTIXhk7c0rvT9paT-9hPQ</id>
+    <link href="https://mp.weixin.qq.com/s/CkTIXhk7c0rvT9paT-9hPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>三天，我来教你们搞定一个项目！</title>
+    <updated>2021-01-14T22:07:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/P9NCbrCZneGY8E0yHpgd3Q</id>
+    <link href="https://mp.weixin.qq.com/s/P9NCbrCZneGY8E0yHpgd3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员的崩溃，是从年终总结开始的？</title>
     <updated>2021-01-13T20:43:57+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T12:20:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/jUf-qOjJ861gbxftW9Jx4A</id>
     <link href="https://mp.weixin.qq.com/s/jUf-qOjJ861gbxftW9Jx4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JDK 16 即将发布，新特性速览！</title>
-    <updated>2021-01-05T11:01:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/q8y7YLHA4cw6FVxvzOH81g</id>
-    <link href="https://mp.weixin.qq.com/s/q8y7YLHA4cw6FVxvzOH81g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot 配置 ELK 环境</title>
-    <updated>2021-01-05T11:01:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/8pzYpGiKHmogkuhtXZ3IZw</id>
-    <link href="https://mp.weixin.qq.com/s/8pzYpGiKHmogkuhtXZ3IZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

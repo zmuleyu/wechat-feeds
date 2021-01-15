@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>新世界杂货铺 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2020-12-31T11:32:24+08:00</updated>
+  <updated>2021-01-15T11:55:40+08:00</updated>
   <subtitle>作为一名Gopher， 我愿称之为Go的干(杂)货铺子！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go中的SSRF攻防战</title>
+    <updated>2021-01-15T00:53:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/b6Ar_yLwDlj7EhzStXqQnQ</id>
+    <link href="https://mp.weixin.qq.com/s/b6Ar_yLwDlj7EhzStXqQnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020总结：稍微努力了一下，依旧是咸鱼一条</title>
     <updated>2020-12-30T23:35:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-19T09:44:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-19:/s/EbF4dQ8PBXzTzFH6eZE4KA</id>
     <link href="https://mp.weixin.qq.com/s/EbF4dQ8PBXzTzFH6eZE4KA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>突然挂了！Redis缓存都在内存中，这下完了！</title>
-    <updated>2020-10-14T18:06:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/lpyMcc9FWfZRYM4TiK5S-g</id>
-    <link href="https://mp.weixin.qq.com/s/lpyMcc9FWfZRYM4TiK5S-g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高德技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:22:59+08:00</updated>
+  <updated>2021-01-15T12:08:14+08:00</updated>
   <subtitle>这里是高德官方技术号，关于高德的技术创新内容均呈现于此</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>3倍+提升，高德地图极致性能优化之路</title>
+    <updated>2021-01-15T11:51:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/A0Gs7HmCRiYSon8ZMfHdGw</id>
+    <link href="https://mp.weixin.qq.com/s/A0Gs7HmCRiYSon8ZMfHdGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Rust的Android Native内存分析方案</title>
+    <updated>2021-01-15T11:51:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/POZMdbWQMIexyhVZKlzqqA</id>
+    <link href="https://mp.weixin.qq.com/s/POZMdbWQMIexyhVZKlzqqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高德算法大赛亚军战队经验分享：将图像信息转化为多模态理解解题</title>
+    <updated>2021-01-15T11:51:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/L-Hga917XwtH8wG7kJHK3Q</id>
+    <link href="https://mp.weixin.qq.com/s/L-Hga917XwtH8wG7kJHK3Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高德地理位置兴趣点现势性增强演进之路</title>
     <updated>2021-01-08T17:33:15+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-10-30T11:48:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-30:/s/6dE3NVnrI0cVMzvMGhE4yg</id>
     <link href="https://mp.weixin.qq.com/s/6dE3NVnrI0cVMzvMGhE4yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>成长秘籍｜程序员节快乐，高德技术大佬荐书（含福利）</title>
-    <updated>2020-10-24T10:38:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-24:/s/a0Fo1DdDREYMnhCEyLfIFw</id>
-    <link href="https://mp.weixin.qq.com/s/a0Fo1DdDREYMnhCEyLfIFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习在高德地图轨迹分类的探索和应用</title>
-    <updated>2020-10-16T11:45:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/FF19mvxc-5ZNkGgyzhSNiA</id>
-    <link href="https://mp.weixin.qq.com/s/FF19mvxc-5ZNkGgyzhSNiA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫话地图之高精地图生产中的坐标系</title>
-    <updated>2020-10-16T11:45:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/SoMA-Hdqx2x4mnVGCMUD9g</id>
-    <link href="https://mp.weixin.qq.com/s/SoMA-Hdqx2x4mnVGCMUD9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王Plus | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:51:53+08:00</updated>
+  <updated>2021-01-15T11:51:22+08:00</updated>
   <subtitle>一个二十年的老全栈的技术碎碎念</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>C#实现单例模式的几种方法</title>
+    <updated>2021-01-14T19:45:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/OdKj7E0n0yzJ7ZUpDzyO_g</id>
+    <link href="https://mp.weixin.qq.com/s/OdKj7E0n0yzJ7ZUpDzyO_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 中的 null 包容运算符 “!” —— 概念、由来、用法和注意事项</title>
+    <updated>2021-01-14T19:45:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/KwqCeKPn2L5czQDLYD2upw</id>
+    <link href="https://mp.weixin.qq.com/s/KwqCeKPn2L5czQDLYD2upw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[C#.NET 拾遗补漏]14：使用结构体实现共用体</title>
+    <updated>2021-01-14T19:45:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/SxZJhbpI4F7fPKiVsf6ENQ</id>
+    <link href="https://mp.weixin.qq.com/s/SxZJhbpI4F7fPKiVsf6ENQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入浅出Dotnet Core的项目结构变化</title>
     <updated>2021-01-12T22:27:41+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-29T21:05:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/9Vr1C01B_sCS-1-nQeLSLw</id>
     <link href="https://mp.weixin.qq.com/s/9Vr1C01B_sCS-1-nQeLSLw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>asp.net core中使用cookie身份验证</title>
-    <updated>2020-12-29T21:05:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/T0L1NxFEaiQwU3AimqR8og</id>
-    <link href="https://mp.weixin.qq.com/s/T0L1NxFEaiQwU3AimqR8og" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中 自定义中间件</title>
-    <updated>2020-12-29T21:05:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/mWkIMuGy6hBkMq_70KqUCQ</id>
-    <link href="https://mp.weixin.qq.com/s/mWkIMuGy6hBkMq_70KqUCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 C# 在异步代码中处理异常</title>
-    <updated>2020-12-27T22:16:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/9hwlTDZVVMrTXeUp79S_XA</id>
-    <link href="https://mp.weixin.qq.com/s/9hwlTDZVVMrTXeUp79S_XA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

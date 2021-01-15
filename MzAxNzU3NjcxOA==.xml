@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:07:43+08:00</updated>
+  <updated>2021-01-15T11:58:15+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式事务+DDD+负载均衡+服务治理已撸！微服务不就这点事？</title>
+    <updated>2021-01-14T23:15:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/yocZl1Bs_KIBEje8cArbXw</id>
+    <link href="https://mp.weixin.qq.com/s/yocZl1Bs_KIBEje8cArbXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>操作系统深度研究（75页PPT）</title>
+    <updated>2021-01-14T23:15:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/LYz7WYOFHKAqmP9Ghmhp6g</id>
+    <link href="https://mp.weixin.qq.com/s/LYz7WYOFHKAqmP9Ghmhp6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>别天真，Java工程师哪能绕过“高并发”这道坎？</title>
     <updated>2021-01-13T23:08:05+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-05T22:39:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/5v-3UG90YyPXqQivitEl1Q</id>
     <link href="https://mp.weixin.qq.com/s/5v-3UG90YyPXqQivitEl1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构拆分：如何让笨重的系统架构变灵巧？</title>
-    <updated>2021-01-04T22:01:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/bIcT-fcaJqNXG471KVbk6Q</id>
-    <link href="https://mp.weixin.qq.com/s/bIcT-fcaJqNXG471KVbk6Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

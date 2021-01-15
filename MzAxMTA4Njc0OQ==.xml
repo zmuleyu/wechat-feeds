@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:12:52+08:00</updated>
+  <updated>2021-01-15T12:03:40+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>现今 Go 项目能绕开 MySQL 这样的数据库吗？</title>
+    <updated>2021-01-14T22:45:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6GxL1h9RpXXon7ZE7txRsw</id>
+    <link href="https://mp.weixin.qq.com/s/6GxL1h9RpXXon7ZE7txRsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么要学习更多的编程语言？同时认为 Go 是最佳</title>
+    <updated>2021-01-14T22:45:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/V2_rYXql47qiq0GT8bvAqg</id>
+    <link href="https://mp.weixin.qq.com/s/V2_rYXql47qiq0GT8bvAqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Go 和 ReactJS 构建聊天系统（四）：处理多客户端</title>
+    <updated>2021-01-14T22:45:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Kizc1Hr6boNV2ryZci2Bbg</id>
+    <link href="https://mp.weixin.qq.com/s/Kizc1Hr6boNV2ryZci2Bbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>好吧，Uber 不使用 Elasticsearch，自己用 Go 造了个轮子</title>
     <updated>2021-01-14T09:23:21+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T00:55:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/hcQsarYUc0yfo-ZTZy46aw</id>
     <link href="https://mp.weixin.qq.com/s/hcQsarYUc0yfo-ZTZy46aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何作废一个已发布的Go module版本，我来告诉你！</title>
-    <updated>2021-01-10T00:55:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/g1n9a5-o0-QHArWsCuZtMg</id>
-    <link href="https://mp.weixin.qq.com/s/g1n9a5-o0-QHArWsCuZtMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 微服务缓存原理与最佳实践</title>
-    <updated>2021-01-08T23:42:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/LgCESuXg-Ri2A7twMfmweA</id>
-    <link href="https://mp.weixin.qq.com/s/LgCESuXg-Ri2A7twMfmweA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何避免用动态语言的思维写Go代码</title>
-    <updated>2021-01-08T23:42:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/xNmhk_ZI38MgJt9rRZz7LA</id>
-    <link href="https://mp.weixin.qq.com/s/xNmhk_ZI38MgJt9rRZz7LA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

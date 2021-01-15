@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T16:50:58+08:00</updated>
+  <updated>2021-01-15T12:01:50+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么很多 SpringBoot 开发者放弃了 Tomcat，选择了 Undertow?</title>
+    <updated>2021-01-15T07:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/7ekraEGVBqO9TYtguS1v8g</id>
+    <link href="https://mp.weixin.qq.com/s/7ekraEGVBqO9TYtguS1v8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>java最强的并发架构，没有之一！！</title>
     <updated>2021-01-14T14:02:21+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-06T07:59:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/9CWLsNV2cfazIR8FC3AeFg</id>
     <link href="https://mp.weixin.qq.com/s/9CWLsNV2cfazIR8FC3AeFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 解决跨域问题的 3 种方案！</title>
-    <updated>2021-01-05T07:59:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/AocobCeEoANqyBE_y4mGeQ</id>
-    <link href="https://mp.weixin.qq.com/s/AocobCeEoANqyBE_y4mGeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

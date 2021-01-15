@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>人人都是极客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:14:37+08:00</updated>
+  <updated>2021-01-15T12:04:06+08:00</updated>
   <subtitle>针对嵌入式人工智能，物联网等专业技术分享和交流平台，内容涉及arm，linux，android等各方面。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货 | 深度剖析C语言的main函数</title>
+    <updated>2021-01-14T22:26:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Ih3HZukGbBna0d2nIOKPvQ</id>
+    <link href="https://mp.weixin.qq.com/s/Ih3HZukGbBna0d2nIOKPvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C语言实现面向对象的原理</title>
+    <updated>2021-01-14T22:26:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/b9IXQ8Hbh-8ejmU010sWiA</id>
+    <link href="https://mp.weixin.qq.com/s/b9IXQ8Hbh-8ejmU010sWiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>装逼一定要掌握这几个Linux命令</title>
     <updated>2021-01-13T23:18:08+08:00</updated>
@@ -75,20 +89,6 @@
     <updated>2021-01-05T22:52:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/ExsMFoawaDsCIBHozCtcjw</id>
     <link href="https://mp.weixin.qq.com/s/ExsMFoawaDsCIBHozCtcjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>嵌入式Linux系统是如何管理IO端口以及IO内存的呢？老司机给你讲讲</title>
-    <updated>2021-01-04T23:20:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/pSnGYHiB2qPjRnUez-jWnw</id>
-    <link href="https://mp.weixin.qq.com/s/pSnGYHiB2qPjRnUez-jWnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解io端口与io内存</title>
-    <updated>2021-01-04T23:20:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/-ENliF0eLlurswGckF5ZGA</id>
-    <link href="https://mp.weixin.qq.com/s/-ENliF0eLlurswGckF5ZGA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

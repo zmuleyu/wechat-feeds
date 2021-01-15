@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:58:03+08:00</updated>
+  <updated>2021-01-15T11:52:01+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员逃不过“打工人”魔咒？</title>
+    <updated>2021-01-14T20:39:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Nlbo2PyPmqDKytFrKK2qVQ</id>
+    <link href="https://mp.weixin.qq.com/s/Nlbo2PyPmqDKytFrKK2qVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Intel CEO  换帅，VMware CEO 将走马上任！还能 4：55 下班吗？</title>
+    <updated>2021-01-14T20:39:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-14:/s/IazyJRLcigdc5XthNMK2ZA</id>
+    <link href="https://mp.weixin.qq.com/s/IazyJRLcigdc5XthNMK2ZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>最强的并发架构，没有之一！</title>
     <updated>2021-01-13T21:50:45+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-05T20:13:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/6jC4-CqZyDvpbylCs_GAMQ</id>
     <link href="https://mp.weixin.qq.com/s/6jC4-CqZyDvpbylCs_GAMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3天，让你的C++从入门到精通</title>
-    <updated>2021-01-04T20:20:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZcBAlUYnOZ5l4R89UeCOYw</id>
-    <link href="https://mp.weixin.qq.com/s/ZcBAlUYnOZ5l4R89UeCOYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>亚马逊“AWS”商标被判侵权：停止使用，赔偿7646万元</title>
-    <updated>2021-01-04T20:20:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/7z4-8AEDW5JdQO_6-RhXfg</id>
-    <link href="https://mp.weixin.qq.com/s/7z4-8AEDW5JdQO_6-RhXfg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
