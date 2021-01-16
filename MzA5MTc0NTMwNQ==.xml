@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>过往记忆大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:02:35+08:00</updated>
+  <updated>2021-01-16T23:37:11+08:00</updated>
   <subtitle>知名的大数据技术架构公众号，超10万大数据开发爱好者都在这里。发布包括但不限于Spark、Hadoop、Flink、Kafka等技术文章。过往记忆大数据博客：https://www.iteblog.com，Google\百度搜索 过往记忆。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>KVell：新一代快速键值存储系统设计及实现</title>
+    <updated>2021-01-16T21:12:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/niqgs88gPaJ0YAar4blzog</id>
+    <link href="https://mp.weixin.qq.com/s/niqgs88gPaJ0YAar4blzog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这家公司人均月薪 7.27 万，还有逆天福利！</title>
     <updated>2021-01-15T09:11:04+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2021-01-07T09:16:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/SRKl0wUR1A-G2opeDX5yyA</id>
     <link href="https://mp.weixin.qq.com/s/SRKl0wUR1A-G2opeDX5yyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Delta Lake 提供纯 Scala\Java\Python 操作 API，和 Flink 整合更加容易</title>
-    <updated>2021-01-05T23:09:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/e2C3yxtK6hp3guDShZLL8g</id>
-    <link href="https://mp.weixin.qq.com/s/e2C3yxtK6hp3guDShZLL8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

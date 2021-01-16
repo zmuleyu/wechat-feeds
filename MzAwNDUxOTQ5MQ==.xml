@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ITPUB | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:30:16+08:00</updated>
+  <updated>2021-01-16T23:26:10+08:00</updated>
   <subtitle>ITPUB官方账户，分享社区技术干货内容，了解社区最新动态，参与社区精彩活动。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>因为一条SQL，程序员差点被祭天......</title>
+    <updated>2021-01-16T21:35:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/hDDouDbZWnuhmMFeflNnpg</id>
+    <link href="https://mp.weixin.qq.com/s/hDDouDbZWnuhmMFeflNnpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>神奇的 SQL 之擦肩而过 → 真的用到索引了吗？</title>
     <updated>2021-01-15T17:47:30+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2021-01-07T18:01:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/dPA6V1S39R9OyGBc8SkzBw</id>
     <link href="https://mp.weixin.qq.com/s/dPA6V1S39R9OyGBc8SkzBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SQL：我为什么慢你心里没数吗？</title>
-    <updated>2021-01-06T18:04:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/iMYQPrgiFer8TtkYMiTn2w</id>
-    <link href="https://mp.weixin.qq.com/s/iMYQPrgiFer8TtkYMiTn2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ITDaily | 特朗普签署行政令，美国禁止支付宝等软件交易；程序员把7500个比特币当成垃圾扔掉</title>
-    <updated>2021-01-06T18:04:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/cRM0xgD2jMUeX-zOgzidtg</id>
-    <link href="https://mp.weixin.qq.com/s/cRM0xgD2jMUeX-zOgzidtg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

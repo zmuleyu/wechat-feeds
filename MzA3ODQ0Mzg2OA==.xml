@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:40:01+08:00</updated>
+  <updated>2021-01-16T23:34:33+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -54,13 +54,6 @@
     <updated>2021-01-14T10:57:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/r9TWlBGjeiHPRq0ha0Ui1A</id>
     <link href="https://mp.weixin.qq.com/s/r9TWlBGjeiHPRq0ha0Ui1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这台笔记本敲代码杠杠的！免费送一台！</title>
-    <updated>2021-01-14T10:57:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/EvSQpbfA5iqLyZ8uEINivg</id>
-    <link href="https://mp.weixin.qq.com/s/EvSQpbfA5iqLyZ8uEINivg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -145,6 +138,13 @@
     <updated>2021-01-09T11:03:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/iUEUqBDYvfyrg8_i9PYM2Q</id>
     <link href="https://mp.weixin.qq.com/s/iUEUqBDYvfyrg8_i9PYM2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分享基于 Spring Cloud +OAuth2 的权限管理系统</title>
+    <updated>2021-01-08T11:57:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-08:/s/SXCPSG-4swAgmQpAC9Ejxg</id>
+    <link href="https://mp.weixin.qq.com/s/SXCPSG-4swAgmQpAC9Ejxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

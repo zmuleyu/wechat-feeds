@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:54:50+08:00</updated>
+  <updated>2021-01-16T23:42:02+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink+Kafka：网易云音乐实时数仓建设实践</title>
+    <updated>2021-01-16T20:54:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/jCQ6lUejGPzsrHDaNTy6sw</id>
+    <link href="https://mp.weixin.qq.com/s/jCQ6lUejGPzsrHDaNTy6sw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>送 60 本 宝藏书籍：数据分析、机器学习必看！</title>
+    <updated>2021-01-16T20:54:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/VT2lZGhVZbGeDJhvZBuojg</id>
+    <link href="https://mp.weixin.qq.com/s/VT2lZGhVZbGeDJhvZBuojg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内推：网易新闻算法岗</title>
+    <updated>2021-01-16T20:54:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/J-Jyghz0jsZu9DFkOv-xCA</id>
+    <link href="https://mp.weixin.qq.com/s/J-Jyghz0jsZu9DFkOv-xCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>知乎搜索文本相关性与知识蒸馏</title>
     <updated>2021-01-15T11:55:46+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-11T20:27:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/gafduk7jhD9QnB1Lmmb1qw</id>
     <link href="https://mp.weixin.qq.com/s/gafduk7jhD9QnB1Lmmb1qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 美团技术沙龙：美团无人配送最新成果论文分享</title>
-    <updated>2021-01-11T20:27:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/h5y8vc5xkliVPo8sHtWypA</id>
-    <link href="https://mp.weixin.qq.com/s/h5y8vc5xkliVPo8sHtWypA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 阿里飞猪：个性化出行算法实践</title>
-    <updated>2021-01-11T20:27:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/zgF8Rst8tt2Cez1w3fG-UQ</id>
-    <link href="https://mp.weixin.qq.com/s/zgF8Rst8tt2Cez1w3fG-UQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内推：北京、上海、杭州算法岗</title>
-    <updated>2021-01-11T20:27:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/_F_eBlk08f8hSQm51Rwmhg</id>
-    <link href="https://mp.weixin.qq.com/s/_F_eBlk08f8hSQm51Rwmhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

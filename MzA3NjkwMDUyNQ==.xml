@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>caspar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:05:14+08:00</updated>
+  <updated>2021-01-16T23:36:02+08:00</updated>
   <subtitle>一线互联网工程师，专注于后端技术栈，推送算法、Go、Python、Linux、分布式系统等相关技术总结与实践</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>公众号再也不用为单独上传图片和排版发愁了</title>
+    <updated>2021-01-16T21:19:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/7fLHhRJHdXdwfDf2dAeYXQ</id>
+    <link href="https://mp.weixin.qq.com/s/7fLHhRJHdXdwfDf2dAeYXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【面试】彻底理解 IO多路复用</title>
     <updated>2020-06-27T13:41:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2018-12-17T14:38:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2018-12-17:/s/JxhQSfsSgZ9mOHXAQpxLuA</id>
     <link href="https://mp.weixin.qq.com/s/JxhQSfsSgZ9mOHXAQpxLuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>正向代理与反向代理</title>
-    <updated>2018-05-24T22:22:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2018-05-24:/s/Droxv8Tp4rVPFC6S5vX-Ug</id>
-    <link href="https://mp.weixin.qq.com/s/Droxv8Tp4rVPFC6S5vX-Ug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

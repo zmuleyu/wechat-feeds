@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T23:41:16+08:00</updated>
+  <updated>2021-01-16T23:44:16+08:00</updated>
   <subtitle>码农的所思所悟，码农的百科全书，码农的知识星球。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>8年开发，连登陆接口都写这么烂...</title>
+    <updated>2021-01-16T20:54:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/4LxifQXJMVAYcQGbpQtaKQ</id>
+    <link href="https://mp.weixin.qq.com/s/4LxifQXJMVAYcQGbpQtaKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>白嫖版-SpringBoot2.X入门到高级教程</title>
+    <updated>2021-01-16T20:54:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/4ZF9xxP9TOSAQeh0Cj5bsg</id>
+    <link href="https://mp.weixin.qq.com/s/4ZF9xxP9TOSAQeh0Cj5bsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>国内一39岁程序员入住养老院，网友：羡慕了</title>
     <updated>2021-01-15T20:52:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/uF28FRapWss9iGj6GVM4QQ</id>
     <link href="https://mp.weixin.qq.com/s/uF28FRapWss9iGj6GVM4QQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>白嫖版-RabbitMQ入门到集群架构2021</title>
-    <updated>2021-01-15T20:52:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/97nH7A6fOeDIjDUhcFZ6Ag</id>
-    <link href="https://mp.weixin.qq.com/s/97nH7A6fOeDIjDUhcFZ6Ag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -71,24 +78,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>太敏感！2小时删！</title>
-    <updated>2021-01-10T19:53:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/3n85aG_G4268sqV_XOSNMw</id>
-    <link href="https://mp.weixin.qq.com/s/3n85aG_G4268sqV_XOSNMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>非常强悍的 RabbitMQ 总结，写得真好！</title>
     <updated>2021-01-10T19:53:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/ywnNyXg1J7k2k2Azb7AWnQ</id>
     <link href="https://mp.weixin.qq.com/s/ywnNyXg1J7k2k2Azb7AWnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里接连取消“P”职级、“361”绩效考核，是福报还是新风象？</title>
-    <updated>2021-01-09T18:33:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/nNWlT2rS1cWCA9mjbQMobQ</id>
-    <link href="https://mp.weixin.qq.com/s/nNWlT2rS1cWCA9mjbQMobQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,13 +110,6 @@
     <updated>2021-01-06T16:56:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/E0ahtm5aCHSOzNu3CCGhtg</id>
     <link href="https://mp.weixin.qq.com/s/E0ahtm5aCHSOzNu3CCGhtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微服务架构下请求调用失败了怎么办?</title>
-    <updated>2021-01-05T19:44:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/RTn3Rsss2_RjmX7hETFrhA</id>
-    <link href="https://mp.weixin.qq.com/s/RTn3Rsss2_RjmX7hETFrhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
