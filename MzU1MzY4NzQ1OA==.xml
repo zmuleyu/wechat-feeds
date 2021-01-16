@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:01:53+08:00</updated>
+  <updated>2021-01-16T20:43:15+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>16 岁高中生成功在 iPhone 7 上安装 Ubuntu 20.04 桌面！</title>
+    <updated>2021-01-16T19:23:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/u5MmNcKdM37JhGuyPTIZLQ</id>
+    <link href="https://mp.weixin.qq.com/s/u5MmNcKdM37JhGuyPTIZLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>macOS Big Sur 使用全新虚拟化框架创建超轻量虚拟机！</title>
     <updated>2021-01-14T22:22:54+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-03T22:37:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/iLvQTVwoUIewKsidJgVYhg</id>
     <link href="https://mp.weixin.qq.com/s/iLvQTVwoUIewKsidJgVYhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>容器网络一直在颤抖，罪魁祸首竟然是 ipvs 定时器</title>
-    <updated>2021-01-03T15:37:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/pY4ZKkzgfTmoxsAjr5ckbQ</id>
-    <link href="https://mp.weixin.qq.com/s/pY4ZKkzgfTmoxsAjr5ckbQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

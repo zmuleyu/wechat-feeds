@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据生态 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T20:28:13+08:00</updated>
+  <updated>2021-01-16T20:30:24+08:00</updated>
   <subtitle>火爆数年的大数据圈，让很多人还没弄懂大数据是什么，就已然身处其中。该订阅号对大数据行业中的各个领域进行梳理，有助于业内人士了解大数据生态圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么要使用Presto</title>
+    <updated>2021-01-16T17:17:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/wzqcRgr2z1QS6ecSgcOrRQ</id>
+    <link href="https://mp.weixin.qq.com/s/wzqcRgr2z1QS6ecSgcOrRQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink Watermark机制</title>
     <updated>2021-01-10T16:33:36+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-19T21:39:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/7u9uR4sQAYjfHabSsUsHVQ</id>
     <link href="https://mp.weixin.qq.com/s/7u9uR4sQAYjfHabSsUsHVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 事件时间与处理时间</title>
-    <updated>2020-12-14T22:16:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/zmiWiIzEgmognyQ3Pe8cYQ</id>
-    <link href="https://mp.weixin.qq.com/s/zmiWiIzEgmognyQ3Pe8cYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

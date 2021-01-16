@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RedTeaming | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T23:21:10+08:00</updated>
+  <updated>2021-01-16T20:26:55+08:00</updated>
   <subtitle>Know it,Then hacking it!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Using Direct Syscalls in Cobalt Strike&#39;s Artifact Kit</title>
+    <updated>2021-01-16T17:08:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/dlzsFg6Txe9vel5zfebCLA</id>
+    <link href="https://mp.weixin.qq.com/s/dlzsFg6Txe9vel5zfebCLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>RedTeamTricks</title>
     <updated>2021-01-11T21:37:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-03-04T19:07:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-03-04:/s/sAnIMzulmKwRCAWoYF_EuA</id>
     <link href="https://mp.weixin.qq.com/s/sAnIMzulmKwRCAWoYF_EuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mac Iterm2 终端美化</title>
-    <updated>2020-03-01T22:05:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-03-01:/s/KqfD8eZwyvaDTcRzIKzxkg</id>
-    <link href="https://mp.weixin.qq.com/s/KqfD8eZwyvaDTcRzIKzxkg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

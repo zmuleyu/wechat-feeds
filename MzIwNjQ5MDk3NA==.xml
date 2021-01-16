@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP开源社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:47:58+08:00</updated>
+  <updated>2021-01-16T20:55:15+08:00</updated>
   <subtitle>免费提供10GPHP进阶架构师学习教程，关注即可免费领取。每天推送PHP最新资讯技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis 6.0 集群搭建实践</title>
+    <updated>2021-01-16T11:54:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/SF0mlLttCXgHkfB0xpG1IA</id>
+    <link href="https://mp.weixin.qq.com/s/SF0mlLttCXgHkfB0xpG1IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>经典面试题：Redis 内存满了怎么办？</title>
+    <updated>2021-01-16T11:54:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/_TY54Gqjvgc7Tq9VbyirQQ</id>
+    <link href="https://mp.weixin.qq.com/s/_TY54Gqjvgc7Tq9VbyirQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis是如何实现 “附近的人”功能的？</title>
     <updated>2021-01-15T17:10:17+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T15:37:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/hI-OMaPtPJc-ZH-zF5Lekg</id>
     <link href="https://mp.weixin.qq.com/s/hI-OMaPtPJc-ZH-zF5Lekg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dockerd 资源泄露如何处理？通过现象看问题的本质</title>
-    <updated>2021-01-05T10:15:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/OSmALqPtQ48x_EBSSq6_Tg</id>
-    <link href="https://mp.weixin.qq.com/s/OSmALqPtQ48x_EBSSq6_Tg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>很少人真正了解 \n 和 \r 有什么区别！</title>
-    <updated>2021-01-05T10:15:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/1RjliwuX8SnIMnV95bX6mA</id>
-    <link href="https://mp.weixin.qq.com/s/1RjliwuX8SnIMnV95bX6mA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

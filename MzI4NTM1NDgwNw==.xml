@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师专栏 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T16:43:12+08:00</updated>
+  <updated>2021-01-16T20:45:37+08:00</updated>
   <subtitle>助力您成为有思想的全栈架构师，聊架构，聊职场、聊人生！打造最有价值的架构师圈子和社区技术改变生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>爆肝，52条SQL语句，性能优化，干货必收藏</title>
+    <updated>2021-01-16T20:12:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/B4Awgn_Jj2zWCadGZKRtPg</id>
+    <link href="https://mp.weixin.qq.com/s/B4Awgn_Jj2zWCadGZKRtPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里 Nacos 惊爆，安全漏洞以绕过身份验证（附修复建议）</title>
     <updated>2021-01-15T13:51:43+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-07T20:55:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/FO-IVYY0JIxm-StZnZ3ZQQ</id>
     <link href="https://mp.weixin.qq.com/s/FO-IVYY0JIxm-StZnZ3ZQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里取消“361”绩效考核，是打工人的福报吗？</title>
-    <updated>2021-01-06T09:42:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/IAggiU2SxRHEkmlVPGKrJQ</id>
-    <link href="https://mp.weixin.qq.com/s/IAggiU2SxRHEkmlVPGKrJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Google 开源的依赖注入库，比 Spring 更小更快！</title>
-    <updated>2021-01-06T09:42:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/tdj0QwX17bO_UNqwrfHVsQ</id>
-    <link href="https://mp.weixin.qq.com/s/tdj0QwX17bO_UNqwrfHVsQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

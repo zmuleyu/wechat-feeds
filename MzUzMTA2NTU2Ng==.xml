@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:03:35+08:00</updated>
+  <updated>2021-01-16T20:45:42+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>K8S知道，K9S呢？</title>
+    <updated>2021-01-15T23:43:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/9QLFvQcP6X5I8fssViylUg</id>
+    <link href="https://mp.weixin.qq.com/s/9QLFvQcP6X5I8fssViylUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Slf4j 包老冲突，每次排查半天，是什么原因？怎么解决？</title>
+    <updated>2021-01-15T23:43:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/f52Af50h9xVBOztJD8IHdQ</id>
+    <link href="https://mp.weixin.qq.com/s/f52Af50h9xVBOztJD8IHdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google 鼓励的 13 条代码审查标准，建议收藏！</title>
+    <updated>2021-01-15T23:43:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/CkNAXv2dh0Q1Fqe4irO9BQ</id>
+    <link href="https://mp.weixin.qq.com/s/CkNAXv2dh0Q1Fqe4irO9BQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让海量数据瑟瑟发抖！这个MySQL分库分表方案，0失误！</title>
     <updated>2021-01-14T23:37:59+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T19:36:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/xY7sgp9gJQ1Fcl-ArmRHRg</id>
     <link href="https://mp.weixin.qq.com/s/xY7sgp9gJQ1Fcl-ArmRHRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Cloud 终于大改版？为什么要用日期来做版本号？</title>
-    <updated>2021-01-10T01:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/c-qAnXedXrabGcsPzwm8SA</id>
-    <link href="https://mp.weixin.qq.com/s/c-qAnXedXrabGcsPzwm8SA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 Arthas 定位 Spring Boot 接口超时</title>
-    <updated>2021-01-10T01:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/-yvx8dklsplCZzBFCK7QDg</id>
-    <link href="https://mp.weixin.qq.com/s/-yvx8dklsplCZzBFCK7QDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员常见的口头禅，哈哈哈哈～</title>
-    <updated>2021-01-10T01:49:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/MNrQyulBl9DIRO623ZLpkw</id>
-    <link href="https://mp.weixin.qq.com/s/MNrQyulBl9DIRO623ZLpkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

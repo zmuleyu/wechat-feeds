@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生CTO | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T13:56:15+08:00</updated>
+  <updated>2021-01-16T20:36:50+08:00</updated>
   <subtitle>热衷于云原生技术K8s、docker、devops、gitops、Go分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>（逆向理解）-没有kube-proxy组件的Kubernetes集群会怎么样？</title>
+    <updated>2021-01-16T19:56:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/ByQiETYq0SRKpoi8YX4sXQ</id>
+    <link href="https://mp.weixin.qq.com/s/ByQiETYq0SRKpoi8YX4sXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在Kubernetes中为Node.js应用程序创建活动性探针</title>
     <updated>2021-01-10T13:15:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-29T22:29:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-29:/s/6qym0fjx7ZlHiPed4ZKu-w</id>
     <link href="https://mp.weixin.qq.com/s/6qym0fjx7ZlHiPed4ZKu-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我们如何学会大规模改善Kubernetes CronJobs（第2部分，共2部分）</title>
-    <updated>2020-11-21T22:02:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/bDMSBmKoMnayxv0yPQ0Onw</id>
-    <link href="https://mp.weixin.qq.com/s/bDMSBmKoMnayxv0yPQ0Onw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

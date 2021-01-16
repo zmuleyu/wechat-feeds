@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿天地 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:47:37+08:00</updated>
+  <updated>2021-01-16T20:41:16+08:00</updated>
   <subtitle>猿天地由《Spring Cloud微服务-全栈技术与案例解析》, 《Spring Cloud微服务 入门 实战与进阶》作者尹吉欢创建。 资深Java技术专家和微服务技术专家，在Spring Cloud和微服务方面有丰富的经验。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有了链路日志增强，排查Bug小意思啦！</title>
+    <updated>2021-01-16T18:01:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/BmFo8_U_F8lF-rhxztxx9A</id>
+    <link href="https://mp.weixin.qq.com/s/BmFo8_U_F8lF-rhxztxx9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让Bug无处遁形的2K显示器，免费包邮送到家</title>
     <updated>2021-01-14T14:06:08+08:00</updated>
@@ -47,20 +54,6 @@
     <updated>2021-01-12T15:17:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/-b7lnOhMa7eeqfr0-bKf8Q</id>
     <link href="https://mp.weixin.qq.com/s/-b7lnOhMa7eeqfr0-bKf8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让Bug无处遁形的2K显示器，免费包邮送到家</title>
-    <updated>2021-01-11T22:00:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/WKSXMlUTho1FnnLIV2BATg</id>
-    <link href="https://mp.weixin.qq.com/s/WKSXMlUTho1FnnLIV2BATg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对业务系统的可扩展性设计思考</title>
-    <updated>2021-01-11T22:00:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/VUXwpcCDOAD2JhCnJparzQ</id>
-    <link href="https://mp.weixin.qq.com/s/VUXwpcCDOAD2JhCnJparzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>

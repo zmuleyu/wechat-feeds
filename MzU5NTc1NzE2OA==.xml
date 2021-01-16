@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库践行者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:50:00+08:00</updated>
+  <updated>2021-01-16T20:35:20+08:00</updated>
   <subtitle>分享是最好的学习，这里记录我对数据仓库的实践的思考和总结</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AstBuilder.visitTableName详解</title>
+    <updated>2021-01-16T17:26:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/17awu_tBPIgvi7sO4nCypA</id>
+    <link href="https://mp.weixin.qq.com/s/17awu_tBPIgvi7sO4nCypA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文搞懂 Maven 原理</title>
     <updated>2020-11-08T21:35:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-07-18T22:11:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-18:/s/IvIE_G8nIAwyUjq7EdExPg</id>
     <link href="https://mp.weixin.qq.com/s/IvIE_G8nIAwyUjq7EdExPg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>五月，早安</title>
-    <updated>2020-06-30T23:19:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-06-30:/s/gOe98qhXXgciTP7AXJvXaw</id>
-    <link href="https://mp.weixin.qq.com/s/gOe98qhXXgciTP7AXJvXaw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
