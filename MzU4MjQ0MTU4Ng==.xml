@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T07:51:47+08:00</updated>
+  <updated>2021-01-16T16:53:29+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>简单示例说明 kube-proxy 如何与 iptables 配合使用</title>
+    <updated>2021-01-16T14:57:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/b4sXrx3n3DxK06zMtHyEqw</id>
+    <link href="https://mp.weixin.qq.com/s/b4sXrx3n3DxK06zMtHyEqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干掉微服务：首次揭秘腾讯社交、阿里电商万亿级架构设计</title>
     <updated>2021-01-15T07:31:21+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-07T11:43:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/qHHX0zBE-eUSG6Gnn247bw</id>
     <link href="https://mp.weixin.qq.com/s/qHHX0zBE-eUSG6Gnn247bw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 F5 和 Cilium 的 Kubernetes 集群网络架构设计</title>
-    <updated>2021-01-06T12:25:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/lr-usDIiiiClA1HjENSYQw</id>
-    <link href="https://mp.weixin.qq.com/s/lr-usDIiiiClA1HjENSYQw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

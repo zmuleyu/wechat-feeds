@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:14:34+08:00</updated>
+  <updated>2021-01-16T17:03:28+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货，OLAP数仓从百万到百亿级数据量实时分析</title>
+    <updated>2021-01-16T16:22:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/iPq3iKdMaH-abm5SjHBZDQ</id>
+    <link href="https://mp.weixin.qq.com/s/iPq3iKdMaH-abm5SjHBZDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Doris在京东搜索实时OLAP中的应用实践</title>
     <updated>2021-01-15T08:36:28+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2021-01-07T09:21:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/5HYa6vojMeZtdSm-NqLMtA</id>
     <link href="https://mp.weixin.qq.com/s/5HYa6vojMeZtdSm-NqLMtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何搭建一个PB级大数据中台？我之前是这么搞的！</title>
-    <updated>2021-01-05T22:31:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/ZlthHBmkxIY4jDImOik-kg</id>
-    <link href="https://mp.weixin.qq.com/s/ZlthHBmkxIY4jDImOik-kg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shell脚本实战：日志关键字监控+自动告警</title>
-    <updated>2021-01-05T22:31:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/o2QIZMTabcpTPKuOnHBszg</id>
-    <link href="https://mp.weixin.qq.com/s/o2QIZMTabcpTPKuOnHBszg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

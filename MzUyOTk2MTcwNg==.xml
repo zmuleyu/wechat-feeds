@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:38:32+08:00</updated>
+  <updated>2021-01-16T16:44:27+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员界有哪些经典的笑话?……</title>
+    <updated>2021-01-16T16:12:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/mWZ_ykTvaNYqE1L_9JT-uw</id>
+    <link href="https://mp.weixin.qq.com/s/mWZ_ykTvaNYqE1L_9JT-uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何从 C++ 转向 Python？</title>
     <updated>2021-01-14T22:03:54+08:00</updated>
@@ -19,13 +26,6 @@
     <updated>2021-01-12T23:24:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/eaxlo71sN4JRnBiPNBxKzQ</id>
     <link href="https://mp.weixin.qq.com/s/eaxlo71sN4JRnBiPNBxKzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何逐步突破，成为 Python 高手？</title>
-    <updated>2021-01-11T20:28:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/o7UKdjZHJfq9s0m4c6S62A</id>
-    <link href="https://mp.weixin.qq.com/s/o7UKdjZHJfq9s0m4c6S62A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,13 +75,6 @@
     <updated>2021-01-04T21:15:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/41FhpJh6xv9Bj44OAmjRjQ</id>
     <link href="https://mp.weixin.qq.com/s/41FhpJh6xv9Bj44OAmjRjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用了十几年才想明白：Python的精髓居然是方括号、花括号和圆括号！</title>
-    <updated>2021-01-03T20:49:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/TkZyo7tr8IuSYMLGdG-rWw</id>
-    <link href="https://mp.weixin.qq.com/s/TkZyo7tr8IuSYMLGdG-rWw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
