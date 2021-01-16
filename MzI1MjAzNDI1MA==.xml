@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T23:23:34+08:00</updated>
+  <updated>2021-01-17T02:20:26+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】2021-01-16 Async-std v1.9.0 发布</title>
+    <updated>2021-01-16T23:37:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/oAx-kc7pnosOkA3Wvg1Tdw</id>
+    <link href="https://mp.weixin.qq.com/s/oAx-kc7pnosOkA3Wvg1Tdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】阿里云消息中间件RocketMQ招人</title>
+    <updated>2021-01-16T23:37:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/XUMoMs1GbXJgJCDJW-zHGA</id>
+    <link href="https://mp.weixin.qq.com/s/XUMoMs1GbXJgJCDJW-zHGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>技术分享 | 国汽智控软件研发总监肖猛《Rust作为汽车软件主语言的探索》</title>
     <updated>2021-01-15T21:52:24+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-07T23:44:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/Gl0symf8z3X8qTt3eR28cQ</id>
     <link href="https://mp.weixin.qq.com/s/Gl0symf8z3X8qTt3eR28cQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TiDB Hackathon 2020 启动 | 战火重燃、奖金加码，TiDB Hackathon 2020 有你才精彩</title>
-    <updated>2021-01-07T23:44:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/zcGZ7SfSvWITvl7byy3Gng</id>
-    <link href="https://mp.weixin.qq.com/s/zcGZ7SfSvWITvl7byy3Gng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 大会最受欢迎的 Topic，Top 10 榜单出炉</title>
-    <updated>2021-01-06T23:08:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ONSY0kywMfde3eiJgs_gBA</id>
-    <link href="https://mp.weixin.qq.com/s/ONSY0kywMfde3eiJgs_gBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

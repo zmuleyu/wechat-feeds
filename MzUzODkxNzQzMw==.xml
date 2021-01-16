@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:28:42+08:00</updated>
+  <updated>2021-01-17T02:19:57+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WACV 2021 论文大盘点-人脸技术篇</title>
+    <updated>2021-01-16T22:58:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/t2OI45EFbjrCh1bbVlxDfw</id>
+    <link href="https://mp.weixin.qq.com/s/t2OI45EFbjrCh1bbVlxDfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等</title>
     <updated>2021-01-15T17:00:54+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T12:17:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/dgomx1q2CHzxzphRo2cZXA</id>
     <link href="https://mp.weixin.qq.com/s/dgomx1q2CHzxzphRo2cZXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位</title>
-    <updated>2020-12-16T22:48:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/0OJR3Y5cPfeHhdTdI3BgEA</id>
-    <link href="https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

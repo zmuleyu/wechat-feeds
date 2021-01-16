@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库践行者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:35:20+08:00</updated>
+  <updated>2021-01-17T02:23:58+08:00</updated>
   <subtitle>分享是最好的学习，这里记录我对数据仓库的实践的思考和总结</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>火苗再小，都要反复的点燃</title>
+    <updated>2021-01-17T00:13:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/_W86QZqDJWkIxkyTA4nvxA</id>
+    <link href="https://mp.weixin.qq.com/s/_W86QZqDJWkIxkyTA4nvxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从一个sql任务理解spark内存模型</title>
+    <updated>2021-01-17T00:13:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/3QJsUH8UTAz8dZhqsjsRjg</id>
+    <link href="https://mp.weixin.qq.com/s/3QJsUH8UTAz8dZhqsjsRjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AstBuilder.visitTableName详解</title>
     <updated>2021-01-16T17:26:12+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-08-27T01:04:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-27:/s/Y9kXsNS9CFlWEV9CbAOiBg</id>
     <link href="https://mp.weixin.qq.com/s/Y9kXsNS9CFlWEV9CbAOiBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 进程内存分布</title>
-    <updated>2020-07-18T22:11:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-18:/s/IvIE_G8nIAwyUjq7EdExPg</id>
-    <link href="https://mp.weixin.qq.com/s/IvIE_G8nIAwyUjq7EdExPg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

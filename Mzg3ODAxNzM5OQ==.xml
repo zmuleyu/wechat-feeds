@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T02:41:47+08:00</updated>
+  <updated>2021-01-17T02:37:06+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>推荐：Dapper扩展-Dapper.SimpleCRUD</title>
+    <updated>2021-01-16T21:00:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/aTaety0GJoV-Mt4mMiPuKg</id>
+    <link href="https://mp.weixin.qq.com/s/aTaety0GJoV-Mt4mMiPuKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chrome扩展程序开发 - 更改活动选项卡的default_icon</title>
     <updated>2021-01-15T09:11:24+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-07T09:17:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/bzo0oZITPsvMx0EJJ5WB7A</id>
     <link href="https://mp.weixin.qq.com/s/bzo0oZITPsvMx0EJJ5WB7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于Redis的分布式锁和Redlock算法</title>
-    <updated>2021-01-06T09:08:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/guqGpRCOMmeVl316Zf46AQ</id>
-    <link href="https://mp.weixin.qq.com/s/guqGpRCOMmeVl316Zf46AQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
