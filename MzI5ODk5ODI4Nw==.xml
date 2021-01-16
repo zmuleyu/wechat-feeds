@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:13:38+08:00</updated>
+  <updated>2021-01-16T08:08:38+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CNCF Weekly 21-2</title>
+    <updated>2021-01-15T10:59:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/AXSOaLIjFoXDLQxR0NutHQ</id>
+    <link href="https://mp.weixin.qq.com/s/AXSOaLIjFoXDLQxR0NutHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>KubeEdge应用案例 |助力边缘云生态共建，加速云原生落地创新</title>
     <updated>2021-01-15T10:33:05+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-12T11:27:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/HLkE6SbhGw3frAIReQ3L4w</id>
     <link href="https://mp.weixin.qq.com/s/HLkE6SbhGw3frAIReQ3L4w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>拥抱网格网关</title>
-    <updated>2021-01-12T11:27:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/tEfqungAx3mYkFJ7l6D9Yg</id>
-    <link href="https://mp.weixin.qq.com/s/tEfqungAx3mYkFJ7l6D9Yg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
