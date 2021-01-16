@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员八卦 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:50:37+08:00</updated>
+  <updated>2021-01-16T13:55:50+08:00</updated>
   <subtitle>程序员八卦！有深度、有温度、有态度，在这里读懂程序员！改变世界的往往是那些默默无闻的程序员！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>39岁单身程序员入住养老院，提前过上退休生活？网友：羡慕又心酸！</title>
+    <updated>2021-01-15T22:14:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/ECfZcHXE-bACei7CmvWqCw</id>
+    <link href="https://mp.weixin.qq.com/s/ECfZcHXE-bACei7CmvWqCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>生产环境JVM内存溢出案例分析</title>
+    <updated>2021-01-15T22:14:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/CG5p47RdCCh2BDe6TSPThg</id>
+    <link href="https://mp.weixin.qq.com/s/CG5p47RdCCh2BDe6TSPThg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节网友晒出2020年个人年终总结，存款50万变100万</title>
     <updated>2021-01-15T01:42:39+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-08T01:15:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/8brhzCRxJvIBinBDDTXwUw</id>
     <link href="https://mp.weixin.qq.com/s/8brhzCRxJvIBinBDDTXwUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>五种方法创建java对象，你知道几种呢？</title>
-    <updated>2021-01-08T01:15:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/9dkmF9llHH1NtVvyLmC7dA</id>
-    <link href="https://mp.weixin.qq.com/s/9dkmF9llHH1NtVvyLmC7dA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 慌了！这个分库分表方法论，要火了？</title>
-    <updated>2021-01-06T23:31:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/jAH0SLbhwfTMK6yYF6rSPw</id>
-    <link href="https://mp.weixin.qq.com/s/jAH0SLbhwfTMK6yYF6rSPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:34:11+08:00</updated>
+  <updated>2021-01-16T13:47:30+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes如果是个水族馆！</title>
+    <updated>2021-01-15T22:44:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/4vHeH3x1lshztODLzR-48Q</id>
+    <link href="https://mp.weixin.qq.com/s/4vHeH3x1lshztODLzR-48Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>免费微信红包封面，抓紧领取，先到先得！</title>
+    <updated>2021-01-15T22:44:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/KArPe3BNFIlp7YA9uzb4xA</id>
+    <link href="https://mp.weixin.qq.com/s/KArPe3BNFIlp7YA9uzb4xA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Elasticsearch和Kibana将改用SSPL和Elastic双重授权，避免厂商薅了羊毛但不回馈社区</title>
     <updated>2021-01-15T18:04:52+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-07T11:51:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/ru8DCJO0l52XTi6jv-lyTw</id>
     <link href="https://mp.weixin.qq.com/s/ru8DCJO0l52XTi6jv-lyTw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云计算的再次变迁：从 容器云到数据云丨报告下载</title>
-    <updated>2021-01-06T11:51:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/CkKm73c-Jlz4V4YN2DEXAA</id>
-    <link href="https://mp.weixin.qq.com/s/CkKm73c-Jlz4V4YN2DEXAA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

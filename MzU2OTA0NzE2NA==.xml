@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>专知 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:35:38+08:00</updated>
+  <updated>2021-01-16T13:49:12+08:00</updated>
   <subtitle>专知，为人工智能从业者服务，提供专业可信的人工智能知识与技术服务，让认知协作更快更好！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TAMU发布《图神经网络可解释》综述论文，14页pdf阐述实例级与模型级解释</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/R24ZdMBLiGVnW_WnphmtFg</id>
+    <link href="https://mp.weixin.qq.com/s/R24ZdMBLiGVnW_WnphmtFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Manning新书】C++并行实战，592页pdf，C++ Concurrency in Action</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/wu32LBwrkkBIANMdknHlCA</id>
+    <link href="https://mp.weixin.qq.com/s/wu32LBwrkkBIANMdknHlCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于深度学习的点云语义分割研究综述</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/k_NAR7Oj1ABO8WAkn19H9g</id>
+    <link href="https://mp.weixin.qq.com/s/k_NAR7Oj1ABO8WAkn19H9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DeepMind《AlphaFold2蛋白质结构预测》CASP14介绍报告，42页ppt</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/4dxGhljDlT7PCcYJVJAqWg</id>
+    <link href="https://mp.weixin.qq.com/s/4dxGhljDlT7PCcYJVJAqWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【AAAI2021】利用深度元学习对城市销量进行预测</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/g6zOjq-I-KSexJTPwEMBwg</id>
+    <link href="https://mp.weixin.qq.com/s/g6zOjq-I-KSexJTPwEMBwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>《2021年中国AIoT产业全景图谱》白皮书，244页pdf</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/yHIRYme5XxVSu--I4w0kpw</id>
+    <link href="https://mp.weixin.qq.com/s/yHIRYme5XxVSu--I4w0kpw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>知乎搜索文本相关性与知识蒸馏</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/yuTKPIs2VsKP0HMNel6G7g</id>
+    <link href="https://mp.weixin.qq.com/s/yuTKPIs2VsKP0HMNel6G7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>100+篇必看2020综述论文《小样本/GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合</title>
+    <updated>2021-01-16T11:55:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/9_eTGVbDRhEIbaqpWawKGA</id>
+    <link href="https://mp.weixin.qq.com/s/9_eTGVbDRhEIbaqpWawKGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>纠结Pytorch, Tensorflow, Keras 一个月之后，我自己创造了一个神经网络框架</title>
     <updated>2021-01-15T16:09:59+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-14T16:04:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/0GynJkKnqsC8o6kF-pmOVQ</id>
     <link href="https://mp.weixin.qq.com/s/0GynJkKnqsC8o6kF-pmOVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最新《对抗机器学习》报告，EPFL-Volkan教授讲解AML中的优化问题</title>
-    <updated>2021-01-14T16:04:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/y7CUzEbmVZKk4FwWfSfsVw</id>
-    <link href="https://mp.weixin.qq.com/s/y7CUzEbmVZKk4FwWfSfsVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐系统解构</title>
-    <updated>2021-01-14T16:04:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/dr6gxJCDBM1Lk_tAOdi9-Q</id>
-    <link href="https://mp.weixin.qq.com/s/dr6gxJCDBM1Lk_tAOdi9-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真正的即插即用！盘点11种CNN网络设计中精巧通用的“小”插件</title>
-    <updated>2021-01-14T16:04:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/ncbvzfEBoKuA-nEfZnZkhQ</id>
-    <link href="https://mp.weixin.qq.com/s/ncbvzfEBoKuA-nEfZnZkhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>100+篇必看2020综述论文《小样本/GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合</title>
-    <updated>2021-01-14T16:04:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/uayAPa4YItpqppeFH1PwWw</id>
-    <link href="https://mp.weixin.qq.com/s/uayAPa4YItpqppeFH1PwWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年，投身自然语言处理是否明智？</title>
-    <updated>2021-01-13T17:11:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/M8ylCgMlZHV-uwqGFfJ0pw</id>
-    <link href="https://mp.weixin.qq.com/s/M8ylCgMlZHV-uwqGFfJ0pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>斯坦福CS224W《图机器学习》2021课程开始了！Jure Leskovec大牛主讲，附课程PPT下载</title>
-    <updated>2021-01-13T17:11:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/4X1NK-YLtkgYGuUFBkHruw</id>
-    <link href="https://mp.weixin.qq.com/s/4X1NK-YLtkgYGuUFBkHruw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ICLR2021放榜了！ 687篇入选34篇得满分！ 48篇orals，108篇spotlights，531篇poster</title>
-    <updated>2021-01-13T17:11:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/vt1eESL3jjUes8gMcWtsvQ</id>
-    <link href="https://mp.weixin.qq.com/s/vt1eESL3jjUes8gMcWtsvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于事件社会网络推荐系统综述</title>
-    <updated>2021-01-13T17:11:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/D1Rr_Br9GNH5Is4ggr-_QA</id>
-    <link href="https://mp.weixin.qq.com/s/D1Rr_Br9GNH5Is4ggr-_QA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

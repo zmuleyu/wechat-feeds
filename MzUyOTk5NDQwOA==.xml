@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员书单 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:35:23+08:00</updated>
+  <updated>2021-01-16T13:36:44+08:00</updated>
   <subtitle>一个为程序员推荐好书的公众号。专注于分享Java、Python、大数据、人工智能等多个领域的优质学习资源，每天为你pick精品书单，优质学习资源和软件工具。关注前沿技术与行业资讯，更关注你的自我提升。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>突发！拼多多程序员自杀</title>
+    <updated>2021-01-16T11:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/YP1sUId4GriG5zqCRELdrA</id>
+    <link href="https://mp.weixin.qq.com/s/YP1sUId4GriG5zqCRELdrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL不会丢失数据的秘密，就藏在它的 7种日志里</title>
+    <updated>2021-01-16T11:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/x1npmTxMOv5lJ1IsD10GTg</id>
+    <link href="https://mp.weixin.qq.com/s/x1npmTxMOv5lJ1IsD10GTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>写代码有这16个好习惯，可以减少80%非业务的bug</title>
+    <updated>2021-01-16T11:59:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/G675X_yNfaYxfBMtbHh-aw</id>
+    <link href="https://mp.weixin.qq.com/s/G675X_yNfaYxfBMtbHh-aw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里巴巴内网宣布将取消“361”制度！员工质疑：换汤不换药</title>
     <updated>2021-01-15T11:59:00+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-08T11:59:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/MhnFW3GA1qGkFnEZUpkHMw</id>
     <link href="https://mp.weixin.qq.com/s/MhnFW3GA1qGkFnEZUpkHMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>乡巴佬的大厂梦 | 2020年终总结</title>
-    <updated>2021-01-08T11:59:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/PU5fpoc2CPjMYegRV1r0Ng</id>
-    <link href="https://mp.weixin.qq.com/s/PU5fpoc2CPjMYegRV1r0Ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>余额宝，凉了！！！</title>
-    <updated>2021-01-07T11:59:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/aaUgjmCmTfMHjm4CKEhocw</id>
-    <link href="https://mp.weixin.qq.com/s/aaUgjmCmTfMHjm4CKEhocw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员是青春饭吗？30岁后的发展方向和突破</title>
-    <updated>2021-01-07T11:59:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ZLc-Mf2VyOMOmFeeBBX-oQ</id>
-    <link href="https://mp.weixin.qq.com/s/ZLc-Mf2VyOMOmFeeBBX-oQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

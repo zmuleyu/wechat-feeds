@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>惊天码盗 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:39:51+08:00</updated>
+  <updated>2021-01-16T14:13:34+08:00</updated>
   <subtitle>一个前端工程师的记事本，一个关于成长的故事。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年度总结（增长的朋友）</title>
+    <updated>2021-01-16T12:36:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/f2Dm1_GVoIuQRrJIFTPgtg</id>
+    <link href="https://mp.weixin.qq.com/s/f2Dm1_GVoIuQRrJIFTPgtg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>算法～复杂度分析</title>
     <updated>2020-12-22T19:00:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-28T19:42:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-28:/s/9XD6rBsB956TtHBKxbxZvg</id>
     <link href="https://mp.weixin.qq.com/s/9XD6rBsB956TtHBKxbxZvg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CMS探索</title>
-    <updated>2020-08-06T23:21:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-06:/s/yM0m2byGD6mfqJ_IQ8oPcg</id>
-    <link href="https://mp.weixin.qq.com/s/yM0m2byGD6mfqJ_IQ8oPcg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
