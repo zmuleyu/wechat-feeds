@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T07:48:12+08:00</updated>
+  <updated>2021-01-16T12:13:14+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>周末无套路送书了！</title>
+    <updated>2021-01-15T20:49:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/4AwK5BlnAW4AGjWNNHYbnw</id>
+    <link href="https://mp.weixin.qq.com/s/4AwK5BlnAW4AGjWNNHYbnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干货，如何建立数据标签体系</title>
     <updated>2021-01-14T21:17:04+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-04T20:35:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/WckKyuFopDRYT2AluKFgEQ</id>
     <link href="https://mp.weixin.qq.com/s/WckKyuFopDRYT2AluKFgEQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>汇总，大数据开源框架技术扫盲</title>
-    <updated>2021-01-03T23:11:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/_VQ2iVwo7cwxoeeJjttkFw</id>
-    <link href="https://mp.weixin.qq.com/s/_VQ2iVwo7cwxoeeJjttkFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

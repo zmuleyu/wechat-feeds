@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:01:50+08:00</updated>
+  <updated>2021-01-16T12:11:14+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>想接私活时薪再翻一倍，建议根据这几个开源的SpringBoot项目（含小程序）改改~</title>
+    <updated>2021-01-16T08:10:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/6CF76uclnDI36dHWZRPPWg</id>
+    <link href="https://mp.weixin.qq.com/s/6CF76uclnDI36dHWZRPPWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么很多 SpringBoot 开发者放弃了 Tomcat，选择了 Undertow?</title>
     <updated>2021-01-15T07:59:01+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-07T07:59:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/V7G2Qd9e-T1yiC3euYNGUQ</id>
     <link href="https://mp.weixin.qq.com/s/V7G2Qd9e-T1yiC3euYNGUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 Docker 中运行 Mac OS 是什么样的体验？</title>
-    <updated>2021-01-06T07:59:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9CWLsNV2cfazIR8FC3AeFg</id>
-    <link href="https://mp.weixin.qq.com/s/9CWLsNV2cfazIR8FC3AeFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

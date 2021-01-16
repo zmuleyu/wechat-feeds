@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:43:15+08:00</updated>
+  <updated>2021-01-16T12:02:24+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>高中生把iPhone7改造成Linux服务器；杭州某公司用智能坐垫记录员工离座时间；黑客远程锁定联网贞操笼索取赎金 | 架构视点</title>
+    <updated>2021-01-15T17:52:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/pB6lhSQJfcS43klLRU7p1Q</id>
+    <link href="https://mp.weixin.qq.com/s/pB6lhSQJfcS43klLRU7p1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>21个2021年软件开发趋势预测</title>
     <updated>2021-01-15T11:56:14+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2021-01-07T11:36:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/-gyFNvTQ4PsH8y1167Eeqw</id>
     <link href="https://mp.weixin.qq.com/s/-gyFNvTQ4PsH8y1167Eeqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>典型案例：一个数据平台的十二年架构演变历程</title>
-    <updated>2021-01-06T12:03:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xdR5t0QFBzTETc1MMFL7MQ</id>
-    <link href="https://mp.weixin.qq.com/s/xdR5t0QFBzTETc1MMFL7MQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生时代，电信运营商的微服务架构适用性</title>
-    <updated>2021-01-06T12:03:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/lSpXJQU5DzycWkGowaHE9w</id>
-    <link href="https://mp.weixin.qq.com/s/lSpXJQU5DzycWkGowaHE9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

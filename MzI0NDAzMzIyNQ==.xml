@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序新视界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:54:36+08:00</updated>
+  <updated>2021-01-16T12:27:44+08:00</updated>
   <subtitle>编程，读书，职场感悟，带你开启新的程序视界！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>“两数相加”，小学加法运算而已，不用递归没有灵魂！</title>
+    <updated>2021-01-16T08:38:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/sU4V3mU6Y39u1LUlkq5cWg</id>
+    <link href="https://mp.weixin.qq.com/s/sU4V3mU6Y39u1LUlkq5cWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自定义SpringBoot默认MVC配置？好几个坑，这篇文章必须珍藏</title>
     <updated>2021-01-14T21:33:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T15:05:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/MG3qh4-bYx6h7AoN0MsHTA</id>
     <link href="https://mp.weixin.qq.com/s/MG3qh4-bYx6h7AoN0MsHTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>只因多看了一眼@Autowired的提示，又一次刷新了认知</title>
-    <updated>2020-12-16T17:44:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/dzayE-6fCipTBGa4ZMhtOA</id>
-    <link href="https://mp.weixin.qq.com/s/dzayE-6fCipTBGa4ZMhtOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:00:44+08:00</updated>
+  <updated>2021-01-16T12:09:51+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年首届.NET线下沙龙上海站 - 2021 .NET Meetup in Shanghai</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/kTgpJy_gbSU4cIxc_ybjRw</id>
+    <link href="https://mp.weixin.qq.com/s/kTgpJy_gbSU4cIxc_ybjRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>2021年了，`IEnumerator`、`IEnumerable`接口还傻傻分不清楚？</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/eviVdY8LbyeTkwS-gfH7ew</id>
+    <link href="https://mp.weixin.qq.com/s/eviVdY8LbyeTkwS-gfH7ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>3个值得学习和练手的.net企业级开源项目，强烈推荐</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/1XEEp2ccKyL3Rde13HeElA</id>
+    <link href="https://mp.weixin.qq.com/s/1XEEp2ccKyL3Rde13HeElA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【One by One系列】IdentityServer4（四）授权码流程</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/sHNPfU4ik7b2wb50W46GxA</id>
+    <link href="https://mp.weixin.qq.com/s/sHNPfU4ik7b2wb50W46GxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 ASP.Net Core 中实现 健康检查</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/L-mcNz60v-BQKejgz7gbag</id>
+    <link href="https://mp.weixin.qq.com/s/L-mcNz60v-BQKejgz7gbag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生那些顶级开源项目，你都用过哪些？</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/ljoR4klo0A_V9rRSQrD9jQ</id>
+    <link href="https://mp.weixin.qq.com/s/ljoR4klo0A_V9rRSQrD9jQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>依赖倒置在.NET中</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/l20hbY1_Lf52Nd2HOGxAtw</id>
+    <link href="https://mp.weixin.qq.com/s/l20hbY1_Lf52Nd2HOGxAtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跟我一起学Redis之加个哨兵让主从复制更加高可用</title>
+    <updated>2021-01-15T19:54:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/O-uAlbpjj3yaEwOPPTHu7g</id>
+    <link href="https://mp.weixin.qq.com/s/O-uAlbpjj3yaEwOPPTHu7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 Avalonia 开发 UOS 原生应用</title>
     <updated>2021-01-14T12:36:38+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-13T17:12:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/xImEr9nxgDHZ_tf2BbJzCQ</id>
     <link href="https://mp.weixin.qq.com/s/xImEr9nxgDHZ_tf2BbJzCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>4倍速！ML.NET Model Builder GPU 与 CPU 对比测试</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/PgANiLskewf7FE376vjDSA</id>
-    <link href="https://mp.weixin.qq.com/s/PgANiLskewf7FE376vjDSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>说说 RabbiMQ 的应答模式</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/5b9Z_DCqjirTVcyq2v69dw</id>
-    <link href="https://mp.weixin.qq.com/s/5b9Z_DCqjirTVcyq2v69dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenTelemetry - 云原生下可观测性的新标准</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/SSRO3-mDXNEjbO8hXeP3ag</id>
-    <link href="https://mp.weixin.qq.com/s/SSRO3-mDXNEjbO8hXeP3ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>dnSpy反编译、部署调试神器</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/JJ30dPGVqQGRd3x7geTbfw</id>
-    <link href="https://mp.weixin.qq.com/s/JJ30dPGVqQGRd3x7geTbfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>. NET5实战千万高并发项目，性能吊打JAVA，C#排名万年老五，有望逆袭！</title>
-    <updated>2021-01-12T22:12:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/F4cujWL_BYzIarW0xujUgA</id>
-    <link href="https://mp.weixin.qq.com/s/F4cujWL_BYzIarW0xujUgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>仓储模式到底是不是反模式？</title>
-    <updated>2021-01-12T22:12:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/wjABsxFc7BmOok-c1PQjMw</id>
-    <link href="https://mp.weixin.qq.com/s/wjABsxFc7BmOok-c1PQjMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ABP vNext IOC替换原有Service实现</title>
-    <updated>2021-01-12T22:12:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/knAtU8zfAKrmdqDW3r8vzw</id>
-    <link href="https://mp.weixin.qq.com/s/knAtU8zfAKrmdqDW3r8vzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ABP vNext 审计日志获取真实客户端IP</title>
-    <updated>2021-01-12T22:12:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/pKQXkTwGA7V2hh950YxbiQ</id>
-    <link href="https://mp.weixin.qq.com/s/pKQXkTwGA7V2hh950YxbiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:38:28+08:00</updated>
+  <updated>2021-01-16T12:10:53+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>怎么提升写代码的能力</title>
+    <updated>2021-01-15T18:32:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/7TgFlsVJjsAqKqk6N8P3yg</id>
+    <link href="https://mp.weixin.qq.com/s/7TgFlsVJjsAqKqk6N8P3yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>dubbo-go 白话文 | 从零搭建 dubbogo 和 dubbo 的简单用例</title>
     <updated>2021-01-15T18:41:45+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-06T18:20:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/dRhkZ_sSp-97uv0JPvF5vA</id>
     <link href="https://mp.weixin.qq.com/s/dRhkZ_sSp-97uv0JPvF5vA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里云技术专家解读：2021 年六大容器技术发展趋势</title>
-    <updated>2021-01-05T20:32:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/1aQt0_et8ayYQT428NAkIA</id>
-    <link href="https://mp.weixin.qq.com/s/1aQt0_et8ayYQT428NAkIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenYurt 入门 - 在树莓派上玩转 OpenYurt</title>
-    <updated>2021-01-05T20:32:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/Anr8UhTaNe3FCnKKfKoXNQ</id>
-    <link href="https://mp.weixin.qq.com/s/Anr8UhTaNe3FCnKKfKoXNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

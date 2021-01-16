@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中国政府网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T02:44:49+08:00</updated>
+  <updated>2021-01-16T12:20:39+08:00</updated>
   <subtitle>中国政府网由国务院办公厅主办，第一时间权威发布国务院重大决策部署和重要政策文件、国务院领导同志重要会议活动等政务信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>截至1月15日24时新型冠状病毒肺炎疫情最新情况</title>
+    <updated>2021-01-16T08:56:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/YUmv2Rd5po8PcU2pE0QTIg</id>
+    <link href="https://mp.weixin.qq.com/s/YUmv2Rd5po8PcU2pE0QTIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今天的国务院常务会定了这两件大事</title>
     <updated>2021-01-15T23:21:05+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-14T09:10:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/WkND9KfCf-uYHeaSfXZaKA</id>
     <link href="https://mp.weixin.qq.com/s/WkND9KfCf-uYHeaSfXZaKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>黑龙江新增40例确诊50例无症状、火车开车前8天以上免费退票……最新消息！</title>
-    <updated>2021-01-13T23:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Ngf9cktCcDOTV1A40emmRg</id>
-    <link href="https://mp.weixin.qq.com/s/Ngf9cktCcDOTV1A40emmRg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>疫情最新情况通报！</title>
-    <updated>2021-01-13T23:10:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/DYhn5xh4VKluLO28HDqemQ</id>
-    <link href="https://mp.weixin.qq.com/s/DYhn5xh4VKluLO28HDqemQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

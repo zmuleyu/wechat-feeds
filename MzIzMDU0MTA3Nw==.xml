@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Golang梦工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T16:20:31+08:00</updated>
+  <updated>2021-01-16T12:20:30+08:00</updated>
   <subtitle>Asong是一名Golang开发工程师，专注于Golang相关技术：Golang面试、Beego、Gin、Mysql、Linux、网络、操作系统等，致力于Golang开发。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>踩坑日志之elasticSearch</title>
+    <updated>2021-01-16T11:29:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/9TTGQRTFSLJo9-APnNh-SQ</id>
+    <link href="https://mp.weixin.qq.com/s/9TTGQRTFSLJo9-APnNh-SQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>详解defer实现机制(附上三道面试题，我不信你们都能做对)</title>
     <updated>2021-01-10T14:50:13+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-21T17:03:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/PaTPwRjG5dFMnOSbOlKcQA</id>
     <link href="https://mp.weixin.qq.com/s/PaTPwRjG5dFMnOSbOlKcQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>(Mysql)对数据库设计时设计标识字段引用的一些思考</title>
-    <updated>2020-11-15T21:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/maCxGhOUCGJjhZlzDC7pHg</id>
-    <link href="https://mp.weixin.qq.com/s/maCxGhOUCGJjhZlzDC7pHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

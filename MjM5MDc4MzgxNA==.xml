@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端自习课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:08:43+08:00</updated>
+  <updated>2021-01-16T12:19:39+08:00</updated>
   <subtitle>每日清晨，享受一篇前端优秀文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Web技术】840- 你会用到的 15个前端小知识</title>
+    <updated>2021-01-15T21:45:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/BsCmabw8Tak-aioVd25bTg</id>
+    <link href="https://mp.weixin.qq.com/s/BsCmabw8Tak-aioVd25bTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Web技术】839- React Native 原理与实践</title>
     <updated>2021-01-14T21:41:34+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-06T22:54:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/NNOdt2dPCn8SxD5wvsS9Gg</id>
     <link href="https://mp.weixin.qq.com/s/NNOdt2dPCn8SxD5wvsS9Gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【JS】830- 为什么不推荐用for...in遍历数组</title>
-    <updated>2021-01-05T23:22:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/tfMlHhhdxhUz7ataSVRKKg</id>
-    <link href="https://mp.weixin.qq.com/s/tfMlHhhdxhUz7ataSVRKKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

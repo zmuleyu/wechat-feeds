@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>多颗糖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:01:11+08:00</updated>
+  <updated>2021-01-16T11:57:05+08:00</updated>
   <subtitle>分布式系统|数据库|个人成长|时间管理|疗愈空间。我想要说的，前人们都说过了。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>软件架构基础 4: 你的架构需要考虑到的特性</title>
+    <updated>2021-01-16T00:23:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/qXZSd3-CKba856MqRmz1zg</id>
+    <link href="https://mp.weixin.qq.com/s/qXZSd3-CKba856MqRmz1zg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>软件架构基础 3: 什么是好的模块化代码？高内聚、低耦合如何衡量？</title>
     <updated>2021-01-13T22:30:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-16T21:32:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-16:/s/Kon0KIs2dWWseixCNAaFRA</id>
     <link href="https://mp.weixin.qq.com/s/Kon0KIs2dWWseixCNAaFRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用 Raft 的方式理解 Multi-Paxos</title>
-    <updated>2020-11-07T22:09:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-07:/s/V5_zNL2Je7iKnQxGECI_Cw</id>
-    <link href="https://mp.weixin.qq.com/s/V5_zNL2Je7iKnQxGECI_Cw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:37:36+08:00</updated>
+  <updated>2021-01-16T11:54:12+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET Core急速接入第三方登录 不看后悔</title>
+    <updated>2021-01-15T22:48:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/Lya48HSJqTZakfGpepYbzA</id>
+    <link href="https://mp.weixin.qq.com/s/Lya48HSJqTZakfGpepYbzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我为什么要放弃RESTful，选择拥抱GraphQL</title>
     <updated>2021-01-14T22:48:46+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2021-01-07T00:09:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/aiaHiaVJfttZPWGGAL4K-w</id>
     <link href="https://mp.weixin.qq.com/s/aiaHiaVJfttZPWGGAL4K-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 脚本引擎 CS-Script</title>
-    <updated>2021-01-06T11:50:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/_Tp5K-dUbLJaVXhueMfHUQ</id>
-    <link href="https://mp.weixin.qq.com/s/_Tp5K-dUbLJaVXhueMfHUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2.2 万 Star！前端开发必收藏的 JS 开发资源</title>
-    <updated>2021-01-06T11:50:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/mk6HakiHv3r0XcznmGvgmw</id>
-    <link href="https://mp.weixin.qq.com/s/mk6HakiHv3r0XcznmGvgmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据渣渣瑞 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:39:39+08:00</updated>
+  <updated>2021-01-16T12:11:53+08:00</updated>
   <subtitle>一线互联网大厂从事Flink引擎开发，专注于Flink、HBase等大数据相关技术，欢迎关注。后期会持续更新大数据、数据结构与算法、Flink实战以及原理性的文章。希望通过个人的学习成长心得，助力大家的技术成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>流批一体技术在天猫双11的应用</title>
-    <updated>2021-01-15T16:40:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/qw1QjJ2dOb2GqYKtA6vxyQ</id>
-    <link href="https://mp.weixin.qq.com/s/qw1QjJ2dOb2GqYKtA6vxyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>FFA 专题之 360 实时数仓平台</title>
     <updated>2020-12-28T09:35:38+08:00</updated>
@@ -75,6 +68,13 @@
     <updated>2020-12-07T22:49:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/qr-U8n8-4nFH34nx2HV00g</id>
     <link href="https://mp.weixin.qq.com/s/qr-U8n8-4nFH34nx2HV00g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink SQL实战 — HBase的结合应用</title>
+    <updated>2020-12-03T00:37:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-03:/s/qkQHiIpUwDahx6Lr9i1AnQ</id>
+    <link href="https://mp.weixin.qq.com/s/qkQHiIpUwDahx6Lr9i1AnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

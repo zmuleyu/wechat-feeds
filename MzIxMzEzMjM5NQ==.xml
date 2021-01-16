@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:03:48+08:00</updated>
+  <updated>2021-01-16T12:13:35+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>解构领域驱动设计：我对于领域驱动的认知</title>
+    <updated>2021-01-15T17:23:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/nvZjy8WGiwxbEEg7UpE4fQ</id>
+    <link href="https://mp.weixin.qq.com/s/nvZjy8WGiwxbEEg7UpE4fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Airbnb 技术架构，在这里找到答案</title>
     <updated>2021-01-14T09:33:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/pUS48uDrG2xrN3f4RAnNTg</id>
     <link href="https://mp.weixin.qq.com/s/pUS48uDrG2xrN3f4RAnNTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个宝藏数据库终于被发现了！阿里云带你免费从0-1玩转PG</title>
-    <updated>2021-01-13T20:25:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/BrF97T5sNQiVCut6ZnIu2Q</id>
-    <link href="https://mp.weixin.qq.com/s/BrF97T5sNQiVCut6ZnIu2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -40,13 +40,6 @@
     <updated>2021-01-12T21:22:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/HKGnZRqfxMbN4jmgyfik2w</id>
     <link href="https://mp.weixin.qq.com/s/HKGnZRqfxMbN4jmgyfik2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员2年攒了60.8万，晒出工资单，网友：卧槽！</title>
-    <updated>2021-01-11T20:57:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Ddyay4EoFMvpn8JNqQMDeA</id>
-    <link href="https://mp.weixin.qq.com/s/Ddyay4EoFMvpn8JNqQMDeA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,20 +82,6 @@
     <updated>2021-01-06T17:23:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/9efoPbvp0GaMi24V0RxFcw</id>
     <link href="https://mp.weixin.qq.com/s/9efoPbvp0GaMi24V0RxFcw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>祝贺“你假笨”创立的PerfMa再获高瓴创投领投1.5亿A++轮融资</title>
-    <updated>2021-01-05T20:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/kQn7wkTkpCj88G7SQonxhg</id>
-    <link href="https://mp.weixin.qq.com/s/kQn7wkTkpCj88G7SQonxhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>硅谷互联网公司如何创新</title>
-    <updated>2021-01-05T20:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/rIoU5oEAPp_bNEFp9BvNQA</id>
-    <link href="https://mp.weixin.qq.com/s/rIoU5oEAPp_bNEFp9BvNQA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

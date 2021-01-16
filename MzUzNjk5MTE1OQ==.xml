@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端瓶子君 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:00:44+08:00</updated>
+  <updated>2021-01-16T12:08:36+08:00</updated>
   <subtitle>瓶子君，前端进阶算法活动发起者，致力于分享 webpack、nodejs、react、vue、小程序、前端工程化等！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JavaScript 第四版红宝书真香，送 20 本！</title>
+    <updated>2021-01-16T09:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/PvlrQk7UwJRc17AJ2FuFLQ</id>
+    <link href="https://mp.weixin.qq.com/s/PvlrQk7UwJRc17AJ2FuFLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>RxJS：给你如丝一般顺滑的编程体验（建议收藏）</title>
+    <updated>2021-01-16T09:54:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/S7YIzAHmuBQLVIpgWGKVNw</id>
+    <link href="https://mp.weixin.qq.com/s/S7YIzAHmuBQLVIpgWGKVNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【纯干货】前端 CLI 脚手架思路解析</title>
     <updated>2021-01-15T02:03:02+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-08T07:48:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/h8CkWvXPIZiLUPXAcihHGw</id>
     <link href="https://mp.weixin.qq.com/s/h8CkWvXPIZiLUPXAcihHGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>30个编程领域的趣图</title>
-    <updated>2021-01-08T07:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/UuUfgGlplqcPNpBDfGQwew</id>
-    <link href="https://mp.weixin.qq.com/s/UuUfgGlplqcPNpBDfGQwew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实战 | 使用 Webpack5 搭建多页面应用</title>
-    <updated>2021-01-07T07:48:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Vg2eZQUUU3RIv72rO6Dwxw</id>
-    <link href="https://mp.weixin.qq.com/s/Vg2eZQUUU3RIv72rO6Dwxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

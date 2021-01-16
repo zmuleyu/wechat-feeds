@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T11:58:16+08:00</updated>
+  <updated>2021-01-16T12:05:47+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>抽奖一时爽，一直抽奖，一直爽！</title>
+    <updated>2021-01-15T20:06:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/u45H_OX2e2y7PYHTlusSQw</id>
+    <link href="https://mp.weixin.qq.com/s/u45H_OX2e2y7PYHTlusSQw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>骚操作，IDEA防止写代码沉迷插件 !</title>
     <updated>2021-01-14T20:30:20+08:00</updated>
@@ -50,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>搞波福利：可旋转的2K显示器，免费包邮送到家</title>
-    <updated>2021-01-10T21:05:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/FS3TYSZpXEGrERcwn-MPqw</id>
-    <link href="https://mp.weixin.qq.com/s/FS3TYSZpXEGrERcwn-MPqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>复盘线上的一次OOM和性能优化！</title>
     <updated>2021-01-10T21:05:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/q9774J4IqzUZHgR-ZisWTw</id>
@@ -89,13 +89,6 @@
     <updated>2021-01-04T16:37:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/roYuBDz_kShUd8UFYh39vg</id>
     <link href="https://mp.weixin.qq.com/s/roYuBDz_kShUd8UFYh39vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot集成Google开源图片处理框架，贼好用！</title>
-    <updated>2021-01-03T20:52:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/rYq11QUgTZk-sq6vb79OqA</id>
-    <link href="https://mp.weixin.qq.com/s/rYq11QUgTZk-sq6vb79OqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

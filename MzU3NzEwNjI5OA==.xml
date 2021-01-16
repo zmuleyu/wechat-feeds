@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码与远方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:12:53+08:00</updated>
+  <updated>2021-01-16T12:24:50+08:00</updated>
   <subtitle>我们,除了代码还有诗和远方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Golang是怎么利用 epoll 的</title>
+    <updated>2021-01-15T21:27:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/cB2wijMoiHZoJR2_tApADg</id>
+    <link href="https://mp.weixin.qq.com/s/cB2wijMoiHZoJR2_tApADg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TCP 协议报文格式&amp; tcpdump 抓包工具</title>
     <updated>2021-01-14T21:22:22+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-06T23:29:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/erwRd2764YEvk7IgLtIepQ</id>
     <link href="https://mp.weixin.qq.com/s/erwRd2764YEvk7IgLtIepQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>当 Go struct 遇上 Mutex</title>
-    <updated>2021-01-05T00:34:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/v6WEcA-Go-X_1vj4rJpJtg</id>
-    <link href="https://mp.weixin.qq.com/s/v6WEcA-Go-X_1vj4rJpJtg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

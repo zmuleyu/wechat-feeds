@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>苏生不惑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:11:20+08:00</updated>
+  <updated>2021-01-16T12:23:47+08:00</updated>
   <subtitle>每周更新原创文章，跟我一起涨姿势。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我月薪5000，靠Python搞副业月入三万</title>
+    <updated>2021-01-15T22:15:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/3PMzZVDoIYnJHT3bFT4jUw</id>
+    <link href="https://mp.weixin.qq.com/s/3PMzZVDoIYnJHT3bFT4jUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 Python 抓取我常看的几个公众号</title>
     <updated>2021-01-14T22:56:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T23:17:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/AQNYVEAxb3ByGR15FOOVJg</id>
     <link href="https://mp.weixin.qq.com/s/AQNYVEAxb3ByGR15FOOVJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在线加速播放百度网盘视频（其实支持任意网站）</title>
-    <updated>2020-12-20T23:58:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/0YyrwapC0_qWnoE8wCX5fg</id>
-    <link href="https://mp.weixin.qq.com/s/0YyrwapC0_qWnoE8wCX5fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T11:58:15+08:00</updated>
+  <updated>2021-01-16T12:05:38+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>收藏：国产化软硬件全景梳理</title>
+    <updated>2021-01-16T09:35:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/333Da9R1fh_j7SfTmYxQLA</id>
+    <link href="https://mp.weixin.qq.com/s/333Da9R1fh_j7SfTmYxQLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里云原生技术架构白皮书（附下载）</title>
+    <updated>2021-01-16T09:35:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/Bmh3YDy_PH3xRgWbmrqo7w</id>
+    <link href="https://mp.weixin.qq.com/s/Bmh3YDy_PH3xRgWbmrqo7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分布式事务+DDD+负载均衡+服务治理已撸！微服务不就这点事？</title>
     <updated>2021-01-14T23:15:03+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2021-01-06T22:16:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/LAfK822uIkO2eV38mmJr4Q</id>
     <link href="https://mp.weixin.qq.com/s/LAfK822uIkO2eV38mmJr4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>资深架构师怎么处理高并发？</title>
-    <updated>2021-01-05T22:39:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/RDbqPG0pwJYKF6Jv1DJSAQ</id>
-    <link href="https://mp.weixin.qq.com/s/RDbqPG0pwJYKF6Jv1DJSAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么是数据中心，它是如何变化的？</title>
-    <updated>2021-01-05T22:39:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/5v-3UG90YyPXqQivitEl1Q</id>
-    <link href="https://mp.weixin.qq.com/s/5v-3UG90YyPXqQivitEl1Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

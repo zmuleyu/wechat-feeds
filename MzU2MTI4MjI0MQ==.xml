@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:28:51+08:00</updated>
+  <updated>2021-01-16T11:56:26+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一次OOM问题排查过程复盘</title>
+    <updated>2021-01-15T21:37:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/E5oGxOENMT9y64-lngulMQ</id>
+    <link href="https://mp.weixin.qq.com/s/E5oGxOENMT9y64-lngulMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>搞定面试官：咱们从头到尾再说一次 Java 垃圾回收</title>
+    <updated>2021-01-15T21:37:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/yO6HbUlNLw-P5D5Wg9tZ5g</id>
+    <link href="https://mp.weixin.qq.com/s/yO6HbUlNLw-P5D5Wg9tZ5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于Java开发一套完整的区块链系统（附源码）</title>
+    <updated>2021-01-15T21:37:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/aNVZRV2a0pgqRrzZW6FZgg</id>
+    <link href="https://mp.weixin.qq.com/s/aNVZRV2a0pgqRrzZW6FZgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java 浅拷贝性能大比拼，对象拷贝哪家强？</title>
     <updated>2021-01-14T22:10:33+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-08T19:04:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/E7-7JWxrAA_r_t3zrx24ug</id>
     <link href="https://mp.weixin.qq.com/s/E7-7JWxrAA_r_t3zrx24ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：Mysql 中主库跑太快，从库追不上怎么整？</title>
-    <updated>2021-01-08T19:04:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/2Y1H8zx3cygGQPKBRocpdw</id>
-    <link href="https://mp.weixin.qq.com/s/2Y1H8zx3cygGQPKBRocpdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>9 个爱不释手的 JSON 工具</title>
-    <updated>2021-01-08T10:28:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/_N-EYzK78r973IOBPB4rpg</id>
-    <link href="https://mp.weixin.qq.com/s/_N-EYzK78r973IOBPB4rpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线上出现死锁怎么解决？不看别后悔！！！</title>
-    <updated>2021-01-08T10:28:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/LRTYSQiVuWeN2J-vhnVOeg</id>
-    <link href="https://mp.weixin.qq.com/s/LRTYSQiVuWeN2J-vhnVOeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

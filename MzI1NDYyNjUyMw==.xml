@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BigYoung小站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:14:51+08:00</updated>
+  <updated>2021-01-16T12:27:26+08:00</updated>
   <subtitle>BigYoung小站的同步公众号，用于提醒粉丝更新了新文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WEB信息/资产收集的武器库</title>
+    <updated>2021-01-16T10:19:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/_e-Q_bm9P1fm0nahGal6-Q</id>
+    <link href="https://mp.weixin.qq.com/s/_e-Q_bm9P1fm0nahGal6-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hi，听我说说自己吧</title>
+    <updated>2021-01-16T10:19:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/IutPWgBQTMcaZvPFj7cJyQ</id>
+    <link href="https://mp.weixin.qq.com/s/IutPWgBQTMcaZvPFj7cJyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WSUS补丁更新服务日常操作文档</title>
     <updated>2021-01-14T21:30:08+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2020-07-08T14:24:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-08:/s/k0N9XQo7XHBLUPflPpXwQw</id>
     <link href="https://mp.weixin.qq.com/s/k0N9XQo7XHBLUPflPpXwQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我终于弄懂了Python的装饰器（二）</title>
-    <updated>2020-07-07T19:14:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-07:/s/P2gTraVmu0_hnEn8dk_o-w</id>
-    <link href="https://mp.weixin.qq.com/s/P2gTraVmu0_hnEn8dk_o-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

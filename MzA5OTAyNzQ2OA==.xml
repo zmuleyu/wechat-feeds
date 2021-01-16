@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T07:48:17+08:00</updated>
+  <updated>2021-01-16T12:12:55+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>k0otkit：Hack K8s in a K8s Way</title>
+    <updated>2021-01-15T22:10:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/g6SABuNRNVq4n02YvVcb8A</id>
+    <link href="https://mp.weixin.qq.com/s/g6SABuNRNVq4n02YvVcb8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 36Kr的容器化之路</title>
+    <updated>2021-01-15T22:10:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/WtT2A_rraF5_6Lj9Uv9vsQ</id>
+    <link href="https://mp.weixin.qq.com/s/WtT2A_rraF5_6Lj9Uv9vsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>网易伏羲私有云在资源调度及资源整合方面的实践</title>
     <updated>2021-01-15T07:36:34+08:00</updated>
@@ -120,31 +134,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>数据中台已成气候！大数据架构师如何站上风口？</title>
-    <updated>2021-01-06T21:18:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NSdmQEikWFgRdMe0Hprejg</id>
-    <link href="https://mp.weixin.qq.com/s/NSdmQEikWFgRdMe0Hprejg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>监控告警成长之路</title>
     <updated>2021-01-06T21:18:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/YeE-Y1mdaWDlNz66NfqKVw</id>
     <link href="https://mp.weixin.qq.com/s/YeE-Y1mdaWDlNz66NfqKVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网易伏羲云原生游戏中间件平台实践</title>
-    <updated>2021-01-06T07:28:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/vI15rzHzRs_Z2n45BQX8oQ</id>
-    <link href="https://mp.weixin.qq.com/s/vI15rzHzRs_Z2n45BQX8oQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2021-01-06T07:28:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/PqCzOZDg8_I_S_A7hxqwuQ</id>
-    <link href="https://mp.weixin.qq.com/s/PqCzOZDg8_I_S_A7hxqwuQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

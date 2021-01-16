@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:38:07+08:00</updated>
+  <updated>2021-01-16T12:09:55+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>快手大数据平台服务化实践</title>
+    <updated>2021-01-15T07:36:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/smb3bJa6cBHdsN0RzemeJw</id>
+    <link href="https://mp.weixin.qq.com/s/smb3bJa6cBHdsN0RzemeJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Kylin 在汽车之家的实时多维分析实践</title>
+    <updated>2021-01-15T07:36:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-15:/s/omiKpVltlmQwwXzx2fQfPA</id>
+    <link href="https://mp.weixin.qq.com/s/omiKpVltlmQwwXzx2fQfPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>OceanBase 独立这一年</title>
     <updated>2021-01-15T07:33:03+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T15:18:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/uN4iPRf6PqW2jsr7rhS3OA</id>
     <link href="https://mp.weixin.qq.com/s/uN4iPRf6PqW2jsr7rhS3OA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最全大数据开源框架扫盲，你想知道的都在这里</title>
-    <updated>2021-01-04T23:11:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/2JQrUhIhwu5wZGoVwMMoLA</id>
-    <link href="https://mp.weixin.qq.com/s/2JQrUhIhwu5wZGoVwMMoLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盘点2020年晋升为Apache TLP的大数据相关项目</title>
-    <updated>2021-01-04T23:11:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/h-EbkLTQI7Mp37qVR9f3uw</id>
-    <link href="https://mp.weixin.qq.com/s/h-EbkLTQI7Mp37qVR9f3uw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
