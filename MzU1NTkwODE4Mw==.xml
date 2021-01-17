@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:04:32+08:00</updated>
+  <updated>2021-01-17T13:49:19+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>骚操作，IDEA防止写代码沉迷插件 !</title>
-    <updated>2021-01-14T20:30:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Oq3Vpb65zEcsQmcA279kwg</id>
-    <link href="https://mp.weixin.qq.com/s/Oq3Vpb65zEcsQmcA279kwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Redis 消息队列的三种方案（List、Streams、Pub/Sub）</title>
     <updated>2021-01-13T20:12:28+08:00</updated>
@@ -75,6 +68,13 @@
     <updated>2021-01-03T20:52:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/rYq11QUgTZk-sq6vb79OqA</id>
     <link href="https://mp.weixin.qq.com/s/rYq11QUgTZk-sq6vb79OqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 解决跨域问题的 3 种方案！</title>
+    <updated>2021-01-02T20:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-02:/s/2jOWKonuPTQmOPZ6zeOGFQ</id>
+    <link href="https://mp.weixin.qq.com/s/2jOWKonuPTQmOPZ6zeOGFQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

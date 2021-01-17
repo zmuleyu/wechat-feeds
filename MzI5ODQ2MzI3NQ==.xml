@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T13:47:30+08:00</updated>
+  <updated>2021-01-17T13:49:24+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动云原生：机器学习平台建设实践</title>
+    <updated>2021-01-17T11:40:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/iyLa9AfyWsSzStDsCGkgHQ</id>
+    <link href="https://mp.weixin.qq.com/s/iyLa9AfyWsSzStDsCGkgHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>春节回家要做核酸检测吗？各地返乡规定查询器上线！快看看你家的规定！</title>
+    <updated>2021-01-17T11:40:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/67V_o8TAx8mNK6vjXDBD8g</id>
+    <link href="https://mp.weixin.qq.com/s/67V_o8TAx8mNK6vjXDBD8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes如果是个水族馆！</title>
     <updated>2021-01-15T22:44:35+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-07T23:38:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/aDB0xwnu8wo4y8h9Rtd8_g</id>
     <link href="https://mp.weixin.qq.com/s/aDB0xwnu8wo4y8h9Rtd8_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java开发环境IntelliJ IDEA开始支持M1晶片！</title>
-    <updated>2021-01-07T11:51:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ru8DCJO0l52XTi6jv-lyTw</id>
-    <link href="https://mp.weixin.qq.com/s/ru8DCJO0l52XTi6jv-lyTw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

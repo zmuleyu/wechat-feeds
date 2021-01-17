@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T17:03:28+08:00</updated>
+  <updated>2021-01-17T14:11:19+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>醍醐灌顶 | 我们谈论的Exactly once到底是什么？</title>
+    <updated>2021-01-17T12:06:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/JN4t8vX19zqAQyjcEgmfvg</id>
+    <link href="https://mp.weixin.qq.com/s/JN4t8vX19zqAQyjcEgmfvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干货，OLAP数仓从百万到百亿级数据量实时分析</title>
     <updated>2021-01-16T16:22:31+08:00</updated>
@@ -43,24 +50,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>华为免费培养2000名大数据开发者！</title>
-    <updated>2021-01-13T12:12:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/TXG0XrrOFjiOOpTShTk8yQ</id>
-    <link href="https://mp.weixin.qq.com/s/TXG0XrrOFjiOOpTShTk8yQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>基于实际业务场景的几套超干指标体系！</title>
     <updated>2021-01-13T12:12:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZuVkZmjEBxMY0aXCNFbrKA</id>
     <link href="https://mp.weixin.qq.com/s/ZuVkZmjEBxMY0aXCNFbrKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入拆解多种消息队列及各自优缺点对比</title>
-    <updated>2021-01-11T22:34:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5IqMU2MSAbCTMsdA1mLKNg</id>
-    <link href="https://mp.weixin.qq.com/s/5IqMU2MSAbCTMsdA1mLKNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -117,20 +110,6 @@
     <updated>2021-01-08T08:53:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/7mb3txsewSyRNHhJXMeWxg</id>
     <link href="https://mp.weixin.qq.com/s/7mb3txsewSyRNHhJXMeWxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫谈千亿级数据优化实践：数据倾斜</title>
-    <updated>2021-01-07T09:21:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Yx85Y63qF8hqInLhM_uPRw</id>
-    <link href="https://mp.weixin.qq.com/s/Yx85Y63qF8hqInLhM_uPRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深渊之刃 | Greenplum数据库之拉链表的实现</title>
-    <updated>2021-01-07T09:21:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/5HYa6vojMeZtdSm-NqLMtA</id>
-    <link href="https://mp.weixin.qq.com/s/5HYa6vojMeZtdSm-NqLMtA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

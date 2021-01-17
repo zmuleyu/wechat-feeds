@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈前端精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:38:29+08:00</updated>
+  <updated>2021-01-17T13:40:37+08:00</updated>
   <subtitle>内容为王，精选为则。从前端到全栈，定期分享前端、客户端、Node、面试、职场感悟等相关高质量文章。小白的大神养成记，你我共勉！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【送书】第一本 ECharts 数据可视化书籍！</title>
+    <updated>2021-01-17T12:39:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/iW47qeLp5J-s_N1DBSvH6A</id>
+    <link href="https://mp.weixin.qq.com/s/iW47qeLp5J-s_N1DBSvH6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端的Nginx知识梳理</title>
+    <updated>2021-01-17T12:39:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/dte9oRimIWlZp0pd-ZF-WQ</id>
+    <link href="https://mp.weixin.qq.com/s/dte9oRimIWlZp0pd-ZF-WQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一起手写Vue3核心模块源码，掌握阅读源码的正确方法</title>
     <updated>2021-01-14T18:58:47+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-06T12:52:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/Sd9_NrYKrCIa727yGnm-ZQ</id>
     <link href="https://mp.weixin.qq.com/s/Sd9_NrYKrCIa727yGnm-ZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【webpack 性能优化】编译速度从 50S 到 7S</title>
-    <updated>2021-01-04T19:51:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/JdMoc1IF1iDZUb5VPJlz3Q</id>
-    <link href="https://mp.weixin.qq.com/s/JdMoc1IF1iDZUb5VPJlz3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

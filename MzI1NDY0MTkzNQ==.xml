@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>江南一点雨 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:09:18+08:00</updated>
+  <updated>2021-01-17T14:03:16+08:00</updated>
   <subtitle>一站式Java全栈技术学习平台！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>ElasticSearch Java 高级客户端索引操作～</title>
+    <updated>2021-01-17T12:36:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/3czU0wLqYIsArKLcLuJXaQ</id>
+    <link href="https://mp.weixin.qq.com/s/3czU0wLqYIsArKLcLuJXaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>设计模式，牛逼</title>
+    <updated>2021-01-17T12:36:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/tTXcovmId14crRMFAIhzYA</id>
+    <link href="https://mp.weixin.qq.com/s/tTXcovmId14crRMFAIhzYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>奇怪的新知识</title>
     <updated>2021-01-15T09:03:24+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-04T11:49:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZkeS0CU777YUcQHL3vkZ3Q</id>
     <link href="https://mp.weixin.qq.com/s/ZkeS0CU777YUcQHL3vkZ3Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ElasticSearch 管道聚合</title>
-    <updated>2021-01-03T12:41:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/pOCeltC8nhoFGQtgm8uC0Q</id>
-    <link href="https://mp.weixin.qq.com/s/pOCeltC8nhoFGQtgm8uC0Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
