@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农UP2U | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T07:49:19+08:00</updated>
+  <updated>2021-01-18T07:44:40+08:00</updated>
   <subtitle>关于码农，或技术，或总结！学习交流，共同进步！码农 up to you，码农UP2U!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java 项目中几个必不可少的小功能</title>
+    <updated>2021-01-18T06:23:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/WvwtClRqUOYrYKBaXfvNeQ</id>
+    <link href="https://mp.weixin.qq.com/s/WvwtClRqUOYrYKBaXfvNeQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis | 慢查询</title>
     <updated>2021-01-11T06:29:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-18T06:49:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-18:/s/NHPsam2F4WQNALpvvVSbeg</id>
     <link href="https://mp.weixin.qq.com/s/NHPsam2F4WQNALpvvVSbeg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>小议缓冲区溢出视频二</title>
-    <updated>2020-11-16T07:30:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/jv06wnYAW8gjDgX3YwpRtw</id>
-    <link href="https://mp.weixin.qq.com/s/jv06wnYAW8gjDgX3YwpRtw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>vNext | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T02:21:11+08:00</updated>
+  <updated>2021-01-18T07:33:32+08:00</updated>
   <subtitle>Go，Golang，Go语言；Rust，Rustlang，Rust语言</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Rust 入门教程 8.3 - String 创建和更新</title>
+    <updated>2021-01-17T21:50:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/HMM0f9gDs-nwfN1KAQxJzQ</id>
+    <link href="https://mp.weixin.qq.com/s/HMM0f9gDs-nwfN1KAQxJzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rust 入门教程 8.4 - String 表示形式和切割</title>
+    <updated>2021-01-17T21:50:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/XHs0qSJImpeeScd6c1f5hA</id>
+    <link href="https://mp.weixin.qq.com/s/XHs0qSJImpeeScd6c1f5hA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust 入门教程 8.2 - Vector 例子</title>
     <updated>2021-01-17T00:59:29+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2021-01-01T21:23:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/w9GYlnxxP9IfJkaBHsxzww</id>
     <link href="https://mp.weixin.qq.com/s/w9GYlnxxP9IfJkaBHsxzww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rust 入门教程 6.4 - if let</title>
-    <updated>2020-12-31T21:15:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/_-QGUIhxQ895DJ07ddMFwg</id>
-    <link href="https://mp.weixin.qq.com/s/_-QGUIhxQ895DJ07ddMFwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

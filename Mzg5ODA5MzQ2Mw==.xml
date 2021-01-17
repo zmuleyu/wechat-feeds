@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端下午茶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T07:55:06+08:00</updated>
+  <updated>2021-01-18T07:49:45+08:00</updated>
   <subtitle>分享有关前端的技术博客、精选文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这些 JS 中强大的操作符，总有几个你没听说过</title>
+    <updated>2021-01-17T17:11:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/JcaQ3GxHlH0lnAwuNJ2czg</id>
+    <link href="https://mp.weixin.qq.com/s/JcaQ3GxHlH0lnAwuNJ2czg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>学习 async，defer 和动态脚本，本文就够了！</title>
     <updated>2021-01-14T23:06:20+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-30T23:27:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/NMfHaNxh0nIuZxu2PP0kGg</id>
     <link href="https://mp.weixin.qq.com/s/NMfHaNxh0nIuZxu2PP0kGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>互联网公司团建观察</title>
-    <updated>2020-12-29T19:44:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/-dkM6pLafmLOLR5dFF3Xpg</id>
-    <link href="https://mp.weixin.qq.com/s/-dkM6pLafmLOLR5dFF3Xpg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
