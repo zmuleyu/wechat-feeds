@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:13:14+08:00</updated>
+  <updated>2021-01-17T07:46:24+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《收藏，数据社一周文章总结》&#xA;&#xA;大家好，我是一哥，大家周末快乐~给大家送上本周干货文章！&#xA;&#xA;①Flink学习笔记&#xA;②三万字，Spark学习笔记&#xA;③关于未来数据开发技术方向的观点&#xA;④快手大数据平台服务化实践&#xA;⑤深入讲解拉链表，还怕面试官问？&#xA;⑥细节决定成败之hive跨集群数据同步采过的坑&#xA;⑦Spark 的 Failover 机制全解析 (Master/Worker/Executor)&#xA;⑧干货，如何建立数据标签体系&#xA;&#xA;最近分享的文章得到了越来越多读者的反馈，一哥很期待和大家交流，可以添加我的微信：dataclub_bigdata&#xA;&#xA;最后，一哥的无套路送书福利，还没上车的赶紧啦~&#xA;周末无套路送书了！</title>
+    <updated>2021-01-16T22:53:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/YasZCOt8yLtfS_9cb_qImQ</id>
+    <link href="https://mp.weixin.qq.com/s/YasZCOt8yLtfS_9cb_qImQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>周末无套路送书了！</title>
     <updated>2021-01-15T20:49:05+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-05T21:14:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/XmtCCuzH4Z8DdxZQMtGecw</id>
     <link href="https://mp.weixin.qq.com/s/XmtCCuzH4Z8DdxZQMtGecw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详解数据仓库建模方法</title>
-    <updated>2021-01-04T20:35:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/WckKyuFopDRYT2AluKFgEQ</id>
-    <link href="https://mp.weixin.qq.com/s/WckKyuFopDRYT2AluKFgEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
