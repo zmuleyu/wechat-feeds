@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>面包板社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T21:02:02+08:00</updated>
+  <updated>2021-01-17T21:02:17+08:00</updated>
   <subtitle>中国电子工程师社区；电子工程专辑、EDN电子技术设计、国际电子商情官方社区；为电子工程师提供论坛、博客、芯语、评测、直播、下载资料、技术文库、学院等功能服务；是电子工程师们喜爱的电子技术交流社区！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>揭开mos管损坏之谜，看完觉得太值了！</title>
+    <updated>2021-01-17T13:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/ShVh_85ETv6vMquP_rqfUw</id>
+    <link href="https://mp.weixin.qq.com/s/ShVh_85ETv6vMquP_rqfUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>动图详解电流电压的超前与滞后</title>
+    <updated>2021-01-17T13:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/puy776xwGfdWjq3lXzp_nw</id>
+    <link href="https://mp.weixin.qq.com/s/puy776xwGfdWjq3lXzp_nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>NPN和PNP的使用总结</title>
+    <updated>2021-01-17T13:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/sVWJ1CWStOU10oXZTQPkYg</id>
+    <link href="https://mp.weixin.qq.com/s/sVWJ1CWStOU10oXZTQPkYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用示波器应对异常信号?</title>
+    <updated>2021-01-17T13:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/vtAtXIbyCrYXGYEsd2Y4hQ</id>
+    <link href="https://mp.weixin.qq.com/s/vtAtXIbyCrYXGYEsd2Y4hQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这个5G天线是透明的！</title>
+    <updated>2021-01-17T13:15:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/2qwiQaWFlTCemoVkr7UQhA</id>
+    <link href="https://mp.weixin.qq.com/s/2qwiQaWFlTCemoVkr7UQhA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太难了，炸机后才去注意PWM的死区时间</title>
     <updated>2021-01-16T14:37:24+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-14T17:31:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/VdXLshX_H5wSS5XIu8AOAQ</id>
     <link href="https://mp.weixin.qq.com/s/VdXLshX_H5wSS5XIu8AOAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>什么是加性高斯白噪声 (AWGN）？它有什么重要意义？</title>
-    <updated>2021-01-14T17:31:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/y3USZ85X6G30kcBLi4MLtw</id>
-    <link href="https://mp.weixin.qq.com/s/y3USZ85X6G30kcBLi4MLtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>压敏电阻、放电管、稳压管、TVS原理应用介绍</title>
-    <updated>2021-01-14T17:31:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/01WsTPbkmwNcRXb_2f_PkA</id>
-    <link href="https://mp.weixin.qq.com/s/01WsTPbkmwNcRXb_2f_PkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iPod/iPhone均后发制人，苹果电动汽车（iCar）也不会例外</title>
-    <updated>2021-01-14T17:31:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/9wlF-7-jg1N0TlfcyE5L7A</id>
-    <link href="https://mp.weixin.qq.com/s/9wlF-7-jg1N0TlfcyE5L7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>几毛钱的32768晶振，也能写出一篇干货？</title>
-    <updated>2021-01-13T17:31:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/PVoYerujNsbfKE-k93vX9A</id>
-    <link href="https://mp.weixin.qq.com/s/PVoYerujNsbfKE-k93vX9A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电路板的地直接与外壳地相连好不好？</title>
-    <updated>2021-01-13T17:31:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/y5JCDmxspCzqgM2p6tz-pA</id>
-    <link href="https://mp.weixin.qq.com/s/y5JCDmxspCzqgM2p6tz-pA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

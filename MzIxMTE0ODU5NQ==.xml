@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T11:55:40+08:00</updated>
+  <updated>2021-01-17T20:31:35+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深度：Kafka 集群突破百万 partition 的技术探索</title>
+    <updated>2021-01-17T18:28:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/-K7Wh59J3Z-T-BAJRcIMOQ</id>
+    <link href="https://mp.weixin.qq.com/s/-K7Wh59J3Z-T-BAJRcIMOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>聊聊大厂晋升的“潜规则”</title>
     <updated>2021-01-14T21:58:59+08:00</updated>
@@ -26,13 +33,6 @@
     <updated>2021-01-13T23:25:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/w3lxpgW7a9KOLwKGTGFemA</id>
     <link href="https://mp.weixin.qq.com/s/w3lxpgW7a9KOLwKGTGFemA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想面字节但是缺项目经验的同学戳进来！</title>
-    <updated>2021-01-12T21:42:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/CVMsyRWBPVdIu3Do9Tv0WQ</id>
-    <link href="https://mp.weixin.qq.com/s/CVMsyRWBPVdIu3Do9Tv0WQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +82,6 @@
     <updated>2021-01-07T08:50:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/mCyR_90HJ1m6_TNXpIvCdA</id>
     <link href="https://mp.weixin.qq.com/s/mCyR_90HJ1m6_TNXpIvCdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 维表 Join 实践|附四种方式的源码</title>
-    <updated>2021-01-05T21:53:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/F14ErNxl8Eeir-XmJHL5GQ</id>
-    <link href="https://mp.weixin.qq.com/s/F14ErNxl8Eeir-XmJHL5GQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

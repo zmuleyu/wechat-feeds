@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TopCoder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T23:38:29+08:00</updated>
+  <updated>2021-01-17T20:44:54+08:00</updated>
   <subtitle>关注程序员技术成长，用简洁的文字，分享复杂的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>seata TC 模块分析</title>
+    <updated>2021-01-17T17:18:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/kSr6k1U_QMNmuk6CeWQzMg</id>
+    <link href="https://mp.weixin.qq.com/s/kSr6k1U_QMNmuk6CeWQzMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>seata TC启动流程分析</title>
     <updated>2021-01-15T19:43:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-05T09:56:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-05:/s/-2UlmwtTAGlKHnBPBrUjRw</id>
     <link href="https://mp.weixin.qq.com/s/-2UlmwtTAGlKHnBPBrUjRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JMM Java内存模型</title>
-    <updated>2020-11-04T20:56:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/lJKqkfZS724EbcWVDCTFZA</id>
-    <link href="https://mp.weixin.qq.com/s/lJKqkfZS724EbcWVDCTFZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

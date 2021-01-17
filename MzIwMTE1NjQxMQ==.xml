@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱计算机视觉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:20:25+08:00</updated>
+  <updated>2021-01-17T20:24:35+08:00</updated>
   <subtitle>关注计算机视觉与机器学习技术的最前沿，“有价值有深度”，分享开源技术与最新论文解读，传播CVML技术的业内最佳实践。www.52cv.net QQ群: 805388940，CV君个人账号：Your-Word。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三维点云的经典算法与前沿技术</title>
+    <updated>2021-01-17T20:03:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Tm1H3slnWQvU5kFTic5eUQ</id>
+    <link href="https://mp.weixin.qq.com/s/Tm1H3slnWQvU5kFTic5eUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>计算机视觉中的Transformer</title>
+    <updated>2021-01-17T20:03:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/101KbjJvAzk7j79fslXoWA</id>
+    <link href="https://mp.weixin.qq.com/s/101KbjJvAzk7j79fslXoWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>让PyTorch训练速度更快，你需要掌握这17种方法</title>
+    <updated>2021-01-17T20:03:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/lHORHSvicA7lFo1GaLqihg</id>
+    <link href="https://mp.weixin.qq.com/s/lHORHSvicA7lFo1GaLqihg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动 互娱研发 社会招聘</title>
+    <updated>2021-01-17T20:03:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/tygNqFzo1got8HEtSPoHRA</id>
+    <link href="https://mp.weixin.qq.com/s/tygNqFzo1got8HEtSPoHRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>摄像机域内监督行人重识别问题</title>
     <updated>2021-01-16T22:47:01+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-12T19:13:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/a8kW4sn_5I6s7fRtN8d2NQ</id>
     <link href="https://mp.weixin.qq.com/s/a8kW4sn_5I6s7fRtN8d2NQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解决尺度不平衡，Facebook 全景分割新算法</title>
-    <updated>2021-01-12T19:13:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/ADHAUxV0SKK6ZBAis_y8QQ</id>
-    <link href="https://mp.weixin.qq.com/s/ADHAUxV0SKK6ZBAis_y8QQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>北上深 | 商汤研究院招聘</title>
-    <updated>2021-01-12T19:13:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/O2BhpqDupVzGwWFHBVeEmg</id>
-    <link href="https://mp.weixin.qq.com/s/O2BhpqDupVzGwWFHBVeEmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>山东省百万奖金赛事来了！</title>
-    <updated>2021-01-11T12:19:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7MxGEIVrt5CDNImhKL7OMQ</id>
-    <link href="https://mp.weixin.qq.com/s/7MxGEIVrt5CDNImhKL7OMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dropout也能自动化了，谷歌Quoc Le等人利用强化学习自动找寻模型专用Dropout</title>
-    <updated>2021-01-11T12:19:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/zqKi1LVvWyUC89sNWD14ow</id>
-    <link href="https://mp.weixin.qq.com/s/zqKi1LVvWyUC89sNWD14ow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

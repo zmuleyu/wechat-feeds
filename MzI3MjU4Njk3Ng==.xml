@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>飞雪无情 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:57:32+08:00</updated>
+  <updated>2021-01-17T20:40:33+08:00</updated>
   <subtitle>30万字Go系列笔记作者，知乎Go语言专题最高赞回答，专注于Go语言技术分享布道。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于写Go语言专栏的经验之谈</title>
+    <updated>2021-01-17T19:03:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/zHhVsMpEDnLGIP69FJKmvg</id>
+    <link href="https://mp.weixin.qq.com/s/zHhVsMpEDnLGIP69FJKmvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021，说说你为什么选择学 Go?</title>
     <updated>2021-01-11T23:51:40+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-24T08:40:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/lkICqMhoNMZmcTAvXCpomA</id>
     <link href="https://mp.weixin.qq.com/s/lkICqMhoNMZmcTAvXCpomA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang 语言标准库 context 包控制 goroutine</title>
-    <updated>2020-12-24T08:40:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/W4e71PKZkIsEr0k76J9m9w</id>
-    <link href="https://mp.weixin.qq.com/s/W4e71PKZkIsEr0k76J9m9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:51:15+08:00</updated>
+  <updated>2021-01-17T20:58:25+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>清晰！我们从来都反对“大中台，小前台”的架构设计！</title>
+    <updated>2021-01-17T10:58:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/nBXmMalQ-Ydogs0bLIWo5A</id>
+    <link href="https://mp.weixin.qq.com/s/nBXmMalQ-Ydogs0bLIWo5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深度：Kafka 集群突破百万 partition 的技术探索</title>
     <updated>2021-01-16T18:44:17+08:00</updated>
@@ -22,24 +29,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>RPC 框架，底层到底是什么原理？</title>
-    <updated>2021-01-13T22:27:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/3VglMqO6WlqPiO8li1gcyg</id>
-    <link href="https://mp.weixin.qq.com/s/3VglMqO6WlqPiO8li1gcyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>容易被轻视的主角，神奇的 SQL 之 HAVING</title>
     <updated>2021-01-13T22:27:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/dsrHrraAN3DoBlRXBAPZww</id>
     <link href="https://mp.weixin.qq.com/s/dsrHrraAN3DoBlRXBAPZww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>当年学Java，我踩过这些坑...</title>
-    <updated>2021-01-13T14:35:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/frYUxdOts8znwGEI1nsjIw</id>
-    <link href="https://mp.weixin.qq.com/s/frYUxdOts8znwGEI1nsjIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +75,6 @@
     <updated>2021-01-07T18:41:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/ko4_rDq40o6WOFEWwEMQ-w</id>
     <link href="https://mp.weixin.qq.com/s/ko4_rDq40o6WOFEWwEMQ-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>作为前阿里人，来扒一扒中台皇帝的外衣！</title>
-    <updated>2021-01-06T22:35:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/-T8VxSYTqnc2sDC-XvLl4g</id>
-    <link href="https://mp.weixin.qq.com/s/-T8VxSYTqnc2sDC-XvLl4g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

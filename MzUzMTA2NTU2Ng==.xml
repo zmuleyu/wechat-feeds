@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:45:42+08:00</updated>
+  <updated>2021-01-17T20:43:22+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看看人家那后端API接口写得，那叫一个优雅！</title>
+    <updated>2021-01-17T18:30:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/eX0s5Xx5EgjYLep11iqJFg</id>
+    <link href="https://mp.weixin.qq.com/s/eX0s5Xx5EgjYLep11iqJFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里 Nacos 惊爆，安全漏洞以绕过身份验证（附修复建议）</title>
+    <updated>2021-01-17T18:30:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/cc72YPJNkM7T04m3RR3SDA</id>
+    <link href="https://mp.weixin.qq.com/s/cc72YPJNkM7T04m3RR3SDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google 开源的依赖注入库，比 Spring 更小更快！</title>
+    <updated>2021-01-17T18:30:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/-XDtk-QNpjlTe2tV_eg-oQ</id>
+    <link href="https://mp.weixin.qq.com/s/-XDtk-QNpjlTe2tV_eg-oQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>K8S知道，K9S呢？</title>
     <updated>2021-01-15T23:43:12+08:00</updated>
@@ -78,13 +99,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>史上最强Redis6.0，世界排名第一！</title>
-    <updated>2021-01-12T23:19:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/uyBS8JoC14yjRAHf08fhvQ</id>
-    <link href="https://mp.weixin.qq.com/s/uyBS8JoC14yjRAHf08fhvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>MyBatis 的执行流程，写得太好了！</title>
     <updated>2021-01-12T23:19:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/UqgXw0qOW1H1-Dqh5NtueA</id>
@@ -127,24 +141,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>面试官再问高并发，求你看看这篇吧！</title>
-    <updated>2021-01-10T19:36:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JFzuZnmk1xf8OcMWVkPkZg</id>
-    <link href="https://mp.weixin.qq.com/s/JFzuZnmk1xf8OcMWVkPkZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Redis 如何存储上亿级别的用户状态？</title>
     <updated>2021-01-10T19:36:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/l3sidMQ1VIY9Axzk_PogXw</id>
     <link href="https://mp.weixin.qq.com/s/l3sidMQ1VIY9Axzk_PogXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 集成 JUnit5，更优雅单元测试！</title>
-    <updated>2021-01-10T19:36:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xY7sgp9gJQ1Fcl-ArmRHRg</id>
-    <link href="https://mp.weixin.qq.com/s/xY7sgp9gJQ1Fcl-ArmRHRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

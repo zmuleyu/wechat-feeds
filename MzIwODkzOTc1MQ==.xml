@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MarkerHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T17:03:10+08:00</updated>
+  <updated>2021-01-17T21:02:34+08:00</updated>
   <subtitle>专注于梳理java知识，解析开源项目。在Java框架底层、并发编程、网络编程、中间件、高并发、高可用以及测试和运维等领域知识皆有整理，让java学习不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spring Boot 解决跨域问题的 3 种方案！</title>
+    <updated>2021-01-17T18:03:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/YRO8Tm1VVEm_5NrP1B-UXg</id>
+    <link href="https://mp.weixin.qq.com/s/YRO8Tm1VVEm_5NrP1B-UXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里首推的“SpringBoot+Vue全栈项目”有多牛X？</title>
     <updated>2021-01-16T17:31:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T16:36:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/yoyhhai6AuyJzGJGc9XgpQ</id>
     <link href="https://mp.weixin.qq.com/s/yoyhhai6AuyJzGJGc9XgpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我为什么放弃RESTful，全面拥抱GraphQL</title>
-    <updated>2021-01-06T22:20:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/xXdhZlAM3xENc9VKXEt07g</id>
-    <link href="https://mp.weixin.qq.com/s/xXdhZlAM3xENc9VKXEt07g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

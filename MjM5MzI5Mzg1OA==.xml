@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:53:32+08:00</updated>
+  <updated>2021-01-17T20:59:55+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 8 中使用 模式匹配</title>
+    <updated>2021-01-17T17:11:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/5wCBBN0fDlwM9EpoyG7jQg</id>
+    <link href="https://mp.weixin.qq.com/s/5wCBBN0fDlwM9EpoyG7jQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在 Asp.Net Core 中使用 worker services</title>
+    <updated>2021-01-17T17:11:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/NmsUWST7wh23wjq5xa7bmg</id>
+    <link href="https://mp.weixin.qq.com/s/NmsUWST7wh23wjq5xa7bmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 23. dict 的 CURD 操作</title>
+    <updated>2021-01-17T17:11:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/IHXhNRGOTzxhWDBpP1wEpA</id>
+    <link href="https://mp.weixin.qq.com/s/IHXhNRGOTzxhWDBpP1wEpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.Net Core 中实现 健康检查</title>
     <updated>2021-01-14T23:41:27+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T12:03:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/n214nxKXxJiDl-lMTL-b1A</id>
     <link href="https://mp.weixin.qq.com/s/n214nxKXxJiDl-lMTL-b1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 Web Forms 中引入依赖注入机制</title>
-    <updated>2021-01-09T15:23:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/R_ufNY39xZU-iqIEeZ0d7w</id>
-    <link href="https://mp.weixin.qq.com/s/R_ufNY39xZU-iqIEeZ0d7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 C# 中的 Lazy</title>
-    <updated>2021-01-09T15:23:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/6TjzjoVJi7u-bznlacHl6g</id>
-    <link href="https://mp.weixin.qq.com/s/6TjzjoVJi7u-bznlacHl6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于Dapper实现读写分离的个人思考</title>
-    <updated>2021-01-09T15:23:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/uYtR1vL8_FVdJSTotjl1Hw</id>
-    <link href="https://mp.weixin.qq.com/s/uYtR1vL8_FVdJSTotjl1Hw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

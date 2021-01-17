@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员成长指北 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T11:58:44+08:00</updated>
+  <updated>2021-01-17T20:35:57+08:00</updated>
   <subtitle>专注 Node.js 技术栈分享，从 前端 到 Node.js 再到 后端数据库，祝您成为优秀的高级 Node.js 全栈工程师。一个有趣的且乐于分享的人。座右铭：今天未完成的，明天更不会完成。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JavaScript 第四版红宝书真香，送 20 本！</title>
+    <updated>2021-01-17T16:50:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/e6QeGztc1Z3lt4oOcSnnDA</id>
+    <link href="https://mp.weixin.qq.com/s/e6QeGztc1Z3lt4oOcSnnDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GET 和 POST请求的本质区别是什么？</title>
+    <updated>2021-01-17T16:50:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/dpeAV5UAl9uB-QNYNs0Q2w</id>
+    <link href="https://mp.weixin.qq.com/s/dpeAV5UAl9uB-QNYNs0Q2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>让Jenkins自动布署你的Vue项目(CI/CD)</title>
     <updated>2021-01-15T08:38:06+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T08:40:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/cT1s-KytLFIZeEPM78FGdg</id>
     <link href="https://mp.weixin.qq.com/s/cT1s-KytLFIZeEPM78FGdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用NodeJS实现JWT原理</title>
-    <updated>2021-01-06T08:40:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/MwSA0qHY4SYEEtA60hLXOQ</id>
-    <link href="https://mp.weixin.qq.com/s/MwSA0qHY4SYEEtA60hLXOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何发布 npm 包</title>
-    <updated>2021-01-06T08:40:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ByTlVFJ2HKLlAhWZTToiKQ</id>
-    <link href="https://mp.weixin.qq.com/s/ByTlVFJ2HKLlAhWZTToiKQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
