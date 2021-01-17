@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T02:20:26+08:00</updated>
+  <updated>2021-01-18T02:18:07+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust日报】 2021-01-17 Rust 要上太空了！ RocketLab 招聘 Rust 工程师</title>
+    <updated>2021-01-17T23:44:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/kiKmyhErPEIL_Q2fzAPQBg</id>
+    <link href="https://mp.weixin.qq.com/s/kiKmyhErPEIL_Q2fzAPQBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2021-01-16 Async-std v1.9.0 发布</title>
     <updated>2021-01-16T23:37:08+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-08T22:45:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/XmRGxywpjSWg6VijnBmBsw</id>
     <link href="https://mp.weixin.qq.com/s/XmRGxywpjSWg6VijnBmBsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我们为什么选择Rust开发顶尖实时通信产品？</title>
-    <updated>2021-01-07T23:44:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Gl0symf8z3X8qTt3eR28cQ</id>
-    <link href="https://mp.weixin.qq.com/s/Gl0symf8z3X8qTt3eR28cQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

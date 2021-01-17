@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>智能计算芯世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:12:25+08:00</updated>
+  <updated>2021-01-18T02:28:03+08:00</updated>
   <subtitle>人工智能，芯片设计和异构计算等领域知识分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CPU架构演进变：多核之后，方向在哪里？</title>
+    <updated>2021-01-17T22:48:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/NOUV2QB5yGbczQqcZuo8pg</id>
+    <link href="https://mp.weixin.qq.com/s/NOUV2QB5yGbczQqcZuo8pg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>收藏：内存技术发展详谈</title>
     <updated>2021-01-17T09:48:35+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-08T23:10:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/xx7WaepUpvHpImbTX92QiQ</id>
     <link href="https://mp.weixin.qq.com/s/xx7WaepUpvHpImbTX92QiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解CPU和异构计算芯片GPU/FPGA/ASIC</title>
-    <updated>2021-01-07T23:13:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/hy0nBf5xZXA6zXMR9OrurQ</id>
-    <link href="https://mp.weixin.qq.com/s/hy0nBf5xZXA6zXMR9OrurQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
