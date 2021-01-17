@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肥朝 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T16:29:16+08:00</updated>
+  <updated>2021-01-17T16:30:06+08:00</updated>
   <subtitle>肥朝 是一个专注于 原理、源码、开发技巧的技术公众号，号内原创专题式源码解析、真实场景源码原理实战（重点）。关注肥朝，让本该造火箭的你，不再拧螺丝！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SpringBoot @Value 解析集合配置</title>
+    <updated>2021-01-16T11:51:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/1e8qE2XqYPjItspTyIuMYw</id>
+    <link href="https://mp.weixin.qq.com/s/1e8qE2XqYPjItspTyIuMYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>太敏感，2h删！！！</title>
     <updated>2021-01-15T22:03:48+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-07T21:44:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/XK7Qh2d8lxbILa5hygqItw</id>
     <link href="https://mp.weixin.qq.com/s/XK7Qh2d8lxbILa5hygqItw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何排查系统的性能瓶颈点？</title>
-    <updated>2021-01-06T22:21:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/PIs6ZVDzZChY1n3uEKnNKg</id>
-    <link href="https://mp.weixin.qq.com/s/PIs6ZVDzZChY1n3uEKnNKg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

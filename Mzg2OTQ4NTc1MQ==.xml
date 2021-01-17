@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:53:37+08:00</updated>
+  <updated>2021-01-17T17:02:35+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 8 中使用 模式匹配</title>
+    <updated>2021-01-17T16:35:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/3phQPXxZxYL0zHpzRw60Ig</id>
+    <link href="https://mp.weixin.qq.com/s/3phQPXxZxYL0zHpzRw60Ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>BitArray虽好，但请不要滥用，又一次线上内存暴增排查</title>
+    <updated>2021-01-17T16:35:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/4KEGaivmRHvaibazokE8kw</id>
+    <link href="https://mp.weixin.qq.com/s/4KEGaivmRHvaibazokE8kw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 23. dict 的 CURD 操作</title>
+    <updated>2021-01-17T16:35:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/U2RG3otErivkqv9JPichqQ</id>
+    <link href="https://mp.weixin.qq.com/s/U2RG3otErivkqv9JPichqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 ASP.Net Core 中实现 健康检查</title>
     <updated>2021-01-14T23:37:43+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-07T00:00:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/NxaNhSZYf9IHW_PWmMGPYw</id>
     <link href="https://mp.weixin.qq.com/s/NxaNhSZYf9IHW_PWmMGPYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【gRPC】 在.Net core中使用gRPC</title>
-    <updated>2021-01-07T00:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/tSuVnETnV961Pc4jRGuaxg</id>
-    <link href="https://mp.weixin.qq.com/s/tSuVnETnV961Pc4jRGuaxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 入门系列 —— 18. Tuple 的 CURD 操作</title>
-    <updated>2021-01-07T00:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/5I2jEP6rfxdz0QfTAi9Osg</id>
-    <link href="https://mp.weixin.qq.com/s/5I2jEP6rfxdz0QfTAi9Osg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.Net Core MVC 中实现文件上传</title>
-    <updated>2021-01-05T23:08:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/mIjoeBCYUfhE1hX9_agIwQ</id>
-    <link href="https://mp.weixin.qq.com/s/mIjoeBCYUfhE1hX9_agIwQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

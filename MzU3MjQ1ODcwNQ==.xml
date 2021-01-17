@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T07:55:33+08:00</updated>
+  <updated>2021-01-17T16:57:58+08:00</updated>
   <subtitle>每一步成长都想与你分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Apache Calcite 框架 50 倍性能优化实践</title>
+    <updated>2021-01-17T15:31:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/sSPDXfp8AQmgmbDPFNC9eg</id>
+    <link href="https://mp.weixin.qq.com/s/sSPDXfp8AQmgmbDPFNC9eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kafka 集群突破百万 partition 的技术探索</title>
     <updated>2021-01-14T21:21:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-05T18:36:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/49Jykovzjy0HGq5ZBrWJqQ</id>
     <link href="https://mp.weixin.qq.com/s/49Jykovzjy0HGq5ZBrWJqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kafka 顺序消费线程模型的实践与优化</title>
-    <updated>2020-11-30T10:53:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-30:/s/LHlcLTs5r8lQtG8Tl9aPjQ</id>
-    <link href="https://mp.weixin.qq.com/s/LHlcLTs5r8lQtG8Tl9aPjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

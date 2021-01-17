@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>亨利笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:50:33+08:00</updated>
+  <updated>2021-01-17T16:32:45+08:00</updated>
   <subtitle>天南地北侃技术，自娱自乐于互联网的缝隙中。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用KubeFATE在K8s上部署联邦学习FATE v1.5</title>
+    <updated>2021-01-16T22:06:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/t95Cq8jGNxp9AUwjQgGY-A</id>
+    <link href="https://mp.weixin.qq.com/s/t95Cq8jGNxp9AUwjQgGY-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>VMware招聘联邦学习、隐私计算开发工程师</title>
+    <updated>2021-01-16T22:06:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/J-DMLXfKGwaYhNW2Mumq0Q</id>
+    <link href="https://mp.weixin.qq.com/s/J-DMLXfKGwaYhNW2Mumq0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在Juypter Notebook中构建联邦学习任务</title>
     <updated>2021-01-10T13:31:24+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-27T11:57:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/E91CzyD18FCVv_sxjcRa0A</id>
     <link href="https://mp.weixin.qq.com/s/E91CzyD18FCVv_sxjcRa0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020云原生生态大会：ppt下载和视频精彩回放</title>
-    <updated>2020-12-27T11:54:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/PrQlBLHYvrPCFaNud0PFCg</id>
-    <link href="https://mp.weixin.qq.com/s/PrQlBLHYvrPCFaNud0PFCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VMware招聘机器学习和云原生开发工程师</title>
-    <updated>2020-12-27T11:54:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/GR0eK1UejooDmOoNLuvpdw</id>
-    <link href="https://mp.weixin.qq.com/s/GR0eK1UejooDmOoNLuvpdw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

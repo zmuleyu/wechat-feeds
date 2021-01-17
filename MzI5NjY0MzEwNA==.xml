@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>牧小码农 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:22:59+08:00</updated>
+  <updated>2021-01-17T17:03:37+08:00</updated>
   <subtitle>专注于Java分享技术的公众号，归纳和总结，分享优秀文章，有温度、有态度、有知识，更有你们，技术路上我们都是探索者，大家加油，公众号中如有错误的地方，敬请指正，谢谢。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>哎，这让人抠脑壳的 LFU。</title>
+    <updated>2021-01-17T14:10:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/FCGl53S9nun5I1f_RymH1g</id>
+    <link href="https://mp.weixin.qq.com/s/FCGl53S9nun5I1f_RymH1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>线程安全性详解(原子性、可见性、有序性)</title>
     <updated>2021-01-11T16:41:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T17:09:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/OEnmOg00eyCHIVORFqbpKQ</id>
     <link href="https://mp.weixin.qq.com/s/OEnmOg00eyCHIVORFqbpKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于MySQL索引知识与小妙招 — 学到了！</title>
-    <updated>2020-12-19T16:08:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/FWjIFKWOq6uJM6WY3JFRhw</id>
-    <link href="https://mp.weixin.qq.com/s/FWjIFKWOq6uJM6WY3JFRhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
