@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:11:14+08:00</updated>
+  <updated>2021-01-17T12:10:53+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么我们不用数据库生成 ID？</title>
+    <updated>2021-01-17T08:10:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Vd-jgEn_ROWkcISd-7gGMg</id>
+    <link href="https://mp.weixin.qq.com/s/Vd-jgEn_ROWkcISd-7gGMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>想接私活时薪再翻一倍，建议根据这几个开源的SpringBoot项目（含小程序）改改~</title>
     <updated>2021-01-16T08:10:01+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-08T07:59:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/p_005kul1gYF_a5VZY9GDA</id>
     <link href="https://mp.weixin.qq.com/s/p_005kul1gYF_a5VZY9GDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卸载Navicat！操作所有的数据库靠它就够了</title>
-    <updated>2021-01-07T07:59:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/V7G2Qd9e-T1yiC3euYNGUQ</id>
-    <link href="https://mp.weixin.qq.com/s/V7G2Qd9e-T1yiC3euYNGUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

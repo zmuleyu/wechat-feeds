@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T11:54:12+08:00</updated>
+  <updated>2021-01-17T11:55:16+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET 调整图片尺寸(Resize)各种方法</title>
+    <updated>2021-01-17T10:54:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/ZiaUH3LXSGIU5CxJIypSVw</id>
+    <link href="https://mp.weixin.qq.com/s/ZiaUH3LXSGIU5CxJIypSVw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>单点登录的三种实现方式</title>
+    <updated>2021-01-17T10:54:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/9eV0nNUJYhKmzixboa7n4Q</id>
+    <link href="https://mp.weixin.qq.com/s/9eV0nNUJYhKmzixboa7n4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET Core急速接入第三方登录 不看后悔</title>
     <updated>2021-01-15T22:48:12+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2021-01-07T22:54:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/3sMDTQu19NXEGCC-bpLM-w</id>
     <link href="https://mp.weixin.qq.com/s/3sMDTQu19NXEGCC-bpLM-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纯.NET Core架构电商平台：轻松扛下双11单日近10亿GMV！</title>
-    <updated>2021-01-07T00:09:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/yyUyx0DNd8FaglysLlI6XA</id>
-    <link href="https://mp.weixin.qq.com/s/yyUyx0DNd8FaglysLlI6XA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 5 新增的Http、Sockets、DNS 和 TLS 遥测</title>
-    <updated>2021-01-07T00:09:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/aiaHiaVJfttZPWGGAL4K-w</id>
-    <link href="https://mp.weixin.qq.com/s/aiaHiaVJfttZPWGGAL4K-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

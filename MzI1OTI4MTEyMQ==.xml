@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>红宸笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:59:49+08:00</updated>
+  <updated>2021-01-17T11:56:04+08:00</updated>
   <subtitle>技术，生活，娱乐</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>c++11-17 模板核心知识（十三）—— 名称查找与ADL</title>
+    <updated>2021-01-17T11:31:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/IQm9PZZCm8FvBhvzIGlRhQ</id>
+    <link href="https://mp.weixin.qq.com/s/IQm9PZZCm8FvBhvzIGlRhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>c++11-17 模板核心知识（十二）—— 模板的模板参数 Template Template Parameters</title>
     <updated>2021-01-14T10:37:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T10:47:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/ypSNJlv57bzOWFNkxdrJ_g</id>
     <link href="https://mp.weixin.qq.com/s/ypSNJlv57bzOWFNkxdrJ_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>c++11-17 模板核心知识（三）—— 非类型模板参数 Nontype Template Parameters</title>
-    <updated>2020-12-23T11:09:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/8agnaS0ZvzyUyfswqNugng</id>
-    <link href="https://mp.weixin.qq.com/s/8agnaS0ZvzyUyfswqNugng" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

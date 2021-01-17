@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:24:57+08:00</updated>
+  <updated>2021-01-17T12:26:39+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何搭建一支拖垮公司的技术团队？</title>
+    <updated>2021-01-17T09:49:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/gepFqT6YLbf8oN4PDNV3pQ</id>
+    <link href="https://mp.weixin.qq.com/s/gepFqT6YLbf8oN4PDNV3pQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看完100家互联网企业招聘需求，真为专科程序员捏一把汗！</title>
     <updated>2021-01-15T20:21:26+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2021-01-07T22:08:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/vF4Hd-ItYx8LxJ4EYoa0Fw</id>
     <link href="https://mp.weixin.qq.com/s/vF4Hd-ItYx8LxJ4EYoa0Fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何安全传输与存储用户密码？</title>
-    <updated>2021-01-06T21:56:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/Pk0pBXhA8RRjSvMARSxvAg</id>
-    <link href="https://mp.weixin.qq.com/s/Pk0pBXhA8RRjSvMARSxvAg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:13:35+08:00</updated>
+  <updated>2021-01-17T12:12:37+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>技术小白升迁日记</title>
+    <updated>2021-01-17T09:18:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/epY2h4OLoZeTW04Kk7iA0Q</id>
+    <link href="https://mp.weixin.qq.com/s/epY2h4OLoZeTW04Kk7iA0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>解构领域驱动设计：我对于领域驱动的认知</title>
     <updated>2021-01-15T17:23:43+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-08T08:30:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/en8KemA5HFN6tdrXVZNjKA</id>
     <link href="https://mp.weixin.qq.com/s/en8KemA5HFN6tdrXVZNjKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里技术专家详解DDD系列 第三讲 - Repository模式</title>
-    <updated>2021-01-06T17:23:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9efoPbvp0GaMi24V0RxFcw</id>
-    <link href="https://mp.weixin.qq.com/s/9efoPbvp0GaMi24V0RxFcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

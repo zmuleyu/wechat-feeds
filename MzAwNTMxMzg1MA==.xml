@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:09:51+08:00</updated>
+  <updated>2021-01-17T12:09:26+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>浅谈.NET技术公司的实习生培养</title>
+    <updated>2021-01-16T15:05:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/gwEZNTPLWTigAVuVM8Utxg</id>
+    <link href="https://mp.weixin.qq.com/s/gwEZNTPLWTigAVuVM8Utxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 C# 9 的records作为强类型ID - 初次使用</title>
+    <updated>2021-01-16T15:05:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/xKTqhtFCQyFwrlTpsvD6Hg</id>
+    <link href="https://mp.weixin.qq.com/s/xKTqhtFCQyFwrlTpsvD6Hg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>HttpClientFactory 结合 Polly 轻松实现重试机制</title>
+    <updated>2021-01-16T15:05:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/dWQQcb9phSlAaybpJo6Rvw</id>
+    <link href="https://mp.weixin.qq.com/s/dWQQcb9phSlAaybpJo6Rvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈​与彼得原理和责任管理有关的小故事</title>
+    <updated>2021-01-16T15:05:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/HktQ_RlGVAlwShke1LD7qQ</id>
+    <link href="https://mp.weixin.qq.com/s/HktQ_RlGVAlwShke1LD7qQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[C#.NET 拾遗补漏]14：使用结构体实现共用体</title>
+    <updated>2021-01-16T15:05:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/l5NSywdNRKAzKtov2LKtJQ</id>
+    <link href="https://mp.weixin.qq.com/s/l5NSywdNRKAzKtov2LKtJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软向Chromium贡献代码以优化浏览器滚动体验</title>
+    <updated>2021-01-16T15:05:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/KYAAUzgzDtqk6mWOhJ7sJg</id>
+    <link href="https://mp.weixin.qq.com/s/KYAAUzgzDtqk6mWOhJ7sJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年首届.NET线下沙龙上海站 - 2021 .NET Meetup in Shanghai</title>
     <updated>2021-01-15T19:54:53+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-14T12:36:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/4xXqilBkrUTQClO6dmdltA</id>
     <link href="https://mp.weixin.qq.com/s/4xXqilBkrUTQClO6dmdltA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021技术人新展望</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/BB6qIWntaLD7uESY6ya0Gg</id>
-    <link href="https://mp.weixin.qq.com/s/BB6qIWntaLD7uESY6ya0Gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开放封闭在.NET中</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/SxV2XwZKinjqyxTu9Vzdbg</id>
-    <link href="https://mp.weixin.qq.com/s/SxV2XwZKinjqyxTu9Vzdbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xamarin.Forms 5.0 来了</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/PNTwj85JslgHRUSuiqIt9g</id>
-    <link href="https://mp.weixin.qq.com/s/PNTwj85JslgHRUSuiqIt9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软2020开源回顾：止不住的挨骂，停不下的贡献</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Sk8nTxwvQ8NLYdd9H1fCOA</id>
-    <link href="https://mp.weixin.qq.com/s/Sk8nTxwvQ8NLYdd9H1fCOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 ML.NET 实现峰值检测来排查异常</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uwpS8bjH4EaWftQrqrWqEA</id>
-    <link href="https://mp.weixin.qq.com/s/uwpS8bjH4EaWftQrqrWqEA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ML.NET 推荐引擎中一类矩阵因子分解的缺陷</title>
-    <updated>2021-01-13T17:12:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xImEr9nxgDHZ_tf2BbJzCQ</id>
-    <link href="https://mp.weixin.qq.com/s/xImEr9nxgDHZ_tf2BbJzCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

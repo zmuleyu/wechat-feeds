@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:13:24+08:00</updated>
+  <updated>2021-01-17T12:12:30+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go语言爱好者周刊：第 78 期 — 这道关于 goroutine 的题</title>
+    <updated>2021-01-17T11:31:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/kma8hvdLVPIkZnKw_MaSKg</id>
+    <link href="https://mp.weixin.qq.com/s/kma8hvdLVPIkZnKw_MaSKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 Go 和 ReactJS 构建聊天系统（六）：Docker 部署</title>
+    <updated>2021-01-17T11:31:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/CLna0qjhis0FJ4bn_sKffA</id>
+    <link href="https://mp.weixin.qq.com/s/CLna0qjhis0FJ4bn_sKffA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>真香！使用 VSCode 进行 Go 远程开发调试</title>
+    <updated>2021-01-17T11:31:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/KK0R0GWuBUV7CRYcV2KOrg</id>
+    <link href="https://mp.weixin.qq.com/s/KK0R0GWuBUV7CRYcV2KOrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021 年这 8 种编程语言最流行：Go 入榜原来是这个原因</title>
     <updated>2021-01-16T00:20:33+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-11T22:08:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/B3aj3GWE-WiiXfz3Xd3gzQ</id>
     <link href="https://mp.weixin.qq.com/s/B3aj3GWE-WiiXfz3Xd3gzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Go 和 ReactJS 构建聊天系统（一）：初始化项目</title>
-    <updated>2021-01-11T22:08:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/i29PhF34AfcChx4bL__ITA</id>
-    <link href="https://mp.weixin.qq.com/s/i29PhF34AfcChx4bL__ITA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>惊呆了：我用这个 Go 框架一周实现了一个中台系统</title>
-    <updated>2021-01-11T00:24:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/LRyn60vJy_m14-U6nkJcXw</id>
-    <link href="https://mp.weixin.qq.com/s/LRyn60vJy_m14-U6nkJcXw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯在线教育招 Go 了</title>
-    <updated>2021-01-11T00:24:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/wgUd0uOnbH9FRSnE9ykN1g</id>
-    <link href="https://mp.weixin.qq.com/s/wgUd0uOnbH9FRSnE9ykN1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

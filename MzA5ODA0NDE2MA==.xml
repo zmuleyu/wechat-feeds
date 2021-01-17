@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:18:37+08:00</updated>
+  <updated>2021-01-17T12:18:28+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SolarLeaks网站声称将出售SolarWinds攻击中的被盗数据</title>
+    <updated>2021-01-16T00:56:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/Lr-J_rb710IGN2mUFaiBHA</id>
+    <link href="https://mp.weixin.qq.com/s/Lr-J_rb710IGN2mUFaiBHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关公面前耍大刀？利用色情反向链接威胁网站运营商</title>
     <updated>2021-01-16T00:55:12+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2021-01-08T18:39:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/JBNsLU4Uftsqk1B_njhjFg</id>
     <link href="https://mp.weixin.qq.com/s/JBNsLU4Uftsqk1B_njhjFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为系列CTF PWN WriteUp</title>
-    <updated>2021-01-07T17:17:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/pWzEwT9CKsKpTuJhZ57R1Q</id>
-    <link href="https://mp.weixin.qq.com/s/pWzEwT9CKsKpTuJhZ57R1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LibFuzzer workshop学习之路</title>
-    <updated>2021-01-07T17:17:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7G8fkphR1BzxDa_I-FwEPw</id>
-    <link href="https://mp.weixin.qq.com/s/7G8fkphR1BzxDa_I-FwEPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

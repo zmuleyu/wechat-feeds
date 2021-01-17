@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java之道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:10:00+08:00</updated>
+  <updated>2021-01-17T12:09:46+08:00</updated>
   <subtitle>有道无术，术可成；有术无道，止于道；「Java之道」致力于为广大Javaer传道授业解惑。以术识道，以道御术；</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这才叫细：带你深入理解Redis分布式锁</title>
+    <updated>2021-01-16T21:40:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-16:/s/GiuSHXBXdNKVD2JfsamDQA</id>
+    <link href="https://mp.weixin.qq.com/s/GiuSHXBXdNKVD2JfsamDQA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高并发场景下，到底先更新缓存还是先更新数据库？</title>
     <updated>2021-01-15T21:48:58+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-07T21:42:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/Gy5Z7ugZydQ6vvwHokjACA</id>
     <link href="https://mp.weixin.qq.com/s/Gy5Z7ugZydQ6vvwHokjACA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>第一门编程语言为什么选择Java？</title>
-    <updated>2021-01-06T21:56:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/T7Tmy_O5bCz01JRESEkitw</id>
-    <link href="https://mp.weixin.qq.com/s/T7Tmy_O5bCz01JRESEkitw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 项目权威排名：Nacos 未上版，Gradle 排名第二，Maven 排名 28</title>
-    <updated>2021-01-06T21:56:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/BoxxJ60iy3zDYfLwoNVfqw</id>
-    <link href="https://mp.weixin.qq.com/s/BoxxJ60iy3zDYfLwoNVfqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:25:09+08:00</updated>
+  <updated>2021-01-17T12:25:55+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看看人家写的API，那才叫优雅！</title>
+    <updated>2021-01-17T11:13:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/1-At1t5OkT_clmi7QpBN2w</id>
+    <link href="https://mp.weixin.qq.com/s/1-At1t5OkT_clmi7QpBN2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数据库高可用架构了解一下</title>
     <updated>2021-01-16T09:35:43+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-07T08:57:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/PFy0dhWUejNBFDlHlmDNzA</id>
     <link href="https://mp.weixin.qq.com/s/PFy0dhWUejNBFDlHlmDNzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringCloud Alibaba微服务运维一 - 集成SkyWalking</title>
-    <updated>2021-01-06T09:34:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/McZK0BezMM2CDwbp6GDv1g</id>
-    <link href="https://mp.weixin.qq.com/s/McZK0BezMM2CDwbp6GDv1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

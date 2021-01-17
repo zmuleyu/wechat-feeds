@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>悟空聊架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:38:03+08:00</updated>
+  <updated>2021-01-17T12:08:25+08:00</updated>
   <subtitle>图解 高并发、分布式、微服务、中间件。自主开发了 PMP 刷题小程序、Java 刷题小程序，接了 4 个私活。学习网站：www.passjava.cn。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>进城和两位大佬一起交流技术，可不要贪杯~</title>
+    <updated>2021-01-17T08:48:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Dy2isxDBk9zauY9GV9fCtA</id>
+    <link href="https://mp.weixin.qq.com/s/Dy2isxDBk9zauY9GV9fCtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>诸葛亮 VS 庞统，拿下分布式 Paxos  | 文末送书</title>
     <updated>2021-01-13T10:06:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-13T15:33:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-13:/s/7f0IUStWG3P5iQFh201OOA</id>
     <link href="https://mp.weixin.qq.com/s/7f0IUStWG3P5iQFh201OOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>双 11 的狂欢，干了这碗「流量防控」汤</title>
-    <updated>2020-11-04T08:48:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/CgQLIB1unCzBF365mea1zg</id>
-    <link href="https://mp.weixin.qq.com/s/CgQLIB1unCzBF365mea1zg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
