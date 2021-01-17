@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:09:55+08:00</updated>
+  <updated>2021-01-17T23:37:06+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生数据库设计新思路</title>
+    <updated>2021-01-17T15:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/LB3XWOphNybrmVqBquUiow</id>
+    <link href="https://mp.weixin.qq.com/s/LB3XWOphNybrmVqBquUiow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【遇见Doris】基于Doris构建的小程序私域流量增长</title>
+    <updated>2021-01-17T15:24:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Qp2GDLGEyY73atMJJiw-aA</id>
+    <link href="https://mp.weixin.qq.com/s/Qp2GDLGEyY73atMJJiw-aA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>快手大数据平台服务化实践</title>
     <updated>2021-01-15T07:36:12+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-07T23:34:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/ixLGhZiwy0MBmUvtQYdnDg</id>
     <link href="https://mp.weixin.qq.com/s/ixLGhZiwy0MBmUvtQYdnDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SUSE 12安装CDH 6.1.0操作步骤【附CDH/HDP安装资料】</title>
-    <updated>2021-01-06T15:18:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/h7KXkud0p2Y52wPpNxp0hA</id>
-    <link href="https://mp.weixin.qq.com/s/h7KXkud0p2Y52wPpNxp0hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink on Hive构建流批一体数仓</title>
-    <updated>2021-01-06T15:18:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/uN4iPRf6PqW2jsr7rhS3OA</id>
-    <link href="https://mp.weixin.qq.com/s/uN4iPRf6PqW2jsr7rhS3OA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

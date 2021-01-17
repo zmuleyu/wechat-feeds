@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust碎碎念 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:25:03+08:00</updated>
+  <updated>2021-01-17T23:20:36+08:00</updated>
   <subtitle>rust编程相关</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】Async/Await（二）——Futures</title>
+    <updated>2021-01-17T20:33:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/OL7_usSmY_gAZzYYydyr8A</id>
+    <link href="https://mp.weixin.qq.com/s/OL7_usSmY_gAZzYYydyr8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【译】Async/Await（一）——多任务</title>
     <updated>2021-01-16T20:09:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T22:29:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/AlrgIoxCGGoizQkVqoExsw</id>
     <link href="https://mp.weixin.qq.com/s/AlrgIoxCGGoizQkVqoExsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【译】理解Rust中的局部移动</title>
-    <updated>2020-12-02T11:37:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/B5Sza9v0zN3s0ASV9SHT0A</id>
-    <link href="https://mp.weixin.qq.com/s/B5Sza9v0zN3s0ASV9SHT0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

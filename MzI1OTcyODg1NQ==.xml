@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:35:03+08:00</updated>
+  <updated>2021-01-17T23:35:52+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>详解dockerfile之五个实战项目</title>
+    <updated>2021-01-17T22:06:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/8EzZFSQwK2iVO6savhVahg</id>
+    <link href="https://mp.weixin.qq.com/s/8EzZFSQwK2iVO6savhVahg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>通过二进制格式安装过程的讲解</title>
+    <updated>2021-01-17T22:06:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/e_fukZTIRhCQ2wSw37hjoQ</id>
+    <link href="https://mp.weixin.qq.com/s/e_fukZTIRhCQ2wSw37hjoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你的镜像真的安全吗？</title>
     <updated>2021-01-16T21:24:19+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-08T20:15:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/cYpNJSB4o0wteGP2feAfSQ</id>
     <link href="https://mp.weixin.qq.com/s/cYpNJSB4o0wteGP2feAfSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>golang从入门到精通——多维切片&amp;nil、empty切片</title>
-    <updated>2021-01-08T20:15:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/M7lhSH2T5SMd4fvODyyLnw</id>
-    <link href="https://mp.weixin.qq.com/s/M7lhSH2T5SMd4fvODyyLnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谁动了我的主机? 之活用History命令</title>
-    <updated>2021-01-07T21:55:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/l24_qzrr8-RJCHCliWlKeQ</id>
-    <link href="https://mp.weixin.qq.com/s/l24_qzrr8-RJCHCliWlKeQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

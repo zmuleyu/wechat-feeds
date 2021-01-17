@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GIS前沿 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:40:13+08:00</updated>
+  <updated>2021-01-17T23:40:47+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>​【航测必看】很全面的航测内业基础知识PPT（可下载）</title>
+    <updated>2021-01-17T14:38:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Sh2j-SBeB7YzzP86ayNEOw</id>
+    <link href="https://mp.weixin.qq.com/s/Sh2j-SBeB7YzzP86ayNEOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>坐标换带计算原理</title>
+    <updated>2021-01-17T14:38:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/zL2feP7ancwMjSrXBNFedw</id>
+    <link href="https://mp.weixin.qq.com/s/zL2feP7ancwMjSrXBNFedw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何利用ArcGIS中的深度学习功能提取建筑物轮廓并对其进行损坏分类</title>
+    <updated>2021-01-17T14:38:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/VYYOgv7_paaFHoxWVYU5TA</id>
+    <link href="https://mp.weixin.qq.com/s/VYYOgv7_paaFHoxWVYU5TA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>​实景模型在海洋平台中的应用研究</title>
+    <updated>2021-01-17T14:38:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/8eFaawH2tHSRXUg5COEWnA</id>
+    <link href="https://mp.weixin.qq.com/s/8eFaawH2tHSRXUg5COEWnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【CASS入门】工具、编辑、显示菜单讲解</title>
+    <updated>2021-01-17T14:38:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/oON-JTBHvSP3zVkhNtcdjQ</id>
+    <link href="https://mp.weixin.qq.com/s/oON-JTBHvSP3zVkhNtcdjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>无需处理建模，直接用无人机视频画面做测绘？</title>
     <updated>2021-01-16T16:03:00+08:00</updated>
@@ -109,41 +144,6 @@
     <updated>2021-01-14T20:21:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/VoxSfGPn6SI1MTC0wCyZcg</id>
     <link href="https://mp.weixin.qq.com/s/VoxSfGPn6SI1MTC0wCyZcg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>海量倾斜摄影三维数据加载优化，如何驾驭？</title>
-    <updated>2021-01-13T15:31:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/HzvpATK0L2UzkFUTGo99Fw</id>
-    <link href="https://mp.weixin.qq.com/s/HzvpATK0L2UzkFUTGo99Fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大疆精灵4 RTK及M300 RTK等因谷歌地图无法加载解决方法</title>
-    <updated>2021-01-13T15:31:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/z3p106mu9mw1a1rBOsxVyg</id>
-    <link href="https://mp.weixin.qq.com/s/z3p106mu9mw1a1rBOsxVyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ArcGIS制作生态环境敏感性等级分布专题图（下）附练习数据</title>
-    <updated>2021-01-13T15:31:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/TZyDDhpC1L6fdwU71G_OZQ</id>
-    <link href="https://mp.weixin.qq.com/s/TZyDDhpC1L6fdwU71G_OZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BIM+GIS技术</title>
-    <updated>2021-01-13T15:31:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/BT7QCCSuAv0QipFUoW78vQ</id>
-    <link href="https://mp.weixin.qq.com/s/BT7QCCSuAv0QipFUoW78vQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何利用春节假期快速提升GIS和Python技能？</title>
-    <updated>2021-01-12T20:14:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/k05X5zaCAZCIBuG5dzJNHg</id>
-    <link href="https://mp.weixin.qq.com/s/k05X5zaCAZCIBuG5dzJNHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

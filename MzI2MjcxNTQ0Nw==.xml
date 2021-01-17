@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈修仙之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:09:36+08:00</updated>
+  <updated>2021-01-17T23:36:10+08:00</updated>
   <subtitle>聚焦全栈，专注分享 TypeScript、Web API、Node.js、Deno 等技术干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>数字指纹有什么用？赶紧来了解一下</title>
+    <updated>2021-01-17T21:17:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/zjMwXFIbt8EWN2jWaid3Yg</id>
+    <link href="https://mp.weixin.qq.com/s/zjMwXFIbt8EWN2jWaid3Yg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从零基于AST实现React17新版JSX转换器</title>
     <updated>2021-01-14T07:54:39+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-31T08:12:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/5a3G3W3WQky4GURo9RW3uQ</id>
     <link href="https://mp.weixin.qq.com/s/5a3G3W3WQky4GURo9RW3uQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何优雅的处理多个弹框的显示？</title>
-    <updated>2020-12-30T08:02:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/rFXEfMvuX_9OXDs4yovztw</id>
-    <link href="https://mp.weixin.qq.com/s/rFXEfMvuX_9OXDs4yovztw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

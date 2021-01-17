@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:43:22+08:00</updated>
+  <updated>2021-01-17T23:39:55+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -78,13 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>太敏感，2h删！！！</title>
-    <updated>2021-01-14T00:03:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/PXX1JVQinErhgci4zdf34w</id>
-    <link href="https://mp.weixin.qq.com/s/PXX1JVQinErhgci4zdf34w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>为什么 MySQL 不推荐默认值为 null ？</title>
     <updated>2021-01-14T00:03:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/O_XK7CqsQ-bkMZVJLUH_GQ</id>
@@ -145,6 +138,13 @@
     <updated>2021-01-10T19:36:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/l3sidMQ1VIY9Axzk_PogXw</id>
     <link href="https://mp.weixin.qq.com/s/l3sidMQ1VIY9Axzk_PogXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spring Boot 集成 JUnit5，更优雅单元测试！</title>
+    <updated>2021-01-10T19:36:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xY7sgp9gJQ1Fcl-ArmRHRg</id>
+    <link href="https://mp.weixin.qq.com/s/xY7sgp9gJQ1Fcl-ArmRHRg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:33:28+08:00</updated>
+  <updated>2021-01-17T23:33:10+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万物皆可Graph | 当推荐系统遇上图神经网络</title>
+    <updated>2021-01-17T21:48:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/6li74AYwsw64DeYzaXzBug</id>
+    <link href="https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CTR学习笔记&amp;代码实现1-深度学习的前奏LR-&gt;FFM</title>
+    <updated>2021-01-17T21:48:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/lphTXdbYOyomMU6O0CH2Pw</id>
+    <link href="https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐多目标之自适应权重学习</title>
+    <updated>2021-01-17T21:48:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/PZXaY_WYPakommbD7PyWQg</id>
+    <link href="https://mp.weixin.qq.com/s/PZXaY_WYPakommbD7PyWQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【模型压缩系列】一：模型替换</title>
+    <updated>2021-01-17T21:48:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/cgF2kjHExdNvUIKf8g4_6A</id>
+    <link href="https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解读TRPO论文，深度强化学习结合传统优化方法</title>
+    <updated>2021-01-17T21:48:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/09JCUUhsXKhvYGfXT2gDLg</id>
+    <link href="https://mp.weixin.qq.com/s/09JCUUhsXKhvYGfXT2gDLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>将神拉到人间(Linus 自传读后感)</title>
     <updated>2021-01-16T21:51:54+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-14T22:00:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/3RMEzXK0Lz6Fk20JKn4tfg</id>
     <link href="https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>自然语言处理圣经SLP3终于又更新了</title>
-    <updated>2021-01-13T22:24:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/7aZ4tODP5j6yzEJDawgBOg</id>
-    <link href="https://mp.weixin.qq.com/s/7aZ4tODP5j6yzEJDawgBOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>医疗领域热门话题挖掘</title>
-    <updated>2021-01-13T22:24:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/L4BoQveB3uM6wC9bwj9wfg</id>
-    <link href="https://mp.weixin.qq.com/s/L4BoQveB3uM6wC9bwj9wfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>20-&gt;21：算法工程师的成长思考</title>
-    <updated>2021-01-13T22:24:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/SDyTWKMafmu-YtxXfJ0OLA</id>
-    <link href="https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里RE2：如何将残差与文本匹配模型融合</title>
-    <updated>2021-01-13T22:24:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Yh9Cz5TxnZmN8nOOkI6N0A</id>
-    <link href="https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）</title>
-    <updated>2021-01-13T22:24:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Omdwr7bnFym09a5oNpd9uQ</id>
-    <link href="https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

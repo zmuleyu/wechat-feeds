@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:42:02+08:00</updated>
+  <updated>2021-01-17T23:44:41+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年，投身自然语言处理是否明智？</title>
+    <updated>2021-01-17T19:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/MtxTQLBtJbjogEjOjpuTYQ</id>
+    <link href="https://mp.weixin.qq.com/s/MtxTQLBtJbjogEjOjpuTYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>滴滴开源Logi-KafkaManager 一站式Kafka监控与管控平台</title>
+    <updated>2021-01-17T19:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/N2fZSnzy7yiH5p-svdpJWg</id>
+    <link href="https://mp.weixin.qq.com/s/N2fZSnzy7yiH5p-svdpJWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>精选大数据，算法方向实习职位！</title>
+    <updated>2021-01-17T19:56:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/CJCK6b5-2fOgmVbS39zYnA</id>
+    <link href="https://mp.weixin.qq.com/s/CJCK6b5-2fOgmVbS39zYnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink+Kafka：网易云音乐实时数仓建设实践</title>
     <updated>2021-01-16T20:54:03+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T11:13:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/9NA0w5sPNFtzBBb1pk7PkA</id>
     <link href="https://mp.weixin.qq.com/s/9NA0w5sPNFtzBBb1pk7PkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PPT下载 | 腾讯音乐 ：全民K歌推荐系统详解</title>
-    <updated>2021-01-12T11:13:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/NNhQlMIICxUcnM0O50VSuA</id>
-    <link href="https://mp.weixin.qq.com/s/NNhQlMIICxUcnM0O50VSuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 阿里飞猪：个性化出行算法实践</title>
-    <updated>2021-01-12T11:13:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/mtQxm-5zXLETV9xmFvFiww</id>
-    <link href="https://mp.weixin.qq.com/s/mtQxm-5zXLETV9xmFvFiww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团配送实时特征平台建设实践</title>
-    <updated>2021-01-11T20:27:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/gafduk7jhD9QnB1Lmmb1qw</id>
-    <link href="https://mp.weixin.qq.com/s/gafduk7jhD9QnB1Lmmb1qw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

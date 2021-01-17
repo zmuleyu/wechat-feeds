@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:31:28+08:00</updated>
+  <updated>2021-01-17T23:27:42+08:00</updated>
   <subtitle>架构师之路，坚持撰写接地气的架构文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不用缓存服务，还能怎么缓存数据？</title>
+    <updated>2021-01-17T20:34:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/WrbB39WN7JOZ3VavQFShNg</id>
+    <link href="https://mp.weixin.qq.com/s/WrbB39WN7JOZ3VavQFShNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>很多人问，到底要不要转管理？</title>
     <updated>2021-01-14T21:02:11+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-28T21:10:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/o1Ne02_6xlquWuiA_LDQuA</id>
     <link href="https://mp.weixin.qq.com/s/o1Ne02_6xlquWuiA_LDQuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10亿数据量，不同业务究竟要怎么改造？</title>
-    <updated>2020-12-27T09:40:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/HaUsPBdjI1Nj4NN6MRtWYg</id>
-    <link href="https://mp.weixin.qq.com/s/HaUsPBdjI1Nj4NN6MRtWYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
