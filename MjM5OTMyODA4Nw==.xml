@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python Web与Django开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T11:40:04+08:00</updated>
+  <updated>2021-01-18T12:14:27+08:00</updated>
   <subtitle>大江狗的Python Django原创基础教程, 技术总结与开发实战。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Django REST Framework教程(10): 限流(throttle)详解与示例</title>
+    <updated>2021-01-17T23:32:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/afUVscWp5zDoU2P8ROI5ww</id>
+    <link href="https://mp.weixin.qq.com/s/afUVscWp5zDoU2P8ROI5ww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
     <updated>2021-01-07T17:15:58+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-16T16:03:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/nyPCOCiSPOEbHQMlmGa7GQ</id>
     <link href="https://mp.weixin.qq.com/s/nyPCOCiSPOEbHQMlmGa7GQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用ngrok内网穿透让外网可以访问你本地的Django网站</title>
-    <updated>2020-12-16T16:01:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/WJuIP8rudvt8TFIGHbk0vg</id>
-    <link href="https://mp.weixin.qq.com/s/WJuIP8rudvt8TFIGHbk0vg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

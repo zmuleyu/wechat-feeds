@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T08:08:38+08:00</updated>
+  <updated>2021-01-18T12:15:24+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>上车了！一文尽览Scheduling Framework 应用实践</title>
+    <updated>2021-01-18T10:49:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/TApLhFDTXk5W8-ohmL719g</id>
+    <link href="https://mp.weixin.qq.com/s/TApLhFDTXk5W8-ohmL719g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文读懂 Kubernetes APIServer 原理</title>
+    <updated>2021-01-18T10:49:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/yCn1pbJe0crD71nzwKXiVg</id>
+    <link href="https://mp.weixin.qq.com/s/yCn1pbJe0crD71nzwKXiVg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用KubeFATE在K8s上部署联邦学习FATE v1.5</title>
+    <updated>2021-01-18T10:49:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/EAUlhXa3e_iky7pa2hL65w</id>
+    <link href="https://mp.weixin.qq.com/s/EAUlhXa3e_iky7pa2hL65w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>简单示例说明 kube-proxy 如何与 iptables 配合使用</title>
+    <updated>2021-01-18T10:49:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/l0uBMezdTSG29Klrw2qD0Q</id>
+    <link href="https://mp.weixin.qq.com/s/l0uBMezdTSG29Klrw2qD0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CNCF Weekly 21-2</title>
     <updated>2021-01-15T10:59:47+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-13T11:44:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/QGNJqOC9Hr_iRFT9FlXrkg</id>
     <link href="https://mp.weixin.qq.com/s/QGNJqOC9Hr_iRFT9FlXrkg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【网络论坛预告】深入浅出 Cloud Native BuildPack</title>
-    <updated>2021-01-13T11:44:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/iYR1xBCkYHTRPez-IMPX0g</id>
-    <link href="https://mp.weixin.qq.com/s/iYR1xBCkYHTRPez-IMPX0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播预告 | 开源的云原生开发环境 —— Nocalhost</title>
-    <updated>2021-01-13T11:44:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cQKzKd5xPOXuGlRF1Roy_Q</id>
-    <link href="https://mp.weixin.qq.com/s/cQKzKd5xPOXuGlRF1Roy_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Chaos Mesh® 技术内幕 | 如何注入 I/O 故障？</title>
-    <updated>2021-01-12T11:27:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/FSBQoSJbepyZIq1yj8SOHg</id>
-    <link href="https://mp.weixin.qq.com/s/FSBQoSJbepyZIq1yj8SOHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Serverless 如何应对 K8s 在离线场景下的资源供给诉求</title>
-    <updated>2021-01-12T11:27:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/HLkE6SbhGw3frAIReQ3L4w</id>
-    <link href="https://mp.weixin.qq.com/s/HLkE6SbhGw3frAIReQ3L4w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

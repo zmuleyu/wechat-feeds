@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java旅途 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:06:52+08:00</updated>
+  <updated>2021-01-18T12:08:36+08:00</updated>
   <subtitle>『Java旅途』专注于Java技术分享，包含但不局限于Spring Boot、Spring Cloud、消息队列、redis、JVM、Mysql、面经等，欢迎关注，一起学习、一起成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>36 张图梳理 Intellij IDEA 常用设置</title>
+    <updated>2021-01-18T09:26:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/omgirfScGng6E4e0ZVyZ_A</id>
+    <link href="https://mp.weixin.qq.com/s/omgirfScGng6E4e0ZVyZ_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring中的这些小技巧，用起来是真的爽</title>
     <updated>2021-01-14T22:09:35+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-04T21:57:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/WpT6-pQ62-lSOHoYmAWdnA</id>
     <link href="https://mp.weixin.qq.com/s/WpT6-pQ62-lSOHoYmAWdnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>生成随机数，居然有这么多花样！</title>
-    <updated>2021-01-03T23:00:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/jFqR7505Fy0uZ0CKIU2hzA</id>
-    <link href="https://mp.weixin.qq.com/s/jFqR7505Fy0uZ0CKIU2hzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java项目权威排名，第一名你绝对想不到！</title>
-    <updated>2021-01-03T23:00:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/vAOaEH7WieJ3sy77VF_KmQ</id>
-    <link href="https://mp.weixin.qq.com/s/vAOaEH7WieJ3sy77VF_KmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

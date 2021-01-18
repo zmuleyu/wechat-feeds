@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MongoDB | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T11:55:16+08:00</updated>
+  <updated>2021-01-18T11:55:46+08:00</updated>
   <subtitle>MongoDB相关问题交流，发布MongoDB最新的相关资讯，解决MongoDB用户的技术问题。定期举办各种线上或者线下的技术交流活动。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大白话带你认识 Kafka，背后原理如此简单~</title>
+    <updated>2021-01-18T09:06:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/A_OprdhwlpVwm1SyhyHNBA</id>
+    <link href="https://mp.weixin.qq.com/s/A_OprdhwlpVwm1SyhyHNBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>都说程序员工资高、待遇好， 2021 金三银四就要到了，你的小目标是 30K、40K，还是 16 薪的 20K？</title>
     <updated>2021-01-15T09:00:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T09:04:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ED0JpcBnSxCozTX61mxz0g</id>
     <link href="https://mp.weixin.qq.com/s/ED0JpcBnSxCozTX61mxz0g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>kafka中生产者是如何把消息投递到哪个分区的？消费者又是怎么选择分区的？</title>
-    <updated>2020-12-30T08:58:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/_PgeIlaBTW-EdVwEt60RdQ</id>
-    <link href="https://mp.weixin.qq.com/s/_PgeIlaBTW-EdVwEt60RdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

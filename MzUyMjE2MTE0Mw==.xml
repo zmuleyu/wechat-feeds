@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:23:56+08:00</updated>
+  <updated>2021-01-18T11:50:05+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谷歌提出Meta Pseudo Labels，刷新ImageNet上的SOTA！</title>
+    <updated>2021-01-17T18:26:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/zmmPZGPkre9P64H6xUvyog</id>
+    <link href="https://mp.weixin.qq.com/s/zmmPZGPkre9P64H6xUvyog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer为何能闯入CV界秒杀CNN？</title>
+    <updated>2021-01-17T18:26:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/g1NNh9cNVA_zyyHeYOepHg</id>
+    <link href="https://mp.weixin.qq.com/s/g1NNh9cNVA_zyyHeYOepHg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>经典回顾：ResNet的原理和实现</title>
+    <updated>2021-01-17T18:26:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/8XQwEd-oPzxCQid5f6HP8w</id>
+    <link href="https://mp.weixin.qq.com/s/8XQwEd-oPzxCQid5f6HP8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021送书活动来啦 | 最新IT学习书单，共5本！免费送！</title>
     <updated>2021-01-16T17:32:55+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-09T22:35:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/pj_Jj7WIfcw1HGKob2o6Hg</id>
     <link href="https://mp.weixin.qq.com/s/pj_Jj7WIfcw1HGKob2o6Hg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SWA：让你的目标检测模型无痛涨点1% AP</title>
-    <updated>2021-01-09T22:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/s_nTPMHZ6r7Q-L7I-gCbHQ</id>
-    <link href="https://mp.weixin.qq.com/s/s_nTPMHZ6r7Q-L7I-gCbHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今天来捋一捋pytorch官方Faster R-CNN代码</title>
-    <updated>2021-01-09T22:35:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/qxWBDtqA43bE7lk8dp4XZw</id>
-    <link href="https://mp.weixin.qq.com/s/qxWBDtqA43bE7lk8dp4XZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>理解Meta Learning 元学习，这篇文章就够了！</title>
-    <updated>2021-01-08T18:50:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/7YZTQlmxb5YFHN9EKfIeVg</id>
-    <link href="https://mp.weixin.qq.com/s/7YZTQlmxb5YFHN9EKfIeVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

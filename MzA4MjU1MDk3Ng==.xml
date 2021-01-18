@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>音视频开发进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:14:21+08:00</updated>
+  <updated>2021-01-18T12:16:16+08:00</updated>
   <subtitle>抖音多媒体开发工程师，分享 Android 应用开发、图形图像渲染、音视频等相关内容，与你一同技术成长进阶~~~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>音频帧、视频帧及其同步</title>
+    <updated>2021-01-17T23:17:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/haV-CNzc4KJV3EeXqg8jtA</id>
+    <link href="https://mp.weixin.qq.com/s/haV-CNzc4KJV3EeXqg8jtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>线程安全代码到底是怎么编写的？</title>
     <updated>2021-01-14T23:11:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-06T19:49:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/Hnl8j8IMIwVoPofCnSUdXQ</id>
     <link href="https://mp.weixin.qq.com/s/Hnl8j8IMIwVoPofCnSUdXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线程安全代码到底是怎么编写的？</title>
-    <updated>2020-12-28T23:13:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/amu5f_aEeL6uQqh4DGSzsw</id>
-    <link href="https://mp.weixin.qq.com/s/amu5f_aEeL6uQqh4DGSzsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

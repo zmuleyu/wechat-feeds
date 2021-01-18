@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一灰灰blog | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T12:14:17+08:00</updated>
+  <updated>2021-01-18T12:14:56+08:00</updated>
   <subtitle>Java常用技术探索，分享编程技巧，技术博文</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Spring Boot基础系列】ConfigurationProperties 配置绑定中那些你不知道的事情</title>
+    <updated>2021-01-17T20:11:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Fophfe7oWaUQdtD5B8b9jQ</id>
+    <link href="https://mp.weixin.qq.com/s/Fophfe7oWaUQdtD5B8b9jQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【SpringBoot DB 系列】Mybatis-Plus 多数据源配置</title>
     <updated>2021-01-12T14:01:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T16:36:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/1VIyMtTC1a902H_36QcbLg</id>
     <link href="https://mp.weixin.qq.com/s/1VIyMtTC1a902H_36QcbLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【SpringBoot DB 系列】Jooq 之记录查询基础篇</title>
-    <updated>2020-12-13T15:09:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/C5_cjjkWuZW6xxF6ZZYNDw</id>
-    <link href="https://mp.weixin.qq.com/s/C5_cjjkWuZW6xxF6ZZYNDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

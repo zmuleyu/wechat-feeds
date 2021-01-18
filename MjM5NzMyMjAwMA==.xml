@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T16:50:30+08:00</updated>
+  <updated>2021-01-18T12:05:24+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>想要成为大厂Java专家，你必须要掌握这些技能</title>
+    <updated>2021-01-17T23:13:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/tS2DkarDBp3hLupaf9jQCg</id>
+    <link href="https://mp.weixin.qq.com/s/tS2DkarDBp3hLupaf9jQCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐一款 ES 集群可视化工具：Cerebro，简单、实用！</title>
+    <updated>2021-01-17T23:13:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/LHK76hb-oIlTqI8VPbbHOw</id>
+    <link href="https://mp.weixin.qq.com/s/LHK76hb-oIlTqI8VPbbHOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里彻底拆中台了！</title>
     <updated>2021-01-17T16:04:58+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2021-01-08T14:52:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/EkGcR9H-ZrPNofNGHn0wHQ</id>
     <link href="https://mp.weixin.qq.com/s/EkGcR9H-ZrPNofNGHn0wHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文啃透分布式架构，附详细资料</title>
-    <updated>2021-01-07T21:36:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/9hCWvMkjekWvn37Y5EMjBg</id>
-    <link href="https://mp.weixin.qq.com/s/9hCWvMkjekWvn37Y5EMjBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何保证API接口数据安全？</title>
-    <updated>2021-01-07T21:36:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/a_8FhNaB-4svlJJIY9SUkA</id>
-    <link href="https://mp.weixin.qq.com/s/a_8FhNaB-4svlJJIY9SUkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>信安之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:48:52+08:00</updated>
+  <updated>2021-01-18T11:51:48+08:00</updated>
   <subtitle>专注信息安全技术和经验的分享，坚持原创，不蹭热点</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开篇 信安之路是什么？有什么？有什么价值？</title>
+    <updated>2021-01-17T11:21:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/QNsbUj_AaPtjfRC0fxg9EQ</id>
+    <link href="https://mp.weixin.qq.com/s/QNsbUj_AaPtjfRC0fxg9EQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记第一次 AWD 赛前准备与赛后小结</title>
     <updated>2021-01-10T17:31:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T08:02:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/wiT0CKqRHJQoK9l8LnzgzA</id>
     <link href="https://mp.weixin.qq.com/s/wiT0CKqRHJQoK9l8LnzgzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>渗透某大学从弱口令到 docker 逃逸</title>
-    <updated>2020-12-23T22:28:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/P2m-JbUnsAEIIdfJ7_-S2A</id>
-    <link href="https://mp.weixin.qq.com/s/P2m-JbUnsAEIIdfJ7_-S2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

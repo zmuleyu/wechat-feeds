@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaGuide | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:24:12+08:00</updated>
+  <updated>2021-01-18T12:13:49+08:00</updated>
   <subtitle>专注Java后端学习和大厂面试的公众号！开源项目—JavaGuide （88k+Star）作者运营维护。学习Java，首选JavaGuide！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>复杂系统的解耦利器，这款可编排组件式引擎，真香！</title>
+    <updated>2021-01-18T09:31:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/2GCBkzWFOkxV282795-fEg</id>
+    <link href="https://mp.weixin.qq.com/s/2GCBkzWFOkxV282795-fEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>牛逼，一款多功能 OCR 图文识别工具</title>
+    <updated>2021-01-18T09:31:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/4S9eI8rzm5_uR_f8wwtGEA</id>
+    <link href="https://mp.weixin.qq.com/s/4S9eI8rzm5_uR_f8wwtGEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Github，永远滴神</title>
     <updated>2021-01-17T00:19:07+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-06T09:40:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/2OwCDbfqT4ePHbTRxnk1Xg</id>
     <link href="https://mp.weixin.qq.com/s/2OwCDbfqT4ePHbTRxnk1Xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯自研的分布式高性能KV存储开源了！</title>
-    <updated>2021-01-05T09:20:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/qY2C4-ne8llsvHLLQUD0fA</id>
-    <link href="https://mp.weixin.qq.com/s/qY2C4-ne8llsvHLLQUD0fA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

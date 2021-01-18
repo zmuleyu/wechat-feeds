@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>技术琐话 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:12:37+08:00</updated>
+  <updated>2021-01-18T12:05:07+08:00</updated>
   <subtitle>最干货的java+分布式技术公众号，兼及研发管理。本号专家阵容：蚂蚁金服右军、易宝CTO陈斌、米么金服总监李伟山、奥琪金科首席架构曲健、蚂蚁金服高级技术专家张翔、美团高级技术专家杨彪等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>送台新款笔记本，跑 IntelliJ IDEA 搞微服务真香</title>
+    <updated>2021-01-17T17:38:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/eam7-EDg1rkhnDryeIdocQ</id>
+    <link href="https://mp.weixin.qq.com/s/eam7-EDg1rkhnDryeIdocQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>阿里技术专家详解DDD系列第四讲：领域层设计规范</title>
+    <updated>2021-01-17T17:38:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/NoRTUSovcO2Yz237k0ceIw</id>
+    <link href="https://mp.weixin.qq.com/s/NoRTUSovcO2Yz237k0ceIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>技术小白升迁日记</title>
     <updated>2021-01-17T09:18:14+08:00</updated>
@@ -43,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>你测试有问题，我这里怎么就是好的</title>
-    <updated>2021-01-12T21:22:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/HKGnZRqfxMbN4jmgyfik2w</id>
-    <link href="https://mp.weixin.qq.com/s/HKGnZRqfxMbN4jmgyfik2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>云原生时代，Java危矣？</title>
     <updated>2021-01-11T20:57:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/3xQ6SWhGjQNAJvysqWLjbg</id>
@@ -75,13 +82,6 @@
     <updated>2021-01-09T08:46:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/qJ2iNEwo19InGZCAS7Pb4Q</id>
     <link href="https://mp.weixin.qq.com/s/qJ2iNEwo19InGZCAS7Pb4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>史上最烂的开发项目长啥样：苦撑12年，600多万行代码...</title>
-    <updated>2021-01-08T08:30:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/en8KemA5HFN6tdrXVZNjKA</id>
-    <link href="https://mp.weixin.qq.com/s/en8KemA5HFN6tdrXVZNjKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

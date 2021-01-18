@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>中间件兴趣圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:53:23+08:00</updated>
+  <updated>2021-01-18T11:53:48+08:00</updated>
   <subtitle>《RocketMQ技术内幕》作者维护，主打成体系剖析JAVA主流中间件架构与设计原理，为构建完备的互联网分布式架构体系而努力，助力突破职场瓶颈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Dubbo的设计理念原来就藏在这三张图中</title>
+    <updated>2021-01-17T18:24:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/tZnVAiu1KML50VmUvQkChg</id>
+    <link href="https://mp.weixin.qq.com/s/tZnVAiu1KML50VmUvQkChg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>年末了，送30本JAVA领域书籍</title>
+    <updated>2021-01-17T18:24:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/03JsnB81yOMXAPyx6N0cTA</id>
+    <link href="https://mp.weixin.qq.com/s/03JsnB81yOMXAPyx6N0cTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>线程池的7种创建方式，强烈推荐你用它...</title>
     <updated>2021-01-12T20:21:46+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-23T21:48:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/GPAYQ8TX-UqERfQMda0Cbw</id>
     <link href="https://mp.weixin.qq.com/s/GPAYQ8TX-UqERfQMda0Cbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>源码阅读的方法、误区以及三种境界</title>
-    <updated>2020-12-20T17:36:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/zzwwFPwAyJbwsfShwEIkmw</id>
-    <link href="https://mp.weixin.qq.com/s/zzwwFPwAyJbwsfShwEIkmw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

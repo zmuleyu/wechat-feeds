@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:26:39+08:00</updated>
+  <updated>2021-01-18T12:14:47+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>K8S太火了！花10分钟玩转它不香么？</title>
+    <updated>2021-01-17T15:22:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/N-9xVPYO_VVL5JZu5UPbtQ</id>
+    <link href="https://mp.weixin.qq.com/s/N-9xVPYO_VVL5JZu5UPbtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何搭建一支拖垮公司的技术团队？</title>
     <updated>2021-01-17T09:49:09+08:00</updated>
@@ -71,13 +78,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Java是如何优雅地成为编程语言“常青树”？</title>
-    <updated>2021-01-11T21:33:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/oXF4UojwY6DzWi8fqxy6mg</id>
-    <link href="https://mp.weixin.qq.com/s/oXF4UojwY6DzWi8fqxy6mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>谁说项目明天上线，这货压根不知道开发流程！</title>
     <updated>2021-01-11T21:33:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/6z8vW3zSRAmwcKK3L88nMg</id>
@@ -103,13 +103,6 @@
     <updated>2021-01-09T10:02:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/6P-9MWgs6sMypS5qmUkf2A</id>
     <link href="https://mp.weixin.qq.com/s/6P-9MWgs6sMypS5qmUkf2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Docker不香吗？为什么还要用k8s？</title>
-    <updated>2021-01-07T22:08:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/vF4Hd-ItYx8LxJ4EYoa0Fw</id>
-    <link href="https://mp.weixin.qq.com/s/vF4Hd-ItYx8LxJ4EYoa0Fw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:41:35+08:00</updated>
+  <updated>2021-01-18T11:50:48+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动 Go RPC 框架 KiteX 性能优化实践</title>
+    <updated>2021-01-18T08:22:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/Xoaoiotl7ZQoG2iXo9_DWg</id>
+    <link href="https://mp.weixin.qq.com/s/Xoaoiotl7ZQoG2iXo9_DWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>抖音品质建设 - iOS 安装包大小优化实践篇</title>
     <updated>2021-01-10T20:07:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T23:16:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/DWOQ9MSTkKSCBFQjPswPIQ</id>
     <link href="https://mp.weixin.qq.com/s/DWOQ9MSTkKSCBFQjPswPIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动校园编程训练营 ：Byte Camp 冬令营来啦！</title>
-    <updated>2020-12-10T18:18:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/t7JgRowgFUf5WH0JYAftVQ</id>
-    <link href="https://mp.weixin.qq.com/s/t7JgRowgFUf5WH0JYAftVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

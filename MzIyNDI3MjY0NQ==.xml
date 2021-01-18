@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaKeeper | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T12:05:39+08:00</updated>
+  <updated>2021-01-18T12:12:45+08:00</updated>
   <subtitle>Java技术有限委员会</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有了这 4 款工具，老大再也不怕我写烂SQL了</title>
+    <updated>2021-01-18T07:51:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/bNtNoBkn2xa3nTnvYYDz9A</id>
+    <link href="https://mp.weixin.qq.com/s/bNtNoBkn2xa3nTnvYYDz9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis 消息队列的三种方案（List、Streams、Pub/Sub）</title>
     <updated>2021-01-11T20:26:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T08:30:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/lMGrN1-XXyDaUvdWLzr1KQ</id>
     <link href="https://mp.weixin.qq.com/s/lMGrN1-XXyDaUvdWLzr1KQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里面试官：分布式锁到底用Redis好？还是Zookeeper好？</title>
-    <updated>2020-12-03T17:28:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/dKOgFO4FcEE8Z_MuDOoaZw</id>
-    <link href="https://mp.weixin.qq.com/s/dKOgFO4FcEE8Z_MuDOoaZw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

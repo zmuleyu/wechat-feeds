@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员囧辉 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:17:05+08:00</updated>
+  <updated>2021-01-18T12:12:38+08:00</updated>
   <subtitle>从源码剖析每个 Java 知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深入剖析 Redis 高可用解决方案：哨兵、集群</title>
+    <updated>2021-01-17T22:38:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/_rxkA9AXlnkSU-l191GgrQ</id>
+    <link href="https://mp.weixin.qq.com/s/_rxkA9AXlnkSU-l191GgrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试必问的 Redis：主从复制</title>
     <updated>2020-12-28T23:50:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-18T21:57:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-18:/s/1nS2VE6T6DVG6bmNHyAuPw</id>
     <link href="https://mp.weixin.qq.com/s/1nS2VE6T6DVG6bmNHyAuPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何准备好一场大厂面试</title>
-    <updated>2020-09-20T21:25:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/o1AEv3eqnMas-h2tHfNrnw</id>
-    <link href="https://mp.weixin.qq.com/s/o1AEv3eqnMas-h2tHfNrnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

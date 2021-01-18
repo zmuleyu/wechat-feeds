@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农的荒岛求生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:45:08+08:00</updated>
+  <updated>2021-01-18T11:54:06+08:00</updated>
   <subtitle>助你逃离固有技术点的禁闭岛，实现技术进阶。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>神秘！申请内存时底层发生了什么？</title>
+    <updated>2021-01-17T20:50:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/DN-ckM1YrPMeicN7P9FvXg</id>
+    <link href="https://mp.weixin.qq.com/s/DN-ckM1YrPMeicN7P9FvXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自己动手实现一个malloc内存分配器 | 30图</title>
     <updated>2021-01-05T22:06:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-11T21:30:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-11:/s/PZsjJUgW1tL_Bj07W66VHg</id>
     <link href="https://mp.weixin.qq.com/s/PZsjJUgW1tL_Bj07W66VHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>终于明白了，一文彻底理解I/O多路复用</title>
-    <updated>2020-09-20T21:28:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-20:/s/tXEfsLqdePjcPS6FKa-qzg</id>
-    <link href="https://mp.weixin.qq.com/s/tXEfsLqdePjcPS6FKa-qzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

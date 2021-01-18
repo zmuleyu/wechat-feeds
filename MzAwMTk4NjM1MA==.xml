@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:25:55+08:00</updated>
+  <updated>2021-01-18T12:14:31+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试被吊打系列 - 事务隔离级别</title>
+    <updated>2021-01-18T08:59:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/PBqY2SCFzgd5Dmk2Im0-ZA</id>
+    <link href="https://mp.weixin.qq.com/s/PBqY2SCFzgd5Dmk2Im0-ZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看看人家写的API，那才叫优雅！</title>
     <updated>2021-01-17T11:13:14+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-08T08:56:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/N0ol3w333WmuPU4ECbM8pw</id>
     <link href="https://mp.weixin.qq.com/s/N0ol3w333WmuPU4ECbM8pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解微服务中的服务容错思想及模式</title>
-    <updated>2021-01-07T08:57:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/PFy0dhWUejNBFDlHlmDNzA</id>
-    <link href="https://mp.weixin.qq.com/s/PFy0dhWUejNBFDlHlmDNzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

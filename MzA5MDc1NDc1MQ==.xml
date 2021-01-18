@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微步在线研究响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:41:30+08:00</updated>
+  <updated>2021-01-18T11:59:53+08:00</updated>
   <subtitle>神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>安全威胁情报周报（01.11-01.17）</title>
+    <updated>2021-01-18T09:11:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/AcscB7HqVJVDK8zV6M0YvA</id>
+    <link href="https://mp.weixin.qq.com/s/AcscB7HqVJVDK8zV6M0YvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hidden Tear 以疫情为话题的勒索事件分析</title>
     <updated>2021-01-13T13:36:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-11T16:00:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-11:/s/jJMwI1z1PNQnAdMy7VzQxA</id>
     <link href="https://mp.weixin.qq.com/s/jJMwI1z1PNQnAdMy7VzQxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>30行代码搞定Monero活跃节点探测</title>
-    <updated>2020-12-09T17:28:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/omsTd3q5tOkknfK35tXGXg</id>
-    <link href="https://mp.weixin.qq.com/s/omsTd3q5tOkknfK35tXGXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

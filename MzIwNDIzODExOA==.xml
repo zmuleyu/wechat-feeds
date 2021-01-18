@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ServiceMesher | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:47:01+08:00</updated>
+  <updated>2021-01-18T12:13:16+08:00</updated>
   <subtitle>ServiceMesher社区，涵盖Kubernetes、Service Mesh、Istio、Serverless、Knative等云原生技术，分享开源技术干货，推动服务网格和云原生在企业的落地。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用 Kubernetes 和 Istio 构建大规模集群带来的挑战和解决方案</title>
+    <updated>2021-01-18T12:11:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/RXCLjSfVcem2OJAsjBwZMA</id>
+    <link href="https://mp.weixin.qq.com/s/RXCLjSfVcem2OJAsjBwZMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>首届 IstioCon 演讲嘉宾招募中</title>
+    <updated>2021-01-18T12:11:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ZAoTjDpQP9h5vUyGZ-JbhQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZAoTjDpQP9h5vUyGZ-JbhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何调试 Istio 网络配置？</title>
     <updated>2021-01-11T17:10:52+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-04T12:52:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/ihuTT-ui6T-1c5UsCWfx5g</id>
     <link href="https://mp.weixin.qq.com/s/ihuTT-ui6T-1c5UsCWfx5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Istio 中的智能 DNS 代理功能</title>
-    <updated>2020-11-24T11:03:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-24:/s/iwRafmmO9QtdvG8wKiR3Jg</id>
-    <link href="https://mp.weixin.qq.com/s/iwRafmmO9QtdvG8wKiR3Jg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:58:25+08:00</updated>
+  <updated>2021-01-18T12:14:43+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>彻夜怒肝！Spring Boot+Sentinel+Nacos高并发已撸完，快要裂开了！</title>
+    <updated>2021-01-17T10:56:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/aqSxIw_p7MUXi7P56gvyLQ</id>
+    <link href="https://mp.weixin.qq.com/s/aqSxIw_p7MUXi7P56gvyLQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新来的妹纸问我 AJAX 请求为什么不安全？没有回答出来。。。</title>
+    <updated>2021-01-17T10:56:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/kAOX9wCH90FD1sIPmxUQSg</id>
+    <link href="https://mp.weixin.qq.com/s/kAOX9wCH90FD1sIPmxUQSg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>清晰！我们从来都反对“大中台，小前台”的架构设计！</title>
     <updated>2021-01-17T10:58:47+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2021-01-09T21:04:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/Keway7ExLfTNunZTACoxnA</id>
     <link href="https://mp.weixin.qq.com/s/Keway7ExLfTNunZTACoxnA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>API 分页设计与实现探讨</title>
-    <updated>2021-01-07T18:41:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ko4_rDq40o6WOFEWwEMQ-w</id>
-    <link href="https://mp.weixin.qq.com/s/ko4_rDq40o6WOFEWwEMQ-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

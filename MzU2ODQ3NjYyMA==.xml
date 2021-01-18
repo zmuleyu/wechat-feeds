@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大数据技术与数仓 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:58:27+08:00</updated>
+  <updated>2021-01-18T11:51:20+08:00</updated>
   <subtitle>专注分享数据仓库与大数据技术(Flink/Hadoop/Spark/Hive)相关内容。关注我可以免费领取大数据书籍与视频。我的博客:https://jiamaoxiang.top/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
-    <title>阿里P9：数仓实践，高质量SQL的几条建议！</title>
-    <updated>2021-01-13T19:47:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ddvmkBx7MEhqMxhbrAmjEQ</id>
-    <link href="https://mp.weixin.qq.com/s/ddvmkBx7MEhqMxhbrAmjEQ" rel="alternate"></link>
+    <title>跑分超 MySQL 801倍，这个实时分析数据库已成气候!!!</title>
+    <updated>2021-01-17T17:03:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/-kV8M0jUSsbpBa2M-qo8Bg</id>
+    <link href="https://mp.weixin.qq.com/s/-kV8M0jUSsbpBa2M-qo8Bg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Greenplum5.9生产环境集群部署</title>
+    <updated>2021-01-17T17:03:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/4LrW7V4Hru8DYFTHWQ1k2Q</id>
+    <link href="https://mp.weixin.qq.com/s/4LrW7V4Hru8DYFTHWQ1k2Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,13 +33,6 @@
     <updated>2021-01-12T21:06:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/Tb8GtabOVBvx88de0C4ncw</id>
     <link href="https://mp.weixin.qq.com/s/Tb8GtabOVBvx88de0C4ncw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘需求VS实际工作：Java工程师可能没你想的那么难！！！</title>
-    <updated>2021-01-10T20:48:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/CXxKVB8c8qH4Ie6ctWgffw</id>
-    <link href="https://mp.weixin.qq.com/s/CXxKVB8c8qH4Ie6ctWgffw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -103,13 +103,6 @@
     <updated>2020-12-15T21:12:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/iugYBIKdBRVd_NHpSeIwHQ</id>
     <link href="https://mp.weixin.qq.com/s/iugYBIKdBRVd_NHpSeIwHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink 使用 broadcast 实现维表或配置的实时更新</title>
-    <updated>2020-12-13T17:11:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/3aDKa0i4GrhtUSyvv_IJkw</id>
-    <link href="https://mp.weixin.qq.com/s/3aDKa0i4GrhtUSyvv_IJkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

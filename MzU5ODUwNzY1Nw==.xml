@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿飞的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:09:41+08:00</updated>
+  <updated>2021-01-18T12:11:58+08:00</updated>
   <subtitle>主要用来分享Java服务端相关的所有技术，坚持原创为主，已累计100+篇原创，包括但不限于：分布式&amp;微服务、JVM&amp;GC、Redis、索引&amp;分库分表、sharding-jdbc、kafka等，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构师别太高估自己！你只是团队的“引擎”而已……</title>
+    <updated>2021-01-18T08:20:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/nkcAuda9J-oRh_ZCKkKEZQ</id>
+    <link href="https://mp.weixin.qq.com/s/nkcAuda9J-oRh_ZCKkKEZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深度：Kafka 集群突破百万 partition 的技术探索</title>
     <updated>2021-01-15T09:01:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T08:16:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/Phb1awrLl7o1GP_L4cTnNg</id>
     <link href="https://mp.weixin.qq.com/s/Phb1awrLl7o1GP_L4cTnNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JDK 16 正式揭晓新特性！打工人：... ...</title>
-    <updated>2020-12-21T08:35:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/fxhSZV25jfmRP0xqeWLaOg</id>
-    <link href="https://mp.weixin.qq.com/s/fxhSZV25jfmRP0xqeWLaOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

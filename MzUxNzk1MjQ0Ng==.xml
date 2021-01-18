@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员成长指北 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:35:57+08:00</updated>
+  <updated>2021-01-18T11:59:15+08:00</updated>
   <subtitle>专注 Node.js 技术栈分享，从 前端 到 Node.js 再到 后端数据库，祝您成为优秀的高级 Node.js 全栈工程师。一个有趣的且乐于分享的人。座右铭：今天未完成的，明天更不会完成。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为免费培养2000名移动端开发者！</title>
+    <updated>2021-01-18T08:30:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/vkkj7Vg5E_hVmwj4EzCD2g</id>
+    <link href="https://mp.weixin.qq.com/s/vkkj7Vg5E_hVmwj4EzCD2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>几次重构代码-总结的一些JavaScript代码整洁清晰注意点</title>
+    <updated>2021-01-18T08:30:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/LGo6VIKogVPZw6MXn5MfHA</id>
+    <link href="https://mp.weixin.qq.com/s/LGo6VIKogVPZw6MXn5MfHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JavaScript 第四版红宝书真香，送 20 本！</title>
     <updated>2021-01-17T16:50:59+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-07T08:41:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/vo2FZ5-2NjH0xt98UXtYZQ</id>
     <link href="https://mp.weixin.qq.com/s/vo2FZ5-2NjH0xt98UXtYZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GraphQL 初体验，Node.js 构建 GraphQL API 指南</title>
-    <updated>2021-01-07T08:41:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7yXeG080QLpupFejNlSbFw</id>
-    <link href="https://mp.weixin.qq.com/s/7yXeG080QLpupFejNlSbFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue.js开发移动端经验总结</title>
-    <updated>2021-01-06T08:40:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/cT1s-KytLFIZeEPM78FGdg</id>
-    <link href="https://mp.weixin.qq.com/s/cT1s-KytLFIZeEPM78FGdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

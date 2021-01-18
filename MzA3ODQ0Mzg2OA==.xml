@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:06:27+08:00</updated>
+  <updated>2021-01-18T11:59:49+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不写代码搞定微服务架构改造，我信了你的邪...</title>
+    <updated>2021-01-17T22:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/PHGTSiK6OZzbnfuT-_kwsg</id>
+    <link href="https://mp.weixin.qq.com/s/PHGTSiK6OZzbnfuT-_kwsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么我们不用数据库生成 ID？</title>
+    <updated>2021-01-17T22:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/L2RkQlSVubR5cZKUlMRAww</id>
+    <link href="https://mp.weixin.qq.com/s/L2RkQlSVubR5cZKUlMRAww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>年薪百万北漂程序员后悔没创业，一女网友：楼主有女朋友吗！</title>
+    <updated>2021-01-17T22:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/71b0IJElj2OWvzCTAU2o4g</id>
+    <link href="https://mp.weixin.qq.com/s/71b0IJElj2OWvzCTAU2o4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！</title>
+    <updated>2021-01-17T22:31:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Xa6TiPZjUWO07gtqRcgbiA</id>
+    <link href="https://mp.weixin.qq.com/s/Xa6TiPZjUWO07gtqRcgbiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再送个几百块钱的机械键盘，写代码神器！免费包邮送到家！</title>
     <updated>2021-01-17T10:34:12+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-10T21:41:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/2zb5S0B9P2acYs7RtrMx5g</id>
     <link href="https://mp.weixin.qq.com/s/2zb5S0B9P2acYs7RtrMx5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>是什么让我放弃了restful api？了解清楚后我全面拥抱GraphQL</title>
-    <updated>2021-01-10T21:41:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xoipLc_ySMihN_PeiHUTsg</id>
-    <link href="https://mp.weixin.qq.com/s/xoipLc_ySMihN_PeiHUTsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#34;服务不可用&#34;怎么排查？讲了100遍还是记不住？</title>
-    <updated>2021-01-10T21:41:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/wMkaD6fbTQhRwuvrkc7IlA</id>
-    <link href="https://mp.weixin.qq.com/s/wMkaD6fbTQhRwuvrkc7IlA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Caffeine ！你简直太骚了！</title>
-    <updated>2021-01-10T21:41:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/CEk3gFJ_37h3yq4Zd1w1yg</id>
-    <link href="https://mp.weixin.qq.com/s/CEk3gFJ_37h3yq4Zd1w1yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 SpringBoot2 + MybatisPlus 的商城管理系统【源码开源】</title>
-    <updated>2021-01-10T13:28:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/je96DnCQ8zBsKuharPR3GQ</id>
-    <link href="https://mp.weixin.qq.com/s/je96DnCQ8zBsKuharPR3GQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP饭米粒 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:00:52+08:00</updated>
+  <updated>2021-01-18T12:01:51+08:00</updated>
   <subtitle>一群靠谱的人，愿为PHPer带来一些值得细细品味的精神食粮！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>原来 8 张图，就可以搞懂「零拷贝」了</title>
+    <updated>2021-01-18T10:09:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/DcrK8qz2wfmYiXWC8jOiYw</id>
+    <link href="https://mp.weixin.qq.com/s/DcrK8qz2wfmYiXWC8jOiYw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>几幅图，拿下  HTTPS</title>
     <updated>2021-01-10T11:34:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T09:29:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/0v5PRznQwzHDeau2lz-YGQ</id>
     <link href="https://mp.weixin.qq.com/s/0v5PRznQwzHDeau2lz-YGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>终于明白了，一文彻底理解I/O多路复用</title>
-    <updated>2020-12-21T10:02:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/vqZZpwk4CqejQcjBk0rDuQ</id>
-    <link href="https://mp.weixin.qq.com/s/vqZZpwk4CqejQcjBk0rDuQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

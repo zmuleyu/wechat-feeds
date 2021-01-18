@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>飞雪无情 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:40:33+08:00</updated>
+  <updated>2021-01-18T12:02:09+08:00</updated>
   <subtitle>30万字Go系列笔记作者，知乎Go语言专题最高赞回答，专注于Go语言技术分享布道。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面对996，酷爱 Go 语言的左耳朵耗子也是很刚了</title>
+    <updated>2021-01-17T22:06:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/JA4ofhWcCqA_9hUQ27B-Sg</id>
+    <link href="https://mp.weixin.qq.com/s/JA4ofhWcCqA_9hUQ27B-Sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于写Go语言专栏的经验之谈</title>
     <updated>2021-01-17T19:03:26+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-12-24T08:40:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/mp_LiLhgXjat6U_a1Fh7eA</id>
     <link href="https://mp.weixin.qq.com/s/mp_LiLhgXjat6U_a1Fh7eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>同步原语的基石</title>
-    <updated>2020-12-24T08:40:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/lkICqMhoNMZmcTAvXCpomA</id>
-    <link href="https://mp.weixin.qq.com/s/lkICqMhoNMZmcTAvXCpomA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

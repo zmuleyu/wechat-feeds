@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农约翰的沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:04:52+08:00</updated>
+  <updated>2021-01-18T12:06:17+08:00</updated>
   <subtitle>个人博客文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谈谈Spring中Lookup配置的使用与原理</title>
+    <updated>2021-01-17T21:24:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/gR3ku92RyRXSOArpeqCDDQ</id>
+    <link href="https://mp.weixin.qq.com/s/gR3ku92RyRXSOArpeqCDDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring中为什么要引入Lookup注解</title>
     <updated>2021-01-15T09:44:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-21T10:50:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-21:/s/eKeAd-Dl1LvfJPoV_paGgA</id>
     <link href="https://mp.weixin.qq.com/s/eKeAd-Dl1LvfJPoV_paGgA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring中Bean别名的使用与原理</title>
-    <updated>2020-11-20T22:27:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/Z1EscVd_a4TuHatfhttpZQ</id>
-    <link href="https://mp.weixin.qq.com/s/Z1EscVd_a4TuHatfhttpZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

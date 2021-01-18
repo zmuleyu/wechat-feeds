@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:31:35+08:00</updated>
+  <updated>2021-01-18T11:56:17+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分析了1000份大数据岗位要求，总结出这4点</title>
+    <updated>2021-01-18T08:35:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/axBoR-9R1btwlRApzdfbxQ</id>
+    <link href="https://mp.weixin.qq.com/s/axBoR-9R1btwlRApzdfbxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>大事！！Elasticsearch 和 Kibana 换开源协议了......</title>
+    <updated>2021-01-18T08:35:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/qCJx3sw-Om3y1JwRoCnDbQ</id>
+    <link href="https://mp.weixin.qq.com/s/qCJx3sw-Om3y1JwRoCnDbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深度：Kafka 集群突破百万 partition 的技术探索</title>
     <updated>2021-01-17T18:28:27+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-08T08:08:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/Idp9-upEbJNt9DKC24R5gg</id>
     <link href="https://mp.weixin.qq.com/s/Idp9-upEbJNt9DKC24R5gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​Flink 最佳实践——如何设置 Flink Job RestartStrategy（重启策略）？</title>
-    <updated>2021-01-07T08:50:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/mCyR_90HJ1m6_TNXpIvCdA</id>
-    <link href="https://mp.weixin.qq.com/s/mCyR_90HJ1m6_TNXpIvCdA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

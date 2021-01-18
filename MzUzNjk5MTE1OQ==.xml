@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端瓶子君 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:09:05+08:00</updated>
+  <updated>2021-01-18T12:01:13+08:00</updated>
   <subtitle>瓶子君，前端进阶算法活动发起者，致力于分享 webpack、nodejs、react、vue、小程序、前端工程化等！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>收好这份 Git 应急手册，关键时刻可保你一命</title>
+    <updated>2021-01-18T07:51:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/WHxLBzk01H698-0-h-ydUQ</id>
+    <link href="https://mp.weixin.qq.com/s/WHxLBzk01H698-0-h-ydUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一步一步手写完美符合PromiseA+规范的Promise</title>
+    <updated>2021-01-18T07:51:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/or_hjEdzvDmbKKlbCL9Fvg</id>
+    <link href="https://mp.weixin.qq.com/s/or_hjEdzvDmbKKlbCL9Fvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>监控、链路追踪、日志的区别，傻傻分不清？</title>
+    <updated>2021-01-18T07:51:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/BkLSs5VoxyrvMUh6beGipw</id>
+    <link href="https://mp.weixin.qq.com/s/BkLSs5VoxyrvMUh6beGipw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>来自字节大佬首发：基于Flutter的Hybrid Webview容器实践</title>
     <updated>2021-01-16T20:36:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T22:59:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/ZZfSM_TxdUI6Ns4EVZ2tCA</id>
     <link href="https://mp.weixin.qq.com/s/ZZfSM_TxdUI6Ns4EVZ2tCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新来的妹纸问我 AJAX 请求为什么不安全？没有回答出来。。。</title>
-    <updated>2021-01-09T19:33:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/VVbi7mFhGdsmom-kraq_bg</id>
-    <link href="https://mp.weixin.qq.com/s/VVbi7mFhGdsmom-kraq_bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GET 和 POST请求的本质区别是什么？</title>
-    <updated>2021-01-09T08:42:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/mmxSgjL5dZuV70c3ehYgGQ</id>
-    <link href="https://mp.weixin.qq.com/s/mmxSgjL5dZuV70c3ehYgGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何让你的代码评审人喜欢上你？</title>
-    <updated>2021-01-09T08:42:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/CLiW4nYOklEQANJHPNArxA</id>
-    <link href="https://mp.weixin.qq.com/s/CLiW4nYOklEQANJHPNArxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
