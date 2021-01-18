@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T02:34:27+08:00</updated>
+  <updated>2021-01-18T13:54:26+08:00</updated>
   <subtitle>码农的所思所悟，码农的百科全书，码农的知识星球。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新王者出世！这个数据库有点厉害，甚至碾压了Oracle！</title>
+    <updated>2021-01-17T23:06:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/hpJ_-p98BfPPcU92L1tRQQ</id>
+    <link href="https://mp.weixin.qq.com/s/hpJ_-p98BfPPcU92L1tRQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>多图证明，Java到底是值传递还是引用传递？</title>
+    <updated>2021-01-17T23:06:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/4EZbv7eB2kJUdhmCTlLp7w</id>
+    <link href="https://mp.weixin.qq.com/s/4EZbv7eB2kJUdhmCTlLp7w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为员工违规领夜宵被发现后，被罚冻薪降考评，终身不得领夜宵，HR：哪个员工上班健身，定性考勤造假</title>
     <updated>2021-01-17T22:51:54+08:00</updated>
@@ -71,13 +85,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>字节跳动扩招一万人？这也太香了！</title>
-    <updated>2021-01-11T19:41:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/-8CeMwsGdHCp1IW7TeHZLA</id>
-    <link href="https://mp.weixin.qq.com/s/-8CeMwsGdHCp1IW7TeHZLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>太赞了！滴滴开源了一套分布式ID的生成系统...</title>
     <updated>2021-01-11T19:41:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/5tsw3XW3p8X7gvWIAA5vhA</id>
@@ -103,13 +110,6 @@
     <updated>2021-01-09T17:04:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/fpSpRwdIEENo9OUqrmY5vQ</id>
     <link href="https://mp.weixin.qq.com/s/fpSpRwdIEENo9OUqrmY5vQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高性能 Nginx HTTPS 调优 - 如何为 HTTPS 提速 30%</title>
-    <updated>2021-01-07T20:38:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/juSYNagoB7fB7yNrtV7ilw</id>
-    <link href="https://mp.weixin.qq.com/s/juSYNagoB7fB7yNrtV7ilw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

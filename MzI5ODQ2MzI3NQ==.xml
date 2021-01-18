@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T13:49:24+08:00</updated>
+  <updated>2021-01-18T13:46:11+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不就是一个项目嘛，我三天就能完成！</title>
+    <updated>2021-01-17T22:14:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/gOiLOzrcP_fHGhuxaNTGlA</id>
+    <link href="https://mp.weixin.qq.com/s/gOiLOzrcP_fHGhuxaNTGlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>解读容器的 2020：寻找云原生的下一站</title>
+    <updated>2021-01-17T22:14:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-17:/s/DC3-23G_i4aSHUWIVZKpkg</id>
+    <link href="https://mp.weixin.qq.com/s/DC3-23G_i4aSHUWIVZKpkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动云原生：机器学习平台建设实践</title>
     <updated>2021-01-17T11:40:38+08:00</updated>
@@ -26,13 +40,6 @@
     <updated>2021-01-15T22:44:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/4vHeH3x1lshztODLzR-48Q</id>
     <link href="https://mp.weixin.qq.com/s/4vHeH3x1lshztODLzR-48Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>免费微信红包封面，抓紧领取，先到先得！</title>
-    <updated>2021-01-15T22:44:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/KArPe3BNFIlp7YA9uzb4xA</id>
-    <link href="https://mp.weixin.qq.com/s/KArPe3BNFIlp7YA9uzb4xA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -110,13 +117,6 @@
     <updated>2021-01-09T18:29:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/aYTYPdPtWLcXKrm9PGwloA</id>
     <link href="https://mp.weixin.qq.com/s/aYTYPdPtWLcXKrm9PGwloA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>应该监控哪些Kubernetes健康指标？</title>
-    <updated>2021-01-07T23:38:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/aDB0xwnu8wo4y8h9Rtd8_g</id>
-    <link href="https://mp.weixin.qq.com/s/aDB0xwnu8wo4y8h9Rtd8_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

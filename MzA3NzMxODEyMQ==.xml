@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android技术之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T07:59:33+08:00</updated>
+  <updated>2021-01-18T14:01:33+08:00</updated>
   <subtitle>主要分享Android相关技术文章、移动互联网的相关产品和资讯。关注你将学习到更多基础以及框架相关的知识，为您的工作助力！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>丢弃LayoutInspector，换个方式看UI</title>
+    <updated>2021-01-18T13:05:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/HJYpYYSpt9iGTS2f61BXKQ</id>
+    <link href="https://mp.weixin.qq.com/s/HJYpYYSpt9iGTS2f61BXKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>百度开源的 71 个项目，太牛逼了！</title>
+    <updated>2021-01-18T13:05:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/lweormL9YeC2cr99aXn8VQ</id>
+    <link href="https://mp.weixin.qq.com/s/lweormL9YeC2cr99aXn8VQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>踩坑之路：Activity执行finish以后onStop方法10s以后才调用</title>
     <updated>2021-01-14T14:38:36+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2020-12-21T10:15:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/YK7YSQJWVkhS8fhmFZ5pNg</id>
     <link href="https://mp.weixin.qq.com/s/YK7YSQJWVkhS8fhmFZ5pNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯开源的kotlin高性能组件！</title>
-    <updated>2020-12-16T21:14:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/_doEOtF0P95xbVKXQoXyXw</id>
-    <link href="https://mp.weixin.qq.com/s/_doEOtF0P95xbVKXQoXyXw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:06:46+08:00</updated>
+  <updated>2021-01-18T13:46:43+08:00</updated>
   <subtitle>定期分享机器学习领域原创文章，公众号内容涵盖了机器学习算法和python数据分析等文章，目前监督学习方法的文章应有尽有，非监督学习的原创文章一直在更新，欢迎机器学习爱好者和从业者的加入，互相学习，共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>哭了，导师说我论文不行，不让我毕业</title>
+    <updated>2021-01-18T11:46:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/akb_stDzHXubeCKWEzFDaQ</id>
+    <link href="https://mp.weixin.qq.com/s/akb_stDzHXubeCKWEzFDaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>清华大学《高级机器学习》课件和专家特邀报告(附pdf下载)</title>
+    <updated>2021-01-18T11:46:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/EJ4F_YwvaPyvMoKDB8MQxw</id>
+    <link href="https://mp.weixin.qq.com/s/EJ4F_YwvaPyvMoKDB8MQxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Docker 镜像优化：从 1.16GB 到 22.4MB</title>
+    <updated>2021-01-18T11:46:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/m7H2fPqwoxtkGVc1g-Yxlg</id>
+    <link href="https://mp.weixin.qq.com/s/m7H2fPqwoxtkGVc1g-Yxlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>各种Optimizer梯度下降优化算法回顾和总结</title>
     <updated>2021-01-17T10:40:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-17:/s/3_8Ihu3WT9b-h9OnI3BVUw</id>
     <link href="https://mp.weixin.qq.com/s/3_8Ihu3WT9b-h9OnI3BVUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>叼爆了！微信动态红包封面！</title>
-    <updated>2021-01-17T10:40:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/bIM83CJSj8BISnTF8vKmzg</id>
-    <link href="https://mp.weixin.qq.com/s/bIM83CJSj8BISnTF8vKmzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -33,13 +47,6 @@
     <updated>2021-01-15T23:22:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/x1McDa358kC0b-1sbXjUDA</id>
     <link href="https://mp.weixin.qq.com/s/x1McDa358kC0b-1sbXjUDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>送 60 本 宝藏书籍：数据分析、机器学习必看！</title>
-    <updated>2021-01-15T23:22:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/q9XusSNdiVXlUVQpfpPcyg</id>
-    <link href="https://mp.weixin.qq.com/s/q9XusSNdiVXlUVQpfpPcyg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -99,13 +106,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>西瓜书算法推导，理论，代码统统打包！完全吃透机器学习基础！</title>
-    <updated>2021-01-12T17:15:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yaPLRAX5oHORklGayQl66Q</id>
-    <link href="https://mp.weixin.qq.com/s/yaPLRAX5oHORklGayQl66Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>给OpenCV初学者的礼物——OpenCV人脸检测入门教程</title>
     <updated>2021-01-12T17:15:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/UM1lOHmVfkkb7iWGt729Cw</id>
@@ -117,13 +117,6 @@
     <updated>2021-01-12T17:15:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/cUEHZRutgCRBngciTNO3fQ</id>
     <link href="https://mp.weixin.qq.com/s/cUEHZRutgCRBngciTNO3fQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纠结pytorch, tensorflow, keras 一个月之后，我自己创造了一个神经网络框架</title>
-    <updated>2021-01-11T08:59:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Ev5Cgp2t50wRa9dVo8NqjQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ev5Cgp2t50wRa9dVo8NqjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -145,6 +138,13 @@
     <updated>2021-01-10T12:24:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/mZ_mgZjYEzl-TnALMSwFyw</id>
     <link href="https://mp.weixin.qq.com/s/mZ_mgZjYEzl-TnALMSwFyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来啦！机器学习画图神器来啦！</title>
+    <updated>2021-01-09T11:04:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-09:/s/0HeUvMp-FEkLpMmhtNz-CA</id>
+    <link href="https://mp.weixin.qq.com/s/0HeUvMp-FEkLpMmhtNz-CA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

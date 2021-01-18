@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爪哇笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:46:17+08:00</updated>
+  <updated>2021-01-18T13:53:39+08:00</updated>
   <subtitle>专注Java 16年 上通PHP 下通c++，聊生活，爱学习，做一个有温度的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>支付宝渠道商户正式上线公测，抢永久0服务费名额</title>
+    <updated>2021-01-18T13:28:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/C2Etfu85zQf04vecsqCQ5Q</id>
+    <link href="https://mp.weixin.qq.com/s/C2Etfu85zQf04vecsqCQ5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微信支付分账，就是这么简单！</title>
     <updated>2021-01-14T21:30:27+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-22T09:04:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/7o7FoA0BhKaFrrn82AEwjA</id>
     <link href="https://mp.weixin.qq.com/s/7o7FoA0BhKaFrrn82AEwjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1.3 万亿条数据查询，如何做到毫秒级响应？</title>
-    <updated>2020-12-17T13:18:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/0eoKxGJZrcFYzthOOeq_5w</id>
-    <link href="https://mp.weixin.qq.com/s/0eoKxGJZrcFYzthOOeq_5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

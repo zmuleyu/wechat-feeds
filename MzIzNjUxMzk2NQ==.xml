@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:01:35+08:00</updated>
+  <updated>2021-01-18T13:43:29+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>规避云服务宕机的架构设计方法</title>
+    <updated>2021-01-18T11:24:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/NGfuHET559yRRBT8u_MUww</id>
+    <link href="https://mp.weixin.qq.com/s/NGfuHET559yRRBT8u_MUww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5种常见的Docker Compose错误</title>
+    <updated>2021-01-18T11:24:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/IjWVfPJZTkAv-NPEjb1wbA</id>
+    <link href="https://mp.weixin.qq.com/s/IjWVfPJZTkAv-NPEjb1wbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>重磅! Elasticsearch 和 Kibana更改开源协议</title>
     <updated>2021-01-17T01:12:49+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2021-01-08T15:40:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/bCpx4AUaVJYag7EgwyYQAQ</id>
     <link href="https://mp.weixin.qq.com/s/bCpx4AUaVJYag7EgwyYQAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊微服务的通信模式</title>
-    <updated>2021-01-08T12:02:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/0QwUywzjsET0fjQK_P0djA</id>
-    <link href="https://mp.weixin.qq.com/s/0QwUywzjsET0fjQK_P0djA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021 年，这8种编程语言最流行</title>
-    <updated>2021-01-08T12:02:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ch6ItWvMLknBuY48tYGXIA</id>
-    <link href="https://mp.weixin.qq.com/s/ch6ItWvMLknBuY48tYGXIA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

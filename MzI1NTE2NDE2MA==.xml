@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cloud Native Community | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T13:42:25+08:00</updated>
+  <updated>2021-01-18T13:37:28+08:00</updated>
   <subtitle>云原生社区是一个企业中立的云原生终端用户社区，致力于推广云原生技术，构建开发者生态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用 Kubernetes 和 Istio 构建大规模集群带来的挑战和解决方案</title>
+    <updated>2021-01-18T10:59:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/RLjc_abzmm-WvG5LGw9fRw</id>
+    <link href="https://mp.weixin.qq.com/s/RLjc_abzmm-WvG5LGw9fRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020十大边缘计算开源项目</title>
     <updated>2021-01-14T11:21:35+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-29T17:40:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/BgdXUSKYWfrB4QYrSzVRdQ</id>
     <link href="https://mp.weixin.qq.com/s/BgdXUSKYWfrB4QYrSzVRdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Envoy SIG 年末总结暨官网翻译更新</title>
-    <updated>2020-12-28T15:22:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/TCFNnXZ9qPqCtzmIMmh1Pg</id>
-    <link href="https://mp.weixin.qq.com/s/TCFNnXZ9qPqCtzmIMmh1Pg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生社区 meetup 第二期北京站视频回放</title>
-    <updated>2020-12-28T15:22:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/VxldY6J1nuhBZkydRvzdFg</id>
-    <link href="https://mp.weixin.qq.com/s/VxldY6J1nuhBZkydRvzdFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

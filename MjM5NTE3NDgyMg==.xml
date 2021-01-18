@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微软中国MSDN | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T11:52:32+08:00</updated>
+  <updated>2021-01-18T13:40:37+08:00</updated>
   <subtitle>微软云Azure技术生态官方公众平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微软MVP精选 | 使用VS Code开发一款基于.NET Core和SQL数据库的Azure Function应用程序</title>
+    <updated>2021-01-18T12:15:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/XMLZx2CW82VPutvErDuf2Q</id>
+    <link href="https://mp.weixin.qq.com/s/XMLZx2CW82VPutvErDuf2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年首届.NET线下沙龙上海站 - 2021 .NET Meetup in Shanghai</title>
     <updated>2021-01-15T11:00:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T14:59:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/tKpjrtG-tAZPBvSf3LxWxA</id>
     <link href="https://mp.weixin.qq.com/s/tKpjrtG-tAZPBvSf3LxWxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>#Data Talk | 数据派生观点，实操畅谈体验</title>
-    <updated>2020-12-25T14:30:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/pof3rBbYcrA5K-reaY_zZg</id>
-    <link href="https://mp.weixin.qq.com/s/pof3rBbYcrA5K-reaY_zZg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
