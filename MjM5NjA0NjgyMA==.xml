@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:30:45+08:00</updated>
+  <updated>2021-01-18T20:31:19+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《2020企业安全威胁统一应对指南》即将发布 | FreeBuf咨询</title>
+    <updated>2021-01-18T19:20:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/u-5zfOktxoyqFalvAqYNIw</id>
+    <link href="https://mp.weixin.qq.com/s/u-5zfOktxoyqFalvAqYNIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我在CTFHub学习SSRF</title>
+    <updated>2021-01-18T19:20:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/6yJENaIHTHk5YzZarKZ2ew</id>
+    <link href="https://mp.weixin.qq.com/s/6yJENaIHTHk5YzZarKZ2ew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>就算有DES加密和session校验我也要进入你的心</title>
+    <updated>2021-01-18T19:20:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/i8BRIumgUG5Gab5Nv7mFaQ</id>
+    <link href="https://mp.weixin.qq.com/s/i8BRIumgUG5Gab5Nv7mFaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>VelVet病毒分析报告：针对韩国用户的iOS应用</title>
+    <updated>2021-01-18T19:20:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/lnReWXe8IFfpbD2XCyh3Lg</id>
+    <link href="https://mp.weixin.qq.com/s/lnReWXe8IFfpbD2XCyh3Lg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>聊聊Gartner 2021战略技术趋势——分布式云</title>
     <updated>2021-01-17T17:32:58+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-14T17:53:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/qiYQlMbt40fb92psBU2xtw</id>
     <link href="https://mp.weixin.qq.com/s/qiYQlMbt40fb92psBU2xtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于PDD员工发帖溯源联想到的相关技术与实现</title>
-    <updated>2021-01-13T15:19:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/coRsNLMT_FAr6xSHwPgOUg</id>
-    <link href="https://mp.weixin.qq.com/s/coRsNLMT_FAr6xSHwPgOUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>甲方安全人员必备的几个“救命”技能</title>
-    <updated>2021-01-13T15:19:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xy_Tcuo29Nzd2mohE9c3-Q</id>
-    <link href="https://mp.weixin.qq.com/s/xy_Tcuo29Nzd2mohE9c3-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Windows主机日志分析办法与思路</title>
-    <updated>2021-01-13T15:19:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/-aBO3xVqLYPEbkcIgLgkCA</id>
-    <link href="https://mp.weixin.qq.com/s/-aBO3xVqLYPEbkcIgLgkCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对Facebook进行安全测试之账户劫持实验</title>
-    <updated>2021-01-13T15:19:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/8FotAS0Ep4meUv7tlgbqnw</id>
-    <link href="https://mp.weixin.qq.com/s/8FotAS0Ep4meUv7tlgbqnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

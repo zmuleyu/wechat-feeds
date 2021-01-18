@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>脑子进煎鱼了 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T23:52:24+08:00</updated>
+  <updated>2021-01-18T20:51:18+08:00</updated>
   <subtitle>分享 Go 语言、微服务架构和各类奇怪的系统设计。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用 Go 实现一个分布式数据库？</title>
+    <updated>2021-01-18T15:50:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/l0vl2v1INk2nYkCL2xFRvw</id>
+    <link href="https://mp.weixin.qq.com/s/l0vl2v1INk2nYkCL2xFRvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>快报：正式提案将泛型特性加入 Go 语言</title>
     <updated>2021-01-13T21:51:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T23:51:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/p77V3_LkREuXPVLdebmmmQ</id>
     <link href="https://mp.weixin.qq.com/s/p77V3_LkREuXPVLdebmmmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万字长文 | 从实践到原理，带你参透 gRPC</title>
-    <updated>2020-12-13T23:48:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/o-K7G9ywCdmW7et6Q4WMeA</id>
-    <link href="https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

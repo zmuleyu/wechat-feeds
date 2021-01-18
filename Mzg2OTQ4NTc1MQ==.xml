@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T17:02:35+08:00</updated>
+  <updated>2021-01-18T20:54:09+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 8 中使用 异步流</title>
+    <updated>2021-01-18T17:32:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/w4RnqFGA5AEkVBLT67xGrg</id>
+    <link href="https://mp.weixin.qq.com/s/w4RnqFGA5AEkVBLT67xGrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>用 aforge.net 小试一下验证码识别</title>
+    <updated>2021-01-18T17:32:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/Xdai1YeESKgc4-YHUnEWEg</id>
+    <link href="https://mp.weixin.qq.com/s/Xdai1YeESKgc4-YHUnEWEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Exceptionless服务端本地化部署</title>
+    <updated>2021-01-18T17:32:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/Slaz1qQji7Pp71R7mXHSqw</id>
+    <link href="https://mp.weixin.qq.com/s/Slaz1qQji7Pp71R7mXHSqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 8 中使用 模式匹配</title>
     <updated>2021-01-17T16:35:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T11:56:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/fkWVdWC3_84NsLXeJtdCNw</id>
     <link href="https://mp.weixin.qq.com/s/fkWVdWC3_84NsLXeJtdCNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 Web Forms 中引入依赖注入机制</title>
-    <updated>2021-01-09T12:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/vjr5M674jaTTvUBmhUgHig</id>
-    <link href="https://mp.weixin.qq.com/s/vjr5M674jaTTvUBmhUgHig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Docker】Asp.net core在docker容器中的端口问题</title>
-    <updated>2021-01-09T12:28:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/A0m6_o7Raq199b-77yX2TA</id>
-    <link href="https://mp.weixin.qq.com/s/A0m6_o7Raq199b-77yX2TA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.Net Core 中使用 Swagger</title>
-    <updated>2021-01-07T00:00:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/NxaNhSZYf9IHW_PWmMGPYw</id>
-    <link href="https://mp.weixin.qq.com/s/NxaNhSZYf9IHW_PWmMGPYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

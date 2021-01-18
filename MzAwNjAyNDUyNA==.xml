@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>播客一下 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:53:07+08:00</updated>
+  <updated>2021-01-18T20:46:25+08:00</updated>
   <subtitle>领先的数字音频初创企业JustPod旗下公众号，探索中文播客的更多可能。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>寻找披萨</title>
+    <updated>2021-01-18T20:00:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/nfZe2qfXmPLLYYovdO8Vow</id>
+    <link href="https://mp.weixin.qq.com/s/nfZe2qfXmPLLYYovdO8Vow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>传苹果播客计划推出付费订阅服务 | 播客现场Vol.56</title>
     <updated>2021-01-16T20:00:08+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-02T17:16:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/CJFBp7XutOogFOQF07U5nQ</id>
     <link href="https://mp.weixin.qq.com/s/CJFBp7XutOogFOQF07U5nQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不如跳舞</title>
-    <updated>2020-12-31T17:01:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/Khz3fytbruxSI3fhDwpWFA</id>
-    <link href="https://mp.weixin.qq.com/s/Khz3fytbruxSI3fhDwpWFA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

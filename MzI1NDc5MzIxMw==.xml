@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>58技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:51:51+08:00</updated>
+  <updated>2021-01-18T20:51:36+08:00</updated>
   <subtitle>58官方技术号，58技术创新、分享与交流平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>营销自动化系统设计与实现</title>
+    <updated>2021-01-18T18:27:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/nQywI6a2mzbupWAvu1W9_Q</id>
+    <link href="https://mp.weixin.qq.com/s/nQywI6a2mzbupWAvu1W9_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>文本预训练模型在信息安全场景的探索和实践</title>
     <updated>2021-01-15T18:29:50+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T16:21:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/OUVLyMschMX4anfbOFkY6Q</id>
     <link href="https://mp.weixin.qq.com/s/OUVLyMschMX4anfbOFkY6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于一种改进的Wide&amp;Deep 文本分类在用户身份识别上的实践</title>
-    <updated>2020-12-25T17:39:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/rAxQhqFLUJn2gNAaFYqyTg</id>
-    <link href="https://mp.weixin.qq.com/s/rAxQhqFLUJn2gNAaFYqyTg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

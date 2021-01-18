@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:46:17+08:00</updated>
+  <updated>2021-01-18T20:46:17+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>周一见 | terraform-cdk v0.1.0、Sonobuoy v0.20 发布，最佳 K8s 日志管理工具</title>
+    <updated>2021-01-18T18:25:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/4dgJUc68b8XIIiWa58Q1oQ</id>
+    <link href="https://mp.weixin.qq.com/s/4dgJUc68b8XIIiWa58Q1oQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>解读容器的 2020：寻找云原生的下一站</title>
     <updated>2021-01-15T18:18:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T18:08:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/YiMnsFpcnIEpfrgcX_GyrQ</id>
     <link href="https://mp.weixin.qq.com/s/YiMnsFpcnIEpfrgcX_GyrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>周一见 | Docker v20.10.0、Lens v4.0 正式发布，K8s v1.21 影子发布团队招募</title>
-    <updated>2020-12-21T18:16:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/_RAu_thZvd1Mrwe9LkTBnA</id>
-    <link href="https://mp.weixin.qq.com/s/_RAu_thZvd1Mrwe9LkTBnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

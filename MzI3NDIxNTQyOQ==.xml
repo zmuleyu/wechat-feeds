@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PingCAP | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:47:33+08:00</updated>
+  <updated>2021-01-18T20:42:47+08:00</updated>
   <subtitle>PingCAP 专注于新型分布式数据库的研发，是知名开源数据库 TiDB（GitHub 总计 18000+ stars）背后的团队，总部设在北京，是国内开源的新型分布式关系型数据库公司、国内领先的大数据技术和解决方案提供商。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TiDB Hackathon 2020 回顾 | 全球联动，创意无限</title>
+    <updated>2021-01-18T17:45:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/hLORde4XjlIBuaSd-FdXsQ</id>
+    <link href="https://mp.weixin.qq.com/s/hLORde4XjlIBuaSd-FdXsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TiDB Hackathon 2020 巅峰之战于今日正式打响，活动现场在以往北京、上海和广州三地的基础上，增加成都和杭州两个城市，同时，来自美国、新加坡和印度等海外战队也将在线上同场竞技。让我们拭目以待，一次见证极客们的奇思妙想吧~Happy Hacking！！</title>
     <updated>2021-01-16T18:40:59+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2021-01-04T16:42:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/xSWzAbfUhxsg7MqwF24d1w</id>
     <link href="https://mp.weixin.qq.com/s/xSWzAbfUhxsg7MqwF24d1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PingCAP 2020 年度报告｜相信开放的力量</title>
-    <updated>2020-12-31T19:35:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/rZycxnMSEHzI5rOLSlaSfQ</id>
-    <link href="https://mp.weixin.qq.com/s/rZycxnMSEHzI5rOLSlaSfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ti 星球 12 月电台 | 金融科技产品创新奖、TiDB 通过信通院评测、TiDB Hackathon 2020...</title>
-    <updated>2020-12-31T19:35:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/N5TJoNQr7ShUTRUptYQmEQ</id>
-    <link href="https://mp.weixin.qq.com/s/N5TJoNQr7ShUTRUptYQmEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

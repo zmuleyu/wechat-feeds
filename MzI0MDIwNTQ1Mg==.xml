@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端全栈开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T11:55:18+08:00</updated>
+  <updated>2021-01-18T20:37:13+08:00</updated>
   <subtitle>专注分享国内外前端技术、Web全栈开发技术精选文章，大前端技术资讯、优质教程、工具资源等，助力开发者成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Github Actions还是Jenkins？该怎么选？</title>
+    <updated>2021-01-18T16:49:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ZFXsDZYiTnEaxl4Rl9EcFQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZFXsDZYiTnEaxl4Rl9EcFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>世界上第一个可用于React、Vue、纯HTML和CSS的可组合CSS动画工具包— AnimXYZ</title>
     <updated>2021-01-12T00:34:09+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-21T22:30:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/GmhwPCcq6hyxg0IoTiY0Dw</id>
     <link href="https://mp.weixin.qq.com/s/GmhwPCcq6hyxg0IoTiY0Dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在React应用中实现“使用GitHub登录”</title>
-    <updated>2020-12-19T00:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/PJm8_ncmzVnoSQ-h20kG6w</id>
-    <link href="https://mp.weixin.qq.com/s/PJm8_ncmzVnoSQ-h20kG6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>疯传！某大厂P8面试题库遭到泄露！</title>
-    <updated>2020-12-19T00:40:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/_JqH-NuiBNzpRGZzNfXeig</id>
-    <link href="https://mp.weixin.qq.com/s/_JqH-NuiBNzpRGZzNfXeig" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

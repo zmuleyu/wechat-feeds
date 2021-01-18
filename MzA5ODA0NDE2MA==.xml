@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:18:28+08:00</updated>
+  <updated>2021-01-18T20:46:11+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Apache Flink CVE-2020-17518/17519 漏洞分析</title>
+    <updated>2021-01-18T17:29:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ZUkYrKiYIYotH5U_86czxw</id>
+    <link href="https://mp.weixin.qq.com/s/ZUkYrKiYIYotH5U_86czxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>招聘 | 重庆公安信息安全岗</title>
+    <updated>2021-01-18T17:29:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/9MVjWJA1Gx9qcc8HOAubig</id>
+    <link href="https://mp.weixin.qq.com/s/9MVjWJA1Gx9qcc8HOAubig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>垂死挣扎？拯救你的Meterpreter session</title>
+    <updated>2021-01-18T17:29:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/KQw88l24wtQXUFm6xmGK7A</id>
+    <link href="https://mp.weixin.qq.com/s/KQw88l24wtQXUFm6xmGK7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SolarLeaks网站声称将出售SolarWinds攻击中的被盗数据</title>
     <updated>2021-01-16T00:56:33+08:00</updated>
@@ -117,27 +138,6 @@
     <updated>2021-01-08T20:06:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/siM6e3FRKTSAYS8-Lb6pxw</id>
     <link href="https://mp.weixin.qq.com/s/siM6e3FRKTSAYS8-Lb6pxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apache Flink 多个漏洞分析</title>
-    <updated>2021-01-08T18:39:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/RN-cr1wT-5_xwnkZgwa5gg</id>
-    <link href="https://mp.weixin.qq.com/s/RN-cr1wT-5_xwnkZgwa5gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅析开源蜜罐识别与全网测绘</title>
-    <updated>2021-01-08T18:39:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/ll-vIoPhBMxYVTKm3UJ8lQ</id>
-    <link href="https://mp.weixin.qq.com/s/ll-vIoPhBMxYVTKm3UJ8lQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | 贝壳找房安全和风险中心（上）</title>
-    <updated>2021-01-08T18:39:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/JBNsLU4Uftsqk1B_njhjFg</id>
-    <link href="https://mp.weixin.qq.com/s/JBNsLU4Uftsqk1B_njhjFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

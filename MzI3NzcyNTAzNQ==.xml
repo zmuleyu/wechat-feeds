@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Netwarps | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T13:43:14+08:00</updated>
+  <updated>2021-01-18T20:26:50+08:00</updated>
   <subtitle>互联网安全存储基础设施提供商</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>libp2p-rs kad 使用及调试方法</title>
+    <updated>2021-01-18T16:27:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/WjE8Ch3yC8WdS4tWdL65vA</id>
+    <link href="https://mp.weixin.qq.com/s/WjE8Ch3yC8WdS4tWdL65vA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>libp2p-rs v0.2.0 发布</title>
     <updated>2021-01-14T12:29:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T16:19:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/1DhQGduyF7X5CAXVSo4Vow</id>
     <link href="https://mp.weixin.qq.com/s/1DhQGduyF7X5CAXVSo4Vow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>libp2p-rs 关于监测指标的实现</title>
-    <updated>2020-11-19T17:17:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/viGTO7C1yzWDrOYrQQhCbw</id>
-    <link href="https://mp.weixin.qq.com/s/viGTO7C1yzWDrOYrQQhCbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

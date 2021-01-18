@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T23:35:48+08:00</updated>
+  <updated>2021-01-18T20:41:36+08:00</updated>
   <subtitle>云原生技术交流阵地，汇聚云原生最新技术资讯、文章、活动，以及云原生产品及用户最佳实践内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>K8s 平台可以如何处理 Pod 预授权问题</title>
+    <updated>2021-01-18T17:42:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/a0S3c4M8cf9g12hzfd0hjg</id>
+    <link href="https://mp.weixin.qq.com/s/a0S3c4M8cf9g12hzfd0hjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文读懂 Kubernetes APIServer 原理</title>
     <updated>2021-01-15T20:38:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T19:25:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/hJ8gIXzZlTBVOkRoUGybug</id>
     <link href="https://mp.weixin.qq.com/s/hJ8gIXzZlTBVOkRoUGybug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云上视频业务基于边缘容器的技术实践</title>
-    <updated>2020-12-30T18:42:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/JO7dm4SXHRDcCm1GkJddEg</id>
-    <link href="https://mp.weixin.qq.com/s/JO7dm4SXHRDcCm1GkJddEg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>声网Agora | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:48:45+08:00</updated>
+  <updated>2021-01-18T20:49:02+08:00</updated>
   <subtitle>声网Agora成立于2013年，是全球实时互动云行业开创者。声网Agora为开发者提供简单易用、高度可定制和广泛兼容的API。开发者无需研发或构建底层基础设施，只需调用API即可在应用内构建多种实时音视频互动场景。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这份“声网文档”问卷调查，将关系到你的开发体验</title>
+    <updated>2021-01-18T15:01:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/pYeOGdD5nzwXB65ldK5VZQ</id>
+    <link href="https://mp.weixin.qq.com/s/pYeOGdD5nzwXB65ldK5VZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>疫情反复，声网如何助力青岛教育局保障线上教学体验？</title>
     <updated>2021-01-15T18:16:11+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-23T17:55:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/0nNmPuZ-eRM3FThFogEI8g</id>
     <link href="https://mp.weixin.qq.com/s/0nNmPuZ-eRM3FThFogEI8g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>让游戏聊天消息、信令控制更实时、可靠，声网实时消息 RTM SDK Unity版上线</title>
-    <updated>2020-12-17T18:35:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/FYtq2pFjofhW5YcUTbsREA</id>
-    <link href="https://mp.weixin.qq.com/s/FYtq2pFjofhW5YcUTbsREA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:09:26+08:00</updated>
+  <updated>2021-01-18T20:37:59+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式事务，毁了我的大厂梦，无数人却以为它很简单…</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/QZMPi3E6MjesbFORphTWZQ</id>
+    <link href="https://mp.weixin.qq.com/s/QZMPi3E6MjesbFORphTWZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>公司高层要我转Java 我直接邮件回怼...</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/HvoUc_CKaNMkL0Fls-Bm-A</id>
+    <link href="https://mp.weixin.qq.com/s/HvoUc_CKaNMkL0Fls-Bm-A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 C# 9 的records作为强类型ID - 路由和查询参数</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/0wLcOPVL4orqA9jtNkMhfg</id>
+    <link href="https://mp.weixin.qq.com/s/0wLcOPVL4orqA9jtNkMhfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入浅出Dotnet Core的项目结构变化</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/d5FV1fxCcDhcWktaAZ5J7g</id>
+    <link href="https://mp.weixin.qq.com/s/d5FV1fxCcDhcWktaAZ5J7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET 中 async 和 await</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/l_1hxY8FCaeNP1gsHNXDrA</id>
+    <link href="https://mp.weixin.qq.com/s/l_1hxY8FCaeNP1gsHNXDrA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐：Dapper扩展-Dapper.SimpleCRUD</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/PT_cu_rvC4VUcCkTaqWT6A</id>
+    <link href="https://mp.weixin.qq.com/s/PT_cu_rvC4VUcCkTaqWT6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.netcore 极速接入第三方登录</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/Wk0X1G9huCA62Mr6owqbLg</id>
+    <link href="https://mp.weixin.qq.com/s/Wk0X1G9huCA62Mr6owqbLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>年轻有为的老黄2020</title>
+    <updated>2021-01-18T15:31:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/a4J7StuJulImk0gZTXZTkw</id>
+    <link href="https://mp.weixin.qq.com/s/a4J7StuJulImk0gZTXZTkw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈.NET技术公司的实习生培养</title>
     <updated>2021-01-16T15:05:50+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-15T19:54:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/ljoR4klo0A_V9rRSQrD9jQ</id>
     <link href="https://mp.weixin.qq.com/s/ljoR4klo0A_V9rRSQrD9jQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>依赖倒置在.NET中</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/l20hbY1_Lf52Nd2HOGxAtw</id>
-    <link href="https://mp.weixin.qq.com/s/l20hbY1_Lf52Nd2HOGxAtw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>跟我一起学Redis之加个哨兵让主从复制更加高可用</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/O-uAlbpjj3yaEwOPPTHu7g</id>
-    <link href="https://mp.weixin.qq.com/s/O-uAlbpjj3yaEwOPPTHu7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Avalonia 开发 UOS 原生应用</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Ux8ZkzH4CnqXR3raZC2Ryw</id>
-    <link href="https://mp.weixin.qq.com/s/Ux8ZkzH4CnqXR3raZC2Ryw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>晋升新一线的合肥，跨平台的.NET氛围究竟如何？</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/T6G2oC8PYW514Vlytd27_A</id>
-    <link href="https://mp.weixin.qq.com/s/T6G2oC8PYW514Vlytd27_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【One by One系列】IdentityServer4（一）OAuth2.0与OpenID Connect 1.0</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/wlJufz2x-PSV3o8d0uW6sg</id>
-    <link href="https://mp.weixin.qq.com/s/wlJufz2x-PSV3o8d0uW6sg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【One by One系列】IdentityServer4（二）使用Client Credentials保护API资源</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/9Yrwdq3Dm1rvdZF0zbxYaw</id>
-    <link href="https://mp.weixin.qq.com/s/9Yrwdq3Dm1rvdZF0zbxYaw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【One by One系列】IdentityServer4（三）使用用户名和密码</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/rX69ve7oM1-qVfMLC7tfOg</id>
-    <link href="https://mp.weixin.qq.com/s/rX69ve7oM1-qVfMLC7tfOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源项目barcodelib-C＃条形码图像生成库</title>
-    <updated>2021-01-14T12:36:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/4xXqilBkrUTQClO6dmdltA</id>
-    <link href="https://mp.weixin.qq.com/s/4xXqilBkrUTQClO6dmdltA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

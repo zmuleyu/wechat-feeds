@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Golang语言开发栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T02:45:47+08:00</updated>
+  <updated>2021-01-18T20:52:16+08:00</updated>
   <subtitle>学习Go语言，和我一起吧。致力于golang技术教程分享。专注于go面试题，go标准库，go三方库，go框架，go orm，go 微服务，分布式，设计模式，数据结构与算法，RPC应用，数据中台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于分布式数据库，Gopher 们真的掌握了吗？</title>
+    <updated>2021-01-18T18:35:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/5O5M-o1oOo2JXAeTAIsLRw</id>
+    <link href="https://mp.weixin.qq.com/s/5O5M-o1oOo2JXAeTAIsLRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Golang 语言的 goroutine 调度器模型 GPM</title>
     <updated>2021-01-17T00:01:05+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T02:00:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/X4BDr_ANxiFT5MPdcL1Bhg</id>
     <link href="https://mp.weixin.qq.com/s/X4BDr_ANxiFT5MPdcL1Bhg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？</title>
-    <updated>2020-12-18T16:05:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/7B71pL7vH1PcmY00VbfG_g</id>
-    <link href="https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

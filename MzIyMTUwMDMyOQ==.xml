@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:25:30+08:00</updated>
+  <updated>2021-01-18T20:25:58+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分钟级应用交付，安信证券容器云平台的落地实践</title>
+    <updated>2021-01-18T19:29:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/seEblSNNVovyJ5p6_kHn1w</id>
+    <link href="https://mp.weixin.qq.com/s/seEblSNNVovyJ5p6_kHn1w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图文回顾及PPT下载丨「释放云的全部价值」技术沙龙</title>
+    <updated>2021-01-18T19:29:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/0BJ3XyhUZCq_-HBMiSlAMA</id>
+    <link href="https://mp.weixin.qq.com/s/0BJ3XyhUZCq_-HBMiSlAMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>明天见丨Rancher与SUSE邀你释放云的全部价值</title>
     <updated>2021-01-15T18:02:29+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-04T17:41:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/0pT3hZlwyFS-VieqEiROZw</id>
     <link href="https://mp.weixin.qq.com/s/0pT3hZlwyFS-VieqEiROZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rancher年终盘点丨历尽千帆，岁月可期</title>
-    <updated>2020-12-31T10:59:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/ACasRHO0TSjVTgOACtqy_A</id>
-    <link href="https://mp.weixin.qq.com/s/ACasRHO0TSjVTgOACtqy_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

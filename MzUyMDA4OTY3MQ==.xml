@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T14:11:19+08:00</updated>
+  <updated>2021-01-18T20:54:09+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SQL、NoSQL 到 NewSQL ，数据库到底选啥？</title>
+    <updated>2021-01-18T17:44:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/DuNApsrl53EU4Ttyxkck9w</id>
+    <link href="https://mp.weixin.qq.com/s/DuNApsrl53EU4Ttyxkck9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>醍醐灌顶 | 我们谈论的Exactly once到底是什么？</title>
     <updated>2021-01-17T12:06:02+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2021-01-09T09:36:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/AK5-oBset0jvrH6KleylEw</id>
     <link href="https://mp.weixin.qq.com/s/AK5-oBset0jvrH6KleylEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全面解析 52 条 SQL 语句性能优化策略，建议收藏！</title>
-    <updated>2021-01-08T08:53:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/7mb3txsewSyRNHhJXMeWxg</id>
-    <link href="https://mp.weixin.qq.com/s/7mb3txsewSyRNHhJXMeWxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>1024译站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T16:55:40+08:00</updated>
+  <updated>2021-01-18T20:54:14+08:00</updated>
   <subtitle>茶余饭后翻一翻，说不定又涨姿势了呢？1024 的世界，程序员最懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -26,13 +26,6 @@
     <updated>2021-01-13T08:31:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/lisKqnpBBzZdwxfTpFNZpw</id>
     <link href="https://mp.weixin.qq.com/s/lisKqnpBBzZdwxfTpFNZpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>前端框架这么火，还有必要学好原生 JavaScript 吗？</title>
-    <updated>2021-01-11T16:45:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/I1JI-mg9DSCRaFU_YRKiaA</id>
-    <link href="https://mp.weixin.qq.com/s/I1JI-mg9DSCRaFU_YRKiaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,6 +68,13 @@
     <updated>2020-12-31T18:41:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/5rJdjkVvIG1t-5YoQCTW0g</id>
     <link href="https://mp.weixin.qq.com/s/5rJdjkVvIG1t-5YoQCTW0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>多端多页面项目 Webpack 打包实践与优化</title>
+    <updated>2020-12-30T08:36:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-30:/s/wqz3j9i1xurRDiXYy5EeGQ</id>
+    <link href="https://mp.weixin.qq.com/s/wqz3j9i1xurRDiXYy5EeGQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

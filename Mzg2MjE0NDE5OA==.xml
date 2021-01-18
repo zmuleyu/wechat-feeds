@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:45:32+08:00</updated>
+  <updated>2021-01-18T20:45:21+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: 自举编译（bootstrappable builds）！</title>
+    <updated>2021-01-18T11:01:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/B4Kw2dieopE-k9aPuSyk0w</id>
+    <link href="https://mp.weixin.qq.com/s/B4Kw2dieopE-k9aPuSyk0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: 5.11 合并窗口，第二部分！</title>
     <updated>2021-01-15T17:56:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T16:50:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/-OREzoepv4-g86EZ_dpyHA</id>
     <link href="https://mp.weixin.qq.com/s/-OREzoepv4-g86EZ_dpyHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: GNU Octave发布新版本！</title>
-    <updated>2020-12-30T11:37:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/I88B0IRwinDv5SOUlWzcFw</id>
-    <link href="https://mp.weixin.qq.com/s/I88B0IRwinDv5SOUlWzcFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

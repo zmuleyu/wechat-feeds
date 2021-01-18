@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T11:55:16+08:00</updated>
+  <updated>2021-01-18T20:27:31+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三年叩门大厂血泪史，全因卡在分布式事务…</title>
+    <updated>2021-01-18T16:06:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ZsFi927ePAZGZPxX0ZLUsQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZsFi927ePAZGZPxX0ZLUsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET 使用结构体实现共用体</title>
+    <updated>2021-01-18T16:06:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/JJgf9HZ29S3hR7bqnDnxjw</id>
+    <link href="https://mp.weixin.qq.com/s/JJgf9HZ29S3hR7bqnDnxjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET 调整图片尺寸(Resize)各种方法</title>
     <updated>2021-01-17T10:54:32+08:00</updated>
@@ -110,20 +124,6 @@
     <updated>2021-01-09T11:07:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/XiTyvSTsomCp1D8-lqVXWQ</id>
     <link href="https://mp.weixin.qq.com/s/XiTyvSTsomCp1D8-lqVXWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年，这或许是你最容易把握住的高薪岗位</title>
-    <updated>2021-01-07T22:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/fl0QwANDUDD6myN8lz9Ecg</id>
-    <link href="https://mp.weixin.qq.com/s/fl0QwANDUDD6myN8lz9Ecg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用功能开关</title>
-    <updated>2021-01-07T22:54:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/3sMDTQu19NXEGCC-bpLM-w</id>
-    <link href="https://mp.weixin.qq.com/s/3sMDTQu19NXEGCC-bpLM-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

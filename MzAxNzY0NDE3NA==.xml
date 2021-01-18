@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>polarisxu | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T23:48:49+08:00</updated>
+  <updated>2021-01-18T20:51:08+08:00</updated>
   <subtitle>北京大学毕业；码农，创业者；Go语言中文网站长；著有《Go语言编程之旅》；爱 Go，也是 PHPer，还做过 Java；聊技术、聊职场、聊创业~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>掌握 Go 实现的 TiDB 这样的分布式数据库的原理</title>
+    <updated>2021-01-18T14:01:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/9JXEAjoFFQ-uoo_Z5_YeXQ</id>
+    <link href="https://mp.weixin.qq.com/s/9JXEAjoFFQ-uoo_Z5_YeXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>第 78 期周刊题目解析：答题正确率有点低</title>
+    <updated>2021-01-18T14:01:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/1FiX1WU6GDkZrFxC-b8k8Q</id>
+    <link href="https://mp.weixin.qq.com/s/1FiX1WU6GDkZrFxC-b8k8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>钉钉 6.0 发布会上提到的 Low-Code 是个什么鬼？</title>
     <updated>2021-01-16T21:06:31+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2020-12-31T16:58:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/ONc1gC4mshKyzzEq9Jmxtg</id>
     <link href="https://mp.weixin.qq.com/s/ONc1gC4mshKyzzEq9Jmxtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画：Go 布道师的“神秘”社区在召唤你</title>
-    <updated>2020-12-29T10:08:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/dyo1TBOkS4Sfql3TUTWWxw</id>
-    <link href="https://mp.weixin.qq.com/s/dyo1TBOkS4Sfql3TUTWWxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

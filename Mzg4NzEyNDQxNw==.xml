@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>明源技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:27:40+08:00</updated>
+  <updated>2021-01-18T20:28:02+08:00</updated>
   <subtitle>分享明源云开放平台的技术能力和价值，让技术为地产企业数字化转型赋能。期待您跟我们一起见证企业数字化技术的新未来。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Hybrid-APP技术原理</title>
+    <updated>2021-01-18T15:52:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/NJCf6YxbHDigJPA2DhiAYA</id>
+    <link href="https://mp.weixin.qq.com/s/NJCf6YxbHDigJPA2DhiAYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微前端架构在容器平台的应用</title>
     <updated>2021-01-11T17:15:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-17T17:45:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/JWkSRVgkCxLodACkl1ty1Q</id>
     <link href="https://mp.weixin.qq.com/s/JWkSRVgkCxLodACkl1ty1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go语言plugin的两种实现方式</title>
-    <updated>2020-11-10T18:29:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-10:/s/HF4hUAngNJVrDr1Xvn51tg</id>
-    <link href="https://mp.weixin.qq.com/s/HF4hUAngNJVrDr1Xvn51tg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

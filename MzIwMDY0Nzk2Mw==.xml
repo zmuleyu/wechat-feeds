@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>猿天地 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:07:18+08:00</updated>
+  <updated>2021-01-18T20:37:22+08:00</updated>
   <subtitle>猿天地由《Spring Cloud微服务-全栈技术与案例解析》, 《Spring Cloud微服务 入门 实战与进阶》作者尹吉欢创建。 资深Java技术专家和微服务技术专家，在Spring Cloud和微服务方面有丰富的经验。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>SQL、NoSQL 到 NewSQL ，数据库到底选啥？</title>
+    <updated>2021-01-18T17:14:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/_CpKmcsvUoKge2hIbiesrg</id>
+    <link href="https://mp.weixin.qq.com/s/_CpKmcsvUoKge2hIbiesrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>切记！MySQL中ORDER BY与LIMIT 不要一起用，有大坑</title>
+    <updated>2021-01-18T17:14:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/cR4tNcdP8kRov3kk73sxMg</id>
+    <link href="https://mp.weixin.qq.com/s/cR4tNcdP8kRov3kk73sxMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>无人机航拍记录生活真爽，包邮送一个！</title>
     <updated>2021-01-16T21:38:06+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-06T15:01:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/p6OqWMBuQraXuhTKyLXeUg</id>
     <link href="https://mp.weixin.qq.com/s/p6OqWMBuQraXuhTKyLXeUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么 @Value 可以获取配置中心的值？</title>
-    <updated>2021-01-05T21:56:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/hjkVi2acMf_ItlMPPsGP_g</id>
-    <link href="https://mp.weixin.qq.com/s/hjkVi2acMf_ItlMPPsGP_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
