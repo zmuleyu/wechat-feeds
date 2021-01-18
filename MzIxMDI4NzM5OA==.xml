@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Fliggy F2E | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T23:23:50+08:00</updated>
+  <updated>2021-01-18T23:31:51+08:00</updated>
   <subtitle>飞猪前端官方公众号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>潮流前端周刊（第18期）</title>
+    <updated>2021-01-18T22:30:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/pPWBcq5sxBfIT1dS5vfkag</id>
+    <link href="https://mp.weixin.qq.com/s/pPWBcq5sxBfIT1dS5vfkag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>潮流前端周刊（第 17 期）</title>
     <updated>2021-01-10T22:30:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-20T19:05:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/UOqFmTRKvUtnyAenov4MDw</id>
     <link href="https://mp.weixin.qq.com/s/UOqFmTRKvUtnyAenov4MDw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>潮流前端周刊（第 10 期）</title>
-    <updated>2020-11-16T00:42:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-16:/s/v51dW5y7uO56oQIQx_VOUg</id>
-    <link href="https://mp.weixin.qq.com/s/v51dW5y7uO56oQIQx_VOUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

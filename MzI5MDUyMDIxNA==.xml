@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T23:23:52+08:00</updated>
+  <updated>2021-01-18T23:34:19+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂Image matting（图像抠图）</title>
+    <updated>2021-01-18T21:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/7XA7m1jWZhi-YFhtXF2ofQ</id>
+    <link href="https://mp.weixin.qq.com/s/7XA7m1jWZhi-YFhtXF2ofQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解Transformer：Attention Is All You Need</title>
+    <updated>2021-01-18T21:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/mW8kn4eLtiG2ROVzFOG0mA</id>
+    <link href="https://mp.weixin.qq.com/s/mW8kn4eLtiG2ROVzFOG0mA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>综述｜无监督多类域适应：理论，算法与实践(TPAMI2020)</title>
+    <updated>2021-01-18T21:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/sE1zh6n5L7XZShlJs_g2Iw</id>
+    <link href="https://mp.weixin.qq.com/s/sE1zh6n5L7XZShlJs_g2Iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Jeff Dean万字长文：2020谷歌10大领域AI技术发展</title>
+    <updated>2021-01-18T21:56:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/5L8keqhn-HaQjHUpIWET2Q</id>
+    <link href="https://mp.weixin.qq.com/s/5L8keqhn-HaQjHUpIWET2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pytorch翻车记录：单卡改多卡踩坑记！</title>
     <updated>2021-01-17T22:07:30+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-14T22:00:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/EeYjbC36CcP8s88AEzab0w</id>
     <link href="https://mp.weixin.qq.com/s/EeYjbC36CcP8s88AEzab0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>形象易懂的傅里叶变换、短时傅里叶变换和小波变换</title>
-    <updated>2021-01-13T21:48:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/CRqhHIlYYRjYJ64PZZnUkQ</id>
-    <link href="https://mp.weixin.qq.com/s/CRqhHIlYYRjYJ64PZZnUkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>80GB医学影像数据集！OCTA-500公开发布</title>
-    <updated>2021-01-13T21:48:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/w1kEEZ1c9kKi2tNuky7VQQ</id>
-    <link href="https://mp.weixin.qq.com/s/w1kEEZ1c9kKi2tNuky7VQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>涨点Trick | 你还在用MaxPooling和AvgPooling？SoftPool带你起飞(附论文与源码下载​）</title>
-    <updated>2021-01-13T21:48:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/gkUOU_H6FpmD__-bzDsNuA</id>
-    <link href="https://mp.weixin.qq.com/s/gkUOU_H6FpmD__-bzDsNuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刚刚，ICLR 2021正式放榜：接收率上升，860篇论文创新高</title>
-    <updated>2021-01-13T21:48:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/374m-1fT9MARnHdW7-wTHQ</id>
-    <link href="https://mp.weixin.qq.com/s/374m-1fT9MARnHdW7-wTHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

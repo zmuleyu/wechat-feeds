@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T23:34:28+08:00</updated>
+  <updated>2021-01-18T23:42:18+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「数据架构」什么是实体关系图(ERD)?</title>
+    <updated>2021-01-18T21:21:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/A3YyIPHlbMe7sWqoxzsIRg</id>
+    <link href="https://mp.weixin.qq.com/s/A3YyIPHlbMe7sWqoxzsIRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「职业职位」什么是CIO?需要知道的关于首席信息官的一切解释</title>
+    <updated>2021-01-18T21:21:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/V1PBKuIgGg4f8hnTiQtwYg</id>
+    <link href="https://mp.weixin.qq.com/s/V1PBKuIgGg4f8hnTiQtwYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「数据架构」什么是数据流程图(DFD)?如何绘制DFD?</title>
     <updated>2021-01-17T21:34:03+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-09T21:38:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/5DHhkrKBQpfWY2tVtHoNTA</id>
     <link href="https://mp.weixin.qq.com/s/5DHhkrKBQpfWY2tVtHoNTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「职场职业」如何成为首席信息官：一张备忘单</title>
-    <updated>2021-01-09T21:38:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/LPnSrF8M7MJZHThTEDEMOA</id>
-    <link href="https://mp.weixin.qq.com/s/LPnSrF8M7MJZHThTEDEMOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「领域驱动设计」领域驱动设计中的上下文映射</title>
-    <updated>2021-01-08T19:27:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/PTFXU9G_8zG1eOtBehfV-A</id>
-    <link href="https://mp.weixin.qq.com/s/PTFXU9G_8zG1eOtBehfV-A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
