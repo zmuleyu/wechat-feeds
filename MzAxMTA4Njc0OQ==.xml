@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:12:30+08:00</updated>
+  <updated>2021-01-18T16:48:17+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 Go 实现一个分布式数据库需要掌握哪些知识？</title>
+    <updated>2021-01-18T15:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ZGJBMhuvGs_v2ji6n6YZAw</id>
+    <link href="https://mp.weixin.qq.com/s/ZGJBMhuvGs_v2ji6n6YZAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gopher 可能不知晓 epoll 是什么鬼？看看该文</title>
+    <updated>2021-01-18T15:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/f67G4qm7zzu4amscfCzpzA</id>
+    <link href="https://mp.weixin.qq.com/s/f67G4qm7zzu4amscfCzpzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>入门教程：花 5 分钟学习 Go 语言</title>
+    <updated>2021-01-18T15:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/vH60scwPKxzYDf1wmcvRJg</id>
+    <link href="https://mp.weixin.qq.com/s/vH60scwPKxzYDf1wmcvRJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go语言爱好者周刊：第 78 期 — 这道关于 goroutine 的题</title>
     <updated>2021-01-17T11:31:28+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T22:53:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/DtrJ7yXvSPnaOfyRklpThQ</id>
     <link href="https://mp.weixin.qq.com/s/DtrJ7yXvSPnaOfyRklpThQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>到底要刷多少道算法题面试才稳？</title>
-    <updated>2021-01-11T22:08:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ixGI83MCxTvDN_6biFP_TQ</id>
-    <link href="https://mp.weixin.qq.com/s/ixGI83MCxTvDN_6biFP_TQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学到了：goroutine 可能使程序变慢</title>
-    <updated>2021-01-11T22:08:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/aolQTL-VOvNqEicC95kYZw</id>
-    <link href="https://mp.weixin.qq.com/s/aolQTL-VOvNqEicC95kYZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Go 和 ReactJS 构建聊天系统（前言）</title>
-    <updated>2021-01-11T22:08:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/B3aj3GWE-WiiXfz3Xd3gzQ</id>
-    <link href="https://mp.weixin.qq.com/s/B3aj3GWE-WiiXfz3Xd3gzQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

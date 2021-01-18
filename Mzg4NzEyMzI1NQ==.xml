@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:36:52+08:00</updated>
+  <updated>2021-01-18T16:43:56+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>全云端开发体验！腾讯云发布Serverless云函数Web IDE</title>
+    <updated>2021-01-18T16:01:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/m9hlze8_lX0vRA6HRsJaPQ</id>
+    <link href="https://mp.weixin.qq.com/s/m9hlze8_lX0vRA6HRsJaPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Jenkins + Serverless Framework 助力无服务器应用构建与部署</title>
     <updated>2021-01-15T17:01:28+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2021-01-04T15:01:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/3HALrax5VjVR5o4mD9R6eA</id>
     <link href="https://mp.weixin.qq.com/s/3HALrax5VjVR5o4mD9R6eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯云 Serverless 云函数并发管理能力解读</title>
-    <updated>2020-12-30T17:51:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/bCbADa7KFsg9PuztZrnURw</id>
-    <link href="https://mp.weixin.qq.com/s/bCbADa7KFsg9PuztZrnURw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Serverless 开发者，新年快乐！</title>
-    <updated>2020-12-30T17:51:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/SItpNuf6epua_kSGYYk02g</id>
-    <link href="https://mp.weixin.qq.com/s/SItpNuf6epua_kSGYYk02g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

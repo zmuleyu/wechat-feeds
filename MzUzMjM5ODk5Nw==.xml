@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>即时通讯技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:29:21+08:00</updated>
+  <updated>2021-01-18T16:35:17+08:00</updated>
   <subtitle>坚持只发干货，鄙视公众号标题党。佛系技术，不关注拉倒，爱看不看。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从根上理解高性能、高并发(五)：深入操作系统，理解高并发中的协程</title>
+    <updated>2021-01-18T14:13:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/G65Nhsvf-lJM3_85e-nKTg</id>
+    <link href="https://mp.weixin.qq.com/s/G65Nhsvf-lJM3_85e-nKTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从根上理解高性能、高并发(四)：深入操作系统，彻底理解同步与异步</title>
     <updated>2021-01-11T17:27:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T11:57:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/_UDVrQm5WVe-QnsW6uVVpA</id>
     <link href="https://mp.weixin.qq.com/s/_UDVrQm5WVe-QnsW6uVVpA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>淘宝直播技术干货：高清、低延时的实时视频直播技术解密</title>
-    <updated>2020-11-17T13:54:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-17:/s/D5KGvccoYM9zjp0doFgpNQ</id>
-    <link href="https://mp.weixin.qq.com/s/D5KGvccoYM9zjp0doFgpNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
