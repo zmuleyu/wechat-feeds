@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉研究院 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:47:03+08:00</updated>
+  <updated>2021-01-19T02:37:43+08:00</updated>
   <subtitle>主要由来自于大学的研究生组成的团队，本平台从事机器学习与深度学习领域，主要在人脸检测与识别，多目标检测研究方向。本团队想通过计算机视觉战队平台打造属于自己的品牌，让更多相关领域的人了解本团队，结识更多相关领域的朋友，一起来学习，共同进步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货实践 | Anchor优化后在目标检测提升这么明显</title>
+    <updated>2021-01-18T22:53:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/TNQTdFf9s3ETPzE4dCtQdQ</id>
+    <link href="https://mp.weixin.qq.com/s/TNQTdFf9s3ETPzE4dCtQdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>优化实践 | 大改ShuffleNetV2网络，注意力机制，csp，卷积裁剪...（附全部开源代码）</title>
     <updated>2021-01-17T16:01:40+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-06T12:07:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/ZksZF-UPk7FVQd8yXsev4g</id>
     <link href="https://mp.weixin.qq.com/s/ZksZF-UPk7FVQd8yXsev4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | 优化器怎么选？计算机视觉研究院教你选择适合不同项目的优化器</title>
-    <updated>2021-01-05T22:29:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/EmKTdxm_nxzHuNir5jea8w</id>
-    <link href="https://mp.weixin.qq.com/s/EmKTdxm_nxzHuNir5jea8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

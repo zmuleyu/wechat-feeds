@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云祁QI | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T02:33:35+08:00</updated>
+  <updated>2021-01-19T02:23:45+08:00</updated>
   <subtitle>云祁，专注于数据中台及大数据技术分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大白话彻底搞懂HBase Rowkey设计和实现</title>
+    <updated>2021-01-18T20:43:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/edJrR6h_v2dbNUjv9aGSdg</id>
+    <link href="https://mp.weixin.qq.com/s/edJrR6h_v2dbNUjv9aGSdg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>全网最通俗易懂的HBase架构及原理</title>
     <updated>2021-01-13T23:43:23+08:00</updated>
@@ -82,27 +89,6 @@
     <updated>2020-12-06T13:36:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-06:/s/aMVEQTOz_GtRp6Jf8o8GyQ</id>
     <link href="https://mp.weixin.qq.com/s/aMVEQTOz_GtRp6Jf8o8GyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据中台交付专家告诉你，数据架构的分层怎样更加合理？</title>
-    <updated>2020-12-02T19:57:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/88a6AnSsqh1qMDELDi30qw</id>
-    <link href="https://mp.weixin.qq.com/s/88a6AnSsqh1qMDELDi30qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分享 | 聊聊大数据质量监控的那些事</title>
-    <updated>2020-12-02T19:57:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/lnaA4DRzc2CMvCqKSsyHEg</id>
-    <link href="https://mp.weixin.qq.com/s/lnaA4DRzc2CMvCqKSsyHEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数仓 | 几种SQL隐藏的错误，你遇到过吗？</title>
-    <updated>2020-12-02T19:57:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/-uMid9fJUKeNiHNCsB1JYA</id>
-    <link href="https://mp.weixin.qq.com/s/-uMid9fJUKeNiHNCsB1JYA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>肉眼品世界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T02:18:44+08:00</updated>
+  <updated>2021-01-19T02:21:59+08:00</updated>
   <subtitle>发现世界之美好,技术、产品、创业，预见与众不同的你</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>穷人的欢乐,在于&#34;完爆&#34;同一阶层的人</title>
+    <updated>2021-01-18T22:48:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/FwF8gbZ8z8wmfsJ940mtDw</id>
+    <link href="https://mp.weixin.qq.com/s/FwF8gbZ8z8wmfsJ940mtDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌董事长：我可以非常直接地说，互联网将消失！</title>
+    <updated>2021-01-18T22:48:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/khoId34bU7_gFfXCbJy9ag</id>
+    <link href="https://mp.weixin.qq.com/s/khoId34bU7_gFfXCbJy9ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务下的数据一致性的几种实现方式</title>
+    <updated>2021-01-18T22:48:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/RydynHqjVk5U107aEdoajw</id>
+    <link href="https://mp.weixin.qq.com/s/RydynHqjVk5U107aEdoajw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务下，接口性能优化的一些总结</title>
+    <updated>2021-01-18T22:48:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/nSmn7gICrOeMOXyBFi-c1g</id>
+    <link href="https://mp.weixin.qq.com/s/nSmn7gICrOeMOXyBFi-c1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go实现海量日志收集系统</title>
+    <updated>2021-01-18T22:48:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/JrPpBl13wjGPh1rCc0MtZw</id>
+    <link href="https://mp.weixin.qq.com/s/JrPpBl13wjGPh1rCc0MtZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MAC OS 在线降级全攻略来了，官方下载，亲测</title>
     <updated>2021-01-17T22:29:43+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-15T22:13:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/mbHIsRlzqHBcS-CUJNukpw</id>
     <link href="https://mp.weixin.qq.com/s/mbHIsRlzqHBcS-CUJNukpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于Java开发一套完整的区块链系统（附源码）</title>
-    <updated>2021-01-15T22:13:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/ACg4oxJWd9vCTRHR9Lrsdw</id>
-    <link href="https://mp.weixin.qq.com/s/ACg4oxJWd9vCTRHR9Lrsdw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>比勤奋更重要的，是底层思维</title>
-    <updated>2021-01-14T23:26:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/RUTR3NhJsw1H4Mw_byls3A</id>
-    <link href="https://mp.weixin.qq.com/s/RUTR3NhJsw1H4Mw_byls3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅显易懂的700页的机器学习笔记完整版（附下载）</title>
-    <updated>2021-01-14T23:26:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/G1GV63kZZXAzSR5sTeNXnw</id>
-    <link href="https://mp.weixin.qq.com/s/G1GV63kZZXAzSR5sTeNXnw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gradle最佳实践</title>
-    <updated>2021-01-14T23:26:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Ej_RNsN5vGUer8ApAW38MA</id>
-    <link href="https://mp.weixin.qq.com/s/Ej_RNsN5vGUer8ApAW38MA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于SSD的Kafka应用层缓存架构设计与实现</title>
-    <updated>2021-01-14T23:26:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/wYa_NLIKbJn6_XKi9DmXpw</id>
-    <link href="https://mp.weixin.qq.com/s/wYa_NLIKbJn6_XKi9DmXpw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
