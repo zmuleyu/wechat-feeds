@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:14:31+08:00</updated>
+  <updated>2021-01-19T12:19:16+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Nacos 惊爆安全漏洞，可绕过身份验证（附修复建议）</title>
+    <updated>2021-01-19T08:31:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/H7Q7nJcpYjz5N3ens8QzKg</id>
+    <link href="https://mp.weixin.qq.com/s/H7Q7nJcpYjz5N3ens8QzKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不满云厂商“白嫖”，Elasticsearch 和 Kibana更改开源协议</title>
+    <updated>2021-01-19T08:31:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/QEZQOXgZ0lMDk6N_CBeOgg</id>
+    <link href="https://mp.weixin.qq.com/s/QEZQOXgZ0lMDk6N_CBeOgg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试被吊打系列 - 事务隔离级别</title>
     <updated>2021-01-18T08:59:45+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2021-01-09T12:14:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/mrMX-1-0unJuCPkrYIt1vw</id>
     <link href="https://mp.weixin.qq.com/s/mrMX-1-0unJuCPkrYIt1vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试被吊打系列 - Redis缓存血崩</title>
-    <updated>2021-01-08T08:56:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/lJIbSv4qq8wq_pMwiNQlBw</id>
-    <link href="https://mp.weixin.qq.com/s/lJIbSv4qq8wq_pMwiNQlBw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java项目权威排名-结果出乎你意料</title>
-    <updated>2021-01-08T08:56:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/N0ol3w333WmuPU4ECbM8pw</id>
-    <link href="https://mp.weixin.qq.com/s/N0ol3w333WmuPU4ECbM8pw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

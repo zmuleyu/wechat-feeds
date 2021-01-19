@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Garnett的Java之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T23:57:27+08:00</updated>
+  <updated>2021-01-19T12:20:48+08:00</updated>
   <subtitle>目前在某互联网公司架构开发，不断分享Spring全家桶、微服务、MySQL、集群、分布式、中间件、Linux、网络、多线程，DevOps、Docker，云计算等技术干货，致力于Java开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊下一代监控：Prometheus</title>
+    <updated>2021-01-19T08:52:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/-gcBOgcowP3CQfXproEcug</id>
+    <link href="https://mp.weixin.qq.com/s/-gcBOgcowP3CQfXproEcug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>设计模式系列| 抽象工厂模式</title>
     <updated>2021-01-14T11:32:16+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-19T10:54:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/PIpnWx7Hitb4zUNuJySOAg</id>
     <link href="https://mp.weixin.qq.com/s/PIpnWx7Hitb4zUNuJySOAg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Netty系列| 3张脑图360°无死角带你看透IO</title>
-    <updated>2020-12-14T11:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-14:/s/e7SiBS1yMfVJ86dUlOtv-Q</id>
-    <link href="https://mp.weixin.qq.com/s/e7SiBS1yMfVJ86dUlOtv-Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

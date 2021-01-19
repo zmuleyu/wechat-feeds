@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python爬虫与数据挖掘 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:04:24+08:00</updated>
+  <updated>2021-01-19T12:07:27+08:00</updated>
   <subtitle>人生苦短，我用Python。该公众号专注于分享Python网络爬虫、数据挖掘、数据分析、数据处理、数据可视化、自动化测试、运维、大数据、人工智能、云计算、机器学习等工具资源、热点资讯、相关技术文章、学习视频和学习资料等，期待您的加入~~~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>手把手教你使用Django如何连接Mysql</title>
+    <updated>2021-01-18T12:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/nttS88RquA4geqVCUa8rqA</id>
+    <link href="https://mp.weixin.qq.com/s/nttS88RquA4geqVCUa8rqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python实用小技能，一个比一个高级！</title>
     <updated>2021-01-17T09:40:49+08:00</updated>
@@ -85,13 +92,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>一个阿里数据分析师的忠告：决定你工资上限的，是这件事</title>
-    <updated>2021-01-10T23:03:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/Brky2y9mWy8UNfAXefw7Jg</id>
-    <link href="https://mp.weixin.qq.com/s/Brky2y9mWy8UNfAXefw7Jg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>轻松识别文字，这款Python OCR库支持超过80种语言</title>
     <updated>2021-01-10T23:03:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/15HYCoxmM7STqzAxd5XigQ</id>
@@ -103,13 +103,6 @@
     <updated>2021-01-09T14:30:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/e_w-rZE3OimHHng_7JfRBA</id>
     <link href="https://mp.weixin.qq.com/s/e_w-rZE3OimHHng_7JfRBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手教你用自己训练的AI模型玩王者荣耀</title>
-    <updated>2021-01-09T13:08:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/x4pCazSwHa1dIf8f5j_cqw</id>
-    <link href="https://mp.weixin.qq.com/s/x4pCazSwHa1dIf8f5j_cqw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

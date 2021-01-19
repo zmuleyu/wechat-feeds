@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:53:07+08:00</updated>
+  <updated>2021-01-19T11:54:52+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>牛市真的来了，上班盯盘太累？这五个开源项目了解下！</title>
+    <updated>2021-01-18T22:06:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/VM3NzddQLBFORLHSWGMzBw</id>
+    <link href="https://mp.weixin.qq.com/s/VM3NzddQLBFORLHSWGMzBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SpringBoot单元测试保姆级教程，文末介绍Postman的基本使用</title>
+    <updated>2021-01-18T22:06:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/FoALunHKIF8Frby9viLt0g</id>
+    <link href="https://mp.weixin.qq.com/s/FoALunHKIF8Frby9viLt0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>API 接口规范</title>
+    <updated>2021-01-18T22:06:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/hL0K0WkzCA7PJPsoCgQB0g</id>
+    <link href="https://mp.weixin.qq.com/s/hL0K0WkzCA7PJPsoCgQB0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务不都是大厂在玩？中小型团队怎么应用？</title>
     <updated>2021-01-17T21:02:09+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-11T22:44:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/bXxy6meCl5WcEWPnP5G1tQ</id>
     <link href="https://mp.weixin.qq.com/s/bXxy6meCl5WcEWPnP5G1tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Bean复制的几种框架性能比较（BeanUtils、PropertyUtils、BeanCopier）</title>
-    <updated>2021-01-11T22:44:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Bzlaxr33ezm2AFeNHmCEqw</id>
-    <link href="https://mp.weixin.qq.com/s/Bzlaxr33ezm2AFeNHmCEqw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何保持json序列化的顺序性？</title>
-    <updated>2021-01-10T21:45:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JYwcubwNZMTJ3owMILu8jQ</id>
-    <link href="https://mp.weixin.qq.com/s/JYwcubwNZMTJ3owMILu8jQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java中的深浅拷贝问题你清楚吗？</title>
-    <updated>2021-01-10T21:45:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/GgB1LYFH01DGspX7g26mUw</id>
-    <link href="https://mp.weixin.qq.com/s/GgB1LYFH01DGspX7g26mUw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

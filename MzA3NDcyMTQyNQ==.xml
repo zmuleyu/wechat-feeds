@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Qunar技术沙龙 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T11:58:33+08:00</updated>
+  <updated>2021-01-19T12:01:04+08:00</updated>
   <subtitle>Qunar技术沙龙是去哪儿网工程师小伙伴以及业界小伙伴们的学习交流平台。我们会分享Qunar和业界最前沿的热门技术趋势和话题,为中高端技术同学提供一个自由的技术交流和学习分享平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>DDD as Code：如何用代码诠释领域驱动设计？</title>
+    <updated>2021-01-19T09:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/F_jiDwN_iASBJs49nhawAw</id>
+    <link href="https://mp.weixin.qq.com/s/F_jiDwN_iASBJs49nhawAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年度原创文章大汇总 第三辑</title>
     <updated>2021-01-13T11:27:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T17:14:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/AXOKcD-4TkNmRSj5rOaJ5A</id>
     <link href="https://mp.weixin.qq.com/s/AXOKcD-4TkNmRSj5rOaJ5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>去哪儿网 ReactNative 跨小程序多端方案介绍</title>
-    <updated>2020-12-16T17:44:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/RavDmjcGSFL6zDqSSpeO9Q</id>
-    <link href="https://mp.weixin.qq.com/s/RavDmjcGSFL6zDqSSpeO9Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

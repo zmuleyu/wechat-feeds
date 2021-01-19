@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:27:31+08:00</updated>
+  <updated>2021-01-19T12:24:44+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET Core 部署到 Linux(CentOS) 最全解决方案（常规篇）</title>
+    <updated>2021-01-19T11:01:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/3WVzKBJzS7rnHXIXjK4WJQ</id>
+    <link href="https://mp.weixin.qq.com/s/3WVzKBJzS7rnHXIXjK4WJQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>三年叩门大厂血泪史，全因卡在分布式事务…</title>
     <updated>2021-01-18T16:06:34+08:00</updated>
@@ -117,13 +124,6 @@
     <updated>2021-01-09T21:56:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/KrcsG-IA06ZeajTxj2HUaQ</id>
     <link href="https://mp.weixin.qq.com/s/KrcsG-IA06ZeajTxj2HUaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Excel 和 Math.Net 进行曲线拟合和数据预测</title>
-    <updated>2021-01-09T11:07:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/XiTyvSTsomCp1D8-lqVXWQ</id>
-    <link href="https://mp.weixin.qq.com/s/XiTyvSTsomCp1D8-lqVXWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

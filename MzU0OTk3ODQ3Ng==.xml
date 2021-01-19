@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:52:20+08:00</updated>
+  <updated>2021-01-19T11:55:13+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>废弃fastjson！大型项目迁移Gson保姆级实战</title>
+    <updated>2021-01-19T09:52:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/rabLm5yEcO-uroFu2jtIhg</id>
+    <link href="https://mp.weixin.qq.com/s/rabLm5yEcO-uroFu2jtIhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不懂Istio 架构原理，我被同事Diss了。</title>
     <updated>2021-01-18T09:30:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-07T11:00:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/KPixggwF00pj6IeRAD5ZAw</id>
     <link href="https://mp.weixin.qq.com/s/KPixggwF00pj6IeRAD5ZAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JAVA并发十二连招，你能接住吗？</title>
-    <updated>2021-01-06T11:29:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/wjGbXhOGtG_kB8vZm-ZJkQ</id>
-    <link href="https://mp.weixin.qq.com/s/wjGbXhOGtG_kB8vZm-ZJkQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

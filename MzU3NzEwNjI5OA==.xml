@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码与远方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:14:19+08:00</updated>
+  <updated>2021-01-19T12:19:38+08:00</updated>
   <subtitle>我们,除了代码还有诗和远方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10张图让你彻底理解回调函数</title>
+    <updated>2021-01-18T00:15:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/SBFX9pMj0_D4ABKZqf-bTA</id>
+    <link href="https://mp.weixin.qq.com/s/SBFX9pMj0_D4ABKZqf-bTA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次内存泄漏的解决</title>
     <updated>2021-01-18T09:25:51+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-10T00:15:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/AbuVTw-BwEdjb-QzvZyGmg</id>
     <link href="https://mp.weixin.qq.com/s/AbuVTw-BwEdjb-QzvZyGmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>并发编程--用SingleFlight合并重复请求</title>
-    <updated>2021-01-08T23:01:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bbxLCA6pK9TGMY4H1hGUrA</id>
-    <link href="https://mp.weixin.qq.com/s/bbxLCA6pK9TGMY4H1hGUrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

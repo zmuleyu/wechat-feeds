@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:58:46+08:00</updated>
+  <updated>2021-01-19T12:01:35+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Docker部署SpringBoot的两种方法，后一种一键部署超好用！</title>
+    <updated>2021-01-18T18:15:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/WU3HuBxbsraUo6qbMfKSKQ</id>
+    <link href="https://mp.weixin.qq.com/s/WU3HuBxbsraUo6qbMfKSKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文汇总 JDK 5 到 JDK 15 中的牛逼功能！</title>
     <updated>2021-01-17T22:10:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T16:37:54+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/roYuBDz_kShUd8UFYh39vg</id>
     <link href="https://mp.weixin.qq.com/s/roYuBDz_kShUd8UFYh39vg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot集成Google开源图片处理框架，贼好用！</title>
-    <updated>2021-01-03T20:52:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/rYq11QUgTZk-sq6vb79OqA</id>
-    <link href="https://mp.weixin.qq.com/s/rYq11QUgTZk-sq6vb79OqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

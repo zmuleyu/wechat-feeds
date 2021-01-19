@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>yes的练级攻略 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:55:45+08:00</updated>
+  <updated>2021-01-19T11:58:05+08:00</updated>
   <subtitle>用接地气的话来分享一些后端技术或写一些想写的。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL慌了！这个千亿级分库分表方法论，要火了？</title>
+    <updated>2021-01-18T20:03:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/VReL9sNMoW0Nf5egkgKmrw</id>
+    <link href="https://mp.weixin.qq.com/s/VReL9sNMoW0Nf5egkgKmrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从编程菜鸟，到进Google，再到自由职业，分享小争哥的逆袭之路</title>
     <updated>2021-01-17T14:20:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-27T11:00:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/pBnTr8U8gC26DO_9bG8BTQ</id>
     <link href="https://mp.weixin.qq.com/s/pBnTr8U8gC26DO_9bG8BTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RPC 核心，万变不离其宗</title>
-    <updated>2020-12-20T19:47:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/XrbnAcW7eFjMsIQy2W4_kQ</id>
-    <link href="https://mp.weixin.qq.com/s/XrbnAcW7eFjMsIQy2W4_kQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

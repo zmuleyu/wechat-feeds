@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>strongerHuang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:06:53+08:00</updated>
+  <updated>2021-01-19T12:09:32+08:00</updated>
   <subtitle>作者黄工，高级嵌入式软件工程师，CSDN博客专家，嵌入式领域知名个人公众号，分享嵌入式软硬件、物联网、人工智能、AIoT、半导体、单片机、开发工具、编程技术、行业资讯等相关内容（关注并回复“1024”查看更多精彩内容）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文读懂DSP C66x多核开发</title>
+    <updated>2021-01-19T10:28:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/EZTsRMcjSspprYrqnhI_Gg</id>
+    <link href="https://mp.weixin.qq.com/s/EZTsRMcjSspprYrqnhI_Gg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>剖析RS-485原理以及与其他总线的区别</title>
+    <updated>2021-01-19T10:28:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/pn5T8lap7lARLZmbz5CUYg</id>
+    <link href="https://mp.weixin.qq.com/s/pn5T8lap7lARLZmbz5CUYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何查询OS、CPU、内存、硬盘信息</title>
     <updated>2021-01-17T23:46:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-10T22:02:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/komsbGSHXc-mFTx9dD4cIQ</id>
     <link href="https://mp.weixin.qq.com/s/komsbGSHXc-mFTx9dD4cIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线程数：设多少最合理？</title>
-    <updated>2021-01-09T20:54:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/A0KS_U2BHcrWqpiKtegMkw</id>
-    <link href="https://mp.weixin.qq.com/s/A0KS_U2BHcrWqpiKtegMkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>站在汇编角度C++程序的条件判断语句</title>
-    <updated>2021-01-09T20:54:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/C7c8M2j1E2-2T5K98W2z0g</id>
-    <link href="https://mp.weixin.qq.com/s/C7c8M2j1E2-2T5K98W2z0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

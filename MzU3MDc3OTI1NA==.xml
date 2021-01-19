@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:02:28+08:00</updated>
+  <updated>2021-01-19T12:06:06+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>不写代码搞定微服务架构改造，我信了你的邪...</title>
+    <updated>2021-01-19T08:10:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/O7_KtIj9UgbIQj1M2yYabw</id>
+    <link href="https://mp.weixin.qq.com/s/O7_KtIj9UgbIQj1M2yYabw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有了这 4 款工具，老板再也不怕我写烂SQL了</title>
     <updated>2021-01-18T08:10:01+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-10T08:10:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/FYbU-FBGM55Me4pTw9VduQ</id>
     <link href="https://mp.weixin.qq.com/s/FYbU-FBGM55Me4pTw9VduQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员该如何把 Windows 系统打造的跟 Mac 一样牛逼？</title>
-    <updated>2021-01-09T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/kYU7BgLrwF3wV51avnF2eQ</id>
-    <link href="https://mp.weixin.qq.com/s/kYU7BgLrwF3wV51avnF2eQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:37:59+08:00</updated>
+  <updated>2021-01-19T12:05:00+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你可以不在 BAT，但不能没有大厂程序员的眼界</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/JXXH0bnc5K5hwbkwL9rCwA</id>
+    <link href="https://mp.weixin.qq.com/s/JXXH0bnc5K5hwbkwL9rCwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET 5 程序高级调试-WinDbg</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/T4DsLHE5EYms1Xuf4yevFg</id>
+    <link href="https://mp.weixin.qq.com/s/T4DsLHE5EYms1Xuf4yevFg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET斗鱼直播弹幕客户端(2021)</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/JXcFkBhzNYcC-pHbENBo4g</id>
+    <link href="https://mp.weixin.qq.com/s/JXcFkBhzNYcC-pHbENBo4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 C# 9 的records作为强类型ID - 路由和查询参数</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/GhwYDAd1_vSkpxuWonTyqg</id>
+    <link href="https://mp.weixin.qq.com/s/GhwYDAd1_vSkpxuWonTyqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ABP vnext模块化架构的最佳实践的实现</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/KFgsWv_Zy_UZd4R1-3ysww</id>
+    <link href="https://mp.weixin.qq.com/s/KFgsWv_Zy_UZd4R1-3ysww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 C# 8 中使用 模式匹配</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/k9T8uvAqVFBcYfATLK4NbA</id>
+    <link href="https://mp.weixin.qq.com/s/k9T8uvAqVFBcYfATLK4NbA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Exceptionless服务端本地化部署</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/qMOCe8zTOafuGz8Q4jIDcA</id>
+    <link href="https://mp.weixin.qq.com/s/qMOCe8zTOafuGz8Q4jIDcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>全球知名跨境电商，.Net软件工程师招聘，约么？</title>
+    <updated>2021-01-18T20:52:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/QfhNJfGz_clIsu0ucOcrBA</id>
+    <link href="https://mp.weixin.qq.com/s/QfhNJfGz_clIsu0ucOcrBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分布式事务，毁了我的大厂梦，无数人却以为它很简单…</title>
     <updated>2021-01-18T15:31:25+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-16T15:05:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-16:/s/HktQ_RlGVAlwShke1LD7qQ</id>
     <link href="https://mp.weixin.qq.com/s/HktQ_RlGVAlwShke1LD7qQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[C#.NET 拾遗补漏]14：使用结构体实现共用体</title>
-    <updated>2021-01-16T15:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/l5NSywdNRKAzKtov2LKtJQ</id>
-    <link href="https://mp.weixin.qq.com/s/l5NSywdNRKAzKtov2LKtJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软向Chromium贡献代码以优化浏览器滚动体验</title>
-    <updated>2021-01-16T15:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/KYAAUzgzDtqk6mWOhJ7sJg</id>
-    <link href="https://mp.weixin.qq.com/s/KYAAUzgzDtqk6mWOhJ7sJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年首届.NET线下沙龙上海站 - 2021 .NET Meetup in Shanghai</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/kTgpJy_gbSU4cIxc_ybjRw</id>
-    <link href="https://mp.weixin.qq.com/s/kTgpJy_gbSU4cIxc_ybjRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年了，`IEnumerator`、`IEnumerable`接口还傻傻分不清楚？</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/eviVdY8LbyeTkwS-gfH7ew</id>
-    <link href="https://mp.weixin.qq.com/s/eviVdY8LbyeTkwS-gfH7ew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>3个值得学习和练手的.net企业级开源项目，强烈推荐</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/1XEEp2ccKyL3Rde13HeElA</id>
-    <link href="https://mp.weixin.qq.com/s/1XEEp2ccKyL3Rde13HeElA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【One by One系列】IdentityServer4（四）授权码流程</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/sHNPfU4ik7b2wb50W46GxA</id>
-    <link href="https://mp.weixin.qq.com/s/sHNPfU4ik7b2wb50W46GxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.Net Core 中实现 健康检查</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/L-mcNz60v-BQKejgz7gbag</id>
-    <link href="https://mp.weixin.qq.com/s/L-mcNz60v-BQKejgz7gbag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生那些顶级开源项目，你都用过哪些？</title>
-    <updated>2021-01-15T19:54:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/ljoR4klo0A_V9rRSQrD9jQ</id>
-    <link href="https://mp.weixin.qq.com/s/ljoR4klo0A_V9rRSQrD9jQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

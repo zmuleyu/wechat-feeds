@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java3y | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:08:15+08:00</updated>
+  <updated>2021-01-19T12:11:04+08:00</updated>
   <subtitle>一个朴实无华且枯燥的程序员。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么全网都在劝你学Java、Python，而不是C++？</title>
+    <updated>2021-01-18T22:46:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/MJqTF_Xpm0pST6iGMCWljA</id>
+    <link href="https://mp.weixin.qq.com/s/MJqTF_Xpm0pST6iGMCWljA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>面试官：Mysql 中主库跑太快，从库追不上怎么整？</title>
+    <updated>2021-01-18T22:46:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/O0KkHz2pymHNtjN0Kh4AaQ</id>
+    <link href="https://mp.weixin.qq.com/s/O0KkHz2pymHNtjN0Kh4AaQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【对线面试官】AQS&amp;&amp;ReentrantLock</title>
     <updated>2021-01-17T20:36:27+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-09T16:56:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/rCTJDh3_WbEAbGLZdZiQzg</id>
     <link href="https://mp.weixin.qq.com/s/rCTJDh3_WbEAbGLZdZiQzg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【对线面试官】多线程基础</title>
-    <updated>2021-01-08T09:24:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/6pL9E8Pyh9uUdLeAIVxGLQ</id>
-    <link href="https://mp.weixin.qq.com/s/6pL9E8Pyh9uUdLeAIVxGLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

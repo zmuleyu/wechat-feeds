@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:14:43+08:00</updated>
+  <updated>2021-01-19T12:21:15+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试官问：ZooKeeper是强一致的吗？怎么实现的？</title>
+    <updated>2021-01-18T19:37:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/eoll-QyFlZH__DP7YNkomA</id>
+    <link href="https://mp.weixin.qq.com/s/eoll-QyFlZH__DP7YNkomA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>华为宣布：免费培养2000名大数据开发者！</title>
+    <updated>2021-01-18T19:37:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/WBdhNwz0kbKkFj6DP_F-Sw</id>
+    <link href="https://mp.weixin.qq.com/s/WBdhNwz0kbKkFj6DP_F-Sw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>彻夜怒肝！Spring Boot+Sentinel+Nacos高并发已撸完，快要裂开了！</title>
     <updated>2021-01-17T10:56:05+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2021-01-10T20:38:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/6MESpX_Yxx6I19ZWaWp57g</id>
     <link href="https://mp.weixin.qq.com/s/6MESpX_Yxx6I19ZWaWp57g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5分钟了解CDN 加速原理 | +新书推荐</title>
-    <updated>2021-01-09T21:04:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Keway7ExLfTNunZTACoxnA</id>
-    <link href="https://mp.weixin.qq.com/s/Keway7ExLfTNunZTACoxnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

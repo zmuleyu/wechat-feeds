@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:15:24+08:00</updated>
+  <updated>2021-01-19T12:21:11+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Falcosidekick + Kubeless = Kubernetes响应引擎</title>
+    <updated>2021-01-19T11:51:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/-Rw8dSJYed15_dj_H6JPfg</id>
+    <link href="https://mp.weixin.qq.com/s/-Rw8dSJYed15_dj_H6JPfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【今晚直播】OpenKruise | 阿里巴巴云原生应用安全防护实践与开源</title>
+    <updated>2021-01-19T11:51:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ajHyXoScY7FRl1YLyeYdSw</id>
+    <link href="https://mp.weixin.qq.com/s/ajHyXoScY7FRl1YLyeYdSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>K8s 平台可以如何处理 Pod 预授权问题</title>
+    <updated>2021-01-19T11:51:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Bbr1QTtDWMgZbvzaEz3f6Q</id>
+    <link href="https://mp.weixin.qq.com/s/Bbr1QTtDWMgZbvzaEz3f6Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TiDB Hackathon 2020 回顾 | 全球联动，创意无限</title>
+    <updated>2021-01-19T11:51:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/uEDBsUdZz-OIKeYTBtLABw</id>
+    <link href="https://mp.weixin.qq.com/s/uEDBsUdZz-OIKeYTBtLABw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>上车了！一文尽览Scheduling Framework 应用实践</title>
     <updated>2021-01-18T10:49:09+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-14T11:24:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/5L8O8-2zV2vUz1vugk0euQ</id>
     <link href="https://mp.weixin.qq.com/s/5L8O8-2zV2vUz1vugk0euQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Shell-Operator，让 Pod 继承节点标签</title>
-    <updated>2021-01-14T11:24:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/BqEpX5LKFAOhUV5e6EuGZA</id>
-    <link href="https://mp.weixin.qq.com/s/BqEpX5LKFAOhUV5e6EuGZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CKS “通关宝典”，Kubernetes安全知识精要课程LFS260正式上线</title>
-    <updated>2021-01-14T11:24:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/t8ns762x5oNm0MwO8lnSKg</id>
-    <link href="https://mp.weixin.qq.com/s/t8ns762x5oNm0MwO8lnSKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你的Kubernetes成熟度是多少？</title>
-    <updated>2021-01-13T11:44:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ArHifUiRvAtJrBebDBVnww</id>
-    <link href="https://mp.weixin.qq.com/s/ArHifUiRvAtJrBebDBVnww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文搞懂Kubernetes网络策略（上）</title>
-    <updated>2021-01-13T11:44:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/QGNJqOC9Hr_iRFT9FlXrkg</id>
-    <link href="https://mp.weixin.qq.com/s/QGNJqOC9Hr_iRFT9FlXrkg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

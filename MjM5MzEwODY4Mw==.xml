@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA架构日记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:52:43+08:00</updated>
+  <updated>2021-01-19T11:54:03+08:00</updated>
   <subtitle>致力于高质量 技术文章原创分享，拒绝水文、软文。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【译】GraalVM 快速参考</title>
+    <updated>2021-01-19T00:17:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/pvDWhm_y4ZG0rYaDfmVFhg</id>
+    <link href="https://mp.weixin.qq.com/s/pvDWhm_y4ZG0rYaDfmVFhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>久等 | Spring Cloud Alibaba 2.2.4 发布</title>
     <updated>2021-01-17T21:34:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T08:45:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/7raD1-tjosiWwegPIyZnvQ</id>
     <link href="https://mp.weixin.qq.com/s/7raD1-tjosiWwegPIyZnvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>伊尔福德站正式通车！Spring Cloud 2020 发布</title>
-    <updated>2020-12-23T10:17:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/FIphqY4kVloHgAH-daRy-w</id>
-    <link href="https://mp.weixin.qq.com/s/FIphqY4kVloHgAH-daRy-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

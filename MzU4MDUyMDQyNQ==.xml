@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小哈学Java | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:15:43+08:00</updated>
+  <updated>2021-01-19T12:21:27+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发, JVM, Docker容器，ELK相关知识，期待与您一同进步。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里 Nacos 惊爆，安全漏洞以绕过身份验证（附修复建议）</title>
+    <updated>2021-01-19T10:56:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/sRCl1gWo8ysMWa7R6Gc26w</id>
+    <link href="https://mp.weixin.qq.com/s/sRCl1gWo8ysMWa7R6Gc26w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新来的妹纸问我 AJAX 请求为什么不安全？没有回答出来。。。</title>
+    <updated>2021-01-19T10:56:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Igf83nR71JCLRBBVdzAx3g</id>
+    <link href="https://mp.weixin.qq.com/s/Igf83nR71JCLRBBVdzAx3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试又被问项目？头疼...</title>
     <updated>2021-01-17T22:33:36+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-10T12:17:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/xqRMvxstm0Y8rNF19fzfHA</id>
     <link href="https://mp.weixin.qq.com/s/xqRMvxstm0Y8rNF19fzfHA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>程序员自编 “购房宝典” 火爆 GitHub ！</title>
-    <updated>2021-01-09T12:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/l-ld9clJrxiqKid2-vcLtQ</id>
-    <link href="https://mp.weixin.qq.com/s/l-ld9clJrxiqKid2-vcLtQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来扒一扒中台皇帝的外衣！</title>
-    <updated>2021-01-09T12:13:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Tv10NTKprnLsV_ZKIyNnNw</id>
-    <link href="https://mp.weixin.qq.com/s/Tv10NTKprnLsV_ZKIyNnNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

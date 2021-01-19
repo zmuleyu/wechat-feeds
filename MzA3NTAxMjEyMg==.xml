@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MongoDB | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:55:46+08:00</updated>
+  <updated>2021-01-19T11:57:37+08:00</updated>
   <subtitle>MongoDB相关问题交流，发布MongoDB最新的相关资讯，解决MongoDB用户的技术问题。定期举办各种线上或者线下的技术交流活动。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Nacos 惊爆安全漏洞，可绕过身份验证（附修复建议）</title>
+    <updated>2021-01-19T08:54:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/qjm71l3tDJcPUXX2IMtEdw</id>
+    <link href="https://mp.weixin.qq.com/s/qjm71l3tDJcPUXX2IMtEdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>大白话带你认识 Kafka，背后原理如此简单~</title>
     <updated>2021-01-18T09:06:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-06T11:11:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/h86xlKO_qbHRo-s558OSMA</id>
     <link href="https://mp.weixin.qq.com/s/h86xlKO_qbHRo-s558OSMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>52条SQL语句性能优化策略，建议收藏</title>
-    <updated>2021-01-04T09:04:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/ED0JpcBnSxCozTX61mxz0g</id>
-    <link href="https://mp.weixin.qq.com/s/ED0JpcBnSxCozTX61mxz0g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

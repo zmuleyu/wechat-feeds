@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DevOps | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:16:36+08:00</updated>
+  <updated>2021-01-19T12:22:34+08:00</updated>
   <subtitle>分享DevOps(开发运维一体化)相关趋势，技术和文章，谢谢关注。DevOps 是Development和Operations的组合，可以把DevOps看作开发（软件工程）、技术运营和质量保障（QA）三者的交集。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看看华为质量回溯是如何做的？ | IDCF</title>
+    <updated>2021-01-18T19:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ElQRHvMswmMj0SApOS3w-w</id>
+    <link href="https://mp.weixin.qq.com/s/ElQRHvMswmMj0SApOS3w-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>设计思维、精益、敏捷、DevOps的整合实践分享 | IDCF</title>
     <updated>2021-01-17T21:54:58+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-05T22:49:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/DlUo6txE3mXtlpHnCKYcpQ</id>
     <link href="https://mp.weixin.qq.com/s/DlUo6txE3mXtlpHnCKYcpQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>没做过架构的人，如何应对面试官的架构设计问题？ | IDCF</title>
-    <updated>2021-01-04T17:49:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/66IV52kY_nWHCDdsLMTrpQ</id>
-    <link href="https://mp.weixin.qq.com/s/66IV52kY_nWHCDdsLMTrpQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

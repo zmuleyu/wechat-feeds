@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构算法 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:58:24+08:00</updated>
+  <updated>2021-01-19T12:01:08+08:00</updated>
   <subtitle>分享典型互联网架构设计，底层原理，数据结构和程序算法！聚合了阿里，美团，淘宝，支付宝等公司技术架构迭代之路，涵盖大电商，大物流，大金融，大供应链，大游戏等领域典型算法解析！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>搞好高并发=年薪百万？</title>
+    <updated>2021-01-19T10:18:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/X3OfrRUHZWmsNZFoMs0L1A</id>
+    <link href="https://mp.weixin.qq.com/s/X3OfrRUHZWmsNZFoMs0L1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>除了负载均衡，Nginx还可以做很多，限流、缓存、黑白名单等</title>
+    <updated>2021-01-19T10:18:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/_RICP2x2V41PrbNxzl8icQ</id>
+    <link href="https://mp.weixin.qq.com/s/_RICP2x2V41PrbNxzl8icQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>某程序员吐槽：媳妇要给孩子报少儿编程班，将来继续做程序员！自己拿命换钱，难道后代也要继续拿命换钱？</title>
+    <updated>2021-01-19T10:18:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/5QKdwz6a8K6Am3vUlezGcA</id>
+    <link href="https://mp.weixin.qq.com/s/5QKdwz6a8K6Am3vUlezGcA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！</title>
     <updated>2021-01-17T23:42:39+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-11T00:32:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/pPSIWSnobZjVLOT-I2vVdg</id>
     <link href="https://mp.weixin.qq.com/s/pPSIWSnobZjVLOT-I2vVdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>某快手程序员吐槽：月薪四万很惶恐！和老婆亲热时都在想工作，薪资越高，做人越怂！</title>
-    <updated>2021-01-11T00:32:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hoPG8NjLriexChMNY14lwg</id>
-    <link href="https://mp.weixin.qq.com/s/hoPG8NjLriexChMNY14lwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【通知】1月起，程序员可以免费学金融了！限时招募200人，手慢无！</title>
-    <updated>2021-01-10T01:18:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/SN111LNz3dGgfKVTg0k5LQ</id>
-    <link href="https://mp.weixin.qq.com/s/SN111LNz3dGgfKVTg0k5LQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>博士劝退文，写的真好！</title>
-    <updated>2021-01-10T01:18:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/9wzRf4ZSZJgcYx131JHx3Q</id>
-    <link href="https://mp.weixin.qq.com/s/9wzRf4ZSZJgcYx131JHx3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

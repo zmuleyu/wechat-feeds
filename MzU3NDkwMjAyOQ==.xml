@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码哥字节 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T16:44:35+08:00</updated>
+  <updated>2021-01-19T12:03:01+08:00</updated>
   <subtitle>分享Java技术，不论基础核心还是分布式、高并发场景。还是 SpringBoot 、MySQL、Redis、 Spring Cloud 等框架原理和源码分析。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python才是世界上最美的语言！</title>
+    <updated>2021-01-18T22:44:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/J_CQWFgKyMM27NkUo3S-UQ</id>
+    <link href="https://mp.weixin.qq.com/s/J_CQWFgKyMM27NkUo3S-UQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>了解这些，你就可以在Spring启动时为所欲为了</title>
     <updated>2021-01-12T00:40:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-27T00:09:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-27:/s/ouByzd1K7KC0hP9PwdhJjA</id>
     <link href="https://mp.weixin.qq.com/s/ouByzd1K7KC0hP9PwdhJjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>URL 去重的 6 种方案！(附详细代码)</title>
-    <updated>2020-09-24T11:00:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-24:/s/VYAXnv59XLjTNbK0liQMPQ</id>
-    <link href="https://mp.weixin.qq.com/s/VYAXnv59XLjTNbK0liQMPQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

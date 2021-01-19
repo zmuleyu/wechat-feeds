@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:43:15+08:00</updated>
+  <updated>2021-01-19T12:06:19+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>昨天面试被问到如何设计一个高并发系统，我脸都绿了…</title>
+    <updated>2021-01-18T22:07:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/MHPnLhLHNnRXTZWj5RA23w</id>
+    <link href="https://mp.weixin.qq.com/s/MHPnLhLHNnRXTZWj5RA23w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>两个程序都要用同一个端口，怎么解？</title>
+    <updated>2021-01-18T22:07:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/CYVcqZDDfL1KN2J9nDVEkg</id>
+    <link href="https://mp.weixin.qq.com/s/CYVcqZDDfL1KN2J9nDVEkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>16 岁高中生成功在 iPhone 7 上安装 Ubuntu 20.04 桌面！</title>
     <updated>2021-01-16T19:23:47+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2021-01-06T21:36:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/YPUQIbyf6O2GT200zkBb5Q</id>
     <link href="https://mp.weixin.qq.com/s/YPUQIbyf6O2GT200zkBb5Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里宣布拆中台，首当其冲就是优化数据中台架构？</title>
-    <updated>2021-01-03T22:37:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/9QQrBXr4abVDWrwnnUDVFg</id>
-    <link href="https://mp.weixin.qq.com/s/9QQrBXr4abVDWrwnnUDVFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cilium 源码解析：Node 之间的健康探测（health probe）机制</title>
-    <updated>2021-01-03T22:37:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/iLvQTVwoUIewKsidJgVYhg</id>
-    <link href="https://mp.weixin.qq.com/s/iLvQTVwoUIewKsidJgVYhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

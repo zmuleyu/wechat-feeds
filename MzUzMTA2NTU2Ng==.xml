@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>芋道源码 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:05:16+08:00</updated>
+  <updated>2021-01-19T12:07:38+08:00</updated>
   <subtitle>纯Java源码分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我为什么要放弃 RESTful，选择拥抱 GraphQL</title>
+    <updated>2021-01-18T23:33:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/anE7QbNdH6L31EYOAdycUA</id>
+    <link href="https://mp.weixin.qq.com/s/anE7QbNdH6L31EYOAdycUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今早，我被领导叫到办公室...</title>
+    <updated>2021-01-18T23:33:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/I1B9QFLReyNcGYfY5mbtQg</id>
+    <link href="https://mp.weixin.qq.com/s/I1B9QFLReyNcGYfY5mbtQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【保姆级教程】Spring Boot 单元测试</title>
+    <updated>2021-01-18T23:33:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/KSYZcY0bTJaZs0-7BT9srw</id>
+    <link href="https://mp.weixin.qq.com/s/KSYZcY0bTJaZs0-7BT9srw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动扩招一万人？Java程序员 + 算法无敌啊！</title>
     <updated>2021-01-18T00:03:35+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T23:19:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/NnFGwADp2TBkGzPeBerXWA</id>
     <link href="https://mp.weixin.qq.com/s/NnFGwADp2TBkGzPeBerXWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里也开训练营？跟着P9七天深入MySQL架构，免！费！</title>
-    <updated>2021-01-11T22:56:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/JScOmjsay32IbM1nsVjf1Q</id>
-    <link href="https://mp.weixin.qq.com/s/JScOmjsay32IbM1nsVjf1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个 Redis 问题画像，干掉了一摞简历</title>
-    <updated>2021-01-11T22:56:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/n6xQnuN-IHr3JSmW1PWumg</id>
-    <link href="https://mp.weixin.qq.com/s/n6xQnuN-IHr3JSmW1PWumg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不到 20 人的 IT 公司该去吗？</title>
-    <updated>2021-01-11T22:56:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/4PFMnO7nTnZ7udbPBSmGSA</id>
-    <link href="https://mp.weixin.qq.com/s/4PFMnO7nTnZ7udbPBSmGSA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI有道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:54:27+08:00</updated>
+  <updated>2021-01-19T11:56:05+08:00</updated>
   <subtitle>一个值得关注的 AI 技术公众号。主要涉及人工智能领域 Python、ML 、CV、NLP 等前沿知识、干货笔记和优质资源！我们致力于为您提供切实可行的 AI 学习路线。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用 Python 从零创造自己的深度学习框架，是一种怎样的体验？</title>
+    <updated>2021-01-19T10:07:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/D9Vb7Xb8KglVB3xTGtAfLw</id>
+    <link href="https://mp.weixin.qq.com/s/D9Vb7Xb8KglVB3xTGtAfLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>让 PyTorch 训练速度更快，你需要掌握这 17 种方法</title>
+    <updated>2021-01-19T10:07:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/yzFGR5rA43T8zOgZBvxbJg</id>
+    <link href="https://mp.weixin.qq.com/s/yzFGR5rA43T8zOgZBvxbJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>计算机视觉中的 Transformer</title>
+    <updated>2021-01-19T10:07:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/hEiaTyATsuIGQ9APH83Kaw</id>
+    <link href="https://mp.weixin.qq.com/s/hEiaTyATsuIGQ9APH83Kaw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手把手教你配置 JupyterLab 环境</title>
+    <updated>2021-01-19T10:07:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/XEnHtDPXiuWybFQXMxxTMA</id>
+    <link href="https://mp.weixin.qq.com/s/XEnHtDPXiuWybFQXMxxTMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今天的卷积神经网络，Yann LeCun 在 93 年就已经玩得很溜了</title>
     <updated>2021-01-18T10:06:14+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-15T10:00:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/WqMjY4VpdoBwdyjqWa8moQ</id>
     <link href="https://mp.weixin.qq.com/s/WqMjY4VpdoBwdyjqWa8moQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于 NLP 相关技术全部在这里：预训练模型、图神经网络、模型压缩、知识图谱</title>
-    <updated>2021-01-14T10:10:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/JUkryobrNtqK21ew1mlYLQ</id>
-    <link href="https://mp.weixin.qq.com/s/JUkryobrNtqK21ew1mlYLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看了这份《算法中文手册》笔记，就再也不怕字节了~</title>
-    <updated>2021-01-14T10:10:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/bU1Dn_3ukZFPf4uCz6rSJw</id>
-    <link href="https://mp.weixin.qq.com/s/bU1Dn_3ukZFPf4uCz6rSJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Manning、陈丹琦讲座，2021 斯坦福 CS224N 即将开课</title>
-    <updated>2021-01-14T10:10:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/sPmVhypHpVTCiTD6e2sfdQ</id>
-    <link href="https://mp.weixin.qq.com/s/sPmVhypHpVTCiTD6e2sfdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有哪些好的科研习惯？</title>
-    <updated>2021-01-14T10:10:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/8JncNvtCt6sYs7XV9Sxoug</id>
-    <link href="https://mp.weixin.qq.com/s/8JncNvtCt6sYs7XV9Sxoug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>InfoQ | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T13:42:31+08:00</updated>
+  <updated>2021-01-19T11:59:17+08:00</updated>
   <subtitle>为一线互联网公司核心技术人员提供优质内容。科技圈的观察者，前沿技术的传播者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这是你想要的技术 leader 吗？｜ 极客时间</title>
+    <updated>2021-01-18T18:25:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/6ncjdbAFkRE64RVdUy6GDA</id>
+    <link href="https://mp.weixin.qq.com/s/6ncjdbAFkRE64RVdUy6GDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 太慢了吗？</title>
+    <updated>2021-01-18T18:25:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/bNNCSSUd4TGnICZJuds1dA</id>
+    <link href="https://mp.weixin.qq.com/s/bNNCSSUd4TGnICZJuds1dA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>上微前端后，我司的祖传代码有救了</title>
+    <updated>2021-01-18T18:25:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/sOwiypCeCtIfZ3cwH4TEIw</id>
+    <link href="https://mp.weixin.qq.com/s/sOwiypCeCtIfZ3cwH4TEIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊微服务的通信模式</title>
+    <updated>2021-01-18T18:25:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/HK6d-Q_3Px7D0SE6SJUppQ</id>
+    <link href="https://mp.weixin.qq.com/s/HK6d-Q_3Px7D0SE6SJUppQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MLOps正在改变机器学习模型的开发方式</title>
+    <updated>2021-01-18T18:25:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/R3gsEXEdZyWDip24nufRsw</id>
+    <link href="https://mp.weixin.qq.com/s/R3gsEXEdZyWDip24nufRsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>特朗普最后一击：再打华为，8份许可被撤销，150份申请大部分被拒绝</title>
     <updated>2021-01-18T11:52:37+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-15T12:59:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/73bLJQcvymxb4PwAvBAHPA</id>
     <link href="https://mp.weixin.qq.com/s/73bLJQcvymxb4PwAvBAHPA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>400万Docker镜像中，51%的镜像存在高危漏洞</title>
-    <updated>2021-01-15T12:59:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/PCcyZWq1ih49w8HXvqowbg</id>
-    <link href="https://mp.weixin.qq.com/s/PCcyZWq1ih49w8HXvqowbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>英特尔急了：没落的芯片之王迫切需要一位技术型CEO</title>
-    <updated>2021-01-15T12:59:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/ITacmyGRZxnz9pbAoeZYXQ</id>
-    <link href="https://mp.weixin.qq.com/s/ITacmyGRZxnz9pbAoeZYXQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂面试必问的设计模式，看这一篇就够了 ｜ 极客时间</title>
-    <updated>2021-01-13T22:35:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Ex216ObYHUg1XEbJirYPNA</id>
-    <link href="https://mp.weixin.qq.com/s/Ex216ObYHUg1XEbJirYPNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>放弃微服务，我们为什么重回单体架构？</title>
-    <updated>2021-01-13T22:35:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/dNWNxeeIlBpaWyXmKCnV8Q</id>
-    <link href="https://mp.weixin.qq.com/s/dNWNxeeIlBpaWyXmKCnV8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用Kafka，如何成功迁移SQL数据库中超过20亿条记录？</title>
-    <updated>2021-01-13T22:35:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/-ywSMcy7bDGrTNB70f7mOw</id>
-    <link href="https://mp.weixin.qq.com/s/-ywSMcy7bDGrTNB70f7mOw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

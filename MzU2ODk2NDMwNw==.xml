@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ccww技术博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:06:53+08:00</updated>
+  <updated>2021-01-19T12:10:20+08:00</updated>
   <subtitle>经典面试题分析与解读以及技术Spring 、Spring boot、Spring cloud以及Docker后端等技术研究和源码分析，且会不定期分享集理财经验.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis缓存总结：淘汰机制、缓存雪崩、数据不一致....</title>
+    <updated>2021-01-18T19:33:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/zeQ-6XkDlJY5cHMm_wVm5g</id>
+    <link href="https://mp.weixin.qq.com/s/zeQ-6XkDlJY5cHMm_wVm5g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>揭秘！消息管理平台的实现原理</title>
     <updated>2021-01-18T09:15:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-16T09:31:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-16:/s/ENXsM73sD61vQJnKKYJmug</id>
     <link href="https://mp.weixin.qq.com/s/ENXsM73sD61vQJnKKYJmug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐收藏系列：一文理解JVM虚拟机（内存、垃圾回收、性能优化）解决面试中遇到问题</title>
-    <updated>2020-10-12T18:03:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-12:/s/U8zaycy4Ia2VYbd_EuURuA</id>
-    <link href="https://mp.weixin.qq.com/s/U8zaycy4Ia2VYbd_EuURuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

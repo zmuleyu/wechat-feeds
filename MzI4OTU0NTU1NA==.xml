@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>卤蛋实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:11:31+08:00</updated>
+  <updated>2021-01-19T12:04:54+08:00</updated>
   <subtitle>对前端技术和图形学有些微小的研究</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【十天自制软渲染器】DAY 02：画一条直线（DDA 算法 &amp; Bresenham’s 算法）</title>
+    <updated>2021-01-19T09:04:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/A5N9Tlo-EP3Y5Y0bMwjubg</id>
+    <link href="https://mp.weixin.qq.com/s/A5N9Tlo-EP3Y5Y0bMwjubg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【十天自制软渲染器】DAY 01：图形学学习建议与环境搭建</title>
     <updated>2021-01-14T00:22:44+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-08-03T03:14:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-08-03:/s/tei4tXhxthnZIX6mLUwSTA</id>
     <link href="https://mp.weixin.qq.com/s/tei4tXhxthnZIX6mLUwSTA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>🦀️ 后羿采集器——最良心的爬虫软件</title>
-    <updated>2020-07-26T21:43:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-26:/s/v2fHFtuX1fstaQYJ9sfxHA</id>
-    <link href="https://mp.weixin.qq.com/s/v2fHFtuX1fstaQYJ9sfxHA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

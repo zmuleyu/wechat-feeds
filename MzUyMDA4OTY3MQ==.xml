@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:54:09+08:00</updated>
+  <updated>2021-01-19T12:21:49+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再谈双亲委派模型与Flink的类加载策略</title>
+    <updated>2021-01-18T23:10:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/TSHQ4R9LcT4eeT-2F5pRvg</id>
+    <link href="https://mp.weixin.qq.com/s/TSHQ4R9LcT4eeT-2F5pRvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>6大常用数据分析模型详解</title>
+    <updated>2021-01-18T23:10:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/rR4RAPmO8zoiUJzJmC2GQg</id>
+    <link href="https://mp.weixin.qq.com/s/rR4RAPmO8zoiUJzJmC2GQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SQL、NoSQL 到 NewSQL ，数据库到底选啥？</title>
     <updated>2021-01-18T17:44:14+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2021-01-10T12:27:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/XBMq35FsjIXso3oYjg-6UA</id>
     <link href="https://mp.weixin.qq.com/s/XBMq35FsjIXso3oYjg-6UA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何构建数据分析框架？分享3个底层思维框架，小白也能看懂</title>
-    <updated>2021-01-09T09:36:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/8lklPrncylH3YnaWp3Nw3A</id>
-    <link href="https://mp.weixin.qq.com/s/8lklPrncylH3YnaWp3Nw3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux 系统 inodes 资源耗尽，如何解决？</title>
-    <updated>2021-01-09T09:36:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/AK5-oBset0jvrH6KleylEw</id>
-    <link href="https://mp.weixin.qq.com/s/AK5-oBset0jvrH6KleylEw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

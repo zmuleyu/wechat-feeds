@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:11:14+08:00</updated>
+  <updated>2021-01-19T12:14:40+08:00</updated>
   <subtitle>专注于Web前端技术文章分享，包含JavaScript、HTML5、CSS3等前端基础知识，以及Vue.js,React,Augular等前端框架</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>10 个提升代码质量的 JS 技巧</title>
+    <updated>2021-01-18T17:50:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/NrNQuCclk7u_mNAiLxQo0g</id>
+    <link href="https://mp.weixin.qq.com/s/NrNQuCclk7u_mNAiLxQo0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看完这篇文章，Vue3.0一点都不难！</title>
     <updated>2021-01-17T22:38:45+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-07T16:44:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/xrtzz5Lo9IfqbV9Wy-lvJQ</id>
     <link href="https://mp.weixin.qq.com/s/xrtzz5Lo9IfqbV9Wy-lvJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue 首页秒开实践指南</title>
-    <updated>2021-01-06T17:57:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/x-UT7jxk9IjUttaW7oyDmQ</id>
-    <link href="https://mp.weixin.qq.com/s/x-UT7jxk9IjUttaW7oyDmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

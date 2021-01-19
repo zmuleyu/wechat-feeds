@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武培轩 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T12:08:25+08:00</updated>
+  <updated>2021-01-19T12:14:20+08:00</updated>
   <subtitle>专注分享后端技术干货，包括 Java 基础、Java 并发、JVM、Elasticsearch、Zookeeper、Nginx、微服务、消息队列、源码解析、数据库、设计模式、面经等，助你编程之路少走弯路。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>三天，我来教你们搞定一个项目！</title>
+    <updated>2021-01-19T09:00:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/wPOWpkbJzqTVWZiggShwWg</id>
+    <link href="https://mp.weixin.qq.com/s/wPOWpkbJzqTVWZiggShwWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ELK 性能优化实践</title>
+    <updated>2021-01-19T09:00:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/XK4oZqG3707YJ9v17qlCUA</id>
+    <link href="https://mp.weixin.qq.com/s/XK4oZqG3707YJ9v17qlCUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不懂高并发，Java工程师何以脱困？</title>
     <updated>2021-01-10T23:38:49+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2020-12-17T11:30:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/Iw2fd_7lIJpqfLnvnSVRSA</id>
     <link href="https://mp.weixin.qq.com/s/Iw2fd_7lIJpqfLnvnSVRSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别当工具人了，手摸手教会你 Jenkins ！</title>
-    <updated>2020-12-16T10:58:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/2r65oO4a0-ysWDjkt9P0Pw</id>
-    <link href="https://mp.weixin.qq.com/s/2r65oO4a0-ysWDjkt9P0Pw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

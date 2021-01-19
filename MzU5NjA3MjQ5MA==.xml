@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java旅途 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:08:36+08:00</updated>
+  <updated>2021-01-19T12:11:45+08:00</updated>
   <subtitle>『Java旅途』专注于Java技术分享，包含但不局限于Spring Boot、Spring Cloud、消息队列、redis、JVM、Mysql、面经等，欢迎关注，一起学习、一起成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java日常开发的21个坑，你踩过几个？</title>
+    <updated>2021-01-18T23:12:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ndhEoXDfW40rQe8gnj4WjQ</id>
+    <link href="https://mp.weixin.qq.com/s/ndhEoXDfW40rQe8gnj4WjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>36 张图梳理 Intellij IDEA 常用设置</title>
     <updated>2021-01-18T09:26:23+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2021-01-05T22:14:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/nBNRX4c_QfXXohk8Gad1Cg</id>
     <link href="https://mp.weixin.qq.com/s/nBNRX4c_QfXXohk8Gad1Cg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>8款redis可视化工具，总有一款是你的菜</title>
-    <updated>2021-01-04T21:57:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/GL97Zg226mY2T27zWlk8-Q</id>
-    <link href="https://mp.weixin.qq.com/s/GL97Zg226mY2T27zWlk8-Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>忘记MySQL密码怎么办？一招教你搞定！</title>
-    <updated>2021-01-04T21:57:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/WpT6-pQ62-lSOHoYmAWdnA</id>
-    <link href="https://mp.weixin.qq.com/s/WpT6-pQ62-lSOHoYmAWdnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

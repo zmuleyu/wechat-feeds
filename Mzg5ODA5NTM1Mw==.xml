@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端工匠 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:11:24+08:00</updated>
+  <updated>2021-01-19T12:14:49+08:00</updated>
   <subtitle>我是浪里行舟，Github博客5000+star作者，掘金、CSDN社区活跃作者，致力于打造一系列能够帮助前端工程师提高的优质文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>带你快速上手Vite</title>
+    <updated>2021-01-18T21:40:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/WN24hceypcEtVvjkSpDhVA</id>
+    <link href="https://mp.weixin.qq.com/s/WN24hceypcEtVvjkSpDhVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>华为宣布：免费培养2000名h5&amp;vue开发者！</title>
+    <updated>2021-01-18T21:40:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ln_yWwKoJkkUH6pAhmdmKg</id>
+    <link href="https://mp.weixin.qq.com/s/ln_yWwKoJkkUH6pAhmdmKg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ES2020 新特性：空值合并运算符 &#39;??&#39;</title>
     <updated>2021-01-17T23:26:02+08:00</updated>
@@ -19,13 +33,6 @@
     <updated>2021-01-16T23:27:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-16:/s/02ITk5g9I-0EfNDKmVAcPQ</id>
     <link href="https://mp.weixin.qq.com/s/02ITk5g9I-0EfNDKmVAcPQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工作 5 年后，又想读个名校的计算机硕士，该怎么做？</title>
-    <updated>2021-01-14T23:26:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Q-sDpB7xwZ3b7R-kV8RiFw</id>
-    <link href="https://mp.weixin.qq.com/s/Q-sDpB7xwZ3b7R-kV8RiFw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +89,6 @@
     <updated>2021-01-07T23:40:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/i43KH-bb1dVE9sQNp5VSiQ</id>
     <link href="https://mp.weixin.qq.com/s/i43KH-bb1dVE9sQNp5VSiQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你一定没见过的高扩展性 React/Vue 修饰器</title>
-    <updated>2021-01-06T20:24:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/oa2cmqYxaJO-oA2A6AljYw</id>
-    <link href="https://mp.weixin.qq.com/s/oa2cmqYxaJO-oA2A6AljYw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

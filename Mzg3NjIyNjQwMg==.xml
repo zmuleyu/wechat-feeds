@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库与Python大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:46:38+08:00</updated>
+  <updated>2021-01-19T12:13:14+08:00</updated>
   <subtitle>专注于大数据、数据仓库与数据科学，数据分析与数据挖掘，Hadoop/Spark/Flink、Python与面试经验和职场感悟</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>HiveSQL优化方法与实践（推荐收藏）</title>
+    <updated>2021-01-19T01:21:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/_jZr9CIEtu92kE1r6XIFzA</id>
+    <link href="https://mp.weixin.qq.com/s/_jZr9CIEtu92kE1r6XIFzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>千亿级数据存储，SQL 还够用吗？</title>
     <updated>2021-01-18T20:22:14+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2021-01-07T00:04:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/7cuFVdPOILMEIvXamNM4OQ</id>
     <link href="https://mp.weixin.qq.com/s/7cuFVdPOILMEIvXamNM4OQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apache Flink 学习0-1知识点全景图.xmind</title>
-    <updated>2021-01-06T00:34:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/WUUEz3OAd5mlp4NXSaZQMQ</id>
-    <link href="https://mp.weixin.qq.com/s/WUUEz3OAd5mlp4NXSaZQMQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | 数仓建模，推荐收藏！</title>
-    <updated>2021-01-06T00:34:10+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/djT1x_iGcEzQkv7dcwflpQ</id>
-    <link href="https://mp.weixin.qq.com/s/djT1x_iGcEzQkv7dcwflpQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

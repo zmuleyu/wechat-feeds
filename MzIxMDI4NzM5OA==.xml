@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Fliggy F2E | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T23:31:51+08:00</updated>
+  <updated>2021-01-19T12:24:19+08:00</updated>
   <subtitle>飞猪前端官方公众号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>潮流前端周刊（第19期）</title>
+    <updated>2021-01-18T22:34:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ii7tsnk6fdhSQVlvCJ6xLg</id>
+    <link href="https://mp.weixin.qq.com/s/ii7tsnk6fdhSQVlvCJ6xLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>潮流前端周刊（第18期）</title>
     <updated>2021-01-18T22:30:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-22T23:15:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-22:/s/5M6TZQ7-VS_5hoYpIjjCzQ</id>
     <link href="https://mp.weixin.qq.com/s/5M6TZQ7-VS_5hoYpIjjCzQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>阿里跨端技术 - 缘起与未来</title>
-    <updated>2020-11-20T19:05:52+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/UOqFmTRKvUtnyAenov4MDw</id>
-    <link href="https://mp.weixin.qq.com/s/UOqFmTRKvUtnyAenov4MDw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

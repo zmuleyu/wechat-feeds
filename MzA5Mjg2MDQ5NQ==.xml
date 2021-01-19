@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>咖啡拿铁 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:14:07+08:00</updated>
+  <updated>2021-01-19T12:18:50+08:00</updated>
   <subtitle>致力于后端开发，架构分析，java代码，用喝一杯咖啡的时间学习更多的知识</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里最新微服务电商系统模块流出，网友炸了。。。</title>
+    <updated>2021-01-18T20:50:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/LZ19CT0pKIoTbUMnL6cexw</id>
+    <link href="https://mp.weixin.qq.com/s/LZ19CT0pKIoTbUMnL6cexw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>下一代消息队列pulsar到底是什么？</title>
     <updated>2021-01-17T20:04:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-22T21:06:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/H3LcRM0cHkVxBM4pofq_LQ</id>
     <link href="https://mp.weixin.qq.com/s/H3LcRM0cHkVxBM4pofq_LQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>写一个通用的幂等组件，我觉得很有必要</title>
-    <updated>2020-09-22T17:37:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-22:/s/mwfY3wxgRKOGUWCfV_F3zA</id>
-    <link href="https://mp.weixin.qq.com/s/mwfY3wxgRKOGUWCfV_F3zA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

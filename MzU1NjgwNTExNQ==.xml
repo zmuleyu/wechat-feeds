@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:28:49+08:00</updated>
+  <updated>2021-01-19T11:56:47+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么说掌握C++是通往一流企业的敲门砖？</title>
+    <updated>2021-01-18T17:51:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/284NJErSUxvaEglKUewBNQ</id>
+    <link href="https://mp.weixin.qq.com/s/284NJErSUxvaEglKUewBNQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用VS Code开发一款基于.NET Core和SQL数据库的Azure Function应用程序</title>
+    <updated>2021-01-18T17:51:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/V3eSC0AhRZDXwmr9ePpzUQ</id>
+    <link href="https://mp.weixin.qq.com/s/V3eSC0AhRZDXwmr9ePpzUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构多“微”才合适？</title>
     <updated>2021-01-18T17:40:43+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-09T21:31:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/fmLpTwJLKGVjKWWRtoTTyQ</id>
     <link href="https://mp.weixin.qq.com/s/fmLpTwJLKGVjKWWRtoTTyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>宇宙第一 IDE 到底是谁？</title>
-    <updated>2021-01-08T21:39:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/EOJalWG41reUOQqdwQ8jaQ</id>
-    <link href="https://mp.weixin.qq.com/s/EOJalWG41reUOQqdwQ8jaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Github最强算法刷题笔记.pdf</title>
-    <updated>2021-01-08T21:39:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/gjo9O52JcB2HFOm52f5tnQ</id>
-    <link href="https://mp.weixin.qq.com/s/gjo9O52JcB2HFOm52f5tnQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
