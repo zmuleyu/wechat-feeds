@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T23:42:18+08:00</updated>
+  <updated>2021-01-20T02:29:26+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Kafka技术」Apache Kafka中的事务</title>
+    <updated>2021-01-19T23:13:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/6qQRYvzLF5BQfML6jCx_sg</id>
+    <link href="https://mp.weixin.qq.com/s/6qQRYvzLF5BQfML6jCx_sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>「互联网」2021年消费互联网的12个预测</title>
+    <updated>2021-01-19T23:13:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/5z4KBVilornydvBs5gkfMg</id>
+    <link href="https://mp.weixin.qq.com/s/5z4KBVilornydvBs5gkfMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「数据架构」什么是实体关系图(ERD)?</title>
     <updated>2021-01-18T21:21:08+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-10T22:24:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/aCtd1s9CmQqsfagoQmHD7A</id>
     <link href="https://mp.weixin.qq.com/s/aCtd1s9CmQqsfagoQmHD7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「职场职业」什么是CTO(首席技术官)？需要知道的关于首席技术官的一切</title>
-    <updated>2021-01-10T22:24:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/Dm1sECnQ-NMROOp10hPHhQ</id>
-    <link href="https://mp.weixin.qq.com/s/Dm1sECnQ-NMROOp10hPHhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「企业事件枢纽」Apache Kafka中的事务</title>
-    <updated>2021-01-09T21:38:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/5DHhkrKBQpfWY2tVtHoNTA</id>
-    <link href="https://mp.weixin.qq.com/s/5DHhkrKBQpfWY2tVtHoNTA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

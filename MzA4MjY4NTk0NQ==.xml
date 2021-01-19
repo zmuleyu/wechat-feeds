@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GiantPandaCV | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:59:07+08:00</updated>
+  <updated>2021-01-20T02:49:20+08:00</updated>
   <subtitle>专注于机器学习、深度学习、计算机视觉、图像处理等多个方向技术分享。团队由一群热爱技术且热衷于分享的小伙伴组成。我们坚持原创，每周一到两篇原创技术分享。希望在传播知识、分享知识的同时能够启发你，大家一起共同进步(･ω&lt;)☆</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于一阶泰勒展开式的结构化剪枝</title>
+    <updated>2021-01-20T00:02:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/wfgf0EhG2BdUdkiSJRmVxQ</id>
+    <link href="https://mp.weixin.qq.com/s/wfgf0EhG2BdUdkiSJRmVxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LeetCode 第224周周赛题解</title>
+    <updated>2021-01-20T00:02:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/thpuHFZbsRILxvDynULB6g</id>
+    <link href="https://mp.weixin.qq.com/s/thpuHFZbsRILxvDynULB6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深度学习算法详解及应用</title>
     <updated>2021-01-18T22:59:42+08:00</updated>
@@ -68,13 +82,6 @@
     <updated>2021-01-08T22:00:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/pqIoIuRkZvG_OuD1lV_Mbw</id>
     <link href="https://mp.weixin.qq.com/s/pqIoIuRkZvG_OuD1lV_Mbw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解Pytroch中的hook机制</title>
-    <updated>2021-01-07T22:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/IMaHyc11WDwVnDKTBtw6uQ</id>
-    <link href="https://mp.weixin.qq.com/s/IMaHyc11WDwVnDKTBtw6uQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

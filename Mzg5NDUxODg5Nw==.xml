@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生CTO | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T20:36:50+08:00</updated>
+  <updated>2021-01-20T02:25:50+08:00</updated>
   <subtitle>热衷于云原生技术K8s、docker、devops、gitops、Go分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Google软件工程师的一天 | 在家工作版</title>
+    <updated>2021-01-20T00:14:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/RA8lQgJnv2K6R8H-anqGCw</id>
+    <link href="https://mp.weixin.qq.com/s/RA8lQgJnv2K6R8H-anqGCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>（逆向理解）-没有kube-proxy组件的Kubernetes集群会怎么样？</title>
     <updated>2021-01-16T19:56:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-05T22:20:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-05:/s/r8jC8F9DfgDlc6qIm9LNKQ</id>
     <link href="https://mp.weixin.qq.com/s/r8jC8F9DfgDlc6qIm9LNKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes中使用金丝雀发布以及Argo Rollouts</title>
-    <updated>2020-11-29T22:29:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-29:/s/6qym0fjx7ZlHiPed4ZKu-w</id>
-    <link href="https://mp.weixin.qq.com/s/6qym0fjx7ZlHiPed4ZKu-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

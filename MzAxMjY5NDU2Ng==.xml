@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java杂记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:23:32+08:00</updated>
+  <updated>2021-01-20T02:50:04+08:00</updated>
   <subtitle>分享一些有关于java体系的知识，如：java基础知识/数据结算/算法，Spring/MyBatis/Netty源码分析，高并发/高性能/分布式/微服务架构的原理，JVM性能优化 ,希望能让大家在技术上和思想上带来一些提升。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我为什么要放弃 RESTful，选择拥抱 GraphQL</title>
+    <updated>2021-01-19T11:27:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/D4v1BprIL70ZFhgWsIGlsw</id>
+    <link href="https://mp.weixin.qq.com/s/D4v1BprIL70ZFhgWsIGlsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从零实现一个日志框架（带源码）</title>
     <updated>2021-01-19T11:03:54+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T18:13:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/w6QhAWgrLgwDMRjPY-NZOg</id>
     <link href="https://mp.weixin.qq.com/s/w6QhAWgrLgwDMRjPY-NZOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>据说程序员等电梯的时候都想过调度算法，网友：还真是~</title>
-    <updated>2021-01-07T19:35:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/RPKXoL8mZP1ZWSaqjzPv0A</id>
-    <link href="https://mp.weixin.qq.com/s/RPKXoL8mZP1ZWSaqjzPv0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
