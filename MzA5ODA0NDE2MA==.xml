@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:46:11+08:00</updated>
+  <updated>2021-01-19T20:49:07+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CVE-2019-2725高版本POC拓展</title>
+    <updated>2021-01-19T17:39:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/LOGvLr_FLB2ddTFgmiosYQ</id>
+    <link href="https://mp.weixin.qq.com/s/LOGvLr_FLB2ddTFgmiosYQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>特朗普被“出走”之后，选举不实信息暴跌七成</title>
+    <updated>2021-01-19T17:39:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ilEycE0axl1-W9Mn9693fQ</id>
+    <link href="https://mp.weixin.qq.com/s/ilEycE0axl1-W9Mn9693fQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netgear R6220 认证绕过漏洞分析</title>
+    <updated>2021-01-19T17:39:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/AQINciJ9i9IOsZ2F11r_Bw</id>
+    <link href="https://mp.weixin.qq.com/s/AQINciJ9i9IOsZ2F11r_Bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Flink CVE-2020-17518/17519 漏洞分析</title>
     <updated>2021-01-18T17:29:14+08:00</updated>
@@ -124,20 +145,6 @@
     <updated>2021-01-11T21:01:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/W58I8XlZ4De5XezSVPLxmQ</id>
     <link href="https://mp.weixin.qq.com/s/W58I8XlZ4De5XezSVPLxmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WhatsApp搞事情？要么跟Facebook共享你的数据，要么删除你的账号！</title>
-    <updated>2021-01-09T21:53:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/Hs08Py4a1DnuyLiASHZtYw</id>
-    <link href="https://mp.weixin.qq.com/s/Hs08Py4a1DnuyLiASHZtYw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Babuk Locker：2021年第一个新型企业级勒索软件正式上线！</title>
-    <updated>2021-01-08T20:06:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/siM6e3FRKTSAYS8-Lb6pxw</id>
-    <link href="https://mp.weixin.qq.com/s/siM6e3FRKTSAYS8-Lb6pxw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

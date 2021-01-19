@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据派THU | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:43:03+08:00</updated>
+  <updated>2021-01-19T20:46:07+08:00</updated>
   <subtitle>发布清华校内相关科研动态、教学成果及线下活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>独家 | 贝叶斯信念网络初探（附链接）</title>
+    <updated>2021-01-19T10:39:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Qbg91VIDSp6QaAWqv1iOtw</id>
+    <link href="https://mp.weixin.qq.com/s/Qbg91VIDSp6QaAWqv1iOtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>历时3年，清华大学iDLab实验室打造《强化学习和控制》课程及讲义！</title>
+    <updated>2021-01-19T10:39:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/O-mSyOJrstFPviG1Bg-Y6g</id>
+    <link href="https://mp.weixin.qq.com/s/O-mSyOJrstFPviG1Bg-Y6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>独家 | 利用Python的混合集成机器学习（附链接）</title>
     <updated>2021-01-18T15:07:51+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-09T13:47:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/p2j12Ca0pX-6X8PAP7tr3g</id>
     <link href="https://mp.weixin.qq.com/s/p2j12Ca0pX-6X8PAP7tr3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>R语言 lightgbm 算法优化：不平衡二分类问题（附代码）</title>
-    <updated>2021-01-09T13:36:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/wTOBv7IHtTPtacARJ9ZKAA</id>
-    <link href="https://mp.weixin.qq.com/s/wTOBv7IHtTPtacARJ9ZKAA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>清华大学发布首个自动图机器学习工具包 AutoGL，开源易用可扩展，支持自定义模型</title>
-    <updated>2021-01-09T13:36:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/c-jHAhuB9rvsFlixl_XR9w</id>
-    <link href="https://mp.weixin.qq.com/s/c-jHAhuB9rvsFlixl_XR9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

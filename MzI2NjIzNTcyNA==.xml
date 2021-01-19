@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T23:31:11+08:00</updated>
+  <updated>2021-01-19T21:00:41+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>低延迟DASH流</title>
+    <updated>2021-01-19T20:13:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/HsGrk6kdvhCGVanyZ6E1uw</id>
+    <link href="https://mp.weixin.qq.com/s/HsGrk6kdvhCGVanyZ6E1uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>通过深度学习和优化策略提升计算成像系统</title>
     <updated>2021-01-18T21:52:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-09T18:17:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/wZa4uvJ8r4a85KUiX_OtlQ</id>
     <link href="https://mp.weixin.qq.com/s/wZa4uvJ8r4a85KUiX_OtlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WebRTC现状与未来：专访W3C的WebRTC主席Bernard Aboba</title>
-    <updated>2021-01-07T23:06:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/kGphSISBeZuw7xjxH8sZAw</id>
-    <link href="https://mp.weixin.qq.com/s/kGphSISBeZuw7xjxH8sZAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

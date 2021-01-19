@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>京东零售技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:44:26+08:00</updated>
+  <updated>2021-01-19T20:46:38+08:00</updated>
   <subtitle>京东零售那些事，有品、有调又有料的研发资讯，带你深入了解程序猿的生活和工作。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>京东Spark自研Remote Shuffle Service在大促中的应用实践</title>
+    <updated>2021-01-19T16:57:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/yELhZ1X-VG5YxR6ya32rAQ</id>
+    <link href="https://mp.weixin.qq.com/s/yELhZ1X-VG5YxR6ya32rAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>突发流量洪峰应对之道——疫情期间京东口罩预约抢购系统优化</title>
     <updated>2021-01-18T16:37:14+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-25T17:46:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/K54lgCXaTRpvC4JiycAyqQ</id>
     <link href="https://mp.weixin.qq.com/s/K54lgCXaTRpvC4JiycAyqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ClickHouse在京东流量分析的应用实践</title>
-    <updated>2020-12-24T18:04:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/4iboriiZMo-QQ0FSOoU-Fg</id>
-    <link href="https://mp.weixin.qq.com/s/4iboriiZMo-QQ0FSOoU-Fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

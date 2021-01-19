@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端技术漫谈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T12:05:26+08:00</updated>
+  <updated>2021-01-19T20:37:07+08:00</updated>
   <subtitle>一线互联网公司码农，持续更新原创技术文章，当然也会和大家分享自己的生活趣闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我给Apache顶级项目提了个Bug</title>
+    <updated>2021-01-19T20:11:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/9mh5OGqaaPdG_HcRJuGB2w</id>
+    <link href="https://mp.weixin.qq.com/s/9mh5OGqaaPdG_HcRJuGB2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我竟然被“双亲委派”给虐了</title>
     <updated>2021-01-16T23:22:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T23:48:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/a6vXTQXMrwGjju9CCcn__w</id>
     <link href="https://mp.weixin.qq.com/s/a6vXTQXMrwGjju9CCcn__w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>令人头痛的大事务问题</title>
-    <updated>2020-12-25T23:51:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/Ndnbd6nDGn-oPxY8FHqE6Q</id>
-    <link href="https://mp.weixin.qq.com/s/Ndnbd6nDGn-oPxY8FHqE6Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

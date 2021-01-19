@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:33:55+08:00</updated>
+  <updated>2021-01-19T20:38:13+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TensorFlow Quantum 使用心得</title>
+    <updated>2021-01-19T19:07:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/YC662S9Z9D1uslAw2MNOvQ</id>
+    <link href="https://mp.weixin.qq.com/s/YC662S9Z9D1uslAw2MNOvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>社区分享 | CRNN+CTC 识别验证码</title>
     <updated>2021-01-15T17:43:11+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-29T18:44:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/wjm2EaSZxK-95uYeosHhwA</id>
     <link href="https://mp.weixin.qq.com/s/wjm2EaSZxK-95uYeosHhwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Chimera Painter：使用 GAN 构建大量风格奇幻的卡牌游戏图像</title>
-    <updated>2020-12-28T18:28:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/7RqD-rM-UIG-x-YSYzYdxg</id>
-    <link href="https://mp.weixin.qq.com/s/7RqD-rM-UIG-x-YSYzYdxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

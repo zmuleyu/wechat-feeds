@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T23:35:10+08:00</updated>
+  <updated>2021-01-19T20:31:35+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《Rust唠嗑室》第17期 - 用Rust写Protobuf扩展</title>
+    <updated>2021-01-19T17:53:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/p_hPsYM1rSzYHf6Y-ap_Qg</id>
+    <link href="https://mp.weixin.qq.com/s/p_hPsYM1rSzYHf6Y-ap_Qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Rust日报】2021-01-18 Facebook使用 Rust 的简单介绍</title>
     <updated>2021-01-18T22:00:38+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-10T23:01:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/QK49quUxMNMQYlmrumDzGw</id>
     <link href="https://mp.weixin.qq.com/s/QK49quUxMNMQYlmrumDzGw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2021-01-09 GTK-RS Channel问题中的多线程处理</title>
-    <updated>2021-01-09T22:47:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/ApqTopIFVx1vo8a0a4X5mw</id>
-    <link href="https://mp.weixin.qq.com/s/ApqTopIFVx1vo8a0a4X5mw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

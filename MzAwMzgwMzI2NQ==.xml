@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:53:41+08:00</updated>
+  <updated>2021-01-19T20:59:12+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第30节，通道的关闭，工作完成提前结束</title>
+    <updated>2021-01-19T18:04:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/6-InbbT-53dNYkU407Xigg</id>
+    <link href="https://mp.weixin.qq.com/s/6-InbbT-53dNYkU407Xigg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第29节，非阻塞通道听select指挥</title>
     <updated>2021-01-15T17:01:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-26T15:53:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-26:/s/VjQXYECFYKQWkEiNEDKPaA</id>
     <link href="https://mp.weixin.qq.com/s/VjQXYECFYKQWkEiNEDKPaA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播编程：Go语言从入门到精通，第4节课，const常量</title>
-    <updated>2020-12-24T18:02:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/k7kyw277h2JnQUPlvoHquw</id>
-    <link href="https://mp.weixin.qq.com/s/k7kyw277h2JnQUPlvoHquw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

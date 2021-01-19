@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ApachePulsar | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:25:39+08:00</updated>
+  <updated>2021-01-19T21:00:09+08:00</updated>
   <subtitle>Apache Pulsar 是下一代云原生流数据平台，助力企业快速分析实时数据，激活数据价值，助力千万企业和技术人开疆拓土、共同成长。 社区定期分享社区活动、技术文章、用户案例、行业动态和热点话题等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Pulsar vs Kafka，CTO 如何抉择？</title>
+    <updated>2021-01-19T18:57:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/PdJRovHAgPj3vYxaVLLQ1g</id>
+    <link href="https://mp.weixin.qq.com/s/PdJRovHAgPj3vYxaVLLQ1g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pulsar 社区周报｜2021-01-11～2021-01-17</title>
+    <updated>2021-01-19T18:57:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Nwl1I3yx9TnV0POM8Fk7ow</id>
+    <link href="https://mp.weixin.qq.com/s/Nwl1I3yx9TnV0POM8Fk7ow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​活动报名｜Pulsar Tea Party Beijing</title>
     <updated>2021-01-18T18:29:11+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-04T18:43:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/_R3MyQfA7KOhr30kw8MvfQ</id>
     <link href="https://mp.weixin.qq.com/s/_R3MyQfA7KOhr30kw8MvfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新年伊始🧨🧨🧨 Apache Pulsar 社区祝大家元旦快乐、健康平安！</title>
-    <updated>2020-12-31T18:04:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/uba_b4qKQh31JHLYhOJzVQ</id>
-    <link href="https://mp.weixin.qq.com/s/uba_b4qKQh31JHLYhOJzVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

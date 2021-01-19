@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>apachekylin | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:50:39+08:00</updated>
+  <updated>2021-01-19T20:50:58+08:00</updated>
   <subtitle>Apache Kylin 公众号，介绍 Kylin 的功能特性、应用案例、经验分享、社区资讯、活动等。更多信息，请访问 Kylin 官网：http://kylin.io；相关技术问题，请订阅 Apache Kylin 邮件列表交流。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Apache Kylin 在贝壳找房指标体系的应用</title>
+    <updated>2021-01-19T18:26:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/hsGjuaYfEfParcgTimBLnw</id>
+    <link href="https://mp.weixin.qq.com/s/hsGjuaYfEfParcgTimBLnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>12月社区回顾｜Kylin 4.0.0-Beta 发布倒计时</title>
     <updated>2021-01-14T15:08:02+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T17:30:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/--zV_NYWPj38cWL0PJShZA</id>
     <link href="https://mp.weixin.qq.com/s/--zV_NYWPj38cWL0PJShZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>未来可期 | Apache Kylin 5 周年庆典即将来袭！</title>
-    <updated>2020-12-03T17:52:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/CEIO2Yac38i5fBOHkqwiLA</id>
-    <link href="https://mp.weixin.qq.com/s/CEIO2Yac38i5fBOHkqwiLA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

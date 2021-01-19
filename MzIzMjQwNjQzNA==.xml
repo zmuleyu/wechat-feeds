@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>面包板社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:54:53+08:00</updated>
+  <updated>2021-01-19T20:58:32+08:00</updated>
   <subtitle>中国电子工程师社区；电子工程专辑、EDN电子技术设计、国际电子商情官方社区；为电子工程师提供论坛、博客、芯语、评测、直播、下载资料、技术文库、学院等功能服务；是电子工程师们喜爱的电子技术交流社区！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>芯片IC附近为什么放0.1uF的电容？1uF不行吗？</title>
+    <updated>2021-01-19T15:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/gkmKn1ufdqtRyHtdhs6BzQ</id>
+    <link href="https://mp.weixin.qq.com/s/gkmKn1ufdqtRyHtdhs6BzQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>制造工艺对PCB上的焊盘会有啥影响和要求？</title>
+    <updated>2021-01-19T15:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/0wLbjoep6fZixGSpMud8nQ</id>
+    <link href="https://mp.weixin.qq.com/s/0wLbjoep6fZixGSpMud8nQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>6大常用电源设计电路，电源工程师必备知识宝典！</title>
+    <updated>2021-01-19T15:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/IZ511uhoKYcuaHVbmd5Cvg</id>
+    <link href="https://mp.weixin.qq.com/s/IZ511uhoKYcuaHVbmd5Cvg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>示波器带宽如何计算？</title>
+    <updated>2021-01-19T15:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/tx3NBUXewuRKdEOhTx6-bg</id>
+    <link href="https://mp.weixin.qq.com/s/tx3NBUXewuRKdEOhTx6-bg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>天线知识图解（Antenna）</title>
+    <updated>2021-01-19T15:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/80WOnBGKdvoEIhw_8v3D-w</id>
+    <link href="https://mp.weixin.qq.com/s/80WOnBGKdvoEIhw_8v3D-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>手把手教你STM32标准库代码迁移为LL库代码</title>
+    <updated>2021-01-19T15:30:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/VdinSaRVp_xhIgE0h6TUjQ</id>
+    <link href="https://mp.weixin.qq.com/s/VdinSaRVp_xhIgE0h6TUjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开关电源工作原理详解析</title>
     <updated>2021-01-18T17:08:56+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-16T14:37:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-16:/s/h0Xd_32OUBjrGypIv3h9ag</id>
     <link href="https://mp.weixin.qq.com/s/h0Xd_32OUBjrGypIv3h9ag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GPIO输入输出各种模式（推挽、开漏、准双向端口）详解</title>
-    <updated>2021-01-16T14:37:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/NDAiz6PgPvvtJhHciO6UTQ</id>
-    <link href="https://mp.weixin.qq.com/s/NDAiz6PgPvvtJhHciO6UTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通信业的九大定律，最后一个扎心了</title>
-    <updated>2021-01-16T14:37:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/xIeRltwRJ4XEowDfBseHjA</id>
-    <link href="https://mp.weixin.qq.com/s/xIeRltwRJ4XEowDfBseHjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>电源纹波和噪声的测试测量和分析</title>
-    <updated>2021-01-16T14:37:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/jlmTZZMHlOX-sJvepfMK0w</id>
-    <link href="https://mp.weixin.qq.com/s/jlmTZZMHlOX-sJvepfMK0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>消除Buck转换器中的EMI问题</title>
-    <updated>2021-01-15T17:17:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/2S2YWQU9IWVIjh75OZ3-xQ</id>
-    <link href="https://mp.weixin.qq.com/s/2S2YWQU9IWVIjh75OZ3-xQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GPS定位原理经典详解</title>
-    <updated>2021-01-15T17:17:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/r8FplsmqINcV8wG9MvLH1w</id>
-    <link href="https://mp.weixin.qq.com/s/r8FplsmqINcV8wG9MvLH1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>提高天线性能的五大技巧</title>
-    <updated>2021-01-15T17:17:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/dBzkF6VKuAA6LHSe0CoqIg</id>
-    <link href="https://mp.weixin.qq.com/s/dBzkF6VKuAA6LHSe0CoqIg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

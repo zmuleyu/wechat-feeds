@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux阅码场 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:13:18+08:00</updated>
+  <updated>2021-01-19T20:43:07+08:00</updated>
   <subtitle>专业的Linux技术社区和Linux操作系统学习平台，内容涉及Linux内核,Linux内存管理,Linux进程管理,Linux文件系统和IO,Linux性能调优,Linux设备驱动以及Linux虚拟化和云计算等各方各面.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Linux内核是如何巧妙的初始化各个模块的</title>
+    <updated>2021-01-19T15:11:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/sHyuBlHWPrP1ge9ZpcpfBg</id>
+    <link href="https://mp.weixin.qq.com/s/sHyuBlHWPrP1ge9ZpcpfBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《深入剖析Linux内核页表技术-基于ARM64架构》在线视频课程</title>
     <updated>2021-01-16T09:11:51+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-03T09:11:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/q_A79nM6eSjmB7VAIb7fKQ</id>
     <link href="https://mp.weixin.qq.com/s/q_A79nM6eSjmB7VAIb7fKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一张图看懂linux内核中percpu变量的实现</title>
-    <updated>2021-01-02T09:55:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/-268olMG9FpbcA2WodJm-w</id>
-    <link href="https://mp.weixin.qq.com/s/-268olMG9FpbcA2WodJm-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

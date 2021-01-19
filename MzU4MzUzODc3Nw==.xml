@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阅文前端团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:30:10+08:00</updated>
+  <updated>2021-01-19T20:47:41+08:00</updated>
   <subtitle>阅文集团前端团队</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>震惊，type=&#34;range&#34; 居然可以实现评星功能</title>
+    <updated>2021-01-19T18:42:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/aD5BzGFnvMOY4cp_MvZ53A</id>
+    <link href="https://mp.weixin.qq.com/s/aD5BzGFnvMOY4cp_MvZ53A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不可思议，纯 css 都能图片滚动</title>
     <updated>2020-11-16T12:35:10+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2019-06-03T19:17:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2019-06-03:/s/j2g_hFvUSBcq_j74z89qUw</id>
     <link href="https://mp.weixin.qq.com/s/j2g_hFvUSBcq_j74z89qUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于 AMP Story，你需要知道这些</title>
-    <updated>2019-05-20T13:23:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2019-05-20:/s/ZSS4kQUJYt3LV5ORjZLRtA</id>
-    <link href="https://mp.weixin.qq.com/s/ZSS4kQUJYt3LV5ORjZLRtA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

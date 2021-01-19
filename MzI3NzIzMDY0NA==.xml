@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端先锋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:35:22+08:00</updated>
+  <updated>2021-01-19T20:37:02+08:00</updated>
   <subtitle>分享Web大前端相关的独家外文咨询、技术文章、工具资源、精选课程。帮你成为有品质的大前端全栈工程师。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JS数组将要增加的新方法：array.at(index)</title>
+    <updated>2021-01-18T12:34:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/BM5WPztH5IAckWUIm2NM6g</id>
+    <link href="https://mp.weixin.qq.com/s/BM5WPztH5IAckWUIm2NM6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>背景动画特效</title>
+    <updated>2021-01-18T12:34:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/mlvTY8F1TZ_E7dRYwaF_FQ</id>
+    <link href="https://mp.weixin.qq.com/s/mlvTY8F1TZ_E7dRYwaF_FQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用WebAssembly在浏览器中对视频进行转码</title>
     <updated>2021-01-17T14:45:55+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2021-01-09T13:57:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/itg9D23q1ILfbJc_rZ-Jrw</id>
     <link href="https://mp.weixin.qq.com/s/itg9D23q1ILfbJc_rZ-Jrw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HTML5 拖放API与Vue.js实战</title>
-    <updated>2021-01-08T16:39:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/FnLWlAOIoe-YgeRl3CZoKw</id>
-    <link href="https://mp.weixin.qq.com/s/FnLWlAOIoe-YgeRl3CZoKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你觉得这些特效哪个比较好？</title>
-    <updated>2021-01-08T16:39:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/XsPkSz7nVwvpIed-IA7CUA</id>
-    <link href="https://mp.weixin.qq.com/s/XsPkSz7nVwvpIed-IA7CUA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

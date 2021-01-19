@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码卫士 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:31:11+08:00</updated>
+  <updated>2021-01-19T20:32:32+08:00</updated>
   <subtitle>奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我俩也组了个队，找到一个苹果RCE 0day，获 $5 万奖金</title>
+    <updated>2021-01-19T17:49:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/KeB1bIPHDAOPNGToseKbBA</id>
+    <link href="https://mp.weixin.qq.com/s/KeB1bIPHDAOPNGToseKbBA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OpenWRT开源项目论坛遭未授权访问，可被用于供应链攻击</title>
+    <updated>2021-01-19T17:49:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/OlD09br9xG5TX-IZ5sFehQ</id>
+    <link href="https://mp.weixin.qq.com/s/OlD09br9xG5TX-IZ5sFehQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Malvuln：安全研究员创建的恶意软件漏洞库</title>
     <updated>2021-01-18T17:58:04+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-08T17:27:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/BBpfcaHSlmRe5ciojsynhA</id>
     <link href="https://mp.weixin.qq.com/s/BBpfcaHSlmRe5ciojsynhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国Hack the Army 3.0 漏洞奖励计划启动</title>
-    <updated>2021-01-08T17:27:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/9SIpPZusMC70OdOLTk7FMw</id>
-    <link href="https://mp.weixin.qq.com/s/9SIpPZusMC70OdOLTk7FMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇安信代码安全实验室帮助谷歌修复 Chrome 沙箱外高危漏洞，获官方致谢</title>
-    <updated>2021-01-07T15:27:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/sxo4ejm2M3mIsx3wM8H9cg</id>
-    <link href="https://mp.weixin.qq.com/s/sxo4ejm2M3mIsx3wM8H9cg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

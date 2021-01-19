@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:27:39+08:00</updated>
+  <updated>2021-01-19T21:01:37+08:00</updated>
   <subtitle>ITFLY8架构之家，专注于架构知识分享交流，涵盖项目管理和产品设计。包括大型分布式网站架构（高性能，高可用，缓存，消息队列...），设计模式，架构模式，大数据，项目管理(SCRUM,PMP,Prince2)，产品设计等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>RabbitMQ 核心知识总结</title>
+    <updated>2021-01-18T20:13:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/qDHi_p0C4inQLhwwUBbuqg</id>
+    <link href="https://mp.weixin.qq.com/s/qDHi_p0C4inQLhwwUBbuqg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构中10个常用的设计模式</title>
     <updated>2021-01-18T20:06:04+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-16T08:37:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/b7onHI1vVsLoRF4UIpLlhQ</id>
     <link href="https://mp.weixin.qq.com/s/b7onHI1vVsLoRF4UIpLlhQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年敏捷开发人员生存指南</title>
-    <updated>2020-12-12T10:44:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-12:/s/eHaabjEZ_2bEUn084qD4ug</id>
-    <link href="https://mp.weixin.qq.com/s/eHaabjEZ_2bEUn084qD4ug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

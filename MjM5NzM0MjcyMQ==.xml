@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:43:53+08:00</updated>
+  <updated>2021-01-19T20:47:37+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于Linux的平板OS发布，支持华为Matebook 14等设备</title>
+    <updated>2021-01-19T17:11:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/HJJ5fbtzkcCzofCi7i1-_A</id>
+    <link href="https://mp.weixin.qq.com/s/HJJ5fbtzkcCzofCi7i1-_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Visual Studio将原生支持WSL 2</title>
+    <updated>2021-01-19T17:11:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ikxbJp7OFzo4YlKE14xLXQ</id>
+    <link href="https://mp.weixin.qq.com/s/ikxbJp7OFzo4YlKE14xLXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 5.10.8发布：解决Btrfs的性能倒退问题</title>
+    <updated>2021-01-19T17:11:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/fLOmwl4hD_rtN-LamlxAhw</id>
+    <link href="https://mp.weixin.qq.com/s/fLOmwl4hD_rtN-LamlxAhw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google将禁用第三方Chromium浏览器Chrome同步功能</title>
+    <updated>2021-01-19T17:11:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/J9E86QNnY7Ml8SIXo8uG0w</id>
+    <link href="https://mp.weixin.qq.com/s/J9E86QNnY7Ml8SIXo8uG0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WIN 10漏洞：访问特定本地设备导致系统崩溃</title>
+    <updated>2021-01-19T17:11:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/znbSptv0emqDNTynj8tRyw</id>
+    <link href="https://mp.weixin.qq.com/s/znbSptv0emqDNTynj8tRyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>中央Linux操作系统协议供货开标，6家国产Linux系统厂商入围</title>
     <updated>2021-01-18T17:27:57+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-14T17:52:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/5LNZIj6XmheTuRG2Z3a2Jg</id>
     <link href="https://mp.weixin.qq.com/s/5LNZIj6XmheTuRG2Z3a2Jg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软、思科等公司源代码被公开出售，打包价100万美元</title>
-    <updated>2021-01-14T17:52:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/xXLCYwWSkhuNj0XYzmipvw</id>
-    <link href="https://mp.weixin.qq.com/s/xXLCYwWSkhuNj0XYzmipvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitHub解雇犹太裔员工引争议</title>
-    <updated>2021-01-14T17:52:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/QoYKRgCzPzJfSC2-ORiqGA</id>
-    <link href="https://mp.weixin.qq.com/s/QoYKRgCzPzJfSC2-ORiqGA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JuiceFS开源，一个基于Redis和云对象存储的分布式POSIX文件系统</title>
-    <updated>2021-01-14T17:52:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/i9StLxqYCp6uSqOMajjPJQ</id>
-    <link href="https://mp.weixin.qq.com/s/i9StLxqYCp6uSqOMajjPJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GNOME 40：将支持文件创建时间和墙纸预览</title>
-    <updated>2021-01-14T17:52:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/sBSuJl8RJuNTpoU815Zjjw</id>
-    <link href="https://mp.weixin.qq.com/s/sBSuJl8RJuNTpoU815Zjjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flash 未死</title>
-    <updated>2021-01-13T17:31:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Hu9Z2wLEhYJXkQnWtf7niA</id>
-    <link href="https://mp.weixin.qq.com/s/Hu9Z2wLEhYJXkQnWtf7niA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

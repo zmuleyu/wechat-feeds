@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WinTogether安全团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T02:11:13+08:00</updated>
+  <updated>2021-01-19T20:46:35+08:00</updated>
   <subtitle>WinTogether安全团队，专注分享信息安全相关文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>短信平台安全需求探索</title>
+    <updated>2021-01-19T18:50:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/4njxDC6mXN4p_eupuUxQdw</id>
+    <link href="https://mp.weixin.qq.com/s/4njxDC6mXN4p_eupuUxQdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>利用python开发app实战</title>
     <updated>2020-11-12T14:23:58+08:00</updated>
@@ -68,34 +75,6 @@
     <updated>2020-07-21T12:15:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-21:/s/qQZMv3ixC96Ih1kDcRtJyA</id>
     <link href="https://mp.weixin.qq.com/s/qQZMv3ixC96Ih1kDcRtJyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈DDos攻击与防御</title>
-    <updated>2020-07-20T14:47:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/Q5WZePoRpW7xrmjZpQI_kw</id>
-    <link href="https://mp.weixin.qq.com/s/Q5WZePoRpW7xrmjZpQI_kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fork炸弹漏洞</title>
-    <updated>2020-07-20T14:47:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/302-QqwhUJCSNbK0h66wUQ</id>
-    <link href="https://mp.weixin.qq.com/s/302-QqwhUJCSNbK0h66wUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PyCmd 加密隐形木马</title>
-    <updated>2020-07-20T14:47:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/BrdmeaqmbTayL97RT6fUMA</id>
-    <link href="https://mp.weixin.qq.com/s/BrdmeaqmbTayL97RT6fUMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Supervisord管理进程实践</title>
-    <updated>2020-07-20T14:47:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-20:/s/0RZwtflQ9k8L9nqa2ySRrQ</id>
-    <link href="https://mp.weixin.qq.com/s/0RZwtflQ9k8L9nqa2ySRrQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
