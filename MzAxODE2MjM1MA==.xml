@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端大全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:56:02+08:00</updated>
+  <updated>2021-01-19T23:31:53+08:00</updated>
   <subtitle>分享 Web 前端相关的技术文章、工具资源、精选课程、热点资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>送给React开发者的八条优化建议</title>
+    <updated>2021-01-19T20:50:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/JYglFA5sTnUikimfyLRbCQ</id>
+    <link href="https://mp.weixin.qq.com/s/JYglFA5sTnUikimfyLRbCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深拷贝 浅拷贝</title>
+    <updated>2021-01-19T20:50:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/hHJ1YSOC05XZfCoP-HTAsQ</id>
+    <link href="https://mp.weixin.qq.com/s/hHJ1YSOC05XZfCoP-HTAsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>做了一夜动画，就为让大家更好的理解Vue3的Composition Api</title>
     <updated>2021-01-18T11:08:33+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T19:47:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/RwNEEh-zEjMxGgi7r1dG7A</id>
     <link href="https://mp.weixin.qq.com/s/RwNEEh-zEjMxGgi7r1dG7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么那么多自学 Web 前端的人后来都放弃了?</title>
-    <updated>2021-01-10T23:35:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/D2HfEJZ84Hjppb504GooTQ</id>
-    <link href="https://mp.weixin.qq.com/s/D2HfEJZ84Hjppb504GooTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何利用 JavaScript 实现并发控制</title>
-    <updated>2021-01-10T23:35:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/JutrrNaSdxeMaP49ucWjzA</id>
-    <link href="https://mp.weixin.qq.com/s/JutrrNaSdxeMaP49ucWjzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

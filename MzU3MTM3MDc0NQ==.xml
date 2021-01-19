@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T23:37:06+08:00</updated>
+  <updated>2021-01-19T23:36:31+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>美团酒旅数据治理实践</title>
+    <updated>2021-01-19T20:02:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/j_c2P69pi_fWoK4DamFotA</id>
+    <link href="https://mp.weixin.qq.com/s/j_c2P69pi_fWoK4DamFotA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>新一代数据仓库：Snowflake 弹性数仓介绍</title>
+    <updated>2021-01-19T20:02:47+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/_jrQfO2RP3-jdgwVEvEB-g</id>
+    <link href="https://mp.weixin.qq.com/s/_jrQfO2RP3-jdgwVEvEB-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生数据库设计新思路</title>
     <updated>2021-01-17T15:24:20+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-08T23:53:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/lUXEUw5aEdNAx3q451341g</id>
     <link href="https://mp.weixin.qq.com/s/lUXEUw5aEdNAx3q451341g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入理解Presto基本原理</title>
-    <updated>2021-01-07T23:34:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/Hv3LezVhgYvbwiP391-mEw</id>
-    <link href="https://mp.weixin.qq.com/s/Hv3LezVhgYvbwiP391-mEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Presto在滴滴的探索与实践</title>
-    <updated>2021-01-07T23:34:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/ixLGhZiwy0MBmUvtQYdnDg</id>
-    <link href="https://mp.weixin.qq.com/s/ixLGhZiwy0MBmUvtQYdnDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

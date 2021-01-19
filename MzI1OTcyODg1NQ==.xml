@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>运维派 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T23:42:37+08:00</updated>
+  <updated>2021-01-19T23:36:55+08:00</updated>
   <subtitle>领先的IT运维社区，和运维同学们一起交流成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JumpServer漏洞通知及修复方案</title>
+    <updated>2021-01-19T21:56:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ReSbGdRxjTpO4CLKMcLolA</id>
+    <link href="https://mp.weixin.qq.com/s/ReSbGdRxjTpO4CLKMcLolA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>企业web实战之OpenResty</title>
+    <updated>2021-01-19T21:56:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/M4VcgVcJrsCUjF2F8QtxJg</id>
+    <link href="https://mp.weixin.qq.com/s/M4VcgVcJrsCUjF2F8QtxJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Zabbix 通过 API 监控 k8s</title>
     <updated>2021-01-18T22:04:30+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-10T21:30:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/mMVw2P7h0FiqrgdoFbzyig</id>
     <link href="https://mp.weixin.qq.com/s/mMVw2P7h0FiqrgdoFbzyig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详细分析du和df的统计结果为什么不一样</title>
-    <updated>2021-01-09T18:32:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/MEru6PD2cwJZxuPsQA2OJg</id>
-    <link href="https://mp.weixin.qq.com/s/MEru6PD2cwJZxuPsQA2OJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang从小白到精通——映射</title>
-    <updated>2021-01-09T18:32:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/pqt058Y9C0qXTWjQ3uGfxA</id>
-    <link href="https://mp.weixin.qq.com/s/pqt058Y9C0qXTWjQ3uGfxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T20:29:37+08:00</updated>
+  <updated>2021-01-19T23:28:31+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink 社区 | 蝉联 Apache 最活跃项目，Apache Flink 真流批</title>
+    <updated>2021-01-19T21:55:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/K2fmnJ4ul76N2rlr7lLGMQ</id>
+    <link href="https://mp.weixin.qq.com/s/K2fmnJ4ul76N2rlr7lLGMQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink 升级 | 滴滴 Flink-1.10 升级之路</title>
     <updated>2021-01-17T18:54:00+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2020-12-31T08:15:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/PykzHotC3WRMpRhiiKXQxg</id>
     <link href="https://mp.weixin.qq.com/s/PykzHotC3WRMpRhiiKXQxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hudi原理 | 在Apache Hudi中为快速更删配置合适的索引</title>
-    <updated>2020-12-30T13:43:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/BnfNqxPEN22iwe5aJTR0zw</id>
-    <link href="https://mp.weixin.qq.com/s/BnfNqxPEN22iwe5aJTR0zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kylin规划 | 谈谈 Kylin 5 年的成长与未来规划</title>
-    <updated>2020-12-30T13:43:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/68f8XmbmD9ee_Q2qehtdrA</id>
-    <link href="https://mp.weixin.qq.com/s/68f8XmbmD9ee_Q2qehtdrA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

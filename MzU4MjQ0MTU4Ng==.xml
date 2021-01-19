@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T16:53:29+08:00</updated>
+  <updated>2021-01-19T23:43:31+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 几个常见对象概述图</title>
+    <updated>2021-01-19T20:39:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/XGvtAjUEfP3NyS_l8I4YpA</id>
+    <link href="https://mp.weixin.qq.com/s/XGvtAjUEfP3NyS_l8I4YpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>简单示例说明 kube-proxy 如何与 iptables 配合使用</title>
     <updated>2021-01-16T14:57:52+08:00</updated>
@@ -50,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>抗住千万级并发量原来并没有那么难！</title>
-    <updated>2021-01-12T12:10:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/yMukuT-Br2g1D3azmLmKqQ</id>
-    <link href="https://mp.weixin.qq.com/s/yMukuT-Br2g1D3azmLmKqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Kubernetes 源码分析之 kubelet(四)</title>
     <updated>2021-01-12T12:10:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/sphh9audcToHQvwhe3Otng</id>
@@ -96,13 +96,6 @@
     <updated>2021-01-08T09:13:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/nC538hWbd6JKAApG8tjwbA</id>
     <link href="https://mp.weixin.qq.com/s/nC538hWbd6JKAApG8tjwbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 OpenEBS 实现 Local PV 动态持久化存储</title>
-    <updated>2021-01-07T11:43:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/qHHX0zBE-eUSG6Gnn247bw</id>
-    <link href="https://mp.weixin.qq.com/s/qHHX0zBE-eUSG6Gnn247bw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

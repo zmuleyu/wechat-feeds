@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>政采云前端团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:16:44+08:00</updated>
+  <updated>2021-01-19T23:49:25+08:00</updated>
   <subtitle>ZooTeam 带你一起探索前端开发的乐趣！前端相关技术沉淀、工程化建设、团队及职业成长分享，你想要的，我都有～</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Flutter 技能篇】你不得不会的状态管理 Provider</title>
+    <updated>2021-01-19T16:06:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/A3XSi6_RT9wRxNK5056P6w</id>
+    <link href="https://mp.weixin.qq.com/s/A3XSi6_RT9wRxNK5056P6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>结合 React 源码，五分钟带你掌握优先队列</title>
     <updated>2021-01-12T10:51:00+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-17T10:28:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-17:/s/s6fVoY31MqUXrW8RPka3pA</id>
     <link href="https://mp.weixin.qq.com/s/s6fVoY31MqUXrW8RPka3pA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>结合阿里云 FC 谈谈我对 FaaS 的理解</title>
-    <updated>2020-11-08T12:21:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-08:/s/cZm1sdMB7Cid48KD-0mpkA</id>
-    <link href="https://mp.weixin.qq.com/s/cZm1sdMB7Cid48KD-0mpkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

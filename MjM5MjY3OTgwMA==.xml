@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ThoughtWorks洞见 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:43:13+08:00</updated>
+  <updated>2021-01-19T23:40:21+08:00</updated>
   <subtitle>最新技术雷达/各类技术干货/精选职位招聘/精彩活动预告/经典案例故事，就在ThoughtWorks。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>DDD实现之路</title>
+    <updated>2021-01-18T17:15:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/bDMX35eYkIwJ62o5fqHJ9w</id>
+    <link href="https://mp.weixin.qq.com/s/bDMX35eYkIwJ62o5fqHJ9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>软件需求膨胀系数</title>
     <updated>2021-01-13T16:44:54+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T15:46:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/tdYf1Kl3D4d9GuJZZEs5yg</id>
     <link href="https://mp.weixin.qq.com/s/tdYf1Kl3D4d9GuJZZEs5yg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>配置即代码：先有鸡还是先有蛋</title>
-    <updated>2020-12-29T18:11:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/dKI3RZYc2-O-gc0SBJw8mA</id>
-    <link href="https://mp.weixin.qq.com/s/dKI3RZYc2-O-gc0SBJw8mA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
