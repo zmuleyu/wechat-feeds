@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T16:31:06+08:00</updated>
+  <updated>2021-01-19T17:04:28+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>渗透测试之啥也不是</title>
+    <updated>2021-01-19T15:22:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/D6vpyQ7_lcU-75RCSzSqpA</id>
+    <link href="https://mp.weixin.qq.com/s/D6vpyQ7_lcU-75RCSzSqpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>拯救“独行侠”，一起hacker呀</title>
+    <updated>2021-01-19T15:22:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/EbfioEZjfIqcAj7MuU334Q</id>
+    <link href="https://mp.weixin.qq.com/s/EbfioEZjfIqcAj7MuU334Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Flink CVE-2020-17519/17518 漏洞复现</title>
     <updated>2021-01-18T13:50:29+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-06T15:08:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/gqYHaRC3bbTGfJeG-IVxCQ</id>
     <link href="https://mp.weixin.qq.com/s/gqYHaRC3bbTGfJeG-IVxCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记一次曲折的后台 getshell 过程</title>
-    <updated>2021-01-05T14:41:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/gZuXAtV7YWcbKAEIefxYNA</id>
-    <link href="https://mp.weixin.qq.com/s/gZuXAtV7YWcbKAEIefxYNA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

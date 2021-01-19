@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:36:47+08:00</updated>
+  <updated>2021-01-19T16:41:53+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里开源的 Arthas 在做 Java 应用诊断上真真太牛逼了！！</title>
+    <updated>2021-01-19T15:19:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ojX_5_5y9gnrUIWIutX1BQ</id>
+    <link href="https://mp.weixin.qq.com/s/ojX_5_5y9gnrUIWIutX1BQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么牛逼的程序员都不用 “ ! = null &#34; 做判空？</title>
+    <updated>2021-01-19T15:19:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/fGrclYt2G9GXmFVcBcYSRA</id>
+    <link href="https://mp.weixin.qq.com/s/fGrclYt2G9GXmFVcBcYSRA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>连类图都不会看，你也好意思说你要做架构师？</title>
+    <updated>2021-01-19T15:19:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Xu7Tupcjd8io1uc3VD42Sg</id>
+    <link href="https://mp.weixin.qq.com/s/Xu7Tupcjd8io1uc3VD42Sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不写代码搞定微服务架构改造，我信了你的邪...</title>
     <updated>2021-01-17T22:31:36+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T14:09:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/hwX78-eipE93wO1RThCIuA</id>
     <link href="https://mp.weixin.qq.com/s/hwX78-eipE93wO1RThCIuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>牛逼，竟然还有程序员考公指南</title>
-    <updated>2021-01-12T14:09:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Prj-Kkxnm86g-r5VOzWLxQ</id>
-    <link href="https://mp.weixin.qq.com/s/Prj-Kkxnm86g-r5VOzWLxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>是什么让我放弃了restful api？了解清楚后我全面拥抱GraphQL</title>
-    <updated>2021-01-10T21:41:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xoipLc_ySMihN_PeiHUTsg</id>
-    <link href="https://mp.weixin.qq.com/s/xoipLc_ySMihN_PeiHUTsg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#34;服务不可用&#34;怎么排查？讲了100遍还是记不住？</title>
-    <updated>2021-01-10T21:41:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/wMkaD6fbTQhRwuvrkc7IlA</id>
-    <link href="https://mp.weixin.qq.com/s/wMkaD6fbTQhRwuvrkc7IlA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

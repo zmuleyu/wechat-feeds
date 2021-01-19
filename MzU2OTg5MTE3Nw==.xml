@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>网安前哨 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:47:34+08:00</updated>
+  <updated>2021-01-19T16:40:03+08:00</updated>
   <subtitle>只为信息安全。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>dylib注入</title>
+    <updated>2021-01-19T15:59:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/x-sgKiaAtwE1gjTAC5RmAQ</id>
+    <link href="https://mp.weixin.qq.com/s/x-sgKiaAtwE1gjTAC5RmAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>著名CPU CVE Spectre幽灵漏洞简述</title>
     <updated>2020-12-18T16:00:04+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-02T11:11:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-02:/s/RBspyPIPjIOCP5fo53nLfQ</id>
     <link href="https://mp.weixin.qq.com/s/RBspyPIPjIOCP5fo53nLfQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈金融数据安全分级</title>
-    <updated>2020-08-26T14:44:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-26:/s/5UDmMgbWHkubG3XA9uT4Vw</id>
-    <link href="https://mp.weixin.qq.com/s/5UDmMgbWHkubG3XA9uT4Vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

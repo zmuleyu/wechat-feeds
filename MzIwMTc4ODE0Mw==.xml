@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:41:41+08:00</updated>
+  <updated>2021-01-19T16:49:28+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么我建议你自己创建深度学习框架？</title>
+    <updated>2021-01-19T13:09:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/5GMxCmG6j7VVL5vZV0v0yw</id>
+    <link href="https://mp.weixin.qq.com/s/5GMxCmG6j7VVL5vZV0v0yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深入浅出线性判别分析（LDA），从理论到代码实现</title>
+    <updated>2021-01-19T13:09:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/EClVFf-79JNIF-a6G7ZXTw</id>
+    <link href="https://mp.weixin.qq.com/s/EClVFf-79JNIF-a6G7ZXTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | 清华大学李一鸣：后门攻击简介</title>
+    <updated>2021-01-19T13:09:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/21_NCmds7MYmkmFyycXMzA</id>
+    <link href="https://mp.weixin.qq.com/s/21_NCmds7MYmkmFyycXMzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>保姆式参赛教程全公开，居然还送10万奖金？</title>
     <updated>2021-01-18T18:20:24+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-13T13:42:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/9uJ9hIkXTzyTjpfGN936SA</id>
     <link href="https://mp.weixin.qq.com/s/9uJ9hIkXTzyTjpfGN936SA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>三天挑战自己构建深度学习框架，你敢来尝试吗？</title>
-    <updated>2021-01-12T12:14:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/weVAYyb9ZmLnfe72N5A8Dw</id>
-    <link href="https://mp.weixin.qq.com/s/weVAYyb9ZmLnfe72N5A8Dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>文末送书 | 清华CoAI课题组新书《现代自然语言生成》正式发布！</title>
-    <updated>2021-01-12T12:14:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/ZkddXiaDCcOj4PvPqrkmfA</id>
-    <link href="https://mp.weixin.qq.com/s/ZkddXiaDCcOj4PvPqrkmfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | AAAI 2021：自然语言中token-aware的虚拟对抗样本训练</title>
-    <updated>2021-01-12T12:14:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/43WWgYaM2nsQHA5nCUGXBA</id>
-    <link href="https://mp.weixin.qq.com/s/43WWgYaM2nsQHA5nCUGXBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
