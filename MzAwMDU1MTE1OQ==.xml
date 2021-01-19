@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:48:52+08:00</updated>
+  <updated>2021-01-19T14:05:36+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个优秀的云原生架构需要注意哪些地方</title>
+    <updated>2021-01-19T09:09:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/r13oL9y5dVxBz_BzHUb-8A</id>
+    <link href="https://mp.weixin.qq.com/s/r13oL9y5dVxBz_BzHUb-8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TiDB 在 Raft 成员变更上踩的坑</title>
     <updated>2021-01-18T17:00:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-07T14:27:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/732YhAZAStir0MgGRCqrvQ</id>
     <link href="https://mp.weixin.qq.com/s/732YhAZAStir0MgGRCqrvQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高并发编程很难吗？未必！</title>
-    <updated>2021-01-06T09:43:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ocUQ8XGCmpZeQf3lNUS1iA</id>
-    <link href="https://mp.weixin.qq.com/s/ocUQ8XGCmpZeQf3lNUS1iA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

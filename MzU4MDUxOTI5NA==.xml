@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>闲鱼技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T13:59:16+08:00</updated>
+  <updated>2021-01-19T13:51:31+08:00</updated>
   <subtitle>阿里巴巴-闲鱼技术团队官方账号。 招服务端／客户端／前端／算法／架构／质量工程师，简历投递guicai.gxy@alibaba-inc.com</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>闲鱼是怎么让二手属性抽取准确率达到95%+的？</title>
+    <updated>2021-01-19T11:21:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/f48tN-puGmDkCZKNUwCeCQ</id>
+    <link href="https://mp.weixin.qq.com/s/f48tN-puGmDkCZKNUwCeCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flutter 高性能、多功能的全场景滚动容器，一定要看！</title>
     <updated>2021-01-13T17:43:38+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T12:08:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/t_xjkegwijGJKHD-tS0PoA</id>
     <link href="https://mp.weixin.qq.com/s/t_xjkegwijGJKHD-tS0PoA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Serverless弹性伸缩的现状调研（超详细）</title>
-    <updated>2020-12-17T11:34:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/HqFFhZYRTXXnstaP08hyRA</id>
-    <link href="https://mp.weixin.qq.com/s/HqFFhZYRTXXnstaP08hyRA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

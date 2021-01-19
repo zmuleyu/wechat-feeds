@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T13:51:56+08:00</updated>
+  <updated>2021-01-19T13:55:36+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动第一场败仗——20亿投资打水漂，悟空问答凉了</title>
+    <updated>2021-01-18T23:28:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/qAUtxzC4JCOHSJvizeBelg</id>
+    <link href="https://mp.weixin.qq.com/s/qAUtxzC4JCOHSJvizeBelg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>快过年了，送一台华为手机，包邮！</title>
+    <updated>2021-01-18T23:28:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/R4AaXXheSOmgsV3nUnfPog</id>
+    <link href="https://mp.weixin.qq.com/s/R4AaXXheSOmgsV3nUnfPog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试会涉及到 Modern C++ 哪些知识点？</title>
     <updated>2021-01-18T12:00:21+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T11:41:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/vQWrVJPDv4o1ZENU9xu85g</id>
     <link href="https://mp.weixin.qq.com/s/vQWrVJPDv4o1ZENU9xu85g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL为Null会导致5个问题，个个致命！</title>
-    <updated>2021-01-12T11:41:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/U7IqYD9XXGo0eHUuLa13jw</id>
-    <link href="https://mp.weixin.qq.com/s/U7IqYD9XXGo0eHUuLa13jw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爱奇艺MySQL高可用方案概述</title>
-    <updated>2021-01-11T10:58:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/8mT5QBjCBXiqX1n3Ikkgrw</id>
-    <link href="https://mp.weixin.qq.com/s/8mT5QBjCBXiqX1n3Ikkgrw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

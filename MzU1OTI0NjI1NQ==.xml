@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T13:40:41+08:00</updated>
+  <updated>2021-01-19T13:41:05+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python 中 Mock 到底该怎么玩？一篇文章告诉你（超全）</title>
+    <updated>2021-01-18T23:34:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/GPYuKdTM5UkjpI1L-QZYLA</id>
+    <link href="https://mp.weixin.qq.com/s/GPYuKdTM5UkjpI1L-QZYLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>24小时删 | 最后一次分享这套课程资源，得此资源金融能力突飞猛涨！</title>
     <updated>2021-01-17T14:46:30+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-01T11:28:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/Vf3ELd9v4dUfXPEcURy3Dw</id>
     <link href="https://mp.weixin.qq.com/s/Vf3ELd9v4dUfXPEcURy3Dw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别这样直接运行 Python 命令，否则电脑等于“裸奔”</title>
-    <updated>2020-12-31T09:43:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/yR9Xq-aEuDrZ2l_bm5uvBA</id>
-    <link href="https://mp.weixin.qq.com/s/yR9Xq-aEuDrZ2l_bm5uvBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

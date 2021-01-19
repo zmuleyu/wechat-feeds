@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>一线码农聊技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:15:47+08:00</updated>
+  <updated>2021-01-19T14:07:55+08:00</updated>
   <subtitle>一个摆地摊的十年资深老码农，爱互动爱交流，专注于分享[C#，数据库，算法]三大领域独家经验，带你一起解读底层源码，分析程序用户态和内核态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何使用 C# 中的 ValueTuple</title>
+    <updated>2021-01-19T12:45:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/pLrC-rllH6rQFggc_IXENA</id>
+    <link href="https://mp.weixin.qq.com/s/pLrC-rllH6rQFggc_IXENA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>浅谈如何理解领域驱动设计</title>
+    <updated>2021-01-19T12:45:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/OGuDxLdu0NENxIUoAmqgzw</id>
+    <link href="https://mp.weixin.qq.com/s/OGuDxLdu0NENxIUoAmqgzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.Net在线编辑工具.NET Fiddle</title>
+    <updated>2021-01-19T12:45:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/_MsmHv4G_CcRhh-y-MqpIQ</id>
+    <link href="https://mp.weixin.qq.com/s/_MsmHv4G_CcRhh-y-MqpIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>因为拒绝转Java，结果居然是这样的...</title>
     <updated>2021-01-17T22:03:50+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T09:53:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/pk0WnDGf7xPgNK4CthhLOA</id>
     <link href="https://mp.weixin.qq.com/s/pk0WnDGf7xPgNK4CthhLOA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 MSMQ</title>
-    <updated>2021-01-11T13:38:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/LZt11q7SRZtvbPHMsH7Osw</id>
-    <link href="https://mp.weixin.qq.com/s/LZt11q7SRZtvbPHMsH7Osw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>C# 中的 null 包容运算符 “!” —— 概念、由来、用法和注意事项</title>
-    <updated>2021-01-11T13:38:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/_bisB5tih4g8BfFj5OlYwA</id>
-    <link href="https://mp.weixin.qq.com/s/_bisB5tih4g8BfFj5OlYwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 ASP.NET Core 中使用多种方式给 Action 传参</title>
-    <updated>2021-01-11T13:38:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/O_9MlbjQjBcGKcjgQVGI8Q</id>
-    <link href="https://mp.weixin.qq.com/s/O_9MlbjQjBcGKcjgQVGI8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

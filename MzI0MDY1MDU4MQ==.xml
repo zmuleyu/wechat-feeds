@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>嘶吼专业版 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T13:46:35+08:00</updated>
+  <updated>2021-01-19T13:47:46+08:00</updated>
   <subtitle>为您带来每日最新最专业的互联网安全专业信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>QQ读取浏览器历史记录 这个锅就不要再甩了</title>
+    <updated>2021-01-19T12:46:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/7ywvqY5PXXGHBHB-4ebzCQ</id>
+    <link href="https://mp.weixin.qq.com/s/7ywvqY5PXXGHBHB-4ebzCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Zimbra-SOAP-API开发指南part 2</title>
+    <updated>2021-01-19T12:46:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ecUtoGqLhtO2MkBMuGDbBQ</id>
+    <link href="https://mp.weixin.qq.com/s/ecUtoGqLhtO2MkBMuGDbBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Google在其Android应用商店中封杀了Parler程序</title>
+    <updated>2021-01-19T12:46:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/lvzwn30ov8xrQw9WLOkyDA</id>
+    <link href="https://mp.weixin.qq.com/s/lvzwn30ov8xrQw9WLOkyDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Spotify在又一次的数据泄露后督促用户更改密码</title>
+    <updated>2021-01-19T12:46:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/-Ey4r1XkVqK9qZy4uUn4tg</id>
+    <link href="https://mp.weixin.qq.com/s/-Ey4r1XkVqK9qZy4uUn4tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>美联储警告：黑客正在绕过MFA进行云计算攻击</title>
+    <updated>2021-01-19T12:46:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/w4oXSRYFcPfpYZNh2zyTCQ</id>
+    <link href="https://mp.weixin.qq.com/s/w4oXSRYFcPfpYZNh2zyTCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>勒索软件2.0时代已经到来，你准备好了吗？</title>
     <updated>2021-01-18T11:01:49+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-14T10:51:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/efRLT8o_puZmy3vlMJyoiw</id>
     <link href="https://mp.weixin.qq.com/s/efRLT8o_puZmy3vlMJyoiw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>趋势科技对 Earth Kitsune 攻击中 SLUB 恶意软件的分析（下）</title>
-    <updated>2021-01-14T10:51:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/e1bRN9kp8sgHMckiksW5Ig</id>
-    <link href="https://mp.weixin.qq.com/s/e1bRN9kp8sgHMckiksW5Ig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>英特尔向第11代CPU添加了基于硬件的勒索软件检测功能</title>
-    <updated>2021-01-13T10:31:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/LyyLXPdpHulHcjojszD8PQ</id>
-    <link href="https://mp.weixin.qq.com/s/LyyLXPdpHulHcjojszD8PQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>世界各地大量社交资料遭泄露</title>
-    <updated>2021-01-13T10:31:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/QEg2edxazOu60UL7xSw-HA</id>
-    <link href="https://mp.weixin.qq.com/s/QEg2edxazOu60UL7xSw-HA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>mac 恶意软件使用run-only AppleScripts绕过检测</title>
-    <updated>2021-01-13T10:31:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ImpbZZPezJhglJm8eUlfbQ</id>
-    <link href="https://mp.weixin.qq.com/s/ImpbZZPezJhglJm8eUlfbQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度剖析站点隔离机制，Part 2（上）</title>
-    <updated>2021-01-13T10:31:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/1RfXMG0gPt5-OrzhrhSliA</id>
-    <link href="https://mp.weixin.qq.com/s/1RfXMG0gPt5-OrzhrhSliA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
