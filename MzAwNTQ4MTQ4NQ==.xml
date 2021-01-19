@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T07:54:34+08:00</updated>
+  <updated>2021-01-19T08:01:17+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构师别太高估自己！你只是团队的“引擎”而已……</title>
+    <updated>2021-01-18T20:22:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/Q57FerEFsK_rQ0Qrq9n_YA</id>
+    <link href="https://mp.weixin.qq.com/s/Q57FerEFsK_rQ0Qrq9n_YA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何更优雅的写出你的SQL语句</title>
+    <updated>2021-01-18T20:22:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/R9HFxLRHLpQYo42LfBQYwg</id>
+    <link href="https://mp.weixin.qq.com/s/R9HFxLRHLpQYo42LfBQYwg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>45 张图深度解析 Netty 架构与原理</title>
     <updated>2021-01-17T20:49:29+08:00</updated>
@@ -43,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Java是编程语言“常青树”？这也太强了！</title>
-    <updated>2021-01-10T16:22:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/7paIcPMefHPM93vI9QWpBQ</id>
-    <link href="https://mp.weixin.qq.com/s/7paIcPMefHPM93vI9QWpBQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>拜托！别再问我多线程的这些问题了</title>
     <updated>2021-01-10T16:22:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/GGe6Ca-Bl-TiZbl7O_hd4Q</id>
@@ -75,13 +82,6 @@
     <updated>2021-01-04T18:49:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/ZKldMmN1Y4eH5BpUi3Vc6Q</id>
     <link href="https://mp.weixin.qq.com/s/ZKldMmN1Y4eH5BpUi3Vc6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一口气说出 5 种互联网高并发 IO 模型</title>
-    <updated>2021-01-03T17:02:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/M0766zHq3X-W2eDM39bNDg</id>
-    <link href="https://mp.weixin.qq.com/s/M0766zHq3X-W2eDM39bNDg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

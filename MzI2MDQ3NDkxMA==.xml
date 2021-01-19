@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T08:07:47+08:00</updated>
+  <updated>2021-01-19T07:58:51+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>设计 | 体会软件设计之美（5）</title>
+    <updated>2021-01-19T07:33:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/x7mDflo-7gn-wxx_U7GuFA</id>
+    <link href="https://mp.weixin.qq.com/s/x7mDflo-7gn-wxx_U7GuFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何在 C# 8 中使用 模式匹配</title>
+    <updated>2021-01-19T07:33:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/mCaFJyd0FLzsG93fNmXQCw</id>
+    <link href="https://mp.weixin.qq.com/s/mCaFJyd0FLzsG93fNmXQCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深入浅出Dotnet Core的项目结构变化</title>
     <updated>2021-01-15T18:52:41+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2021-01-06T07:59:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/znRKyA2tw4Rp8K5tIKdM6Q</id>
     <link href="https://mp.weixin.qq.com/s/znRKyA2tw4Rp8K5tIKdM6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
-    <updated>2021-01-05T07:42:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/512yme36O0gB7FcXvjpLtQ</id>
-    <link href="https://mp.weixin.qq.com/s/512yme36O0gB7FcXvjpLtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

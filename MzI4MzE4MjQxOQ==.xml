@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T07:43:29+08:00</updated>
+  <updated>2021-01-19T07:48:54+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何构建合理的数据指标体系</title>
+    <updated>2021-01-18T20:02:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/K2JZaTBO5C06t1cIkS8xqA</id>
+    <link href="https://mp.weixin.qq.com/s/K2JZaTBO5C06t1cIkS8xqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hadoop周边组件学习笔记</title>
     <updated>2021-01-18T07:24:26+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-07T21:39:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/15o-wCmJcFHN5QPirYH-KQ</id>
     <link href="https://mp.weixin.qq.com/s/15o-wCmJcFHN5QPirYH-KQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink学习笔记</title>
-    <updated>2021-01-06T22:08:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9FqC1cnyJbQHJ1K-naEXKw</id>
-    <link href="https://mp.weixin.qq.com/s/9FqC1cnyJbQHJ1K-naEXKw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

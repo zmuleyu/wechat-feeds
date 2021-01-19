@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:54:09+08:00</updated>
+  <updated>2021-01-19T07:59:54+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021规划：我只想学Python搞钱！</title>
+    <updated>2021-01-19T00:06:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/HSi68Ik82pJB2zgBkhUXpQ</id>
+    <link href="https://mp.weixin.qq.com/s/HSi68Ik82pJB2zgBkhUXpQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用 C# 中的 ValueTuple</title>
+    <updated>2021-01-19T00:06:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/4nJiA8rT7Jt6GkRrPE88eg</id>
+    <link href="https://mp.weixin.qq.com/s/4nJiA8rT7Jt6GkRrPE88eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>await,async 我要把它翻个底朝天，这回你总该明白了吧</title>
+    <updated>2021-01-19T00:06:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/EQB-PY1Oj2XlLOUYPyAWbQ</id>
+    <link href="https://mp.weixin.qq.com/s/EQB-PY1Oj2XlLOUYPyAWbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 8 中使用 异步流</title>
     <updated>2021-01-18T17:32:16+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-11T13:31:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/aS3XeCUSPQu8dFKYoRxsOw</id>
     <link href="https://mp.weixin.qq.com/s/aS3XeCUSPQu8dFKYoRxsOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中写出更干净的 Controller</title>
-    <updated>2021-01-10T11:56:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/ASKNuScYmR9jlI576sdicA</id>
-    <link href="https://mp.weixin.qq.com/s/ASKNuScYmR9jlI576sdicA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>List的扩容机制，你真的明白吗？</title>
-    <updated>2021-01-10T11:56:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/syEr8QiLrBoIB1RRYvySLQ</id>
-    <link href="https://mp.weixin.qq.com/s/syEr8QiLrBoIB1RRYvySLQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 入门系列 —— 20. Set的CURD操作</title>
-    <updated>2021-01-10T11:56:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/fkWVdWC3_84NsLXeJtdCNw</id>
-    <link href="https://mp.weixin.qq.com/s/fkWVdWC3_84NsLXeJtdCNw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

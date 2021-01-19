@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T07:50:15+08:00</updated>
+  <updated>2021-01-19T07:57:12+08:00</updated>
   <subtitle>每一步成长都想与你分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>花了一年多的时间，写了 30 篇关于 Kafka 的文章</title>
+    <updated>2021-01-18T23:05:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-18:/s/eRevb5ANVQ4Ln1zNxnE-9g</id>
+    <link href="https://mp.weixin.qq.com/s/eRevb5ANVQ4Ln1zNxnE-9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>比MySQL快801倍，比Vertica快5倍，比Hive快279倍，猜猜它是谁？</title>
     <updated>2021-01-17T18:24:22+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-15T11:11:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-15:/s/V1kJFg0WThlNYyWiVZ08sA</id>
     <link href="https://mp.weixin.qq.com/s/V1kJFg0WThlNYyWiVZ08sA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Hexo + Gitee 快速搭建属于自己的博客</title>
-    <updated>2020-12-13T15:45:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/2VDKw4rfm73W8xEaTuqnYQ</id>
-    <link href="https://mp.weixin.qq.com/s/2VDKw4rfm73W8xEaTuqnYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
