@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI算法修炼营 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:28:15+08:00</updated>
+  <updated>2021-01-20T23:26:08+08:00</updated>
   <subtitle>由985高校和名企人工智能团队人员创建，专注于机器学习、深度学习、计算机视觉、自动驾驶、机器人等领域。分享最新最前沿的科技与宝贵的资源资料，也有学术论文、职业规划、求职心得、IT等经验交流。很高兴与你相遇。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>不在 BAT，该怎么练就大厂眼界？</title>
-    <updated>2020-12-15T14:06:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/iy68_OWx2iKlZcKAr9q3Xg</id>
-    <link href="https://mp.weixin.qq.com/s/iy68_OWx2iKlZcKAr9q3Xg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最新教程 | Pytorch还是Tensorflow两大框架，快来查收你的超强实战指南</title>
-    <updated>2020-12-13T22:10:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/r7NunmS7aIztXsnR3jjp0A</id>
-    <link href="https://mp.weixin.qq.com/s/r7NunmS7aIztXsnR3jjp0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>项目分享 | YOLOv5在建筑工地中安全帽佩戴检测的应用</title>
     <updated>2020-11-13T08:36:43+08:00</updated>
@@ -96,6 +82,27 @@
     <updated>2020-09-03T23:08:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-03:/s/GGFOCXnK-SPFomDmCw1GtQ</id>
     <link href="https://mp.weixin.qq.com/s/GGFOCXnK-SPFomDmCw1GtQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>目标检测 | Anchor free之CenterNet深度解析</title>
+    <updated>2020-09-02T23:15:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-02:/s/c2LJGuNG4wLuVzFG7gDhMg</id>
+    <link href="https://mp.weixin.qq.com/s/c2LJGuNG4wLuVzFG7gDhMg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ECCV 2020 Oral | CSG：清华提出通过分化类特定卷积核，训练可解释的卷积网络</title>
+    <updated>2020-09-02T23:15:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-09-02:/s/vc9A0EFlj0z3l3uuyYM2Vg</id>
+    <link href="https://mp.weixin.qq.com/s/vc9A0EFlj0z3l3uuyYM2Vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PNEN：金字塔结构与Non-local非局部结构联合增强，提升low-level图像处理任务性能</title>
+    <updated>2020-08-30T22:48:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-08-30:/s/kmKuFqzk2FKdrQtD0MZ62w</id>
+    <link href="https://mp.weixin.qq.com/s/kmKuFqzk2FKdrQtD0MZ62w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

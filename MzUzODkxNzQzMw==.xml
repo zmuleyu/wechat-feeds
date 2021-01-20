@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:27:10+08:00</updated>
+  <updated>2021-01-20T23:26:44+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WACV 2021 论文大盘点-图像分割篇</title>
+    <updated>2021-01-20T23:14:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/JyNBAo4dQu_WsdV3hg1cmg</id>
+    <link href="https://mp.weixin.qq.com/s/JyNBAo4dQu_WsdV3hg1cmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>超强Video深度学习开源工具集，来了！</title>
     <updated>2021-01-19T22:19:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-01T23:58:56+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/8kyQoxvRPrU48xSJwvUGJA</id>
     <link href="https://mp.weixin.qq.com/s/8kyQoxvRPrU48xSJwvUGJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无需聚类，杭电学者提出基于软化相似度学习的无监督行人再识别</title>
-    <updated>2020-12-28T15:59:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/ak2xBb9tgaQZhVUX-smz3Q</id>
-    <link href="https://mp.weixin.qq.com/s/ak2xBb9tgaQZhVUX-smz3Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

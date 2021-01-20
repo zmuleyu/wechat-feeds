@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>音视频开发进阶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:22:21+08:00</updated>
+  <updated>2021-01-20T23:54:11+08:00</updated>
   <subtitle>抖音多媒体开发工程师，分享 Android 应用开发、图形图像渲染、音视频等相关内容，与你一同技术成长进阶~~~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>音视频交流群又来啦~~~</title>
+    <updated>2021-01-20T21:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ARrckdmrLDlUtH2DflIMYA</id>
+    <link href="https://mp.weixin.qq.com/s/ARrckdmrLDlUtH2DflIMYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Android中 使用 WebSocket 实现消息通信</title>
     <updated>2021-01-18T23:47:23+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-07T21:45:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/Yn-ESeXPhnKLsrUKv59LjA</id>
     <link href="https://mp.weixin.qq.com/s/Yn-ESeXPhnKLsrUKv59LjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一个播放器背后的危机和博弈</title>
-    <updated>2021-01-06T19:51:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/b7EYAb1Rq_LAj6hiNN4b5w</id>
-    <link href="https://mp.weixin.qq.com/s/b7EYAb1Rq_LAj6hiNN4b5w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

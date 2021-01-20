@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>亨利笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T16:32:45+08:00</updated>
+  <updated>2021-01-20T23:24:09+08:00</updated>
   <subtitle>天南地北侃技术，自娱自乐于互联网的缝隙中。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>联邦学习新领域FedVision：视觉联邦框架与技术展望</title>
+    <updated>2021-01-20T20:43:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/T2I_vv9fZ9p0SPaB3ig7_Q</id>
+    <link href="https://mp.weixin.qq.com/s/T2I_vv9fZ9p0SPaB3ig7_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在Juypter Notebook中构建联邦学习任务</title>
+    <updated>2021-01-20T20:43:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/vkD5lzk6cTXHDTtG6Zz5IA</id>
+    <link href="https://mp.weixin.qq.com/s/vkD5lzk6cTXHDTtG6Zz5IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用KubeFATE在K8s上部署联邦学习FATE v1.5</title>
     <updated>2021-01-16T22:06:44+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-28T23:30:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/hKJNzCwu4Ddj3EV-Uh2-uA</id>
     <link href="https://mp.weixin.qq.com/s/hKJNzCwu4Ddj3EV-Uh2-uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生制品那些事(2)：OCI 镜像规范</title>
-    <updated>2020-12-27T11:57:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/TVIz8p8nOj4ffYaECW7gVg</id>
-    <link href="https://mp.weixin.qq.com/s/TVIz8p8nOj4ffYaECW7gVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《Harbor权威指南》招募英文版翻译人员</title>
-    <updated>2020-12-27T11:57:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/E91CzyD18FCVv_sxjcRa0A</id>
-    <link href="https://mp.weixin.qq.com/s/E91CzyD18FCVv_sxjcRa0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
