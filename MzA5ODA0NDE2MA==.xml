@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:49:07+08:00</updated>
+  <updated>2021-01-20T20:50:34+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>IoT安全基本功系列——内核的编译与qemu启动</title>
+    <updated>2021-01-20T17:38:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/nqnc5CC4HSJIkG8cM1q1ig</id>
+    <link href="https://mp.weixin.qq.com/s/nqnc5CC4HSJIkG8cM1q1ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>招聘 | 哔哩哔哩安全应急响应中心</title>
+    <updated>2021-01-20T17:38:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/DLxasNpcwrOy8qZsyJZ9uQ</id>
+    <link href="https://mp.weixin.qq.com/s/DLxasNpcwrOy8qZsyJZ9uQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>PWNHUB双蛋赛pwn题解</title>
+    <updated>2021-01-20T17:38:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/7BEMacAFducn3ZU6RmYGHA</id>
+    <link href="https://mp.weixin.qq.com/s/7BEMacAFducn3ZU6RmYGHA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVE-2019-2725高版本POC拓展</title>
     <updated>2021-01-19T17:39:49+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-13T17:13:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/tjLPg0jZHz5_ZbWuudJl2A</id>
     <link href="https://mp.weixin.qq.com/s/tjLPg0jZHz5_ZbWuudJl2A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>正式发布 | 新基建：供应链安全风暴狂潮，入局没有硝烟的角逐</title>
-    <updated>2021-01-12T11:00:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qgsTGg8ka_L6RJfkfmYucw</id>
-    <link href="https://mp.weixin.qq.com/s/qgsTGg8ka_L6RJfkfmYucw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>欢迎来到小安的梦境~</title>
-    <updated>2021-01-11T21:01:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/OgFv7KvOM8hclYqGeZWcSw</id>
-    <link href="https://mp.weixin.qq.com/s/OgFv7KvOM8hclYqGeZWcSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | 建信金融科技有限责任公司基础技术中心</title>
-    <updated>2021-01-11T21:01:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/W58I8XlZ4De5XezSVPLxmQ</id>
-    <link href="https://mp.weixin.qq.com/s/W58I8XlZ4De5XezSVPLxmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

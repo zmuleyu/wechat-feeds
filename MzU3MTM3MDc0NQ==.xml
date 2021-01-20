@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:36:31+08:00</updated>
+  <updated>2021-01-20T20:39:42+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新一代数据仓库：Snowflake 弹性数仓介绍</title>
+    <updated>2021-01-19T20:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/K8_Pq0dYePgq6GPkeR4Rmg</id>
+    <link href="https://mp.weixin.qq.com/s/K8_Pq0dYePgq6GPkeR4Rmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>17家国产数据库厂商的2020年度事件大盘点：项目签约与验收、新版本发布等</title>
+    <updated>2021-01-19T20:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Qf7_-nncM6mL6LkUAsYynA</id>
+    <link href="https://mp.weixin.qq.com/s/Qf7_-nncM6mL6LkUAsYynA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中台彻底搞砸了？下一站，小中台大前台</title>
+    <updated>2021-01-19T20:12:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/NUD6sdvRriUX4Y-MzihtXw</id>
+    <link href="https://mp.weixin.qq.com/s/NUD6sdvRriUX4Y-MzihtXw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>美团酒旅数据治理实践</title>
     <updated>2021-01-19T20:02:47+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-10T10:14:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/xFYSwMdlG-hjLJ2XdunukA</id>
     <link href="https://mp.weixin.qq.com/s/xFYSwMdlG-hjLJ2XdunukA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>企业大数据平台仓库架构建设思路</title>
-    <updated>2021-01-10T10:14:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/s_6Ig1IAtfOmzHhtbdE2Rw</id>
-    <link href="https://mp.weixin.qq.com/s/s_6Ig1IAtfOmzHhtbdE2Rw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>又一起“删库”：链家程序员怒删公司 9TB 数据，被判 7 年！</title>
-    <updated>2021-01-08T23:53:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/w15zbDM770P083Oy5fS2Ug</id>
-    <link href="https://mp.weixin.qq.com/s/w15zbDM770P083Oy5fS2Ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Flink on Hive构建流批一体数仓</title>
-    <updated>2021-01-08T23:53:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/lUXEUw5aEdNAx3q451341g</id>
-    <link href="https://mp.weixin.qq.com/s/lUXEUw5aEdNAx3q451341g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

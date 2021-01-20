@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>微步在线研究响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:59:53+08:00</updated>
+  <updated>2021-01-20T20:37:27+08:00</updated>
   <subtitle>神秘，低调，手里全是情报。中国网络安全圈不可缺少的力量。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>UEFI bootkit 的感染与手工检测</title>
+    <updated>2021-01-20T17:53:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/_J5lAWiZnUP8oEHSE5VXuQ</id>
+    <link href="https://mp.weixin.qq.com/s/_J5lAWiZnUP8oEHSE5VXuQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>安全威胁情报周报（01.11-01.17）</title>
     <updated>2021-01-18T09:11:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T15:16:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/vqF2eE440Z3bdYg3lbgNng</id>
     <link href="https://mp.weixin.qq.com/s/vqF2eE440Z3bdYg3lbgNng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>安全威胁情报周报（12.05-12.11）</title>
-    <updated>2020-12-11T16:00:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/jJMwI1z1PNQnAdMy7VzQxA</id>
-    <link href="https://mp.weixin.qq.com/s/jJMwI1z1PNQnAdMy7VzQxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:08:17+08:00</updated>
+  <updated>2021-01-20T20:44:21+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>又有人问我 etcd 的问题，看完这篇，以后别问了</title>
+    <updated>2021-01-20T17:35:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/s0i0JbDfHXYvly_9JzmFoQ</id>
+    <link href="https://mp.weixin.qq.com/s/s0i0JbDfHXYvly_9JzmFoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 1.15.7 新鲜出炉：修复安全问题，建议升级</title>
+    <updated>2021-01-20T17:35:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/L1b3tUPiZXP3CKdKrHOfEQ</id>
+    <link href="https://mp.weixin.qq.com/s/L1b3tUPiZXP3CKdKrHOfEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang程序性能分析（二）在Echo和Gin框架中使用pprof</title>
+    <updated>2021-01-20T17:35:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/D9p3_oITWgVTKzriA_66_Q</id>
+    <link href="https://mp.weixin.qq.com/s/D9p3_oITWgVTKzriA_66_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go 和 Java 在未来微服务架构的实际应用中，趋势如何？</title>
     <updated>2021-01-18T22:44:47+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-14T09:23:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/5tmQLQexOXi5QxPBT-9pfw</id>
     <link href="https://mp.weixin.qq.com/s/5tmQLQexOXi5QxPBT-9pfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于 Go1.16 实现静态文件的 HTTP Cache</title>
-    <updated>2021-01-14T09:23:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/nmgCyv9o_VDlBHwmUpGPSA</id>
-    <link href="https://mp.weixin.qq.com/s/nmgCyv9o_VDlBHwmUpGPSA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Go 和 ReactJS 构建聊天系统（三）：前端实现</title>
-    <updated>2021-01-14T09:23:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Yqh7eNaQnzWcJgiqad_slw</id>
-    <link href="https://mp.weixin.qq.com/s/Yqh7eNaQnzWcJgiqad_slw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang 时间操作大全</title>
-    <updated>2021-01-14T09:23:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/QKo7UpzW4dX_tT8Dj7SHgg</id>
-    <link href="https://mp.weixin.qq.com/s/QKo7UpzW4dX_tT8Dj7SHgg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

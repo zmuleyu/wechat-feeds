@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>脑子进煎鱼了 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:51:18+08:00</updated>
+  <updated>2021-01-20T20:55:46+08:00</updated>
   <subtitle>分享 Go 语言、微服务架构和各类奇怪的系统设计。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
+    <updated>2021-01-20T17:25:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/qwv3Ga7_3E8x-ha5gXq8IA</id>
+    <link href="https://mp.weixin.qq.com/s/qwv3Ga7_3E8x-ha5gXq8IA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何用 Go 实现一个分布式数据库？</title>
     <updated>2021-01-18T15:50:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T21:31:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/k6ioEP4Yp_jMFGGFvvXxxQ</id>
     <link href="https://mp.weixin.qq.com/s/k6ioEP4Yp_jMFGGFvvXxxQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 错误处理：用 panic 取代 err != nil 的模式</title>
-    <updated>2020-12-15T23:51:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/p77V3_LkREuXPVLdebmmmQ</id>
-    <link href="https://mp.weixin.qq.com/s/p77V3_LkREuXPVLdebmmmQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

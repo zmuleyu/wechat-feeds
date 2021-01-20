@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码卫士 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:32:32+08:00</updated>
+  <updated>2021-01-20T20:32:31+08:00</updated>
   <subtitle>奇安信代码卫士是国内第一家专注于软件开发安全的产品线，产品涵盖代码安全缺陷检测、软件编码合规检测、开源组件溯源检测三大方向，分别解决软件开发过程中的安全缺陷和漏洞问题、编码合规性问题、开源组件安全管控问题。本订阅号提供国内外热点安全资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇安信代码安全实验室获授华为鲲鹏计算平台漏洞奖励计划合作伙伴</title>
+    <updated>2021-01-20T17:17:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/YnbIC2OqkJV4_3ojiMwqRg</id>
+    <link href="https://mp.weixin.qq.com/s/YnbIC2OqkJV4_3ojiMwqRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开源的 DNS 转发软件 Dnsmasq 被曝7个漏洞，可劫持数百万台设备</title>
+    <updated>2021-01-20T17:17:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/7HvqRdC3HTsPCrLtIup6TA</id>
+    <link href="https://mp.weixin.qq.com/s/7HvqRdC3HTsPCrLtIup6TA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>SolarWinds 供应链攻击中的第四款恶意软件及其它动态</title>
+    <updated>2021-01-20T17:17:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/63tMJeKAKGL1936OigoSVQ</id>
+    <link href="https://mp.weixin.qq.com/s/63tMJeKAKGL1936OigoSVQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我俩也组了个队，找到一个苹果RCE 0day，获 $5 万奖金</title>
     <updated>2021-01-19T17:49:36+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-11T19:41:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/jQHlxGg3dVn1XYq7d_0usA</id>
     <link href="https://mp.weixin.qq.com/s/jQHlxGg3dVn1XYq7d_0usA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美国太空部队加入美国情报系统，以确保太空的安全</title>
-    <updated>2021-01-11T19:41:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/mCVvWc4rdccF2F__Tnd-Gw</id>
-    <link href="https://mp.weixin.qq.com/s/mCVvWc4rdccF2F__Tnd-Gw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新西兰储备银行数据遭泄露</title>
-    <updated>2021-01-11T19:41:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/cjPXLRhQTOqO7Tz0LXB1Aw</id>
-    <link href="https://mp.weixin.qq.com/s/cjPXLRhQTOqO7Tz0LXB1Aw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Windows PsExec 0day 漏洞获免费微补丁，但仅适用于最新版本</title>
-    <updated>2021-01-08T17:27:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/BBpfcaHSlmRe5ciojsynhA</id>
-    <link href="https://mp.weixin.qq.com/s/BBpfcaHSlmRe5ciojsynhA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

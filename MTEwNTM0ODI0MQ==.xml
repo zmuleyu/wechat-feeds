@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯大讲堂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:50:43+08:00</updated>
+  <updated>2021-01-20T20:52:06+08:00</updated>
   <subtitle>给成长加点料！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>停下回头看，继续向前走 -如何开一场复盘会议</title>
+    <updated>2021-01-20T18:12:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/NAPGr9Y6HIn0ZaFP1j8lGQ</id>
+    <link href="https://mp.weixin.qq.com/s/NAPGr9Y6HIn0ZaFP1j8lGQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何优雅地检测内存泄漏？</title>
     <updated>2021-01-19T18:07:50+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-07T18:42:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/qrQ4MG-fCRDy1wj7IzRB_Q</id>
     <link href="https://mp.weixin.qq.com/s/qrQ4MG-fCRDy1wj7IzRB_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>巧用腾讯问卷逻辑语言DSL，复杂问卷逻辑不再愁</title>
-    <updated>2021-01-06T18:46:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/1uw6_oICaDFRqz7r3j1KcA</id>
-    <link href="https://mp.weixin.qq.com/s/1uw6_oICaDFRqz7r3j1KcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

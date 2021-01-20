@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:59:12+08:00</updated>
+  <updated>2021-01-20T20:59:40+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第31节，通道的遍历又是range循环</title>
+    <updated>2021-01-20T20:05:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/VATjajnm3yDntCW1EiFwxQ</id>
+    <link href="https://mp.weixin.qq.com/s/VATjajnm3yDntCW1EiFwxQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第30节，通道的关闭，工作完成提前结束</title>
     <updated>2021-01-19T18:04:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-28T17:07:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/S_NcNChQyBEP0ib_lpC8TA</id>
     <link href="https://mp.weixin.qq.com/s/S_NcNChQyBEP0ib_lpC8TA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「一周汇总」直播编程视频合集（附代码），一篇入门Go语言</title>
-    <updated>2020-12-26T15:53:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-26:/s/VjQXYECFYKQWkEiNEDKPaA</id>
-    <link href="https://mp.weixin.qq.com/s/VjQXYECFYKQWkEiNEDKPaA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

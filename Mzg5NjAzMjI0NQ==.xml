@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>掘金开发者社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:59:55+08:00</updated>
+  <updated>2021-01-20T21:00:36+08:00</updated>
   <subtitle>掘金，一个帮助开发者成长的技术社区</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020 中国开源年度报告</title>
+    <updated>2021-01-20T15:23:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/K_czT_sWcbiK7oAajzztow</id>
+    <link href="https://mp.weixin.qq.com/s/K_czT_sWcbiK7oAajzztow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么要有 AtomicReference ？</title>
+    <updated>2021-01-20T15:23:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/jLIT7DfumPXxmDlrhIcYuw</id>
+    <link href="https://mp.weixin.qq.com/s/jLIT7DfumPXxmDlrhIcYuw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>换一个角度分析，网页性能优化</title>
     <updated>2021-01-19T18:18:03+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-07T15:21:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/0JrjT8x7XoamLwK23XWaUw</id>
     <link href="https://mp.weixin.qq.com/s/0JrjT8x7XoamLwK23XWaUw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>实战|Android后台启动Activity实践之路</title>
-    <updated>2021-01-06T15:37:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/NQfHDdxnqhHeOUw8vxazKQ</id>
-    <link href="https://mp.weixin.qq.com/s/NQfHDdxnqhHeOUw8vxazKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你不知道的 DOM 变动观察器：Mutation observer</title>
-    <updated>2021-01-06T15:37:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/aO_-f1D_8dlTIYH1IQ9bBQ</id>
-    <link href="https://mp.weixin.qq.com/s/aO_-f1D_8dlTIYH1IQ9bBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T02:29:26+08:00</updated>
+  <updated>2021-01-20T20:38:11+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「业务架构」波特的五力分析教程</title>
+    <updated>2021-01-20T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Hsuhos-_Wt-DpqujGjptUw</id>
+    <link href="https://mp.weixin.qq.com/s/Hsuhos-_Wt-DpqujGjptUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【无服务器架构】Apache Openwhisk 概览</title>
+    <updated>2021-01-20T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/mdruNqmEX0rH9mQ4LoMFrg</id>
+    <link href="https://mp.weixin.qq.com/s/mdruNqmEX0rH9mQ4LoMFrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Kafka技术」Apache Kafka中的事务</title>
     <updated>2021-01-19T23:13:42+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-11T21:46:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/ZPIbnIgwgeWqms8DkcAdfw</id>
     <link href="https://mp.weixin.qq.com/s/ZPIbnIgwgeWqms8DkcAdfw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「人工智能」对AI供应商生态系统的分类：第三部（通用应用篇）</title>
-    <updated>2021-01-11T21:46:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/XSd7RqdDuc2ZslD5ZlDQqA</id>
-    <link href="https://mp.weixin.qq.com/s/XSd7RqdDuc2ZslD5ZlDQqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「业务架构」商业模式画布</title>
-    <updated>2021-01-10T22:24:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/aCtd1s9CmQqsfagoQmHD7A</id>
-    <link href="https://mp.weixin.qq.com/s/aCtd1s9CmQqsfagoQmHD7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

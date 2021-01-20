@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:43:31+08:00</updated>
+  <updated>2021-01-20T20:48:47+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
+    <updated>2021-01-20T17:37:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/u0WGCcUxDaam_Td-53GFEQ</id>
+    <link href="https://mp.weixin.qq.com/s/u0WGCcUxDaam_Td-53GFEQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>GitHub Actions 博文发布工作流</title>
+    <updated>2021-01-20T17:37:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/GzDGAUA0TAoxu9vkVgp4hw</id>
+    <link href="https://mp.weixin.qq.com/s/GzDGAUA0TAoxu9vkVgp4hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 几个常见对象概述图</title>
     <updated>2021-01-19T20:39:19+08:00</updated>
@@ -82,20 +96,6 @@
     <updated>2021-01-09T10:32:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/vSu1KiZq5Ny_LZ6Elh4xfA</id>
     <link href="https://mp.weixin.qq.com/s/vSu1KiZq5Ny_LZ6Elh4xfA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据中台已成气候！大数据架构师如何站上风口？</title>
-    <updated>2021-01-08T09:13:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/AyLRMqvdNSXqQhZFfhqqDA</id>
-    <link href="https://mp.weixin.qq.com/s/AyLRMqvdNSXqQhZFfhqqDA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 源码分析之 kubelet(三)</title>
-    <updated>2021-01-08T09:13:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/nC538hWbd6JKAApG8tjwbA</id>
-    <link href="https://mp.weixin.qq.com/s/nC538hWbd6JKAApG8tjwbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

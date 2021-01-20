@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python猫 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T16:45:05+08:00</updated>
+  <updated>2021-01-20T20:40:08+08:00</updated>
   <subtitle>分享Python进阶、Python哲学、文章翻译、资源工具等内容</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如果让你来设计网络，如何让电脑互联？</title>
+    <updated>2021-01-20T19:18:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/x6JaaQ4CxrptFfur8KEQWg</id>
+    <link href="https://mp.weixin.qq.com/s/x6JaaQ4CxrptFfur8KEQWg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​Python 常用库之 psutil 使用指南</title>
     <updated>2021-01-17T22:32:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-09T16:48:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/ZNOPRsYn41dWQlkRSljYzw</id>
     <link href="https://mp.weixin.qq.com/s/ZNOPRsYn41dWQlkRSljYzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>15个顶级Python库，你必须要试试！</title>
-    <updated>2021-01-08T19:38:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/32JTDqvStVSCIkjwStNlfQ</id>
-    <link href="https://mp.weixin.qq.com/s/32JTDqvStVSCIkjwStNlfQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

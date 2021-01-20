@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>长亭安全课堂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:59:45+08:00</updated>
+  <updated>2021-01-20T20:38:17+08:00</updated>
   <subtitle>长亭科技专注于为企业提供网络安全解决方案。分享专业的网络安全知识，网络威胁情报。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>漏洞风险提示 | WebLogic 多个高危漏洞</title>
+    <updated>2021-01-20T18:13:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/LFX_9uDJb7R2-xDpY3nC8g</id>
+    <link href="https://mp.weixin.qq.com/s/LFX_9uDJb7R2-xDpY3nC8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>漏洞风险提示 | JumpServer 未授权访问命令执行漏洞</title>
     <updated>2021-01-18T09:57:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T14:52:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/uRI13Kd7jSyrk_aDahbvig</id>
     <link href="https://mp.weixin.qq.com/s/uRI13Kd7jSyrk_aDahbvig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>还没放弃的小伙伴，PWN入门视频最后一期来了</title>
-    <updated>2020-11-13T16:55:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/8BqOnWNAadU6dQ9eHS0UnA</id>
-    <link href="https://mp.weixin.qq.com/s/8BqOnWNAadU6dQ9eHS0UnA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

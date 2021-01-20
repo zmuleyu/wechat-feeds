@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OPPO安全应急响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:27:46+08:00</updated>
+  <updated>2021-01-20T20:28:48+08:00</updated>
   <subtitle>OPPO安全应急响应中心(OSRC)官方公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CVE-2020-16040: Chromium V8引擎整数溢出漏洞分析</title>
+    <updated>2021-01-20T16:55:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/j-WbrCQVb4E2JfY-bDqzJw</id>
+    <link href="https://mp.weixin.qq.com/s/j-WbrCQVb4E2JfY-bDqzJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020年12月份&amp;Q4奖励公告</title>
     <updated>2021-01-12T17:07:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T19:27:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/5CZc_jwHrA4fF06MFleN8Q</id>
     <link href="https://mp.weixin.qq.com/s/5CZc_jwHrA4fF06MFleN8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>看点回顾，一张图读懂OPPO技术开放日第六期！</title>
-    <updated>2020-12-01T19:01:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-01:/s/oOLrqRdMfo7k3ECf5KDlgA</id>
-    <link href="https://mp.weixin.qq.com/s/oOLrqRdMfo7k3ECf5KDlgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

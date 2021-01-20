@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:21:49+08:00</updated>
+  <updated>2021-01-20T20:58:54+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从Lambda到无Lambda，领英吸取到的教训</title>
+    <updated>2021-01-20T17:41:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/P4JwUYo5vPz5gFT4x4_3tA</id>
+    <link href="https://mp.weixin.qq.com/s/P4JwUYo5vPz5gFT4x4_3tA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>工作 5 年，同事连 Java 日志体系都没搞懂！</title>
+    <updated>2021-01-20T17:41:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/slHdxSZtfetJaOx-HJsKhg</id>
+    <link href="https://mp.weixin.qq.com/s/slHdxSZtfetJaOx-HJsKhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>再谈双亲委派模型与Flink的类加载策略</title>
     <updated>2021-01-18T23:10:43+08:00</updated>
@@ -57,13 +71,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Flink 流批一体太强了！Spark Streaming 根本不是对手？</title>
-    <updated>2021-01-14T00:12:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/9tESUv-QIGUSA5mQUnolaQ</id>
-    <link href="https://mp.weixin.qq.com/s/9tESUv-QIGUSA5mQUnolaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>浅淡 Apache Kylin 与 ClickHouse 的对比</title>
     <updated>2021-01-14T00:12:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/FOD80FrOnNTyDi-V7sTGUw</id>
@@ -96,20 +103,6 @@
     <updated>2021-01-11T12:34:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/LwkwvClxE8rKYovRT5CVIg</id>
     <link href="https://mp.weixin.qq.com/s/LwkwvClxE8rKYovRT5CVIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大数据kafka理论实操面试题</title>
-    <updated>2021-01-10T12:27:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/tHEd8eOCQ3sXwcmP9F1H9Q</id>
-    <link href="https://mp.weixin.qq.com/s/tHEd8eOCQ3sXwcmP9F1H9Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【唯实践】基于Alluxio优化电商平台热点数据访问性能</title>
-    <updated>2021-01-10T12:27:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/XBMq35FsjIXso3oYjg-6UA</id>
-    <link href="https://mp.weixin.qq.com/s/XBMq35FsjIXso3oYjg-6UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

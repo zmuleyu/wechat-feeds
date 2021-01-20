@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>360云计算 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:52:58+08:00</updated>
+  <updated>2021-01-20T20:53:12+08:00</updated>
   <subtitle>由360云平台团队打造的技术分享公众号，通过夯实的技术积累和丰富的一线实战经验，为你带来最有料的技术分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>kubevirt在360的探索之路（k8s接管虚拟化）</title>
+    <updated>2021-01-20T17:57:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/RGYWwzi9Q9fBiGOqf19jIg</id>
+    <link href="https://mp.weixin.qq.com/s/RGYWwzi9Q9fBiGOqf19jIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈linux IO</title>
     <updated>2021-01-13T19:22:15+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-25T16:03:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-25:/s/1sq630gHR_z1NeSRILMMpw</id>
     <link href="https://mp.weixin.qq.com/s/1sq630gHR_z1NeSRILMMpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GoLang的逃逸分析</title>
-    <updated>2020-11-12T20:20:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/Qvm3ARplkZQSNERtm3TXHA</id>
-    <link href="https://mp.weixin.qq.com/s/Qvm3ARplkZQSNERtm3TXHA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

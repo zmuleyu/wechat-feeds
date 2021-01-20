@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:38:48+08:00</updated>
+  <updated>2021-01-20T20:38:48+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 Kubernetes，居然不知道 etcd？</title>
+    <updated>2021-01-20T17:40:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/fvhG_uxpTIo0lDSKmGUZ2w</id>
+    <link href="https://mp.weixin.qq.com/s/fvhG_uxpTIo0lDSKmGUZ2w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年值得关注的15个DevOps趋势</title>
     <updated>2021-01-19T19:11:20+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2021-01-11T20:16:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/5U3q7W38FLXwxH4LI9nLMw</id>
     <link href="https://mp.weixin.qq.com/s/5U3q7W38FLXwxH4LI9nLMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>速收藏 | 2020 年开源项目推荐合集</title>
-    <updated>2021-01-10T18:47:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/y1oYsmgaXPTqS0OvUIWdog</id>
-    <link href="https://mp.weixin.qq.com/s/y1oYsmgaXPTqS0OvUIWdog" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

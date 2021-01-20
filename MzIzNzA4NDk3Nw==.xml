@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>进击的Coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:29:17+08:00</updated>
+  <updated>2021-01-20T20:32:55+08:00</updated>
   <subtitle>分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web 开发等方向。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>整理一周！我的数据分析学习资源</title>
+    <updated>2021-01-20T18:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/V6Jr26zM3LRgKArfp7hpIg</id>
+    <link href="https://mp.weixin.qq.com/s/V6Jr26zM3LRgKArfp7hpIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>因匿名评论“B站能睡小姐姐，我睡了四个”，B站把脉脉给告了</title>
     <updated>2021-01-19T22:06:27+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2021-01-06T23:10:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/ozLFCSQmirstpiKtz1FHCA</id>
     <link href="https://mp.weixin.qq.com/s/ozLFCSQmirstpiKtz1FHCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>困扰 Chrome 用户多年的大问题，终于要解决了！</title>
-    <updated>2021-01-05T22:20:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/wIj23Y71kHxlqrN_1vuEDQ</id>
-    <link href="https://mp.weixin.qq.com/s/wIj23Y71kHxlqrN_1vuEDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>太棒了！Jupyter 与PyCharm 完美融合，Jupytext 来啦！</title>
-    <updated>2021-01-05T22:20:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/rX6ry_Nu8Emh0Q4-PDmoPg</id>
-    <link href="https://mp.weixin.qq.com/s/rX6ry_Nu8Emh0Q4-PDmoPg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

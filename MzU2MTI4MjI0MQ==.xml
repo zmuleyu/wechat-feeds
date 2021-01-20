@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:54:52+08:00</updated>
+  <updated>2021-01-20T20:29:19+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>是Spring Cloud不香了吗？2021阿里都换成这个牛逼架构了</title>
+    <updated>2021-01-20T14:47:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/GAXgpQhhjkrUuvtceQ_EmQ</id>
+    <link href="https://mp.weixin.qq.com/s/GAXgpQhhjkrUuvtceQ_EmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gateway网关使用不规范，同事加班泪两行~</title>
+    <updated>2021-01-20T14:47:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/6jJ-OyYpOfm7V_pjxzLEww</id>
+    <link href="https://mp.weixin.qq.com/s/6jJ-OyYpOfm7V_pjxzLEww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【开源项目】SSM电影购票系统</title>
+    <updated>2021-01-20T14:47:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/mepw8DnipnnD3_G2T5QWIA</id>
+    <link href="https://mp.weixin.qq.com/s/mepw8DnipnnD3_G2T5QWIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>牛市真的来了，上班盯盘太累？这五个开源项目了解下！</title>
     <updated>2021-01-18T22:06:45+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T18:37:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/CjthEpLSUxo-O1IJX45mrQ</id>
     <link href="https://mp.weixin.qq.com/s/CjthEpLSUxo-O1IJX45mrQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万万没想到，面试中，连 ClassLoader类加载器 也能问出这么多问题.....</title>
-    <updated>2021-01-12T18:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/CS2p-GPNQGtWG3SqbqR-xQ</id>
-    <link href="https://mp.weixin.qq.com/s/CS2p-GPNQGtWG3SqbqR-xQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>牛逼，只用一个脚本，实现一键自动部署Redis的任意版本</title>
-    <updated>2021-01-11T22:44:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/hSd5wzerPAU6f5do9FTA6g</id>
-    <link href="https://mp.weixin.qq.com/s/hSd5wzerPAU6f5do9FTA6g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>记一次服务器执行MySQL耗时问题</title>
-    <updated>2021-01-11T22:44:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/bXxy6meCl5WcEWPnP5G1tQ</id>
-    <link href="https://mp.weixin.qq.com/s/bXxy6meCl5WcEWPnP5G1tQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

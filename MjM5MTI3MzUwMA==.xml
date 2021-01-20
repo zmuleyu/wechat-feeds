@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱数据原统计网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:31:29+08:00</updated>
+  <updated>2021-01-20T20:31:19+08:00</updated>
   <subtitle>中国统计网（www.itongji.cn），专注数据分析的门户网站。提供数据分析行业资讯，统计百科知识、数据分析、商业智能(BI)、数据挖掘技术，Excel、SPSS、SAS、R等数据分析软件等在线学习平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>做有用的数据分析，从做好MVP开始</title>
+    <updated>2021-01-20T17:51:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/6OySe-IQZBxaKCfzW2v96g</id>
+    <link href="https://mp.weixin.qq.com/s/6OySe-IQZBxaKCfzW2v96g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>写报告没思路，为啥不用思维导图？</title>
+    <updated>2021-01-20T17:51:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/XcrIajXtocL8ps6OPWe8sA</id>
+    <link href="https://mp.weixin.qq.com/s/XcrIajXtocL8ps6OPWe8sA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何用 Python 让你的图表动起来？</title>
     <updated>2021-01-19T18:17:09+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T16:30:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/NdWYR7c7O-KC_uXmz-jvZQ</id>
     <link href="https://mp.weixin.qq.com/s/NdWYR7c7O-KC_uXmz-jvZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>指标又双叒下降了，我到底该怎么给老板分析？</title>
-    <updated>2021-01-11T18:08:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/dW39SBAyRSWT2eGvn_qeoQ</id>
-    <link href="https://mp.weixin.qq.com/s/dW39SBAyRSWT2eGvn_qeoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SQL面试题：如何分析平台业务？</title>
-    <updated>2021-01-11T18:08:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/xuYC2B7YWCVWeXXZL1yAJA</id>
-    <link href="https://mp.weixin.qq.com/s/xuYC2B7YWCVWeXXZL1yAJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

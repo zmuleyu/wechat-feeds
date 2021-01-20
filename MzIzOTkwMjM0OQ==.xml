@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>印记中文 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:47:59+08:00</updated>
+  <updated>2021-01-20T20:54:21+08:00</updated>
   <subtitle>深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>震惊，type=&#34;range&#34; 居然可以实现评星功能</title>
+    <updated>2021-01-20T17:54:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/qZUzFWNj4hD3dyAm5giUIA</id>
+    <link href="https://mp.weixin.qq.com/s/qZUzFWNj4hD3dyAm5giUIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>React Status 中文周刊 #23 - React 的创造者离开了 Facebook</title>
     <updated>2021-01-19T20:43:45+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-14T21:06:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-14:/s/KSZG7BbFWnbJzekSqGPMkQ</id>
     <link href="https://mp.weixin.qq.com/s/KSZG7BbFWnbJzekSqGPMkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Shopee IconBot】Figma + Gitlab CI 一键交付 SVG 多色图标库</title>
-    <updated>2020-12-08T11:28:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/PoTn2ZerkRySJ77Xn2dW1w</id>
-    <link href="https://mp.weixin.qq.com/s/PoTn2ZerkRySJ77Xn2dW1w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

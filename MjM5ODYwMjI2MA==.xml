@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:40:03+08:00</updated>
+  <updated>2021-01-20T20:44:00+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>编译原理初学者入门指南</title>
+    <updated>2021-01-20T17:19:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ZTxVG6KG-4vzbvclC_Q1LQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZTxVG6KG-4vzbvclC_Q1LQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​“免疫杀手” Deep X-RAY</title>
     <updated>2021-01-18T17:48:51+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-25T15:02:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/YunDfYPLywc0tMJF72YIAQ</id>
     <link href="https://mp.weixin.qq.com/s/YunDfYPLywc0tMJF72YIAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020 年大前端技术趋势解读</title>
-    <updated>2020-12-23T18:14:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/DVQWF1CokNV07JLidHsFtg</id>
-    <link href="https://mp.weixin.qq.com/s/DVQWF1CokNV07JLidHsFtg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
