@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>杨建荣的学习笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T07:46:46+08:00</updated>
+  <updated>2021-01-21T02:34:15+08:00</updated>
   <subtitle>专注于技术。 人生一世，选条路，不退让，不更改，一直走到尽头，是件幸事：）</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MySQL海量运维管理如何保障京东大促？</title>
+    <updated>2021-01-20T23:23:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/aL9G6AEslOP8LkzAI3hwJw</id>
+    <link href="https://mp.weixin.qq.com/s/aL9G6AEslOP8LkzAI3hwJw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>华为宣布：免费培养2000名大数据开发者！</title>
     <updated>2021-01-18T22:27:43+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-09T23:59:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/jTDbyLlkk3PEtbz8ZtRuxg</id>
     <link href="https://mp.weixin.qq.com/s/jTDbyLlkk3PEtbz8ZtRuxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>规避单点故障，MySQL 8.0 MGR软负载怎么选？</title>
-    <updated>2021-01-08T23:54:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/bc14EG6escI8Ic_LM7P1Cg</id>
-    <link href="https://mp.weixin.qq.com/s/bc14EG6escI8Ic_LM7P1Cg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

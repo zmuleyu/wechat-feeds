@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java杂记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T02:50:04+08:00</updated>
+  <updated>2021-01-21T02:51:43+08:00</updated>
   <subtitle>分享一些有关于java体系的知识，如：java基础知识/数据结算/算法，Spring/MyBatis/Netty源码分析，高并发/高性能/分布式/微服务架构的原理，JVM性能优化 ,希望能让大家在技术上和思想上带来一些提升。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里面试官：分别说说微信和淘宝扫码登录背后的实现原理？</title>
+    <updated>2021-01-20T18:17:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/MH36YzBKMjhcNKnmRROUvA</id>
+    <link href="https://mp.weixin.qq.com/s/MH36YzBKMjhcNKnmRROUvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我为什么要放弃 RESTful，选择拥抱 GraphQL</title>
     <updated>2021-01-19T11:27:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-11T14:33:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/h5PwyQWSkxDlO1d4hvsoRw</id>
     <link href="https://mp.weixin.qq.com/s/h5PwyQWSkxDlO1d4hvsoRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真能一快遮百丑？为什么要弃坑FastJson</title>
-    <updated>2021-01-08T18:13:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/w6QhAWgrLgwDMRjPY-NZOg</id>
-    <link href="https://mp.weixin.qq.com/s/w6QhAWgrLgwDMRjPY-NZOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:28:31+08:00</updated>
+  <updated>2021-01-21T02:26:15+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spark 实践 | 京东 Spark 自研 Remote Shuffle Service 在大促中的应用实践</title>
+    <updated>2021-01-20T23:45:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Pjd-XSg6YIEIwrOL39DIlg</id>
+    <link href="https://mp.weixin.qq.com/s/Pjd-XSg6YIEIwrOL39DIlg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flink 社区 | 蝉联 Apache 最活跃项目，Apache Flink 真流批</title>
     <updated>2021-01-19T21:55:11+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-03T19:30:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/OCz7jcPcb0sE5mBzem21rA</id>
     <link href="https://mp.weixin.qq.com/s/OCz7jcPcb0sE5mBzem21rA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hudi社区 | 这里有一份来自PMC Chair的新年礼包</title>
-    <updated>2020-12-31T08:15:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/PykzHotC3WRMpRhiiKXQxg</id>
-    <link href="https://mp.weixin.qq.com/s/PykzHotC3WRMpRhiiKXQxg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

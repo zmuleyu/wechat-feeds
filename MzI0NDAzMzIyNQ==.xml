@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序新视界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:27:44+08:00</updated>
+  <updated>2021-01-21T02:51:52+08:00</updated>
   <subtitle>编程，读书，职场感悟，带你开启新的程序视界！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>还在亲手写Filter进行权限校验？尝试一下Shiro吧</title>
+    <updated>2021-01-20T22:09:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/0BmhuhpBuhtJjlJuiV8Uzw</id>
+    <link href="https://mp.weixin.qq.com/s/0BmhuhpBuhtJjlJuiV8Uzw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>“两数相加”，小学加法运算而已，不用递归没有灵魂！</title>
     <updated>2021-01-16T08:38:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T18:54:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/uMNUskG2FcwwqJRUGQt7CA</id>
     <link href="https://mp.weixin.qq.com/s/uMNUskG2FcwwqJRUGQt7CA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>同事如此使用StringBuilder，我给他提了一个Bug</title>
-    <updated>2020-12-17T15:05:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/MG3qh4-bYx6h7AoN0MsHTA</id>
-    <link href="https://mp.weixin.qq.com/s/MG3qh4-bYx6h7AoN0MsHTA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
