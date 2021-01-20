@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:40:56+08:00</updated>
+  <updated>2021-01-20T14:00:36+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>发年终奖了，抽奖送一台笔记本电脑</title>
+    <updated>2021-01-20T10:26:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/5KK0Vn0R9LlljwXV_5hgsg</id>
+    <link href="https://mp.weixin.qq.com/s/5KK0Vn0R9LlljwXV_5hgsg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Linux 内核中 reuseport 的演进</title>
+    <updated>2021-01-20T10:26:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/coINqkT_DBlZ_K5NG0K9KQ</id>
+    <link href="https://mp.weixin.qq.com/s/coINqkT_DBlZ_K5NG0K9KQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我是这样对灰产 外挂 下手的</title>
+    <updated>2021-01-20T10:26:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/dQm6GuP118KV1zEduTOZAw</id>
+    <link href="https://mp.weixin.qq.com/s/dQm6GuP118KV1zEduTOZAw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>老生常谈：为什么select * 比select 字段 效率低？</title>
+    <updated>2021-01-20T10:26:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/10n4NBymR5FaSzmEiOi1XA</id>
+    <link href="https://mp.weixin.qq.com/s/10n4NBymR5FaSzmEiOi1XA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动第一场败仗——20亿投资打水漂，悟空问答凉了</title>
     <updated>2021-01-18T23:28:34+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-13T11:48:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/ut4hRJSDOls6UTUdlpu9_g</id>
     <link href="https://mp.weixin.qq.com/s/ut4hRJSDOls6UTUdlpu9_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shell 信号发送与捕捉</title>
-    <updated>2021-01-13T11:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/xqKyc8Mn0KkVu7y5ZZOWDg</id>
-    <link href="https://mp.weixin.qq.com/s/xqKyc8Mn0KkVu7y5ZZOWDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nginx 五大常见应用场景，Linux运维请收藏~</title>
-    <updated>2021-01-12T11:41:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/qCPfmSbpn2noH2klPx_QSw</id>
-    <link href="https://mp.weixin.qq.com/s/qCPfmSbpn2noH2klPx_QSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网络/命令行抓包工具tcpdump详解</title>
-    <updated>2021-01-12T11:41:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/vQWrVJPDv4o1ZENU9xu85g</id>
-    <link href="https://mp.weixin.qq.com/s/vQWrVJPDv4o1ZENU9xu85g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL为Null会导致5个问题，个个致命！</title>
-    <updated>2021-01-12T11:41:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/U7IqYD9XXGo0eHUuLa13jw</id>
-    <link href="https://mp.weixin.qq.com/s/U7IqYD9XXGo0eHUuLa13jw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

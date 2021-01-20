@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T13:41:05+08:00</updated>
+  <updated>2021-01-20T13:45:06+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用 VS Code 写 Python，这几个插件是必装的！</title>
+    <updated>2021-01-19T19:33:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/C-sw-fuoHCms325vGw1P3A</id>
+    <link href="https://mp.weixin.qq.com/s/C-sw-fuoHCms325vGw1P3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python 中 Mock 到底该怎么玩？一篇文章告诉你（超全）</title>
     <updated>2021-01-18T23:34:55+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-03T23:47:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/SUvV3j3U9l2Ry8glfI1png</id>
     <link href="https://mp.weixin.qq.com/s/SUvV3j3U9l2Ry8glfI1png" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>元旦快乐，送一点红包！</title>
-    <updated>2021-01-01T11:28:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/Vf3ELd9v4dUfXPEcURy3Dw</id>
-    <link href="https://mp.weixin.qq.com/s/Vf3ELd9v4dUfXPEcURy3Dw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

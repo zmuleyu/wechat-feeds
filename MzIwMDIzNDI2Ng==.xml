@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿泽的学习笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:53:53+08:00</updated>
+  <updated>2021-01-20T13:43:11+08:00</updated>
   <subtitle>学习知识主要是为了愉悦自己的大脑，其次才是让自己生存</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
-  <entry>
-    <title>我摊牌了，深度学习框架的秘密送给你了~</title>
-    <updated>2021-01-18T20:00:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/xC_o6Y-eYbuPiOJQHFmiaQ</id>
-    <link href="https://mp.weixin.qq.com/s/xC_o6Y-eYbuPiOJQHFmiaQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>这几年--过去，当下，未来</title>
     <updated>2021-01-17T15:04:06+08:00</updated>
@@ -75,6 +68,13 @@
     <updated>2020-12-20T17:54:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/606DsKybGz32eR1HuTArUw</id>
     <link href="https://mp.weixin.qq.com/s/606DsKybGz32eR1HuTArUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>我用特征工程+LR超过了 xDeepFM！</title>
+    <updated>2020-12-19T16:00:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-19:/s/oabA-5NMkboSYUatT2Raow</id>
+    <link href="https://mp.weixin.qq.com/s/oabA-5NMkboSYUatT2Raow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

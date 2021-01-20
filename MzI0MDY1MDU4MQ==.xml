@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>嘶吼专业版 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T13:47:46+08:00</updated>
+  <updated>2021-01-20T13:52:42+08:00</updated>
   <subtitle>为您带来每日最新最专业的互联网安全专业信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>法国航空航天公司在遭受勒索软件攻击后披露了一起信息泄露事件</title>
+    <updated>2021-01-20T13:14:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/G7A6w2JQnuYbrToS8Y5jFw</id>
+    <link href="https://mp.weixin.qq.com/s/G7A6w2JQnuYbrToS8Y5jFw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>联合国数据泄漏事件：超过10万条环境署工作人员的隐私被泄漏</title>
+    <updated>2021-01-20T13:14:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/p5-K2-ZM_N8rFoeYxY6XNg</id>
+    <link href="https://mp.weixin.qq.com/s/p5-K2-ZM_N8rFoeYxY6XNg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IcedID已经代替Valak成为攻击电子邮件的头号恶意软件</title>
+    <updated>2021-01-20T13:14:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/32JYUY5VeowSFSaSVBq3zA</id>
+    <link href="https://mp.weixin.qq.com/s/32JYUY5VeowSFSaSVBq3zA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何量身打造恶意软件分析环境（上篇）</title>
+    <updated>2021-01-20T13:14:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/rNnOEcpAl0jo2bJUnOe9IQ</id>
+    <link href="https://mp.weixin.qq.com/s/rNnOEcpAl0jo2bJUnOe9IQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>QQ读取浏览器历史记录 这个锅就不要再甩了</title>
     <updated>2021-01-19T12:46:37+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-15T10:59:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/V2QXUYnRsG7S70uzE5N_hA</id>
     <link href="https://mp.weixin.qq.com/s/V2QXUYnRsG7S70uzE5N_hA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>走进遗留IT系统的阴暗世界</title>
-    <updated>2021-01-15T10:59:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/DQjZyQQ7fx5n87epE6W5Xw</id>
-    <link href="https://mp.weixin.qq.com/s/DQjZyQQ7fx5n87epE6W5Xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>无孔不入：德国媒体遭受了全国性勒索软件的攻击</title>
-    <updated>2021-01-14T10:51:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/x9TCBnhlBlTUSahaxeHfEw</id>
-    <link href="https://mp.weixin.qq.com/s/x9TCBnhlBlTUSahaxeHfEw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>APT37使用VBA自解码技术注入RokRat</title>
-    <updated>2021-01-14T10:51:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/AphLM6VUFZEGercP9-YtmA</id>
-    <link href="https://mp.weixin.qq.com/s/AphLM6VUFZEGercP9-YtmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>macOS 二进制 plist 解析的漏洞分析</title>
-    <updated>2021-01-14T10:51:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/efRLT8o_puZmy3vlMJyoiw</id>
-    <link href="https://mp.weixin.qq.com/s/efRLT8o_puZmy3vlMJyoiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

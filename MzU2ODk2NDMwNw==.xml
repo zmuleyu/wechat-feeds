@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ccww技术博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:10:20+08:00</updated>
+  <updated>2021-01-20T14:02:17+08:00</updated>
   <subtitle>经典面试题分析与解读以及技术Spring 、Spring boot、Spring cloud以及Docker后端等技术研究和源码分析，且会不定期分享集理财经验.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>卧槽，面试官质疑我不会配置中心原理，看不起谁呢？</title>
+    <updated>2021-01-20T13:49:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/4-rCelFAblBG-YBF7eSFZQ</id>
+    <link href="https://mp.weixin.qq.com/s/4-rCelFAblBG-YBF7eSFZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis缓存总结：淘汰机制、缓存雪崩、数据不一致....</title>
     <updated>2021-01-18T19:33:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-21T09:07:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-21:/s/ISUCumoxfhmuVt6HSAu6xw</id>
     <link href="https://mp.weixin.qq.com/s/ISUCumoxfhmuVt6HSAu6xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>理解完这些基本上能解决面试中MySql的事务问题</title>
-    <updated>2020-10-16T09:31:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-16:/s/ENXsM73sD61vQJnKKYJmug</id>
-    <link href="https://mp.weixin.qq.com/s/ENXsM73sD61vQJnKKYJmug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
