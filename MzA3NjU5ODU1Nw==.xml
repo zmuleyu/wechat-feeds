@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>四颗咖啡豆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T07:46:54+08:00</updated>
+  <updated>2021-01-20T07:53:29+08:00</updated>
   <subtitle>justcoding</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>k8s-client-go源码剖析(一)</title>
+    <updated>2021-01-19T22:59:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/qzsWLVqmcEEHoaWdYawy0g</id>
+    <link href="https://mp.weixin.qq.com/s/qzsWLVqmcEEHoaWdYawy0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>docker-compose快速部署ChirpStack</title>
     <updated>2021-01-17T23:11:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-02-13T10:05:50+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-02-13:/s/sd7xOGPDTLE-RPra8elvlg</id>
     <link href="https://mp.weixin.qq.com/s/sd7xOGPDTLE-RPra8elvlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生编程语言ballerina:hello-world</title>
-    <updated>2020-02-12T16:10:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-02-12:/s/q5nnT1BzaxQMmb_XGOXv0w</id>
-    <link href="https://mp.weixin.qq.com/s/q5nnT1BzaxQMmb_XGOXv0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>瓜农老梁 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:53:54+08:00</updated>
+  <updated>2021-01-20T07:59:47+08:00</updated>
   <subtitle>啃码、撸码、笔记</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式事务+DDD+负载均衡+服务治理已撸！微服务不就这点事？</title>
+    <updated>2021-01-19T22:16:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/PvNFtFvXzIn_nq0wZtc6_w</id>
+    <link href="https://mp.weixin.qq.com/s/PvNFtFvXzIn_nq0wZtc6_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>蚂蚁Service Mesh大规模落地实践与展望</title>
     <updated>2021-01-19T19:06:21+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-27T17:09:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-27:/s/xF-nahMap6MiUE3UXPL1YA</id>
     <link href="https://mp.weixin.qq.com/s/xF-nahMap6MiUE3UXPL1YA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>28岁的闲杂思考</title>
-    <updated>2020-12-23T07:10:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/rRC6sAsbTvMjql3hULPEYQ</id>
-    <link href="https://mp.weixin.qq.com/s/rRC6sAsbTvMjql3hULPEYQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
