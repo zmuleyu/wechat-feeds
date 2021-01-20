@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:19:16+08:00</updated>
+  <updated>2021-01-20T12:26:22+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>手把手教你安装MySQL</title>
+    <updated>2021-01-20T08:58:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/dpNPTA293RKAgxPUlL-aJg</id>
+    <link href="https://mp.weixin.qq.com/s/dpNPTA293RKAgxPUlL-aJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>5款代码比较神器，总有一款适合你！</title>
+    <updated>2021-01-20T08:58:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Jny7IvhsnrFXp3DUQ1t7Hw</id>
+    <link href="https://mp.weixin.qq.com/s/Jny7IvhsnrFXp3DUQ1t7Hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Nacos 惊爆安全漏洞，可绕过身份验证（附修复建议）</title>
     <updated>2021-01-19T08:31:03+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-11T10:17:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/GqX_GDwv0ao2cn5A5Pq0uA</id>
     <link href="https://mp.weixin.qq.com/s/GqX_GDwv0ao2cn5A5Pq0uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java日志记录最佳实践</title>
-    <updated>2021-01-09T12:14:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/mrMX-1-0unJuCPkrYIt1vw</id>
-    <link href="https://mp.weixin.qq.com/s/mrMX-1-0unJuCPkrYIt1vw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux内核之旅 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T20:26:11+08:00</updated>
+  <updated>2021-01-20T12:32:36+08:00</updated>
   <subtitle>Linux内核之旅</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>android平台eBPF初探</title>
+    <updated>2021-01-20T10:15:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/HFicOtk0AZfl9-_lvbshBg</id>
+    <link href="https://mp.weixin.qq.com/s/HFicOtk0AZfl9-_lvbshBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何利用ftrace精确跟踪特定进程调度信息</title>
     <updated>2021-01-15T18:47:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-22T11:07:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/F8rREHJZL7YV1QgCfnSkZg</id>
     <link href="https://mp.weixin.qq.com/s/F8rREHJZL7YV1QgCfnSkZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>廖威雄: 思维导图：利用__attribute__((section()))构建初始化函数表与Linux内核init的实现</title>
-    <updated>2020-12-18T11:24:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/n6beG97ELrV73ZNlsQYANA</id>
-    <link href="https://mp.weixin.qq.com/s/n6beG97ELrV73ZNlsQYANA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

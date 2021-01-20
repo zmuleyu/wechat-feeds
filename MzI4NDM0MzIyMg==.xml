@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>转角遇到GitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:28:49+08:00</updated>
+  <updated>2021-01-20T12:32:50+08:00</updated>
   <subtitle>发现 GitHub 好项目，开源爱好者！包括但不限于 Python、Java、Go、Rust、JavaScript、AI 等技术，开源学习和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Go 1.15.7 发布：安全问题，建议升级</title>
+    <updated>2021-01-20T09:59:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/KiZLd2AG2HyRfenv36WmEA</id>
+    <link href="https://mp.weixin.qq.com/s/KiZLd2AG2HyRfenv36WmEA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5 分钟能入门 Go 语言吗？有人写了一个教程</title>
     <updated>2021-01-14T19:40:05+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-19T15:42:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-19:/s/GaMR7SizRGvEW81VipTnHg</id>
     <link href="https://mp.weixin.qq.com/s/GaMR7SizRGvEW81VipTnHg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>转 Go 的 PHPer 总是忘不了 PHP 的好？试试这个开源项目</title>
-    <updated>2020-12-17T10:51:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/Ry_fzDQHZHBKx16k2M_OVg</id>
-    <link href="https://mp.weixin.qq.com/s/Ry_fzDQHZHBKx16k2M_OVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

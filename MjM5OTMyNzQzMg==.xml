@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java之道 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:04:43+08:00</updated>
+  <updated>2021-01-20T12:11:27+08:00</updated>
   <subtitle>有道无术，术可成；有术无道，止于道；「Java之道」致力于为广大Javaer传道授业解惑。以术识道，以道御术；</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>最终一致性，一致只会迟到，但绝不会缺席</title>
+    <updated>2021-01-19T21:50:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ILL0ER5lv7fevHGbHmQKsA</id>
+    <link href="https://mp.weixin.qq.com/s/ILL0ER5lv7fevHGbHmQKsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>给你三天，来搞定这个项目！</title>
     <updated>2021-01-18T21:36:25+08:00</updated>
@@ -89,20 +96,6 @@
     <updated>2021-01-10T21:08:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/81vud2lyUxVmMSH4JST3kA</id>
     <link href="https://mp.weixin.qq.com/s/81vud2lyUxVmMSH4JST3kA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线程数：设多少最合理？</title>
-    <updated>2021-01-09T21:44:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/YUbfPynw8A4IZi9Qwork3A</id>
-    <link href="https://mp.weixin.qq.com/s/YUbfPynw8A4IZi9Qwork3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我为什么要放弃RESTful，选择拥抱GraphQL</title>
-    <updated>2021-01-09T21:44:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/2jrQVmYC1-VlJgXAaVJ7wQ</id>
-    <link href="https://mp.weixin.qq.com/s/2jrQVmYC1-VlJgXAaVJ7wQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

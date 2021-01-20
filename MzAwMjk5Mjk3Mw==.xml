@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>武哥聊编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:21:35+08:00</updated>
+  <updated>2021-01-20T12:28:57+08:00</updated>
   <subtitle>在这里，每天进步一点点。你若对得起时间，时间便对得起你！感谢关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>QQ被曝自动读取浏览器记录，Chrome、Edge和360等无一幸免</title>
+    <updated>2021-01-20T08:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/seiAV_JJGr-HVRB6Nb4FlA</id>
+    <link href="https://mp.weixin.qq.com/s/seiAV_JJGr-HVRB6Nb4FlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>API 分页设计与实现探讨</title>
+    <updated>2021-01-20T08:20:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/-xS-29WWo2RaQFh2WUqu0Q</id>
+    <link href="https://mp.weixin.qq.com/s/-xS-29WWo2RaQFh2WUqu0Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>同事写了一个update，误用一个双引号，生产数据全变0了！</title>
     <updated>2021-01-19T10:12:00+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-09T03:16:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/oJAQf43P7goxqmdMRhs2mA</id>
     <link href="https://mp.weixin.qq.com/s/oJAQf43P7goxqmdMRhs2mA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CDN 加速原理</title>
-    <updated>2021-01-08T01:11:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/HcLQj2BbvnDKB2lXxWHA8w</id>
-    <link href="https://mp.weixin.qq.com/s/HcLQj2BbvnDKB2lXxWHA8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

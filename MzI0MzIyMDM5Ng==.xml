@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端Q | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:55:29+08:00</updated>
+  <updated>2021-01-20T11:59:31+08:00</updated>
   <subtitle>本公众号主要分享一些技术圈(前端圈为主)相关的技术文章、工具资源、学习资料、招聘信息及其他有趣的东西...</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何开发一款 H5 小程序直播？</title>
+    <updated>2021-01-19T22:22:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/Pv_Qzu9_uVHifzMpMdK5Mg</id>
+    <link href="https://mp.weixin.qq.com/s/Pv_Qzu9_uVHifzMpMdK5Mg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>卧槽！！！前端最全资料，限时4h删！！！</title>
     <updated>2021-01-18T19:37:05+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2021-01-07T19:38:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/MJf0FCqTz5HXNGQFcBEHcg</id>
     <link href="https://mp.weixin.qq.com/s/MJf0FCqTz5HXNGQFcBEHcg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>总结了工作中常用的 ES6 代码片段，整理后的 24 个值得拥有</title>
-    <updated>2021-01-06T23:10:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/FJWtLIBuHS4qCVGej1bS4g</id>
-    <link href="https://mp.weixin.qq.com/s/FJWtLIBuHS4qCVGej1bS4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Webpack5构造React多页面应用</title>
-    <updated>2021-01-06T23:10:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/St111S4ovTzzDKusk3qwuA</id>
-    <link href="https://mp.weixin.qq.com/s/St111S4ovTzzDKusk3qwuA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

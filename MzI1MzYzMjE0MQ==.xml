@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>字节跳动技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:50:48+08:00</updated>
+  <updated>2021-01-20T11:58:01+08:00</updated>
   <subtitle>字节跳动的技术实践分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节前端提前剧透究竟为何？</title>
+    <updated>2021-01-20T10:43:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ac1uB7j8YnAIYrePhB6FtA</id>
+    <link href="https://mp.weixin.qq.com/s/ac1uB7j8YnAIYrePhB6FtA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>字节跳动 Go RPC 框架 KiteX 性能优化实践</title>
     <updated>2021-01-18T08:22:26+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T18:24:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/CNLn9CYP6k3Em0Jk7uNC1A</id>
     <link href="https://mp.weixin.qq.com/s/CNLn9CYP6k3Em0Jk7uNC1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>西瓜视频稳定性治理体系建设一：Tailor 原理及实践</title>
-    <updated>2020-12-13T23:16:44+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-13:/s/DWOQ9MSTkKSCBFQjPswPIQ</id>
-    <link href="https://mp.weixin.qq.com/s/DWOQ9MSTkKSCBFQjPswPIQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

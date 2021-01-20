@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>石杉的架构笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:55:13+08:00</updated>
+  <updated>2021-01-20T11:59:09+08:00</updated>
   <subtitle>10余年 BAT 一线大厂架构经验倾囊相授！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>超全MyBatis动态代理详解！（绝对干货）</title>
+    <updated>2021-01-20T09:30:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/RjRzacdmx3DMHlhjj1GM3g</id>
+    <link href="https://mp.weixin.qq.com/s/RjRzacdmx3DMHlhjj1GM3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>废弃fastjson！大型项目迁移Gson保姆级实战</title>
     <updated>2021-01-19T09:52:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T13:54:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/hiw5878tQz0_fbcffaEk1w</id>
     <link href="https://mp.weixin.qq.com/s/hiw5878tQz0_fbcffaEk1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>糟糕！线上 4 台机器同一时间全部 OOM，到底发生了什么？</title>
-    <updated>2021-01-07T11:00:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/KPixggwF00pj6IeRAD5ZAw</id>
-    <link href="https://mp.weixin.qq.com/s/KPixggwF00pj6IeRAD5ZAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

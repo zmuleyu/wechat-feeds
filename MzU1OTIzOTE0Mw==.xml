@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>aoho求索 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T20:53:49+08:00</updated>
+  <updated>2021-01-20T12:28:05+08:00</updated>
   <subtitle>aoho 求索是一个分享服务端开发技术的公众号，主要涉及 Java、Golang 等语言，介绍微服务架构和高并发相关的实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式事务+DDD+负载均衡+服务治理已撸！微服务不就这点事？</title>
+    <updated>2021-01-19T22:21:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/6dq6YuLiHdjj7GLonqU7pg</id>
+    <link href="https://mp.weixin.qq.com/s/6dq6YuLiHdjj7GLonqU7pg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MySQL的死锁系列- 锁的类型以及加锁原理</title>
+    <updated>2021-01-19T22:21:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/FB4CNv_nSEtio8w3eSJelw</id>
+    <link href="https://mp.weixin.qq.com/s/FB4CNv_nSEtio8w3eSJelw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SQL + 分库分表这么香，分布式数据库有必要吗？</title>
     <updated>2021-01-18T17:32:06+08:00</updated>
@@ -75,20 +89,6 @@
     <updated>2020-11-27T17:05:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/f9loVQr7jbjnDKqRWXz8sQ</id>
     <link href="https://mp.weixin.qq.com/s/f9loVQr7jbjnDKqRWXz8sQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>周末漫谈 | 什么是 Serverless 架构</title>
-    <updated>2020-11-21T09:16:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/N3UZ8Nst6T9bJvdfzP9ZGg</id>
-    <link href="https://mp.weixin.qq.com/s/N3UZ8Nst6T9bJvdfzP9ZGg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL 的 join 功能弱爆了？</title>
-    <updated>2020-11-21T09:16:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/hQHAroGhAY-7NR-ElHHueg</id>
-    <link href="https://mp.weixin.qq.com/s/hQHAroGhAY-7NR-ElHHueg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

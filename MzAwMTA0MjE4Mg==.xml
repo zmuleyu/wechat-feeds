@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构算法 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:01:08+08:00</updated>
+  <updated>2021-01-20T12:06:47+08:00</updated>
   <subtitle>分享典型互联网架构设计，底层原理，数据结构和程序算法！聚合了阿里，美团，淘宝，支付宝等公司技术架构迭代之路，涵盖大电商，大物流，大金融，大供应链，大游戏等领域典型算法解析！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？</title>
+    <updated>2021-01-19T22:32:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/G6X0G_wKziPrMAhGf1sauw</id>
+    <link href="https://mp.weixin.qq.com/s/G6X0G_wKziPrMAhGf1sauw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>京东某女程序员求助：刚入职就意外怀孕，纠结还能不能过试用期？网友：职场女性太难！</title>
+    <updated>2021-01-19T22:32:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/q9JEPG23NqFBU-hftpQxlQ</id>
+    <link href="https://mp.weixin.qq.com/s/q9JEPG23NqFBU-hftpQxlQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>搞好高并发=年薪百万？</title>
     <updated>2021-01-19T10:18:20+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T01:29:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/OY3hCW0z8tv6Vcvpo6t0tA</id>
     <link href="https://mp.weixin.qq.com/s/OY3hCW0z8tv6Vcvpo6t0tA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>某程序员爆料：入职美团优选三个月，加班加点做出成绩，却因为莫须有的原因被卸磨杀驴！网友：你背调造假？</title>
-    <updated>2021-01-12T01:29:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/kc60qKY6Pd_7g-6XqRbxSw</id>
-    <link href="https://mp.weixin.qq.com/s/kc60qKY6Pd_7g-6XqRbxSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>麻省理工学院的牛人解说数学体系，你到哪个层次了？</title>
-    <updated>2021-01-11T00:32:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/pPSIWSnobZjVLOT-I2vVdg</id>
-    <link href="https://mp.weixin.qq.com/s/pPSIWSnobZjVLOT-I2vVdg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

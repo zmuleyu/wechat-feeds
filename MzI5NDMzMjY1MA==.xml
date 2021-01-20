@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Microstrong | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:47:25+08:00</updated>
+  <updated>2021-01-20T12:06:23+08:00</updated>
   <subtitle>Microstrong(小强)同学喜欢研究数据结构与算法、机器学习、深度学习等相关领域，公众号一直以来坚持原创，分享自己在计算机视觉、自然语言处理等方向的读书笔记。希望同大家一起学习交流进步！期待您的关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>深度学习中的知识蒸馏技术（上）</title>
+    <updated>2021-01-19T23:53:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/E7-MF18Y-UeKx694kGFHzA</id>
+    <link href="https://mp.weixin.qq.com/s/E7-MF18Y-UeKx694kGFHzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>GNN教程：GraghSAGE算法细节详解！</title>
     <updated>2020-12-15T23:32:11+08:00</updated>
@@ -82,27 +89,6 @@
     <updated>2020-07-17T00:36:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-07-17:/s/vlsLnnSGAEBx_OwQ37wlig</id>
     <link href="https://mp.weixin.qq.com/s/vlsLnnSGAEBx_OwQ37wlig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT源码分析（PART I）</title>
-    <updated>2020-07-16T00:49:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-16:/s/IL5nQf5vBtL_mmj9rILPAw</id>
-    <link href="https://mp.weixin.qq.com/s/IL5nQf5vBtL_mmj9rILPAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT源码分析（PART II）</title>
-    <updated>2020-07-16T00:49:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-16:/s/4JB41S_jKT06mn4nBoxsZg</id>
-    <link href="https://mp.weixin.qq.com/s/4JB41S_jKT06mn4nBoxsZg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BERT源码分析（PART III）</title>
-    <updated>2020-07-16T00:49:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-16:/s/zBnxdCzeupbFiCdW3rv2ug</id>
-    <link href="https://mp.weixin.qq.com/s/zBnxdCzeupbFiCdW3rv2ug" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

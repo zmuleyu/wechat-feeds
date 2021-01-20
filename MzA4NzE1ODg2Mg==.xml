@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小黑在哪里 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:30:22+08:00</updated>
+  <updated>2021-01-20T12:19:55+08:00</updated>
   <subtitle>每周0-3篇原创技术分享，佛系更新；没有长篇大论的复杂概念，只有通俗易懂的实用技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Electron实用技巧-开机启动时隐藏主窗口，只显示系统托盘</title>
+    <updated>2021-01-20T08:58:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/LlHbodRyjcZ7IR3c2z_0kg</id>
+    <link href="https://mp.weixin.qq.com/s/LlHbodRyjcZ7IR3c2z_0kg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用electron+vue开发一个跨平台todolist（便签）桌面应用</title>
     <updated>2020-11-19T18:11:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-11T18:06:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-11:/s/VUEmZBfvulHzv_kXnWQJJA</id>
     <link href="https://mp.weixin.qq.com/s/VUEmZBfvulHzv_kXnWQJJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>初识ABP vNext（8）：ABP特征管理</title>
-    <updated>2020-09-03T18:27:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-03:/s/Ef_h3L_cyog93o6rARRA0w</id>
-    <link href="https://mp.weixin.qq.com/s/Ef_h3L_cyog93o6rARRA0w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

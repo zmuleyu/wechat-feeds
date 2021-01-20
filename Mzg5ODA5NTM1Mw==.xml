@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端工匠 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:14:49+08:00</updated>
+  <updated>2021-01-20T12:22:17+08:00</updated>
   <subtitle>我是浪里行舟，Github博客5000+star作者，掘金、CSDN社区活跃作者，致力于打造一系列能够帮助前端工程师提高的优质文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>GET 和 POST请求的本质区别是什么？</title>
+    <updated>2021-01-20T00:38:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Lg3aAeN1NyLXK15gM9R1DA</id>
+    <link href="https://mp.weixin.qq.com/s/Lg3aAeN1NyLXK15gM9R1DA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>带你快速上手Vite</title>
     <updated>2021-01-18T21:40:32+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-09T23:52:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/McZ_1u-VEye7ZgM6ot21qQ</id>
     <link href="https://mp.weixin.qq.com/s/McZ_1u-VEye7ZgM6ot21qQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新的跨域策略：COOP、COEP</title>
-    <updated>2021-01-07T23:40:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/i43KH-bb1dVE9sQNp5VSiQ</id>
-    <link href="https://mp.weixin.qq.com/s/i43KH-bb1dVE9sQNp5VSiQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

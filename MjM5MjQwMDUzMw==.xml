@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王Plus | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:52:29+08:00</updated>
+  <updated>2021-01-20T11:58:01+08:00</updated>
   <subtitle>一个二十年的老全栈的技术碎碎念</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>开发进阶：Dotnet Core多路径异步终止</title>
+    <updated>2021-01-19T23:21:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/i_byCQTJxQgwDdEhFmq5bQ</id>
+    <link href="https://mp.weixin.qq.com/s/i_byCQTJxQgwDdEhFmq5bQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ASP.NET Core Middleware抽丝剥茧</title>
+    <updated>2021-01-19T23:21:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/fruw2gsctui5ubBckXzjbw</id>
+    <link href="https://mp.weixin.qq.com/s/fruw2gsctui5ubBckXzjbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Exceptionless服务端本地化部署</title>
+    <updated>2021-01-19T23:21:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/TKjdBrktjFokTvJfzppsKA</id>
+    <link href="https://mp.weixin.qq.com/s/TKjdBrktjFokTvJfzppsKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 8 中使用 模式匹配</title>
     <updated>2021-01-17T23:18:44+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-05T22:43:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/GWitqKP95YhrYIH2oOLf0A</id>
     <link href="https://mp.weixin.qq.com/s/GWitqKP95YhrYIH2oOLf0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>改进你的代码-扩展了一下IEnumerable&lt;T&gt;</title>
-    <updated>2021-01-05T22:43:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/qragSuG7M3ANerUfsf88QQ</id>
-    <link href="https://mp.weixin.qq.com/s/qragSuG7M3ANerUfsf88QQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中使用 NLog 的高级特性</title>
-    <updated>2021-01-03T21:12:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/SrkFRBK_Am_Jb96Oqiu-Qw</id>
-    <link href="https://mp.weixin.qq.com/s/SrkFRBK_Am_Jb96Oqiu-Qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 WSL Ubuntu 上使用 .NET 进行跨平台开发新手入门</title>
-    <updated>2021-01-03T21:12:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/FrwognB1r3yHm2xXSZwGow</id>
-    <link href="https://mp.weixin.qq.com/s/FrwognB1r3yHm2xXSZwGow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

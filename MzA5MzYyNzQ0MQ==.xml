@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:22:13+08:00</updated>
+  <updated>2021-01-20T12:29:31+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记忆中的像素块褪色了吗？用开源的体素编辑器重新做个 3D 的吧！</title>
+    <updated>2021-01-19T15:57:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/4iszYazhWlvg43A-xQULwQ</id>
+    <link href="https://mp.weixin.qq.com/s/4iszYazhWlvg43A-xQULwQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>摆脱 996——GitHub 热点速览 v.21.03</title>
     <updated>2021-01-18T16:40:09+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-04T17:01:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/kDhnfoyJAvVlBujxaS5tJQ</id>
     <link href="https://mp.weixin.qq.com/s/kDhnfoyJAvVlBujxaS5tJQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我们月刊最受欢迎的开源项目 Top10（2020 年）</title>
-    <updated>2021-01-03T19:40:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/dQ4Bww6kgpMqM1B-oJSyEA</id>
-    <link href="https://mp.weixin.qq.com/s/dQ4Bww6kgpMqM1B-oJSyEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端迷 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:58:30+08:00</updated>
+  <updated>2021-01-20T12:03:25+08:00</updated>
   <subtitle>专注于vue/react/常见前端面试/最新web前端技术的分享；致力于算法以数据结构及前端底层原理、源码技术研究探讨；独具匠心，用心去打造一个一流的前端交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自学前端的高效学习路线.avi</title>
+    <updated>2021-01-20T00:56:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/QEV37y9A9erw2zFBRj4LDw</id>
+    <link href="https://mp.weixin.qq.com/s/QEV37y9A9erw2zFBRj4LDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>可视化拖拽组件库一些技术要点原理分析</title>
     <updated>2021-01-18T23:11:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-06T11:39:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/V3OW8UvXdQH0o2dy9mvD_w</id>
     <link href="https://mp.weixin.qq.com/s/V3OW8UvXdQH0o2dy9mvD_w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我从 Vuejs 中学到了什么</title>
-    <updated>2021-01-05T23:19:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/MGqzvXFrVYWMSkmaWs9oNg</id>
-    <link href="https://mp.weixin.qq.com/s/MGqzvXFrVYWMSkmaWs9oNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

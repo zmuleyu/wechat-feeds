@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:24:44+08:00</updated>
+  <updated>2021-01-20T12:32:54+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Azure 网关迁移至 .NET Core 3.1 性能提升一倍</title>
+    <updated>2021-01-20T11:13:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/RCJrVUFtRe5d2SjQvfXuFQ</id>
+    <link href="https://mp.weixin.qq.com/s/RCJrVUFtRe5d2SjQvfXuFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET Core 部署到 Linux(CentOS) 最全解决方案（常规篇）</title>
     <updated>2021-01-19T11:01:56+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2021-01-11T15:21:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/0kR3U8_g8K6_FgFEpyBqvA</id>
     <link href="https://mp.weixin.qq.com/s/0kR3U8_g8K6_FgFEpyBqvA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ASP.NET Core WebAPI解决发布后每隔一段时间请求变缓慢</title>
-    <updated>2021-01-09T21:56:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/beQ41E5d91OG4RGdbaY4jw</id>
-    <link href="https://mp.weixin.qq.com/s/beQ41E5d91OG4RGdbaY4jw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>1.2 万 Star！GitHub 上最全面的 .Net 开发资源汇总</title>
-    <updated>2021-01-09T21:56:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/KrcsG-IA06ZeajTxj2HUaQ</id>
-    <link href="https://mp.weixin.qq.com/s/KrcsG-IA06ZeajTxj2HUaQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

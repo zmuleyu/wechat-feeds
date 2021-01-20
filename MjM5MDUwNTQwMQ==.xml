@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农桃花源 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T11:40:59+08:00</updated>
+  <updated>2021-01-20T12:26:46+08:00</updated>
   <subtitle>一线互联网工程师死磕技术的心路历程、经验教训。欢迎围观！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这个 Redis 问题画像，干掉了一摞简历</title>
+    <updated>2021-01-19T23:34:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/XIa_yLUJmKU6_xn8IHbzjQ</id>
+    <link href="https://mp.weixin.qq.com/s/XIa_yLUJmKU6_xn8IHbzjQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>写一个 panic blame 机器人</title>
     <updated>2021-01-11T09:09:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-04T20:56:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-04:/s/hPVn5nmlAglB3VeLyJxwqQ</id>
     <link href="https://mp.weixin.qq.com/s/hPVn5nmlAglB3VeLyJxwqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go 语言应用之 template</title>
-    <updated>2020-12-03T09:10:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/9FFp0-cj4raPhdUUpSy4Og</id>
-    <link href="https://mp.weixin.qq.com/s/9FFp0-cj4raPhdUUpSy4Og" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java中文社群 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:01:35+08:00</updated>
+  <updated>2021-01-20T12:07:42+08:00</updated>
   <subtitle>持续提供有用、有深度的Java干货文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>爱了！蚂蚁开源的“SpringBoot”框架，新增了这6项功能...</title>
+    <updated>2021-01-19T20:47:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/EyQAfx3CM51VCNGI5cy-Ww</id>
+    <link href="https://mp.weixin.qq.com/s/EyQAfx3CM51VCNGI5cy-Ww" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Docker部署SpringBoot的两种方法，后一种一键部署超好用！</title>
     <updated>2021-01-18T18:15:22+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-05T22:16:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/ODxGlLrohCveH-2m-BSDWQ</id>
     <link href="https://mp.weixin.qq.com/s/ODxGlLrohCveH-2m-BSDWQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐一款开源数据库设计工具，比PowerDesigner更好用！</title>
-    <updated>2021-01-04T16:37:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/roYuBDz_kShUd8UFYh39vg</id>
-    <link href="https://mp.weixin.qq.com/s/roYuBDz_kShUd8UFYh39vg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

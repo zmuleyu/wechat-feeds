@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小灰 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:11:39+08:00</updated>
+  <updated>2021-01-20T12:17:55+08:00</updated>
   <subtitle>一群喜爱编程技术和算法的小仓鼠。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务把我坑了...</title>
+    <updated>2021-01-19T21:59:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/WYTst_FOxLGWYdYCxwE-ag</id>
+    <link href="https://mp.weixin.qq.com/s/WYTst_FOxLGWYdYCxwE-ag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>没人告诉过你，更复杂的缓存穿透怎么解决？</title>
+    <updated>2021-01-19T21:59:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/pgYBiG7UyPIe2qX5fWWYfA</id>
+    <link href="https://mp.weixin.qq.com/s/pgYBiG7UyPIe2qX5fWWYfA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>还在用PDF做简历？落后了！</title>
     <updated>2021-01-18T21:59:47+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2021-01-11T10:12:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/aFCfgJ6693LTzqsdX664Fg</id>
     <link href="https://mp.weixin.qq.com/s/aFCfgJ6693LTzqsdX664Fg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这个17岁的黑客天才，破解了第一代iPhone！</title>
-    <updated>2021-01-10T08:53:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/rVwki1ShlZwqzDAAibt4Nw</id>
-    <link href="https://mp.weixin.qq.com/s/rVwki1ShlZwqzDAAibt4Nw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>刚刚Sci-Hub和特朗普一样被永久封禁，Twitter官方：不得上诉</title>
-    <updated>2021-01-10T08:53:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/8u6zSNTNIvVHy-JRDsyaOg</id>
-    <link href="https://mp.weixin.qq.com/s/8u6zSNTNIvVHy-JRDsyaOg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

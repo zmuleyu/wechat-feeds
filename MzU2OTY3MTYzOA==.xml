@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNET技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:11:45+08:00</updated>
+  <updated>2021-01-20T12:18:13+08:00</updated>
   <subtitle>面向DotNET的线上技术社区。社区宗旨：以弘扬互联网精神为己任，致力于打造开放，分享，互利，共赢的互联网技术社区。打破闭塞，拉进你我，分享知识，共同进步，努力创造更加友善进取的.NET技术圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET斗鱼直播弹幕客户端(2019下)</title>
+    <updated>2021-01-19T12:01:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ZyrnofbIPSskkxDvfa35dw</id>
+    <link href="https://mp.weixin.qq.com/s/ZyrnofbIPSskkxDvfa35dw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊如何构建一支自驱团队（一）</title>
+    <updated>2021-01-19T12:01:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/l9myvOHv3TKufwlNiDsheg</id>
+    <link href="https://mp.weixin.qq.com/s/l9myvOHv3TKufwlNiDsheg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>浅谈如何理解领域驱动设计</title>
     <updated>2021-01-18T12:16:36+08:00</updated>
@@ -96,20 +110,6 @@
     <updated>2021-01-06T18:37:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/Ufqb0YqusjMWwRxnM6XPKA</id>
     <link href="https://mp.weixin.qq.com/s/Ufqb0YqusjMWwRxnM6XPKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OrchardCore实现模块化核心原理分析</title>
-    <updated>2021-01-05T22:55:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/i2O8gCDMit9edgfXRtq_IA</id>
-    <link href="https://mp.weixin.qq.com/s/i2O8gCDMit9edgfXRtq_IA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何禁用控制台窗口的关闭按钮？</title>
-    <updated>2021-01-05T22:55:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/UhDUNL8fifMI-EAremBukg</id>
-    <link href="https://mp.weixin.qq.com/s/UhDUNL8fifMI-EAremBukg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

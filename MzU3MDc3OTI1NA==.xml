@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:06:06+08:00</updated>
+  <updated>2021-01-20T12:12:36+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>新款笔记本写代码贼爽，包邮送一台！</title>
+    <updated>2021-01-20T08:10:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/UIDkDwe3Mv4r9PXaWi28NA</id>
+    <link href="https://mp.weixin.qq.com/s/UIDkDwe3Mv4r9PXaWi28NA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>不写代码搞定微服务架构改造，我信了你的邪...</title>
     <updated>2021-01-19T08:10:03+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2021-01-11T07:59:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/HCAt7rUBwnyuSvFRUrVddA</id>
     <link href="https://mp.weixin.qq.com/s/HCAt7rUBwnyuSvFRUrVddA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>多线程编程的理论和现实（你没看过的视频版）</title>
-    <updated>2021-01-10T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/0gWIaqlJtO093cqz5OZfeQ</id>
-    <link href="https://mp.weixin.qq.com/s/0gWIaqlJtO093cqz5OZfeQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>spring：我是如何解决循环依赖的？</title>
-    <updated>2021-01-10T08:10:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/FYbU-FBGM55Me4pTw9VduQ</id>
-    <link href="https://mp.weixin.qq.com/s/FYbU-FBGM55Me4pTw9VduQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

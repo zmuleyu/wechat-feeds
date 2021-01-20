@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:55:03+08:00</updated>
+  <updated>2021-01-20T11:58:58+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java Switch 是如何支持 String 的？为什么不支持 long？</title>
+    <updated>2021-01-20T08:41:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/HhOIcaPoQtm9Xj-FsEEJhg</id>
+    <link href="https://mp.weixin.qq.com/s/HhOIcaPoQtm9Xj-FsEEJhg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务不都是大厂在玩？中小型团队怎么应用？</title>
     <updated>2021-01-19T08:45:52+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2021-01-10T20:01:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/hFr2X--fF2yjk888ZUvagA</id>
     <link href="https://mp.weixin.qq.com/s/hFr2X--fF2yjk888ZUvagA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新来的妹纸问我 AJAX 请求为什么不安全？没有回答出来。。。</title>
-    <updated>2021-01-09T16:34:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/IUMfNqDKtn1uoNMPDoGkvw</id>
-    <link href="https://mp.weixin.qq.com/s/IUMfNqDKtn1uoNMPDoGkvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>想让进程后台运行，试试Linux的nohup命令，3分钟学会。</title>
-    <updated>2021-01-09T16:34:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/KDjbROkZtGV7ib4ISYedtQ</id>
-    <link href="https://mp.weixin.qq.com/s/KDjbROkZtGV7ib4ISYedtQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BigYoung小站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:22:27+08:00</updated>
+  <updated>2021-01-20T12:29:55+08:00</updated>
   <subtitle>BigYoung小站的同步公众号，用于提醒粉丝更新了新文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Windows DHCP最佳实践（四）</title>
+    <updated>2021-01-19T22:13:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/ZjFJ0BYezkiRlxBa08w8UQ</id>
+    <link href="https://mp.weixin.qq.com/s/ZjFJ0BYezkiRlxBa08w8UQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>MAC电脑必装神器！秒速让效率提高N倍！</title>
+    <updated>2021-01-19T22:13:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/CWbyj_iq7oBnBz3-knNxEg</id>
+    <link href="https://mp.weixin.qq.com/s/CWbyj_iq7oBnBz3-knNxEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DHCP最佳实践（三）</title>
     <updated>2021-01-18T21:56:34+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T21:58:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/gwJtnfq-JEFI_H6FfkA1Qg</id>
     <link href="https://mp.weixin.qq.com/s/gwJtnfq-JEFI_H6FfkA1Qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一道算法题，引出collections.Counter的特殊用法</title>
-    <updated>2020-10-14T14:14:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-14:/s/mHiIY04o73weZRVfNFQlSQ</id>
-    <link href="https://mp.weixin.qq.com/s/mHiIY04o73weZRVfNFQlSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Django Models 随机获取指定数量数据方法</title>
-    <updated>2020-07-21T17:18:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-07-21:/s/TqmUnfE9GUQsY6e4NNOmzg</id>
-    <link href="https://mp.weixin.qq.com/s/TqmUnfE9GUQsY6e4NNOmzg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

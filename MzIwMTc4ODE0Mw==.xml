@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PaperWeekly | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T16:49:28+08:00</updated>
+  <updated>2021-01-20T12:16:38+08:00</updated>
   <subtitle>PaperWeekly是一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台，致力于让国内外优秀科研工作得到更为广泛的传播和认可。社区：http://paperweek.ly | 微博：@PaperWeekly</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从动力学角度看优化算法：SGD ≈ SVM？</title>
+    <updated>2021-01-20T11:43:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/XQAEU3a7opjnfqhZHKCEAg</id>
+    <link href="https://mp.weixin.qq.com/s/XQAEU3a7opjnfqhZHKCEAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何成为一名合格的推荐系统工程师？</title>
+    <updated>2021-01-20T11:43:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/P9-RGI-Qdxifl4iCDuyrBQ</id>
+    <link href="https://mp.weixin.qq.com/s/P9-RGI-Qdxifl4iCDuyrBQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>岗位内推 | 京东AI研究院招聘计算机视觉算法实习生</title>
+    <updated>2021-01-20T11:43:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ktJwFn_7FvD7Uu11NHJrZA</id>
+    <link href="https://mp.weixin.qq.com/s/ktJwFn_7FvD7Uu11NHJrZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么我建议你自己创建深度学习框架？</title>
     <updated>2021-01-19T13:09:55+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-14T12:35:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/M936GOpg1kKeXB-JbZEF5A</id>
     <link href="https://mp.weixin.qq.com/s/M936GOpg1kKeXB-JbZEF5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>归纳+记忆：让机器像人一样从小样本中学习</title>
-    <updated>2021-01-13T13:42:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/0a0rqN4Ut1jWdrpATYJ5CQ</id>
-    <link href="https://mp.weixin.qq.com/s/0a0rqN4Ut1jWdrpATYJ5CQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年，投身自然语言处理是否明智？</title>
-    <updated>2021-01-13T13:42:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/CylvynYk9XMPMribCJencA</id>
-    <link href="https://mp.weixin.qq.com/s/CylvynYk9XMPMribCJencA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>岗位内推 | 阿里巴巴达摩院对话智能团队招聘研究型实习生</title>
-    <updated>2021-01-13T13:42:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/9uJ9hIkXTzyTjpfGN936SA</id>
-    <link href="https://mp.weixin.qq.com/s/9uJ9hIkXTzyTjpfGN936SA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

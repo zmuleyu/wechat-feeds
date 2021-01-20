@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库与Python大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:13:14+08:00</updated>
+  <updated>2021-01-20T12:20:44+08:00</updated>
   <subtitle>专注于大数据、数据仓库与数据科学，数据分析与数据挖掘，Hadoop/Spark/Flink、Python与面试经验和职场感悟</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>HiveSQL优化方法与实践（全）</title>
+    <updated>2021-01-20T01:10:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/C8236cW8E4HMwox-UJFrgA</id>
+    <link href="https://mp.weixin.qq.com/s/C8236cW8E4HMwox-UJFrgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>HiveSQL优化方法与实践（推荐收藏）</title>
     <updated>2021-01-19T01:21:47+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2021-01-07T23:38:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/f5XvCet8CoQyf1ibVai4bg</id>
     <link href="https://mp.weixin.qq.com/s/f5XvCet8CoQyf1ibVai4bg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再次分享！实时数据仓库建设实践思路</title>
-    <updated>2021-01-07T00:04:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/7cuFVdPOILMEIvXamNM4OQ</id>
-    <link href="https://mp.weixin.qq.com/s/7cuFVdPOILMEIvXamNM4OQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

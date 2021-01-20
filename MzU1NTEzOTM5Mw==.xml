@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>LiveVideoStack | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T11:55:42+08:00</updated>
+  <updated>2021-01-20T12:00:08+08:00</updated>
   <subtitle>LiveVideoStack直播技术社区官方账号，分享音视频直播相关技术干货，产品研究与行业趋势。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WebRTC 2021 流行趋势大赏</title>
+    <updated>2021-01-19T18:55:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/GGorNudXw7vSsgO-DVwSLw</id>
+    <link href="https://mp.weixin.qq.com/s/GGorNudXw7vSsgO-DVwSLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WebRTC的现状和未来：专访W3C WebRTC Chair Bernard Aboba（下）</title>
     <updated>2021-01-19T09:21:45+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-10T10:01:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/U2MmAUhzafyA9kSBlG3abA</id>
     <link href="https://mp.weixin.qq.com/s/U2MmAUhzafyA9kSBlG3abA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>海外弱网下的在线视频平台优化实践​</title>
-    <updated>2021-01-07T18:58:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/iHet7u6j5_wknMgOCCbZPw</id>
-    <link href="https://mp.weixin.qq.com/s/iHet7u6j5_wknMgOCCbZPw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

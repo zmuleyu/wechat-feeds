@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>网管叨bi叨 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-10T12:01:24+08:00</updated>
+  <updated>2021-01-20T12:10:14+08:00</updated>
   <subtitle>每周分享技术类原创文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>常用的分布式唯一ID生成方案</title>
+    <updated>2021-01-20T08:55:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/BNCaeEu-XRqbR-z6VM1QPg</id>
+    <link href="https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go指针的使用限制和突破之路</title>
     <updated>2021-01-10T09:13:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T08:28:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/y60q0-RMh8isd4u4PuLfUg</id>
     <link href="https://mp.weixin.qq.com/s/y60q0-RMh8isd4u4PuLfUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang程序性能分析（三）用pprof分析gRPC服务的性能</title>
-    <updated>2020-12-02T07:30:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/jbAMf0M0G1yRRttTte3jcQ</id>
-    <link href="https://mp.weixin.qq.com/s/jbAMf0M0G1yRRttTte3jcQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

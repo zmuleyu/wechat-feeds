@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:21:15+08:00</updated>
+  <updated>2021-01-20T12:29:31+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面试官问：服务的心跳机制与断线重连，Netty底层是怎么实现的？懵了</title>
+    <updated>2021-01-19T22:26:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/TC7gQnxBoxvFh-iaQg28YQ</id>
+    <link href="https://mp.weixin.qq.com/s/TC7gQnxBoxvFh-iaQg28YQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官问：ZooKeeper是强一致的吗？怎么实现的？</title>
     <updated>2021-01-18T19:37:14+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-10T15:23:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/zv0Ch_8w0yJ8WcFq_XaZXg</id>
     <link href="https://mp.weixin.qq.com/s/zv0Ch_8w0yJ8WcFq_XaZXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JAVA字节码指令iload_&lt;n&gt;为什么只有0到3？</title>
-    <updated>2021-01-10T20:38:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/6MESpX_Yxx6I19ZWaWp57g</id>
-    <link href="https://mp.weixin.qq.com/s/6MESpX_Yxx6I19ZWaWp57g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

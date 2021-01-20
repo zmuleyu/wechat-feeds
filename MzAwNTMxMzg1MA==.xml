@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:05:00+08:00</updated>
+  <updated>2021-01-20T12:11:47+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>在 C# 中生成代码的四种方式——包括.NET 5中的Source Generators</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/lVl7h6pnUG_HtFpdWG8MFQ</id>
+    <link href="https://mp.weixin.qq.com/s/lVl7h6pnUG_HtFpdWG8MFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你 ！想成为只会跟机器打交道的程序员？还是能成就无数人、受人尊敬的.NET讲师？</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/qI47Smz2Ifd33F7--KjL3A</id>
+    <link href="https://mp.weixin.qq.com/s/qI47Smz2Ifd33F7--KjL3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>WTM5.0发布，全面支持.net5</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/bzL8mFTMza5JWNCbbKXv_g</id>
+    <link href="https://mp.weixin.qq.com/s/bzL8mFTMza5JWNCbbKXv_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 C# 9 的records作为强类型ID - JSON序列化</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/5eo1W4hNE0BuUKDcOk-QdQ</id>
+    <link href="https://mp.weixin.qq.com/s/5eo1W4hNE0BuUKDcOk-QdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.Net在线编辑工具.NET Fiddle</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/oafkqTokLJ4G38ZS6l-sqA</id>
+    <link href="https://mp.weixin.qq.com/s/oafkqTokLJ4G38ZS6l-sqA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何使用 C# 中的 ValueTuple</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/2IncV5PJxzAAlHNZFw4uCA</id>
+    <link href="https://mp.weixin.qq.com/s/2IncV5PJxzAAlHNZFw4uCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.Net Core in Docker - 使用阿里云Codepipeline及阿里云容器镜像服务实现持续交付/部署（CD）</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/4ZUvqXoaXHqAbdHaD-J5jg</id>
+    <link href="https://mp.weixin.qq.com/s/4ZUvqXoaXHqAbdHaD-J5jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为你的项目启用可空引用类型</title>
+    <updated>2021-01-19T19:01:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-19:/s/axhMVM-aGLVhmT44g6huWw</id>
+    <link href="https://mp.weixin.qq.com/s/axhMVM-aGLVhmT44g6huWw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你可以不在 BAT，但不能没有大厂程序员的眼界</title>
     <updated>2021-01-18T20:52:49+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-18T15:31:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/d5FV1fxCcDhcWktaAZ5J7g</id>
     <link href="https://mp.weixin.qq.com/s/d5FV1fxCcDhcWktaAZ5J7g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 中 async 和 await</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/l_1hxY8FCaeNP1gsHNXDrA</id>
-    <link href="https://mp.weixin.qq.com/s/l_1hxY8FCaeNP1gsHNXDrA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐：Dapper扩展-Dapper.SimpleCRUD</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/PT_cu_rvC4VUcCkTaqWT6A</id>
-    <link href="https://mp.weixin.qq.com/s/PT_cu_rvC4VUcCkTaqWT6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.netcore 极速接入第三方登录</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/Wk0X1G9huCA62Mr6owqbLg</id>
-    <link href="https://mp.weixin.qq.com/s/Wk0X1G9huCA62Mr6owqbLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>年轻有为的老黄2020</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/a4J7StuJulImk0gZTXZTkw</id>
-    <link href="https://mp.weixin.qq.com/s/a4J7StuJulImk0gZTXZTkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈.NET技术公司的实习生培养</title>
-    <updated>2021-01-16T15:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/gwEZNTPLWTigAVuVM8Utxg</id>
-    <link href="https://mp.weixin.qq.com/s/gwEZNTPLWTigAVuVM8Utxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 C# 9 的records作为强类型ID - 初次使用</title>
-    <updated>2021-01-16T15:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/xKTqhtFCQyFwrlTpsvD6Hg</id>
-    <link href="https://mp.weixin.qq.com/s/xKTqhtFCQyFwrlTpsvD6Hg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>HttpClientFactory 结合 Polly 轻松实现重试机制</title>
-    <updated>2021-01-16T15:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/dWQQcb9phSlAaybpJo6Rvw</id>
-    <link href="https://mp.weixin.qq.com/s/dWQQcb9phSlAaybpJo6Rvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅谈​与彼得原理和责任管理有关的小故事</title>
-    <updated>2021-01-16T15:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/HktQ_RlGVAlwShke1LD7qQ</id>
-    <link href="https://mp.weixin.qq.com/s/HktQ_RlGVAlwShke1LD7qQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大转转FE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:01:17+08:00</updated>
+  <updated>2021-01-20T12:11:53+08:00</updated>
   <subtitle>定期分享一些团队对前端的想法与沉淀</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何用electron解决实际业务问题</title>
+    <updated>2021-01-20T10:35:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/CVP8GajZHDeVV9p44DhSIg</id>
+    <link href="https://mp.weixin.qq.com/s/CVP8GajZHDeVV9p44DhSIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>教你用PixiJs实现复杂动画</title>
     <updated>2021-01-14T20:44:14+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-17T10:26:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/YqnhSWb03W-kTS0gyxTJjw</id>
     <link href="https://mp.weixin.qq.com/s/YqnhSWb03W-kTS0gyxTJjw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>闲庭信步聊前端 - 一文摸清ES拷贝深浅</title>
-    <updated>2020-12-10T21:58:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/ZSPkUZo1lALVM8i8HeInPA</id>
-    <link href="https://mp.weixin.qq.com/s/ZSPkUZo1lALVM8i8HeInPA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
