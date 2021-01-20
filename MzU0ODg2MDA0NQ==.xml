@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ChaBug | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T13:57:11+08:00</updated>
+  <updated>2021-01-20T17:01:57+08:00</updated>
   <subtitle>一个分享知识、结识伙伴、资源共享的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Apache Flink CVE-2020-17518/17519 读写反序列化</title>
+    <updated>2021-01-20T15:08:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/TSWLLg4FBHDkfXR3cVxzkg</id>
+    <link href="https://mp.weixin.qq.com/s/TSWLLg4FBHDkfXR3cVxzkg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Real Wolrd CTF Old System New getter jndi gadget</title>
     <updated>2021-01-15T13:26:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-09T11:13:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-09:/s/ngfDm55L0zON-nEtunM9QA</id>
     <link href="https://mp.weixin.qq.com/s/ngfDm55L0zON-nEtunM9QA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Linux PAM后门：窃取ssh密码及自定义密码登录</title>
-    <updated>2020-12-07T13:12:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/M8chPphMprAK56-ScTQ-Qg</id>
-    <link href="https://mp.weixin.qq.com/s/M8chPphMprAK56-ScTQ-Qg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

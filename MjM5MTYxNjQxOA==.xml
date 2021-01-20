@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>合天智汇 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T17:04:28+08:00</updated>
+  <updated>2021-01-20T17:09:54+08:00</updated>
   <subtitle>为广大信息安全爱好者提供有价值的文章推送服务！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>渗透测试还能这么玩，码住思路！</title>
+    <updated>2021-01-20T14:48:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/jYjquZkr45zk0CWavPalGw</id>
+    <link href="https://mp.weixin.qq.com/s/jYjquZkr45zk0CWavPalGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>记一次理财杀猪盘渗透测试案例</title>
+    <updated>2021-01-20T14:48:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/fYnqsgl4-VRoECFCn1u6Eg</id>
+    <link href="https://mp.weixin.qq.com/s/fYnqsgl4-VRoECFCn1u6Eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>渗透测试之啥也不是</title>
     <updated>2021-01-19T15:22:53+08:00</updated>
@@ -110,13 +124,6 @@
     <updated>2021-01-07T15:35:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/ecIjAtg1Urg8qJjVebkeig</id>
     <link href="https://mp.weixin.qq.com/s/ecIjAtg1Urg8qJjVebkeig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>午夜漫谈：一次推测未知服务的过程</title>
-    <updated>2021-01-06T15:08:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/gqYHaRC3bbTGfJeG-IVxCQ</id>
-    <link href="https://mp.weixin.qq.com/s/gqYHaRC3bbTGfJeG-IVxCQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

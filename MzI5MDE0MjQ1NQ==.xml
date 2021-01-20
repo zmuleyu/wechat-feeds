@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷石安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:45:05+08:00</updated>
+  <updated>2021-01-20T16:56:43+08:00</updated>
   <subtitle>雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你了解这些安全吗？</title>
+    <updated>2021-01-20T14:27:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/15Yw-L6L5MrxLSOSZ1iV4g</id>
+    <link href="https://mp.weixin.qq.com/s/15Yw-L6L5MrxLSOSZ1iV4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>利用WIN事件进行权限维持</title>
     <updated>2021-01-19T16:33:43+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-06T17:22:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/0AJa7Vnihn88-57O8Ntclg</id>
     <link href="https://mp.weixin.qq.com/s/0AJa7Vnihn88-57O8Ntclg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FreeMarker模板注入</title>
-    <updated>2021-01-05T17:14:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/wkixsXKHXZREHPqmhxFp9g</id>
-    <link href="https://mp.weixin.qq.com/s/wkixsXKHXZREHPqmhxFp9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

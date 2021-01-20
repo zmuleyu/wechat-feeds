@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云原生实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:06:19+08:00</updated>
+  <updated>2021-01-20T16:53:54+08:00</updated>
   <subtitle>本公众号研究云原生领域相关技术，包括但不限于 Kubernetes、Envoy、Prometheus、Docker、Istio 等，同时还会分享一些资源整合、xx上网以及各种你想象不到的奇技淫巧。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>有了这款图形管理界面，一分钟内配置 10 个 WireGuard 客户端不是梦</title>
+    <updated>2021-01-20T15:45:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/EjBfCBaE5Yy0bbYncBnCiQ</id>
+    <link href="https://mp.weixin.qq.com/s/EjBfCBaE5Yy0bbYncBnCiQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[招聘]中国移动云业务团队招人啦！</title>
+    <updated>2021-01-20T15:45:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/cl1x_uScYi10639cEGXv8A</id>
+    <link href="https://mp.weixin.qq.com/s/cl1x_uScYi10639cEGXv8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>昨天面试被问到如何设计一个高并发系统，我脸都绿了…</title>
     <updated>2021-01-18T22:07:36+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2021-01-07T21:31:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/FS4DVuCmJcrkK8G85JH3lQ</id>
     <link href="https://mp.weixin.qq.com/s/FS4DVuCmJcrkK8G85JH3lQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高级架构师用三天教会了我高并发秒杀系统，绝了！</title>
-    <updated>2021-01-06T21:36:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/e872q6IaFZhRkt4T-V-7Qg</id>
-    <link href="https://mp.weixin.qq.com/s/e872q6IaFZhRkt4T-V-7Qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>配置 containerd 镜像仓库完全攻略</title>
-    <updated>2021-01-06T21:36:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/YPUQIbyf6O2GT200zkBb5Q</id>
-    <link href="https://mp.weixin.qq.com/s/YPUQIbyf6O2GT200zkBb5Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

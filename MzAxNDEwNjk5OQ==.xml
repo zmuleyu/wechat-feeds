@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>淘系技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T16:53:21+08:00</updated>
+  <updated>2021-01-20T17:01:22+08:00</updated>
   <subtitle>淘系技术官方账号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>设计模式最佳套路3 —— 愉快地使用代理模式</title>
+    <updated>2021-01-20T16:23:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/NNdzwK7fbPLtEQGH5q876A</id>
+    <link href="https://mp.weixin.qq.com/s/NNdzwK7fbPLtEQGH5q876A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从V8源码分析一个JS 数组的内存占用问题</title>
     <updated>2021-01-19T16:23:17+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-07T18:26:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/fWdomYQyUAbE-pMECmlVMw</id>
     <link href="https://mp.weixin.qq.com/s/fWdomYQyUAbE-pMECmlVMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>9种常用的机器学习算法实现</title>
-    <updated>2021-01-06T15:48:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/E4QPKEUsGY6P9mpzDf_wVw</id>
-    <link href="https://mp.weixin.qq.com/s/E4QPKEUsGY6P9mpzDf_wVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
