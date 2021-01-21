@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T08:04:44+08:00</updated>
+  <updated>2021-01-21T08:00:17+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【性能优化之道】每秒上万并发下的Spring Cloud参数优化实战</title>
+    <updated>2021-01-20T21:08:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/hp1l18ls21-r7AbbgzbXOw</id>
+    <link href="https://mp.weixin.qq.com/s/hp1l18ls21-r7AbbgzbXOw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务架构及其最重要的10个设计模式</title>
     <updated>2021-01-19T21:08:41+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-07T18:48:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/dg7hiNGChpLaTJJYAoIHRQ</id>
     <link href="https://mp.weixin.qq.com/s/dg7hiNGChpLaTJJYAoIHRQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一口气说出四种幂等性解决方案，面试官露出了姨母笑~</title>
-    <updated>2021-01-06T10:36:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/bn8WWcQzCrBqMADmFzZWRQ</id>
-    <link href="https://mp.weixin.qq.com/s/bn8WWcQzCrBqMADmFzZWRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNetCore学习站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T08:00:40+08:00</updated>
+  <updated>2021-01-21T07:56:30+08:00</updated>
   <subtitle>.NET Core、Asp.Net.Core MVC、Xamarin.Forms、WPF、WinForm等相关NET技术的学习分享</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯 QQ 道歉了</title>
+    <updated>2021-01-21T07:52:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/FMY9FsgfzwKBVBsTYYq3fg</id>
+    <link href="https://mp.weixin.qq.com/s/FMY9FsgfzwKBVBsTYYq3fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>读书 | IT人如何直击本质洞察底层逻辑？</title>
+    <updated>2021-01-21T07:52:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/lutaJZFGqRt1s5nDBusdGw</id>
+    <link href="https://mp.weixin.qq.com/s/lutaJZFGqRt1s5nDBusdGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET斗鱼直播弹幕客户端(2021)</title>
     <updated>2021-01-20T07:40:06+08:00</updated>
@@ -117,13 +131,6 @@
     <updated>2021-01-08T07:44:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/RxpdTQsv83M83pRHl2HPjA</id>
     <link href="https://mp.weixin.qq.com/s/RxpdTQsv83M83pRHl2HPjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Prism for WPF 搭建一个简单的模块化开发框架</title>
-    <updated>2021-01-07T07:38:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/PxWeZG2pLwM-eTaUFbi7CQ</id>
-    <link href="https://mp.weixin.qq.com/s/PxWeZG2pLwM-eTaUFbi7CQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

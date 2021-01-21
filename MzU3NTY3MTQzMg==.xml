@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>搜狐技术产品 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T07:57:07+08:00</updated>
+  <updated>2021-01-21T07:49:16+08:00</updated>
   <subtitle>这里是搜狐技术产品的知识分享平台。作为中国领先的互联网品牌，在拥有媒体、视频、搜索、游戏四大业务平台和超7亿用户的背后，搜狐始终致力于技术的创新与实践，更多实战干货和技术资讯将在此与您分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>搜狐新闻客户端Android端侧双擎Hybrid AI框架探索</title>
+    <updated>2021-01-21T07:30:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/4GfDxrwgGKKIKBsX68FJsQ</id>
+    <link href="https://mp.weixin.qq.com/s/4GfDxrwgGKKIKBsX68FJsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐一个基于 okhttp 的网络性能优化库</title>
+    <updated>2021-01-21T07:30:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/NWVPj8IgWD96VKolhBDPig</id>
+    <link href="https://mp.weixin.qq.com/s/NWVPj8IgWD96VKolhBDPig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图算法在网络黑产挖掘中的思考</title>
+    <updated>2021-01-21T07:30:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/7nyfnqgLL01NOE9BXPYETA</id>
+    <link href="https://mp.weixin.qq.com/s/7nyfnqgLL01NOE9BXPYETA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>API接口的安全设计验证：ticket，签名，时间戳</title>
+    <updated>2021-01-21T07:30:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/uVFyaK9kJ2c5HUdM8brEBw</id>
+    <link href="https://mp.weixin.qq.com/s/uVFyaK9kJ2c5HUdM8brEBw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dubbo的设计理念原来就藏在这三张图中</title>
+    <updated>2021-01-21T07:30:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/qJH6m5GKu0PaPYCfG0qK8A</id>
+    <link href="https://mp.weixin.qq.com/s/qJH6m5GKu0PaPYCfG0qK8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>RocketMQ中台化建设</title>
     <updated>2021-01-14T07:30:06+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2020-12-23T19:33:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/qH8OWgsJVYMlCydjxiXOxg</id>
     <link href="https://mp.weixin.qq.com/s/qH8OWgsJVYMlCydjxiXOxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【冬季暖心福利】前端书籍，免费送送送</title>
-    <updated>2020-12-16T18:52:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/CM6edz0fKfzcdEQRFJlaMA</id>
-    <link href="https://mp.weixin.qq.com/s/CM6edz0fKfzcdEQRFJlaMA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这次，我们摊！牌！了！</title>
-    <updated>2020-12-16T18:52:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/ENSaLHHpMMK1w1DUOVN8Ug</id>
-    <link href="https://mp.weixin.qq.com/s/ENSaLHHpMMK1w1DUOVN8Ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何通过静态分析提高iOS代码质量</title>
-    <updated>2020-12-16T18:52:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/__r2yaEBVvo5Y476eFxbIQ</id>
-    <link href="https://mp.weixin.qq.com/s/__r2yaEBVvo5Y476eFxbIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Podspec 文件分析</title>
-    <updated>2020-12-16T18:52:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/NaEBcFsMhu8QsBA4i5Wk8A</id>
-    <link href="https://mp.weixin.qq.com/s/NaEBcFsMhu8QsBA4i5Wk8A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PodSpec 管理策略</title>
-    <updated>2020-12-16T18:52:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/Pp8JbAwprF0Z5WAfVHRZZQ</id>
-    <link href="https://mp.weixin.qq.com/s/Pp8JbAwprF0Z5WAfVHRZZQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
