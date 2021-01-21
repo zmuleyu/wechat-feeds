@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:44:21+08:00</updated>
+  <updated>2021-01-21T16:46:03+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何管理 Go 技术团队？</title>
+    <updated>2021-01-21T15:33:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/1wzCK_RnFjZGq26s6hum9A</id>
+    <link href="https://mp.weixin.qq.com/s/1wzCK_RnFjZGq26s6hum9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一道关于 goroutine 的面试题，65% 的人都答错了</title>
+    <updated>2021-01-21T15:33:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/OsQQOxAjlC8P7_NMOsWW0w</id>
+    <link href="https://mp.weixin.qq.com/s/OsQQOxAjlC8P7_NMOsWW0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 语言常见的坑</title>
+    <updated>2021-01-21T15:33:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ByekiY9AbfRqB0REwLgsDg</id>
+    <link href="https://mp.weixin.qq.com/s/ByekiY9AbfRqB0REwLgsDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>快报：Go 1.16 将会废弃 io/ioutil 包！</title>
+    <updated>2021-01-21T15:33:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/3wM-YWbGyw92PHeyvxgJZQ</id>
+    <link href="https://mp.weixin.qq.com/s/3wM-YWbGyw92PHeyvxgJZQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>又有人问我 etcd 的问题，看完这篇，以后别问了</title>
     <updated>2021-01-20T17:35:19+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-16T00:20:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-16:/s/4-uQ_xjWTKAQTKa20lbK6w</id>
     <link href="https://mp.weixin.qq.com/s/4-uQ_xjWTKAQTKa20lbK6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>现今 Go 项目能绕开 MySQL 这样的数据库吗？</title>
-    <updated>2021-01-14T22:45:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6GxL1h9RpXXon7ZE7txRsw</id>
-    <link href="https://mp.weixin.qq.com/s/6GxL1h9RpXXon7ZE7txRsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么要学习更多的编程语言？同时认为 Go 是最佳</title>
-    <updated>2021-01-14T22:45:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/V2_rYXql47qiq0GT8bvAqg</id>
-    <link href="https://mp.weixin.qq.com/s/V2_rYXql47qiq0GT8bvAqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Go 和 ReactJS 构建聊天系统（四）：处理多客户端</title>
-    <updated>2021-01-14T22:45:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/Kizc1Hr6boNV2ryZci2Bbg</id>
-    <link href="https://mp.weixin.qq.com/s/Kizc1Hr6boNV2ryZci2Bbg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>好吧，Uber 不使用 Elasticsearch，自己用 Go 造了个轮子</title>
-    <updated>2021-01-14T09:23:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/5tmQLQexOXi5QxPBT-9pfw</id>
-    <link href="https://mp.weixin.qq.com/s/5tmQLQexOXi5QxPBT-9pfw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

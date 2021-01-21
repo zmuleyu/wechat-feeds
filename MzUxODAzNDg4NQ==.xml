@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小林coding | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T21:01:26+08:00</updated>
+  <updated>2021-01-21T17:02:14+08:00</updated>
   <subtitle>酷爱图解晦涩难懂的计算机基础知识。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这个 Redis 问题画像，干掉了一摞简历</title>
+    <updated>2021-01-20T21:59:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Qszq_q9J2MVOGQxB1qB8Sg</id>
+    <link href="https://mp.weixin.qq.com/s/Qszq_q9J2MVOGQxB1qB8Sg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何掌握“所有”的程序语言？？？</title>
     <updated>2021-01-20T17:41:02+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-10T17:17:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/owBB3ZkX4r6IexqTMcVTtg</id>
     <link href="https://mp.weixin.qq.com/s/owBB3ZkX4r6IexqTMcVTtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>这天气，真冷！</title>
-    <updated>2021-01-09T23:46:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/DptEjXR4XjC6VF5rMqaF_g</id>
-    <link href="https://mp.weixin.qq.com/s/DptEjXR4XjC6VF5rMqaF_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

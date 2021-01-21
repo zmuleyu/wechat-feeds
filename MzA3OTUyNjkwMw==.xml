@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>爪哇笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T13:57:46+08:00</updated>
+  <updated>2021-01-21T16:49:24+08:00</updated>
   <subtitle>专注Java 16年 上通PHP 下通c++，聊生活，爱学习，做一个有温度的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>真香！一行代码搞定微信支付回调</title>
+    <updated>2021-01-21T14:59:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/PzzMzM2Q-7UtJP6Apx-MfQ</id>
+    <link href="https://mp.weixin.qq.com/s/PzzMzM2Q-7UtJP6Apx-MfQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>​B站要搞支付？互联网巨头相继杀入支付战场</title>
     <updated>2021-01-19T13:21:05+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-28T20:13:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/rbjHoMfsvV8JWzFjB9YiFA</id>
     <link href="https://mp.weixin.qq.com/s/rbjHoMfsvV8JWzFjB9YiFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「强烈推荐」API 接口设计安全实战</title>
-    <updated>2020-12-24T09:30:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/Az17l4SJXvcbXNu4A1j1Xg</id>
-    <link href="https://mp.weixin.qq.com/s/Az17l4SJXvcbXNu4A1j1Xg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

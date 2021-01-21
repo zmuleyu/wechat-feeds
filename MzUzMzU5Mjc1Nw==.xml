@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>金融级分布式架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T16:43:46+08:00</updated>
+  <updated>2021-01-21T16:47:01+08:00</updated>
   <subtitle>致力于打造一流的分布式技术在金融场景应用实践的技术交流平台，专注于交流金融科技行业内最前沿、可供参考的技术方案与实施路线。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>蚂蚁 Service Mesh 大规模落地实践与展望</title>
+    <updated>2021-01-21T16:17:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ZyJs9kRkX8c6isZ6-VzWXA</id>
+    <link href="https://mp.weixin.qq.com/s/ZyJs9kRkX8c6isZ6-VzWXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>SOFA Weekly | Occlum 发布新版本，Seata QA 整理</title>
     <updated>2021-01-15T15:50:20+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-27T16:58:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-27:/s/iw9E5MJuPya3nPTDskidTg</id>
     <link href="https://mp.weixin.qq.com/s/iw9E5MJuPya3nPTDskidTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SOFA Weekly | SOFA-Common-Tools 项目发布新版本、Seata、MOSN 相关 QA 整理</title>
-    <updated>2020-11-20T15:36:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-20:/s/ELYqXy18Ai2k8UFHUfThVA</id>
-    <link href="https://mp.weixin.qq.com/s/ELYqXy18Ai2k8UFHUfThVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
