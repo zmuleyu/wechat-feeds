@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DataFunTalk | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T14:04:13+08:00</updated>
+  <updated>2021-01-21T13:57:15+08:00</updated>
   <subtitle>专注于大数据、人工智能技术应用的分享与交流。定期组织线下沙龙，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里大数据中台架构之道： PaaS + DaaS +DA 全域中台架构详解</title>
+    <updated>2021-01-21T11:44:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/jVUFBfHFbvdixdZb7Z_JDw</id>
+    <link href="https://mp.weixin.qq.com/s/jVUFBfHFbvdixdZb7Z_JDw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>快手元数据平台化建设及应用场景</title>
+    <updated>2021-01-21T11:44:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/0IPKS8xu4L6WgVjfusayTQ</id>
+    <link href="https://mp.weixin.qq.com/s/0IPKS8xu4L6WgVjfusayTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>今日直播 | 阿里飞猪算法分享</title>
+    <updated>2021-01-21T11:44:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/MC4SVV7U-XdQOmaZe7CASA</id>
+    <link href="https://mp.weixin.qq.com/s/MC4SVV7U-XdQOmaZe7CASA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>内推：阿里飞猪搜索、推荐、CV、NLP方向</title>
+    <updated>2021-01-21T11:44:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/0_yctJ8InUry7_FuofPAiA</id>
+    <link href="https://mp.weixin.qq.com/s/0_yctJ8InUry7_FuofPAiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>实现大规模图计算的算法思路</title>
     <updated>2021-01-20T10:18:43+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-16T20:54:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-16:/s/VT2lZGhVZbGeDJhvZBuojg</id>
     <link href="https://mp.weixin.qq.com/s/VT2lZGhVZbGeDJhvZBuojg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>内推：网易新闻算法岗</title>
-    <updated>2021-01-16T20:54:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/J-Jyghz0jsZu9DFkOv-xCA</id>
-    <link href="https://mp.weixin.qq.com/s/J-Jyghz0jsZu9DFkOv-xCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>知乎搜索文本相关性与知识蒸馏</title>
-    <updated>2021-01-15T11:55:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/xgCtgEMRZ1VgzRZWjYIjTQ</id>
-    <link href="https://mp.weixin.qq.com/s/xgCtgEMRZ1VgzRZWjYIjTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>第三代大数据处理方案 Flink 已成气候!!!</title>
-    <updated>2021-01-15T11:55:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/dPOd8YFL1MdON0vs86sVSw</id>
-    <link href="https://mp.weixin.qq.com/s/dPOd8YFL1MdON0vs86sVSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>直播 | 美团无人配送算法技术沙龙</title>
-    <updated>2021-01-15T11:55:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/0AggNV3-uufXMfPPCPJ3bQ</id>
-    <link href="https://mp.weixin.qq.com/s/0AggNV3-uufXMfPPCPJ3bQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

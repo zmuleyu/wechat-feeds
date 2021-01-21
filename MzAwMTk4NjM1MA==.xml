@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:26:22+08:00</updated>
+  <updated>2021-01-21T14:03:47+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis 可视化工具，你用的什么？</title>
+    <updated>2021-01-21T12:31:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ljtuJctmjYJQ80TsrPIk8Q</id>
+    <link href="https://mp.weixin.qq.com/s/ljtuJctmjYJQ80TsrPIk8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>手把手教你安装MySQL</title>
     <updated>2021-01-20T08:58:36+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-12T09:31:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/xoRVpi_PtZtEqst-T9SGlg</id>
     <link href="https://mp.weixin.qq.com/s/xoRVpi_PtZtEqst-T9SGlg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>应用层安全架构设计-访问控制</title>
-    <updated>2021-01-11T10:17:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/GqX_GDwv0ao2cn5A5Pq0uA</id>
-    <link href="https://mp.weixin.qq.com/s/GqX_GDwv0ao2cn5A5Pq0uA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T21:01:37+08:00</updated>
+  <updated>2021-01-21T14:08:15+08:00</updated>
   <subtitle>ITFLY8架构之家，专注于架构知识分享交流，涵盖项目管理和产品设计。包括大型分布式网站架构（高性能，高可用，缓存，消息队列...），设计模式，架构模式，大数据，项目管理(SCRUM,PMP,Prince2)，产品设计等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>微服务 7 大顶级架构设计思维模型分享</title>
+    <updated>2021-01-20T21:43:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/nTBjfs5nJooHfBNAx7TxTg</id>
+    <link href="https://mp.weixin.qq.com/s/nTBjfs5nJooHfBNAx7TxTg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>RabbitMQ 核心知识总结</title>
     <updated>2021-01-18T20:13:30+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2020-12-17T21:31:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-17:/s/-B5GWu1soHmiOdqQeqSc8Q</id>
     <link href="https://mp.weixin.qq.com/s/-B5GWu1soHmiOdqQeqSc8Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>超清晰的 DNS 原理入门指南</title>
-    <updated>2020-12-16T08:37:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/U6Jk54eix-VjWTUOlAZP3A</id>
-    <link href="https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java日志体系权威总结！</title>
-    <updated>2020-12-16T08:37:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-16:/s/b7onHI1vVsLoRF4UIpLlhQ</id>
-    <link href="https://mp.weixin.qq.com/s/b7onHI1vVsLoRF4UIpLlhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

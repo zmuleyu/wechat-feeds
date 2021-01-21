@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈前端精选 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T13:43:59+08:00</updated>
+  <updated>2021-01-21T13:42:16+08:00</updated>
   <subtitle>内容为王，精选为则。从前端到全栈，定期分享前端、客户端、Node、面试、职场感悟等相关高质量文章。小白的大神养成记，你我共勉！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>代码规范之-理解ESLint、Prettier、EditorConfig</title>
+    <updated>2021-01-21T11:14:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/zi373Sw66mOtmmsoTWsG7A</id>
+    <link href="https://mp.weixin.qq.com/s/zi373Sw66mOtmmsoTWsG7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端工程化 - 剖析npm的包管理机制</title>
     <updated>2021-01-20T10:20:32+08:00</updated>
@@ -124,13 +131,6 @@
     <updated>2021-01-11T10:33:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/uasNeUwv-5bXGhr0EErmtA</id>
     <link href="https://mp.weixin.qq.com/s/uasNeUwv-5bXGhr0EErmtA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【送】Web前端开发敲oil门砖 ——《Web前端工程师修炼之道》</title>
-    <updated>2021-01-10T13:10:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/U6u2Nkj9VvlBPCYs5pfDUQ</id>
-    <link href="https://mp.weixin.qq.com/s/U6u2Nkj9VvlBPCYs5pfDUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高性能服务器开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T14:00:36+08:00</updated>
+  <updated>2021-01-21T13:54:37+08:00</updated>
   <subtitle>我叫张小方，码农一枚，写了十年 C++ 和 五年 Java，目前写 go，技术痴迷者，擅长客户端和高性能高并发后端开发，先后任职于某交易所、声网、携程旅行网、字节跳动等公司。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>再见，世界首富！再见，马云！</title>
+    <updated>2021-01-21T10:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/FtqD4kw2qfVP1tqFwcMPFQ</id>
+    <link href="https://mp.weixin.qq.com/s/FtqD4kw2qfVP1tqFwcMPFQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>红米手机，一亿像素拍照太爽了，包邮送一台！</title>
+    <updated>2021-01-21T10:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/cFn2epbLxrAh-fHmbSnu-Q</id>
+    <link href="https://mp.weixin.qq.com/s/cFn2epbLxrAh-fHmbSnu-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>TCP 协议如何解决粘包、半包问题</title>
+    <updated>2021-01-21T10:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/sbBhBowAfhnaydErmoTxDg</id>
+    <link href="https://mp.weixin.qq.com/s/sbBhBowAfhnaydErmoTxDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis为什么变慢了？一文讲透如何排查Redis性能问题 | 万字长文</title>
+    <updated>2021-01-21T10:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/jpvpTGK8ieN-3lSE8u5MdA</id>
+    <link href="https://mp.weixin.qq.com/s/jpvpTGK8ieN-3lSE8u5MdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>曾经的理发店小弟，现在是阿里P10技术大牛</title>
+    <updated>2021-01-21T10:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/5TJ3jbMeyo2TVy8hkCbhCw</id>
+    <link href="https://mp.weixin.qq.com/s/5TJ3jbMeyo2TVy8hkCbhCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Windows 内核 x86 中断机制详解</title>
+    <updated>2021-01-21T10:45:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/eXsr4TMGfvtwLSWf2WDe5Q</id>
+    <link href="https://mp.weixin.qq.com/s/eXsr4TMGfvtwLSWf2WDe5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>发年终奖了，抽奖送一台笔记本电脑</title>
     <updated>2021-01-20T10:26:17+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-15T09:50:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/o1wbG_9LDDqM2kLNAfHUIg</id>
     <link href="https://mp.weixin.qq.com/s/o1wbG_9LDDqM2kLNAfHUIg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>5分钟了解CDN 加速原理</title>
-    <updated>2021-01-15T09:50:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/0H9-81qw-IbtoGRJ6oEN0w</id>
-    <link href="https://mp.weixin.qq.com/s/0H9-81qw-IbtoGRJ6oEN0w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
-    <updated>2021-01-14T09:47:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/_D2MlQW1QhgYIshMplYUNg</id>
-    <link href="https://mp.weixin.qq.com/s/_D2MlQW1QhgYIshMplYUNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL不会丢失数据的秘密，就藏在它的 7种日志里</title>
-    <updated>2021-01-14T09:47:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/0AlXjjYIQUU9tkw2LNiR_A</id>
-    <link href="https://mp.weixin.qq.com/s/0AlXjjYIQUU9tkw2LNiR_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>高并发场景下，到底先更新缓存还是先更新数据库？</title>
-    <updated>2021-01-14T09:47:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/XOiHlurpwCa-MmQp1yAjSQ</id>
-    <link href="https://mp.weixin.qq.com/s/XOiHlurpwCa-MmQp1yAjSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>大厂码农在北京买房需要几年？</title>
-    <updated>2021-01-13T11:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/8uZdZUcFK0muJgwDigD7Yw</id>
-    <link href="https://mp.weixin.qq.com/s/8uZdZUcFK0muJgwDigD7Yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>由浅入深逐步讲解Java并发的半壁江山AQS</title>
-    <updated>2021-01-13T11:48:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/ut4hRJSDOls6UTUdlpu9_g</id>
-    <link href="https://mp.weixin.qq.com/s/ut4hRJSDOls6UTUdlpu9_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>闲鱼技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T13:51:31+08:00</updated>
+  <updated>2021-01-21T13:52:04+08:00</updated>
   <subtitle>阿里巴巴-闲鱼技术团队官方账号。 招服务端／客户端／前端／算法／架构／质量工程师，简历投递guicai.gxy@alibaba-inc.com</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>向消息延迟说bybye：闲鱼消息及时到达方案（详细）</title>
+    <updated>2021-01-21T12:13:23+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/-x0hKwKAsPfB9V6FoJWcLA</id>
+    <link href="https://mp.weixin.qq.com/s/-x0hKwKAsPfB9V6FoJWcLA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>闲鱼是怎么让二手属性抽取准确率达到95%+的？</title>
     <updated>2021-01-19T11:21:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T12:06:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/dJM6mhD4qu9VMOcA4iIiSw</id>
     <link href="https://mp.weixin.qq.com/s/dJM6mhD4qu9VMOcA4iIiSw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>消息质量平台系列文章|全链路排查篇</title>
-    <updated>2020-12-22T12:08:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/t_xjkegwijGJKHD-tS0PoA</id>
-    <link href="https://mp.weixin.qq.com/s/t_xjkegwijGJKHD-tS0PoA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
