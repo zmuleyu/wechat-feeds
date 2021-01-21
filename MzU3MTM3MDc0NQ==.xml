@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据中台研习社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:39:42+08:00</updated>
+  <updated>2021-01-22T02:24:44+08:00</updated>
   <subtitle>订阅号【数据中台研习社】是一个专注于数据中台建设和大数据技术应用的公众号。定期分享一些数据中台、数据仓库、大数据平台等相关的经验，同时精选一些Flink、Greenplum、Kylin、Impala、Spark相关的技术文章和大家一起学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>高效团队的实战-自如OKR实景 | 彭文华</title>
+    <updated>2021-01-21T23:58:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/8Jza5y6UDJuYizozEeO00w</id>
+    <link href="https://mp.weixin.qq.com/s/8Jza5y6UDJuYizozEeO00w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>关于未来数据开发技术方向的观点</title>
+    <updated>2021-01-21T23:58:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/h_hkTFpI0-e9NbETbFrFew</id>
+    <link href="https://mp.weixin.qq.com/s/h_hkTFpI0-e9NbETbFrFew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新一代数据仓库：Snowflake 弹性数仓介绍</title>
     <updated>2021-01-19T20:12:37+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-11T19:07:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/SnuZbcSk0X-VrcT5kmP5cg</id>
     <link href="https://mp.weixin.qq.com/s/SnuZbcSk0X-VrcT5kmP5cg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于未来数据开发技术方向的观点</title>
-    <updated>2021-01-11T19:07:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/puS0WKVkKPIELIrknIhOjA</id>
-    <link href="https://mp.weixin.qq.com/s/puS0WKVkKPIELIrknIhOjA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>强烈推荐一门免费课程——《数据仓库入门&amp;实战精讲》</title>
-    <updated>2021-01-10T10:14:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/xFYSwMdlG-hjLJ2XdunukA</id>
-    <link href="https://mp.weixin.qq.com/s/xFYSwMdlG-hjLJ2XdunukA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

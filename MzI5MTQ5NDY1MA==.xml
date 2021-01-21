@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>算法与编程之美 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T02:52:50+08:00</updated>
+  <updated>2021-01-22T02:40:43+08:00</updated>
   <subtitle>听说算法和编程爱好者都关注了我们，你呢？用数学的方式对问题进行建模，用编程的方式对问题进行求解。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python|蓝桥杯—矩阵翻硬币</title>
+    <updated>2021-01-21T21:07:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/UgZe8F_YuespLGcNK8sCGA</id>
+    <link href="https://mp.weixin.qq.com/s/UgZe8F_YuespLGcNK8sCGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python | 循环与递归的区别</title>
     <updated>2021-01-20T23:37:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-13T00:03:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/SkHf-IToGaAv8ha91Ru28Q</id>
     <link href="https://mp.weixin.qq.com/s/SkHf-IToGaAv8ha91Ru28Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java|servlet关于url-pattern路径匹配的问题</title>
-    <updated>2021-01-11T17:19:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/8PDVsqg649vPjCPK7YNtbw</id>
-    <link href="https://mp.weixin.qq.com/s/8PDVsqg649vPjCPK7YNtbw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
