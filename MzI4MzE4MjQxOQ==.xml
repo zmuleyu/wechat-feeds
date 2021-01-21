@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T07:48:53+08:00</updated>
+  <updated>2021-01-21T23:43:32+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
   <entry>
+    <title>万字带你深入阿里开源的Canal工作原理</title>
+    <updated>2021-01-21T21:17:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/swKBv_UCAbP31_8Pt_F-RQ</id>
+    <link href="https://mp.weixin.qq.com/s/swKBv_UCAbP31_8Pt_F-RQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apache Flink 在实时金融数据湖的应用</title>
+    <updated>2021-01-21T21:17:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ENEN8z5Y4yzm1iFl8mFwSw</id>
+    <link href="https://mp.weixin.qq.com/s/ENEN8z5Y4yzm1iFl8mFwSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Hadoop平台进阶之路 | HDFS NameNode性能优化实践</title>
     <updated>2021-01-19T21:51:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-19:/s/a5tcr15XbGfAf-g1FsuPsw</id>
     <link href="https://mp.weixin.qq.com/s/a5tcr15XbGfAf-g1FsuPsw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何构建合理的数据指标体系</title>
-    <updated>2021-01-18T20:02:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/K2JZaTBO5C06t1cIkS8xqA</id>
-    <link href="https://mp.weixin.qq.com/s/K2JZaTBO5C06t1cIkS8xqA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>

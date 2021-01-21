@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI蜗牛车 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:38:02+08:00</updated>
+  <updated>2021-01-21T23:38:57+08:00</updated>
   <subtitle>作者是南京985AI硕士，CSDN博客专家，研究方向主要是时空序列预测和时间序列数据挖掘，获国家奖学金，校十佳大学生，省优秀毕业生，阿里天池时空序列比赛rank3。公众号致力于技术专栏化，主要包括ML、DL、NLP、CV、个人思考总结等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>程序员如果要转型AI有几分成功的机会？</title>
+    <updated>2021-01-21T18:51:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/5xEgcO11GHbkv-WVCbp9Zw</id>
+    <link href="https://mp.weixin.qq.com/s/5xEgcO11GHbkv-WVCbp9Zw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万变不离其宗：用统一框架理解向量化召回</title>
+    <updated>2021-01-21T18:51:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/5lRQqmTG9_-me3FOWAmmWQ</id>
+    <link href="https://mp.weixin.qq.com/s/5lRQqmTG9_-me3FOWAmmWQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>竞赛中的文本相似性！</title>
+    <updated>2021-01-21T18:51:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/lcVtkr2wKQ8y7zqSsbb4Tg</id>
+    <link href="https://mp.weixin.qq.com/s/lcVtkr2wKQ8y7zqSsbb4Tg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>bert之我见-attention篇</title>
+    <updated>2021-01-21T18:51:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/Q8dl6ExBrtjah3qIxAEGIA</id>
+    <link href="https://mp.weixin.qq.com/s/Q8dl6ExBrtjah3qIxAEGIA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Meta Learning 1: 基于度量的方法</title>
+    <updated>2021-01-21T18:51:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/83Og49hh93GPr0CHHBUJPA</id>
+    <link href="https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在全国最真诚的地名面前，没有人能保持严肃</title>
     <updated>2021-01-20T19:25:27+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-18T19:38:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/AK-Qowbl9s2MHoWYn-8EHw</id>
     <link href="https://mp.weixin.qq.com/s/AK-Qowbl9s2MHoWYn-8EHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万物皆可Graph | 当推荐系统遇上图神经网络</title>
-    <updated>2021-01-17T21:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/6li74AYwsw64DeYzaXzBug</id>
-    <link href="https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CTR学习笔记&amp;代码实现1-深度学习的前奏LR-&gt;FFM</title>
-    <updated>2021-01-17T21:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/lphTXdbYOyomMU6O0CH2Pw</id>
-    <link href="https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐多目标之自适应权重学习</title>
-    <updated>2021-01-17T21:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/PZXaY_WYPakommbD7PyWQg</id>
-    <link href="https://mp.weixin.qq.com/s/PZXaY_WYPakommbD7PyWQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【模型压缩系列】一：模型替换</title>
-    <updated>2021-01-17T21:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/cgF2kjHExdNvUIKf8g4_6A</id>
-    <link href="https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>解读TRPO论文，深度强化学习结合传统优化方法</title>
-    <updated>2021-01-17T21:48:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/09JCUUhsXKhvYGfXT2gDLg</id>
-    <link href="https://mp.weixin.qq.com/s/09JCUUhsXKhvYGfXT2gDLg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

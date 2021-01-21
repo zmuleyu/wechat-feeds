@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>我爱程序员 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:38:02+08:00</updated>
+  <updated>2021-01-21T23:42:08+08:00</updated>
   <subtitle>我们的产品：《码农周刊》 http://manong.io/ 、《开发者头条》 http://toutiao.io/</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>API 设计最佳实践</title>
+    <updated>2021-01-21T22:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/bFVTrmZ9X9Zw8GbpmJ_l-g</id>
+    <link href="https://mp.weixin.qq.com/s/bFVTrmZ9X9Zw8GbpmJ_l-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>​第 039 期「码农周刊 VIP 会员专属邮件周报」明晚发送，请查收！</title>
+    <updated>2021-01-21T22:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/DaDQ7gsSsXJ3GzDpcpRMPQ</id>
+    <link href="https://mp.weixin.qq.com/s/DaDQ7gsSsXJ3GzDpcpRMPQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>可能是说的最分明的 IaaS, PaaS, FaaS, SaaS, MicroService, Serverless 了</title>
     <updated>2021-01-19T21:51:17+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-06T21:00:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-06:/s/vLLSOjf64ykf94Gh3yYh7A</id>
     <link href="https://mp.weixin.qq.com/s/vLLSOjf64ykf94Gh3yYh7A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式系统之 CAP 理论，我们对它的理解和误解</title>
-    <updated>2021-01-05T21:00:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/OlNGVGIgF3kZqlqOlYAuDQ</id>
-    <link href="https://mp.weixin.qq.com/s/OlNGVGIgF3kZqlqOlYAuDQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>资料 | 工程师职级胜任力框架</title>
-    <updated>2021-01-05T21:00:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/LruPfSQwsAIg2O0dewx4_A</id>
-    <link href="https://mp.weixin.qq.com/s/LruPfSQwsAIg2O0dewx4_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

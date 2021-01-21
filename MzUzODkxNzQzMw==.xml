@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:26:44+08:00</updated>
+  <updated>2021-01-21T23:33:15+08:00</updated>
   <subtitle>OpenCV技术布道，CV实用教程，业界前沿资讯</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>WACV 2021 论文大盘点-行人监控篇</title>
+    <updated>2021-01-21T23:22:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/qavZLboarm9TtR47Bb8a3A</id>
+    <link href="https://mp.weixin.qq.com/s/qavZLboarm9TtR47Bb8a3A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WACV 2021 论文大盘点-图像分割篇</title>
     <updated>2021-01-20T23:14:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T22:25:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/kPaPB-2pal--Hlh9F7WxhA</id>
     <link href="https://mp.weixin.qq.com/s/kPaPB-2pal--Hlh9F7WxhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手机端 19FPS 的实时目标检测算法：YOLObile</title>
-    <updated>2021-01-01T23:58:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/8kyQoxvRPrU48xSJwvUGJA</id>
-    <link href="https://mp.weixin.qq.com/s/8kyQoxvRPrU48xSJwvUGJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

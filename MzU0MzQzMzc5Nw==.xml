@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>痞子衡嵌入式 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T16:54:17+08:00</updated>
+  <updated>2021-01-21T23:51:57+08:00</updated>
   <subtitle>号主痞子衡，NXP资深系统工程师，CSDN博客专家，博客园前5K名。痞子衡会分享嵌入式相关原创文章（主攻MCU上的音视频算法、混合仪器、人工智能实现）。痞子衡也正在推出《嵌入式半月刊》，分享嵌入式领域有用有趣的工具/项目/热点新闻</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MCUBootFlasher v3.0发布，为真实的产线操作场景而生</title>
+    <updated>2021-01-21T23:33:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/cdEb0pPsX_GM81VM8nr1dA</id>
+    <link href="https://mp.weixin.qq.com/s/cdEb0pPsX_GM81VM8nr1dA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MCUBootUtility v3.0发布，开始支持LPC, Kinetis啦</title>
     <updated>2021-01-10T16:17:29+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-16T11:18:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/-aIeXMc84cCg6qioT5exNQ</id>
     <link href="https://mp.weixin.qq.com/s/-aIeXMc84cCg6qioT5exNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>i.MXRT1060在串行NOR Flash启动初始化流程上做了哪些优化？</title>
-    <updated>2020-12-11T20:17:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-11:/s/43LaXDi81kByTbHJZV3hNA</id>
-    <link href="https://mp.weixin.qq.com/s/43LaXDi81kByTbHJZV3hNA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

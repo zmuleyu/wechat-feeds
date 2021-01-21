@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师修行之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:55:56+08:00</updated>
+  <updated>2021-01-21T23:57:15+08:00</updated>
   <subtitle>一个坚持把架构做到极致的技术人，热衷于互联网技术。混迹互联网十几年，热衷于高性能、高并发、分布式技术领域的研究。 不忘初心，每篇文章都精心打磨，助力10万程序员成为更合格的架构师。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -33,13 +33,6 @@
     <updated>2021-01-15T22:15:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/zuONNjR7WR7jUYHXfv8beg</id>
     <link href="https://mp.weixin.qq.com/s/zuONNjR7WR7jUYHXfv8beg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>架构师别太高估自己！你只是团队的“引擎”而已……</title>
-    <updated>2021-01-14T21:22:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/uJ6xTCL7hHyJxxmG-qsL6g</id>
-    <link href="https://mp.weixin.qq.com/s/uJ6xTCL7hHyJxxmG-qsL6g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -75,6 +68,13 @@
     <updated>2021-01-04T18:30:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/nlr54Uk-iwlT0ka6OvDJbg</id>
     <link href="https://mp.weixin.qq.com/s/nlr54Uk-iwlT0ka6OvDJbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>分布式锁用Redis好？还是Zookeeper好？</title>
+    <updated>2020-12-29T19:38:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2020-12-29:/s/UCaa80_JCbBNhVfBShvX7A</id>
+    <link href="https://mp.weixin.qq.com/s/UCaa80_JCbBNhVfBShvX7A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

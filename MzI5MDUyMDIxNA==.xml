@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:26:23+08:00</updated>
+  <updated>2021-01-21T23:32:59+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>保姆级教程：深度学习环境配置指南！（Windows、Mac、Ubuntu全讲解）</title>
+    <updated>2021-01-21T21:51:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/dVzZ3P23vRMrUGZyMXeO8g</id>
+    <link href="https://mp.weixin.qq.com/s/dVzZ3P23vRMrUGZyMXeO8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>物体检测中的小物体问题</title>
+    <updated>2021-01-21T21:51:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/WFuVzoPMn1KgZ2IOkhE-ng</id>
+    <link href="https://mp.weixin.qq.com/s/WFuVzoPMn1KgZ2IOkhE-ng" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>ICLR 2021｜自解释神经网络，直接写入了特征的重要值：Shapley Explanation Networks</title>
+    <updated>2021-01-21T21:51:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ZFXVSq6rta12sculXchA8Q</id>
+    <link href="https://mp.weixin.qq.com/s/ZFXVSq6rta12sculXchA8Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>“熊孩子”乱敲键盘就攻破了Linux桌面，大神：17年前我就警告过你们</title>
+    <updated>2021-01-21T21:51:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/B_UNPLtytpkTAZySGx9FQg</id>
+    <link href="https://mp.weixin.qq.com/s/B_UNPLtytpkTAZySGx9FQg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AdvProp：两组Batch Normalization助你在CNN对抗训练中高效涨点</title>
     <updated>2021-01-20T21:59:26+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-17T22:07:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-17:/s/vxKLZyzEk4VvZk0VEhrNYg</id>
     <link href="https://mp.weixin.qq.com/s/vxKLZyzEk4VvZk0VEhrNYg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>李宏毅强化学习完整笔记！开源项目《LeeDeepRL-Notes》发布</title>
-    <updated>2021-01-16T21:57:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/NIx5qI3majE9EMlbe-6Gqg</id>
-    <link href="https://mp.weixin.qq.com/s/NIx5qI3majE9EMlbe-6Gqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RepPoints：可形变卷积的进阶</title>
-    <updated>2021-01-16T21:57:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/Pj_bWPNFZwULwehVTnM2VA</id>
-    <link href="https://mp.weixin.qq.com/s/Pj_bWPNFZwULwehVTnM2VA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>语义分割之dice loss深度分析（梯度可视化）</title>
-    <updated>2021-01-16T21:57:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/HX3dAJUK0MxMw9TDJtVWOg</id>
-    <link href="https://mp.weixin.qq.com/s/HX3dAJUK0MxMw9TDJtVWOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021斯坦福图机器学习课程CS224W开课了，Jure Leskovec主讲</title>
-    <updated>2021-01-16T21:57:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/r0HHJwuD4maNx1TPONlqkQ</id>
-    <link href="https://mp.weixin.qq.com/s/r0HHJwuD4maNx1TPONlqkQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

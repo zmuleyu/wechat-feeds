@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:43:20+08:00</updated>
+  <updated>2021-01-21T23:43:24+08:00</updated>
   <subtitle>Apache Flink &amp; Apache Hudi. 由Committer &amp; PMC 维护。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于Prometheus+Grafana打造企业级Flink监控系统</title>
+    <updated>2021-01-21T22:40:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/BXGdtRsywqQcO91HUYf9Qg</id>
+    <link href="https://mp.weixin.qq.com/s/BXGdtRsywqQcO91HUYf9Qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>数据倾斜？Spark 3.0 AQE专治各种不服</title>
+    <updated>2021-01-21T22:40:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/GWdz2lP-mbTuGK6qkkwmLg</id>
+    <link href="https://mp.weixin.qq.com/s/GWdz2lP-mbTuGK6qkkwmLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>只知道Hadoop 3副本容错？用这种方式给公司节省五十万硬盘成本</title>
     <updated>2021-01-19T19:54:38+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-11T21:45:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/IFXlfNINsG8JmVbowmqvHw</id>
     <link href="https://mp.weixin.qq.com/s/IFXlfNINsG8JmVbowmqvHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020年美团技术团队最受欢迎的16篇技术文章</title>
-    <updated>2021-01-10T21:25:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/398X70lwlWG5XYfbCaPBkA</id>
-    <link href="https://mp.weixin.qq.com/s/398X70lwlWG5XYfbCaPBkA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年与阿里擦肩而过！！！就因为不懂Flink这个知识</title>
-    <updated>2021-01-10T21:25:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/rZ-5btp7pIZ5teJqJc_MvA</id>
-    <link href="https://mp.weixin.qq.com/s/rZ-5btp7pIZ5teJqJc_MvA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:52:46+08:00</updated>
+  <updated>2021-01-21T23:50:24+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>云原生AI平台的加速与实践</title>
+    <updated>2021-01-21T20:15:05+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/J8durjR-Mc5PVaDI-9nWwA</id>
+    <link href="https://mp.weixin.qq.com/s/J8durjR-Mc5PVaDI-9nWwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何用Prometheus和Grafana监控多云Kubernetes ？</title>
     <updated>2021-01-20T18:08:17+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T17:21:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/8njkIuUy45Da5OtJicK6NQ</id>
     <link href="https://mp.weixin.qq.com/s/8njkIuUy45Da5OtJicK6NQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes生产环境最佳实践</title>
-    <updated>2021-01-07T17:22:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/wOvLkPQHn2XExRAqMmZWxA</id>
-    <link href="https://mp.weixin.qq.com/s/wOvLkPQHn2XExRAqMmZWxA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

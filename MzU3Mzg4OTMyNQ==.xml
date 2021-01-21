@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Flink 中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:43:36+08:00</updated>
+  <updated>2021-01-21T23:47:30+08:00</updated>
   <subtitle>Apache Flink 官微，Flink PMC 维护</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink SQL 在字节跳动的优化与实践</title>
+    <updated>2021-01-21T20:04:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/8k3DcoI0dnILmfZB7dImbw</id>
+    <link href="https://mp.weixin.qq.com/s/8k3DcoI0dnILmfZB7dImbw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>蝉联 Apache 最活跃项目，Flink 社区是如何保持高速发展的？</title>
     <updated>2021-01-19T20:44:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T19:24:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/ONU_xDQEhL_mMsuqkcL4Xw</id>
     <link href="https://mp.weixin.qq.com/s/ONU_xDQEhL_mMsuqkcL4Xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​实战：Flink 1.12 维表 Join Hive 最新分区功能体验</title>
-    <updated>2020-12-22T21:06:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/yh4StVZ68aqfHFlMH_Sadw</id>
-    <link href="https://mp.weixin.qq.com/s/yh4StVZ68aqfHFlMH_Sadw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
