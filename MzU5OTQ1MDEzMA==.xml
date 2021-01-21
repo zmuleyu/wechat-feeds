@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HBase技术社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T02:26:15+08:00</updated>
+  <updated>2021-01-21T11:59:03+08:00</updated>
   <subtitle>HBase技术交流社区，共同探讨HBase技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flink 架构丨关于 Flink 被问最多的问题，今天一次性说清！</title>
+    <updated>2021-01-21T08:52:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/mLDfFPJoga8f1tGICeWOyg</id>
+    <link href="https://mp.weixin.qq.com/s/mLDfFPJoga8f1tGICeWOyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flink 应用 | Apache Flink 在实时金融数据湖的应用</title>
+    <updated>2021-01-21T08:52:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/RMSb6Kq395Yn6k0Yhj4Zcg</id>
+    <link href="https://mp.weixin.qq.com/s/RMSb6Kq395Yn6k0Yhj4Zcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spark 实践 | 京东 Spark 自研 Remote Shuffle Service 在大促中的应用实践</title>
     <updated>2021-01-20T23:45:17+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-04T21:50:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/UDwk9t7bbMGt9UsUfkVcig</id>
     <link href="https://mp.weixin.qq.com/s/UDwk9t7bbMGt9UsUfkVcig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Iceberg实践 | Flink集成Iceberg在生产环境中的实践</title>
-    <updated>2021-01-03T19:30:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/OCz7jcPcb0sE5mBzem21rA</id>
-    <link href="https://mp.weixin.qq.com/s/OCz7jcPcb0sE5mBzem21rA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

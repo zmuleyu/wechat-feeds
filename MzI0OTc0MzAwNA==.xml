@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>裸睡的猪 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:32:14+08:00</updated>
+  <updated>2021-01-21T12:22:31+08:00</updated>
   <subtitle>猪哥的Python入门教程</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>强大！Python 自动化清理微信僵尸好友</title>
+    <updated>2021-01-21T11:59:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/KQ8LZM1h0Z0uKEOaydxHYg</id>
+    <link href="https://mp.weixin.qq.com/s/KQ8LZM1h0Z0uKEOaydxHYg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>因匿名评论“B站能睡小姐姐，我睡了四个”，B站把脉脉给告了</title>
     <updated>2021-01-20T11:30:51+08:00</updated>
@@ -92,13 +99,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>搞技术永远绕不开MySQL？</title>
-    <updated>2021-01-13T11:43:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/2aWgXmACuyXT5XapDX77Hg</id>
-    <link href="https://mp.weixin.qq.com/s/2aWgXmACuyXT5XapDX77Hg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>总结了 90 条写 Python 程序的建议</title>
     <updated>2021-01-13T11:43:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/Su4WvX8bBeoxV7NETTkhog</id>
@@ -110,20 +110,6 @@
     <updated>2021-01-12T11:35:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/8QOlVqPMSyTDmhnbjoGbwA</id>
     <link href="https://mp.weixin.qq.com/s/8QOlVqPMSyTDmhnbjoGbwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么 Django 框架持续统治着 Python 开发？</title>
-    <updated>2021-01-11T11:00:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/VblZbuAA1Sd0M9ojGhcaAw</id>
-    <link href="https://mp.weixin.qq.com/s/VblZbuAA1Sd0M9ojGhcaAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>15个顶级Python库，你必须要试试！</title>
-    <updated>2021-01-11T11:00:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/YbU71pKKYsTkxIHXMx5PEQ</id>
-    <link href="https://mp.weixin.qq.com/s/YbU71pKKYsTkxIHXMx5PEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

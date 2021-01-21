@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库与Python大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:20:44+08:00</updated>
+  <updated>2021-01-21T12:13:55+08:00</updated>
   <subtitle>专注于大数据、数据仓库与数据科学，数据分析与数据挖掘，Hadoop/Spark/Flink、Python与面试经验和职场感悟</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>架构蓝图 | 优雅de数据仓库工作杂谈</title>
+    <updated>2021-01-21T01:27:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/pQ2Mbyr3onTlT0cXbu6k4Q</id>
+    <link href="https://mp.weixin.qq.com/s/pQ2Mbyr3onTlT0cXbu6k4Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>HiveSQL优化方法与实践（全）</title>
     <updated>2021-01-20T01:10:42+08:00</updated>
@@ -96,20 +103,6 @@
     <updated>2021-01-09T22:37:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/tb3iwiuFCRrAZyg3q8u4tQ</id>
     <link href="https://mp.weixin.qq.com/s/tb3iwiuFCRrAZyg3q8u4tQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>升级打怪 | Hive报错 折戟沉沙？（漫画）</title>
-    <updated>2021-01-07T23:38:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/hSUo3AwbNC8O1SFdBehYMw</id>
-    <link href="https://mp.weixin.qq.com/s/hSUo3AwbNC8O1SFdBehYMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据同步Sqoop用法之mysql与Hive导入导出</title>
-    <updated>2021-01-07T23:38:12+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/f5XvCet8CoQyf1ibVai4bg</id>
-    <link href="https://mp.weixin.qq.com/s/f5XvCet8CoQyf1ibVai4bg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

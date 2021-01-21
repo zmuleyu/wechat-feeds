@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BigYoung小站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:29:55+08:00</updated>
+  <updated>2021-01-21T12:20:59+08:00</updated>
   <subtitle>BigYoung小站的同步公众号，用于提醒粉丝更新了新文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>备份和还原Windows DHCP服务</title>
+    <updated>2021-01-20T22:39:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/HkgqyKVJftVU2U9aQPppaA</id>
+    <link href="https://mp.weixin.qq.com/s/HkgqyKVJftVU2U9aQPppaA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>DHCP最佳实践（一）</title>
+    <updated>2021-01-20T22:39:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Fuqxz-jU9RFQ123D0w2nyA</id>
+    <link href="https://mp.weixin.qq.com/s/Fuqxz-jU9RFQ123D0w2nyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Windows DHCP最佳实践（四）</title>
     <updated>2021-01-19T22:13:44+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T21:58:08+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/baMwHfiEFiy2dXDxCkX6vA</id>
     <link href="https://mp.weixin.qq.com/s/baMwHfiEFiy2dXDxCkX6vA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《清单革命》读书笔记</title>
-    <updated>2021-01-13T21:58:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/Dtb0ex1zOlbbZsN7iwMfmA</id>
-    <link href="https://mp.weixin.qq.com/s/Dtb0ex1zOlbbZsN7iwMfmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一款能够清除广告的工具</title>
-    <updated>2021-01-13T21:58:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/gwJtnfq-JEFI_H6FfkA1Qg</id>
-    <link href="https://mp.weixin.qq.com/s/gwJtnfq-JEFI_H6FfkA1Qg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

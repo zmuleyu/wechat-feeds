@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:39:18+08:00</updated>
+  <updated>2021-01-21T12:09:49+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《我想进大厂》之分布式事务篇</title>
+    <updated>2021-01-21T00:16:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/WUPj5PMdOHyKrGBCFJtqAA</id>
+    <link href="https://mp.weixin.qq.com/s/WUPj5PMdOHyKrGBCFJtqAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Spring Boot 集成 JUnit5，更优雅单元测试！</title>
     <updated>2021-01-20T20:34:05+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2021-01-12T15:02:47+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/BaZxnOb5yed4C-qj7ii-ZA</id>
     <link href="https://mp.weixin.qq.com/s/BaZxnOb5yed4C-qj7ii-ZA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线程数：设多少最合理？</title>
-    <updated>2021-01-11T11:42:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/T8YqcBlT8GbSjHvoMEs2GQ</id>
-    <link href="https://mp.weixin.qq.com/s/T8YqcBlT8GbSjHvoMEs2GQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>where 1=1 是什么鬼？</title>
-    <updated>2021-01-11T11:42:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/7-7qDqFCw3f4EGd6ngZCzw</id>
-    <link href="https://mp.weixin.qq.com/s/7-7qDqFCw3f4EGd6ngZCzw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

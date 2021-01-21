@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tetrate | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-11T20:33:28+08:00</updated>
+  <updated>2021-01-21T12:00:59+08:00</updated>
   <subtitle>总部位于美国硅谷，全球化的企业级服务网格公司。旗舰产品 Tetrate Service Bridge，基于 Istio、Envoy 和 Apache SkyWalking 而构建。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Istio 等开源项目的 DevSecOps 计划将美国国防部的发展向前推进了 100 年</title>
+    <updated>2021-01-20T19:49:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/TlNV1vy5rmnpPLkwc7b88A</id>
+    <link href="https://mp.weixin.qq.com/s/TlNV1vy5rmnpPLkwc7b88A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>拥抱网格网关</title>
     <updated>2021-01-11T13:38:41+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-03T17:15:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/mye3PdW5FXi4ARxrWSvoGQ</id>
     <link href="https://mp.weixin.qq.com/s/mye3PdW5FXi4ARxrWSvoGQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tetrate 扩大 AWS 合作伙伴关系，为 EKS 和 EKS Distro 带来企业级 Istio</title>
-    <updated>2020-12-02T14:06:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-02:/s/O0gWj8uTUyfBeeEtG5eUMA</id>
-    <link href="https://mp.weixin.qq.com/s/O0gWj8uTUyfBeeEtG5eUMA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

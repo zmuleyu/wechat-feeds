@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:13:45+08:00</updated>
+  <updated>2021-01-21T12:07:44+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>做卷子还能拿奖品？开发者小测第一期 | Flutter widget 篇</title>
+    <updated>2021-01-20T17:07:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/TwQFTLpcJlLhHKaD0fKXmA</id>
+    <link href="https://mp.weixin.qq.com/s/TwQFTLpcJlLhHKaD0fKXmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>全新的 Fragment: 使用新的状态管理器</title>
     <updated>2021-01-19T18:58:30+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-11T16:15:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/n9sK2lv97cDBBg-iUjI0ng</id>
     <link href="https://mp.weixin.qq.com/s/n9sK2lv97cDBBg-iUjI0ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>响应视窗属性动画 | 让您的软键盘动起来 (二)</title>
-    <updated>2021-01-08T15:18:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/RhTHRh41xDSx-wBtuZvP8w</id>
-    <link href="https://mp.weixin.qq.com/s/RhTHRh41xDSx-wBtuZvP8w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

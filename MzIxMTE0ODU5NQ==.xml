@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhisheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:03:55+08:00</updated>
+  <updated>2021-01-21T12:00:25+08:00</updated>
   <subtitle>Flink 实时计算框架基础&amp;进阶&amp;实战&amp;源码解析，死磕Flink&amp;Spark&amp;ElasticSearch&amp;Kafka&amp;...！ 坑要一个个填，路要跟着zhisheng走！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你不会还准备用PDF的简历面试吧？</title>
+    <updated>2021-01-20T23:45:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/qNevipjNzsAm15ceJ7z0Cg</id>
+    <link href="https://mp.weixin.qq.com/s/qNevipjNzsAm15ceJ7z0Cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>万字长文|一文了解基于Flink构建流批一体数仓的技术点</title>
+    <updated>2021-01-20T23:45:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/cHMF2aSuim-TvdS3telqUA</id>
+    <link href="https://mp.weixin.qq.com/s/cHMF2aSuim-TvdS3telqUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>美团酒旅数据治理实践</title>
     <updated>2021-01-19T22:33:09+08:00</updated>
@@ -26,13 +40,6 @@
     <updated>2021-01-18T22:05:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/S4t8hlEX9wuFHmGn_u460w</id>
     <link href="https://mp.weixin.qq.com/s/S4t8hlEX9wuFHmGn_u460w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分析了1000份大数据岗位要求，总结出这4点</title>
-    <updated>2021-01-18T08:35:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/axBoR-9R1btwlRApzdfbxQ</id>
-    <link href="https://mp.weixin.qq.com/s/axBoR-9R1btwlRApzdfbxQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -82,13 +89,6 @@
     <updated>2021-01-11T08:43:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/EHU9RWXK0Wx6UZdFI8EyuA</id>
     <link href="https://mp.weixin.qq.com/s/EHU9RWXK0Wx6UZdFI8EyuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>最佳实践——如何使用 Flink ParameterTool 读取配置？</title>
-    <updated>2021-01-10T16:31:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/mINvz2cyQC8BbNH3hFlTsA</id>
-    <link href="https://mp.weixin.qq.com/s/mINvz2cyQC8BbNH3hFlTsA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

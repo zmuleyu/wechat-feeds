@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:29:31+08:00</updated>
+  <updated>2021-01-21T12:20:07+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
+    <updated>2021-01-20T20:58:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/hfWL2TtW1K0Ganl1lfrZAA</id>
+    <link href="https://mp.weixin.qq.com/s/hfWL2TtW1K0Ganl1lfrZAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>酸爽！ Intellij IDEA 神器居然还藏着这些实用小技巧 ！</title>
+    <updated>2021-01-20T20:58:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/rLYR7jFcrB5UOHvd-QMGew</id>
+    <link href="https://mp.weixin.qq.com/s/rLYR7jFcrB5UOHvd-QMGew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>面试官问：服务的心跳机制与断线重连，Netty底层是怎么实现的？懵了</title>
     <updated>2021-01-19T22:26:20+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-12T11:47:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/D9-sjVk5WNsuR-4e4eX_eA</id>
     <link href="https://mp.weixin.qq.com/s/D9-sjVk5WNsuR-4e4eX_eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 解决跨域问题的 3 种方案</title>
-    <updated>2021-01-10T15:23:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/zv0Ch_8w0yJ8WcFq_XaZXg</id>
-    <link href="https://mp.weixin.qq.com/s/zv0Ch_8w0yJ8WcFq_XaZXg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

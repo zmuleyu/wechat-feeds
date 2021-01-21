@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android补给站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:08:57+08:00</updated>
+  <updated>2021-01-21T12:10:00+08:00</updated>
   <subtitle>Android&amp;小程序&amp;前端程序员，目标大前端，终身学习者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Binder: ServiceManager的获取</title>
+    <updated>2021-01-21T07:43:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/wSCDP0nBywAvZM5FmZaABg</id>
+    <link href="https://mp.weixin.qq.com/s/wSCDP0nBywAvZM5FmZaABg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Binder纯理论分析</title>
     <updated>2021-01-18T19:19:35+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T08:26:34+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/Ye39aVfQRAtmYlSEEChgQA</id>
     <link href="https://mp.weixin.qq.com/s/Ye39aVfQRAtmYlSEEChgQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android SystemServer启动(一)</title>
-    <updated>2020-12-29T00:16:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/uG960PwkBLS5exR2yMtZcw</id>
-    <link href="https://mp.weixin.qq.com/s/uG960PwkBLS5exR2yMtZcw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

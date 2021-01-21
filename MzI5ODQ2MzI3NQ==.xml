@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:38:48+08:00</updated>
+  <updated>2021-01-21T12:04:29+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干掉微服务！阿里云MVP专家的万亿级架构设计，搞得太棒了！</title>
+    <updated>2021-01-20T21:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/fjR52HePvwdArYp9aOIV6A</id>
+    <link href="https://mp.weixin.qq.com/s/fjR52HePvwdArYp9aOIV6A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么要迁移到Kubernetes</title>
+    <updated>2021-01-20T21:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/8tLYUcRygyMjJi7NfjvM9A</id>
+    <link href="https://mp.weixin.qq.com/s/8tLYUcRygyMjJi7NfjvM9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用 Kubernetes，居然不知道 etcd？</title>
     <updated>2021-01-20T17:40:22+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2021-01-12T11:00:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/PAb_daSZBF3eAGpIDqu2FQ</id>
     <link href="https://mp.weixin.qq.com/s/PAb_daSZBF3eAGpIDqu2FQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>买买买，红帽准备买下容器安全平台StackRox</title>
-    <updated>2021-01-11T20:16:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/v5znv0mOdIEonb-I6BhL6A</id>
-    <link href="https://mp.weixin.qq.com/s/v5znv0mOdIEonb-I6BhL6A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>手把手教你玩华为eNSP模拟器</title>
-    <updated>2021-01-11T20:16:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/5U3q7W38FLXwxH4LI9nLMw</id>
-    <link href="https://mp.weixin.qq.com/s/5U3q7W38FLXwxH4LI9nLMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python爬虫与数据挖掘 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:13:55+08:00</updated>
+  <updated>2021-01-21T12:08:36+08:00</updated>
   <subtitle>人生苦短，我用Python。该公众号专注于分享Python网络爬虫、数据挖掘、数据分析、数据处理、数据可视化、自动化测试、运维、大数据、人工智能、云计算、机器学习等工具资源、热点资讯、相关技术文章、学习视频和学习资料等，期待您的加入~~~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一篇文章教会你使用Django根据现有数据库反向生成models</title>
+    <updated>2021-01-20T10:34:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/m1rZgQqMvQ4zgXe-w6PZjg</id>
+    <link href="https://mp.weixin.qq.com/s/m1rZgQqMvQ4zgXe-w6PZjg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我做的个人主页，惊艳面试官</title>
     <updated>2021-01-19T20:22:24+08:00</updated>
@@ -57,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>年轻人，搞不懂深度学习框架，你就“耗子尾汁”吧~</title>
-    <updated>2021-01-14T17:33:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/w2UEVP9Zvx2WDMrJE3weCw</id>
-    <link href="https://mp.weixin.qq.com/s/w2UEVP9Zvx2WDMrJE3weCw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>全球最美Top100女神出炉，国内六人上榜，我Python发现了这些秘密...</title>
     <updated>2021-01-14T17:33:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/eII1jds6DMOfIy4brQuUcw</id>
@@ -89,13 +89,6 @@
     <updated>2021-01-11T15:54:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/2fjSz84mbmfcEiwniQvVrg</id>
     <link href="https://mp.weixin.qq.com/s/2fjSz84mbmfcEiwniQvVrg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>轻松识别文字，这款Python OCR库支持超过80种语言</title>
-    <updated>2021-01-10T23:03:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/15HYCoxmM7STqzAxd5XigQ</id>
-    <link href="https://mp.weixin.qq.com/s/15HYCoxmM7STqzAxd5XigQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

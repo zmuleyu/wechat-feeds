@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zabbix开源社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:23:54+08:00</updated>
+  <updated>2021-01-21T12:16:02+08:00</updated>
   <subtitle>Zabbix开源社区由Zabbix大中华区唯一总代理宏时数据建立并维护，负责商务、业务等相关事宜，也为国内Zabbix爱好者提供交流学习的平台和专业的技术支持。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>案例|安信证券监控平台如何设计和实现？</title>
+    <updated>2021-01-21T00:40:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/nd0DkA8GPwMzDOvlvDLnhQ</id>
+    <link href="https://mp.weixin.qq.com/s/nd0DkA8GPwMzDOvlvDLnhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>博文|使用Zabbix官方安装包时几个易混淆的点</title>
+    <updated>2021-01-21T00:40:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/pT5ui7IdaYpgZ7uYRRBDag</id>
+    <link href="https://mp.weixin.qq.com/s/pT5ui7IdaYpgZ7uYRRBDag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>官方博文|升级至Zabbix 5.2指南，又快又简单！</title>
     <updated>2021-01-13T20:02:43+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-19T22:49:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/zi2jja72FMwQM9qURkY4Ng</id>
     <link href="https://mp.weixin.qq.com/s/zi2jja72FMwQM9qURkY4Ng" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专家专栏|Zabbix5.2安全特性-机密信息外部存储</title>
-    <updated>2020-11-19T22:49:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-19:/s/Yi9btqcc-Bh-JKVHdVaMWA</id>
-    <link href="https://mp.weixin.qq.com/s/Yi9btqcc-Bh-JKVHdVaMWA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>专家专栏|Zabbix Agent2监控Docker</title>
-    <updated>2020-11-09T15:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-09:/s/dINXkRq9MhOpEYrzThUr-w</id>
-    <link href="https://mp.weixin.qq.com/s/dINXkRq9MhOpEYrzThUr-w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

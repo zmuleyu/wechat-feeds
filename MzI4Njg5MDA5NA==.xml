@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java3y | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:18:12+08:00</updated>
+  <updated>2021-01-21T12:12:21+08:00</updated>
   <subtitle>一个朴实无华且枯燥的程序员。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>分布式还可以这么玩？</title>
+    <updated>2021-01-20T22:25:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ULbi0tD8XelKuhYIf2pbdA</id>
+    <link href="https://mp.weixin.qq.com/s/ULbi0tD8XelKuhYIf2pbdA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LOG 日志的使用姿势</title>
+    <updated>2021-01-20T22:25:53+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/d7BxG9NcVHuzsrrpoTEJ7A</id>
+    <link href="https://mp.weixin.qq.com/s/d7BxG9NcVHuzsrrpoTEJ7A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【对线面试官】线程池</title>
     <updated>2021-01-19T22:46:20+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-11T23:35:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/A_sVRRJLCoz59ub4_O_SkQ</id>
     <link href="https://mp.weixin.qq.com/s/A_sVRRJLCoz59ub4_O_SkQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【对线面试官】 CAS</title>
-    <updated>2021-01-10T17:59:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/rdMsqbawKSC86AXlcWfkCg</id>
-    <link href="https://mp.weixin.qq.com/s/rdMsqbawKSC86AXlcWfkCg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

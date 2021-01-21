@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BAT的乌托邦 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:09:49+08:00</updated>
+  <updated>2021-01-21T12:11:16+08:00</updated>
   <subtitle>也许当我老了，也一样写代码。不为别的，只为爱好。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LocalDateTime、OffsetDateTime、ZonedDateTime互转，这一篇绝对喂饱你</title>
+    <updated>2021-01-21T07:53:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/_Zt4JcUokea-zha0gCFnsA</id>
+    <link href="https://mp.weixin.qq.com/s/_Zt4JcUokea-zha0gCFnsA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>全球城市ZoneId和UTC时间偏移量的最全对照表</title>
     <updated>2021-01-19T08:10:12+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T05:39:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/9MPkCSM9AbsgKAFQ1eXBNQ</id>
     <link href="https://mp.weixin.qq.com/s/9MPkCSM9AbsgKAFQ1eXBNQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>冲冲冲，力挺小马哥开班讲Java</title>
-    <updated>2020-12-22T12:52:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/plHw0esseYKbCdGWLayAag</id>
-    <link href="https://mp.weixin.qq.com/s/plHw0esseYKbCdGWLayAag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

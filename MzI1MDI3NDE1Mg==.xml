@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>int32bit | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:51:55+08:00</updated>
+  <updated>2021-01-21T12:00:31+08:00</updated>
   <subtitle>该公众号主要记录本人OpenStack 、Docker、Kubernetes等相关技术学习，由于水平有限，知识无限，如有错误，欢迎指正。如需转发图文，请私信我开通白名单。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记一次被multipath坑苦的经历</title>
+    <updated>2021-01-21T11:20:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/IkDd0kRsLahDor8yOhF_wg</id>
+    <link href="https://mp.weixin.qq.com/s/IkDd0kRsLahDor8yOhF_wg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于Packer+Ansible实现云平台黄金镜像统一构建和发布</title>
     <updated>2020-12-22T20:49:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2019-12-19T19:22:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2019-12-19:/s/0svwF3KYs5dDHTEs-s2O7Q</id>
     <link href="https://mp.weixin.qq.com/s/0svwF3KYs5dDHTEs-s2O7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>kubernetes数字证书体系浅析</title>
-    <updated>2019-12-18T21:26:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2019-12-18:/s/yCRD5uBdeikPJ3ipNdn2xw</id>
-    <link href="https://mp.weixin.qq.com/s/yCRD5uBdeikPJ3ipNdn2xw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

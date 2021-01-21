@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:16:12+08:00</updated>
+  <updated>2021-01-21T12:10:21+08:00</updated>
   <subtitle>阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>应用部署架构：如何降低云网络时延？</title>
+    <updated>2021-01-20T18:14:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/jHv__zvDMS41BHzVh1YgsQ</id>
+    <link href="https://mp.weixin.qq.com/s/jHv__zvDMS41BHzVh1YgsQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>跨地域场景下，如何解决分布式系统的一致性？</title>
     <updated>2021-01-19T18:12:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T07:58:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/EMZrnDRGCoIAloSFr1js5w</id>
     <link href="https://mp.weixin.qq.com/s/EMZrnDRGCoIAloSFr1js5w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>优化总结：有哪些APP启动提速方法？</title>
-    <updated>2021-01-06T17:43:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/LVz8D_pubcpGW-s7LOpMbA</id>
-    <link href="https://mp.weixin.qq.com/s/LVz8D_pubcpGW-s7LOpMbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:28:25+08:00</updated>
+  <updated>2021-01-21T12:19:34+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LFAPAC 新年新计划 - Hyperledger + 计划正式启动！</title>
+    <updated>2021-01-21T11:07:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/7_1Kfp6oBhO-GfEkOW4kmQ</id>
+    <link href="https://mp.weixin.qq.com/s/7_1Kfp6oBhO-GfEkOW4kmQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>迁移到Spark Operator和S3的4个集成步骤</title>
+    <updated>2021-01-21T11:07:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/WVa67Jnu5tbSCwNZy_nReQ</id>
+    <link href="https://mp.weixin.qq.com/s/WVa67Jnu5tbSCwNZy_nReQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国内最具影响力科技创投媒体36Kr的容器化之路</title>
+    <updated>2021-01-21T11:07:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/TONkaeNL2i9utQpfghUXQQ</id>
+    <link href="https://mp.weixin.qq.com/s/TONkaeNL2i9utQpfghUXQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes将废弃PodSecurityPolicy</title>
+    <updated>2021-01-21T11:07:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/8_vAyk9WHM2aPdNMu3oxKA</id>
+    <link href="https://mp.weixin.qq.com/s/8_vAyk9WHM2aPdNMu3oxKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于 KubeEdge 和 Kuiper 的边缘流式数据处理实践</title>
     <updated>2021-01-20T10:09:56+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-15T10:33:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/exUXOwLz_tJynUh_reNPNA</id>
     <link href="https://mp.weixin.qq.com/s/exUXOwLz_tJynUh_reNPNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Containerd镜像lazy-pulling解读</title>
-    <updated>2021-01-15T10:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/zS3DN75e2JAiiU8snN9oZw</id>
-    <link href="https://mp.weixin.qq.com/s/zS3DN75e2JAiiU8snN9oZw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rook 1.5.1 部署 Ceph 实操经验分享</title>
-    <updated>2021-01-15T10:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/3Ghj3qP4SQvKS5RbwtCi1w</id>
-    <link href="https://mp.weixin.qq.com/s/3Ghj3qP4SQvKS5RbwtCi1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OpenYurt v0.3.0 重磅发布：全面提升边缘场景下应用部署效率</title>
-    <updated>2021-01-14T11:24:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/SL5d2Gr-2VpOev6_XsdBsA</id>
-    <link href="https://mp.weixin.qq.com/s/SL5d2Gr-2VpOev6_XsdBsA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Volcano架构设计与原理介绍</title>
-    <updated>2021-01-14T11:24:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6kxQ28uAXc8SjUcMRFcLBQ</id>
-    <link href="https://mp.weixin.qq.com/s/6kxQ28uAXc8SjUcMRFcLBQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

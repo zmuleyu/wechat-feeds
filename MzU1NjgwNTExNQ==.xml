@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>玩转VS Code | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:01:35+08:00</updated>
+  <updated>2021-01-21T11:58:44+08:00</updated>
   <subtitle>Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部 都可以在这里找到。带你玩转VSCode！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为宣布：免费培养2000名大数据开发者！</title>
+    <updated>2021-01-20T22:56:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/XjeVnMjiOC3VdZIy12MNXQ</id>
+    <link href="https://mp.weixin.qq.com/s/XjeVnMjiOC3VdZIy12MNXQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微软Edge 88 beta适配M1，弃用Flash</title>
+    <updated>2021-01-20T22:56:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/uVTqlPZ8NH6qP-vjsEBGug</id>
+    <link href="https://mp.weixin.qq.com/s/uVTqlPZ8NH6qP-vjsEBGug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Eclipse 出品，10 万 Star！网友说要干掉 VS Code 的新工具？？</title>
     <updated>2021-01-19T19:58:25+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2021-01-11T21:48:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/2yjD2iYwrezwR0988tcJ3w</id>
     <link href="https://mp.weixin.qq.com/s/2yjD2iYwrezwR0988tcJ3w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TIOBE 1 月编程语言：2020 年度编程语言花落谁家？</title>
-    <updated>2021-01-10T17:39:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/Nbf32IM-3EedLVd0YSoadg</id>
-    <link href="https://mp.weixin.qq.com/s/Nbf32IM-3EedLVd0YSoadg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>第一本 ECharts 数据可视化书籍来了！文末送书！</title>
-    <updated>2021-01-10T17:39:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/bO20B__mck-O0gYQX5pGGw</id>
-    <link href="https://mp.weixin.qq.com/s/bO20B__mck-O0gYQX5pGGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

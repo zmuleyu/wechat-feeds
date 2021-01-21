@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端瓶子君 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:10:45+08:00</updated>
+  <updated>2021-01-21T12:06:03+08:00</updated>
   <subtitle>瓶子君，前端进阶算法活动发起者，致力于分享 webpack、nodejs、react、vue、小程序、前端工程化等！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么要用 setTimeout 模拟 setInterval ？</title>
+    <updated>2021-01-20T22:50:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/aqEPNredtLpByKmkfZfQgA</id>
+    <link href="https://mp.weixin.qq.com/s/aqEPNredtLpByKmkfZfQgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在滴滴和头条干了2年开发，我的总结与感悟</title>
+    <updated>2021-01-20T22:50:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/WseUPo86DrLpmOTpKrr5Qg</id>
+    <link href="https://mp.weixin.qq.com/s/WseUPo86DrLpmOTpKrr5Qg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>自学前端的高效学习路线.avi</title>
     <updated>2021-01-19T22:00:29+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T23:55:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/6-p0LXlz2r7MiNdDEmWiuQ</id>
     <link href="https://mp.weixin.qq.com/s/6-p0LXlz2r7MiNdDEmWiuQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>《图解 HTTP》读书笔记</title>
-    <updated>2021-01-12T23:55:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/X6WghDK10KFrImjvNITofg</id>
-    <link href="https://mp.weixin.qq.com/s/X6WghDK10KFrImjvNITofg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网络浏览器大战（Google与IE的较量）</title>
-    <updated>2021-01-12T23:55:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/3u38YgOZ4Y6u46eFXLTnkA</id>
-    <link href="https://mp.weixin.qq.com/s/3u38YgOZ4Y6u46eFXLTnkA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

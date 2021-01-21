@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之美 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:50:16+08:00</updated>
+  <updated>2021-01-21T12:18:20+08:00</updated>
   <subtitle>设计满足业务的系统架构、大数据中台、算法平台，并非易事。在这里分享一线大厂线上真实案例的思考和实践，让我们在互联网架构设计、大数据研发、机器学习实践之路上共同成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kafka 还是 Pulsar？每一位架构师都应该深入思考！</title>
+    <updated>2021-01-20T22:59:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/m6muxfnrXM4rPsu1TC31Kg</id>
+    <link href="https://mp.weixin.qq.com/s/m6muxfnrXM4rPsu1TC31Kg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>DDD 领域驱动设计：贫血模型、充血模型的深入解读！</title>
     <updated>2021-01-20T18:45:30+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-05T17:28:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/-DGmeBKYnY3ppfDf5kJgLA</id>
     <link href="https://mp.weixin.qq.com/s/-DGmeBKYnY3ppfDf5kJgLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻底揭秘负载均衡算法与实现！深入剖析负载均衡核心</title>
-    <updated>2021-01-04T14:44:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/plMpPvfGbKNpT_vdkkeVQg</id>
-    <link href="https://mp.weixin.qq.com/s/plMpPvfGbKNpT_vdkkeVQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

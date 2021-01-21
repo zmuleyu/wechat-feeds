@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:11:47+08:00</updated>
+  <updated>2021-01-21T12:06:50+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>职场面试时要不要讲“武德”？我来告诉你</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ZVx6bPoGdfervSYAsLFEGA</id>
+    <link href="https://mp.weixin.qq.com/s/ZVx6bPoGdfervSYAsLFEGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>.NET5首选Blazor，性能3倍于Vue！</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/sBjF1xaf_URC8j7BpFFL4g</id>
+    <link href="https://mp.weixin.qq.com/s/sBjF1xaf_URC8j7BpFFL4g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来吧，是时候升级您的领英技术档案了</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/udAKOz_dYjVpOdgPpyKoBg</id>
+    <link href="https://mp.weixin.qq.com/s/udAKOz_dYjVpOdgPpyKoBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>使用 gRPCurl 调试.NET 5的gPRC服务</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/xBltYh5pRKh3N4t3EcxLew</id>
+    <link href="https://mp.weixin.qq.com/s/xBltYh5pRKh3N4t3EcxLew" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IdentityServer4（六）授权码流程原理之SPA</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/H-W1VEuxLI0W4twc7XP8Hw</id>
+    <link href="https://mp.weixin.qq.com/s/H-W1VEuxLI0W4twc7XP8Hw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>并行模型Actor</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/rdF-MV7zqghGpSVuRiE4Nw</id>
+    <link href="https://mp.weixin.qq.com/s/rdF-MV7zqghGpSVuRiE4Nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>国产OS推广应从娃娃和体制内双管齐下</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/DViLver2yTYCyDKgSAtoog</id>
+    <link href="https://mp.weixin.qq.com/s/DViLver2yTYCyDKgSAtoog" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在 “相对” 高薪面前，任何的喊冤叫屈都是苍白无力的</title>
+    <updated>2021-01-20T21:34:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/5AFUk7cWH3gX0mvCJvDVPw</id>
+    <link href="https://mp.weixin.qq.com/s/5AFUk7cWH3gX0mvCJvDVPw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 C# 中生成代码的四种方式——包括.NET 5中的Source Generators</title>
     <updated>2021-01-19T19:01:37+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-18T20:52:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/GhwYDAd1_vSkpxuWonTyqg</id>
     <link href="https://mp.weixin.qq.com/s/GhwYDAd1_vSkpxuWonTyqg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ABP vnext模块化架构的最佳实践的实现</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/KFgsWv_Zy_UZd4R1-3ysww</id>
-    <link href="https://mp.weixin.qq.com/s/KFgsWv_Zy_UZd4R1-3ysww" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 8 中使用 模式匹配</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/k9T8uvAqVFBcYfATLK4NbA</id>
-    <link href="https://mp.weixin.qq.com/s/k9T8uvAqVFBcYfATLK4NbA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Exceptionless服务端本地化部署</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/qMOCe8zTOafuGz8Q4jIDcA</id>
-    <link href="https://mp.weixin.qq.com/s/qMOCe8zTOafuGz8Q4jIDcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>全球知名跨境电商，.Net软件工程师招聘，约么？</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/QfhNJfGz_clIsu0ucOcrBA</id>
-    <link href="https://mp.weixin.qq.com/s/QfhNJfGz_clIsu0ucOcrBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>分布式事务，毁了我的大厂梦，无数人却以为它很简单…</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/QZMPi3E6MjesbFORphTWZQ</id>
-    <link href="https://mp.weixin.qq.com/s/QZMPi3E6MjesbFORphTWZQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>公司高层要我转Java 我直接邮件回怼...</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/HvoUc_CKaNMkL0Fls-Bm-A</id>
-    <link href="https://mp.weixin.qq.com/s/HvoUc_CKaNMkL0Fls-Bm-A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 C# 9 的records作为强类型ID - 路由和查询参数</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/0wLcOPVL4orqA9jtNkMhfg</id>
-    <link href="https://mp.weixin.qq.com/s/0wLcOPVL4orqA9jtNkMhfg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入浅出Dotnet Core的项目结构变化</title>
-    <updated>2021-01-18T15:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/d5FV1fxCcDhcWktaAZ5J7g</id>
-    <link href="https://mp.weixin.qq.com/s/d5FV1fxCcDhcWktaAZ5J7g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

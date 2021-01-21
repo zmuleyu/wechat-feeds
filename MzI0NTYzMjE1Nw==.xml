@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小跃 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:26:50+08:00</updated>
+  <updated>2021-01-21T12:18:36+08:00</updated>
   <subtitle>前杭州华为 Android 工程师，现游戏公司 Java 后端架构师。专注于以Java 为中心扩展的校招、职场、编程进阶。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spring Boot 集成 Mybatis Plus 自动填充字段</title>
+    <updated>2021-01-20T21:29:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/Wz_5dpdmPS4Tp1B4AM3_fg</id>
+    <link href="https://mp.weixin.qq.com/s/Wz_5dpdmPS4Tp1B4AM3_fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3种Socket通信粘包问题的解决方案，最后一种真棒！</title>
     <updated>2021-01-19T16:42:41+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-23T20:15:46+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/envEAQi8ZwOVNU4odSaUYA</id>
     <link href="https://mp.weixin.qq.com/s/envEAQi8ZwOVNU4odSaUYA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>学好 Java 语法糖，基础提升杠杠滴</title>
-    <updated>2020-12-21T21:11:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/Fi6jCS1vBs-1KNlyMeITAw</id>
-    <link href="https://mp.weixin.qq.com/s/Fi6jCS1vBs-1KNlyMeITAw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>占小狼的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T11:58:58+08:00</updated>
+  <updated>2021-01-21T11:57:25+08:00</updated>
   <subtitle>Java进阶技术干货、实践分享，跟着狼哥一起学习JVM、性能调优，欢迎关注。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
+    <updated>2021-01-21T08:42:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/yzlwfcM7OAdSj6rMz1G0lQ</id>
+    <link href="https://mp.weixin.qq.com/s/yzlwfcM7OAdSj6rMz1G0lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>又一款国产高性能KV存储数据库开源了，号称加强版Redis</title>
+    <updated>2021-01-21T08:42:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/hjGUhHWEipGZ4VW_hug8Vg</id>
+    <link href="https://mp.weixin.qq.com/s/hjGUhHWEipGZ4VW_hug8Vg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Java Switch 是如何支持 String 的？为什么不支持 long？</title>
     <updated>2021-01-20T08:41:35+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-11T08:54:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/c5VAnvok0uKe4MUMfmaxwg</id>
     <link href="https://mp.weixin.qq.com/s/c5VAnvok0uKe4MUMfmaxwg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 IDEA 中 Debug Spring 源码？</title>
-    <updated>2021-01-10T20:01:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/hFr2X--fF2yjk888ZUvagA</id>
-    <link href="https://mp.weixin.qq.com/s/hFr2X--fF2yjk888ZUvagA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

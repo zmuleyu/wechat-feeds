@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>bugstack虫洞栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T11:55:03+08:00</updated>
+  <updated>2021-01-21T11:58:47+08:00</updated>
   <subtitle>小傅哥，沉淀、分享、成长，让自己和他人都能有所收获！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>面经手册 · 第27篇《JVM 判断对象已死，实践验证GC回收》</title>
+    <updated>2021-01-20T21:45:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/SMkovwz5fZP5obsUtgQAUg</id>
+    <link href="https://mp.weixin.qq.com/s/SMkovwz5fZP5obsUtgQAUg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数学，离一个程序员有多近？</title>
     <updated>2021-01-17T11:45:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T19:11:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/cSn1nIVJVw93T06m2oaaSg</id>
     <link href="https://mp.weixin.qq.com/s/cSn1nIVJVw93T06m2oaaSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面经手册 · 第22篇《线程池的介绍和使用，以及基于jvmti设计非入侵监控》</title>
-    <updated>2020-12-17T07:56:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/jjHhX-MhPxOEezu6vbYcMw</id>
-    <link href="https://mp.weixin.qq.com/s/jjHhX-MhPxOEezu6vbYcMw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈成长之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:15:09+08:00</updated>
+  <updated>2021-01-21T12:09:39+08:00</updated>
   <subtitle>前端，后端，DevOps，应有尽有</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【图解】2020全球开发者都爱用哪些框架和工具库</title>
+    <updated>2021-01-20T21:13:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/FxO2oar3aiARSXFYdQi99w</id>
+    <link href="https://mp.weixin.qq.com/s/FxO2oar3aiARSXFYdQi99w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【美团】如何获取一个进程的内存并监控</title>
+    <updated>2021-01-20T21:13:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/kzzNWIotJhnS03OyjgOIqw</id>
+    <link href="https://mp.weixin.qq.com/s/kzzNWIotJhnS03OyjgOIqw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何做好一个跨团队协作项目</title>
+    <updated>2021-01-20T21:13:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/UuZKv95SoGSIeHM8c97nnQ</id>
+    <link href="https://mp.weixin.qq.com/s/UuZKv95SoGSIeHM8c97nnQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JS数组将要增加的新方法：array.at(index)</title>
     <updated>2021-01-19T23:54:27+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-15T09:13:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/QbVQJtn-AlV-Vo2roD2zVQ</id>
     <link href="https://mp.weixin.qq.com/s/QbVQJtn-AlV-Vo2roD2zVQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 中的语法糖，真甜。</title>
-    <updated>2021-01-15T09:13:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/y1cuAVGpdh5WlDNbieLPSQ</id>
-    <link href="https://mp.weixin.qq.com/s/y1cuAVGpdh5WlDNbieLPSQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021 年的前端趋势：Serverless 快速试用</title>
-    <updated>2021-01-14T09:08:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/UDL_LyzSwLNkUMlh8iHl1Q</id>
-    <link href="https://mp.weixin.qq.com/s/UDL_LyzSwLNkUMlh8iHl1Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【蚂蚁】HTTP 常见常用状态码并附实例展示</title>
-    <updated>2021-01-14T09:08:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/baMSqcUR9DPy5f40QmOwfA</id>
-    <link href="https://mp.weixin.qq.com/s/baMSqcUR9DPy5f40QmOwfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

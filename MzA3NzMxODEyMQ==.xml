@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android技术之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T14:01:33+08:00</updated>
+  <updated>2021-01-21T12:21:50+08:00</updated>
   <subtitle>主要分享Android相关技术文章、移动互联网的相关产品和资讯。关注你将学习到更多基础以及框架相关的知识，为您的工作助力！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021 最新Android知识体系</title>
+    <updated>2021-01-21T08:47:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/mq6HZDf6pW9s_8op_iExDQ</id>
+    <link href="https://mp.weixin.qq.com/s/mq6HZDf6pW9s_8op_iExDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>丢弃LayoutInspector，换个方式看UI</title>
     <updated>2021-01-18T13:05:35+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2020-12-22T08:19:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/fKuK1nsVg0-jVfyGNHk_bA</id>
     <link href="https://mp.weixin.qq.com/s/fKuK1nsVg0-jVfyGNHk_bA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Android 腾讯 Matrix 原理分析（二）：TracePlugin 卡顿分析之主线程监听</title>
-    <updated>2020-12-21T10:15:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/YK7YSQJWVkhS8fhmFZ5pNg</id>
-    <link href="https://mp.weixin.qq.com/s/YK7YSQJWVkhS8fhmFZ5pNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

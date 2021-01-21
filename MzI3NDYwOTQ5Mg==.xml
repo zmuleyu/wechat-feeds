@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>恩智浦MCU加油站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T11:58:03+08:00</updated>
+  <updated>2021-01-21T11:57:06+08:00</updated>
   <subtitle>迎来到恩智浦MCU加油站，在这里您可以了解到关于恩智浦MCU产品的各种信息，开发技巧、各种教程文档、研讨会培训课程的预告等，我们还会与您分享最新的产品和产业动态。 如果您对恩智浦的产品和本公众号，有什么好的建议和意见，可以在此留言或来稿。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>隆重介绍恩智浦MCU机器学习教育套件——OpenART</title>
+    <updated>2021-01-20T21:40:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/gPzyjhTMKJ_SwQyhiYSe-Q</id>
+    <link href="https://mp.weixin.qq.com/s/gPzyjhTMKJ_SwQyhiYSe-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>智能车大赛AI视觉组参考答案</title>
+    <updated>2021-01-20T21:40:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/RQF8L41i6Z8YkMeiR4c5Bw</id>
+    <link href="https://mp.weixin.qq.com/s/RQF8L41i6Z8YkMeiR4c5Bw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CANopen在LPC5500系列上的实现</title>
     <updated>2021-01-13T15:55:53+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-12T09:12:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/Btis2wf45nnWO3CUOeH2Mg</id>
     <link href="https://mp.weixin.qq.com/s/Btis2wf45nnWO3CUOeH2Mg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于LPC51U68 SCTimer/PWM的BLDC电机控制方案</title>
-    <updated>2020-11-12T09:12:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-12:/s/OPzgERlY0LOCKRa9muHyQA</id>
-    <link href="https://mp.weixin.qq.com/s/OPzgERlY0LOCKRa9muHyQA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深度挖掘KE15Z256潜能，解决内存容量焦虑</title>
-    <updated>2020-11-04T17:39:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-04:/s/ZkmKtus_7NJngt77kmklQg</id>
-    <link href="https://mp.weixin.qq.com/s/ZkmKtus_7NJngt77kmklQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

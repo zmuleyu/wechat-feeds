@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>晓飞的算法工程笔记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T12:11:49+08:00</updated>
+  <updated>2021-01-21T12:07:45+08:00</updated>
   <subtitle>work-life balance.</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>MicroNet: 低秩近似分解卷积以及超强激活函数，碾压MobileNet | 2020新文分析</title>
+    <updated>2021-01-20T13:43:37+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/A0wC5JpiLjm7rLj7GUxOCg</id>
+    <link href="https://mp.weixin.qq.com/s/A0wC5JpiLjm7rLj7GUxOCg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WeightNet：从SENet和CondConv得出的高效权值生成结构 | ECCV 2020</title>
     <updated>2021-01-13T20:45:56+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-07T08:18:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-07:/s/CMnGs1c7sVAm6X2cM5gy6w</id>
     <link href="https://mp.weixin.qq.com/s/CMnGs1c7sVAm6X2cM5gy6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RelationNet++：基于Transformer融合多种检测目标的表示方式 | NeurIPS 2020</title>
-    <updated>2020-12-03T18:59:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/j-y5i0H-L9qJ06UTARHpBA</id>
-    <link href="https://mp.weixin.qq.com/s/j-y5i0H-L9qJ06UTARHpBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

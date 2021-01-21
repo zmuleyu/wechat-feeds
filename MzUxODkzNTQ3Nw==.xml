@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>苏三说技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-16T12:02:05+08:00</updated>
+  <updated>2021-01-21T12:00:35+08:00</updated>
   <subtitle>苏三说技术维护者目前就职于某二线互联网公司，从事开发、架构和部分管理工作。曾待过创业公司、上市公司、国企、知名互联网公司，近期专注于工作经验、技术、架构设计、底层原理分享和日常随笔。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java日常开发的21个坑，你踩过几个？</title>
+    <updated>2021-01-20T23:17:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/r__Lv_3lfL10xYM1Nz7sTw</id>
+    <link href="https://mp.weixin.qq.com/s/r__Lv_3lfL10xYM1Nz7sTw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>5分钟带你快速了解Docker和k8s</title>
     <updated>2021-01-16T10:31:49+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-13T14:17:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/n-PGlRlzCQBqmx1fG7c3CA</id>
     <link href="https://mp.weixin.qq.com/s/n-PGlRlzCQBqmx1fG7c3CA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我是这样给阿里面试官吹 ConcurrentHashMap的</title>
-    <updated>2020-12-08T21:36:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-08:/s/rAh3dQchrjOW5cG7R04SJA</id>
-    <link href="https://mp.weixin.qq.com/s/rAh3dQchrjOW5cG7R04SJA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

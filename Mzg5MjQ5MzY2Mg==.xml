@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Garnett的Java之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:27:59+08:00</updated>
+  <updated>2021-01-21T12:19:29+08:00</updated>
   <subtitle>目前在某互联网公司架构开发，不断分享Spring全家桶、微服务、MySQL、集群、分布式、中间件、Linux、网络、多线程，DevOps、Docker，云计算等技术干货，致力于Java开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>作为Java工程师，还用PDF做简历？落后了！</title>
+    <updated>2021-01-21T09:26:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ayJYsOOHMQuBl1cALa0W9Q</id>
+    <link href="https://mp.weixin.qq.com/s/ayJYsOOHMQuBl1cALa0W9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>设计模式系列| 建造者模式</title>
     <updated>2021-01-20T08:53:06+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-22T21:26:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-22:/s/Qm0kbgYU7bv3vPSE4AGxdg</id>
     <link href="https://mp.weixin.qq.com/s/Qm0kbgYU7bv3vPSE4AGxdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>说完观察者和发布订阅模式的区别，面试官不留我吃饭了</title>
-    <updated>2020-12-20T11:14:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/LG2a4GA1jYbHhc-EoYuzIg</id>
-    <link href="https://mp.weixin.qq.com/s/LG2a4GA1jYbHhc-EoYuzIg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

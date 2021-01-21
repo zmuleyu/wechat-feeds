@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>持续交付2.0 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T12:03:45+08:00</updated>
+  <updated>2021-01-21T12:05:23+08:00</updated>
   <subtitle>组织管理、团队管理、工程效能相关技术与案例分析</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>湖水岩石与“当日事，当日毕”</title>
+    <updated>2021-01-20T23:15:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/jlD1cKJtxke_BrrU63zZRg</id>
+    <link href="https://mp.weixin.qq.com/s/jlD1cKJtxke_BrrU63zZRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>度量：MTTR，MTBF，MTTF，你分得清楚么？</title>
     <updated>2021-01-18T20:59:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-01T13:40:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-01:/s/khsBH6ZJ1jM2HKQd9X0EVw</id>
     <link href="https://mp.weixin.qq.com/s/khsBH6ZJ1jM2HKQd9X0EVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>微软承认了在软件测试方面的失误</title>
-    <updated>2020-12-31T09:27:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/MEe4XAxZJp-4UZudd0DKGQ</id>
-    <link href="https://mp.weixin.qq.com/s/MEe4XAxZJp-4UZudd0DKGQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

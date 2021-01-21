@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>macrozheng | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:26:03+08:00</updated>
+  <updated>2021-01-21T12:17:56+08:00</updated>
   <subtitle>专注Java技术分享，涵盖SpringBoot、SpringCloud、Docker、中间件等实用技术，作者Github开源项目mall（40K+Star）。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动已经10万人了？Java程序员也太香了！</title>
+    <updated>2021-01-20T20:47:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/ribjHKcEy09xW-ewhdg7eA</id>
+    <link href="https://mp.weixin.qq.com/s/ribjHKcEy09xW-ewhdg7eA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你真的了解 SQL 注入吗？</title>
+    <updated>2021-01-20T20:47:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/EzhYZStOgG_uMWt-xKesfg</id>
+    <link href="https://mp.weixin.qq.com/s/EzhYZStOgG_uMWt-xKesfg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这款IDEA插件刷爆了朋友圈，网友：这用起来有点酸爽～</title>
     <updated>2021-01-19T20:29:45+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-11T21:33:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/6z8vW3zSRAmwcKK3L88nMg</id>
     <link href="https://mp.weixin.qq.com/s/6z8vW3zSRAmwcKK3L88nMg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mall电商实战项目专属学习路线，主流技术一网打尽！</title>
-    <updated>2021-01-10T14:45:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/msD98uP8_B_Mb7L-nKbg6w</id>
-    <link href="https://mp.weixin.qq.com/s/msD98uP8_B_Mb7L-nKbg6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

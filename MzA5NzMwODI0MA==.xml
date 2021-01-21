@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知识小集 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:20:18+08:00</updated>
+  <updated>2021-01-21T12:14:21+08:00</updated>
   <subtitle>追踪移动大前端最新技术和行业发展，关注移动研发的架构、性能、底层探索、工程化和跨平台方案</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>用ccache让Xcode运行、打包飞起来</title>
+    <updated>2021-01-20T23:16:09+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-20:/s/UQnz653msagPr4zvKccHpA</id>
+    <link href="https://mp.weixin.qq.com/s/UQnz653msagPr4zvKccHpA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>iOS编译速度如何稳定提高10倍以上之二</title>
     <updated>2021-01-20T08:24:18+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-07T22:09:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/M1KiB-w_JksqHqIjZd96Gw</id>
     <link href="https://mp.weixin.qq.com/s/M1KiB-w_JksqHqIjZd96Gw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021，iOS开发该如何避免被&#34;淘汰&#34;？</title>
-    <updated>2021-01-06T21:02:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/9lElyWSRlJJuWeknvwyxmA</id>
-    <link href="https://mp.weixin.qq.com/s/9lElyWSRlJJuWeknvwyxmA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

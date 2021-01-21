@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老司机技术周报 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:08:10+08:00</updated>
+  <updated>2021-01-21T12:03:44+08:00</updated>
   <subtitle>每周定期整理与发布业界资讯、开发工具、开源代码、学习资料、求职招聘信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>OCRunner 第零篇：从零教你写一个 iOS 热修复框架</title>
+    <updated>2021-01-21T01:43:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/AQQqys8rZn-BKepUwnNDzA</id>
+    <link href="https://mp.weixin.qq.com/s/AQQqys8rZn-BKepUwnNDzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【招聘】北京 - 腾讯微信 - 视频剪辑工具招聘 iOS/Android 开发工程师</title>
+    <updated>2021-01-21T01:43:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/TiHtEnEDGL9IBKM2PJiQgA</id>
+    <link href="https://mp.weixin.qq.com/s/TiHtEnEDGL9IBKM2PJiQgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>高效使用单元测试</title>
     <updated>2021-01-20T02:19:42+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-08T01:57:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/BlDy2WEMWxZsRqkhvdcYQQ</id>
     <link href="https://mp.weixin.qq.com/s/BlDy2WEMWxZsRqkhvdcYQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文了解 Xcode 生成「静态库」和「动态库」 的流程</title>
-    <updated>2021-01-07T01:34:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/WH8emrMpLeVW-LfGwN09cw</id>
-    <link href="https://mp.weixin.qq.com/s/WH8emrMpLeVW-LfGwN09cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【招聘】杭州 - 网易严选招聘 iOS 移动端开发</title>
-    <updated>2021-01-07T01:34:26+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/eGgpemz2PJDINNVPHKhqBA</id>
-    <link href="https://mp.weixin.qq.com/s/eGgpemz2PJDINNVPHKhqBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
