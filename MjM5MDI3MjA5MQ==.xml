@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>携程技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T20:36:09+08:00</updated>
+  <updated>2021-01-21T20:38:22+08:00</updated>
   <subtitle>携程技术官方账号，分享交流成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货 | 质量保障新手段，携程回归测试平台实践</title>
+    <updated>2021-01-21T15:34:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/STHmQjDToqEq4nqogaxcyg</id>
+    <link href="https://mp.weixin.qq.com/s/STHmQjDToqEq4nqogaxcyg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干货 | CrateDb在携程机票BI的实践</title>
     <updated>2021-01-07T14:26:30+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2020-11-12T17:03:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/_L44ViJ9YXSb517oq5vdxw</id>
     <link href="https://mp.weixin.qq.com/s/_L44ViJ9YXSb517oq5vdxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货 | 携程Elasticsearch数据同步实践</title>
-    <updated>2020-11-05T16:47:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/2PRX_vVhi3SygrZydBfG6w</id>
-    <link href="https://mp.weixin.qq.com/s/2PRX_vVhi3SygrZydBfG6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

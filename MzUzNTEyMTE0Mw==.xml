@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>宽字节安全 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-09T20:21:58+08:00</updated>
+  <updated>2021-01-21T20:52:53+08:00</updated>
   <subtitle>二十年专注安全研究，漏洞分析</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用python javaSerializationTools模块拼接生成 8u20 Gadget</title>
+    <updated>2021-01-21T16:46:50+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/SMq6aE5-qV9cINv1-74RgA</id>
+    <link href="https://mp.weixin.qq.com/s/SMq6aE5-qV9cINv1-74RgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>渗透小记 - 中继和委派的实战利用</title>
     <updated>2021-01-09T16:53:03+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-29T15:05:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-29:/s/_zNr5Jw7tH_6XlUdudhMhA</id>
     <link href="https://mp.weixin.qq.com/s/_zNr5Jw7tH_6XlUdudhMhA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2020-14882 weblogic 未授权命令执行复现</title>
-    <updated>2020-10-28T19:19:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-28:/s/48VIwTkyFVXUTS78kNByhg</id>
-    <link href="https://mp.weixin.qq.com/s/48VIwTkyFVXUTS78kNByhg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

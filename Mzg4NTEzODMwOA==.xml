@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>白泽Sec | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T16:37:10+08:00</updated>
+  <updated>2021-01-21T20:36:11+08:00</updated>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Windows BadCon漏洞导致BSOD蓝屏紧急解决措施</title>
+    <updated>2021-01-21T17:09:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/slmXvCajm9EjICen_WXk_g</id>
+    <link href="https://mp.weixin.qq.com/s/slmXvCajm9EjICen_WXk_g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>堆叠注入的学习及思考</title>
     <updated>2021-01-15T15:27:18+08:00</updated>
@@ -67,13 +74,6 @@
     <updated>2020-11-30T14:52:04+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-30:/s/XeOFMSFFT4U8b8Y5Z--tOQ</id>
     <link href="https://mp.weixin.qq.com/s/XeOFMSFFT4U8b8Y5Z--tOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>宝塔disable functions函数全被禁命令执行+加域服务器如何无限制执行命令</title>
-    <updated>2020-11-18T14:59:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-18:/s/SYCY_9khGQVCgM4-dOTSUQ</id>
-    <link href="https://mp.weixin.qq.com/s/SYCY_9khGQVCgM4-dOTSUQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

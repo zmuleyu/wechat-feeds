@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>贝壳产品技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T16:22:00+08:00</updated>
+  <updated>2021-01-21T20:52:08+08:00</updated>
   <subtitle>“贝壳产品技术公众号”作为贝壳官方产品技术号，致力打造贝壳产品、技术干货分享平台，面向互联网/O2O开发/产品从业者，每周推送优质原创产品技术文章、技术沙龙活动及招聘信息等。欢迎大家关注我们。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>贝壳Flutter动态化原理与实践</title>
+    <updated>2021-01-21T20:23:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/-tQ7WoWjBZEBSM_mHcJJvQ</id>
+    <link href="https://mp.weixin.qq.com/s/-tQ7WoWjBZEBSM_mHcJJvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你真的了解git fetch &amp; git pull吗？</title>
+    <updated>2021-01-21T20:23:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/nvile75n-AGwsX9elgpf7Q</id>
+    <link href="https://mp.weixin.qq.com/s/nvile75n-AGwsX9elgpf7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>聊聊贝壳文档平台keDoc</title>
+    <updated>2021-01-21T20:23:02+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/xSvrc0k0YKN42rswiTVskQ</id>
+    <link href="https://mp.weixin.qq.com/s/xSvrc0k0YKN42rswiTVskQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Flutter图片内存优化实践</title>
     <updated>2021-01-06T15:58:55+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-12-03T23:24:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-03:/s/Afr-IhR26MqlbTuVTeMPKQ</id>
     <link href="https://mp.weixin.qq.com/s/Afr-IhR26MqlbTuVTeMPKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>云原生社区技术沙龙-贝壳找房专场回顾</title>
-    <updated>2020-12-03T23:24:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-03:/s/Abtip1iE6iraMtw_UpqiCQ</id>
-    <link href="https://mp.weixin.qq.com/s/Abtip1iE6iraMtw_UpqiCQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>购房方案挖掘的探索与实践</title>
-    <updated>2020-11-27T18:17:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/Qa3wlQp3n6lFshNNCmR4uQ</id>
-    <link href="https://mp.weixin.qq.com/s/Qa3wlQp3n6lFshNNCmR4uQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>贝壳APP Top Experience系列 | Android方法耗时统计工具</title>
-    <updated>2020-11-27T18:17:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-27:/s/J9xaUKKfdqhpT0zxOogzhw</id>
-    <link href="https://mp.weixin.qq.com/s/J9xaUKKfdqhpT0zxOogzhw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

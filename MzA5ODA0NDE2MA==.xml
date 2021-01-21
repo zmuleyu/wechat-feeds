@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:50:34+08:00</updated>
+  <updated>2021-01-21T20:46:11+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一封平平无奇的邀请函，可以掀动一场多大的风暴？</title>
+    <updated>2021-01-21T18:54:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/7rKuwNisdwghuQ1xHFTnow</id>
+    <link href="https://mp.weixin.qq.com/s/7rKuwNisdwghuQ1xHFTnow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>bypass AV 探索一</title>
+    <updated>2021-01-21T18:54:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/4Pm1QfT8TElPnCVOQVYWyw</id>
+    <link href="https://mp.weixin.qq.com/s/4Pm1QfT8TElPnCVOQVYWyw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>三星手机内核防护技术RKP深度剖析（一）</title>
+    <updated>2021-01-21T18:54:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/NsTw_2I5IvJxX0aRCFD4eQ</id>
+    <link href="https://mp.weixin.qq.com/s/NsTw_2I5IvJxX0aRCFD4eQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>IoT安全基本功系列——内核的编译与qemu启动</title>
     <updated>2021-01-20T17:38:38+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-14T17:06:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/gkhnDQW-Z3_GxNdZR4vaEg</id>
     <link href="https://mp.weixin.qq.com/s/gkhnDQW-Z3_GxNdZR4vaEg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CDN 2021 完全攻击指南 （一）</title>
-    <updated>2021-01-13T17:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/RzuDGsp7kWJmca-1Gs5_2w</id>
-    <link href="https://mp.weixin.qq.com/s/RzuDGsp7kWJmca-1Gs5_2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>招聘 | 钉钉（中国）信息技术有限公司</title>
-    <updated>2021-01-13T17:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/u4z597C97P2fMkG8yPRi4Q</id>
-    <link href="https://mp.weixin.qq.com/s/u4z597C97P2fMkG8yPRi4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>免拆芯片提取固件</title>
-    <updated>2021-01-13T17:13:06+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/tjLPg0jZHz5_ZbWuudJl2A</id>
-    <link href="https://mp.weixin.qq.com/s/tjLPg0jZHz5_ZbWuudJl2A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

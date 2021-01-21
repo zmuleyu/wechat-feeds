@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>美团技术团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T20:27:15+08:00</updated>
+  <updated>2021-01-21T20:54:41+08:00</updated>
   <subtitle>9000+工程师，如何支撑中国领先的生活服务电子商务平台？3.2亿消费者、500万商户、2000多个行业、几千亿交易额背后是哪些技术？这里是美团、大众点评、美团外卖、美团大零售等技术团队的对外窗口，每周推送技术文章、活动及招聘信息等。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>让 Flutter 在鸿蒙系统上跑起来</title>
+    <updated>2021-01-21T18:18:31+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/vTWZRaxvsOS_VRjfh6l4FQ</id>
+    <link href="https://mp.weixin.qq.com/s/vTWZRaxvsOS_VRjfh6l4FQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>基于SSD的Kafka应用层缓存架构设计与实现</title>
     <updated>2021-01-14T19:58:26+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2020-11-12T19:58:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-12:/s/RFwXYdzeRkTG5uaebVoLQw</id>
     <link href="https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>积木Sketch插件进阶开发指南</title>
-    <updated>2020-11-05T19:34:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/DeRn5lqnATVQk5QH3JK4aA</id>
-    <link href="https://mp.weixin.qq.com/s/DeRn5lqnATVQk5QH3JK4aA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>美团内部讲座｜周烜：华东师范大学的数据库系统研究</title>
-    <updated>2020-11-05T19:34:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-05:/s/r4b7OfM5BBjHZvoZU_yCcA</id>
-    <link href="https://mp.weixin.qq.com/s/r4b7OfM5BBjHZvoZU_yCcA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

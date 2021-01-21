@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TonyBai | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:27:34+08:00</updated>
+  <updated>2021-01-21T20:27:41+08:00</updated>
   <subtitle>与技术博客tonybai.com同源。近期关注Kubernetes、Docker、Golang、儿童编程、DevOps、云计算平台和机器学习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年Go和C++中的错误与异常处理对比 | Gopher Daily (2021.01.21) ʕ◔ϖ◔ʔ</title>
+    <updated>2021-01-21T17:17:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/YAA4wWGdSs72NCTc4-FMMw</id>
+    <link href="https://mp.weixin.qq.com/s/YAA4wWGdSs72NCTc4-FMMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go io/ioutil包将在Go 1.16被废弃 | Gopher Daily (2021.01.20) ʕ◔ϖ◔ʔ</title>
     <updated>2021-01-20T17:09:15+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-12T16:17:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/6CxrgEvkOhkMsAvH3Nj_Kw</id>
     <link href="https://mp.weixin.qq.com/s/6CxrgEvkOhkMsAvH3Nj_Kw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>25个最佳Go技术博客 | Gopher Daily (2021.01.11) ʕ◔ϖ◔ʔ</title>
-    <updated>2021-01-11T18:24:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/6GZgk6XWdg6jQqZ9gHOaMg</id>
-    <link href="https://mp.weixin.qq.com/s/6GZgk6XWdg6jQqZ9gHOaMg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

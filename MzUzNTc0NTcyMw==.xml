@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:37:15+08:00</updated>
+  <updated>2021-01-21T20:38:05+08:00</updated>
   <subtitle>腾讯云大数据官方公众号，您可获取大数据最新产品动态、优惠活动、技术干货交流等信息。欢迎关注，邀您一起探索数据的无限潜能！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大幅降低存储成本，Elasticsearch可搜索快照是如何办到的？</title>
+    <updated>2021-01-21T18:40:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/c-BzLVo0GMsLuxxedMtaZw</id>
+    <link href="https://mp.weixin.qq.com/s/c-BzLVo0GMsLuxxedMtaZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Alluxio Day 2021 进行时，报名好礼多多！</title>
+    <updated>2021-01-21T18:40:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/bgM1Gu4wAcfIO53RLc6-8A</id>
+    <link href="https://mp.weixin.qq.com/s/bgM1Gu4wAcfIO53RLc6-8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Alluxio Day 2021 线上直播</title>
     <updated>2021-01-12T19:20:14+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-11-24T15:07:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/PSANYBwSLxhP3hYrrGv79Q</id>
     <link href="https://mp.weixin.qq.com/s/PSANYBwSLxhP3hYrrGv79Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>11.11云上盛惠，Elasticsearch 甄选爆款低至4折抢购攻略！</title>
-    <updated>2020-11-11T16:12:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/ZEFQBZHAR6HIjiSSIhiXag</id>
-    <link href="https://mp.weixin.qq.com/s/ZEFQBZHAR6HIjiSSIhiXag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>腾讯看点视频推荐索引构建方案</title>
-    <updated>2020-11-11T16:12:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-11:/s/A2l8I2buXmSS2piTiIKvJg</id>
-    <link href="https://mp.weixin.qq.com/s/A2l8I2buXmSS2piTiIKvJg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

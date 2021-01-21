@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T16:50:44+08:00</updated>
+  <updated>2021-01-21T20:37:21+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>更简洁、更快速！腾讯云 Serverless 云函数创建流程再次升级！</title>
+    <updated>2021-01-21T16:45:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/xpvMQjluVErqzeAyMzbZQQ</id>
+    <link href="https://mp.weixin.qq.com/s/xpvMQjluVErqzeAyMzbZQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>全新开发体验！腾讯云 Serverless 助力你的 AI 模型进入生产环境</title>
     <updated>2021-01-20T15:56:01+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-07T17:47:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/lUHHsF_fDAccpuavvkICvw</id>
     <link href="https://mp.weixin.qq.com/s/lUHHsF_fDAccpuavvkICvw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>再见，本地环境！腾讯云全球首发：Serverless 在线远程调试</title>
-    <updated>2021-01-06T13:08:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/QwF2ifJvZYM029LJXL_vVQ</id>
-    <link href="https://mp.weixin.qq.com/s/QwF2ifJvZYM029LJXL_vVQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

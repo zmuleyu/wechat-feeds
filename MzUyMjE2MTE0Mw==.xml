@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>机器学习算法工程师 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T08:05:09+08:00</updated>
+  <updated>2021-01-21T20:55:01+08:00</updated>
   <subtitle>机器学习、深度学习、数据挖掘等人工智能领域的技术实战干货文章，这里都有！分享从业经验是我们的不变的准则……</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>保姆级硬核教程：图解Transformer</title>
+    <updated>2021-01-21T19:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/zca-loNT__PZR35XbOfcxA</id>
+    <link href="https://mp.weixin.qq.com/s/zca-loNT__PZR35XbOfcxA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>谷歌提出Meta Pseudo Labels，刷新ImageNet上的SOTA！</title>
+    <updated>2021-01-21T19:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/TI7QFea8hTsWt31FNQKRIg</id>
+    <link href="https://mp.weixin.qq.com/s/TI7QFea8hTsWt31FNQKRIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Transformer为何能闯入CV界秒杀CNN？</title>
+    <updated>2021-01-21T19:58:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/PdiCOIvmRUMW5T8SGiSSgA</id>
+    <link href="https://mp.weixin.qq.com/s/PdiCOIvmRUMW5T8SGiSSgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>算法刷题宝典.pdf</title>
     <updated>2021-01-19T22:28:00+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-13T17:21:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/Op8zjSUOOjE1Y-_0Q-tkdg</id>
     <link href="https://mp.weixin.qq.com/s/Op8zjSUOOjE1Y-_0Q-tkdg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今天来捋一捋pytorch官方Faster R-CNN代码</title>
-    <updated>2021-01-13T17:21:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/2ljV0aggrNuufoXEkAcKJg</id>
-    <link href="https://mp.weixin.qq.com/s/2ljV0aggrNuufoXEkAcKJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>三天挑战自己构建深度学习框架，你敢来尝试吗~</title>
-    <updated>2021-01-12T17:03:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/r7FcMz4Pd03xEkjycBYbXA</id>
-    <link href="https://mp.weixin.qq.com/s/r7FcMz4Pd03xEkjycBYbXA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>步履不停：TensorFlow 2.4 新功能一览！</title>
-    <updated>2021-01-12T17:03:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/i5dVqpC4ZqRldQr_AcZ3aQ</id>
-    <link href="https://mp.weixin.qq.com/s/i5dVqpC4ZqRldQr_AcZ3aQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

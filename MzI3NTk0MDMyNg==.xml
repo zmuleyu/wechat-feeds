@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾云 CODING | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T17:03:58+08:00</updated>
+  <updated>2021-01-21T20:54:45+08:00</updated>
   <subtitle>CODING 提供给企业用户全套 DevOps 研发管理工具，包括项目管理，代码托管，持续集成，制品管理等功能，有效提高软件研发团队的代码质量和交付速度。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>代码托管从业者 Git 指南</title>
+    <updated>2021-01-21T18:15:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/Ry2ld3hqDLk6fncLYKCmRg</id>
+    <link href="https://mp.weixin.qq.com/s/Ry2ld3hqDLk6fncLYKCmRg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CODING 再携手腾讯云 Serverless，让开发者跑步上云</title>
     <updated>2021-01-19T16:27:32+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2020-12-28T17:50:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/T8nK1k01O3ze7t71RVfKoQ</id>
     <link href="https://mp.weixin.qq.com/s/T8nK1k01O3ze7t71RVfKoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CODING 静态网站服务升级，快速、稳定、高拓展！</title>
-    <updated>2020-12-25T17:44:23+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/D_VPNLGKiZx_mOwdtvPlFg</id>
-    <link href="https://mp.weixin.qq.com/s/D_VPNLGKiZx_mOwdtvPlFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

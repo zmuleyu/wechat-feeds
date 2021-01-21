@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员小助手 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:59:40+08:00</updated>
+  <updated>2021-01-21T20:53:31+08:00</updated>
   <subtitle>专注编程知识，圈子动态的IT领域原创作者。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>「Go语言直播编程课」第32节可手动中断的定时器比延时更强大</title>
+    <updated>2021-01-21T18:01:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/Wt2zzOVoZPFZbh44Gyn-jg</id>
+    <link href="https://mp.weixin.qq.com/s/Wt2zzOVoZPFZbh44Gyn-jg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「Go语言直播编程课」第31节，通道的遍历又是range循环</title>
     <updated>2021-01-20T20:05:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T17:20:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/0qgllsJ9M52E4DrZrpC8ug</id>
     <link href="https://mp.weixin.qq.com/s/0qgllsJ9M52E4DrZrpC8ug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go语言直播编程第10节，关联数组Maps，也是哈希也是字典</title>
-    <updated>2020-12-28T17:07:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/S_NcNChQyBEP0ib_lpC8TA</id>
-    <link href="https://mp.weixin.qq.com/s/S_NcNChQyBEP0ib_lpC8TA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

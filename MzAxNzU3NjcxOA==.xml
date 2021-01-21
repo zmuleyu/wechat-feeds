@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师技术联盟 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T02:27:37+08:00</updated>
+  <updated>2021-01-21T20:35:15+08:00</updated>
   <subtitle>分享项目实践，洞察前沿架构，聚焦云计算、微服务、大数据、超融合、软件定义、数据保护、人工智能、行业实践和解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>西部数据：存储架构创新，迎接数智未来</title>
+    <updated>2021-01-21T20:05:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/Ehl0O3D83h5ji9qzfdjHeg</id>
+    <link href="https://mp.weixin.qq.com/s/Ehl0O3D83h5ji9qzfdjHeg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度报告：ARM行业研究框架（附PDF下载）</title>
+    <updated>2021-01-21T20:05:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/YZHH2lEtMwIxNXU1xhMkUw</id>
+    <link href="https://mp.weixin.qq.com/s/YZHH2lEtMwIxNXU1xhMkUw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>深度解读：国产FPGA研究框架（PPT）</title>
     <updated>2021-01-19T22:20:40+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2021-01-12T08:21:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/ZGgw1kGaoddyLWoBMGd9OA</id>
     <link href="https://mp.weixin.qq.com/s/ZGgw1kGaoddyLWoBMGd9OA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>卧槽，我的深度学习框架竟然学错了~</title>
-    <updated>2021-01-11T00:02:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/LrFmzFvpQNjUv-f4wlrTNw</id>
-    <link href="https://mp.weixin.qq.com/s/LrFmzFvpQNjUv-f4wlrTNw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RoCE网络技术和实现方式</title>
-    <updated>2021-01-11T00:02:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/KaUgTKrTJmcgVAIImxAsVg</id>
-    <link href="https://mp.weixin.qq.com/s/KaUgTKrTJmcgVAIImxAsVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

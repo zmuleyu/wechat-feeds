@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>转角遇到GitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:32:50+08:00</updated>
+  <updated>2021-01-21T20:55:24+08:00</updated>
   <subtitle>发现 GitHub 好项目，开源爱好者！包括但不限于 Python、Java、Go、Rust、JavaScript、AI 等技术，开源学习和资讯。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>前端转 Go 的朋友应该会喜欢这个框架</title>
+    <updated>2021-01-21T16:25:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/5fRhPSVKyigvG5a5lUgADw</id>
+    <link href="https://mp.weixin.qq.com/s/5fRhPSVKyigvG5a5lUgADw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Go 1.15.7 发布：安全问题，建议升级</title>
     <updated>2021-01-20T09:59:06+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-21T17:45:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-21:/s/P6JzhRfIeoY3xqz-0_PZqQ</id>
     <link href="https://mp.weixin.qq.com/s/P6JzhRfIeoY3xqz-0_PZqQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何快速打造一款钉钉 Go sdk</title>
-    <updated>2020-12-19T15:42:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-19:/s/GaMR7SizRGvEW81VipTnHg</id>
-    <link href="https://mp.weixin.qq.com/s/GaMR7SizRGvEW81VipTnHg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

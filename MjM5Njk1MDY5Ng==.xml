@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OPPO安珀实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:47:07+08:00</updated>
+  <updated>2021-01-21T20:37:40+08:00</updated>
   <subtitle>以用户数据安全和隐私保护为核心，开展系列研究工作并向开发者开放技术能力，致力为合作伙伴及用户打造信息安全堡垒，为OPPO终端安全保驾护航</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2020年度安珀实验室大事记</title>
+    <updated>2021-01-21T16:28:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/UDPPal1zVcDBVFTLGlprrQ</id>
+    <link href="https://mp.weixin.qq.com/s/UDPPal1zVcDBVFTLGlprrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>移动应用三方SDK安全质量保障实践</title>
     <updated>2021-01-08T11:22:13+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-09-16T15:32:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-09-16:/s/cQBoCvioTh3ELjghYqKOuA</id>
     <link href="https://mp.weixin.qq.com/s/cQBoCvioTh3ELjghYqKOuA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ARM平台linux系统内核HOOK常见问题探讨</title>
-    <updated>2020-08-31T17:33:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-31:/s/6z6KSpPL6DcT9nfUBhqPeg</id>
-    <link href="https://mp.weixin.qq.com/s/6z6KSpPL6DcT9nfUBhqPeg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

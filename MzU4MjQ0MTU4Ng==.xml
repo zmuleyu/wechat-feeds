@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:48:47+08:00</updated>
+  <updated>2021-01-21T20:44:22+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>[译] 利用 eBPF 支撑大规模 K8S Service</title>
+    <updated>2021-01-21T19:23:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/KnNcM2OaBqOgfVDghaHy8g</id>
+    <link href="https://mp.weixin.qq.com/s/KnNcM2OaBqOgfVDghaHy8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
     <updated>2021-01-20T17:37:46+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-10T19:33:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/bkpZMbmKa6lBKg8Fc3Lkzw</id>
     <link href="https://mp.weixin.qq.com/s/bkpZMbmKa6lBKg8Fc3Lkzw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于云原生的 KubeSecOps 流水线设计</title>
-    <updated>2021-01-09T10:32:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/vSu1KiZq5Ny_LZ6Elh4xfA</id>
-    <link href="https://mp.weixin.qq.com/s/vSu1KiZq5Ny_LZ6Elh4xfA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

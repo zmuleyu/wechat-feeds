@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:51:19+08:00</updated>
+  <updated>2021-01-21T20:47:07+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JS Bridge 通信原理</title>
+    <updated>2021-01-21T17:45:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/cBsmunLXLBEtR14cFfy1LQ</id>
+    <link href="https://mp.weixin.qq.com/s/cBsmunLXLBEtR14cFfy1LQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>奇舞团- 招高级iOS开发工程师</title>
+    <updated>2021-01-21T17:45:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/xcc0y3bpWB6WeFFZWyS2Bg</id>
+    <link href="https://mp.weixin.qq.com/s/xcc0y3bpWB6WeFFZWyS2Bg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>来奇舞团吧，让自己过得快乐一点</title>
+    <updated>2021-01-21T17:45:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/m5wNB1Pm4xu3fQfa0rJN3g</id>
+    <link href="https://mp.weixin.qq.com/s/m5wNB1Pm4xu3fQfa0rJN3g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【Vuejs】探索 Vue.js 响应式原理</title>
     <updated>2021-01-20T17:52:51+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-12T18:13:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/_3mpRIbPLjiWQpKDbbcE1g</id>
     <link href="https://mp.weixin.qq.com/s/_3mpRIbPLjiWQpKDbbcE1g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>奇舞团- 招高级iOS开发工程师</title>
-    <updated>2021-01-12T18:13:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/-wEItPZ1v13IsU_EWxSXSg</id>
-    <link href="https://mp.weixin.qq.com/s/-wEItPZ1v13IsU_EWxSXSg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来奇舞团吧，让自己过得快乐一点</title>
-    <updated>2021-01-12T18:13:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/Az8gqsXAQZ1HCLzWHW_fAw</id>
-    <link href="https://mp.weixin.qq.com/s/Az8gqsXAQZ1HCLzWHW_fAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JavaScript 世界万物诞生记</title>
-    <updated>2021-01-11T17:41:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/tcrF6lt0bWxWDhrtA7cDWQ</id>
-    <link href="https://mp.weixin.qq.com/s/tcrF6lt0bWxWDhrtA7cDWQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

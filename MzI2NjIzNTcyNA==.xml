@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>媒矿工厂 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:56:03+08:00</updated>
+  <updated>2021-01-21T20:54:37+08:00</updated>
   <subtitle>第一时间发布最新最有料的媒体技术资讯。倡导极客、创客精神，促进学术界、工业界以及开源社区共享信息、交流干货、发掘价值。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AMD at CES2021</title>
+    <updated>2021-01-21T17:49:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/_YrTylYN-9U9jduh9KFPwA</id>
+    <link href="https://mp.weixin.qq.com/s/_YrTylYN-9U9jduh9KFPwA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>新编码标准的部署计划</title>
     <updated>2021-01-20T22:27:57+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-12T21:57:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/Iv1C2PZfX07Zl1lwAXV1rQ</id>
     <link href="https://mp.weixin.qq.com/s/Iv1C2PZfX07Zl1lwAXV1rQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>PTP协议：原理和其他知识</title>
-    <updated>2021-01-11T21:26:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/N3zKzxB33AE4JwpUxsj2zA</id>
-    <link href="https://mp.weixin.qq.com/s/N3zKzxB33AE4JwpUxsj2zA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

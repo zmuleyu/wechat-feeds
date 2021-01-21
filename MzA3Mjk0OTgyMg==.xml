@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>VALSE | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-14T23:26:44+08:00</updated>
+  <updated>2021-01-21T20:27:47+08:00</updated>
   <subtitle>VALSE（Vision and Learning Seminar） 年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者提供一个深层次学术交流的舞台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>VALSE Webinar 21-04期 总第228期 物以类聚人以群分：聚类分析的一些挑战和进展</title>
+    <updated>2021-01-21T18:57:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/-ERCOPQSWgnB66lV-UtR7Q</id>
+    <link href="https://mp.weixin.qq.com/s/-ERCOPQSWgnB66lV-UtR7Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>VALSE Webinar 21-03期 总第227期 无人驾驶场景3D物体检测与跟踪</title>
     <updated>2021-01-14T20:41:53+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-19T18:44:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-19:/s/LsIyXnax4YlVOBCY5g0KBg</id>
     <link href="https://mp.weixin.qq.com/s/LsIyXnax4YlVOBCY5g0KBg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>VALSE Webinar CVPR DDL期间活动暂停通知</title>
-    <updated>2020-10-29T18:44:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-29:/s/AJJv7Ew-uM0IOxk7JmzQKA</id>
-    <link href="https://mp.weixin.qq.com/s/AJJv7Ew-uM0IOxk7JmzQKA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

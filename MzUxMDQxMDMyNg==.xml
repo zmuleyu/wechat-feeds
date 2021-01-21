@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小米技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-05T23:20:44+08:00</updated>
+  <updated>2021-01-21T20:50:26+08:00</updated>
   <subtitle>和小米一起聊技术，一起改变生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>米家插件平台的技术实践之路</title>
+    <updated>2021-01-21T19:30:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/iZh_cYf_TM42iFFhMRf0ow</id>
+    <link href="https://mp.weixin.qq.com/s/iZh_cYf_TM42iFFhMRf0ow" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>日志异常检测初步实践与探索</title>
     <updated>2020-11-26T19:58:34+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-05-21T13:57:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-05-21:/s/y-w9AcGGxHTsfxdBhztaAQ</id>
     <link href="https://mp.weixin.qq.com/s/y-w9AcGGxHTsfxdBhztaAQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>春暖花开~奔米而来~</title>
-    <updated>2020-03-12T18:03:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-03-12:/s/uLocyznzFNoncaL7ukSoOQ</id>
-    <link href="https://mp.weixin.qq.com/s/uLocyznzFNoncaL7ukSoOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

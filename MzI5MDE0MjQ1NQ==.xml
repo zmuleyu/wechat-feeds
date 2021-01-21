@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷石安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T16:56:43+08:00</updated>
+  <updated>2021-01-21T20:42:47+08:00</updated>
   <subtitle>雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>记一次应急响应</title>
+    <updated>2021-01-21T16:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/DrBcZInWzPmOGcoU3HGU2Q</id>
+    <link href="https://mp.weixin.qq.com/s/DrBcZInWzPmOGcoU3HGU2Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【漏洞报送】DNSmasq Dnspooq缓存中毒漏洞通告</title>
+    <updated>2021-01-21T16:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/wk14ADGr8j9oC-44pqKY5A</id>
+    <link href="https://mp.weixin.qq.com/s/wk14ADGr8j9oC-44pqKY5A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【漏洞报送】Oracle WebLogic Server远程代码执行漏洞</title>
+    <updated>2021-01-21T16:54:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/9wi0p-asdswwFuCHR1f4eg</id>
+    <link href="https://mp.weixin.qq.com/s/9wi0p-asdswwFuCHR1f4eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>你了解这些安全吗？</title>
     <updated>2021-01-20T14:27:07+08:00</updated>
@@ -75,20 +96,6 @@
     <updated>2021-01-08T16:27:39+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/6CF0AdCmBpHPiC67Ao5hQg</id>
     <link href="https://mp.weixin.qq.com/s/6CF0AdCmBpHPiC67Ao5hQg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>雷石安全实验室2020年终总结</title>
-    <updated>2021-01-06T17:22:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/uxreAFXhg3TR7yMtBviBrg</id>
-    <link href="https://mp.weixin.qq.com/s/uxreAFXhg3TR7yMtBviBrg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【漏洞报送】Apache Flink 高危漏洞预警（CVE-2020-17518/CVE-2020-17519）</title>
-    <updated>2021-01-06T17:22:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0AJa7Vnihn88-57O8Ntclg</id>
-    <link href="https://mp.weixin.qq.com/s/0AJa7Vnihn88-57O8Ntclg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

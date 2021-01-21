@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tide安全团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T17:05:15+08:00</updated>
+  <updated>2021-01-21T20:50:22+08:00</updated>
   <subtitle>Tide安全团队以信安技术研究为目标，致力于分享高质量原创文章、开源安全工具、交流安全技术，研究方向覆盖网络攻防、Web安全、移动终端、安全开发、物联网/工控安全/AI安全等多个领域，对安全感兴趣的小伙伴可以关注我们。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>关于QQ读取浏览器历史记录的复现及分析</title>
+    <updated>2021-01-21T10:43:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/hXMYSw3z_XB05MzOX5pF1A</id>
+    <link href="https://mp.weixin.qq.com/s/hXMYSw3z_XB05MzOX5pF1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TensorFlow技术详解（二）</title>
     <updated>2021-01-20T15:07:36+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-24T22:29:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/udhDpRK7xNc06cjyY1Xhpw</id>
     <link href="https://mp.weixin.qq.com/s/udhDpRK7xNc06cjyY1Xhpw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GitLab任意文件读取漏洞复现</title>
-    <updated>2020-12-18T16:10:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/HKZHUs_bTN-00_8HsU6grA</id>
-    <link href="https://mp.weixin.qq.com/s/HKZHUs_bTN-00_8HsU6grA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gitlab远程代码执行漏洞复现</title>
-    <updated>2020-12-18T16:10:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-18:/s/MTQbTLLtfW61bEPy_kRQdA</id>
-    <link href="https://mp.weixin.qq.com/s/MTQbTLLtfW61bEPy_kRQdA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
