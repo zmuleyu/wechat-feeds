@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端迷 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:00:05+08:00</updated>
+  <updated>2021-01-22T20:32:34+08:00</updated>
   <subtitle>专注于vue/react/常见前端面试/最新web前端技术的分享；致力于算法以数据结构及前端底层原理、源码技术研究探讨；独具匠心，用心去打造一个一流的前端交流社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>盘点几个我感觉不错的前端公众号</title>
+    <updated>2021-01-22T17:07:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/ebKHBxM4leq4sE5B7CpZrQ</id>
+    <link href="https://mp.weixin.qq.com/s/ebKHBxM4leq4sE5B7CpZrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【翻译】JavaScript 中的函数式编程：函数、组合与柯里化</title>
     <updated>2021-01-20T21:19:45+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-11T13:26:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/NtyOO5aO5muwiPiYggG6uA</id>
     <link href="https://mp.weixin.qq.com/s/NtyOO5aO5muwiPiYggG6uA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>工作中如何巧妙的使用发布订阅模式</title>
-    <updated>2021-01-08T10:46:07+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/nmBLo11NKcfeISyklQEdBA</id>
-    <link href="https://mp.weixin.qq.com/s/nmBLo11NKcfeISyklQEdBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

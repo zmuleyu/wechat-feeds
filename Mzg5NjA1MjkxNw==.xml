@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:08:58+08:00</updated>
+  <updated>2021-01-22T20:40:30+08:00</updated>
   <subtitle>云原生技术交流阵地，汇聚云原生最新技术资讯、文章、活动，以及云原生产品及用户最佳实践内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>被集群节点负载不均所困扰？TKE 重磅推出全链路调度解决方案</title>
+    <updated>2021-01-22T17:38:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/-USAfoI-8SDoR-LpFIrGCQ</id>
+    <link href="https://mp.weixin.qq.com/s/-USAfoI-8SDoR-LpFIrGCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文读懂 TKE 及 Kubernetes 访问权限控制</title>
     <updated>2021-01-20T22:02:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T20:02:05+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/AZgylzVXwzxCjdgeSXjowQ</id>
     <link href="https://mp.weixin.qq.com/s/AZgylzVXwzxCjdgeSXjowQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Admission Webhook 机制实现多集群资源配额控制</title>
-    <updated>2020-12-31T19:30:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-31:/s/i3KtTSfab2JrjeFR4tdy_A</id>
-    <link href="https://mp.weixin.qq.com/s/i3KtTSfab2JrjeFR4tdy_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

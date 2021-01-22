@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>容器魔方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T23:50:24+08:00</updated>
+  <updated>2021-01-22T20:47:40+08:00</updated>
   <subtitle>关注容器全栈技术，打开新一代云原生计算的时空之门。跟踪Kubernetes、Docker、Istio等主流开源社区最新进展，剖析云原生全栈各技术热点，分享各行业典型容器化改造与云原生落地案例，并提供企业云原生完整解决方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 原生 CI/CD 构建框架 Argo 详解！</title>
+    <updated>2021-01-22T16:56:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/CupRmHzTegvvFHsYmqAqLw</id>
+    <link href="https://mp.weixin.qq.com/s/CupRmHzTegvvFHsYmqAqLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>云原生AI平台的加速与实践</title>
     <updated>2021-01-21T20:15:05+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-11T20:01:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/vWPTmoft7Ae9WDx3ly6uRw</id>
     <link href="https://mp.weixin.qq.com/s/vWPTmoft7Ae9WDx3ly6uRw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>引领云原生2.0，华为云加速云原生全行业落地</title>
-    <updated>2021-01-08T17:21:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/8njkIuUy45Da5OtJicK6NQ</id>
-    <link href="https://mp.weixin.qq.com/s/8njkIuUy45Da5OtJicK6NQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

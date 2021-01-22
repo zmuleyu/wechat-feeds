@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>51CTO技术栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:55:15+08:00</updated>
+  <updated>2021-01-22T20:53:53+08:00</updated>
   <subtitle>51CTO技术栈专注于IT技术领域，汇聚技术大咖为您分享开发架构、系统运维、大数据、人工智能等一线技术解析和实践案例等深度干货文章，愿我们一起悦享技术，成就CTO梦想！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>为什么要从Druid迁移到ClickHouse？</title>
+    <updated>2021-01-22T17:11:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/5ThulOxagXOenhmgmARWAQ</id>
+    <link href="https://mp.weixin.qq.com/s/5ThulOxagXOenhmgmARWAQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>戴尔科技预测2021年服务器发展的十大趋势</title>
+    <updated>2021-01-22T17:11:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/05YztPj69YtOF-QNhuBMIg</id>
+    <link href="https://mp.weixin.qq.com/s/05YztPj69YtOF-QNhuBMIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>突发！网易一员工核酸检测阳性，全员居家隔离办公</title>
+    <updated>2021-01-22T17:11:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/DxLUloAPPlxuQmbTk-Rdag</id>
+    <link href="https://mp.weixin.qq.com/s/DxLUloAPPlxuQmbTk-Rdag" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>试用期没过，因在公司上了1024网站...</title>
     <updated>2021-01-21T17:15:46+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-13T17:32:40+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/2Uc0BJupCKQWhpOpJyy14g</id>
     <link href="https://mp.weixin.qq.com/s/2Uc0BJupCKQWhpOpJyy14g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>别找啦，一套管好数据的方法就在这里！</title>
-    <updated>2021-01-13T17:32:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/T7tZli5_uSsJSsciTMRh9g</id>
-    <link href="https://mp.weixin.qq.com/s/T7tZli5_uSsJSsciTMRh9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用鸿蒙OS手机打王者，无比丝滑...</title>
-    <updated>2021-01-13T17:32:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uszgLC-Jk1oow8lqQFuX5A</id>
-    <link href="https://mp.weixin.qq.com/s/uszgLC-Jk1oow8lqQFuX5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>鸿蒙上第一个开源地图组件TinyMap来啦！</title>
-    <updated>2021-01-12T17:21:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/XBP0MwUaAUMbErvM1qThKw</id>
-    <link href="https://mp.weixin.qq.com/s/XBP0MwUaAUMbErvM1qThKw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

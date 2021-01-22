@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8sMeetup社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:50:25+08:00</updated>
+  <updated>2021-01-22T20:45:35+08:00</updated>
   <subtitle>致力于提供最权威的 Kubernetes 技术、案例与 Meetup！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>字节跳动云原生：机器学习平台建设实践</title>
+    <updated>2021-01-22T18:15:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/FSgoiPwqC28eRc9W1Zh8-Q</id>
+    <link href="https://mp.weixin.qq.com/s/FSgoiPwqC28eRc9W1Zh8-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020 年度 Kubernetes 热文出炉，你错过了哪些？</title>
     <updated>2021-01-20T18:45:12+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-31T18:36:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-31:/s/djxuuiZZT-f52vkF8nsWNA</id>
     <link href="https://mp.weixin.qq.com/s/djxuuiZZT-f52vkF8nsWNA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>周一见 | Vitess 项目报告、Kafka v2.7.0 正式发布、机器学习平台 Klever 开源</title>
-    <updated>2020-12-28T18:43:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-28:/s/5oGDjPsk7jW8dvfaNZmvhQ</id>
-    <link href="https://mp.weixin.qq.com/s/5oGDjPsk7jW8dvfaNZmvhQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

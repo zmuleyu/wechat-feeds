@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>FreeBuf | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:33:22+08:00</updated>
+  <updated>2021-01-22T20:33:38+08:00</updated>
   <subtitle>国内网络安全行业门户</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>聊聊供应链安全：政策与问题</title>
+    <updated>2021-01-22T17:49:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/TAhFgwL97JJtzvW1Bdu2LQ</id>
+    <link href="https://mp.weixin.qq.com/s/TAhFgwL97JJtzvW1Bdu2LQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>FireEye发布了检测 SolarWinds的审计工具</title>
+    <updated>2021-01-22T17:49:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/VaYfuV5dRLZytMqbmFOZpg</id>
+    <link href="https://mp.weixin.qq.com/s/VaYfuV5dRLZytMqbmFOZpg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>前端那些事儿：绕过XSS过滤对自动化暗链检测带来的启发</title>
+    <updated>2021-01-22T17:49:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/nBLxjd7R0KN94IYxcaWaSw</id>
+    <link href="https://mp.weixin.qq.com/s/nBLxjd7R0KN94IYxcaWaSw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Clairvoyance：一款Windows进程内存地址空间可视化工具</title>
+    <updated>2021-01-22T17:49:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/6zMKqmzCwfmPMZrHgKNJXA</id>
+    <link href="https://mp.weixin.qq.com/s/6zMKqmzCwfmPMZrHgKNJXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《2020工业互联网安全研究报告》完整版发布 | FreeBuf咨询</title>
     <updated>2021-01-21T17:47:11+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-18T19:20:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/lnReWXe8IFfpbD2XCyh3Lg</id>
     <link href="https://mp.weixin.qq.com/s/lnReWXe8IFfpbD2XCyh3Lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>聊聊Gartner 2021战略技术趋势——分布式云</title>
-    <updated>2021-01-17T17:32:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/G7Sgnhm1_hsFZNGubnu_eQ</id>
-    <link href="https://mp.weixin.qq.com/s/G7Sgnhm1_hsFZNGubnu_eQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>BUF大事件丨蠕虫病毒大范围爆发；拼多多天才黑客被开除</title>
-    <updated>2021-01-17T17:32:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/aX3zOSzS5d3ONLpBwDc5nQ</id>
-    <link href="https://mp.weixin.qq.com/s/aX3zOSzS5d3ONLpBwDc5nQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2020-7468：FreeBSD ftpd chroot本地提权漏洞分析</title>
-    <updated>2021-01-17T17:32:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/viMCXc2JqE0erh0mSRmp2w</id>
-    <link href="https://mp.weixin.qq.com/s/viMCXc2JqE0erh0mSRmp2w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go_Parser：一款针对IDAPro的Galong二进制代码分析工具</title>
-    <updated>2021-01-17T17:32:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/hxaDLOk6XU7QrXitNhszGw</id>
-    <link href="https://mp.weixin.qq.com/s/hxaDLOk6XU7QrXitNhszGw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

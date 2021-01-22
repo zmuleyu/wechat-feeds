@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux News搬运工 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:44:47+08:00</updated>
+  <updated>2021-01-22T20:44:45+08:00</updated>
   <subtitle>lwn等Linux world的各种新鲜事、新技术、新动向</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LWN: 限制DMA访问区域！</title>
+    <updated>2021-01-22T18:31:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/10aiIRCbZKTuDAFrI0H5Pw</id>
+    <link href="https://mp.weixin.qq.com/s/10aiIRCbZKTuDAFrI0H5Pw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LWN: 老编译器以及古老的bug！</title>
     <updated>2021-01-21T15:50:16+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-07T12:03:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/YwTYw8twxd2uE3jXOI_3Yw</id>
     <link href="https://mp.weixin.qq.com/s/YwTYw8twxd2uE3jXOI_3Yw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>LWN: Fedora和各种edition！</title>
-    <updated>2021-01-06T13:34:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/luseiAEUHW8ccJME5Q32Wg</id>
-    <link href="https://mp.weixin.qq.com/s/luseiAEUHW8ccJME5Q32Wg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

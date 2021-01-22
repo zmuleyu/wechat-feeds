@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP开源社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:47:37+08:00</updated>
+  <updated>2021-01-22T20:46:28+08:00</updated>
   <subtitle>免费提供10GPHP进阶架构师学习教程，关注即可免费领取。每天推送PHP最新资讯技术文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你真的会正确使用日志吗？</title>
+    <updated>2021-01-22T16:12:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/2O-zoJWDnxe2IOxSaB7hcg</id>
+    <link href="https://mp.weixin.qq.com/s/2O-zoJWDnxe2IOxSaB7hcg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何保证API接口数据安全？</title>
+    <updated>2021-01-22T16:12:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Q2Yk6Xk25UU5lktCORvl0w</id>
+    <link href="https://mp.weixin.qq.com/s/Q2Yk6Xk25UU5lktCORvl0w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>淘宝，一个牛逼的高并发分布式架构演进之路！</title>
     <updated>2021-01-21T15:43:01+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T14:15:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/xtLB1t4fcidGpQu7omk_7Q</id>
     <link href="https://mp.weixin.qq.com/s/xtLB1t4fcidGpQu7omk_7Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>除了负载均衡，Nginx 能做的真是太强大了！</title>
-    <updated>2021-01-11T14:16:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/XhTTwtwZEZne4dpo-HsYyQ</id>
-    <link href="https://mp.weixin.qq.com/s/XhTTwtwZEZne4dpo-HsYyQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>总结一波 Redis 面试题，收藏起来。</title>
-    <updated>2021-01-11T14:16:02+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/TCyRsMJ7211_s0gNsxjHag</id>
-    <link href="https://mp.weixin.qq.com/s/TCyRsMJ7211_s0gNsxjHag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

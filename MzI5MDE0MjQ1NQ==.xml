@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>雷石安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:42:47+08:00</updated>
+  <updated>2021-01-22T20:41:39+08:00</updated>
   <subtitle>雷石安全实验室以团队公众号为平台向安全工作者不定期分享渗透、APT、企业安全建设等新鲜干货，团队公众号致力于成为一个实用干货分享型公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>测试免杀过卡巴斯基和window defender</title>
+    <updated>2021-01-22T17:33:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/EYNGBMHmSptXRxMBMjEgdw</id>
+    <link href="https://mp.weixin.qq.com/s/EYNGBMHmSptXRxMBMjEgdw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dnsmasq: 多个高危漏洞风险通告</title>
+    <updated>2021-01-22T17:33:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/McJaA2tC0F-8QCnI77T0fA</id>
+    <link href="https://mp.weixin.qq.com/s/McJaA2tC0F-8QCnI77T0fA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>记一次应急响应</title>
     <updated>2021-01-21T16:54:07+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-11T17:47:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/OGzYX41uC75CuWgvnPaQyg</id>
     <link href="https://mp.weixin.qq.com/s/OGzYX41uC75CuWgvnPaQyg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>牛年如何在安全界牛气冲天？</title>
-    <updated>2021-01-08T16:27:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/6CF0AdCmBpHPiC67Ao5hQg</id>
-    <link href="https://mp.weixin.qq.com/s/6CF0AdCmBpHPiC67Ao5hQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

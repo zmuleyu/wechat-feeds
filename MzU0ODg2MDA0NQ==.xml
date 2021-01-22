@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ChaBug | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T17:01:57+08:00</updated>
+  <updated>2021-01-22T20:46:09+08:00</updated>
   <subtitle>一个分享知识、结识伙伴、资源共享的公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《实战化白帽人才能力白皮书》发布 | 三阶能力展现白帽人才态势</title>
+    <updated>2021-01-22T19:01:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/4jgnmKch-1rEbqpxwASbgA</id>
+    <link href="https://mp.weixin.qq.com/s/4jgnmKch-1rEbqpxwASbgA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Apache Flink CVE-2020-17518/17519 读写反序列化</title>
     <updated>2021-01-20T15:08:56+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-10T18:33:33+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-10:/s/opwFovf-2Hkgk7NNP8KZLA</id>
     <link href="https://mp.weixin.qq.com/s/opwFovf-2Hkgk7NNP8KZLA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[翻译]McAfee ePolicy Orchestrator中的漏洞</title>
-    <updated>2020-12-09T11:13:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/ngfDm55L0zON-nEtunM9QA</id>
-    <link href="https://mp.weixin.qq.com/s/ngfDm55L0zON-nEtunM9QA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

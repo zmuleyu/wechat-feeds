@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端先锋 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:35:30+08:00</updated>
+  <updated>2021-01-22T20:35:11+08:00</updated>
   <subtitle>分享Web大前端相关的独家外文咨询、技术文章、工具资源、精选课程。帮你成为有品质的大前端全栈工程师。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>JS 中循环遍历数组方式总结</title>
+    <updated>2021-01-21T19:24:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/3pIv6Q5sUbB8te06LFeUiw</id>
+    <link href="https://mp.weixin.qq.com/s/3pIv6Q5sUbB8te06LFeUiw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CSS加JS实现背景动画特效</title>
+    <updated>2021-01-21T19:24:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/aDDTiMz2y8fYCiUniYC_5w</id>
+    <link href="https://mp.weixin.qq.com/s/aDDTiMz2y8fYCiUniYC_5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Node.js 的 QUIC 支持</title>
     <updated>2021-01-20T20:12:46+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T12:35:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/VnqyhsAJpyMw2Y_FpJRcDg</id>
     <link href="https://mp.weixin.qq.com/s/VnqyhsAJpyMw2Y_FpJRcDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TypeScript高级类型与实用程序</title>
-    <updated>2021-01-11T17:35:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Yk1ciWQJsVmHUEEouw7yTg</id>
-    <link href="https://mp.weixin.qq.com/s/Yk1ciWQJsVmHUEEouw7yTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>纯CSS弹跳小球动画特效</title>
-    <updated>2021-01-11T17:35:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/I_ahtmEkPvhNAj-YNQB2sw</id>
-    <link href="https://mp.weixin.qq.com/s/I_ahtmEkPvhNAj-YNQB2sw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

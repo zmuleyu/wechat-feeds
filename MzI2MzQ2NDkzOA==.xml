@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>MicroPython中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:45:06+08:00</updated>
+  <updated>2021-01-22T20:27:42+08:00</updated>
   <subtitle>MicroPython/micro:bit 学习、教程、课程、技术交流、最新进展、DIY展示</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Raspberry Pi基金会推出4美元支持MicroPython的Raspberry Pi Pico</title>
+    <updated>2021-01-22T15:57:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/BJeyN-H5uqVtKUJ2SirWMw</id>
+    <link href="https://mp.weixin.qq.com/s/BJeyN-H5uqVtKUJ2SirWMw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>创意DIY项目分享（6）</title>
     <updated>2020-12-27T17:30:55+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-23T11:31:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-23:/s/37V4BZBLBnypj6k6chQreg</id>
     <link href="https://mp.weixin.qq.com/s/37V4BZBLBnypj6k6chQreg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新版本的 micro:bit （V2）即将到来</title>
-    <updated>2020-10-13T23:29:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-13:/s/u5Sj8DZg6oPHOOfzHbb1PA</id>
-    <link href="https://mp.weixin.qq.com/s/u5Sj8DZg6oPHOOfzHbb1PA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

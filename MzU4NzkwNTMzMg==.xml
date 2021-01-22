@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>全栈自学社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T16:39:00+08:00</updated>
+  <updated>2021-01-22T20:33:00+08:00</updated>
   <subtitle>全栈自学社区，专注于编程技术的讲解与分享。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>RabbitMQ 的第一个程序</title>
+    <updated>2021-01-22T18:42:28+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/baz75P8V_LXHFx_8SmuoHQ</id>
+    <link href="https://mp.weixin.qq.com/s/baz75P8V_LXHFx_8SmuoHQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Elasticsearch应用之京东搜索</title>
     <updated>2021-01-21T15:21:00+08:00</updated>
@@ -124,20 +131,6 @@
     <updated>2021-01-03T19:21:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/XkvSdoxDYcVhrYFi8MrkoQ</id>
     <link href="https://mp.weixin.qq.com/s/XkvSdoxDYcVhrYFi8MrkoQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>唉，因为一个疏忽超卖了 100 瓶飞天茅台！</title>
-    <updated>2021-01-01T21:27:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/w9cnNjB8xVESu-9k_RWY0A</id>
-    <link href="https://mp.weixin.qq.com/s/w9cnNjB8xVESu-9k_RWY0A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021年假期怎么放？都给你安排得明明白白！</title>
-    <updated>2021-01-01T21:27:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/637D7GKNdDD-qxMJgqhCgw</id>
-    <link href="https://mp.weixin.qq.com/s/637D7GKNdDD-qxMJgqhCgw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

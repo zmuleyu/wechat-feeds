@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>山警网络空间安全与电子数据取证 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:46:16+08:00</updated>
+  <updated>2021-01-22T20:33:20+08:00</updated>
   <subtitle>山东警察学院IT兴趣小组</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Laravel Debug mode RCE（CVE-2021-3129）漏洞复现</title>
+    <updated>2021-01-22T19:13:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/wxY0tsUnsu1IbEEK2Um87w</id>
+    <link href="https://mp.weixin.qq.com/s/wxY0tsUnsu1IbEEK2Um87w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>第四届“蓝帽杯”全国大学生网络安全技能大赛决赛WriteUp</title>
     <updated>2020-12-23T18:48:59+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-15T15:09:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-15:/s/R-DGeMIyNr-cVuxYm-FotQ</id>
     <link href="https://mp.weixin.qq.com/s/R-DGeMIyNr-cVuxYm-FotQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2020国赛决赛第二天CTF-web-WriteUp</title>
-    <updated>2020-10-03T19:06:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-03:/s/pQ7Boi_m32QhgF0tc4DXBA</id>
-    <link href="https://mp.weixin.qq.com/s/pQ7Boi_m32QhgF0tc4DXBA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

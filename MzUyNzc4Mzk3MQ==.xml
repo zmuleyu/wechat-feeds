@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>OPPO安全应急响应中心 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:28:48+08:00</updated>
+  <updated>2021-01-22T20:28:40+08:00</updated>
   <subtitle>OPPO安全应急响应中心(OSRC)官方公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>年度奖励 | 期待已久的年终奖出炉啦~</title>
+    <updated>2021-01-21T21:15:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/J1SV64jPt6emrsDa7Ss4yw</id>
+    <link href="https://mp.weixin.qq.com/s/J1SV64jPt6emrsDa7Ss4yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>CVE-2020-16040: Chromium V8引擎整数溢出漏洞分析</title>
     <updated>2021-01-20T16:55:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-08T14:22:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-08:/s/Q9KIGus_HFYtj1o-Ugd-SA</id>
     <link href="https://mp.weixin.qq.com/s/Q9KIGus_HFYtj1o-Ugd-SA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>OSRC助力字节跳动攻防论坛</title>
-    <updated>2020-12-07T19:27:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-07:/s/5CZc_jwHrA4fF06MFleN8Q</id>
-    <link href="https://mp.weixin.qq.com/s/5CZc_jwHrA4fF06MFleN8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

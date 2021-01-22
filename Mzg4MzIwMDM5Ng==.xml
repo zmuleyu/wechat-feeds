@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高德技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:08:14+08:00</updated>
+  <updated>2021-01-22T20:44:42+08:00</updated>
   <subtitle>这里是高德官方技术号，关于高德的技术创新内容均呈现于此</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>高德地图驾车导航内存优化原理与实战</title>
+    <updated>2021-01-22T17:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/aKK0aq1IRjhBF9hAyaxFxg</id>
+    <link href="https://mp.weixin.qq.com/s/aKK0aq1IRjhBF9hAyaxFxg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高德车载导航Android平台DR回放技术方案</title>
+    <updated>2021-01-22T17:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/pTZ12rqHdA_bJ_TzT4dYcw</id>
+    <link href="https://mp.weixin.qq.com/s/pTZ12rqHdA_bJ_TzT4dYcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>高德算法大赛季军战队经验分享：打造一个简单有效且易拓展的方案</title>
+    <updated>2021-01-22T17:44:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/XMs2AU7wpi0b8rTXwp9haA</id>
+    <link href="https://mp.weixin.qq.com/s/XMs2AU7wpi0b8rTXwp9haA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>3倍+提升，高德地图极致性能优化之路</title>
     <updated>2021-01-15T11:51:42+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2020-11-06T11:48:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-06:/s/ORT3Parh-31Ch-bpWRJiig</id>
     <link href="https://mp.weixin.qq.com/s/ORT3Parh-31Ch-bpWRJiig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于卫星定位，你想知道的一切</title>
-    <updated>2020-10-30T11:48:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/w6nVgsSL-UF7C7YH0fuXMw</id>
-    <link href="https://mp.weixin.qq.com/s/w6nVgsSL-UF7C7YH0fuXMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>浅析云控平台画面传输的视频流方案</title>
-    <updated>2020-10-30T11:48:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/NVCWTPDrBSa-JpGrV7cyWg</id>
-    <link href="https://mp.weixin.qq.com/s/NVCWTPDrBSa-JpGrV7cyWg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货收藏 | 如何优化前端性能？</title>
-    <updated>2020-10-30T11:48:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-10-30:/s/6dE3NVnrI0cVMzvMGhE4yg</id>
-    <link href="https://mp.weixin.qq.com/s/6dE3NVnrI0cVMzvMGhE4yg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

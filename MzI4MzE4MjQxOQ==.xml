@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据社 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T23:43:32+08:00</updated>
+  <updated>2021-01-22T20:40:39+08:00</updated>
   <subtitle>我是一哥，大数据从业7年，和大家分享大数据实践的那些事，个人专注MPP数据库研究、流处理计算、数据仓库架构和数据分析~</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>FlinkSQL | 流处理中的特殊概念</title>
+    <updated>2021-01-21T21:33:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/enOaKTED5nHFfGF8V-ZRUA</id>
+    <link href="https://mp.weixin.qq.com/s/enOaKTED5nHFfGF8V-ZRUA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>滴滴开源Logi-KafkaManager 一站式Kafka监控与管控平台</title>
+    <updated>2021-01-21T21:33:38+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ujELBP5QuCv5PUENsCh_iw</id>
+    <link href="https://mp.weixin.qq.com/s/ujELBP5QuCv5PUENsCh_iw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万字带你深入阿里开源的Canal工作原理</title>
     <updated>2021-01-21T21:17:54+08:00</updated>
@@ -103,13 +117,6 @@
     <updated>2021-01-10T22:03:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/SqNnDWPFvKXvr3YX5czoUg</id>
     <link href="https://mp.weixin.qq.com/s/SqNnDWPFvKXvr3YX5czoUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于中台的深度思考</title>
-    <updated>2021-01-10T10:01:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/sK-KOboyYQ8NV71xbbG9UA</id>
-    <link href="https://mp.weixin.qq.com/s/sK-KOboyYQ8NV71xbbG9UA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

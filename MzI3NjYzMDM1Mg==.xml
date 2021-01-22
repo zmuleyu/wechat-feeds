@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>火绒安全实验室 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:33:54+08:00</updated>
+  <updated>2021-01-22T20:33:12+08:00</updated>
   <subtitle>火绒是一家纯粹的信息安全公司。在这里为大家分享专业的技术报告和安全信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【火绒安全周报】蠕虫病毒“incaseformat”23日还会发作   英国警方承认超过21万份犯罪记录被误删</title>
+    <updated>2021-01-22T16:04:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/uhcY-HI9O0E5mwg4gYYaDg</id>
+    <link href="https://mp.weixin.qq.com/s/uhcY-HI9O0E5mwg4gYYaDg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2020火绒终端安全回顾：流氓病毒化 病毒逐利化</title>
     <updated>2021-01-20T16:15:50+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-08T18:20:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/MoTXv7Nv0r4gjrKqjhfgVw</id>
     <link href="https://mp.weixin.qq.com/s/MoTXv7Nv0r4gjrKqjhfgVw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有图有视频   演示横向渗透被火绒拦截过程</title>
-    <updated>2021-01-05T18:19:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/DwEZVLllal4S8VftnaSbkg</id>
-    <link href="https://mp.weixin.qq.com/s/DwEZVLllal4S8VftnaSbkg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>边缘计算k3s社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-08T20:47:20+08:00</updated>
+  <updated>2021-01-22T20:39:35+08:00</updated>
   <subtitle>k3s是由Rancher Labs于2019年年初推出的一款轻量级Kubernetes发行版，满足在边缘计算环境中运行在x86、ARM64和ARMv7处理器上的小型、易于管理的Kubernetes集群日益增长的需求。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>保姆级教程！使用k3d实现K3s高可用！</title>
+    <updated>2021-01-22T17:43:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Omdo2uiYwaNs8pDSVKDk1Q</id>
+    <link href="https://mp.weixin.qq.com/s/Omdo2uiYwaNs8pDSVKDk1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一文搞定全场景K3s离线安装</title>
     <updated>2021-01-08T18:03:52+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-04T17:54:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-04:/s/yxxrBDI6U6juQmwpTF76gg</id>
     <link href="https://mp.weixin.qq.com/s/yxxrBDI6U6juQmwpTF76gg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>今晚8点，K3s自动化开源工具AutoK3s线上demo来袭，简化公有云K3s部署体验！&#xD;&#xA;&#xD;&#xA;观看地址：http://z-mz.cn/1qzyL&#xD;&#xA;&#xD;&#xA;直播内容：&#xD;&#xA;&#xD;&#xA;AutoK3s基本介绍&#xD;&#xA;- 项目背景&#xD;&#xA;- AutoK3s主要特性 &#xD;&#xA;AutoK3s使用方式&#xD;&#xA;- 环境准备&#xD;&#xA;- 功能演示             &#xD;&#xA;  &gt;&gt;基本命令             &#xD;&#xA;  &gt;&gt;备份迁移 &#xD;&#xA;研发计划&#xD;&#xA;&#xD;&#xA;今晚等你来噢！</title>
-    <updated>2020-11-02T19:37:54+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-02:/s/BRVhnZ25dBSwzPoXP6hFuw</id>
-    <link href="https://mp.weixin.qq.com/s/BRVhnZ25dBSwzPoXP6hFuw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

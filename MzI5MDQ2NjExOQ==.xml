@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>信安之路 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:27:53+08:00</updated>
+  <updated>2021-01-22T20:27:42+08:00</updated>
   <subtitle>专注信息安全技术和经验的分享，坚持原创，不蹭热点</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>第二集 域名信息收集自动化</title>
+    <updated>2021-01-22T19:34:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Bacymtir6x4jC06kTXyJdQ</id>
+    <link href="https://mp.weixin.qq.com/s/Bacymtir6x4jC06kTXyJdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>第一集 企业基本信息收集方式介绍</title>
     <updated>2021-01-18T19:45:40+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T22:00:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/T9lCDVO1dSiugGcMwL5prg</id>
     <link href="https://mp.weixin.qq.com/s/T9lCDVO1dSiugGcMwL5prg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>针对数据存储区的攻击测试</title>
-    <updated>2020-12-27T12:49:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/jQMPjHoJVWrvCKjkpQKObQ</id>
-    <link href="https://mp.weixin.qq.com/s/jQMPjHoJVWrvCKjkpQKObQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

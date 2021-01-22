@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>奇舞周刊 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:47:07+08:00</updated>
+  <updated>2021-01-22T20:46:28+08:00</updated>
   <subtitle>《奇舞周刊》是由奇舞团维护的前端技术周刊。除周五外，每天向大家推荐一篇前端相关技术文章，每周五向大家推送周刊汇总内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>奇舞周刊第 382 期：ECMAScript 2021 新特征</title>
+    <updated>2021-01-22T17:37:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/itHSA0IV9NMeoYwb-30DpQ</id>
+    <link href="https://mp.weixin.qq.com/s/itHSA0IV9NMeoYwb-30DpQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JS Bridge 通信原理</title>
     <updated>2021-01-21T17:45:35+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-13T15:33:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/57w-xKKZI68smApdfucSKQ</id>
     <link href="https://mp.weixin.qq.com/s/57w-xKKZI68smApdfucSKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vue CLI 是如何实现的 -- 终端命令行工具篇</title>
-    <updated>2021-01-12T18:13:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/_3mpRIbPLjiWQpKDbbcE1g</id>
-    <link href="https://mp.weixin.qq.com/s/_3mpRIbPLjiWQpKDbbcE1g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

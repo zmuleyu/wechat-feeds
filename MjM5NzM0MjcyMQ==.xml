@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>开源中国 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:44:51+08:00</updated>
+  <updated>2021-01-22T20:44:02+08:00</updated>
   <subtitle>为开发者服务</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里自研RISC-V芯片成功运行Android 10</title>
+    <updated>2021-01-22T16:28:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/xwTk3XcxtepEajhkUuRZKQ</id>
+    <link href="https://mp.weixin.qq.com/s/xwTk3XcxtepEajhkUuRZKQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mac mini M1上成功启动Ubuntu</title>
+    <updated>2021-01-22T16:28:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/IiqUjx9h_5Ew1XIhLzSGmg</id>
+    <link href="https://mp.weixin.qq.com/s/IiqUjx9h_5Ew1XIhLzSGmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rocky Linux首个RC版本将于3月底发布</title>
+    <updated>2021-01-22T16:28:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/O7B60lNsNwm7FVpmV2A0Uw</id>
+    <link href="https://mp.weixin.qq.com/s/O7B60lNsNwm7FVpmV2A0Uw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货|如何实现一个高效的Softmax CUDA kernel？</title>
+    <updated>2021-01-22T16:28:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Q9h4nwTSaZJnkJQ8DvCn5w</id>
+    <link href="https://mp.weixin.qq.com/s/Q9h4nwTSaZJnkJQ8DvCn5w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>VirtualBox 6.1.18发布，一款功能强大的开源虚拟机</title>
+    <updated>2021-01-22T16:28:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/JOveJnlgrQcijj5KV4lNPA</id>
+    <link href="https://mp.weixin.qq.com/s/JOveJnlgrQcijj5KV4lNPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>ElasticSearch更改开源协议被喷惨了</title>
     <updated>2021-01-21T19:45:31+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-18T17:27:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/Bcr7Ine5tRsOaK820JVXtg</id>
     <link href="https://mp.weixin.qq.com/s/Bcr7Ine5tRsOaK820JVXtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Elasticsearch 和 Kibana 变更开源许可协议</title>
-    <updated>2021-01-18T17:27:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/j4Xt-wW47hRy8ZzgLUunxA</id>
-    <link href="https://mp.weixin.qq.com/s/j4Xt-wW47hRy8ZzgLUunxA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KaOS 2021.01 发布，首个使用了Qt 6的ISO</title>
-    <updated>2021-01-18T17:27:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/sTzjwKw_rco5XpzdGiKviA</id>
-    <link href="https://mp.weixin.qq.com/s/sTzjwKw_rco5XpzdGiKviA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 2.3.8 发布</title>
-    <updated>2021-01-18T17:27:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/S-Rm5eotu3TdmatPY7C5Og</id>
-    <link href="https://mp.weixin.qq.com/s/S-Rm5eotu3TdmatPY7C5Og" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>iPhone上刷Ubuntu</title>
-    <updated>2021-01-18T17:27:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/EsVEUJzY8lMGi0dmMEoB6Q</id>
-    <link href="https://mp.weixin.qq.com/s/EsVEUJzY8lMGi0dmMEoB6Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>16 岁高中生把 iPhone7 改造成 Linux 服务器</title>
-    <updated>2021-01-17T10:44:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Dfa5TIvTn80O0b1J-zr_yw</id>
-    <link href="https://mp.weixin.qq.com/s/Dfa5TIvTn80O0b1J-zr_yw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>腾讯技术工程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:44:00+08:00</updated>
+  <updated>2021-01-22T20:40:30+08:00</updated>
   <subtitle>腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大牛书单 | 新年聊创新：技术人必备思维</title>
+    <updated>2021-01-22T16:39:03+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/dL2IxMnrDweCSJ6T73ZlVA</id>
+    <link href="https://mp.weixin.qq.com/s/dL2IxMnrDweCSJ6T73ZlVA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>编译原理初学者入门指南</title>
     <updated>2021-01-20T17:19:08+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2020-12-28T17:52:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-28:/s/mUF0AEncu3T2yDqKyt-0Ow</id>
     <link href="https://mp.weixin.qq.com/s/mUF0AEncu3T2yDqKyt-0Ow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>数据分析利器：XGBoost算法最佳解析</title>
-    <updated>2020-12-25T15:02:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/YunDfYPLywc0tMJF72YIAQ</id>
-    <link href="https://mp.weixin.qq.com/s/YunDfYPLywc0tMJF72YIAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TensorFlow | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:38:12+08:00</updated>
+  <updated>2021-01-22T20:36:12+08:00</updated>
   <subtitle>Google官方账号，分享人工智能和TensorFlow相关的最新消息、技术资源、活动和实践案例。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>社区分享 | 深度学习在 58 同城首页推荐中的应用</title>
+    <updated>2021-01-22T17:53:25+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/TzmgnQf3HdXZcslEueT-cg</id>
+    <link href="https://mp.weixin.qq.com/s/TzmgnQf3HdXZcslEueT-cg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>了解 Rasa Open Source 如何通过 TensorFlow 2.x 获得层的灵活性</title>
     <updated>2021-01-20T19:24:14+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2021-01-04T11:53:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/GHIOgyWjUWI7OQgdS9F3DA</id>
     <link href="https://mp.weixin.qq.com/s/GHIOgyWjUWI7OQgdS9F3DA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Model Card Toolkit：助力 TensorFlow 模型透明度的工具包</title>
-    <updated>2020-12-30T18:33:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-30:/s/avooB_uXXYYF8WIM0ZWI6Q</id>
-    <link href="https://mp.weixin.qq.com/s/avooB_uXXYYF8WIM0ZWI6Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

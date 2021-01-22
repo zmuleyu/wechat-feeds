@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大邓和他的Python | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:22:16+08:00</updated>
+  <updated>2021-01-22T20:53:37+08:00</updated>
   <subtitle>管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求原创文章末尾附有实验代码和数据，方便大家看后动手练习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python分析《哈哈哈哈哈》47687条弹幕，看看大家都在说些啥！</title>
+    <updated>2021-01-22T19:27:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/gAu_LhLGl1etLxVdi9ynCQ</id>
+    <link href="https://mp.weixin.qq.com/s/gAu_LhLGl1etLxVdi9ynCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python网络爬虫与文本数据分析</title>
+    <updated>2021-01-22T19:27:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/QmSTwecRq7i6DXvvehuquw</id>
+    <link href="https://mp.weixin.qq.com/s/QmSTwecRq7i6DXvvehuquw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>28岁华为员工工资表曝光，牛逼的人注定会牛逼</title>
     <updated>2021-01-20T01:10:08+08:00</updated>
@@ -124,13 +138,6 @@
     <updated>2021-01-10T10:16:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/uBtFJOAuefd8SLKW_CEisA</id>
     <link href="https://mp.weixin.qq.com/s/uBtFJOAuefd8SLKW_CEisA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python爬虫 | 以滑雪为例演示大众点评商铺信息采集</title>
-    <updated>2021-01-07T21:47:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/vTTVZSECR3au8KDBMWyMsw</id>
-    <link href="https://mp.weixin.qq.com/s/vTTVZSECR3au8KDBMWyMsw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>RancherLabs | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:22:19+08:00</updated>
+  <updated>2021-01-22T20:53:41+08:00</updated>
   <subtitle>Rancher Labs由CloudStack之父梁胜创建。旗舰产品Rancher是一个开源的企业级Kubernetes管理平台，实现了Kubernetes集群在混合云+本地数据中心的集中部署与管理。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>直播回放及PPT下载丨Harvester UI详解及产品规划</title>
+    <updated>2021-01-22T17:16:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/XIbS7ey-RpgAdFy0QzFn6w</id>
+    <link href="https://mp.weixin.qq.com/s/XIbS7ey-RpgAdFy0QzFn6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>今晚8点，开源HCI软件Harvester第二期在线培训准时开始咯！如何管理镜像、节点？如何管理虚拟机生命周期？赶紧报名上车今晚的培训吧！&#xA;&#xA;报名及观看链接：http://z-mz.cn/23od8</title>
     <updated>2021-01-20T17:39:29+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-11T18:19:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/O0FreSei96kQj9rgK5R50w</id>
     <link href="https://mp.weixin.qq.com/s/O0FreSei96kQj9rgK5R50w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>详细教程丨如何利用Rancher和Kong实现服务网格？</title>
-    <updated>2021-01-07T18:11:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/pcPWk-YTgwLCNPhotNg1PA</id>
-    <link href="https://mp.weixin.qq.com/s/pcPWk-YTgwLCNPhotNg1PA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

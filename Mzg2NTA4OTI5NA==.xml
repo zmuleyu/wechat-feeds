@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tide安全团队 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:50:22+08:00</updated>
+  <updated>2021-01-22T20:48:55+08:00</updated>
   <subtitle>Tide安全团队以信安技术研究为目标，致力于分享高质量原创文章、开源安全工具、交流安全技术，研究方向覆盖网络攻防、Web安全、移动终端、安全开发、物联网/工控安全/AI安全等多个领域，对安全感兴趣的小伙伴可以关注我们。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【漏洞分析】Flask框架(jinja2)&amp;服务端模板注入漏洞(SSTI)</title>
+    <updated>2021-01-22T14:42:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/1gHvf7oOSVdHA00JkzwldQ</id>
+    <link href="https://mp.weixin.qq.com/s/1gHvf7oOSVdHA00JkzwldQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于QQ读取浏览器历史记录的复现及分析</title>
     <updated>2021-01-21T10:43:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-30T23:25:32+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-30:/s/h8x1zNgMrcSIPLH-1MP09A</id>
     <link href="https://mp.weixin.qq.com/s/h8x1zNgMrcSIPLH-1MP09A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CVE-2020-1472域内提权漏洞利用</title>
-    <updated>2020-12-24T22:29:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/udhDpRK7xNc06cjyY1Xhpw</id>
-    <link href="https://mp.weixin.qq.com/s/udhDpRK7xNc06cjyY1Xhpw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

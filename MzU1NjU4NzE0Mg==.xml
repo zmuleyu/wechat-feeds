@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>声网Agora开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-13T20:53:40+08:00</updated>
+  <updated>2021-01-22T20:48:18+08:00</updated>
   <subtitle>声网Agora成立于2013年，是全球实时互动云行业开创者，为开发者提供简单易用、高度可定制和广泛兼容的API。本服务号为 Agora 开发者提供技术教程、产品信息等相关技术信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Agora 教程 | 如何实现15mins自主搭建一个教育平台？</title>
+    <updated>2021-01-22T18:50:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/jbT4qPj0zSOyP-BNyDYJXA</id>
+    <link href="https://mp.weixin.qq.com/s/jbT4qPj0zSOyP-BNyDYJXA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播回顾｜RTM 助力信令与消息全球实时互通</title>
+    <updated>2021-01-22T18:50:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/pSXcIRgGqcSKfznomZlLPg</id>
+    <link href="https://mp.weixin.qq.com/s/pSXcIRgGqcSKfznomZlLPg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Agora 教程 | 如何在 Unity 游戏中用 RTM SDK 实现消息聊天</title>
     <updated>2021-01-13T18:38:13+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2020-10-12T19:03:18+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-12:/s/YMsbgHHCg8rVdr1X2H49qw</id>
     <link href="https://mp.weixin.qq.com/s/YMsbgHHCg8rVdr1X2H49qw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>RTE 2020 启动报名  八大论坛打造全球最大规模实时互联网盛会</title>
-    <updated>2020-09-23T18:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/2lX5RbE63to1UNdXLfVH1w</id>
-    <link href="https://mp.weixin.qq.com/s/2lX5RbE63to1UNdXLfVH1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>9 月 23 日直播预告 | 实时高可用信令系统架构设计</title>
-    <updated>2020-09-23T18:09:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-09-23:/s/IvAuP6tQNdzqbImJwl3jOQ</id>
-    <link href="https://mp.weixin.qq.com/s/IvAuP6tQNdzqbImJwl3jOQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

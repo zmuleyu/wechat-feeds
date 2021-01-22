@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据派THU | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:43:29+08:00</updated>
+  <updated>2021-01-22T20:42:31+08:00</updated>
   <subtitle>发布清华校内相关科研动态、教学成果及线下活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>人工智能十年回顾：CNN、AlphaGo、GAN……它们曾这样改变世界</title>
+    <updated>2021-01-22T14:19:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/NZgz01zrNhLg53OlRVPrCw</id>
+    <link href="https://mp.weixin.qq.com/s/NZgz01zrNhLg53OlRVPrCw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>深度学习模型的中毒攻击与防御综述</title>
+    <updated>2021-01-22T14:19:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/MDMoNPxmEQlCUd5UZjnN4w</id>
+    <link href="https://mp.weixin.qq.com/s/MDMoNPxmEQlCUd5UZjnN4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>王瑜琪：数据科学助力我捕捉研究生教育的宏观效应  | 提升之路系列</title>
     <updated>2021-01-21T09:24:22+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T13:36:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/70jTWUPKH_SS3GsJVnYbag</id>
     <link href="https://mp.weixin.qq.com/s/70jTWUPKH_SS3GsJVnYbag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>独家 | 用随机森林预测“美版拼多多”商品销量</title>
-    <updated>2021-01-12T13:41:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/s0obyzLGxK67CPHlu1nbjQ</id>
-    <link href="https://mp.weixin.qq.com/s/s0obyzLGxK67CPHlu1nbjQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神器 jupyter，终于来了！</title>
-    <updated>2021-01-12T13:41:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/BYt60-BmKpLUuiKx4c7rSQ</id>
-    <link href="https://mp.weixin.qq.com/s/BYt60-BmKpLUuiKx4c7rSQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
