@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据仓库与Python大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:13:55+08:00</updated>
+  <updated>2021-01-22T12:16:56+08:00</updated>
   <subtitle>专注于大数据、数据仓库与数据科学，数据分析与数据挖掘，Hadoop/Spark/Flink、Python与面试经验和职场感悟</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【绝密】最全大数据面试题及答案</title>
+    <updated>2021-01-22T00:38:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/G7CM5xTm1ladCXTDK97_AA</id>
+    <link href="https://mp.weixin.qq.com/s/G7CM5xTm1ladCXTDK97_AA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从Hadoop到ClickHouse，现代BI系统有哪些问题？如何解决？</title>
+    <updated>2021-01-22T00:38:49+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/5VHjIFwwnAX3_LU3TsqPjw</id>
+    <link href="https://mp.weixin.qq.com/s/5VHjIFwwnAX3_LU3TsqPjw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>架构蓝图 | 优雅de数据仓库工作杂谈</title>
     <updated>2021-01-21T01:27:49+08:00</updated>
@@ -89,20 +103,6 @@
     <updated>2021-01-10T23:46:20+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/yEiUMoANpbvvPvXe-IZoTQ</id>
     <link href="https://mp.weixin.qq.com/s/yEiUMoANpbvvPvXe-IZoTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>DTCC-数据趋势、数据治理、数据架构、数据中台、云数据库、数据安全.PPT</title>
-    <updated>2021-01-09T22:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/FelhrW9keYAyGGrJpoAm_Q</id>
-    <link href="https://mp.weixin.qq.com/s/FelhrW9keYAyGGrJpoAm_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>深入讲解拉链表，还怕面试官问？</title>
-    <updated>2021-01-09T22:37:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-09:/s/tb3iwiuFCRrAZyg3q8u4tQ</id>
-    <link href="https://mp.weixin.qq.com/s/tb3iwiuFCRrAZyg3q8u4tQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

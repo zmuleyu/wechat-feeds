@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端森林 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:22:35+08:00</updated>
+  <updated>2021-01-22T12:27:35+08:00</updated>
   <subtitle>一个有温度的前端号，关注行业前沿。从基础到架构，携手你我共同成长。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>现在学前端还来得及吗？总听人说饱和了</title>
+    <updated>2021-01-22T00:16:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/MTO9kYvz-Mdfx7vZiUN0Vw</id>
+    <link href="https://mp.weixin.qq.com/s/MTO9kYvz-Mdfx7vZiUN0Vw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>从零撸一个CLI命令行脚手架工具</title>
     <updated>2021-01-20T22:14:07+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-29T14:40:48+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/HHNAevYyWZ2JiW6Lk9OETA</id>
     <link href="https://mp.weixin.qq.com/s/HHNAevYyWZ2JiW6Lk9OETA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>谈谈 React 新出的 Server Components</title>
-    <updated>2020-12-27T22:07:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-27:/s/IxvTy4dJZO6b7sVhxKpP8g</id>
-    <link href="https://mp.weixin.qq.com/s/IxvTy4dJZO6b7sVhxKpP8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

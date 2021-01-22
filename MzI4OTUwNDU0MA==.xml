@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农约翰的沉思录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:06:17+08:00</updated>
+  <updated>2021-01-22T12:13:07+08:00</updated>
   <subtitle>个人博客文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Spring每日小技巧之外部化配置</title>
+    <updated>2021-01-21T23:03:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/aC7EDUojnLWowIS5Kmg-qw</id>
+    <link href="https://mp.weixin.qq.com/s/aC7EDUojnLWowIS5Kmg-qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>谈谈Spring中Lookup配置的使用与原理</title>
     <updated>2021-01-17T21:24:11+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-23T20:53:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-23:/s/Ybb8sffmFRkg6xNLSfR9Fw</id>
     <link href="https://mp.weixin.qq.com/s/Ybb8sffmFRkg6xNLSfR9Fw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring中根据Bean别名是怎么获取Bean的</title>
-    <updated>2020-11-21T10:50:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-21:/s/eKeAd-Dl1LvfJPoV_paGgA</id>
-    <link href="https://mp.weixin.qq.com/s/eKeAd-Dl1LvfJPoV_paGgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>铭毅天下Elasticsearch | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T07:43:41+08:00</updated>
+  <updated>2021-01-22T12:13:30+08:00</updated>
   <subtitle>Elasticsearch技术基础、进阶、实战第一公众号！ 和你一起，死磕ELK Stack（Elasticsearch/Logstash/Kibana/Beats）!</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>基于儿童积木玩具图解 Elasticsearch 聚合</title>
+    <updated>2021-01-22T11:20:30+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/D6mm316pAbmpy4Y3U4j9Bg</id>
+    <link href="https://mp.weixin.qq.com/s/D6mm316pAbmpy4Y3U4j9Bg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>比MySQL快801倍，比Vertica快5倍，比Hive快279倍，猜猜它是谁？</title>
     <updated>2021-01-17T19:33:48+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-13T16:57:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-13:/s/ChPs80_1HeuUtUHpthqEBA</id>
     <link href="https://mp.weixin.qq.com/s/ChPs80_1HeuUtUHpthqEBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>可能是全网唯一Elastic/Kibana认证考试报名还有优惠的地方</title>
-    <updated>2020-12-09T23:08:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-09:/s/HDYNoDifZ6MK4WCHmKZKtA</id>
-    <link href="https://mp.weixin.qq.com/s/HDYNoDifZ6MK4WCHmKZKtA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

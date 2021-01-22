@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ImportNew | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:09:49+08:00</updated>
+  <updated>2021-01-22T12:12:38+08:00</updated>
   <subtitle>ImportNew 专注Java 技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里取消“361”绩效考核，不写周报不鼓励加班？</title>
+    <updated>2021-01-21T20:46:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/b6gg16346KMFXilR6wUvDQ</id>
+    <link href="https://mp.weixin.qq.com/s/b6gg16346KMFXilR6wUvDQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JDK踩坑: Smart LocalDate</title>
+    <updated>2021-01-21T20:46:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/zc_D8pNRuGhDLzoghZeb8w</id>
+    <link href="https://mp.weixin.qq.com/s/zc_D8pNRuGhDLzoghZeb8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《我想进大厂》之分布式事务篇</title>
     <updated>2021-01-21T00:16:53+08:00</updated>
@@ -117,20 +131,6 @@
     <updated>2021-01-13T16:19:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/YO9MRRVWsfOmalY9FCTkig</id>
     <link href="https://mp.weixin.qq.com/s/YO9MRRVWsfOmalY9FCTkig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我为什么要放弃RESTful，选择拥抱GraphQL</title>
-    <updated>2021-01-12T15:02:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/2tWhbe0_7KR2Tt9yU-Xvug</id>
-    <link href="https://mp.weixin.qq.com/s/2tWhbe0_7KR2Tt9yU-Xvug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从年末生产故障解锁RocketMQ集群部署的最佳实践</title>
-    <updated>2021-01-12T15:02:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/BaZxnOb5yed4C-qj7ii-ZA</id>
-    <link href="https://mp.weixin.qq.com/s/BaZxnOb5yed4C-qj7ii-ZA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

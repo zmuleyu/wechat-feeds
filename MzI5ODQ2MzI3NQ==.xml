@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>K8S中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:04:29+08:00</updated>
+  <updated>2021-01-22T12:08:23+08:00</updated>
   <subtitle>国内 Kubernetes 技术爱好者聚集地，内容起于K8S而不止于K8S，涉及Docker、微服务、ServiceMesh、DevOps、虚拟化等云计算及云原生相关开源项目，分享技术、经验、资讯，坚持干货。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>牛掰啊！打造企业云原生安全解决方案</title>
+    <updated>2021-01-21T22:54:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/-EqCZHmUqBdqCeVNgLAKrw</id>
+    <link href="https://mp.weixin.qq.com/s/-EqCZHmUqBdqCeVNgLAKrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Citrix以22.5亿美元收购项目管理服务Wrike</title>
+    <updated>2021-01-21T22:54:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/grNHl3Oi0QTq9NvP7NuvFA</id>
+    <link href="https://mp.weixin.qq.com/s/grNHl3Oi0QTq9NvP7NuvFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>干掉微服务！阿里云MVP专家的万亿级架构设计，搞得太棒了！</title>
     <updated>2021-01-20T21:57:21+08:00</updated>
@@ -103,20 +117,6 @@
     <updated>2021-01-13T18:40:55+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/poisG0aXqhft3idQGVe8MA</id>
     <link href="https://mp.weixin.qq.com/s/poisG0aXqhft3idQGVe8MA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021 巨头全部瞄准数据中台！架构师如何向雷军一样顺势而为？</title>
-    <updated>2021-01-12T11:00:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/rDJMhOFkKauX0dpDbq3N4A</id>
-    <link href="https://mp.weixin.qq.com/s/rDJMhOFkKauX0dpDbq3N4A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>从外企到初创，对产品经理的认知进化</title>
-    <updated>2021-01-12T11:00:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/PAb_daSZBF3eAGpIDqu2FQ</id>
-    <link href="https://mp.weixin.qq.com/s/PAb_daSZBF3eAGpIDqu2FQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

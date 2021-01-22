@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:06:50+08:00</updated>
+  <updated>2021-01-22T12:09:32+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 8 中使用 Index 和 Range</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/bdX0V7nEkYxgeHS9BhCv8A</id>
+    <link href="https://mp.weixin.qq.com/s/bdX0V7nEkYxgeHS9BhCv8A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 中的动态类型</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/7YYSeTXm2Q0CRDYnC_bY-Q</id>
+    <link href="https://mp.weixin.qq.com/s/7YYSeTXm2Q0CRDYnC_bY-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>跨平台导PDF，结合wkhtmltopdf很顺手</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/JGZSBydBi7vmhfXHK0fu6g</id>
+    <link href="https://mp.weixin.qq.com/s/JGZSBydBi7vmhfXHK0fu6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>IdentityServer4（八）使用EntityFramework Core对数据进行持久化</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/1r4ozjgbZf4APLMfRH32RA</id>
+    <link href="https://mp.weixin.qq.com/s/1r4ozjgbZf4APLMfRH32RA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这难道不是.NET5的bug? 在线求锤？</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/BHDVQqKmjOM-gdGTzU6VDA</id>
+    <link href="https://mp.weixin.qq.com/s/BHDVQqKmjOM-gdGTzU6VDA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>开发进阶：Dotnet Core多路径异步终止</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/WJoqj-AtEP44vNMOnDX83g</id>
+    <link href="https://mp.weixin.qq.com/s/WJoqj-AtEP44vNMOnDX83g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Halcon和Opencv的区别？</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/4yALCnVWjx0DMffwMsEUAg</id>
+    <link href="https://mp.weixin.qq.com/s/4yALCnVWjx0DMffwMsEUAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>洋哥！我要进大厂！</title>
+    <updated>2021-01-21T19:36:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/Ug1xBBjTebdMgpDFE8SIiA</id>
+    <link href="https://mp.weixin.qq.com/s/Ug1xBBjTebdMgpDFE8SIiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>职场面试时要不要讲“武德”？我来告诉你</title>
     <updated>2021-01-20T21:34:45+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-19T19:01:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-19:/s/5eo1W4hNE0BuUKDcOk-QdQ</id>
     <link href="https://mp.weixin.qq.com/s/5eo1W4hNE0BuUKDcOk-QdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.Net在线编辑工具.NET Fiddle</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/oafkqTokLJ4G38ZS6l-sqA</id>
-    <link href="https://mp.weixin.qq.com/s/oafkqTokLJ4G38ZS6l-sqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何使用 C# 中的 ValueTuple</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/2IncV5PJxzAAlHNZFw4uCA</id>
-    <link href="https://mp.weixin.qq.com/s/2IncV5PJxzAAlHNZFw4uCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.Net Core in Docker - 使用阿里云Codepipeline及阿里云容器镜像服务实现持续交付/部署（CD）</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/4ZUvqXoaXHqAbdHaD-J5jg</id>
-    <link href="https://mp.weixin.qq.com/s/4ZUvqXoaXHqAbdHaD-J5jg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为你的项目启用可空引用类型</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/axhMVM-aGLVhmT44g6huWw</id>
-    <link href="https://mp.weixin.qq.com/s/axhMVM-aGLVhmT44g6huWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你可以不在 BAT，但不能没有大厂程序员的眼界</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/JXXH0bnc5K5hwbkwL9rCwA</id>
-    <link href="https://mp.weixin.qq.com/s/JXXH0bnc5K5hwbkwL9rCwA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET 5 程序高级调试-WinDbg</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/T4DsLHE5EYms1Xuf4yevFg</id>
-    <link href="https://mp.weixin.qq.com/s/T4DsLHE5EYms1Xuf4yevFg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET斗鱼直播弹幕客户端(2021)</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/JXcFkBhzNYcC-pHbENBo4g</id>
-    <link href="https://mp.weixin.qq.com/s/JXcFkBhzNYcC-pHbENBo4g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 C# 9 的records作为强类型ID - 路由和查询参数</title>
-    <updated>2021-01-18T20:52:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/GhwYDAd1_vSkpxuWonTyqg</id>
-    <link href="https://mp.weixin.qq.com/s/GhwYDAd1_vSkpxuWonTyqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

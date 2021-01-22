@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>知识小集 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:14:21+08:00</updated>
+  <updated>2021-01-22T12:17:53+08:00</updated>
   <subtitle>追踪移动大前端最新技术和行业发展，关注移动研发的架构、性能、底层探索、工程化和跨平台方案</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>带你实现完整的 iOS 视频弹幕系统</title>
+    <updated>2021-01-21T21:24:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/4pWrwmZBEbrca2uxIt3o6w</id>
+    <link href="https://mp.weixin.qq.com/s/4pWrwmZBEbrca2uxIt3o6w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用ccache让Xcode运行、打包飞起来</title>
     <updated>2021-01-20T23:16:09+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-10T21:26:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/q2UdQkgRyvksW6qnC1KF1w</id>
     <link href="https://mp.weixin.qq.com/s/q2UdQkgRyvksW6qnC1KF1w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>机器学习在APP启动耗时统计的应用</title>
-    <updated>2021-01-07T22:09:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/M1KiB-w_JksqHqIjZd96Gw</id>
-    <link href="https://mp.weixin.qq.com/s/M1KiB-w_JksqHqIjZd96Gw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

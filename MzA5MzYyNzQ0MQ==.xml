@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:21:03+08:00</updated>
+  <updated>2021-01-22T12:25:59+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>留言送书｜10 本 Java 技术书籍，微信十周年</title>
+    <updated>2021-01-21T12:06:39+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/qzpn7v5uJJD1JJnjvfDu7g</id>
+    <link href="https://mp.weixin.qq.com/s/qzpn7v5uJJD1JJnjvfDu7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开篇：免费开源的趣讲 ZooKeeper 教程（连载）</title>
     <updated>2021-01-20T19:54:35+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-10T14:10:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/DCZQj4CUUy-9bjRTXda6rg</id>
     <link href="https://mp.weixin.qq.com/s/DCZQj4CUUy-9bjRTXda6rg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>不想加班开发管理后台了，试试这个 Java 开源项目吧！</title>
-    <updated>2021-01-06T12:45:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/UrYzYAJtkc5aG8wDmZ3hOA</id>
-    <link href="https://mp.weixin.qq.com/s/UrYzYAJtkc5aG8wDmZ3hOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

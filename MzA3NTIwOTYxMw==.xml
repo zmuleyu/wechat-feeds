@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>博客园 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T23:34:26+08:00</updated>
+  <updated>2021-01-22T12:08:40+08:00</updated>
   <subtitle>知识改变世界： 我们不求多，只求精，每周一、三、五定期推送3篇园子内精华文章；文章类型不仅涉及精简的技术，丰富的经验，还有程序猿的生活感悟，愿在紧张工作之余，给您带来一定的启发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>从基本指令到背后原理，实现一个简单的 git</title>
+    <updated>2021-01-21T23:11:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/C14ZIrSMWjWJzF7vLbJAoQ</id>
+    <link href="https://mp.weixin.qq.com/s/C14ZIrSMWjWJzF7vLbJAoQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>坚果谢幕，手机圈再无罗永浩？</title>
+    <updated>2021-01-21T23:11:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/kRxNuLT2bsEmUTFwW6S5Yw</id>
+    <link href="https://mp.weixin.qq.com/s/kRxNuLT2bsEmUTFwW6S5Yw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>图解 | 原来这就是网络</title>
     <updated>2021-01-20T22:34:24+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-05T22:47:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-05:/s/cLk1kuygr3dNmZIesZ72kQ</id>
     <link href="https://mp.weixin.qq.com/s/cLk1kuygr3dNmZIesZ72kQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>神奇的 SQL 之 HAVING → 容易被轻视的主角</title>
-    <updated>2021-01-04T23:43:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/MsoBgOGMlyiDDdclkKmzOQ</id>
-    <link href="https://mp.weixin.qq.com/s/MsoBgOGMlyiDDdclkKmzOQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么所有的 APP 都在炫富？</title>
-    <updated>2021-01-04T23:43:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-04:/s/cfLgcT2JAMHKhJoHhElv_Q</id>
-    <link href="https://mp.weixin.qq.com/s/cfLgcT2JAMHKhJoHhElv_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

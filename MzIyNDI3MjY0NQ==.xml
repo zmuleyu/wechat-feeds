@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JavaKeeper | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:51:57+08:00</updated>
+  <updated>2021-01-22T12:20:01+08:00</updated>
   <subtitle>Java技术有限委员会</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>案例分享：只因在 update 语句中误用一个双引号，生产数据竟然都变成了 0</title>
+    <updated>2021-01-21T13:05:54+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/peCDkIRrS-xnxViawefpcw</id>
+    <link href="https://mp.weixin.qq.com/s/peCDkIRrS-xnxViawefpcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>有了这款IDEA插件，再也不怕沉迷代码不能自拔了</title>
     <updated>2021-01-19T13:23:28+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-20T15:13:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/AzNWyWGz5OfqhNTV9EE-Wg</id>
     <link href="https://mp.weixin.qq.com/s/AzNWyWGz5OfqhNTV9EE-Wg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>14 张图揭秘面试背后的真相</title>
-    <updated>2020-12-10T09:33:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-10:/s/nUhS59DwUtuabxwruugAFg</id>
-    <link href="https://mp.weixin.qq.com/s/nUhS59DwUtuabxwruugAFg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

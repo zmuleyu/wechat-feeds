@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>高可用架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:17:04+08:00</updated>
+  <updated>2021-01-22T12:21:25+08:00</updated>
   <subtitle>高可用架构公众号。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Redis为什么变慢了？Redis性能问题排查详述</title>
+    <updated>2021-01-22T09:57:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/gYQn9tdFK9tHJDoMWcU4cQ</id>
+    <link href="https://mp.weixin.qq.com/s/gYQn9tdFK9tHJDoMWcU4cQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>分布式微服务架构竟然可以这么玩？我知道的太晚了</title>
     <updated>2021-01-21T09:29:19+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-11T15:24:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/VATbwc5ZFeP7fCNvN493vQ</id>
     <link href="https://mp.weixin.qq.com/s/VATbwc5ZFeP7fCNvN493vQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何成为一名区块链开发者（二）</title>
-    <updated>2021-01-10T10:30:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/Ih7Rp8M8pL3cGJyItL9kTQ</id>
-    <link href="https://mp.weixin.qq.com/s/Ih7Rp8M8pL3cGJyItL9kTQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

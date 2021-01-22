@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T16:46:03+08:00</updated>
+  <updated>2021-01-22T12:12:43+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>与其疯狂读源码，不如自己造源码！</title>
+    <updated>2021-01-21T23:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/h3dMVjrcl-67cvplPbXSzA</id>
+    <link href="https://mp.weixin.qq.com/s/h3dMVjrcl-67cvplPbXSzA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>这家 C 轮创业公司也招 Go 语言工程师了</title>
+    <updated>2021-01-21T23:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/N_gXFumYGIWAZtZv8cutbg</id>
+    <link href="https://mp.weixin.qq.com/s/N_gXFumYGIWAZtZv8cutbg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Go 的 defer 的特性还是有必要要了解下的！！！</title>
+    <updated>2021-01-21T23:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/MKvbLaPBuhvbvhwoGFnxGw</id>
+    <link href="https://mp.weixin.qq.com/s/MKvbLaPBuhvbvhwoGFnxGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>对未初始化的的chan进行读写，会怎么样？为什么？</title>
+    <updated>2021-01-21T23:45:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/zqfGjzKzoDTCyGCPRyHBXg</id>
+    <link href="https://mp.weixin.qq.com/s/zqfGjzKzoDTCyGCPRyHBXg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何管理 Go 技术团队？</title>
     <updated>2021-01-21T15:33:29+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-17T11:31:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-17:/s/CLna0qjhis0FJ4bn_sKffA</id>
     <link href="https://mp.weixin.qq.com/s/CLna0qjhis0FJ4bn_sKffA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真香！使用 VSCode 进行 Go 远程开发调试</title>
-    <updated>2021-01-17T11:31:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/KK0R0GWuBUV7CRYcV2KOrg</id>
-    <link href="https://mp.weixin.qq.com/s/KK0R0GWuBUV7CRYcV2KOrg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021 年这 8 种编程语言最流行：Go 入榜原来是这个原因</title>
-    <updated>2021-01-16T00:20:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/ZPdQ4V89df2z0jdpNi_6eQ</id>
-    <link href="https://mp.weixin.qq.com/s/ZPdQ4V89df2z0jdpNi_6eQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go内存管理之代码的逃逸分析</title>
-    <updated>2021-01-16T00:20:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/aqOuxevlnZAeRzzVasT3Kg</id>
-    <link href="https://mp.weixin.qq.com/s/aqOuxevlnZAeRzzVasT3Kg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Go 和 ReactJS 构建聊天系统（五）：优化前端</title>
-    <updated>2021-01-16T00:20:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-16:/s/4-uQ_xjWTKAQTKa20lbK6w</id>
-    <link href="https://mp.weixin.qq.com/s/4-uQ_xjWTKAQTKa20lbK6w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

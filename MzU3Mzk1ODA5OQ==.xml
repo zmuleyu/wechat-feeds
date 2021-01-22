@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python小二 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T12:10:25+08:00</updated>
+  <updated>2021-01-22T12:17:58+08:00</updated>
   <subtitle>专注于Python基础入门教程、网络爬虫、自动化办公、数据可视化、数据分析、小游戏、Web开发以及PyCharm等常用开发工具分享。回复1024有惊喜。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Python实现王者农药自动刷金币</title>
+    <updated>2021-01-22T07:52:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/kEyRKTQzfZYD8pm1IxGR2g</id>
+    <link href="https://mp.weixin.qq.com/s/kEyRKTQzfZYD8pm1IxGR2g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>用Python爬取酷我音乐</title>
     <updated>2021-01-17T21:30:49+08:00</updated>
@@ -117,20 +124,6 @@
     <updated>2020-12-24T21:20:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/iAXjTbJ6GDRFIWcgITn7iQ</id>
     <link href="https://mp.weixin.qq.com/s/iAXjTbJ6GDRFIWcgITn7iQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>支付宝2020年账单来了，看看自己花了多少钱？</title>
-    <updated>2020-12-22T22:51:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/lCD6ArHmdYx53OaXuQVFxg</id>
-    <link href="https://mp.weixin.qq.com/s/lCD6ArHmdYx53OaXuQVFxg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python实现手势识别</title>
-    <updated>2020-12-22T22:51:34+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/bX_4Z2HPTuaGw4rJbvNWHQ</id>
-    <link href="https://mp.weixin.qq.com/s/bX_4Z2HPTuaGw4rJbvNWHQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

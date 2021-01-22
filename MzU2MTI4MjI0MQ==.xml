@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java笔记虾 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T11:57:18+08:00</updated>
+  <updated>2021-01-22T11:59:55+08:00</updated>
   <subtitle>专注于Java技术栈，推送 Spring全家桶，Dubbo，Zookeeper，Redis，Linux，多线程等相关技术知识，文章以解决实际问题为主，欢迎探讨。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>已跪，Java全能笔记爆火，分布式/微服务/性能调优全都有</title>
+    <updated>2021-01-21T19:36:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/K3iY_osrCZP8AkWVcYTPFA</id>
+    <link href="https://mp.weixin.qq.com/s/K3iY_osrCZP8AkWVcYTPFA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>微服务架构 统一安全认证设计与实践</title>
+    <updated>2021-01-21T19:36:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/zIWolC9WvArGrRCswGW0jw</id>
+    <link href="https://mp.weixin.qq.com/s/zIWolC9WvArGrRCswGW0jw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>程序员必备基础：如何安全传输存储用户密码？</title>
+    <updated>2021-01-21T19:36:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/7Bll-rMnj-dGalTa0Zihnw</id>
+    <link href="https://mp.weixin.qq.com/s/7Bll-rMnj-dGalTa0Zihnw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>爬虫把公司6台生产机器给爬挂掉了.....</title>
     <updated>2021-01-20T23:07:26+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-15T21:37:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/yO6HbUlNLw-P5D5Wg9tZ5g</id>
     <link href="https://mp.weixin.qq.com/s/yO6HbUlNLw-P5D5Wg9tZ5g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>基于Java开发一套完整的区块链系统（附源码）</title>
-    <updated>2021-01-15T21:37:51+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/aNVZRV2a0pgqRrzZW6FZgg</id>
-    <link href="https://mp.weixin.qq.com/s/aNVZRV2a0pgqRrzZW6FZgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 浅拷贝性能大比拼，对象拷贝哪家强？</title>
-    <updated>2021-01-14T22:10:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/vWUnxd38RYX5_2nmc0ch5A</id>
-    <link href="https://mp.weixin.qq.com/s/vWUnxd38RYX5_2nmc0ch5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SpringBoot项目，如何优雅的把接口参数中的空白值替换为null值？</title>
-    <updated>2021-01-14T22:10:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/g8v9ZRm3Lckk7J_ChljHwg</id>
-    <link href="https://mp.weixin.qq.com/s/g8v9ZRm3Lckk7J_ChljHwg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA架构日记 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T11:57:51+08:00</updated>
+  <updated>2021-01-22T11:58:57+08:00</updated>
   <subtitle>致力于高质量 技术文章原创分享，拒绝水文、软文。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>RSocket | 替代 REST 的不二选择</title>
+    <updated>2021-01-21T22:01:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/47yxrtTZlYzBomAieOdxOA</id>
+    <link href="https://mp.weixin.qq.com/s/47yxrtTZlYzBomAieOdxOA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【开源】我和 JAP（JA Plus） 故事</title>
     <updated>2021-01-19T21:15:25+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T08:23:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/Hx3MsQ13lTAw0S3-7709WQ</id>
     <link href="https://mp.weixin.qq.com/s/Hx3MsQ13lTAw0S3-7709WQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spring Boot 构建微服务实践</title>
-    <updated>2021-01-03T13:01:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/Dv8ZXfbojHzGhJwnA8oFzA</id>
-    <link href="https://mp.weixin.qq.com/s/Dv8ZXfbojHzGhJwnA8oFzA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

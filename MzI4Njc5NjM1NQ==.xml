@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java知音 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:46:47+08:00</updated>
+  <updated>2021-01-22T12:17:49+08:00</updated>
   <subtitle>专注于java。分享java基础、原理性知识、JavaWeb实战、spring全家桶、设计模式及面试资料、开源项目，助力开发者成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>搞 Java 的年薪 50w 是什么水平？</title>
+    <updated>2021-01-21T17:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/ZZ3CAwhR3XAH6FOmiLb00w</id>
+    <link href="https://mp.weixin.qq.com/s/ZZ3CAwhR3XAH6FOmiLb00w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java中的 Switch 是如何支持 String 的？为什么不支持 long？</title>
+    <updated>2021-01-21T17:09:24+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/BU4d_ThRFzDbDBjm-Ot0Eg</id>
+    <link href="https://mp.weixin.qq.com/s/BU4d_ThRFzDbDBjm-Ot0Eg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何做好一个百万并发量的项目？</title>
     <updated>2021-01-21T20:18:47+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-12T22:56:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/TltdQN1HJ3EWrqOUZIyObA</id>
     <link href="https://mp.weixin.qq.com/s/TltdQN1HJ3EWrqOUZIyObA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>万万没想到，JVM内存区域的面试题也可以问的这么难？</title>
-    <updated>2021-01-11T20:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/6JsZX_i9QZTXhSyxKybqmA</id>
-    <link href="https://mp.weixin.qq.com/s/6JsZX_i9QZTXhSyxKybqmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lombok 子类如何使用 @Builder</title>
-    <updated>2021-01-11T20:34:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/HPDtXqYHu_JhkTUyXFtXwA</id>
-    <link href="https://mp.weixin.qq.com/s/HPDtXqYHu_JhkTUyXFtXwA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

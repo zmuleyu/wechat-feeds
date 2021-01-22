@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNET技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:12:21+08:00</updated>
+  <updated>2021-01-22T12:15:25+08:00</updated>
   <subtitle>面向DotNET的线上技术社区。社区宗旨：以弘扬互联网精神为己任，致力于打造开放，分享，互利，共赢的互联网技术社区。打破闭塞，拉进你我，分享知识，共同进步，努力创造更加友善进取的.NET技术圈。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>2021年了，`IEnumerator`、`IEnumerable`接口还傻傻分不清楚？</title>
+    <updated>2021-01-21T20:02:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/m_LINCN8_sIbi2Yvgpmgrw</id>
+    <link href="https://mp.weixin.qq.com/s/m_LINCN8_sIbi2Yvgpmgrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>.NET斗鱼直播弹幕客户端(2021)</title>
     <updated>2021-01-20T20:02:28+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2021-01-10T21:11:23+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/KYCKoZW_cuxEPTA--S0NNg</id>
     <link href="https://mp.weixin.qq.com/s/KYCKoZW_cuxEPTA--S0NNg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>[C#] 使用 Excel 和 Math.Net 进行曲线拟合和数据预测</title>
-    <updated>2021-01-07T19:01:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/hpgxy_C2XaGFSIBN0xGBEQ</id>
-    <link href="https://mp.weixin.qq.com/s/hpgxy_C2XaGFSIBN0xGBEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

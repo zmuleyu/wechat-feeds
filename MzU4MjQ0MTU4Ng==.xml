@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>k8s技术圈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:44:22+08:00</updated>
+  <updated>2021-01-22T12:15:43+08:00</updated>
   <subtitle>专注容器、专注 kubernetes 技术......</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>大数据中台架构之道： PaaS + DaaS +DA 全域中台架构详解</title>
+    <updated>2021-01-22T10:04:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/QNSi_4q28Ktgv-fsO89f0A</id>
+    <link href="https://mp.weixin.qq.com/s/QNSi_4q28Ktgv-fsO89f0A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>申请内存时底层发生了什么？</title>
+    <updated>2021-01-22T10:04:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/7ewkJT5qpjl4LIsVmfOgxw</id>
+    <link href="https://mp.weixin.qq.com/s/7ewkJT5qpjl4LIsVmfOgxw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>[译] 利用 eBPF 支撑大规模 K8S Service</title>
     <updated>2021-01-21T19:23:58+08:00</updated>
@@ -89,13 +103,6 @@
     <updated>2021-01-11T20:44:10+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/1hPGCA3gwT7QJ62ro26ZJg</id>
     <link href="https://mp.weixin.qq.com/s/1hPGCA3gwT7QJ62ro26ZJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 存储原理解析</title>
-    <updated>2021-01-10T19:33:22+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/bkpZMbmKa6lBKg8Fc3Lkzw</id>
-    <link href="https://mp.weixin.qq.com/s/bkpZMbmKa6lBKg8Fc3Lkzw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

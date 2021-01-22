@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码海 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:08:13+08:00</updated>
+  <updated>2021-01-22T12:11:13+08:00</updated>
   <subtitle>一起进阶，一起牛逼！这里将会分享计算机底层、计算机网络、操作系统，Java、框架、源码等精品原创文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>华为宣布：免费培养2000名大数据开发者！</title>
+    <updated>2021-01-21T22:06:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/sL5t8mFN5JGz4LbK5o-wIg</id>
+    <link href="https://mp.weixin.qq.com/s/sL5t8mFN5JGz4LbK5o-wIg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Redis为什么变慢了？一文讲透如何排查Redis性能问题 | 万字长文</title>
+    <updated>2021-01-21T22:06:14+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/6kUvdNNQN05gd4dBDm8K1A</id>
+    <link href="https://mp.weixin.qq.com/s/6kUvdNNQN05gd4dBDm8K1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>头条二面: 详解一条 SQL 的执行过程|文末送书</title>
     <updated>2021-01-21T09:26:44+08:00</updated>
@@ -75,13 +89,6 @@
     <updated>2020-12-24T13:14:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/DaUg04DIppq6iWx7Kw7-CQ</id>
     <link href="https://mp.weixin.qq.com/s/DaUg04DIppq6iWx7Kw7-CQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>TCP:一个悲伤的故事</title>
-    <updated>2020-12-21T07:39:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-21:/s/42J9qKE7j4uB3Crxu9dtEA</id>
-    <link href="https://mp.weixin.qq.com/s/42J9qKE7j4uB3Crxu9dtEA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

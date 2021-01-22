@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T07:47:58+08:00</updated>
+  <updated>2021-01-22T12:13:45+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>图解 Git 工作原理</title>
+    <updated>2021-01-22T00:53:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/41z7RPUXSYenhfDqmaXInA</id>
+    <link href="https://mp.weixin.qq.com/s/41z7RPUXSYenhfDqmaXInA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Kubernetes管理员认证（CKA）培训 | 北京站</title>
+    <updated>2021-01-22T00:53:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/2s8Dl7CMA1tVn8bHoJQtCA</id>
+    <link href="https://mp.weixin.qq.com/s/2s8Dl7CMA1tVn8bHoJQtCA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Github Actions与Jenkins，该如何做出正确的选择？</title>
     <updated>2021-01-21T07:24:40+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T07:32:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/iyvylWLSj8P9_XSuwdgNYg</id>
     <link href="https://mp.weixin.qq.com/s/iyvylWLSj8P9_XSuwdgNYg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一篇文章快速上手 Nginx</title>
-    <updated>2021-01-12T07:34:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/flhGQs1cw_2WomKy5FFq1A</id>
-    <link href="https://mp.weixin.qq.com/s/flhGQs1cw_2WomKy5FFq1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 上海站</title>
-    <updated>2021-01-12T07:34:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/VMRKEYYArcq-wJxUJP-kVA</id>
-    <link href="https://mp.weixin.qq.com/s/VMRKEYYArcq-wJxUJP-kVA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

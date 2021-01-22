@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>飞雪无情 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:07:22+08:00</updated>
+  <updated>2021-01-22T12:10:22+08:00</updated>
   <subtitle>30万字Go系列笔记作者，知乎Go语言专题最高赞回答，专注于Go语言技术分享布道。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>我技术转管理之后，才真要秃头了......</title>
+    <updated>2021-01-22T00:05:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/CRKGNiaIMbWO35MqflPy9Q</id>
+    <link href="https://mp.weixin.qq.com/s/CRKGNiaIMbWO35MqflPy9Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>一文吃透 Go 语言解密之接口 interface</title>
+    <updated>2021-01-22T00:05:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/CNfksPFxDhPCe6b0mqbBAg</id>
+    <link href="https://mp.weixin.qq.com/s/CNfksPFxDhPCe6b0mqbBAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
     <updated>2021-01-20T23:49:57+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-12-25T22:09:35+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/lhfzae4L6NaIkWy7GDtzLg</id>
     <link href="https://mp.weixin.qq.com/s/lhfzae4L6NaIkWy7GDtzLg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>漫画 | 理解了TCP连接的实现以后，客户端的并发也爆发了！</title>
-    <updated>2020-12-25T22:09:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/IIoKAEPCrI70LHB45Sg_Xw</id>
-    <link href="https://mp.weixin.qq.com/s/IIoKAEPCrI70LHB45Sg_Xw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Golang最细节篇— struct{} 空结构体究竟是啥？</title>
-    <updated>2020-12-25T22:09:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/H7CNgB8NezKbLR-PiYwHtw</id>
-    <link href="https://mp.weixin.qq.com/s/H7CNgB8NezKbLR-PiYwHtw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

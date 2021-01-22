@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据分析与开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T13:57:00+08:00</updated>
+  <updated>2021-01-22T12:16:04+08:00</updated>
   <subtitle>「数据分析与开发」分享数据分析与开发相关技术文章、教程、工具</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析</title>
+    <updated>2021-01-22T10:19:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/8pcQ-Hbq5Wbpni9lI-8WCQ</id>
+    <link href="https://mp.weixin.qq.com/s/8pcQ-Hbq5Wbpni9lI-8WCQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>干货 ：时间序列特征工程</title>
+    <updated>2021-01-22T10:19:12+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/EWo1thWHVQR2yvYorAh27A</id>
+    <link href="https://mp.weixin.qq.com/s/EWo1thWHVQR2yvYorAh27A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>程序员中的败类！“健康码演示”App开发者被抓</title>
     <updated>2021-01-21T08:55:14+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-12T15:42:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/tuLU7GIX7vUqc7IHVYOeUg</id>
     <link href="https://mp.weixin.qq.com/s/tuLU7GIX7vUqc7IHVYOeUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>太强了！60 种可视化图表制作工具和使用场景（推荐收藏）</title>
-    <updated>2021-01-12T09:44:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/uXfq-GTz261B8xxs8k8FIA</id>
-    <link href="https://mp.weixin.qq.com/s/uXfq-GTz261B8xxs8k8FIA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>华为月薪11万招数据分析师，看到要求我傻眼了！</title>
-    <updated>2021-01-12T09:44:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/lOEGeDP-iI29UAPTTk_2WA</id>
-    <link href="https://mp.weixin.qq.com/s/lOEGeDP-iI29UAPTTk_2WA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

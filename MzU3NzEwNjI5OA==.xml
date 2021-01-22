@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码与远方 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:18:28+08:00</updated>
+  <updated>2021-01-22T12:22:29+08:00</updated>
   <subtitle>我们,除了代码还有诗和远方。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>iTerm 2 使用触发器和 expect 实现 ssh 自动登录</title>
+    <updated>2021-01-21T09:16:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/G4C2Jw9I0DzqQ7ghkFobAg</id>
+    <link href="https://mp.weixin.qq.com/s/G4C2Jw9I0DzqQ7ghkFobAg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在 Kubernetes 中部署高可用 Harbor 镜像仓库</title>
     <updated>2021-01-21T09:04:31+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-12T23:02:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/vOMZzTlruDpsIq8Epp5WKA</id>
     <link href="https://mp.weixin.qq.com/s/vOMZzTlruDpsIq8Epp5WKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>线程安全代码到底是怎么编写的？</title>
-    <updated>2021-01-11T22:05:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/IAQ-w8vGhAhsMmb5jLTX4g</id>
-    <link href="https://mp.weixin.qq.com/s/IAQ-w8vGhAhsMmb5jLTX4g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

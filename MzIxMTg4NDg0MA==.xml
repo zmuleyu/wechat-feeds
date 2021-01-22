@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>测试圈TC | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-15T12:14:08+08:00</updated>
+  <updated>2021-01-22T12:24:11+08:00</updated>
   <subtitle>测试圈子里的新鲜事，测试人员竞争力度量及薪资分析，测试人员求职面试技巧，原创精品音视频，尽在测试圈TestCircle</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>自己动手打造性能监控平台</title>
+    <updated>2021-01-22T11:53:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/z7rSkFJWKyo_WFtOgwfIsw</id>
+    <link href="https://mp.weixin.qq.com/s/z7rSkFJWKyo_WFtOgwfIsw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>盘点：2021年最值得学习的测试技术</title>
+    <updated>2021-01-22T11:53:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/-7qt6NH9KGiwGvB5j1zu_w</id>
+    <link href="https://mp.weixin.qq.com/s/-7qt6NH9KGiwGvB5j1zu_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021年的第一个flag--cypress实战教程</title>
     <updated>2021-01-15T00:38:34+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2020-11-20T11:48:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/JEJKwO8uevJKz3OSKC1keA</id>
     <link href="https://mp.weixin.qq.com/s/JEJKwO8uevJKz3OSKC1keA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>盘点2021年最值得学习的自动化测试框架</title>
-    <updated>2020-11-13T15:14:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/5CjcdpbqccDxleguHVFMlQ</id>
-    <link href="https://mp.weixin.qq.com/s/5CjcdpbqccDxleguHVFMlQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>通过docker安装MySQL</title>
-    <updated>2020-11-13T15:14:20+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-13:/s/3h9mwUgpZgLdYVQYHN8xVw</id>
-    <link href="https://mp.weixin.qq.com/s/3h9mwUgpZgLdYVQYHN8xVw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

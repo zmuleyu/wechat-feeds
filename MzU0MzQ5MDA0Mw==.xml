@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>朱小厮的博客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:20:07+08:00</updated>
+  <updated>2021-01-22T12:23:59+08:00</updated>
   <subtitle>著有畅销书：《深入理解Kafka》和《RabbitMQ实战指南》。公众号主要用来分享Java技术 栈、Golang技术栈、消息中间件（如Kafka、RabbitMQ）、存储、大数据以及通用型技术架构等相关的技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>6年前的Dubbo，2年前的SpringCloud，都输给了这个架构！</title>
+    <updated>2021-01-21T21:49:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/3yk2DWx9Udlxw4gHKNo5PA</id>
+    <link href="https://mp.weixin.qq.com/s/3yk2DWx9Udlxw4gHKNo5PA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mybatis-plus常用API全套教程，看完没有不懂的</title>
+    <updated>2021-01-21T21:49:00+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/9cO0dC8-kXSig7SDvFVoBg</id>
+    <link href="https://mp.weixin.qq.com/s/9cO0dC8-kXSig7SDvFVoBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>万级 K8S 集群背后，etcd 如何保持稳定性？</title>
     <updated>2021-01-20T20:58:20+08:00</updated>
@@ -40,13 +54,6 @@
     <updated>2021-01-18T19:37:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/WBdhNwz0kbKkFj6DP_F-Sw</id>
     <link href="https://mp.weixin.qq.com/s/WBdhNwz0kbKkFj6DP_F-Sw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>彻夜怒肝！Spring Boot+Sentinel+Nacos高并发已撸完，快要裂开了！</title>
-    <updated>2021-01-17T10:56:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/aqSxIw_p7MUXi7P56gvyLQ</id>
-    <link href="https://mp.weixin.qq.com/s/aqSxIw_p7MUXi7P56gvyLQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -89,13 +96,6 @@
     <updated>2021-01-13T14:35:43+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZpqMN7og73IVC16WNF2G5A</id>
     <link href="https://mp.weixin.qq.com/s/ZpqMN7og73IVC16WNF2G5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>醍醐灌顶 | 我们谈论的Exactly once到底是什么？</title>
-    <updated>2021-01-12T11:47:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/D9-sjVk5WNsuR-4e4eX_eA</id>
-    <link href="https://mp.weixin.qq.com/s/D9-sjVk5WNsuR-4e4eX_eA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

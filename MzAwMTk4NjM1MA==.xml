@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA日知录 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T14:03:47+08:00</updated>
+  <updated>2021-01-22T12:23:11+08:00</updated>
   <subtitle>写代码的架构师，做架构的程序员！  实战、源码、数据库、架构...只要你来，你想了解的这里都有！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何优雅的统计代码耗时</title>
+    <updated>2021-01-22T09:36:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/RLo6UxwLuNU1QieZqAzcSA</id>
+    <link href="https://mp.weixin.qq.com/s/RLo6UxwLuNU1QieZqAzcSA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Redis 可视化工具，你用的什么？</title>
     <updated>2021-01-21T12:31:22+08:00</updated>
@@ -96,13 +103,6 @@
     <updated>2021-01-13T08:42:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/lS2HZYZJ_6qbKIfM8HbdOw</id>
     <link href="https://mp.weixin.qq.com/s/lS2HZYZJ_6qbKIfM8HbdOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>MySQL的索引结构为什么使用B+树？</title>
-    <updated>2021-01-12T09:31:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/xoRVpi_PtZtEqst-T9SGlg</id>
-    <link href="https://mp.weixin.qq.com/s/xoRVpi_PtZtEqst-T9SGlg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

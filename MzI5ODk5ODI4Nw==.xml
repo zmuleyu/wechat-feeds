@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:19:34+08:00</updated>
+  <updated>2021-01-22T12:24:06+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Kubernetes 实践：勿让 Docker Volume 引发 Terminating Pod</title>
+    <updated>2021-01-22T10:56:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/f53a1PHDI9i1ZKmiv5kZvw</id>
+    <link href="https://mp.weixin.qq.com/s/f53a1PHDI9i1ZKmiv5kZvw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>云原生AI平台的加速与实践</title>
+    <updated>2021-01-22T10:56:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/RZPTqO9OTQhmskp_MdezEg</id>
+    <link href="https://mp.weixin.qq.com/s/RZPTqO9OTQhmskp_MdezEg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>[译] 利用 eBPF 支撑大规模 K8s Service</title>
+    <updated>2021-01-22T10:56:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/lnFFFS_X5-NWAhIDf4ERAA</id>
+    <link href="https://mp.weixin.qq.com/s/lnFFFS_X5-NWAhIDf4ERAA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Argo 的通知功能</title>
+    <updated>2021-01-22T10:56:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/9y3orMpPjmsuDAtYCwRh1A</id>
+    <link href="https://mp.weixin.qq.com/s/9y3orMpPjmsuDAtYCwRh1A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Artifact Hub 的容器镜像扫描和安全报告</title>
+    <updated>2021-01-22T10:56:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/YVXLSGnHHpr6z2QmXaUiyQ</id>
+    <link href="https://mp.weixin.qq.com/s/YVXLSGnHHpr6z2QmXaUiyQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>LF开源软件大学技术公开课 | 云原生的安全实战</title>
+    <updated>2021-01-22T10:56:51+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/w3K-qTS5WEi4QWexWB9P0g</id>
+    <link href="https://mp.weixin.qq.com/s/w3K-qTS5WEi4QWexWB9P0g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LFAPAC 新年新计划 - Hyperledger + 计划正式启动！</title>
     <updated>2021-01-21T11:07:00+08:00</updated>
@@ -103,48 +145,6 @@
     <updated>2021-01-18T10:49:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/yCn1pbJe0crD71nzwKXiVg</id>
     <link href="https://mp.weixin.qq.com/s/yCn1pbJe0crD71nzwKXiVg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>用KubeFATE在K8s上部署联邦学习FATE v1.5</title>
-    <updated>2021-01-18T10:49:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/EAUlhXa3e_iky7pa2hL65w</id>
-    <link href="https://mp.weixin.qq.com/s/EAUlhXa3e_iky7pa2hL65w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>简单示例说明 kube-proxy 如何与 iptables 配合使用</title>
-    <updated>2021-01-18T10:49:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/l0uBMezdTSG29Klrw2qD0Q</id>
-    <link href="https://mp.weixin.qq.com/s/l0uBMezdTSG29Klrw2qD0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CNCF Weekly 21-2</title>
-    <updated>2021-01-15T10:59:47+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/AXSOaLIjFoXDLQxR0NutHQ</id>
-    <link href="https://mp.weixin.qq.com/s/AXSOaLIjFoXDLQxR0NutHQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>KubeEdge应用案例 |助力边缘云生态共建，加速云原生落地创新</title>
-    <updated>2021-01-15T10:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/wdSp6jyEm1QMFP6uR9FsMw</id>
-    <link href="https://mp.weixin.qq.com/s/wdSp6jyEm1QMFP6uR9FsMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>蚂蚁Service Mesh大规模落地实践与展望</title>
-    <updated>2021-01-15T10:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/FZHCuc4RGetWQAIzVwOeJA</id>
-    <link href="https://mp.weixin.qq.com/s/FZHCuc4RGetWQAIzVwOeJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「我的工作是制造混沌」，我与 Chaos Mesh®  的故事</title>
-    <updated>2021-01-15T10:33:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/exUXOwLz_tJynUh_reNPNA</id>
-    <link href="https://mp.weixin.qq.com/s/exUXOwLz_tJynUh_reNPNA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

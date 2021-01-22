@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王Plus | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T11:58:01+08:00</updated>
+  <updated>2021-01-22T11:59:01+08:00</updated>
   <subtitle>一个二十年的老全栈的技术碎碎念</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 C# 8 中使用 Index 和 Range</title>
+    <updated>2021-01-21T21:57:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/a7v8UJa7hydwb1IGQ54vvA</id>
+    <link href="https://mp.weixin.qq.com/s/a7v8UJa7hydwb1IGQ54vvA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 中的动态类型</title>
+    <updated>2021-01-21T21:57:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/cAHlQe7TYh7oMxm5vpndLg</id>
+    <link href="https://mp.weixin.qq.com/s/cAHlQe7TYh7oMxm5vpndLg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>C# 三种方式实现Socket数据接收(经典)</title>
+    <updated>2021-01-21T21:57:32+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/n-xFwhpBCokNa-bjClFKIQ</id>
+    <link href="https://mp.weixin.qq.com/s/n-xFwhpBCokNa-bjClFKIQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>开发进阶：Dotnet Core多路径异步终止</title>
     <updated>2021-01-19T23:21:59+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-07T21:44:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/tqkJ4Wi1diShSc3T-S0EmA</id>
     <link href="https://mp.weixin.qq.com/s/tqkJ4Wi1diShSc3T-S0EmA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CentOS7 中使用 Supervisor 部署 dotNET Core 程序</title>
-    <updated>2021-01-07T21:44:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/0bWelbF7zz1j4TMmRLLdkw</id>
-    <link href="https://mp.weixin.qq.com/s/0bWelbF7zz1j4TMmRLLdkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 ASP.NET Core 中 使用 功能开关</title>
-    <updated>2021-01-05T22:43:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/tbFpo6caqXbx3heNnV8zuw</id>
-    <link href="https://mp.weixin.qq.com/s/tbFpo6caqXbx3heNnV8zuw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【翻译】C#表达式中的动态查询</title>
-    <updated>2021-01-05T22:43:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-05:/s/GWitqKP95YhrYIH2oOLf0A</id>
-    <link href="https://mp.weixin.qq.com/s/GWitqKP95YhrYIH2oOLf0A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
