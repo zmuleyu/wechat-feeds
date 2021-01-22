@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TencentServerless | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:37:21+08:00</updated>
+  <updated>2021-01-22T16:40:26+08:00</updated>
   <subtitle>使用 Serverless 上云，只需三步！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>可视化编排云服务，工作流 ASW 开始公测！</title>
+    <updated>2021-01-22T15:26:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/g4EHshNe3RoA_JBvMWJpzg</id>
+    <link href="https://mp.weixin.qq.com/s/g4EHshNe3RoA_JBvMWJpzg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>更简洁、更快速！腾讯云 Serverless 云函数创建流程再次升级！</title>
     <updated>2021-01-21T16:45:36+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-08T19:31:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-08:/s/k0D8NoAFpSUvzYm052p6Cw</id>
     <link href="https://mp.weixin.qq.com/s/k0D8NoAFpSUvzYm052p6Cw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国内首款 Serverless MySQL 数据库重磅发布，免费试用！</title>
-    <updated>2021-01-07T17:47:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/lUHHsF_fDAccpuavvkICvw</id>
-    <link href="https://mp.weixin.qq.com/s/lUHHsF_fDAccpuavvkICvw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python之美 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-07T11:46:11+08:00</updated>
+  <updated>2021-01-22T16:32:25+08:00</updated>
   <subtitle>《Python web开发实战》作者的公众号。发现Python之美，主要包含Web开发、Python进阶、架构设计、Python开发招聘信息等方面内容。 不接任何形式的广告，请绕行！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>近况</title>
+    <updated>2021-01-22T15:34:27+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/7tte4-QvAMswa-PPxKto9w</id>
+    <link href="https://mp.weixin.qq.com/s/7tte4-QvAMswa-PPxKto9w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>博客十年</title>
     <updated>2020-11-01T21:20:27+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-01-10T10:10:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-01-10:/s/KALHjtg8Dekf5c498DLIOg</id>
     <link href="https://mp.weixin.qq.com/s/KALHjtg8Dekf5c498DLIOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>类型提示(mypy、monkeytype和pyannotate)</title>
-    <updated>2020-01-07T18:18:21+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-01-07:/s/7CekP8EoDWIZFLtq3zvMQg</id>
-    <link href="https://mp.weixin.qq.com/s/7CekP8EoDWIZFLtq3zvMQg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

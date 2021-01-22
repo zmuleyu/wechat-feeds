@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>EDN电子技术设计 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:48:47+08:00</updated>
+  <updated>2021-01-22T16:52:46+08:00</updated>
   <subtitle>EDN China电子技术设计为电子设计工程师和设计经理人提供前沿深度的电子资讯、设计实例应用方案。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>5nm芯片是怎样集体“翻车”的，华为能否借此翻身？</title>
+    <updated>2021-01-22T16:25:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/cTjCzi8jYSxzZRVOkUZPcw</id>
+    <link href="https://mp.weixin.qq.com/s/cTjCzi8jYSxzZRVOkUZPcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>光刻机巨头ASML 2020年营收140亿欧元，净利润率能超过苹果吗？</title>
+    <updated>2021-01-22T16:25:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/V134x7wgs69p1VvuSPUIlA</id>
+    <link href="https://mp.weixin.qq.com/s/V134x7wgs69p1VvuSPUIlA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>书本里不会讲的C语言关键词volatile用法</title>
+    <updated>2021-01-22T16:25:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/awVieNRxw0HItfE2DwJv3w</id>
+    <link href="https://mp.weixin.qq.com/s/awVieNRxw0HItfE2DwJv3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>电容放电的威力！</title>
+    <updated>2021-01-22T16:25:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/gErKWpKS5qy_Ilhn_rpv_w</id>
+    <link href="https://mp.weixin.qq.com/s/gErKWpKS5qy_Ilhn_rpv_w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>教程：从零开始学单片机</title>
+    <updated>2021-01-22T16:25:17+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/fm0t1fjx0doeN3MvuaLbGA</id>
+    <link href="https://mp.weixin.qq.com/s/fm0t1fjx0doeN3MvuaLbGA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>在芯片PP上，Intel和高通为什么都拼不过苹果M1？</title>
     <updated>2021-01-21T17:42:58+08:00</updated>
@@ -110,41 +145,6 @@
     <updated>2021-01-19T12:18:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-19:/s/cDxS5hhiE_iukWsRHHWQzA</id>
     <link href="https://mp.weixin.qq.com/s/cDxS5hhiE_iukWsRHHWQzA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为什么要只使用与非门或或非门实现逻辑函数？</title>
-    <updated>2021-01-19T12:18:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/VOrXj10oL558vdeaHMa4lg</id>
-    <link href="https://mp.weixin.qq.com/s/VOrXj10oL558vdeaHMa4lg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>STM32库开发实战指南</title>
-    <updated>2021-01-19T12:18:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/YGl6xc5V5lCRML8mZCZwug</id>
-    <link href="https://mp.weixin.qq.com/s/YGl6xc5V5lCRML8mZCZwug" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国产光刻机今年要下线了？28nm or 14nm or 7nm？</title>
-    <updated>2021-01-18T14:26:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/cSfAvcoVO-CxEU1OJOKAKA</id>
-    <link href="https://mp.weixin.qq.com/s/cSfAvcoVO-CxEU1OJOKAKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>“光子替代电子”颠覆半导体行业：盘点硅光市场的玩家们</title>
-    <updated>2021-01-18T14:26:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/OCvy8Yqn7u01qGd2QTUwWw</id>
-    <link href="https://mp.weixin.qq.com/s/OCvy8Yqn7u01qGd2QTUwWw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>技术老兵：谈几个电容最经典问题</title>
-    <updated>2021-01-18T14:26:18+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/A5us4RP3qoUx2MSjKcyrEQ</id>
-    <link href="https://mp.weixin.qq.com/s/A5us4RP3qoUx2MSjKcyrEQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Android技术之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:21:50+08:00</updated>
+  <updated>2021-01-22T16:57:12+08:00</updated>
   <subtitle>主要分享Android相关技术文章、移动互联网的相关产品和资讯。关注你将学习到更多基础以及框架相关的知识，为您的工作助力！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Android Studio 自定义Gradle Plugin</title>
+    <updated>2021-01-22T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/D2VkU0-zezo2hMPIMmn6mQ</id>
+    <link href="https://mp.weixin.qq.com/s/D2VkU0-zezo2hMPIMmn6mQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gradle 插件 + ASM 实战 - 监控图片加载告警</title>
+    <updated>2021-01-22T14:19:18+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/pjGclVpgtyiZ-clP6W3lOQ</id>
+    <link href="https://mp.weixin.qq.com/s/pjGclVpgtyiZ-clP6W3lOQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>2021 最新Android知识体系</title>
     <updated>2021-01-21T08:47:36+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2020-12-23T08:24:28+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-23:/s/4alhDz-9TOhgwdVnhrbSmg</id>
     <link href="https://mp.weixin.qq.com/s/4alhDz-9TOhgwdVnhrbSmg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>天真！这简历一看就是包装过的！</title>
-    <updated>2020-12-22T08:19:17+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-22:/s/fKuK1nsVg0-jVfyGNHk_bA</id>
-    <link href="https://mp.weixin.qq.com/s/fKuK1nsVg0-jVfyGNHk_bA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

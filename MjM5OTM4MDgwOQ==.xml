@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>1024译站 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:28:50+08:00</updated>
+  <updated>2021-01-22T16:55:36+08:00</updated>
   <subtitle>茶余饭后翻一翻，说不定又涨姿势了呢？1024 的世界，程序员最懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>很多人知道 WebSocket，但是可能没听过 Server-Sent Events</title>
+    <updated>2021-01-22T14:54:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/wVqXfA-Zb3lEd2kmlqTs2A</id>
+    <link href="https://mp.weixin.qq.com/s/wVqXfA-Zb3lEd2kmlqTs2A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>限时免费领取 24 张高清 IT 技能图谱，稳了~</title>
     <updated>2021-01-19T21:34:49+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-04T13:19:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/WRrq9xPTErhzO41tBBOoFA</id>
     <link href="https://mp.weixin.qq.com/s/WRrq9xPTErhzO41tBBOoFA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>ES2020 系列：可选链 &#34;?.&#34; 解决了什么问题？</title>
-    <updated>2021-01-02T17:23:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-02:/s/QNSwE6TH8JXjVUvWe9qmow</id>
-    <link href="https://mp.weixin.qq.com/s/QNSwE6TH8JXjVUvWe9qmow" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

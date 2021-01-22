@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JAVA葵花宝典 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T20:36:38+08:00</updated>
+  <updated>2021-01-22T16:39:53+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发，包括多线程、JVM、Spring Cloud，让java不再难懂。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>IntelliJ IDEA 最新15款 神级超级牛逼插件推荐（自用，真的超级牛逼）</title>
+    <updated>2021-01-22T16:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/JZEXicRVEGalLjclr81hZg</id>
+    <link href="https://mp.weixin.qq.com/s/JZEXicRVEGalLjclr81hZg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hutool Java 工具类库导出 Excel，超级简单！</title>
+    <updated>2021-01-22T16:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/q1xFaSfWUPuffGGQpM-blg</id>
+    <link href="https://mp.weixin.qq.com/s/q1xFaSfWUPuffGGQpM-blg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>图解ElasticSearch 搜索原理</title>
+    <updated>2021-01-22T16:00:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/sejO8-g-72-Scix7z0xFGg</id>
+    <link href="https://mp.weixin.qq.com/s/sejO8-g-72-Scix7z0xFGg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一条失去条件的动态 SQL，到手的年终奖飞了</title>
     <updated>2021-01-21T16:50:23+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-14T21:26:16+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/jyflWGLhTYJqr_mVQDTICg</id>
     <link href="https://mp.weixin.qq.com/s/jyflWGLhTYJqr_mVQDTICg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何优雅的统计代码耗时，快速知道你的程序慢在哪里！</title>
-    <updated>2021-01-14T21:26:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/_-yAWirjsNkQ88V3HzIAXg</id>
-    <link href="https://mp.weixin.qq.com/s/_-yAWirjsNkQ88V3HzIAXg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>常用的Git命令清单</title>
-    <updated>2021-01-14T21:26:16+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/30-sa__TDfy4CrmtOoDZJA</id>
-    <link href="https://mp.weixin.qq.com/s/30-sa__TDfy4CrmtOoDZJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>10 分钟使用 Spring Boot + Vue + Antd + US3 搭建自己的图床</title>
-    <updated>2021-01-14T10:57:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/r9TWlBGjeiHPRq0ha0Ui1A</id>
-    <link href="https://mp.weixin.qq.com/s/r9TWlBGjeiHPRq0ha0Ui1A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

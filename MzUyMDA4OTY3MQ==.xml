@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:25:38+08:00</updated>
+  <updated>2021-01-22T16:55:53+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -64,13 +64,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>SQL、NoSQL 到 NewSQL ，数据库到底选啥？</title>
-    <updated>2021-01-18T17:44:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/DuNApsrl53EU4Ttyxkck9w</id>
-    <link href="https://mp.weixin.qq.com/s/DuNApsrl53EU4Ttyxkck9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>醍醐灌顶 | 我们谈论的Exactly once到底是什么？</title>
     <updated>2021-01-17T12:06:02+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-17:/s/JN4t8vX19zqAQyjcEgmfvg</id>
@@ -110,6 +103,13 @@
     <updated>2021-01-13T12:12:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZuVkZmjEBxMY0aXCNFbrKA</id>
     <link href="https://mp.weixin.qq.com/s/ZuVkZmjEBxMY0aXCNFbrKA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>字节跳动ClickHouse在用户增长分析场景的应用</title>
+    <updated>2021-01-11T22:34:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ac8LgqJ-e09VLelj9Y7x9g</id>
+    <link href="https://mp.weixin.qq.com/s/ac8LgqJ-e09VLelj9Y7x9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

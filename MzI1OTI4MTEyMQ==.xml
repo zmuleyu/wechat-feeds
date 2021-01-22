@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>红宸笑 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T11:56:04+08:00</updated>
+  <updated>2021-01-22T16:32:12+08:00</updated>
   <subtitle>技术，生活，娱乐</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>c++11-17 模板核心知识（十四）—— 解析模板之依赖型模板名称</title>
+    <updated>2021-01-22T16:05:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/7uUf1vqUtxNgWdTF3FC2_Q</id>
+    <link href="https://mp.weixin.qq.com/s/7uUf1vqUtxNgWdTF3FC2_Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>c++11-17 模板核心知识（十三）—— 名称查找与ADL</title>
     <updated>2021-01-17T11:31:08+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-25T18:00:26+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-25:/s/mueo8jsyBBslg7f6eVeCUQ</id>
     <link href="https://mp.weixin.qq.com/s/mueo8jsyBBslg7f6eVeCUQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>c++11-17 模板核心知识（四）—— 可变参数模板 Variadic Template</title>
-    <updated>2020-12-24T10:47:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-24:/s/ypSNJlv57bzOWFNkxdrJ_g</id>
-    <link href="https://mp.weixin.qq.com/s/ypSNJlv57bzOWFNkxdrJ_g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

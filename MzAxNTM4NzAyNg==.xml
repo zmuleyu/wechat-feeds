@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员内点事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T20:42:03+08:00</updated>
+  <updated>2021-01-22T16:48:03+08:00</updated>
   <subtitle>专注于系统架构实战，面试干货分享，Java小白的入门布道，程序员内点事这都有</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里面试官：接口的幂等性怎么设计？</title>
+    <updated>2021-01-22T16:37:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/MopxNjZDM1MCLODxMCOy8w</id>
+    <link href="https://mp.weixin.qq.com/s/MopxNjZDM1MCLODxMCOy8w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>一个 Java 小白到大神的心路历程（两万字总结）</title>
     <updated>2021-01-12T18:06:39+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-02T12:09:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-02:/s/02fgxkMYZl7jdg9NGAP5YA</id>
     <link href="https://mp.weixin.qq.com/s/02fgxkMYZl7jdg9NGAP5YA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>对比 5 种分布式事务方案，还是宠幸了阿里的 Seata（原理 + 实战）</title>
-    <updated>2020-11-26T12:53:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-26:/s/hiiVNElHucAr5SnAWG4BIw</id>
-    <link href="https://mp.weixin.qq.com/s/hiiVNElHucAr5SnAWG4BIw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
