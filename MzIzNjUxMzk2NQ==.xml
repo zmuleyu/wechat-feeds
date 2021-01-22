@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:00:31+08:00</updated>
+  <updated>2021-01-22T13:46:46+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>AWS 和 Elastic 吵起来了：鄙视改开源协议，我们要做真正开源的Elasticsearch！</title>
+    <updated>2021-01-22T12:48:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/nigyJSdx7Q8LLAmbrdxyKw</id>
+    <link href="https://mp.weixin.qq.com/s/nigyJSdx7Q8LLAmbrdxyKw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Postman 如何处理庞大难以管理的网关服务</title>
+    <updated>2021-01-22T12:48:41+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/BVtP9TRXA5dB-kyoyZitiA</id>
+    <link href="https://mp.weixin.qq.com/s/BVtP9TRXA5dB-kyoyZitiA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MongoDB最常见的10个说法，全都错了！</title>
     <updated>2021-01-21T11:38:27+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T11:38:19+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/78JjQcQiomwC8cfz0RIU9g</id>
     <link href="https://mp.weixin.qq.com/s/78JjQcQiomwC8cfz0RIU9g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>20亿条记录的MySQL大表，我们这样迁移的</title>
-    <updated>2021-01-12T11:38:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/ajROgOfbmdPDM07f5wx4SQ</id>
-    <link href="https://mp.weixin.qq.com/s/ajROgOfbmdPDM07f5wx4SQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>避免不完全的云原生</title>
-    <updated>2021-01-12T11:38:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/OwZ1Kffb9kOwwT4CR-S2QQ</id>
-    <link href="https://mp.weixin.qq.com/s/OwZ1Kffb9kOwwT4CR-S2QQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

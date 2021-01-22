@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构之家 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T14:08:15+08:00</updated>
+  <updated>2021-01-22T14:08:59+08:00</updated>
   <subtitle>ITFLY8架构之家，专注于架构知识分享交流，涵盖项目管理和产品设计。包括大型分布式网站架构（高性能，高可用，缓存，消息队列...），设计模式，架构模式，大数据，项目管理(SCRUM,PMP,Prince2)，产品设计等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>腾讯万字Code Review规范</title>
+    <updated>2021-01-21T21:17:34+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/9klzdFbXPQ74l-L0X4L5lQ</id>
+    <link href="https://mp.weixin.qq.com/s/9klzdFbXPQ74l-L0X4L5lQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>微服务 7 大顶级架构设计思维模型分享</title>
     <updated>2021-01-20T21:43:18+08:00</updated>
@@ -82,13 +89,6 @@
     <updated>2020-12-20T20:53:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-20:/s/rYaXMM4dH002ZlYOf78cTg</id>
     <link href="https://mp.weixin.qq.com/s/rYaXMM4dH002ZlYOf78cTg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>关于数据中台的深度思考与总结</title>
-    <updated>2020-12-17T21:31:39+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-17:/s/-B5GWu1soHmiOdqQeqSc8Q</id>
-    <link href="https://mp.weixin.qq.com/s/-B5GWu1soHmiOdqQeqSc8Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

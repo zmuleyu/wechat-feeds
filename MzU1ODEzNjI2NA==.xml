@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>滴滴技术 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T02:40:39+08:00</updated>
+  <updated>2021-01-22T14:08:40+08:00</updated>
   <subtitle>滴滴出行官方技术号</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>HDFS EC在滴滴的实践</title>
+    <updated>2021-01-22T11:10:07+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/AW0MmiBxTlkweJFaluu4vQ</id>
+    <link href="https://mp.weixin.qq.com/s/AW0MmiBxTlkweJFaluu4vQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我们努力的目标，就是不要被看见</title>
     <updated>2021-01-21T23:59:28+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2020-12-29T18:09:37+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-29:/s/ZvW1HZo8Qg39jYiCU-8IdA</id>
     <link href="https://mp.weixin.qq.com/s/ZvW1HZo8Qg39jYiCU-8IdA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>滴滴自动驾驶 | 基础架构如何以终为始，稳定先行？</title>
-    <updated>2020-12-25T16:36:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/6CTKIdqupCPouyRHdBM-EQ</id>
-    <link href="https://mp.weixin.qq.com/s/6CTKIdqupCPouyRHdBM-EQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>有奖调研 | 评选滴滴开源项目，赢百元打车卡</title>
-    <updated>2020-12-25T16:36:56+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-25:/s/ZId8n9Y3sWO16h52lmp8_Q</id>
-    <link href="https://mp.weixin.qq.com/s/ZId8n9Y3sWO16h52lmp8_Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

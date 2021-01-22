@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序员书单 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:26:52+08:00</updated>
+  <updated>2021-01-22T14:07:48+08:00</updated>
   <subtitle>一个为程序员推荐好书的公众号。专注于分享Java、Python、大数据、人工智能等多个领域的优质学习资源，每天为你pick精品书单，优质学习资源和软件工具。关注前沿技术与行业资讯，更关注你的自我提升。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>通过看书学源码？别闹了！！！</title>
+    <updated>2021-01-22T12:28:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/irSlIX6PPap_hRocnlqIJg</id>
+    <link href="https://mp.weixin.qq.com/s/irSlIX6PPap_hRocnlqIJg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>职场书单 | 工作后，你有多久没完整地看过一本书了？</title>
+    <updated>2021-01-22T12:28:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/6e_hm-tShTWirLg8khDA5Q</id>
+    <link href="https://mp.weixin.qq.com/s/6e_hm-tShTWirLg8khDA5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>为什么要有 AtomicReference ？</title>
+    <updated>2021-01-22T12:28:08+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/EeZcHvhFn5qwNMzfH3BhdQ</id>
+    <link href="https://mp.weixin.qq.com/s/EeZcHvhFn5qwNMzfH3BhdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【简历加分】hexo框架搭建个人博客站点，手把手教学。</title>
     <updated>2021-01-21T11:59:01+08:00</updated>
@@ -124,27 +145,6 @@
     <updated>2021-01-15T11:59:00+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/T7OVGroOG-q_-GE0NoU6Mw</id>
     <link href="https://mp.weixin.qq.com/s/T7OVGroOG-q_-GE0NoU6Mw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>给学妹的 Java 学习路线</title>
-    <updated>2021-01-15T11:59:00+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/0qphFNY32TBdN_bYuxsLOg</id>
-    <link href="https://mp.weixin.qq.com/s/0qphFNY32TBdN_bYuxsLOg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>太敏感，2h删！！！</title>
-    <updated>2021-01-14T11:51:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/JJYDCIROZsK1fK67X7t9ig</id>
-    <link href="https://mp.weixin.qq.com/s/JJYDCIROZsK1fK67X7t9ig" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>书单 | 怎样学习量化研究方法</title>
-    <updated>2021-01-14T11:51:05+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/6-CgNFedEp1GZe_8OpWLTA</id>
-    <link href="https://mp.weixin.qq.com/s/6-CgNFedEp1GZe_8OpWLTA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

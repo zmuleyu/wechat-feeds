@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>testerzhang | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-18T02:21:16+08:00</updated>
+  <updated>2021-01-22T13:47:51+08:00</updated>
   <subtitle>十年测试，喜欢Python，爱分享技术</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>谈谈JavaScript接口转换成Python接口</title>
+    <updated>2021-01-22T13:09:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/FR2gGnzTVQVCkfYG14NzWA</id>
+    <link href="https://mp.weixin.qq.com/s/FR2gGnzTVQVCkfYG14NzWA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Mac系统搭建Flutter开发环境</title>
     <updated>2021-01-17T23:41:42+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-11-24T22:00:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-24:/s/Q7IhfjDN31DcKEfcho12DA</id>
     <link href="https://mp.weixin.qq.com/s/Q7IhfjDN31DcKEfcho12DA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CentOS7安装最新版Redis6.0.9</title>
-    <updated>2020-11-22T23:00:55+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-22:/s/vOQII5GPysH_3lqDGf28gA</id>
-    <link href="https://mp.weixin.qq.com/s/vOQII5GPysH_3lqDGf28gA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

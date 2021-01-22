@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据库开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T13:44:24+08:00</updated>
+  <updated>2021-01-22T13:44:54+08:00</updated>
   <subtitle>分享数据库开发、原理和应用，涵盖MySQL、PostgreSQL、MS SQL Sever、Oracle等主流关系数据库的应用和原理，以及MongoDB、Redis、Memcached等NoSQL数据库和缓存技术。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何实现 MySQL 删除重复记录并且只保留一条</title>
+    <updated>2021-01-21T18:13:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/S2-r412qTwU03SX0O0VcBg</id>
+    <link href="https://mp.weixin.qq.com/s/S2-r412qTwU03SX0O0VcBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL中的哥哥表、妹妹字段，是什么鬼？</title>
     <updated>2021-01-20T18:07:22+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-10T22:04:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/M1ymXrEsCZNw3j2SV1QibA</id>
     <link href="https://mp.weixin.qq.com/s/M1ymXrEsCZNw3j2SV1QibA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>炸了！PostgreSQL又获得“年度数据库”！包邮送8本PostgreSQL书籍</title>
-    <updated>2021-01-10T12:29:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/y5Md9SgxcMiWlrd7NsRK5g</id>
-    <link href="https://mp.weixin.qq.com/s/y5Md9SgxcMiWlrd7NsRK5g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

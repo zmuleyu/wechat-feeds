@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>TesterHome | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:21:07+08:00</updated>
+  <updated>2021-01-22T13:59:34+08:00</updated>
   <subtitle>国内首个移动测试交流社区，最专业的 Appium 交流社区。专注于移动互联网测试和 Web 相关测试技术研究。我们的理念：Coding Share Show Cool</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一种无线端测试平台化最佳实践</title>
+    <updated>2021-01-22T12:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/oL7yweULB_Xntbctmn-G6g</id>
+    <link href="https://mp.weixin.qq.com/s/oL7yweULB_Xntbctmn-G6g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>中间件技术在百度云原生测试中的应用实践</title>
+    <updated>2021-01-22T12:48:20+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/3Ub4YXFnNZBZJWF3zTeIOg</id>
+    <link href="https://mp.weixin.qq.com/s/3Ub4YXFnNZBZJWF3zTeIOg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>百度面试记录</title>
     <updated>2021-01-20T09:04:15+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-10T15:10:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/ngDxzDwJgNG7zoZxWeE86Q</id>
     <link href="https://mp.weixin.qq.com/s/ngDxzDwJgNG7zoZxWeE86Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>单元测试自动生成技术在召回异常问题中的应用实践</title>
-    <updated>2021-01-08T08:52:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/1iQ31sBlYJFuUaMrRH66eA</id>
-    <link href="https://mp.weixin.qq.com/s/1iQ31sBlYJFuUaMrRH66eA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何怼回 “开发测试比” 挑战 ？</title>
-    <updated>2021-01-08T08:52:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-08:/s/27CSuCRA-oCRwv7Wzxiu9w</id>
-    <link href="https://mp.weixin.qq.com/s/27CSuCRA-oCRwv7Wzxiu9w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
