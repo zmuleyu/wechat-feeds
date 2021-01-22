@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端下午茶 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T12:23:48+08:00</updated>
+  <updated>2021-01-22T07:53:03+08:00</updated>
   <subtitle>分享有关前端的技术博客、精选文章</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>你真的懂 JavaScript 闭包与高阶函数吗？</title>
+    <updated>2021-01-21T14:23:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/pv-EYBLpzwuC9Vkkt9gNZw</id>
+    <link href="https://mp.weixin.qq.com/s/pv-EYBLpzwuC9Vkkt9gNZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>前端骨架屏自动生成方案（很实用！收藏）</title>
     <updated>2021-01-20T09:09:16+08:00</updated>
@@ -50,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>为什么那么多自学Web前端的人后来都放弃了?</title>
-    <updated>2021-01-11T20:45:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/CQE5gxLR9SC4dhbEBabX7w</id>
-    <link href="https://mp.weixin.qq.com/s/CQE5gxLR9SC4dhbEBabX7w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>为什么 Vue3 选择了 CSS 变量</title>
     <updated>2021-01-11T20:45:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/EpDGoSpHMsaYyeTuHNzUjg</id>
@@ -82,13 +82,6 @@
     <updated>2021-01-04T19:57:01+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-04:/s/M1cXnRPJhV2y3GENMpf4vw</id>
     <link href="https://mp.weixin.qq.com/s/M1cXnRPJhV2y3GENMpf4vw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vite使Vue CLI过时了吗？</title>
-    <updated>2021-01-03T22:25:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-03:/s/iCUz3R-hv8Lfgvc9POY68Q</id>
-    <link href="https://mp.weixin.qq.com/s/iCUz3R-hv8Lfgvc9POY68Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

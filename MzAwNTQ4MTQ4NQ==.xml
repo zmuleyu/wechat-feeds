@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>云时代架构 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T08:00:17+08:00</updated>
+  <updated>2021-01-22T07:59:06+08:00</updated>
   <subtitle>做互联网时代最适合的架构，回归架构的简洁之美。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>TCP接入层的负载均衡、高可用、扩展性架构</title>
+    <updated>2021-01-21T23:29:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/qSYaMZMLECsnQdznE2zhLw</id>
+    <link href="https://mp.weixin.qq.com/s/qSYaMZMLECsnQdznE2zhLw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【性能优化之道】每秒上万并发下的Spring Cloud参数优化实战</title>
     <updated>2021-01-20T21:08:38+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-10T16:22:30+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/GGe6Ca-Bl-TiZbl7O_hd4Q</id>
     <link href="https://mp.weixin.qq.com/s/GGe6Ca-Bl-TiZbl7O_hd4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>建议收藏！一次看完28个关于ES的性能调优技巧</title>
-    <updated>2021-01-07T18:48:32+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-07:/s/dg7hiNGChpLaTJJYAoIHRQ</id>
-    <link href="https://mp.weixin.qq.com/s/dg7hiNGChpLaTJJYAoIHRQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

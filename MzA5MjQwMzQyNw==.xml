@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>若川视野 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T11:56:53+08:00</updated>
+  <updated>2021-01-22T07:33:06+08:00</updated>
   <subtitle>主要发布计算机知识、实用技巧、前端开发、PPT、随笔等文章。 致力于帮助大家善用电子设备，提升生活品质。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>除了技术，你可能需要的是管理</title>
+    <updated>2021-01-21T23:47:10+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-21:/s/WTXl7wVvJMo23gzRsxSOIw</id>
+    <link href="https://mp.weixin.qq.com/s/WTXl7wVvJMo23gzRsxSOIw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【招聘】蚂蚁RichLab招聘高级前端工程师</title>
     <updated>2021-01-21T08:09:26+08:00</updated>
@@ -75,13 +82,6 @@
     <updated>2021-01-10T21:50:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/ebxSKWOXNUJtQ65ieheuIQ</id>
     <link href="https://mp.weixin.qq.com/s/ebxSKWOXNUJtQ65ieheuIQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官问：能否模拟实现JS的bind方法（高频考点）</title>
-    <updated>2021-01-06T22:38:38+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/0bsXeS_xyVNPC-vEAoXk4Q</id>
-    <link href="https://mp.weixin.qq.com/s/0bsXeS_xyVNPC-vEAoXk4Q" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

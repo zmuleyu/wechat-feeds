@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BAT的乌托邦 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:11:16+08:00</updated>
+  <updated>2021-01-22T07:47:42+08:00</updated>
   <subtitle>也许当我老了，也一样写代码。不为别的，只为爱好。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一文告诉你Java日期时间API到底有多烂</title>
+    <updated>2021-01-22T07:36:26+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/pBRJLwVPV6R6Ax47ryj2qw</id>
+    <link href="https://mp.weixin.qq.com/s/pBRJLwVPV6R6Ax47ryj2qw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>LocalDateTime、OffsetDateTime、ZonedDateTime互转，这一篇绝对喂饱你</title>
     <updated>2021-01-21T07:53:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T07:19:12+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/FnNJEVa5n-TioifE2mcqIw</id>
     <link href="https://mp.weixin.qq.com/s/FnNJEVa5n-TioifE2mcqIw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>6. 抹平差异，统一类型转换服务ConversionService</title>
-    <updated>2020-12-23T05:39:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-23:/s/9MPkCSM9AbsgKAFQ1eXBNQ</id>
-    <link href="https://mp.weixin.qq.com/s/9MPkCSM9AbsgKAFQ1eXBNQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
