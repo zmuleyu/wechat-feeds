@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>首席架构师智库 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T23:38:48+08:00</updated>
+  <updated>2021-01-22T23:30:36+08:00</updated>
   <subtitle>做架构师的智库。分享企业架构，业务架构，应用架构，数据架构，技术架构，安全架构等。讨论架构框架,架构规划，架构治理,架构标准，架构推进.交流新兴的架构风格和架构模型。如微服务，事件驱动，微前端，大数据架构，数仓架构，物联网，人工智能架构。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【无服务器架构】Knative Serving 介绍</title>
+    <updated>2021-01-22T21:34:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/0Q-rsqLuhnAVd2Kl4uwgGw</id>
+    <link href="https://mp.weixin.qq.com/s/0Q-rsqLuhnAVd2Kl4uwgGw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【无服务器架构】Knative Eventing 介绍</title>
+    <updated>2021-01-22T21:34:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/H1743PsNLFf8T7VF0PwIZA</id>
+    <link href="https://mp.weixin.qq.com/s/H1743PsNLFf8T7VF0PwIZA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>「业务架构」如何创建BPMN图？</title>
     <updated>2021-01-21T22:21:46+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T20:31:53+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/YMOY-0dBlnI4BHXzEdK3gA</id>
     <link href="https://mp.weixin.qq.com/s/YMOY-0dBlnI4BHXzEdK3gA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「职场职业」开发人员和架构师间的区别是什么-NCube的观点</title>
-    <updated>2021-01-13T20:31:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/nIZo7oqNe855-38hkbpwqA</id>
-    <link href="https://mp.weixin.qq.com/s/nIZo7oqNe855-38hkbpwqA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>「主数据架构」14个主数据管理误区</title>
-    <updated>2021-01-12T21:29:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/L3NG_9FAZgvw226vzEOgbA</id>
-    <link href="https://mp.weixin.qq.com/s/L3NG_9FAZgvw226vzEOgbA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

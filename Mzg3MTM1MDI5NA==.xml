@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机与AI | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-17T23:57:24+08:00</updated>
+  <updated>2021-01-22T23:46:25+08:00</updated>
   <subtitle>计算机科班出身，分享计算机和人工智能相关内容，欢迎讨论交流。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>《潜入算法》</title>
+    <updated>2021-01-22T22:17:45+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/sxLnNlaxosouBD4JLFY7Ig</id>
+    <link href="https://mp.weixin.qq.com/s/sxLnNlaxosouBD4JLFY7Ig" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《从零开始动手实践机器学习》</title>
     <updated>2021-01-17T22:04:24+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-02T23:12:31+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/OzYx_X9TgTDeYTTx4ljsDg</id>
     <link href="https://mp.weixin.qq.com/s/OzYx_X9TgTDeYTTx4ljsDg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>干货：用Python加载数据的5种不同方式，收藏！</title>
-    <updated>2021-01-01T22:51:59+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/c14HfzjpL0k2Jo0y6lqnqQ</id>
-    <link href="https://mp.weixin.qq.com/s/c14HfzjpL0k2Jo0y6lqnqQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

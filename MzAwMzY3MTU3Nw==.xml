@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python自动化测试 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T23:26:57+08:00</updated>
+  <updated>2021-01-22T23:24:05+08:00</updated>
   <subtitle>专注于Python语言测试开发知识体系,微服务架构与测试,测试思想,质量管理体系和CI&amp;CD体系。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一种无线端测试平台化最佳实践</title>
+    <updated>2021-01-22T21:20:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/hFhM9mhiipJhH_nTVYlUmA</id>
+    <link href="https://mp.weixin.qq.com/s/hFhM9mhiipJhH_nTVYlUmA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pytest实战</title>
+    <updated>2021-01-22T21:20:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/jZW9h1EIPXct_msYJMc2Fg</id>
+    <link href="https://mp.weixin.qq.com/s/jZW9h1EIPXct_msYJMc2Fg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>API测试用例的编写</title>
+    <updated>2021-01-22T21:20:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/i8_G-IszGY8X8MH4MsGczg</id>
+    <link href="https://mp.weixin.qq.com/s/i8_G-IszGY8X8MH4MsGczg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python之并发请求</title>
+    <updated>2021-01-22T21:20:56+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/9LgGYQfshPAObIZpKtJcrQ</id>
+    <link href="https://mp.weixin.qq.com/s/9LgGYQfshPAObIZpKtJcrQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>TestNG环境搭建(一)</title>
     <updated>2021-01-19T22:16:22+08:00</updated>
@@ -68,13 +96,6 @@
     <updated>2020-11-20T22:46:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-11-20:/s/1ImzCJoNZjRM2WkEWC5raA</id>
     <link href="https://mp.weixin.qq.com/s/1ImzCJoNZjRM2WkEWC5raA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Spark之环境搭建(一)</title>
-    <updated>2020-11-15T23:35:58+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-11-15:/s/BrF_JCUWgEUbQilVtkZqkw</id>
-    <link href="https://mp.weixin.qq.com/s/BrF_JCUWgEUbQilVtkZqkw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

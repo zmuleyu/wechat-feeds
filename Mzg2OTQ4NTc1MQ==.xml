@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农读书 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T14:04:43+08:00</updated>
+  <updated>2021-01-22T23:45:20+08:00</updated>
   <subtitle>.NET 经典书籍解读，点评，拆解，海外优质文章翻译，浮躁的世界带给您不一样的技术价值！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何在 .Net Core 中使用 IHostedService</title>
+    <updated>2021-01-22T22:07:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/fK6ShPx35TSlKalXcDqORQ</id>
+    <link href="https://mp.weixin.qq.com/s/fK6ShPx35TSlKalXcDqORQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>追了多年的开发框架，你还认识指针吗？</title>
+    <updated>2021-01-22T22:07:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/AzfjD50w8reHKREvqoGebQ</id>
+    <link href="https://mp.weixin.qq.com/s/AzfjD50w8reHKREvqoGebQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python 入门系列 —— 14. List 集合的 CURD 介绍</title>
+    <updated>2021-01-22T22:07:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/TVqGLQ8BlIO0ruxp3ueEtw</id>
+    <link href="https://mp.weixin.qq.com/s/TVqGLQ8BlIO0ruxp3ueEtw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 8 中使用 Index 和 Range</title>
     <updated>2021-01-21T13:33:07+08:00</updated>
@@ -19,13 +40,6 @@
     <updated>2021-01-21T13:33:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-21:/s/54sXHiCkQZnDNgvA10pLnQ</id>
     <link href="https://mp.weixin.qq.com/s/54sXHiCkQZnDNgvA10pLnQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>2021规划：我只想学Python搞钱！</title>
-    <updated>2021-01-19T00:06:27+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/HSi68Ik82pJB2zgBkhUXpQ</id>
-    <link href="https://mp.weixin.qq.com/s/HSi68Ik82pJB2zgBkhUXpQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -131,20 +145,6 @@
     <updated>2021-01-12T00:16:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/xHWShnMEBKmI-9wqMWmhVA</id>
     <link href="https://mp.weixin.qq.com/s/xHWShnMEBKmI-9wqMWmhVA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python 入门系列 —— 21. dict 的介绍</title>
-    <updated>2021-01-12T00:16:42+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/KyGXAaRFOl_PGl2VZ9WXRA</id>
-    <link href="https://mp.weixin.qq.com/s/KyGXAaRFOl_PGl2VZ9WXRA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何在 C# 中使用 MSMQ</title>
-    <updated>2021-01-11T13:31:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/Crr--vEx2m83nSSuYTM5IQ</id>
-    <link href="https://mp.weixin.qq.com/s/Crr--vEx2m83nSSuYTM5IQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

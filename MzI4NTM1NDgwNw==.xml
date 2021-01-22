@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构师专栏 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T12:08:23+08:00</updated>
+  <updated>2021-01-22T23:33:58+08:00</updated>
   <subtitle>助力您成为有思想的全栈架构师，聊架构，聊职场、聊人生！打造最有价值的架构师圈子和社区技术改变生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>还在用 Guava Cache？它才是 Java 本地缓存之王！</title>
+    <updated>2021-01-22T21:28:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/gFwQX-_McZWoKHBQuCiR_A</id>
+    <link href="https://mp.weixin.qq.com/s/gFwQX-_McZWoKHBQuCiR_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>6年前的Dubbo，2年前的SpringCloud，都输给了这个架构！</title>
     <updated>2021-01-20T22:25:14+08:00</updated>
@@ -103,20 +110,6 @@
     <updated>2021-01-12T18:11:15+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/nG4jiTnSdiVJD-iHJTmwjg</id>
     <link href="https://mp.weixin.qq.com/s/nG4jiTnSdiVJD-iHJTmwjg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>第一门编程语言为什么选择Java？</title>
-    <updated>2021-01-10T19:19:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/pma8QInkFPI5BJwfHWP5-w</id>
-    <link href="https://mp.weixin.qq.com/s/pma8QInkFPI5BJwfHWP5-w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>新技能 MyBatis 千万数据表，快速分页！</title>
-    <updated>2021-01-10T19:19:08+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/tLoYHIWEuzaKyw3XwEpw3w</id>
-    <link href="https://mp.weixin.qq.com/s/tLoYHIWEuzaKyw3XwEpw3w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

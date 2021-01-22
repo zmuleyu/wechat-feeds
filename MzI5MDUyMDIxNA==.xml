@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>极市平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T23:32:59+08:00</updated>
+  <updated>2021-01-22T23:24:09+08:00</updated>
   <subtitle>专注计算机视觉前沿资讯和技术干货，官网：www.cvmart.net</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>目标检测Anchor是什么？怎么科学设置？人人都能彻底搞懂的Anchor深度解析</title>
+    <updated>2021-01-22T22:07:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Qvjk7mz8d9lxeyIMND1mPA</id>
+    <link href="https://mp.weixin.qq.com/s/Qvjk7mz8d9lxeyIMND1mPA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>T-PAMI 2021 | 换个损失函数就能实现数据扩增？</title>
+    <updated>2021-01-22T22:07:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/QpxgpNNricxt7OVmcP11nw</id>
+    <link href="https://mp.weixin.qq.com/s/QpxgpNNricxt7OVmcP11nw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>全面升级！FastReID V1.0正式开源：Beyond reID</title>
+    <updated>2021-01-22T22:07:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/YYplTnALHZfXUYMjAg9weA</id>
+    <link href="https://mp.weixin.qq.com/s/YYplTnALHZfXUYMjAg9weA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>最新！2021中国内地大学ESI排名出炉：326所高校上榜！</title>
+    <updated>2021-01-22T22:07:04+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/K3BdvKwiN6_uOHzWWCG6qA</id>
+    <link href="https://mp.weixin.qq.com/s/K3BdvKwiN6_uOHzWWCG6qA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>保姆级教程：深度学习环境配置指南！（Windows、Mac、Ubuntu全讲解）</title>
     <updated>2021-01-21T21:51:07+08:00</updated>
@@ -117,34 +145,6 @@
     <updated>2021-01-18T21:56:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/5L8keqhn-HaQjHUpIWET2Q</id>
     <link href="https://mp.weixin.qq.com/s/5L8keqhn-HaQjHUpIWET2Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pytorch翻车记录：单卡改多卡踩坑记！</title>
-    <updated>2021-01-17T22:07:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/c3OpcSc_HjbSaBZYQQXFtg</id>
-    <link href="https://mp.weixin.qq.com/s/c3OpcSc_HjbSaBZYQQXFtg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>冠军方案分享：ICPR 2020大规模商品图像识别挑战赛冠军解读</title>
-    <updated>2021-01-17T22:07:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/ySmlN5_hHVVFn9hB-jrRHw</id>
-    <link href="https://mp.weixin.qq.com/s/ySmlN5_hHVVFn9hB-jrRHw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>仅此一文让你掌握OneFlow框架的系统设计</title>
-    <updated>2021-01-17T22:07:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/Fg-eTCZkYQCnEYSuk9ELFw</id>
-    <link href="https://mp.weixin.qq.com/s/Fg-eTCZkYQCnEYSuk9ELFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Matplotlib数据可视化！</title>
-    <updated>2021-01-17T22:07:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/vxKLZyzEk4VvZk0VEhrNYg</id>
-    <link href="https://mp.weixin.qq.com/s/vxKLZyzEk4VvZk0VEhrNYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

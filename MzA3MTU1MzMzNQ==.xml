@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>C语言与C++编程 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:19:56+08:00</updated>
+  <updated>2021-01-22T23:41:15+08:00</updated>
   <subtitle>讨论和学习C/C++编程知识，分享C语言和C++开发相关的技术文章和工具资源</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -43,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>《现代C++教程》：高速上手C++ 11/14/17/20（中文版附下载）</title>
-    <updated>2021-01-17T23:24:31+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/20jsyj1dLXNTaJHElGdQCg</id>
-    <link href="https://mp.weixin.qq.com/s/20jsyj1dLXNTaJHElGdQCg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>漫画 | Java小子和C老头儿的硬盘夜话</title>
     <updated>2021-01-14T17:43:49+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/QoTYM0Pu9huk8VcDOYruhg</id>
@@ -75,6 +68,20 @@
     <updated>2021-01-11T17:32:03+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/mnMgIdq7eClU6CtVRr8Xug</id>
     <link href="https://mp.weixin.qq.com/s/mnMgIdq7eClU6CtVRr8Xug" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>那些在家啃书自学C++的人，最后都找到工作了吗？</title>
+    <updated>2021-01-10T21:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/9AaA9qA5E7Plo1voW0B2rg</id>
+    <link href="https://mp.weixin.qq.com/s/9AaA9qA5E7Plo1voW0B2rg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>线程安全代码到底是怎么编写的？</title>
+    <updated>2021-01-10T21:32:44+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-10:/s/jDm0maHV5pyuEaOfBqBJDQ</id>
+    <link href="https://mp.weixin.qq.com/s/jDm0maHV5pyuEaOfBqBJDQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
