@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UP技术控 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T02:29:46+08:00</updated>
+  <updated>2021-01-23T02:31:53+08:00</updated>
   <subtitle>不止IT   还有生活</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>使用Select.HtmlToPdf 把html内容生成pdf文件</title>
+    <updated>2021-01-22T22:43:13+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/zORb89rPtPUkJDT8J2_-CA</id>
+    <link href="https://mp.weixin.qq.com/s/zORb89rPtPUkJDT8J2_-CA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>关于SVN提交强制加入注释</title>
     <updated>2021-01-21T09:20:07+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2021-01-13T22:30:22+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/55ohQByY7YH3TUC6miftmQ</id>
     <link href="https://mp.weixin.qq.com/s/55ohQByY7YH3TUC6miftmQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>又一款日志组件:ELMAH日志处理异常</title>
-    <updated>2021-01-12T13:53:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/gTfJs7TRkDLflBHsfxHe9w</id>
-    <link href="https://mp.weixin.qq.com/s/gTfJs7TRkDLflBHsfxHe9w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>到处是中年危机、猝死、跳楼、被开除，怎么办？</title>
-    <updated>2021-01-12T13:53:15+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/YTSxeCgMNPBWDj612UV1fg</id>
-    <link href="https://mp.weixin.qq.com/s/YTSxeCgMNPBWDj612UV1fg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

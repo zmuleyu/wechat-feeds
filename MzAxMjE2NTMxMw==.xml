@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>amazingdotnet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T02:51:56+08:00</updated>
+  <updated>2021-01-23T02:42:05+08:00</updated>
   <subtitle>dotnet 开发知识库，了不起的 dotnet，dotnet 奇淫怪巧</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>.NET 项目中的单元测试</title>
+    <updated>2021-01-23T00:29:29+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/6yfRsQ9tNHmQd0Gwi0mLbQ</id>
+    <link href="https://mp.weixin.qq.com/s/6yfRsQ9tNHmQd0Gwi0mLbQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>WeihanLi.Npoi 1.14.0 Release Notes</title>
     <updated>2021-01-21T00:19:35+08:00</updated>
@@ -82,20 +89,6 @@
     <updated>2021-01-03T17:46:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-03:/s/Q9JK15F1CdFoJajv7im7uw</id>
     <link href="https://mp.weixin.qq.com/s/Q9JK15F1CdFoJajv7im7uw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>开源·共享·创新|2020年中国.NET开发者大会圆满收官！</title>
-    <updated>2021-01-01T09:01:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/Tdbn9AAPglHjZrLlru0Qpg</id>
-    <link href="https://mp.weixin.qq.com/s/Tdbn9AAPglHjZrLlru0Qpg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Amazing 2020</title>
-    <updated>2021-01-01T09:01:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-01:/s/uAoQgA466kqTSwztMAwxnw</id>
-    <link href="https://mp.weixin.qq.com/s/uAoQgA466kqTSwztMAwxnw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

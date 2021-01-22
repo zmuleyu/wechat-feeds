@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Rust语言中文社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T23:33:38+08:00</updated>
+  <updated>2021-01-23T02:18:37+08:00</updated>
   <subtitle>Rust官方及社区最新信息搜集、文章推送，教程学习，技巧分享，社区交流。信息来源是整个全球Rust社区。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Rust每周一库】num-bigint - 大整数</title>
+    <updated>2021-01-22T23:24:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/h1x4q9N952dlwWLfJhLoYA</id>
+    <link href="https://mp.weixin.qq.com/s/h1x4q9N952dlwWLfJhLoYA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>【Rust日报】2021-01-22 首份Rust月刊杂志邀请大家一起参与</title>
+    <updated>2021-01-22T23:24:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/4aWhTxhqlN8zbBnjeQxfnA</id>
+    <link href="https://mp.weixin.qq.com/s/4aWhTxhqlN8zbBnjeQxfnA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rust FFI 编程 - 其它语言调用 Rust 代码 - Python</title>
     <updated>2021-01-21T22:48:38+08:00</updated>
@@ -124,27 +138,6 @@
     <updated>2021-01-13T23:37:44+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/O1KSzSMllKo5WgOKgfLtTQ</id>
     <link href="https://mp.weixin.qq.com/s/O1KSzSMllKo5WgOKgfLtTQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>入坑Rust第一天</title>
-    <updated>2021-01-12T22:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/8e2NnQBsKp7EXKZs3Ukv5A</id>
-    <link href="https://mp.weixin.qq.com/s/8e2NnQBsKp7EXKZs3Ukv5A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【重要】Rust snmp开源项目自愿者招集倡议</title>
-    <updated>2021-01-12T22:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/7udNuUUIpv12RACvBe3Y3g</id>
-    <link href="https://mp.weixin.qq.com/s/7udNuUUIpv12RACvBe3Y3g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【Rust日报】2021-01-10 时隔一年 tower 终于发布新版本啦【补发】</title>
-    <updated>2021-01-12T22:21:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/aw1xCO_yZj2WsDl2Sv5Xqg</id>
-    <link href="https://mp.weixin.qq.com/s/aw1xCO_yZj2WsDl2Sv5Xqg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

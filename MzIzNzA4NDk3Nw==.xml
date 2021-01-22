@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>进击的Coder | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T20:32:55+08:00</updated>
+  <updated>2021-01-23T02:19:44+08:00</updated>
   <subtitle>分享技术文章和编程经验，内容多为网络爬虫、机器学习、Web 开发等方向。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>文字版精华总结！你写的爬虫到底违不违法？</title>
+    <updated>2021-01-22T23:11:06+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/OFmoSQPcrjwI4mBDhaXPfw</id>
+    <link href="https://mp.weixin.qq.com/s/OFmoSQPcrjwI4mBDhaXPfw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>整理一周！我的数据分析学习资源</title>
     <updated>2021-01-20T18:58:56+08:00</updated>
@@ -110,20 +117,6 @@
     <updated>2021-01-07T18:34:52+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-07:/s/wTy3YINYl_XHmz5Yf_sPFw</id>
     <link href="https://mp.weixin.qq.com/s/wTy3YINYl_XHmz5Yf_sPFw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>真是劲爆！超市老板大战社区团购，究竟最终谁会赢？</title>
-    <updated>2021-01-06T23:10:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/e7ObiljXVWa1kAJHUp3_kA</id>
-    <link href="https://mp.weixin.qq.com/s/e7ObiljXVWa1kAJHUp3_kA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>爱了爱了！0.052 秒打开 100GB 数据，这个 Python 开源库火爆了！</title>
-    <updated>2021-01-06T23:10:57+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/ozLFCSQmirstpiKtz1FHCA</id>
-    <link href="https://mp.weixin.qq.com/s/ozLFCSQmirstpiKtz1FHCA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

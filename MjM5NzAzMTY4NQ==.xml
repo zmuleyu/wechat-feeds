@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>老叶茶馆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-12T23:35:16+08:00</updated>
+  <updated>2021-01-23T02:25:44+08:00</updated>
   <subtitle>老叶茶馆，泡壶茶，聊聊MySQL。 长期专注MySQL，Oracle MySQL ACE Director，鹅厂云最具价值专家</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>透明压缩技术如何缓解数据库中写放大</title>
+    <updated>2021-01-22T22:51:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/O0SJleRj6jK3kaLZbo1N8g</id>
+    <link href="https://mp.weixin.qq.com/s/O0SJleRj6jK3kaLZbo1N8g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>MySQL SQL优化的正确姿势</title>
     <updated>2021-01-12T22:57:53+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2020-12-16T20:36:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-16:/s/qHcglskcvRzp2taQdNxFdQ</id>
     <link href="https://mp.weixin.qq.com/s/qHcglskcvRzp2taQdNxFdQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>SQL优化大神带你写有趣的SQL(6) SELF JOIN的应用</title>
-    <updated>2020-12-15T10:15:13+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-15:/s/InboZo8JkZyHDeswAiopvQ</id>
-    <link href="https://mp.weixin.qq.com/s/InboZo8JkZyHDeswAiopvQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
