@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linux内核那些事 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-06T11:49:54+08:00</updated>
+  <updated>2021-01-23T13:49:27+08:00</updated>
   <subtitle>主要介绍Linux内核的原理和Linux内核开发等</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>LVS原理与实现 - 原理篇</title>
+    <updated>2021-01-23T12:33:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/LrTYnp5GHwV1VXfVD5NB9g</id>
+    <link href="https://mp.weixin.qq.com/s/LrTYnp5GHwV1VXfVD5NB9g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>好书推荐</title>
     <updated>2021-01-01T19:30:51+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-10-22T15:36:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-10-22:/s/Cck_hQ2_Ob3c2vaOtll1qg</id>
     <link href="https://mp.weixin.qq.com/s/Cck_hQ2_Ob3c2vaOtll1qg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Redis 模块机制 - 模块编写篇</title>
-    <updated>2020-08-08T14:34:35+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-08-08:/s/YFZoErNF5Y9u1blLB-uOiw</id>
-    <link href="https://mp.weixin.qq.com/s/YFZoErNF5Y9u1blLB-uOiw" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

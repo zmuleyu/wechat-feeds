@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirPython | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T13:43:50+08:00</updated>
+  <updated>2021-01-23T13:40:44+08:00</updated>
   <subtitle>分享 Python 爬虫、自动化、高效率工具、测试、Web等原创技术干货，欢迎关注！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>惊艳！大牛BTA大厂实战项目经验分享，Python 还能这么玩！</title>
+    <updated>2021-01-22T20:39:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/u7iBaa0dlaAsje1mQOH9Xg</id>
+    <link href="https://mp.weixin.qq.com/s/u7iBaa0dlaAsje1mQOH9Xg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>看我用 Python 一秒发送数百份邮件，让财务部妹子追着喊 666！</title>
+    <updated>2021-01-22T20:39:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Pwde0X5qfC3I9UPLE6Qj3w</id>
+    <link href="https://mp.weixin.qq.com/s/Pwde0X5qfC3I9UPLE6Qj3w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>10 分钟，带你彻底掌握 SQL 多表查询（建议收藏）</title>
     <updated>2021-01-21T19:09:39+08:00</updated>
@@ -82,13 +96,6 @@
     <updated>2021-01-09T12:38:42+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-09:/s/eOJ_9s4t8GKgNvN0ffySyA</id>
     <link href="https://mp.weixin.qq.com/s/eOJ_9s4t8GKgNvN0ffySyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>为了帮助剪辑小姐姐少熬夜，我用 Python 硬肝了一次短视频音频创作</title>
-    <updated>2021-01-06T10:22:48+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-06:/s/x21Z5ttIylFzxH5A6GZpiA</id>
-    <link href="https://mp.weixin.qq.com/s/x21Z5ttIylFzxH5A6GZpiA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

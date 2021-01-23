@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>计算机视觉社区 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T23:24:17+08:00</updated>
+  <updated>2021-01-23T13:40:44+08:00</updated>
   <subtitle>关注计算机视觉社区公众号，分享开源技术与最新论文解读！为计算机视觉爱好者提供一个线上云笔记库！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>PyTorch 源码解读之 nn.Module</title>
+    <updated>2021-01-23T12:21:36+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/pg0ODHukzukf5YGY1RoAcw</id>
+    <link href="https://mp.weixin.qq.com/s/pg0ODHukzukf5YGY1RoAcw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【每日速递】计算机视觉与模式识别/图像处理最新学术论文[1.22]</title>
     <updated>2021-01-22T22:00:19+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2021-01-12T23:48:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/_g5MZMZV09R8okHMYT_e1A</id>
     <link href="https://mp.weixin.qq.com/s/_g5MZMZV09R8okHMYT_e1A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>计算机视觉与模式识别/图像处理最新学术论文每日速递[1.11]</title>
-    <updated>2021-01-11T16:47:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/WWmy50p348Fp3qtBPKADMw</id>
-    <link href="https://mp.weixin.qq.com/s/WWmy50p348Fp3qtBPKADMw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>如何看待Transformer在CV上的应用前景，未来有可能替代CNN吗？</title>
-    <updated>2021-01-11T16:47:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/P79XIACpgDcDO8-b585mjQ</id>
-    <link href="https://mp.weixin.qq.com/s/P79XIACpgDcDO8-b585mjQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

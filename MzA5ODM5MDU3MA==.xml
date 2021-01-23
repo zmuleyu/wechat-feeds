@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>数据分析与开发 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:16:04+08:00</updated>
+  <updated>2021-01-23T13:58:34+08:00</updated>
   <subtitle>「数据分析与开发」分享数据分析与开发相关技术文章、教程、工具</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>干货！如何建立数据标签体系</title>
+    <updated>2021-01-22T17:43:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/srJs40yg2hryekkAEj7Asg</id>
+    <link href="https://mp.weixin.qq.com/s/srJs40yg2hryekkAEj7Asg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>超全 Python IDE 武器库大总结，优缺点一目了然！</title>
+    <updated>2021-01-22T17:43:59+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/PH3jpFLp1rUkp2adWFH0_A</id>
+    <link href="https://mp.weixin.qq.com/s/PH3jpFLp1rUkp2adWFH0_A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析</title>
     <updated>2021-01-22T10:19:12+08:00</updated>
@@ -124,20 +138,6 @@
     <updated>2021-01-13T23:14:17+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/LVOdEmf_JrGs-t7O_EqojQ</id>
     <link href="https://mp.weixin.qq.com/s/LVOdEmf_JrGs-t7O_EqojQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse 出品，1.3 万 Star！网友说要干掉 VS Code 的新工具</title>
-    <updated>2021-01-12T15:42:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/HhvMpoXP5QiSaiElzWf7Cg</id>
-    <link href="https://mp.weixin.qq.com/s/HhvMpoXP5QiSaiElzWf7Cg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文从0到1掌握用户画像知识体系</title>
-    <updated>2021-01-12T15:42:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/tuLU7GIX7vUqc7IHVYOeUg</id>
-    <link href="https://mp.weixin.qq.com/s/tuLU7GIX7vUqc7IHVYOeUg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
