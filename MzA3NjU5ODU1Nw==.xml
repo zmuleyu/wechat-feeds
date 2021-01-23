@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>四颗咖啡豆 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-20T07:53:29+08:00</updated>
+  <updated>2021-01-23T07:49:49+08:00</updated>
   <subtitle>justcoding</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>k8s-client-go源码剖析(二)</title>
+    <updated>2021-01-23T00:23:48+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/yD5hDInhe3QdS9dj3RM3QQ</id>
+    <link href="https://mp.weixin.qq.com/s/yD5hDInhe3QdS9dj3RM3QQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>k8s-client-go源码剖析(一)</title>
     <updated>2021-01-19T22:59:32+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-02-14T12:04:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-02-14:/s/bDQMOI5zSuMqlxSPhPtK0Q</id>
     <link href="https://mp.weixin.qq.com/s/bDQMOI5zSuMqlxSPhPtK0Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jenkins远程部署Linux服务器</title>
-    <updated>2020-02-13T10:05:50+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-02-13:/s/sd7xOGPDTLE-RPra8elvlg</id>
-    <link href="https://mp.weixin.qq.com/s/sd7xOGPDTLE-RPra8elvlg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

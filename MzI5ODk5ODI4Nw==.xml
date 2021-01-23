@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>CNCF | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:24:06+08:00</updated>
+  <updated>2021-01-23T07:56:53+08:00</updated>
   <subtitle>云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>CNCF Weekly 21-3</title>
+    <updated>2021-01-22T11:48:35+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/bL51cB5aIujF6WmJZWt9-g</id>
+    <link href="https://mp.weixin.qq.com/s/bL51cB5aIujF6WmJZWt9-g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kubernetes 实践：勿让 Docker Volume 引发 Terminating Pod</title>
     <updated>2021-01-22T10:56:51+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-18T10:49:09+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/TApLhFDTXk5W8-ohmL719g</id>
     <link href="https://mp.weixin.qq.com/s/TApLhFDTXk5W8-ohmL719g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>一文读懂 Kubernetes APIServer 原理</title>
-    <updated>2021-01-18T10:49:09+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/yCn1pbJe0crD71nzwKXiVg</id>
-    <link href="https://mp.weixin.qq.com/s/yCn1pbJe0crD71nzwKXiVg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
