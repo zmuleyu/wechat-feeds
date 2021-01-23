@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java旅途 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:16:09+08:00</updated>
+  <updated>2021-01-23T12:10:27+08:00</updated>
   <subtitle>『Java旅途』专注于Java技术分享，包含但不局限于Spring Boot、Spring Cloud、消息队列、redis、JVM、Mysql、面经等，欢迎关注，一起学习、一起成长！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>张小龙：微信十年的产品思考（文字+视频）</title>
+    <updated>2021-01-22T22:53:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/CBQMRs-UaIyP5aJQzpADeA</id>
+    <link href="https://mp.weixin.qq.com/s/CBQMRs-UaIyP5aJQzpADeA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>这样统计代码执行耗时，才足够优雅！</title>
     <updated>2021-01-21T22:26:55+08:00</updated>
@@ -68,20 +75,6 @@
     <updated>2021-01-11T22:44:51+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/wNAzo-2b1iFAvtuKQ_jAJw</id>
     <link href="https://mp.weixin.qq.com/s/wNAzo-2b1iFAvtuKQ_jAJw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mysql的索引结构为什么要用B+数</title>
-    <updated>2021-01-10T19:16:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/haqDOXkvzJ7S0y4F7mh3wg</id>
-    <link href="https://mp.weixin.qq.com/s/haqDOXkvzJ7S0y4F7mh3wg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>推荐几个在线文档生成神器</title>
-    <updated>2021-01-10T19:16:49+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/kyWsHJac00WNmNPCiCMunQ</id>
-    <link href="https://mp.weixin.qq.com/s/kyWsHJac00WNmNPCiCMunQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

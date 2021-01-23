@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大邓和他的Python | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T20:53:37+08:00</updated>
+  <updated>2021-01-23T12:21:27+08:00</updated>
   <subtitle>管理学在读博士，本公众号基本围绕着文科生科研需要，分享python网络爬虫、文本数据清洗、文本数据分析。内容相对简单易懂，力求原创文章末尾附有实验代码和数据，方便大家看后动手练习。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>来咯来喽 ~ Python&amp;Stata数据挖掘与实证工作坊</title>
+    <updated>2021-01-22T19:31:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/bMSskTDroeS0eAV0fT8c-Q</id>
+    <link href="https://mp.weixin.qq.com/s/bMSskTDroeS0eAV0fT8c-Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Python爬虫 | 批量爬取某图网站高质量小姐姐照片</title>
+    <updated>2021-01-22T19:31:52+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/S1OKY45J862iKHWQ--UNBg</id>
+    <link href="https://mp.weixin.qq.com/s/S1OKY45J862iKHWQ--UNBg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Python分析《哈哈哈哈哈》47687条弹幕，看看大家都在说些啥！</title>
     <updated>2021-01-22T19:27:08+08:00</updated>
@@ -131,13 +145,6 @@
     <updated>2021-01-10T17:31:38+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/oZIQ_rPJ7BALUWnu-wPyJA</id>
     <link href="https://mp.weixin.qq.com/s/oZIQ_rPJ7BALUWnu-wPyJA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Python正则表达式，这一篇就够了！</title>
-    <updated>2021-01-10T10:16:03+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-10:/s/uBtFJOAuefd8SLKW_CEisA</id>
-    <link href="https://mp.weixin.qq.com/s/uBtFJOAuefd8SLKW_CEisA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

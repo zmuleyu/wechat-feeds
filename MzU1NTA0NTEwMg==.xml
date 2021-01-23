@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>后端技术漫谈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-19T20:37:07+08:00</updated>
+  <updated>2021-01-23T12:01:29+08:00</updated>
   <subtitle>一线互联网公司码农，持续更新原创技术文章，当然也会和大家分享自己的生活趣闻！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>十分钟完成小程序开发，腾讯云低码开发平台实测</title>
+    <updated>2021-01-23T10:51:22+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/YMBqgx_GegTLm9ZpFkno9A</id>
+    <link href="https://mp.weixin.qq.com/s/YMBqgx_GegTLm9ZpFkno9A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>我给Apache顶级项目提了个Bug</title>
     <updated>2021-01-19T20:11:47+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-02T10:53:58+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-02:/s/UdkUZrOG59Kra_I8Z5n3Gw</id>
     <link href="https://mp.weixin.qq.com/s/UdkUZrOG59Kra_I8Z5n3Gw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>领取你的独家GitHub年度报告</title>
-    <updated>2020-12-29T23:48:04+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-29:/s/a6vXTQXMrwGjju9CCcn__w</id>
-    <link href="https://mp.weixin.qq.com/s/a6vXTQXMrwGjju9CCcn__w" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

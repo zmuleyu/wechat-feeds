@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>安全客 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T20:45:07+08:00</updated>
+  <updated>2021-01-23T12:11:55+08:00</updated>
   <subtitle>打破黑箱 客说安全</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>犯错误了吧？攻击者的愚蠢失误导致被盗密码可通过Google搜索曝光</title>
+    <updated>2021-01-22T20:49:46+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/KSYkQwz4nv--cFjF1k4yTQ</id>
+    <link href="https://mp.weixin.qq.com/s/KSYkQwz4nv--cFjF1k4yTQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>白名单，被谁绕过了？</title>
     <updated>2021-01-22T17:47:42+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-15T18:00:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-15:/s/yFxNe8Qm6s3kmhDuKctwag</id>
     <link href="https://mp.weixin.qq.com/s/yFxNe8Qm6s3kmhDuKctwag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>chrome issue 1051017 v8 逃逸</title>
-    <updated>2021-01-15T18:00:36+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-15:/s/HBpqBduHzp6RSuWwTkMEAQ</id>
-    <link href="https://mp.weixin.qq.com/s/HBpqBduHzp6RSuWwTkMEAQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

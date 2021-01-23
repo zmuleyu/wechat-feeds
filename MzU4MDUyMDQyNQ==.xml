@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>小哈学Java | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:24:23+08:00</updated>
+  <updated>2021-01-23T12:18:27+08:00</updated>
   <subtitle>专注于Java领域干货分享，不限于BAT面试, 算法，数据库，Spring Boot, 微服务,高并发, JVM, Docker容器，ELK相关知识，期待与您一同进步。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>一个月薪 12000 的北京程序员的真实生活 ！</title>
+    <updated>2021-01-23T10:44:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/8AqEIBqpVfr9igoWcbHCNw</id>
+    <link href="https://mp.weixin.qq.com/s/8AqEIBqpVfr9igoWcbHCNw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Java中的 Switch 是如何支持 String 的？为什么不支持 long？</title>
+    <updated>2021-01-23T10:44:33+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/8EaYiP1ZQqHv7Yy1g3eRMA</id>
+    <link href="https://mp.weixin.qq.com/s/8EaYiP1ZQqHv7Yy1g3eRMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>API接口的安全设计验证：ticket，签名，时间戳</title>
     <updated>2021-01-22T10:22:04+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-13T20:43:57+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/uP6DFVE8NrO30Le_ocWDUg</id>
     <link href="https://mp.weixin.qq.com/s/uP6DFVE8NrO30Le_ocWDUg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>骚操作 ！IDEA 防止写代码沉迷插件 !</title>
-    <updated>2021-01-13T11:59:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/uI0E9GIlbRkLSOaOkE4BOw</id>
-    <link href="https://mp.weixin.qq.com/s/uI0E9GIlbRkLSOaOkE4BOw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>面试官：String长度有限制吗？是多少？</title>
-    <updated>2021-01-13T11:59:30+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/cbNLy2iV6001kJbZ17i_8g</id>
-    <link href="https://mp.weixin.qq.com/s/cbNLy2iV6001kJbZ17i_8g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

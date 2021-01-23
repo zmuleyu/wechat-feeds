@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端自习课 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:18:07+08:00</updated>
+  <updated>2021-01-23T12:12:11+08:00</updated>
   <subtitle>每日清晨，享受一篇前端优秀文章。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>【Web技术】847- Virtual DOM 认知误区</title>
+    <updated>2021-01-22T21:45:15+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/UQHx6W5IDTR8z1l4Js8G7g</id>
+    <link href="https://mp.weixin.qq.com/s/UQHx6W5IDTR8z1l4Js8G7g" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>【面试题】846- 44道比较难的 JS 面试题</title>
     <updated>2021-01-21T21:18:08+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2021-01-13T21:39:13+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/ovLl8jw1xBa1TwPSVwJQ_Q</id>
     <link href="https://mp.weixin.qq.com/s/ovLl8jw1xBa1TwPSVwJQ_Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【活动】来自「前端自习课」的一份礼物</title>
-    <updated>2021-01-12T23:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/0T5hsYZ2pS9cN5AtF4kKKQ</id>
-    <link href="https://mp.weixin.qq.com/s/0T5hsYZ2pS9cN5AtF4kKKQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>【CSS】837- 如何只使用CSS提升页面渲染速度</title>
-    <updated>2021-01-12T23:20:14+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/i7Waq3Qz5Xd3k9F82L1Akg</id>
-    <link href="https://mp.weixin.qq.com/s/i7Waq3Qz5Xd3k9F82L1Akg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:13:45+08:00</updated>
+  <updated>2021-01-23T12:08:45+08:00</updated>
   <subtitle>关注云原生相关的开源项目和基础架构，致力于分析并报道这些新技术是如何以及将会怎样影响企业的软件构建方式。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>手把手教你从零设计一个日志框架</title>
+    <updated>2021-01-22T22:27:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Kgaad2rIfp4PbRC25ARFRw</id>
+    <link href="https://mp.weixin.qq.com/s/Kgaad2rIfp4PbRC25ARFRw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播 | OpenYurt：延伸原生Kubernetes到边缘场景下的落地实践</title>
+    <updated>2021-01-22T22:27:57+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/5-ZWkL6Act-6mmqE0KfP1Q</id>
+    <link href="https://mp.weixin.qq.com/s/5-ZWkL6Act-6mmqE0KfP1Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>图解 Git 工作原理</title>
     <updated>2021-01-22T00:53:35+08:00</updated>
@@ -131,20 +145,6 @@
     <updated>2021-01-14T07:30:14+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/noALeBgD8_phe6BsFDsjyA</id>
     <link href="https://mp.weixin.qq.com/s/noALeBgD8_phe6BsFDsjyA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>我为什么要放弃RESTful，选择拥抱GraphQL？</title>
-    <updated>2021-01-13T07:32:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/UVh2miURaW7G4Vvwy8Zpgg</id>
-    <link href="https://mp.weixin.qq.com/s/UVh2miURaW7G4Vvwy8Zpgg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kubernetes管理员认证（CKA）培训 | 下周开课</title>
-    <updated>2021-01-13T07:32:53+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/iyvylWLSj8P9_XSuwdgNYg</id>
-    <link href="https://mp.weixin.qq.com/s/iyvylWLSj8P9_XSuwdgNYg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

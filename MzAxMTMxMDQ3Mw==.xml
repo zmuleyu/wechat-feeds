@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DotNet | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:27:49+08:00</updated>
+  <updated>2021-01-23T12:22:33+08:00</updated>
   <subtitle>「DotNet」专注.NET和.NET Core技术传播，包括：C#、.NET、.NET Core跨平台技术、工具资源和相关动态。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>理解 C# 中的 async await</title>
+    <updated>2021-01-22T23:11:16+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/Zq8GptOjFBMc-d0FigOWqQ</id>
+    <link href="https://mp.weixin.qq.com/s/Zq8GptOjFBMc-d0FigOWqQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>《前端中文入门手册》.pdf</title>
     <updated>2021-01-21T22:20:59+08:00</updated>
@@ -110,13 +117,6 @@
     <updated>2021-01-13T22:39:29+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/LaUfX9Hp01RPzf19ImHJ6w</id>
     <link href="https://mp.weixin.qq.com/s/LaUfX9Hp01RPzf19ImHJ6w" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>.NET Core 处理 WebAPI JSON 返回烦人的null为空</title>
-    <updated>2021-01-13T11:03:46+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/EexipMj6Sl7Ie-FFuNop_A</id>
-    <link href="https://mp.weixin.qq.com/s/EexipMj6Sl7Ie-FFuNop_A" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

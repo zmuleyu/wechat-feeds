@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>谷歌开发者 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:11:22+08:00</updated>
+  <updated>2021-01-23T12:06:08+08:00</updated>
   <subtitle>Google 中国官方账号。汇集 Android, Flutter, Chrome OS, AI 等开发技术，以及 Google Play 平台出海相关信息。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>打造 Material 形状主题 | 实现篇</title>
+    <updated>2021-01-22T17:30:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/dUGjvB6yMTKf5gBLkMrEhQ</id>
+    <link href="https://mp.weixin.qq.com/s/dUGjvB6yMTKf5gBLkMrEhQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>使用 Android 模拟器容器来实现持续集成测试</title>
     <updated>2021-01-22T09:03:55+08:00</updated>
@@ -89,13 +96,6 @@
     <updated>2021-01-12T16:58:36+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-12:/s/B9p4EUIaFhL-JcNAjopOKw</id>
     <link href="https://mp.weixin.qq.com/s/B9p4EUIaFhL-JcNAjopOKw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vision Transformer：用于大规模图像识别的 Transformer</title>
-    <updated>2021-01-12T16:32:29+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/VwjApRcDZRo9N8glZd_BgA</id>
-    <link href="https://mp.weixin.qq.com/s/VwjApRcDZRo9N8glZd_BgA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

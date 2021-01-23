@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿里巴巴云原生 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T20:39:22+08:00</updated>
+  <updated>2021-01-23T12:05:20+08:00</updated>
   <subtitle>发布云原生技术最新资讯、汇集云原生技术最全内容，定期举办云原生活动、直播，阿里产品及用户最佳实践发布。与你并肩探索云原生技术点滴，分享你需要的云原生内容。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>这是阿里技术专家对 SRE 和稳定性保障的理解</title>
+    <updated>2021-01-23T12:00:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/DUfoMeJa0spHO0d1p0RSdQ</id>
+    <link href="https://mp.weixin.qq.com/s/DUfoMeJa0spHO0d1p0RSdQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>直播倒计时 3 天| 9 大场景带你从零实践 Serverless</title>
+    <updated>2021-01-23T12:00:19+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/zWBRRRtcnWfi0f9Nhm4DMA</id>
+    <link href="https://mp.weixin.qq.com/s/zWBRRRtcnWfi0f9Nhm4DMA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>阿里四年技术 TL 的得失总结：如何做好技术 Team Leader</title>
     <updated>2021-01-22T18:18:34+08:00</updated>
@@ -96,13 +110,6 @@
     <updated>2021-01-13T17:17:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/uiNcE65rEvhtZHrs2LKQcA</id>
     <link href="https://mp.weixin.qq.com/s/uiNcE65rEvhtZHrs2LKQcA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>林昊获中国计算机学会杰出工程师奖，阿里中间件再获高度肯定，“三位一体”推动技术普惠</title>
-    <updated>2021-01-12T19:04:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/vTqmIrenS8cAqNklR5FgNg</id>
-    <link href="https://mp.weixin.qq.com/s/vTqmIrenS8cAqNklR5FgNg" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

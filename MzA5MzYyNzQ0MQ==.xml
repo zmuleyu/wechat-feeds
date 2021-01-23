@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>HelloGitHub | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:25:59+08:00</updated>
+  <updated>2021-01-23T12:19:48+08:00</updated>
   <subtitle>分享 GitHub 上有趣、入门级的开源项目。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
@@ -43,13 +43,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>送书｜Python 荣获 2020 年度 TIOBE 编程语言奖！</title>
-    <updated>2021-01-14T17:31:25+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-14:/s/X33adeaJVfZppzQPA3rKCA</id>
-    <link href="https://mp.weixin.qq.com/s/X33adeaJVfZppzQPA3rKCA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>理解 Python 协程</title>
     <updated>2021-01-14T17:31:25+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/CKjFHV-xFfK_n_9DKFq6Eg</id>
@@ -64,13 +57,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>我所有 Python 项目，源码全在这了！</title>
-    <updated>2021-01-12T19:33:43+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-12:/s/8oMnesjG7syPyCrL3yTNkw</id>
-    <link href="https://mp.weixin.qq.com/s/8oMnesjG7syPyCrL3yTNkw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>500 份源码合集——GitHub 热点速览 v.21.02</title>
     <updated>2021-01-11T18:25:06+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-11:/s/h7DYGwE26tCQQfHeI3MIfg</id>
@@ -82,6 +68,13 @@
     <updated>2021-01-10T14:10:07+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-10:/s/DCZQj4CUUy-9bjRTXda6rg</id>
     <link href="https://mp.weixin.qq.com/s/DCZQj4CUUy-9bjRTXda6rg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>不想加班开发管理后台了，试试这个 Java 开源项目吧！</title>
+    <updated>2021-01-06T12:45:43+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-06:/s/UrYzYAJtkc5aG8wDmZ3hOA</id>
+    <link href="https://mp.weixin.qq.com/s/UrYzYAJtkc5aG8wDmZ3hOA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

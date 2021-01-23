@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Java技术江湖 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:10:26+08:00</updated>
+  <updated>2021-01-23T12:05:04+08:00</updated>
   <subtitle>一位阿里 Java 工程师的技术小站。专注 Java 相关技术：SSM、SpringBoot、MySQL、分布式、中间件、集群、网络、多线程，同时也分享技术干货和学习经验，致力于Java全栈开发！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Java面试三件套：基础+多线程+___?</title>
+    <updated>2021-01-23T08:10:01+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/4Jm_1qI2hef71KRd0SLEUQ</id>
+    <link href="https://mp.weixin.qq.com/s/4Jm_1qI2hef71KRd0SLEUQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>别瞎学了，这几门语言要被淘汰了！</title>
     <updated>2021-01-22T07:59:01+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2021-01-14T14:02:21+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/bgdUkmkAq0p23jbcZiB9Ow</id>
     <link href="https://mp.weixin.qq.com/s/bgdUkmkAq0p23jbcZiB9Ow" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Java 泛型 T，E，K，V，?，傻傻分不清？</title>
-    <updated>2021-01-13T07:59:01+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/kFkIRiIyMQiFDW6FiM_RdQ</id>
-    <link href="https://mp.weixin.qq.com/s/kFkIRiIyMQiFDW6FiM_RdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

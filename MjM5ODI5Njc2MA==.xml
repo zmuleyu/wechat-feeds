@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>51CTO技术栈 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T20:53:53+08:00</updated>
+  <updated>2021-01-23T12:21:41+08:00</updated>
   <subtitle>51CTO技术栈专注于IT技术领域，汇聚技术大咖为您分享开发架构、系统运维、大数据、人工智能等一线技术解析和实践案例等深度干货文章，愿我们一起悦享技术，成就CTO梦想！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>阿里技术Leader是如何带兵打仗的？</title>
+    <updated>2021-01-22T17:54:55+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/IwbXcINLKXD3bwCOn0pB-w</id>
+    <link href="https://mp.weixin.qq.com/s/IwbXcINLKXD3bwCOn0pB-w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>为什么要从Druid迁移到ClickHouse？</title>
     <updated>2021-01-22T17:11:46+08:00</updated>
@@ -138,13 +145,6 @@
     <updated>2021-01-14T17:21:41+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/Y_ioQbDXIxGP4wn-8EJ2dA</id>
     <link href="https://mp.weixin.qq.com/s/Y_ioQbDXIxGP4wn-8EJ2dA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nginx从入门到干活，看这一篇足矣</title>
-    <updated>2021-01-13T17:32:40+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/2Uc0BJupCKQWhpOpJyy14g</id>
-    <link href="https://mp.weixin.qq.com/s/2Uc0BJupCKQWhpOpJyy14g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

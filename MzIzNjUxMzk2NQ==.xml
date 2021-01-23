@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>架构头条 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T13:46:46+08:00</updated>
+  <updated>2021-01-23T11:58:57+08:00</updated>
   <subtitle>InfoQ旗下，专注于软件开发基础技术的专业公众号。  在这里，你可以看到涵盖架构、云计算、运维、数据库、安全、编程语言、程序员周边等全领域的干货内容。  帮助广大开发者更好地把握技术脉搏，找准技术方向，了解前沿技术落地实践。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>Flash停用致铁路瘫痪？大连车务段回应；苹果开源代码被发现含兼容微信的代码；QQ 被发现扫描并上传用户浏览器历史 | 架构视点</title>
+    <updated>2021-01-22T19:36:40+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/GNPZuqPJSGNxy4NVv1NApw</id>
+    <link href="https://mp.weixin.qq.com/s/GNPZuqPJSGNxy4NVv1NApw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>AWS 和 Elastic 吵起来了：鄙视改开源协议，我们要做真正开源的Elasticsearch！</title>
     <updated>2021-01-22T12:48:41+08:00</updated>
@@ -131,20 +138,6 @@
     <updated>2021-01-14T10:50:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/mSiGj6IJ4Lf0Rv6PfsnjBA</id>
     <link href="https://mp.weixin.qq.com/s/mSiGj6IJ4Lf0Rv6PfsnjBA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>网易严选如何治理成百上千的服务？</title>
-    <updated>2021-01-13T11:38:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/CFSOzsG6CReaZm0HsXUBxw</id>
-    <link href="https://mp.weixin.qq.com/s/CFSOzsG6CReaZm0HsXUBxw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>来自Airbnb、Netflix等公司的代码评审最佳实践</title>
-    <updated>2021-01-13T11:38:19+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/78JjQcQiomwC8cfz0RIU9g</id>
-    <link href="https://mp.weixin.qq.com/s/78JjQcQiomwC8cfz0RIU9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>dotNET跨平台 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:09:32+08:00</updated>
+  <updated>2021-01-23T12:04:32+08:00</updated>
   <subtitle>专注于.NET Core的技术传播。在这里你可以谈微软.NET,Mono的跨平台开发技术。在这里可以让你的.NET项目有新的思路，不局限于微软的技术栈，横跨Windows，Linux 主流平台</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>asp.net core服务中的限流</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/OQxvzpbVPdvy5LBtZstQyA</id>
+    <link href="https://mp.weixin.qq.com/s/OQxvzpbVPdvy5LBtZstQyA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>限制IIS站点的内存，避免级联影响</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/_BlacSPtbhFhFCjSvniX5Q</id>
+    <link href="https://mp.weixin.qq.com/s/_BlacSPtbhFhFCjSvniX5Q" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Visual Studio将原生支持WSL 2</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/uBvqM7BKYwIsRxgYgFr6vQ</id>
+    <link href="https://mp.weixin.qq.com/s/uBvqM7BKYwIsRxgYgFr6vQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>推荐：.Net 5开源免费的内容管理系统</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/IL9MkORRdCwhfCN6iWo1JQ</id>
+    <link href="https://mp.weixin.qq.com/s/IL9MkORRdCwhfCN6iWo1JQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>在 “相对” 高薪面前，任何的喊冤叫屈都是苍白无力的</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/P74vhwuqTne9C5xDOooPvQ</id>
+    <link href="https://mp.weixin.qq.com/s/P74vhwuqTne9C5xDOooPvQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>你有把依赖注入玩坏？</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/-BzOnrYoobgiR4KzIr7FZw</id>
+    <link href="https://mp.weixin.qq.com/s/-BzOnrYoobgiR4KzIr7FZw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hybrid-APP技术原理</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/2bOuA1tTygH7FWZXuo_kgw</id>
+    <link href="https://mp.weixin.qq.com/s/2bOuA1tTygH7FWZXuo_kgw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>诈尸了。不瞒您说，老坑从不填，天天开新坑</title>
+    <updated>2021-01-22T19:18:42+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/QyjNaoIeQzWhLJ4mWXyJrg</id>
+    <link href="https://mp.weixin.qq.com/s/QyjNaoIeQzWhLJ4mWXyJrg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>如何在 C# 8 中使用 Index 和 Range</title>
     <updated>2021-01-21T19:36:11+08:00</updated>
@@ -89,62 +145,6 @@
     <updated>2021-01-20T21:34:45+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-20:/s/xBltYh5pRKh3N4t3EcxLew</id>
     <link href="https://mp.weixin.qq.com/s/xBltYh5pRKh3N4t3EcxLew" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>IdentityServer4（六）授权码流程原理之SPA</title>
-    <updated>2021-01-20T21:34:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-20:/s/H-W1VEuxLI0W4twc7XP8Hw</id>
-    <link href="https://mp.weixin.qq.com/s/H-W1VEuxLI0W4twc7XP8Hw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>并行模型Actor</title>
-    <updated>2021-01-20T21:34:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-20:/s/rdF-MV7zqghGpSVuRiE4Nw</id>
-    <link href="https://mp.weixin.qq.com/s/rdF-MV7zqghGpSVuRiE4Nw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>国产OS推广应从娃娃和体制内双管齐下</title>
-    <updated>2021-01-20T21:34:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-20:/s/DViLver2yTYCyDKgSAtoog</id>
-    <link href="https://mp.weixin.qq.com/s/DViLver2yTYCyDKgSAtoog" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 “相对” 高薪面前，任何的喊冤叫屈都是苍白无力的</title>
-    <updated>2021-01-20T21:34:45+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-20:/s/5AFUk7cWH3gX0mvCJvDVPw</id>
-    <link href="https://mp.weixin.qq.com/s/5AFUk7cWH3gX0mvCJvDVPw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>在 C# 中生成代码的四种方式——包括.NET 5中的Source Generators</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/lVl7h6pnUG_HtFpdWG8MFQ</id>
-    <link href="https://mp.weixin.qq.com/s/lVl7h6pnUG_HtFpdWG8MFQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>你 ！想成为只会跟机器打交道的程序员？还是能成就无数人、受人尊敬的.NET讲师？</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/qI47Smz2Ifd33F7--KjL3A</id>
-    <link href="https://mp.weixin.qq.com/s/qI47Smz2Ifd33F7--KjL3A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WTM5.0发布，全面支持.net5</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/bzL8mFTMza5JWNCbbKXv_g</id>
-    <link href="https://mp.weixin.qq.com/s/bzL8mFTMza5JWNCbbKXv_g" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 C# 9 的records作为强类型ID - JSON序列化</title>
-    <updated>2021-01-19T19:01:37+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-19:/s/5eo1W4hNE0BuUKDcOk-QdQ</id>
-    <link href="https://mp.weixin.qq.com/s/5eo1W4hNE0BuUKDcOk-QdQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

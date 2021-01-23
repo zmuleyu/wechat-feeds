@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>AWS云计算 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T14:02:35+08:00</updated>
+  <updated>2021-01-23T12:16:13+08:00</updated>
   <subtitle>AWS 官方公众号，第一时间获取关于 AWS 国内外服务的资讯。AWS 中国（宁夏）区域由西云数据运营，AWS 中国（北京）区域由光环新网运营。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>看西联软件如何拿下四川省 7 成连锁卖场 | AWS 精选案例</title>
+    <updated>2021-01-23T12:00:21+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/21Qee-r-SXmNwJHIbfbz4w</id>
+    <link href="https://mp.weixin.qq.com/s/21Qee-r-SXmNwJHIbfbz4w" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>看 AWS 如何帮助客户以低成本造就更多可能 | AWS 创新视野</title>
     <updated>2021-01-22T12:19:12+08:00</updated>
@@ -75,20 +82,6 @@
     <updated>2021-01-14T10:50:27+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-14:/s/lsLaBFsJON-d5k3oJPQe4Q</id>
     <link href="https://mp.weixin.qq.com/s/lsLaBFsJON-d5k3oJPQe4Q" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AWS 招聘贴 | 2021 开年，给你一份新工作！</title>
-    <updated>2021-01-13T12:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/fPITwl9T6r0LhLCDiYy-zw</id>
-    <link href="https://mp.weixin.qq.com/s/fPITwl9T6r0LhLCDiYy-zw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AWS x Splunk | “双剑合璧”，将数据转化为生产力</title>
-    <updated>2021-01-13T12:18:41+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-13:/s/F-0lujLerWoxuyKjflJWoA</id>
-    <link href="https://mp.weixin.qq.com/s/F-0lujLerWoxuyKjflJWoA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

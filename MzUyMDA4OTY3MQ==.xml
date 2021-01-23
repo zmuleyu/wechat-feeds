@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪尖聊大数据 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T16:55:53+08:00</updated>
+  <updated>2021-01-23T12:19:29+08:00</updated>
   <subtitle>主要分享大数据框架，如spark，flink，kafka，hbase原理源码，同时会分享数据仓库，图计算等浪尖擅长领域。</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>建立数据思维的13个实用思维工具</title>
+    <updated>2021-01-23T12:06:11+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/Kx2ethc3tZLMJNTD6ufktQ</id>
+    <link href="https://mp.weixin.qq.com/s/Kx2ethc3tZLMJNTD6ufktQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>数仓潮汐猎人 | 数据仓库企业数仓拉链表制作​</title>
     <updated>2021-01-21T22:33:11+08:00</updated>
@@ -103,13 +110,6 @@
     <updated>2021-01-13T12:12:59+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-13:/s/ZuVkZmjEBxMY0aXCNFbrKA</id>
     <link href="https://mp.weixin.qq.com/s/ZuVkZmjEBxMY0aXCNFbrKA" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>字节跳动ClickHouse在用户增长分析场景的应用</title>
-    <updated>2021-01-11T22:34:33+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-11:/s/ac8LgqJ-e09VLelj9Y7x9g</id>
-    <link href="https://mp.weixin.qq.com/s/ac8LgqJ-e09VLelj9Y7x9g" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

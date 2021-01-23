@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go语言中文网 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-22T12:12:43+08:00</updated>
+  <updated>2021-01-23T12:07:20+08:00</updated>
   <subtitle>Go 语言爱好者社区，这里有精选的网站上数千篇优秀文章供你学习，内容涵盖Go基础系列教程、实战教程等优秀开源项目实践，同时会分享职场经验。每周获取 Go 语言一周资讯等值得关注的内容。还有大量免费好课与送书活动</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>27 寸 4K 高清显示器写 Go 真香，包邮送一台！</title>
+    <updated>2021-01-22T23:31:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/SKuZgImlAJkl2LuRC9pxrw</id>
+    <link href="https://mp.weixin.qq.com/s/SKuZgImlAJkl2LuRC9pxrw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>从这个问题谈起：channel 的哪些操作会引发 panic？</title>
+    <updated>2021-01-22T23:31:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/RVBeIjOf5I2WLcPi06JVmg</id>
+    <link href="https://mp.weixin.qq.com/s/RVBeIjOf5I2WLcPi06JVmg" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>如何配置 sql.DB 才能获取更好的性能？</title>
+    <updated>2021-01-22T23:31:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-22:/s/j4qnTOC4vzAc6-D5DmZ57A</id>
+    <link href="https://mp.weixin.qq.com/s/j4qnTOC4vzAc6-D5DmZ57A" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>与其疯狂读源码，不如自己造源码！</title>
     <updated>2021-01-21T23:45:11+08:00</updated>
@@ -113,13 +134,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>用 Go 实现一个分布式数据库需要掌握哪些知识？</title>
-    <updated>2021-01-18T15:45:11+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-18:/s/ZGJBMhuvGs_v2ji6n6YZAw</id>
-    <link href="https://mp.weixin.qq.com/s/ZGJBMhuvGs_v2ji6n6YZAw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Gopher 可能不知晓 epoll 是什么鬼？看看该文</title>
     <updated>2021-01-18T15:45:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/f67G4qm7zzu4amscfCzpzA</id>
@@ -131,20 +145,6 @@
     <updated>2021-01-18T15:45:11+08:00</updated>
     <id>tag:mp.weixin.qq.com,2021-01-18:/s/vH60scwPKxzYDf1wmcvRJg</id>
     <link href="https://mp.weixin.qq.com/s/vH60scwPKxzYDf1wmcvRJg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Go语言爱好者周刊：第 78 期 — 这道关于 goroutine 的题</title>
-    <updated>2021-01-17T11:31:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/kma8hvdLVPIkZnKw_MaSKg</id>
-    <link href="https://mp.weixin.qq.com/s/kma8hvdLVPIkZnKw_MaSKg" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>使用 Go 和 ReactJS 构建聊天系统（六）：Docker 部署</title>
-    <updated>2021-01-17T11:31:28+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2021-01-17:/s/CLna0qjhis0FJ4bn_sKffA</id>
-    <link href="https://mp.weixin.qq.com/s/CLna0qjhis0FJ4bn_sKffA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>

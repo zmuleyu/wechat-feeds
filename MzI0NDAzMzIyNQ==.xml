@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>程序新视界 | wechat-feeds</title>
   <id>https://github.com/hellodword/wechat-feeds</id>
-  <updated>2021-01-21T02:51:52+08:00</updated>
+  <updated>2021-01-23T12:20:30+08:00</updated>
   <subtitle>编程，读书，职场感悟，带你开启新的程序视界！</subtitle>
   <link href="https://github.com/hellodword/wechat-feeds"></link>
   <author>
     <name>hellodword</name>
   </author>
+  <entry>
+    <title>如何将一个项目同时提交到GitHub和Gitee(码云)上</title>
+    <updated>2021-01-23T10:08:58+08:00</updated>
+    <id>tag:mp.weixin.qq.com,2021-01-23:/s/DyEu2wbEqkBduE0nup5ePA</id>
+    <link href="https://mp.weixin.qq.com/s/DyEu2wbEqkBduE0nup5ePA" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>还在亲手写Filter进行权限校验？尝试一下Shiro吧</title>
     <updated>2021-01-20T22:09:38+08:00</updated>
@@ -68,13 +75,6 @@
     <updated>2020-12-24T21:40:24+08:00</updated>
     <id>tag:mp.weixin.qq.com,2020-12-24:/s/mGQG28r0URTCa7VxtOlY_A</id>
     <link href="https://mp.weixin.qq.com/s/mGQG28r0URTCa7VxtOlY_A" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>根据Token获取用户信息的N种姿势，这种最完美！</title>
-    <updated>2020-12-20T18:54:24+08:00</updated>
-    <id>tag:mp.weixin.qq.com,2020-12-20:/s/uMNUskG2FcwwqJRUGQt7CA</id>
-    <link href="https://mp.weixin.qq.com/s/uMNUskG2FcwwqJRUGQt7CA" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
