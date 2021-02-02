@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Mon, 01 Feb 2021 11:22:29 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>答应我，高并发千万别再这样处理了</title><link>https://mp.weixin.qq.com/s/N4fI6Jk4JNEkFCaleUBhlA</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdeynsy3rYIibhKNZfMAwnvfvZeKgM4iasnVhibtuYtEVjLbnF0icDiaYzSzSFJz6gFP2CddDjzIQRQiclw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>不论是哪个阶段的工程师都清楚，实操落地才是进步的关键！]]></content:encoded><pubDate>Sun, 31 Jan 2021 22:28:03 +0800</pubDate></item><item><title>这款 SQL自动检查神器，吊炸天的功能，真TMD多！！</title><link>https://mp.weixin.qq.com/s/or0603LhfdeqqyJoZ0nvqQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdeynsy3rYIibhKNZfMAwnvfNtdAJxdWicvdMhmWBAZo4iagWO5xwhoTBzTJwBZlAqTsHibRpluibiborRA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>Yearning MYSQL 是一个SQL语句审核平台。提供查询审计，SQL审核等多种功能，支持Mysql，可以在一定程度上解决运维与开发之间的那一环，功能丰富，代码开源，安装部署容易！]]></content:encoded><pubDate>Sun, 31 Jan 2021 22:28:03 +0800</pubDate></item><item><title>阿里终面：如何设计一个高性能网关？</title><link>https://mp.weixin.qq.com/s/uE6kRWpY3s6fqPaCv_toPw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdeynsy3rYIibhKNZfMAwnvflDOr0ILG7Ns52vprhyqKjuzKDhbqTMibIiaVvervlmicmzCdZGD7ArPRA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、前言
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Tue, 02 Feb 2021 11:39:06 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>Jenkins + 钉钉 + SpringBoot 极简入门，一键打包部署项目</title><link>https://mp.weixin.qq.com/s/z3RaI9ZqhPYWk7RbeagMJw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdPwMocfbmDXezzWAufWT0NOsBk78eHl27ibVJQXHHvnZObVaiaUokLHkKUGJ0Q0NeIXmhiaHgV9Iy5w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>Jenkins 是一款开源 CI&CD 软件，用于自动化各种任务，包括构建、测试和部署软件。
+Jenkins 支持各种运行方式，可通过系统包、Docker 或者通过一个独立的 Java 程序。]]></content:encoded><pubDate>Mon, 01 Feb 2021 23:51:25 +0800</pubDate></item><item><title>处理 Exception 的几种实践，很优雅，被很多团队采纳！</title><link>https://mp.weixin.qq.com/s/Ib8kVFQh0Q0utI3Xq_Akjw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdPwMocfbmDXezzWAufWT0NJiaeaKl6LicgkAjS5mP42kQ8FQljcTd0MAK1IJUkKiaK6F9NCTqS1jicng/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>在Finally块中清理资源或者使用try-with-resource语句
+指定具体的异常
+对异常进行文档说明
+抛出异常的时候包含描述信息
+首先捕获最具体的异常
+不要忽略异常
+不要记录并抛出异常
+包装异常时不要抛弃原始的异常
+总结]]></content:encoded><pubDate>Mon, 01 Feb 2021 23:51:25 +0800</pubDate></item><item><title>23 种设计模式的通俗解释</title><link>https://mp.weixin.qq.com/s/Wdrj5vbIKXMZ7AJORiXpEQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdPwMocfbmDXezzWAufWT0Nl5PGI7dOG9hLDcNEe7EfEecXEXd5f9XBA3JpFqFobWUPLBjjcgUT9w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>01 工厂方法
+02 建造者模式
+03 抽象工厂
+04 原型模式
+05 单态模式
+06 适配器模式
+07 桥梁模式
+08 合成模式
+09 装饰模式
+10 门面模式
+11 享元模式
+12 代理模式
+13 责任链模式
+14 命令模式
+...]]></content:encoded><pubDate>Mon, 01 Feb 2021 23:51:25 +0800</pubDate></item><item><title>答应我，高并发千万别再这样处理了</title><link>https://mp.weixin.qq.com/s/N4fI6Jk4JNEkFCaleUBhlA</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdeynsy3rYIibhKNZfMAwnvfvZeKgM4iasnVhibtuYtEVjLbnF0icDiaYzSzSFJz6gFP2CddDjzIQRQiclw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>不论是哪个阶段的工程师都清楚，实操落地才是进步的关键！]]></content:encoded><pubDate>Sun, 31 Jan 2021 22:28:03 +0800</pubDate></item><item><title>这款 SQL自动检查神器，吊炸天的功能，真TMD多！！</title><link>https://mp.weixin.qq.com/s/or0603LhfdeqqyJoZ0nvqQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdeynsy3rYIibhKNZfMAwnvfNtdAJxdWicvdMhmWBAZo4iagWO5xwhoTBzTJwBZlAqTsHibRpluibiborRA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>Yearning MYSQL 是一个SQL语句审核平台。提供查询审计，SQL审核等多种功能，支持Mysql，可以在一定程度上解决运维与开发之间的那一环，功能丰富，代码开源，安装部署容易！]]></content:encoded><pubDate>Sun, 31 Jan 2021 22:28:03 +0800</pubDate></item><item><title>阿里终面：如何设计一个高性能网关？</title><link>https://mp.weixin.qq.com/s/uE6kRWpY3s6fqPaCv_toPw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdeynsy3rYIibhKNZfMAwnvflDOr0ILG7Ns52vprhyqKjuzKDhbqTMibIiaVvervlmicmzCdZGD7ArPRA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、前言
 二、设计
 2.1技术选型
 2.2需求清单
@@ -45,11 +68,4 @@ Get路径带参数
 2. JIRA
 3. Slack
 4. 检查器
-5. 公司内部黑客马拉松]]></content:encoded><pubDate>Wed, 27 Jan 2021 08:42:21 +0800</pubDate></item><item><title>从零实现一个日志框架（带源码）</title><link>https://mp.weixin.qq.com/s/uREvWMJ994zR9cIjubF2-w</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdWAdtibcKqxmw5ibDqnwMhY0OkZrCnn2DR91FEr4KfEbqer0DgibUaxqiaN6NM7ibXnrh0hRDvsrxaPEA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>输出内容 - LoggingEvent
-输出组件 - Appender
-日志级别设计 - Level
-日志打印入口 - Logger
-日志层级 - Hierarchy
-日志上下文 - LoggerContext
-。。。]]></content:encoded><pubDate>Wed, 27 Jan 2021 08:42:21 +0800</pubDate></item><item><title>编码 5 分钟，命名 2 小时？Java 开发都需要参考的一份命名规范！</title><link>https://mp.weixin.qq.com/s/Pjj9mUt0nggEB4DLGEXY8g</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfe7mxsG27sQDx6DqvFticPfoHD9GVdGHQKWibvkPzicZDFpWElkfNvZibB83iaR5wdnLMsULjYLbhtPRiag/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>简洁清爽的代码风格应该是大多数工程师所期待的。在工作中笔者常常因为起名字而纠结，命名已经成为我工作中的拦路虎，夸张点可以说是编程5分钟，命名两小时！
-每个公司都有不同的标准，目的是为了保持统一，减少沟通成本，提升团队研发效能。。。]]></content:encoded><pubDate>Tue, 26 Jan 2021 00:22:51 +0800</pubDate></item><item><title>太牛逼了！项目中用了 Disruptor 之后，性能提升了2.5倍</title><link>https://mp.weixin.qq.com/s/SSDj3F3DJ6xu1XbE2P7MPA</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfe7mxsG27sQDx6DqvFticPfoiahjgVpNv6Z9mibZ9bibF15A91tQ5ssm7PB7Za50tIPdAXHIHyHbEIx6Q/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>存储设备往往是速度越快价格越昂贵，速度越快价格越低廉。在计算机中，CPU 的速度远高于主存的速度，而主存的速度又远高于磁盘的速度。为了解决不同存储部件的速度不对等问题，让高速设备充分发挥性能，引入了多级缓存机制。]]></content:encoded><pubDate>Tue, 26 Jan 2021 00:22:51 +0800</pubDate></item></channel></rss>
+5. 公司内部黑客马拉松]]></content:encoded><pubDate>Wed, 27 Jan 2021 08:42:21 +0800</pubDate></item></channel></rss>
