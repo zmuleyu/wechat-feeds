@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Fri, 12 Feb 2021 13:21:06 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>1000 个不用 Null 的理由</title><link>https://mp.weixin.qq.com/s/_j4xz8Vqrr2736pgC_eWig</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBBF6icLoavu3npKOIia5mibeOJhPh5Ba7P7d7q8546xe7go8LERIhduEcWaGgW2iciadKHpibMU8Cic22Q/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>港真，Null 貌似在哪里都是个头疼的问题，比如 Java 里让人头疼的 NullPointerException，为了避免猝不及防的空指针异常，千百年来程序猿们不得不在代码里小心翼翼的各种 if 判断，麻烦而又臃肿，。。。]]></content:encoded><pubDate>Fri, 12 Feb 2021 00:11:19 +0800</pubDate></item><item><title>队友代码神注释，ORZ 留下两行泪</title><link>https://mp.weixin.qq.com/s/OMnQ225PXEV4Bo6UW8B89g</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBBF6icLoavu3npKOIia5mibe7yibUuRSxMWYz1GPJCaPYVTqlFEcfMGJ8BVAQ2qy1asrWOJHOUUTib8w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>太有趣了！！！]]></content:encoded><pubDate>Fri, 12 Feb 2021 00:11:19 +0800</pubDate></item><item><title>程序员需要知道的缩写和专业名词</title><link>https://mp.weixin.qq.com/s/Bft0KGIPzEyXDrMHBMrTrg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBBF6icLoavu3npKOIia5mibeHTbvT6KHY4EBnJqHTg1yFGg00SCjz42yDiafS5icP51THXvibuE7brib9Q/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>英文缩写
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Sat, 13 Feb 2021 11:56:05 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>PO、VO、DAO、BO、DTO、POJO 能分清吗？</title><link>https://mp.weixin.qq.com/s/xgoXFbLGNqFF2N4yR2Hbyg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffDTJ8rKhOXiaKlLRBYRmemRb1JqHpnxdEoNX3Ma03F16DbLYticTLASGibtsxr81NCYUubHkHDANbzg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、PO :(persistant object )，持久对象
+二、VO :(value object) ，值对象
+三、DAO :(Data Access Objects) ，数据访问对象接口
+。。。]]></content:encoded><pubDate>Fri, 12 Feb 2021 23:40:09 +0800</pubDate></item><item><title>Docker 部署 SpringBoot 的两种方法，后一种一键部署超好用！</title><link>https://mp.weixin.qq.com/s/UcTyEwYmWPQfv-Qdpjn-kg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffDTJ8rKhOXiaKlLRBYRmemRhgJFNcHSHr9zE3jetYfiaWB7UY17BjEE50KGa1lmDVG9jktP2UkhxLA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1.手工方式
+1.1.准备Springboot jar项目
+1.2.编写Dockerfile
+1.3.构建容器
+1.4.运行容器
+1.5.查看运行日志
+1.6.访问测试
+2.Docker远程连接并且使用idea一键部署
+。。。]]></content:encoded><pubDate>Fri, 12 Feb 2021 23:40:09 +0800</pubDate></item><item><title>互联网后端基础设施</title><link>https://mp.weixin.qq.com/s/XeclpS4d9k655lGA55gj2g</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffDTJ8rKhOXiaKlLRBYRmemRjXmSh7deeyhUiacu1yxJSFdoy764ukJLibjASWvyTMNiaJoic1Paw1uHhw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1 统一请求入口-API网关
+2 业务应用和后端基础框架
+3 缓存、数据库、搜索引擎、消息队列
+4 文件存储
+5 统一认证中心
+6 单点登录系统
+7 统一配置中心
+8 服务治理框架
+9 统一调度中心
+10 统一日志服务
+11 数据基础设施]]></content:encoded><pubDate>Fri, 12 Feb 2021 23:40:09 +0800</pubDate></item><item><title>1000 个不用 Null 的理由</title><link>https://mp.weixin.qq.com/s/_j4xz8Vqrr2736pgC_eWig</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBBF6icLoavu3npKOIia5mibeOJhPh5Ba7P7d7q8546xe7go8LERIhduEcWaGgW2iciadKHpibMU8Cic22Q/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>港真，Null 貌似在哪里都是个头疼的问题，比如 Java 里让人头疼的 NullPointerException，为了避免猝不及防的空指针异常，千百年来程序猿们不得不在代码里小心翼翼的各种 if 判断，麻烦而又臃肿，。。。]]></content:encoded><pubDate>Fri, 12 Feb 2021 00:11:19 +0800</pubDate></item><item><title>队友代码神注释，ORZ 留下两行泪</title><link>https://mp.weixin.qq.com/s/OMnQ225PXEV4Bo6UW8B89g</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBBF6icLoavu3npKOIia5mibe7yibUuRSxMWYz1GPJCaPYVTqlFEcfMGJ8BVAQ2qy1asrWOJHOUUTib8w/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>太有趣了！！！]]></content:encoded><pubDate>Fri, 12 Feb 2021 00:11:19 +0800</pubDate></item><item><title>程序员需要知道的缩写和专业名词</title><link>https://mp.weixin.qq.com/s/Bft0KGIPzEyXDrMHBMrTrg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBBF6icLoavu3npKOIia5mibeHTbvT6KHY4EBnJqHTg1yFGg00SCjz42yDiafS5icP51THXvibuE7brib9Q/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>英文缩写
 专业名词]]></content:encoded><pubDate>Fri, 12 Feb 2021 00:11:19 +0800</pubDate></item><item><title>我把 Spring Boot 的 banner 换成了美女，老板说工作不饱和，建议安排加班</title><link>https://mp.weixin.qq.com/s/7rOJePAFXF_mWxwoc_-ehA</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfcsY2gcTMtUrqEGBickhUwgibXSJNAm7TAvnBhRic62GOJkXPW7kGtSChA6he2RgPdpwZAjegib5Kxcuw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>在SpringBoot项目的resources目录下新建一个banner.txt文本文件，然后将启动Banner粘贴到此文本文件中，启动项目即可。]]></content:encoded><pubDate>Wed, 10 Feb 2021 21:20:52 +0800</pubDate></item><item><title>IDEA 使用 GsonFormat 完成 JSON 和 JavaBean 之间的转换</title><link>https://mp.weixin.qq.com/s/1NtuoHbfoocj-Dbm7FNhxw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfcsY2gcTMtUrqEGBickhUwgibS8mxxTWiaBCHk5viahhjSGNGdsWxRU4w5ZCm8YbONicTwibmpPmTBT5jiaQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>最近一直在对接接口，上游返回的都是JSON数据，我们需要将这些数据进行保存，我们可以解析成Map通过key的方式进行获取，然后set到实体类对象中。
 
 说到这里我开始想吐了，这样就造成了代码过多，没有可读性，如果有100个值。。。]]></content:encoded><pubDate>Wed, 10 Feb 2021 21:20:52 +0800</pubDate></item><item><title>面试官：线程顺序执行,这么多答案你都答不上来？</title><link>https://mp.weixin.qq.com/s/BoBlOW0noPgLKUO56kiYcw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfcsY2gcTMtUrqEGBickhUwgib7MFL5DV75l1BOAqDH7eqTsibgKHZj2FMRPXKcZibBDpXvm5eNa312SGw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、实现
@@ -51,18 +72,4 @@ MyBatis 流式查询接口
 2. HTTPS 协议
 2.1 HTTPS 简介
 2.2 CA 认证体系
-总结]]></content:encoded><pubDate>Sat, 06 Feb 2021 20:24:36 +0800</pubDate></item><item><title>“RPC 好，还是 RESTful 好？” 不要选错了！</title><link>https://mp.weixin.qq.com/s/i_83OM4cVlgysKIvlCBhhA</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdwssHEcn2ktjqwdzQ4BHExqG7k1S1bgrUAWUssG5ZKnOkicRkecraFuEK42Gz1tnPYLw3qicCOVqKg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>OSI网络七层模型
-RPC服务
-RPC架构
-同步调用与异步调用
-流行的RPC框架
-HTTP服务
-总之]]></content:encoded><pubDate>Sat, 06 Feb 2021 20:24:36 +0800</pubDate></item><item><title>我的亲历：一行代码，百万人民币打水漂！</title><link>https://mp.weixin.qq.com/s/Pqr6K5UekIj68H1E7iBktQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfencgpERyLMSTzvGVjwiaic1to7icL556AibSS9ib2V0H0PUd1y1eR9f8lk2hu6D5THyiaKiauIAX0zYudIg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>几年前，刚进入职场，作为程序员走上了技术这条路，不久便亲身经历了一件特别震撼的事情。那是一行代码引发的线上故障，故障造成了百万级的资金损失。时至今日，我依然印象深刻，也正是这件事，让我在职业生涯初期就形成了敬畏代码，严谨做事的态度。。。]]></content:encoded><pubDate>Sat, 06 Feb 2021 00:30:47 +0800</pubDate></item><item><title>这么写参数校验(Validator)就不会被劝退了~</title><link>https://mp.weixin.qq.com/s/eW8bdeVwgs3AAkMX6CMm4A</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfencgpERyLMSTzvGVjwiaic1teYXrCPricYO5nB3L1wXyaRJ3WNh6bG7Licgjgf2esooew6fKN7RlY4wg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>为什么要用validator
-实战演练
-1. @Validated 声明要检查的参数
-2. 对参数的字段进行注解标注
-3. 在全局校验中增加校验异常
-4. 测试
-自定义参数注解
-1. 比如我们来个 自定义身份证校验 注解
-总结]]></content:encoded><pubDate>Sat, 06 Feb 2021 00:30:47 +0800</pubDate></item></channel></rss>
+总结]]></content:encoded><pubDate>Sat, 06 Feb 2021 20:24:36 +0800</pubDate></item></channel></rss>
