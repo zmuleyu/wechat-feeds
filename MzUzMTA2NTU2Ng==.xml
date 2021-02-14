@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Sat, 13 Feb 2021 11:56:05 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>PO、VO、DAO、BO、DTO、POJO 能分清吗？</title><link>https://mp.weixin.qq.com/s/xgoXFbLGNqFF2N4yR2Hbyg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffDTJ8rKhOXiaKlLRBYRmemRb1JqHpnxdEoNX3Ma03F16DbLYticTLASGibtsxr81NCYUubHkHDANbzg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、PO :(persistant object )，持久对象
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Sun, 14 Feb 2021 11:55:15 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>参考阿里规范，优秀的 Java 项目代码都是如何分层的？</title><link>https://mp.weixin.qq.com/s/zCYPALSDWVlU13uZO-wP3Q</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfc5f4L6ok3aYOwcVbsjWkZ1HTAvNRqV8Wg8WIH8MoyQ03DgcAHFYA0NFzc8d4Exf0V0XCQNBytAgA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1、背景
+2、如何进行分层
+2.1、阿里规范
+2.2、优化分层
+3、分层领域模型的转换
+4、总结]]></content:encoded><pubDate>Sat, 13 Feb 2021 19:20:02 +0800</pubDate></item><item><title>MyBatis 三种批量插入方式的对比</title><link>https://mp.weixin.qq.com/s/xASHQhIsok5MuXzYeQHkzQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfc5f4L6ok3aYOwcVbsjWkZ1icnbng9cul7NhTW9GHS2g9pFEmvSqSaT8vagojxe1AltdFFIwfFAbvg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>先说结论：少量插入请使用反复插入单条数据，方便。数量较多请使用批处理方式。（可以考虑以有需求的插入数据量20条左右为界吧，在我的测试和数据库环境下耗时都是百毫秒级的，方便最重要）。无论何时都不用xml拼接sql的方式 。]]></content:encoded><pubDate>Sat, 13 Feb 2021 19:20:02 +0800</pubDate></item><item><title>给你一份 Spring Boot 知识清单</title><link>https://mp.weixin.qq.com/s/NnsaDx7sb_xnH_YczSyhPQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfc5f4L6ok3aYOwcVbsjWkZ1wO6vZIpWLkEib1WpQc9WauEHb29LcIQlEkvHsicNBAvJd5m0WGgIB4Ug/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、抛砖引玉：探索Spring IoC容器
+二、夯实基础：JavaConfig与常见Annotation
+三、削铁如泥：SpringFactoriesLoader详解
+四、另一件武器：Spring容器的事件监听机制
+。。。]]></content:encoded><pubDate>Sat, 13 Feb 2021 19:20:02 +0800</pubDate></item><item><title>PO、VO、DAO、BO、DTO、POJO 能分清吗？</title><link>https://mp.weixin.qq.com/s/xgoXFbLGNqFF2N4yR2Hbyg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffDTJ8rKhOXiaKlLRBYRmemRb1JqHpnxdEoNX3Ma03F16DbLYticTLASGibtsxr81NCYUubHkHDANbzg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一、PO :(persistant object )，持久对象
 二、VO :(value object) ，值对象
 三、DAO :(Data Access Objects) ，数据访问对象接口
 。。。]]></content:encoded><pubDate>Fri, 12 Feb 2021 23:40:09 +0800</pubDate></item><item><title>Docker 部署 SpringBoot 的两种方法，后一种一键部署超好用！</title><link>https://mp.weixin.qq.com/s/UcTyEwYmWPQfv-Qdpjn-kg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffDTJ8rKhOXiaKlLRBYRmemRhgJFNcHSHr9zE3jetYfiaWB7UY17BjEE50KGa1lmDVG9jktP2UkhxLA/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1.手工方式
@@ -59,17 +68,4 @@ jstack状态
 2 自定义异常封装类
 3 错误枚举，拒绝硬编码
 4 全局异常处理类
-5 测试]]></content:encoded><pubDate>Sun, 07 Feb 2021 23:22:03 +0800</pubDate></item><item><title>我用 MySQL 干掉了一摞简历</title><link>https://mp.weixin.qq.com/s/xupo9W65AoeMx7qyVQcobQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffIETLNDPlRcUwSKHaQf5ic9yWpvxrJe4HgCl9BhDQxB2bA95v3mmG22V1hBe18ug7yIeBcPO4QnAQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>对 MySQL 的理解上了一个新高度]]></content:encoded><pubDate>Sun, 07 Feb 2021 23:22:03 +0800</pubDate></item><item><title>很高兴！终于踩到了慢查询的坑</title><link>https://mp.weixin.qq.com/s/jpCFDdD7O0vD-GctaTNNFQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffIETLNDPlRcUwSKHaQf5ic9Z8Rc94uNmRlwkb2f5gPzRX7XrG5Cyicibicgffj43YP6v4qWeaPOQSgIw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>将应用发布到生产环境后，前端页面请求后台API返回数据，发现至少需要6s。查看到慢sql：
-!!!]]></content:encoded><pubDate>Sun, 07 Feb 2021 23:22:03 +0800</pubDate></item><item><title>你还在用分页？试试 MyBatis 流式查询，真心强大！</title><link>https://mp.weixin.qq.com/s/3miuZuhcXNiNQiYH0vh6Wg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdwssHEcn2ktjqwdzQ4BHExt2UOxnuZicHUYYGic4ibhcZZgk6IF65JNgwNLBG52l5Yt9kxtsd0wibjiaQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>基本概念
-MyBatis 流式查询接口
-但构建 Cursor 的过程不简单
-方案一：SqlSessionFactory
-方案二：TransactionTemplate
-方案三：@Transactional 注解]]></content:encoded><pubDate>Sat, 06 Feb 2021 20:24:36 +0800</pubDate></item><item><title>记住看小电影前一定要检查一下域名是不是 HTTPS 的，不然……</title><link>https://mp.weixin.qq.com/s/0koE_mYKCCWI7kmbtRBs1g</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfdwssHEcn2ktjqwdzQ4BHExLDbicLkjKJqwSMkYZXOt9m6ianviaIvk5kwuiapO8EUYxjhNnCJJf5ENIQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1. HTTP 协议
-1.1 HTTP 协议介绍
-1.2 HTTP 中间人攻击
-1.3 防止中间人攻击
-2. HTTPS 协议
-2.1 HTTPS 简介
-2.2 CA 认证体系
-总结]]></content:encoded><pubDate>Sat, 06 Feb 2021 20:24:36 +0800</pubDate></item></channel></rss>
+5 测试]]></content:encoded><pubDate>Sun, 07 Feb 2021 23:22:03 +0800</pubDate></item><item><title>我用 MySQL 干掉了一摞简历</title><link>https://mp.weixin.qq.com/s/xupo9W65AoeMx7qyVQcobQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffIETLNDPlRcUwSKHaQf5ic9yWpvxrJe4HgCl9BhDQxB2bA95v3mmG22V1hBe18ug7yIeBcPO4QnAQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>对 MySQL 的理解上了一个新高度]]></content:encoded><pubDate>Sun, 07 Feb 2021 23:22:03 +0800</pubDate></item></channel></rss>
