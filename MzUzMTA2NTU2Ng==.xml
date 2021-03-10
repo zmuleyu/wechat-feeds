@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Tue, 09 Mar 2021 11:59:36 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>一步一图，带你走进 Netty 的世界！</title><link>https://mp.weixin.qq.com/s/341JER0azceY0b_J6lIuww</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfewtQrduiaBqXpjUoqnk12Cwib5IsqtY3icm0d5kV4ZRK4h4pdWUOBOwtzQUR5TowzpBqMIkDG4bqrUQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1. Netty是什么
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><description>纯 Java 源码分享公众号，目前有「Dubbo」「SpringCloud」「Java 并发」「RocketMQ」「Sharding-JDBC」「MyCAT」「Elastic-Job」「SkyWalking」「Spring」等等</description><managingEditor> (hellodword)</managingEditor><pubDate>Wed, 10 Mar 2021 12:07:35 +0800</pubDate><image><url>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</url><title>芋道源码 | wechat-feeds</title><link>http://MzUzMTA2NTU2Ng.favicon.privacyhide.com/favicon.ico</link><width>64</width><height>64</height></image><item><title>使用最广泛的缓存Redis，升级到6.0后超神了</title><link>https://mp.weixin.qq.com/s/SNo6shfDwX8_zvf-euW0ow</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffXxM6torej4lxRENBTGVR0mGZy2GtSACgap1vyvpBXiciapgZw5OAcYxYJUib38NsICTyfOubeXsDSg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>牛逼得不行]]></content:encoded><pubDate>Wed, 10 Mar 2021 00:22:56 +0800</pubDate></item><item><title>使用雪花id或uuid作为Mysql主键，被老板怼了一顿！</title><link>https://mp.weixin.qq.com/s/_NwW38cbpTsVkIqTdnwRtg</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffXxM6torej4lxRENBTGVR0O61LTysSjkPOMLynicd4u0icibTvtfviabAP4dRSAg4ZKc1TnEnf6oI1kg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>前言
+一、mysql和程序实例
+1.1.要说明这个问题,我们首先来建立三张表
+1.2.光有理论不行,直接上程序,使用spring的jdbcTemplate来实现增查测试：
+二、使用uuid和自增id的索引结构对比
+三、总结]]></content:encoded><pubDate>Wed, 10 Mar 2021 00:22:56 +0800</pubDate></item><item><title>进程、线程、进程池、进程三态、同步、异步、并发、并行、串行</title><link>https://mp.weixin.qq.com/s/3eL_pBlnRUzUMH0_w-i3gw</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZffXxM6torej4lxRENBTGVR0jh1xw1EMUkp1QeR12atcCsBCXvape7HeJ6L3fMUxuKTFVvzlQ0sW3g/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>一进程, 线程
+1.🌵进程
+2.🌵线程
+3.🌵进程与线程的关系
+4.🌵总结
+二.并行, 并发, 串行
+四.任务运行的三种状态
+1.就绪态 (Ready)
+2.运行态 (Running)
+四.任务提交的两种方式
+五.进程池
+。。。]]></content:encoded><pubDate>Wed, 10 Mar 2021 00:22:56 +0800</pubDate></item><item><title>一步一图，带你走进 Netty 的世界！</title><link>https://mp.weixin.qq.com/s/341JER0azceY0b_J6lIuww</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfewtQrduiaBqXpjUoqnk12Cwib5IsqtY3icm0d5kV4ZRK4h4pdWUOBOwtzQUR5TowzpBqMIkDG4bqrUQ/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>1. Netty是什么
 2. Netty线程模型
 2.1 Reactor模式
 2.2 Reator模式的实现
@@ -78,15 +94,4 @@ volatile登场
 2. 通过ThreadPoolExecutor创建线程池
 3. ThreadPoolExecutor参数解释
 4. ThreadPoolExecutor创建线程方式
-。。。。]]></content:encoded><pubDate>Wed, 03 Mar 2021 23:23:47 +0800</pubDate></item><item><title>“网络协议，我明明学过的呀？”</title><link>https://mp.weixin.qq.com/s/ttapBmR7Ui7A_wBbjnMqlQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZferNcwJfzI1rCkYtRVIEI13aqwg6Tbic4d7CDib1jnrRP0RjLJ9MHrep7T8MeTVKAWOibd836ReDrH3g/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>十个人程序员里面，有十个都会说自己学过网络协议]]></content:encoded><pubDate>Wed, 03 Mar 2021 23:23:47 +0800</pubDate></item><item><title>搞定全局ID生成器：SpringBoot2.x 集成百度 uidgenerator</title><link>https://mp.weixin.qq.com/s/6AsY4-cLe0XfpkJ5nDlBYA</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZferNcwJfzI1rCkYtRVIEI13n043RbkViceSLNXSZxib0UW6rqwB2RR7KMpSHQZY9FWEibabFkocbBARw/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>部分升级说明
-创建数据库存
-mysql 配置信息更改
-案例
-创建 子项目 uid-provider
-复制 mapper
-cache id 配置文件
-创建 spring boot 启动入口
-创建配置
-控制器
-项目配置文件
-启动项目]]></content:encoded><pubDate>Wed, 03 Mar 2021 23:23:47 +0800</pubDate></item><item><title>在下一代微服务领域里，这个框架将成为王者！</title><link>https://mp.weixin.qq.com/s/o35jo_KVgan7WOVYjiRD_w</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeLIey1ChIqs9CcF6ictO9W6eyRhLReI2PbqNjdf6JQtCq1c8Hl0faIWjjzHvE758ZwdWZQDlOeL7Q/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>Dubbo依旧叱咤风云！]]></content:encoded><pubDate>Tue, 02 Mar 2021 23:22:36 +0800</pubDate></item><item><title>我要狠狠的反驳“公司禁止使用 Lombok ”的观点！</title><link>https://mp.weixin.qq.com/s/PzW4kYMpcZlwbcQaABo52A</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeLIey1ChIqs9CcF6ictO9W6Hag7lzMNsayCAuQOrRT2hOTlOVrxLUGuicmBISYoC6OTe0bzuSwIEKg/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>经常在其它各个地方在说公司禁止使用Lombok，我一直不明白为什么不让用，今天看到一篇文章列举了一下“缺点”，这里我只想狠狠地反驳，看到列举的理由我竟无言以对。]]></content:encoded><pubDate>Tue, 02 Mar 2021 23:22:36 +0800</pubDate></item></channel></rss>
+。。。。]]></content:encoded><pubDate>Wed, 03 Mar 2021 23:23:47 +0800</pubDate></item><item><title>“网络协议，我明明学过的呀？”</title><link>https://mp.weixin.qq.com/s/ttapBmR7Ui7A_wBbjnMqlQ</link><description></description><content:encoded><![CDATA[<img src="http://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZferNcwJfzI1rCkYtRVIEI13aqwg6Tbic4d7CDib1jnrRP0RjLJ9MHrep7T8MeTVKAWOibd836ReDrH3g/0?wx_fmt=jpeg" referrerpolicy="no-referrer"><br>十个人程序员里面，有十个都会说自己学过网络协议]]></content:encoded><pubDate>Wed, 03 Mar 2021 23:23:47 +0800</pubDate></item></channel></rss>
